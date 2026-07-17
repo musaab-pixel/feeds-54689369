@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>RSS Factory</title></head>
+  <body>
+    <outline type="rss" text="UN News — Middle East" title="UN News — Middle East" xmlUrl="https://example.github.io/feeds/feeds/un-news-me.xml" htmlUrl="https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml"/>
+    <outline type="rss" text="أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)" title="أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)" xmlUrl="https://example.github.io/feeds/feeds/gnews-pal-syria.xml" htmlUrl="&quot;اللاجئين الفلسطينيين&quot; AND سوريا"/>
+    <outline type="rss" text="مجموعة العمل من أجل فلسطينيي سوريا — RefugeesPS" title="مجموعة العمل من أجل فلسطينيي سوريا — RefugeesPS" xmlUrl="https://example.github.io/feeds/feeds/refugeesps.xml" htmlUrl="https://refugeesps.net/"/>
+    <outline type="rss" text="Action Group for Palestinians of Syria — ActionPal" title="Action Group for Palestinians of Syria — ActionPal" xmlUrl="https://example.github.io/feeds/feeds/actionpal.xml" htmlUrl="https://actionpal.org.uk/"/>
+    <outline type="rss" text="حلب اليوم — Halab Today TV (Telegram)" title="حلب اليوم — Halab Today TV (Telegram)" xmlUrl="https://example.github.io/feeds/feeds/tg-test.xml" htmlUrl="halabtodaytv"/>
+    <outline type="rss" text="قناة الجزيرة — Al Jazeera (YouTube)" title="قناة الجزيرة — Al Jazeera (YouTube)" xmlUrl="https://example.github.io/feeds/feeds/yt-aljazeera.xml" htmlUrl="https://www.youtube.com/@aljazeera"/>
+    <outline type="rss" text="Barak Ravid — باراك رافيد (X)" title="Barak Ravid — باراك رافيد (X)" xmlUrl="https://example.github.io/feeds/feeds/x-barakravid.xml" htmlUrl="https://x.com/BarakRavid"/>
+  </body>
+</opml>
