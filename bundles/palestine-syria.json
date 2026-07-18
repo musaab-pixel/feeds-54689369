@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "c732105d98b7abef1c2ff7a9ab34ec481908a7c9e5feebbd7cbe52cc14fbb7d3",
+            "content_html": "مفوض العون الإنساني بولاية شمال كردفان للجزيرة: 400 ألف نازح من 1.2 مليون في مدينة الأبيض يتلقون حصصا غذائية",
+            "url": "https://t.me/aljazeeraBrk/227124",
+            "title": "مفوض العون الإنساني بولاية شمال كردفان للجزيرة: 400 ألف نازح من 1.2 مليون في…",
+            "summary": "مفوض العون الإنساني بولاية شمال كردفان للجزيرة: 400 ألف نازح من 1.2 مليون في مدينة الأبيض يتلقون حصصا غذائية",
+            "date_modified": "2026-07-18T11:24:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "b5e2ae5491bc283ada3dd0535a46aeb09490cba5575272447541c2cc0cf36850",
+            "content_html": "ممثل برنامج الأغذية العالمي بالسودان: مدينة الأبيض تحولت إلى بؤرة للنزوح والجوع مع تفاقم الأوضاع الإنسانية",
+            "url": "https://t.me/aljazeeraBrk/227123",
+            "title": "ممثل برنامج الأغذية العالمي بالسودان: مدينة الأبيض تحولت إلى بؤرة للنزوح والجوع…",
+            "summary": "ممثل برنامج الأغذية العالمي بالسودان: مدينة الأبيض تحولت إلى بؤرة للنزوح والجوع مع تفاقم الأوضاع الإنسانية",
+            "date_modified": "2026-07-18T11:22:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "d5340528bc9fe3ad2fd9aa7af6bec898ddf0d8bc0351894495d1da8ac6a5826e",
+            "content_html": "الجيش اللبناني: استشهاد عسكري وإصابة ضابط وعسكري آخر في انفجار جسم مشبوه بآلية للجيش في بلدة المنصوري",
+            "url": "https://t.me/aljazeeraBrk/227122",
+            "title": "الجيش اللبناني: استشهاد عسكري وإصابة ضابط وعسكري آخر في انفجار جسم مشبوه بآلية…",
+            "summary": "الجيش اللبناني: استشهاد عسكري وإصابة ضابط وعسكري آخر في انفجار جسم مشبوه بآلية للجيش في بلدة المنصوري",
+            "date_modified": "2026-07-18T11:16:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "e47b699d8c2c23676c12b5c008a9dc0112ce428a15575424c9e200b41fad93ff",
             "content_html": "الجيش الكويتي: العدوان الإيراني استهدف منشآت في قطاعي النفط والكهرباء والماء ما أدى لاندلاع حرائق وأضرار جسيمة",
             "url": "https://t.me/aljazeeraBrk/227121",
@@ -1505,33 +1538,6 @@
             "summary": "With violence in south Lebanon significantly decreased since mid-June, UN peacekeepers there have returned to core functions such as protecting humanitarian aid and restoring critical infrastructure as families continue to return home.",
             "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026-UNIFIL-explosive-ordnance-01.jpg/image560x340cropped.jpg",
             "date_modified": "2026-07-16T12:00:00.000Z"
-        },
-        {
-            "id": "380e275ec9a18dde97c16cd16480338d85baef95f027c160b23966309fe95e49",
-            "content_html": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
-            "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-            "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
-            "summary": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-04-2026_UNNews_Gaza_Framing_01.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-07-16T12:00:00.000Z"
-        },
-        {
-            "id": "f762ff31ddcdaf8af9e636b40d454f69fade361d36328cd6a0e8305e4ea06575",
-            "content_html": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.&nbsp;",
-            "url": "https://news.un.org/feed/view/en/story/2026/07/1167949",
-            "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
-            "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.&nbsp;",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormus-02.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-07-15T12:00:00.000Z"
-        },
-        {
-            "id": "ab8ef062935bb85d32ac23670d1c81380e956cabb104295401311bb4eb54f868",
-            "content_html": "The UN maritime agency, IMO, condemned overnight attacks&nbsp;on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
-            "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
-            "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-            "summary": "The UN maritime agency, IMO, condemned overnight attacks&nbsp;on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_AdobeStock_Oman.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-07-14T12:00:00.000Z"
         }
     ]
 }
