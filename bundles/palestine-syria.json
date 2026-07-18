@@ -5,17 +5,47 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "c91beb7cd87bee071b9da595a61a6183fd05ec0e38eeef51bf794d6e7f938aeb",
+            "url": "https://refugeesps.net/post/36148/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%B7%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D9%88%D8%AA%D9%83%D8%B1-%D8%B3-%D8%A7%D9%84%D8%B6%D9%85-%D9%88%D8%B9%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86",
+            "title": "تقرير: طرق الاحتلال الاستيطانية تعيد تشكيل الضفة وتكرّس الضم وعزل الفلسطينيين",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
+            "date_modified": "2026-07-18T09:00:05.088Z"
+        },
+        {
+            "id": "eb6d5d9d73a75f7636700027176e5540536a84bf9753edacd1d8059bd2c49499",
+            "content_html": "الإطفاء العام بالكويت: إصابة عدد من عناصرنا أثناء إطفاء حريقين اندلعا بعد هجمات إيرانية",
+            "url": "https://t.me/aljazeeraBrk/227103",
+            "title": "الإطفاء العام بالكويت: إصابة عدد من عناصرنا أثناء إطفاء حريقين اندلعا بعد هجمات…",
+            "summary": "الإطفاء العام بالكويت: إصابة عدد من عناصرنا أثناء إطفاء حريقين اندلعا بعد هجمات إيرانية",
+            "date_modified": "2026-07-18T08:58:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "c41de3347588fd21b947f2a6efbfb5650ed9de5a5e0d5313fa21a4d576127327",
+            "content_html": "عاجل | مقتل شخص وإصابة اثنين آخرين بانفجار لغم بسيارة في بلدة بيانون بريف حلب الشمالي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/138451",
+            "title": "عاجل | مقتل شخص وإصابة اثنين آخرين بانفجار لغم بسيارة في بلدة بيانون بريف حلب…",
+            "summary": "عاجل | مقتل شخص وإصابة اثنين آخرين بانفجار لغم بسيارة في بلدة بيانون بريف حلب الشمالي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/gH53Bm0IQfBlgy5W0vSrWO_xTXSpEGsdoHW2etoNcnJMbHwQTaV7D_ZBAWMzakzGZuT2eNMMUpDQd4_a-D_asnvjS6msVQ9FUJqUoAIXP8Vq2aTxrMRc35f391IrgFtBzPh0rSghD7kqPe2T5vur5rGToF9XqoJ9cYY5geGHT53r6RMGwTtjzYpTKOfVcchtTMUKa2lMztkRGR4WFsjzYcVZvDzHyNgLw1N89qUSGZphs8r34YDrU7ljudJYqa8huezgLnKR-i5enU_A_nsqF-1-5L7DSW5cOMpiHnMqxYWHa7yyri5sZCHBU01Sah7L1XCouEjobeETk2dDqFuirA.jpg",
+            "date_modified": "2026-07-18T08:38:53.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "cb0a5bb3c04c3ace46e847f936ad9a349e84191d9297e0c6b68e23ce3bf295e6",
             "url": "https://refugeesps.net/post/36147/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D8%B9%D8%B4%D8%B1%D8%A9-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%AA%D9%86%D8%B5%D8%A8-%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84",
             "title": "قوات الاحتلال تعتقل عشرة مواطنين وتنصب حواجز عسكرية في الخليل",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
             "date_modified": "2026-07-18T08:29:58.677Z"
         },
         {
             "id": "28cca5a006629d0bc5e9eb452a765f96e1413df1252d59702fd77e45bc9fe302",
             "url": "https://refugeesps.net/post/36146/%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A8%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AD%D9%8A-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
             "title": "ثلاثة شهداء بقصف الاحتلال حي الزيتون واستمرار الإبادة الجماعية في غزة",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
             "date_modified": "2026-07-18T08:29:58.677Z"
         },
         {
@@ -44,14 +74,14 @@
             "id": "ab130bbcefd6b29bc764fb8b978212cdb8d98530deae5f1d3371bb7789f5155f",
             "url": "https://refugeesps.net/post/36145/%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86-%D8%AA%D8%B7%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D9%85%D9%85%D8%AA%D9%84%D9%83%D8%A7%D8%AA%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",
             "title": "اعتداءات واسعة لقوات الاحتلال والمستوطنين تطال الفلسطينيين وممتلكاتهم في الضفة الغربية",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
             "date_modified": "2026-07-18T07:59:52.864Z"
         },
         {
             "id": "ecce47fcbaf36fe930730d8655aa4c24d9e9b700a696c810d09b8eb26ba1e0ad",
             "url": "https://refugeesps.net/post/36143/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%AA%D9%89-%D9%81%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%86%D8%B9%D8%B3%D8%A7%D9%86-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1-%D8%A7-%D8%A8%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D9%87-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%B1",
             "title": "استشهاد الفتى فادي النعسان متأثرًا بإصابته برصاص قوات الاحتلال في المغير",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/408x250/uploads/images/2026/07/QPQ09.jpeg",
             "date_modified": "2026-07-18T07:59:52.864Z"
         },
         {
@@ -819,7 +849,7 @@
             "id": "faec5ac6438dbf80d868e7b053077d946edb3fcf63458d945d75a5b2235839b2",
             "url": "https://refugeesps.net/post/36141/8-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%8820-%D9%85%D8%B5%D8%A7%D8%A8-%D8%A7-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%A8%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%86%D8%B5%D9%8A%D8%B1%D8%A7%D8%AA",
             "title": "8 شهداء و20 مصابًا في قصف استهدف موكب تشييع بمخيم النصيرات",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
             "date_modified": "2026-07-17T16:45:03.630Z"
         },
         {
@@ -833,7 +863,7 @@
             "id": "ed084b76d77d6b5f97988ca54fba5ee3cd19d3a183b66af7dcf36f3ef342e032",
             "url": "https://refugeesps.net/post/36135/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A7-%D8%A3%D8%AE%D9%8A%D8%B1%D8%A7-%D8%A8%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%85%D9%86-%D8%AA%D9%85%D9%84%D9%83-%D9%84%D9%88%D8%AD%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9",
             "title": "اتحاد عمال فلسطين يناقش قراراً لبنانياً أخيراً بمنع الفلسطيني من تملك لوحة سيارة عمومية",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
             "date_modified": "2026-07-17T16:45:03.630Z"
         },
         {
@@ -854,7 +884,7 @@
             "id": "540ade98b66a71f45b9909786c3507d9022e2e82bc709cd23ff4fe19eae348c1",
             "url": "https://refugeesps.net/post/36131/%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85-%D8%A8%D8%B1%D8%AC-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%AC%D9%86%D8%A9-%D9%8A%D8%AD%D8%B1%D9%85-%D8%AD%D9%8A-%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%84%D8%A3%D9%8A%D8%A7%D9%85",
             "title": "حريق في مخيم برج البراجنة يحرم حيّين من الكهرباء لأيام",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/01/NVLIf.jpeg",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/1xemU.gif",
             "date_modified": "2026-07-17T16:45:03.630Z"
         },
         {
@@ -1383,35 +1413,6 @@
             "author": {
                 "name": "Almutasim khalaf"
             }
-        },
-        {
-            "id": "0f3506054eb1548ba6124e478773ce4d03999d61542f797b620528156e1c2213",
-            "content_html": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
-            "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
-            "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-            "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-04-2026-Unsplash-Hormuz.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-06-26T12:00:00.000Z"
-        },
-        {
-            "id": "c0524bc01e65b4012f8f5e031b70edff2f3e79387076ae4de2a355e8257336fb",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQUpyaU4tMENuTEhMVkk1UWdXT1UtdjYyc3U5SEpwVG92N3pUNldCSUIzVkNqTkNHWnNLRlZWTkM5bVdLY1V1dFdnMnRMZ1I1di1VSjlaSDI3UVhPazhHMWV4Q2kyQkxvU21qVy04WS1jWDZnQjJUMW04aXhBWlpJaU9zZG8wTGtBb2RUbWZWYXN0WmZzdDlHc0Z2UEVUOWtMZC11SHBsV1FQVFB4Qm90TlVHcXcxU0J5VWtsdU1GZEppdU1lTnNvcEdOMmRsSjVLZVZVYkJiQUt0SWhPV3ZDV1ZzZmh2cmJxenNmbnMyQ3psbFh4YnNTWTdGVFN2RUp4cG13b2FkMGk4aVlTU3hXVThoR0RDeDRkNFVyVDdVd1h0bWRFVC01X21wUlBmVTJNMVB3N25TVThadklRSldIZ0ZvQlhQVmJ6SURmd0xLVmZmcGRadlkxaNIB3gJBVV95cUxOT3Z4NlAtZWlDM2R2SVR2VElSNnZjd0taMWxoQkptemtTQktnbHVxa210N29id0FaWlB6YVNLUHBqdHlheUJMdVhtaFFUeGlPaEo2SU4tYlNmODdNZHlkWUN2b3o1Ry1LQ25PeGJWVFpvSG1xdnZTczJWa1o3c3Rsay11YkJUdTd2aVo3VHhlN2x6azBvZGlVdjlGUWZicU40d0tkNkR3ZVNhek9uWGNjYzlvdjExcDF2OG5MM3doVmRVS3VYLXl3QXQzdHF6MkZiaWNMWnptR19YTW1FaV9UaEZIcDRybE1xN3RYRU1KUEdZYWdrMVFydDdTS0pQc0lUb2lSYWRjSEs4bXhtRFFLZ2JfU1RZSUZ0WkZMN2I2enUyaXhWMXhPNlZOa3ZyMjUyMWlfU3FwMDNzMHZTNlNLZ1hPSVRPdEVTLWRRNThXSEw2WFJFNXMxelQ5WjRvdw?oc=5\" target=\"_blank\">سورية وفلسطين أسئلة مطروحة وأخرى تنتظر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
-            "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQUpyaU4tMENuTEhMVkk1UWdXT1UtdjYyc3U5SEpwVG92N3pUNldCSUIzVkNqTkNHWnNLRlZWTkM5bVdLY1V1dFdnMnRMZ1I1di1VSjlaSDI3UVhPazhHMWV4Q2kyQkxvU21qVy04WS1jWDZnQjJUMW04aXhBWlpJaU9zZG8wTGtBb2RUbWZWYXN0WmZzdDlHc0Z2UEVUOWtMZC11SHBsV1FQVFB4Qm90TlVHcXcxU0J5VWtsdU1GZEppdU1lTnNvcEdOMmRsSjVLZVZVYkJiQUt0SWhPV3ZDV1ZzZmh2cmJxenNmbnMyQ3psbFh4YnNTWTdGVFN2RUp4cG13b2FkMGk4aVlTU3hXVThoR0RDeDRkNFVyVDdVd1h0bWRFVC01X21wUlBmVTJNMVB3N25TVThadklRSldIZ0ZvQlhQVmJ6SURmd0xLVmZmcGRadlkxaNIB3gJBVV95cUxOT3Z4NlAtZWlDM2R2SVR2VElSNnZjd0taMWxoQkptemtTQktnbHVxa210N29id0FaWlB6YVNLUHBqdHlheUJMdVhtaFFUeGlPaEo2SU4tYlNmODdNZHlkWUN2b3o1Ry1LQ25PeGJWVFpvSG1xdnZTczJWa1o3c3Rsay11YkJUdTd2aVo3VHhlN2x6azBvZGlVdjlGUWZicU40d0tkNkR3ZVNhek9uWGNjYzlvdjExcDF2OG5MM3doVmRVS3VYLXl3QXQzdHF6MkZiaWNMWnptR19YTW1FaV9UaEZIcDRybE1xN3RYRU1KUEdZYWdrMVFydDdTS0pQc0lUb2lSYWRjSEs4bXhtRFFLZ2JfU1RZSUZ0WkZMN2I2enUyaXhWMXhPNlZOa3ZyMjUyMWlfU3FwMDNzMHZTNlNLZ1hPSVRPdEVTLWRRNThXSEw2WFJFNXMxelQ5WjRvdw?oc=5",
-            "title": "سورية وفلسطين أسئلة مطروحة وأخرى تنتظر - العربي الجديد",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQUpyaU4tMENuTEhMVkk1UWdXT1UtdjYyc3U5SEpwVG92N3pUNldCSUIzVkNqTkNHWnNLRlZWTkM5bVdLY1V1dFdnMnRMZ1I1di1VSjlaSDI3UVhPazhHMWV4Q2kyQkxvU21qVy04WS1jWDZnQjJUMW04aXhBWlpJaU9zZG8wTGtBb2RUbWZWYXN0WmZzdDlHc0Z2UEVUOWtMZC11SHBsV1FQVFB4Qm90TlVHcXcxU0J5VWtsdU1GZEppdU1lTnNvcEdOMmRsSjVLZVZVYkJiQUt0SWhPV3ZDV1ZzZmh2cmJxenNmbnMyQ3psbFh4YnNTWTdGVFN2RUp4cG13b2FkMGk4aVlTU3hXVThoR0RDeDRkNFVyVDdVd1h0bWRFVC01X21wUlBmVTJNMVB3N25TVThadklRSldIZ0ZvQlhQVmJ6SURmd0xLVmZmcGRadlkxaNIB3gJBVV95cUxOT3Z4NlAtZWlDM2R2SVR2VElSNnZjd0taMWxoQkptemtTQktnbHVxa210N29id0FaWlB6YVNLUHBqdHlheUJMdVhtaFFUeGlPaEo2SU4tYlNmODdNZHlkWUN2b3o1Ry1LQ25PeGJWVFpvSG1xdnZTczJWa1o3c3Rsay11YkJUdTd2aVo3VHhlN2x6azBvZGlVdjlGUWZicU40d0tkNkR3ZVNhek9uWGNjYzlvdjExcDF2OG5MM3doVmRVS3VYLXl3QXQzdHF6MkZiaWNMWnptR19YTW1FaV9UaEZIcDRybE1xN3RYRU1KUEdZYWdrMVFydDdTS0pQc0lUb2lSYWRjSEs4bXhtRFFLZ2JfU1RZSUZ0WkZMN2I2enUyaXhWMXhPNlZOa3ZyMjUyMWlfU3FwMDNzMHZTNlNLZ1hPSVRPdEVTLWRRNThXSEw2WFJFNXMxelQ5WjRvdw?oc=5\" target=\"_blank\">سورية وفلسطين أسئلة مطروحة وأخرى تنتظر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
-            "date_modified": "2026-06-26T07:00:00.000Z",
-            "author": {
-                "name": "العربي الجديد"
-            }
-        },
-        {
-            "id": "49e28713d600ca11e90f001e58e0b533883dd9c2f7ab6a4bf9acf665b0b0eb51",
-            "content_html": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
-            "url": "https://news.un.org/feed/view/en/story/2026/06/1167813",
-            "title": "Security Council extends critical stabilisation force in Syria",
-            "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2013/03/16624/image560x340cropped.jpg",
-            "date_modified": "2026-06-25T12:00:00.000Z"
         }
     ]
 }
