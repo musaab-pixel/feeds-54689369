@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>t.me</title>
+        <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
-        <description>RSS Factory feed "t.me" (type: telegram)</description>
-        <lastBuildDate>Sat, 18 Jul 2026 05:58:12 GMT</lastBuildDate>
+        <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
+        <lastBuildDate>Sat, 18 Jul 2026 06:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[تسنيم عن وزارة التعليم: إلغاء الامتحانات النهائية الأحد والاثنين بهرمزغان…]]></title>
+            <link>https://t.me/aljazeeraBrk/227091</link>
+            <guid isPermaLink="false">4798f8ebb967fba3f1c0e86b147f2967191f1ecda479e95ba85fdcde99414eb5</guid>
+            <pubDate>Sat, 18 Jul 2026 06:04:02 GMT</pubDate>
+            <description><![CDATA[تسنيم عن وزارة التعليم: إلغاء الامتحانات النهائية الأحد والاثنين بهرمزغان وبوشهر وخوزستان وسيستان وبلوشستان]]></description>
+            <content:encoded><![CDATA[تسنيم عن وزارة التعليم: إلغاء الامتحانات النهائية الأحد والاثنين بهرمزغان وبوشهر وخوزستان وسيستان وبلوشستان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[محافظة هرمزغان الإيرانية: إلحاق الضرر بنفق و3 جسور في المحافظة خلال الهجمات…]]></title>
+            <link>https://t.me/aljazeeraBrk/227090</link>
+            <guid isPermaLink="false">d2307f10e52931eba5d4026930885e5b28e31b7ac0f50499b8c2ab0b68f72167</guid>
+            <pubDate>Sat, 18 Jul 2026 06:03:02 GMT</pubDate>
+            <description><![CDATA[محافظة هرمزغان الإيرانية: إلحاق الضرر بنفق و3 جسور في المحافظة خلال الهجمات الأمريكية ليلة أمس]]></description>
+            <content:encoded><![CDATA[محافظة هرمزغان الإيرانية: إلحاق الضرر بنفق و3 جسور في المحافظة خلال الهجمات الأمريكية ليلة أمس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الكويتي: نتصدى حاليا لهجمات صاروخية ومسيرات معادية إيرانية]]></title>
             <link>https://t.me/aljazeeraBrk/227089</link>
@@ -168,24 +186,6 @@
             <pubDate>Sat, 18 Jul 2026 02:05:02 GMT</pubDate>
             <description><![CDATA[الجيش الكويتي: دفاعاتنا الجوية تتصدى لهجمات صاروخية وطائرات مسيرة إيرانية معادية]]></description>
             <content:encoded><![CDATA[الجيش الكويتي: دفاعاتنا الجوية تتصدى لهجمات صاروخية وطائرات مسيرة إيرانية معادية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: صفارات الإنذار تدوي في الكويت بالتزامن مع اعتراض الجيش طائرات…]]></title>
-            <link>https://t.me/aljazeeraBrk/227071</link>
-            <guid isPermaLink="false">36f6be2ff4f46eb14ad6d511a2e4ff88a71bd7e3b04da7f48c914c3e25991c84</guid>
-            <pubDate>Sat, 18 Jul 2026 01:59:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: صفارات الإنذار تدوي في الكويت بالتزامن مع اعتراض الجيش طائرات مسيرة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: صفارات الإنذار تدوي في الكويت بالتزامن مع اعتراض الجيش طائرات مسيرة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة الأنباء الإيرانية: دوي انفجارات في مدينة خرم آباد بمحافظة لرستان غربي…]]></title>
-            <link>https://t.me/aljazeeraBrk/227070</link>
-            <guid isPermaLink="false">31a52152324571db463b2a45a8a312e7ac75d7ba2ccffdd95f70083a24edffa0</guid>
-            <pubDate>Sat, 18 Jul 2026 01:50:02 GMT</pubDate>
-            <description><![CDATA[وكالة الأنباء الإيرانية: دوي انفجارات في مدينة خرم آباد بمحافظة لرستان غربي البلاد]]></description>
-            <content:encoded><![CDATA[وكالة الأنباء الإيرانية: دوي انفجارات في مدينة خرم آباد بمحافظة لرستان غربي البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
