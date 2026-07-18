@@ -1,0 +1,861 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Muftah — Palestine/Syria monitor",
+    "home_page_url": "https://miftah.media/",
+    "description": "RSS Factory feed \"Muftah — Palestine/Syria monitor\" (type: bundle)",
+    "items": [
+        {
+            "id": "130f3a61ee8ce4fcb39a236faa1513396061458b1bbacfbd1e022b498601ee22",
+            "url": "https://actionpal.org.uk/wp-content/uploads/2026/03/The_reality_of_asylum.pdf#new_tab",
+            "title": "اللجوء المركب",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/03/%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8.jpeg",
+            "date_modified": "2026-07-18T05:14:56.582Z"
+        },
+        {
+            "id": "56988e7812f81a7df52c01a34977c65095e0648f4fc7aa870e14fcee32f3efb8",
+            "url": "https://actionpal.org.uk/post/999124529",
+            "title": "افتتاح مسجد القدس في مخيم اليرموك وإقامة أول صلاة جمعة",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/IMG_5076.jpeg",
+            "date_modified": "2026-07-18T04:51:34.804Z"
+        },
+        {
+            "id": "2b488928d901a72947cb4ac1388cc5c36d9f354f62146068ff52c4a29dbdae3f",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHN5OGpicTdQS0ZKNHJ6RjJZLXh1NUFZNUNJNV81WWJfaVJsZVpPNG5fNmc2MHQ1cnRxaFBTblZNSWNCbldsTnF4dS1LQXUtbUNBeFFaMTkyWEJ3dDBmNlpuaHJFbXEzVGdyeFlacVdxblhIYmJudFJVa0NqdHUtQkl4NE5fM3Y4UXJwa3JnMWxWMlREZHFwZ0lseVdCRVVwcW5MTkdnS2FFNVo4MUZEV0RTR3RrRUpoWkNNTWJZeUpxdw?oc=5\" target=\"_blank\">سوريا تتحرك نحو اليابان بحثاً عن شركاء لإعادة الإعمار وتأهيل البنية التحتية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHN5OGpicTdQS0ZKNHJ6RjJZLXh1NUFZNUNJNV81WWJfaVJsZVpPNG5fNmc2MHQ1cnRxaFBTblZNSWNCbldsTnF4dS1LQXUtbUNBeFFaMTkyWEJ3dDBmNlpuaHJFbXEzVGdyeFlacVdxblhIYmJudFJVa0NqdHUtQkl4NE5fM3Y4UXJwa3JnMWxWMlREZHFwZ0lseVdCRVVwcW5MTkdnS2FFNVo4MUZEV0RTR3RrRUpoWkNNTWJZeUpxdw?oc=5",
+            "title": "سوريا تتحرك نحو اليابان بحثاً عن شركاء لإعادة الإعمار وتأهيل البنية التحتية - Euronews.com",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHN5OGpicTdQS0ZKNHJ6RjJZLXh1NUFZNUNJNV81WWJfaVJsZVpPNG5fNmc2MHQ1cnRxaFBTblZNSWNCbldsTnF4dS1LQXUtbUNBeFFaMTkyWEJ3dDBmNlpuaHJFbXEzVGdyeFlacVdxblhIYmJudFJVa0NqdHUtQkl4NE5fM3Y4UXJwa3JnMWxWMlREZHFwZ0lseVdCRVVwcW5MTkdnS2FFNVo4MUZEV0RTR3RrRUpoWkNNTWJZeUpxdw?oc=5\" target=\"_blank\">سوريا تتحرك نحو اليابان بحثاً عن شركاء لإعادة الإعمار وتأهيل البنية التحتية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+            "date_modified": "2026-07-17T17:00:34.000Z",
+            "author": {
+                "name": "Euronews.com"
+            }
+        },
+        {
+            "id": "50b871117039622c1d850b6841e4c7b17ca67c68972a567d5d5e82b8d5944cbf",
+            "url": "https://actionpal.org.uk/post/999124437",
+            "title": "مفوض الأونروا: الوكالة لن تبقى إلى الأبد",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/IMG-20260717-WA0017.jpg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "3c2b9edd7c26675fd988f30868ffd48dba27a4feba9ef0962666cb22b527224c",
+            "url": "https://actionpal.org.uk/post/999124390",
+            "title": "ناشط فلسطيني سوري يرفع دعوى قضائية ضد مسؤولين في إدارة ترامب",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%85%D8%AD%D9%85%D9%88%D8%AF%D8%AF%D8%AF.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "a722a7134f982e0869b4a0995d79f402008468d2e8ce2a640ae263541bc601e0",
+            "url": "https://actionpal.org.uk/post/999124384",
+            "title": "عطل كهربائي يوقف إمدادات المياه عن مخيم النيرب",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/675531a6-b236-4d9f-9219-2f24858845c5.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "de6571cfdb2c6e2f17378fb83b63a4879032ec6e9d88cbae45e25593cede9f9d",
+            "url": "https://actionpal.org.uk/post/999124380",
+            "title": "مخيم اليرموك: إعادة افتتاح فرن في شارع فلسطين",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/63a47b45-8da2-49c0-a459-78514fa1f542.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "f6ca31ec38374984fb80048939a0d5434b70bc62d9a523f4a3a936d9844f480d",
+            "url": "https://actionpal.org.uk/post/999124376",
+            "title": "ورقة وطنية تمهد لإقرار قانون ينظم شؤون المفقودين والمختفين قسراً",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%84%D9%88%D8%BA%D9%88%D9%88%D9%88%D9%88.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "65fa82ece53f402142b969939847d4b82d8b881bcddef82db6b501dafb42851f",
+            "url": "https://actionpal.org.uk/post/999124368",
+            "title": "نداء للبحث عن طفلة مفقودة من مخيم اليرموك",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D9%88%D9%82%D8%B9.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "94282be8deffbd7b1be4503fadd1a7683d9cefe27c51317cbe6c6aa0de9f2f32",
+            "url": "https://actionpal.org.uk/post/999124365",
+            "title": "مختار مخيم النيرب يحذّر من &#8220;الصفحات الوهمية&#8221;",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%A8.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "70bb0a69e1dc073962e8fd84ee150910e328a371e8aea93a3ed9bd4e4f2da221",
+            "url": "https://actionpal.org.uk/post/999124362",
+            "title": "حين يغادر المخيم أبناءه هل ينجو الفلسطيني من المنفى أم يفقد آخر خرائطه؟",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%86.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "35c0ed1a1a2f375d279840c89c43954caa11e092eb9c1055d9fabcfd94db50ed",
+            "url": "https://actionpal.org.uk/post/999124355",
+            "title": "دعوات لتعزيز الوقايةمن المخدرات في مخيم السيدة زينب",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/IMG-20260715-WA0053.jpg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "074124ccd48ce9d1dbadc4a731889398b2c194d3e48c2ce86428a23f9f183f0d",
+            "url": "https://actionpal.org.uk/post/999124327",
+            "title": "بسبب التضامن مع غزة.. فلسطينيون في ألمانيا بين سحب الإقامة وشبح الترحيل",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%B9%D9%84%D9%85.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "5dcae90727df35596fee6fa460fc75f5121588fc7d9cb6b1f39a3c675b49b2e9",
+            "url": "https://actionpal.org.uk/post/999124325",
+            "title": "إطلاق مشاريع لدعم سبل العيش للاجئي فلسطين في سوريا",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%84.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "a28ea2ef83fb4fa556dffad2ca016e7bc84d4af93712e6fe2db32e65d6a1ddbf",
+            "url": "https://actionpal.org.uk/post/999124321",
+            "title": "جلسة حوارية في مخيم النيرب تسلط الضوء على حقوق المرأة في القانون السوري",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%AD%D9%88.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "a56a4cce3056eacd83e5b1033c43ab7e021288d002ae434a1430dd52f9bfc91a",
+            "url": "https://actionpal.org.uk/post/999124318",
+            "title": "مخيم سبينة: لقاء مع المقررة الأممية المعنية بحقوق النازحين داخلياً",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%B3%D8%A8%D9%8A.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "7ed07c2c74ffec9001bea0cf7034396b7cc00a4cb957fd0b21a20f536ccb2f09",
+            "url": "https://actionpal.org.uk/post/999124242",
+            "title": "اللاجئون الفلسطينيون في سوريا والأونروا.. أسئلة مطروحة وأخرى تنتظر",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%B6%D8%A7%D9%87%D8%B1-%D9%84%D9%84%D9%85%D9%88%D9%82%D8%B9.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "2cd3373face0bd039c7e46085273954a07dbabafd046b59380272a79e5022e2e",
+            "url": "https://actionpal.org.uk/post/999124222",
+            "title": "حين يصبح الحب لاجئاً كيف غيّرت الحرب معنى الزواج عند الفلسطيني السوري؟",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%86%D8%B6%D8%A7%D9%84-%D9%84%D9%84%D9%85%D9%88%D9%82%D8%B9.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "e8c6f0a732d3c8f09e05d103e4d7d55fb18114d9efaf4d8a124f330006f12b71",
+            "url": "https://actionpal.org.uk/post/999124169",
+            "title": "هاجس اللاجئين الفلسطينيين في سوريا الجديدة",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D9%86%D8%A8%D9%8A%D9%84-%D9%84%D9%84%D9%85%D9%88%D9%82%D8%B9.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "b92679862221c30b92357d4ecbe9e1777294a46f80b4149abae884406fd739fd",
+            "url": "https://actionpal.org.uk/post/999124075",
+            "title": "بين الحدود المغلقة والهوية المعلّقة",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%A8%D8%A7%D8%B3%D9%85-%D9%84%D9%84%D9%85%D9%88%D9%82%D8%B9.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "95ef07b7cf1132cc73b4773a0e5ec7169e17cf13ffc73c9ff6ff976f21b0f6c3",
+            "url": "https://actionpal.org.uk/post/999124281",
+            "title": "من درعا إلى النيرب.. رحلة البحث عن لقمة العيش",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/%D8%B1%D8%AD%D9%84%D8%A9.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "55e686ff6e99b692b56a4f15cabb96daf0d3e943d0fe14628721602b200a6b9a",
+            "url": "https://actionpal.org.uk/post/999122976",
+            "title": "مجموعة العمل: في يوم اللاجئ العالمي.. فلسطينيو سورية بين سندان التهميش ومطرقة الشتات",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/06/IMG-20260620-WA0028.jpg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "46295dec0a361007c3a0c6c9e001611ace3e4a31dae963a5fb08267c74902a98",
+            "url": "https://actionpal.org.uk/post/999119599",
+            "title": "مجموعة العمل ترحب بإعلان الأونروا توسيع خدماتها في مخيم اليرموك وتدعو إلى دعم شامل للمخيمات الفلسطينية",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/IMG-20260521-WA0037.jpg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "8c3b6af3bf86dddac0ef2359bf75da763b70c62dbe44142b096fc6808fc15880",
+            "url": "https://actionpal.org.uk/post/999119340",
+            "title": "بيان صحفي: مجموعة العمل: نكبة فلسطين. جرحٌ مفتوح وتغريبة متجددة لفلسطينيي سورية",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "588ea041a75fb346f7e9ff1bc2ea902daacd6e1b2ba106d5a39095aedddaaea7",
+            "url": "https://actionpal.org.uk/post/999117446",
+            "title": "مجموعة العمل تحذر من تصاعد الخطابات التحريضية ضد فلسطينيي سورية وتدعو للمساءلة",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/2e42cecb-d46c-45bc-b67f-06260b5b4d4f.jpg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "4fe4e0191a06a6b1ad826dd268ebd38df203caa741f5cc4ab156e695426d9a4c",
+            "url": "https://actionpal.org.uk/post/999117186",
+            "title": "بيان صحفي.. بمناسبة اليوم العالمي لحرية الصحافة",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-03-at-3.01.25-PM.jpeg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "7c157b92923bccc3089aeac8b00de72c59f06eaf01e2cb37cc2988d8f740c898",
+            "url": "https://actionpal.org.uk/post/999116061",
+            "title": "مجموعة العمل ترحب باعتقال أحد أبرز منفذي مجزرة التضامن",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/04/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "2492994d8e309eae1ad869fa241bcf932ad16a4a7c9e089398dc345dcdc010f0",
+            "url": "https://actionpal.org.uk/post/999114146",
+            "title": "بيان صحفي.. مجموعة العمل ترحب بالدعم الإيطالي للتعليم في مخيم اليرموك وتدعو لتوسيعه",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/04/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "2a16c28d0280f37205120bb9a07e114705ac7d4fe1c5d93b4a27a0cb1a906ab7",
+            "url": "https://actionpal.org.uk/post/999112703",
+            "title": "بيان صحفي: الحق في معرفة الحقيقة: حماية كرامة الفلسطينيين في سورية وضمان العدالة للضحايا",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/04/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "9cafe03fcca626e41518f6e1ffcb4170fd0bb7b50d91772905ee830ec0909d4b",
+            "url": "https://actionpal.org.uk/wp-content/uploads/2026/07/pal-family.pdf#new_tab",
+            "title": "التحولات البنيوية والاجتماعية للأسرة الفلسطينية خلال الحرب السورية",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/121.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "dce750e5fac5a65f2c1075a4157b517cdb4a462beee4a61caae43b47f8f0f96a",
+            "url": "https://actionpal.org.uk/wp-content/uploads/2026/05/pal-law.pdf#new_tab",
+            "title": "الفلسطينيون في سورية الحقوق والقانون في مواجهة المتغيرات",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/Screenshot-2026-05-05-001223.png",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "fcfc016cab8346e033a5d248d731af32212fe8bb59f9375afdb9744c751cf1e2",
+            "url": "https://actionpal.org.uk/wp-content/uploads/pdf/special/one-blod.pdf#new_tab",
+            "title": "دم واحد &#8230;. حلمان",
+            "image": "https://actionpal.org.uk/wp-content/uploads/pdf-/ma/one-blod.jpg",
+            "date_modified": "2026-07-17T16:45:05.655Z"
+        },
+        {
+            "id": "faec5ac6438dbf80d868e7b053077d946edb3fcf63458d945d75a5b2235839b2",
+            "url": "https://refugeesps.net/post/36141/8-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%8820-%D9%85%D8%B5%D8%A7%D8%A8-%D8%A7-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%A8%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%86%D8%B5%D9%8A%D8%B1%D8%A7%D8%AA",
+            "title": "8 شهداء و20 مصابًا في قصف استهدف موكب تشييع بمخيم النصيرات",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/MAhDn.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "416eeed9678869e771c224906bb7b034fec8027f2fb6beed93a30b56681651d6",
+            "url": "https://refugeesps.net/post/36136/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A-%D8%B3%D9%86%D8%B1%D8%AD-%D9%84-%D8%A3%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-%D9%88%D9%84%D9%86-%D9%86%D8%B9%D8%AA%D8%B1%D9%81-%D8%A8%D9%80-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+            "title": "رئيس الوزراء الماليزي: سنرحّل أي \"إسرائيلي\" يدخل البلاد ولن نعترف بـ\"إسرائيل\"",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/MAhDn.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "ed084b76d77d6b5f97988ca54fba5ee3cd19d3a183b66af7dcf36f3ef342e032",
+            "url": "https://refugeesps.net/post/36135/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%B9%D9%85%D8%A7%D9%84-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%8A%D9%86%D8%A7%D9%82%D8%B4-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A7-%D8%A3%D8%AE%D9%8A%D8%B1%D8%A7-%D8%A8%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%85%D9%86-%D8%AA%D9%85%D9%84%D9%83-%D9%84%D9%88%D8%AD%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9",
+            "title": "اتحاد عمال فلسطين يناقش قراراً لبنانياً أخيراً بمنع الفلسطيني من تملك لوحة سيارة عمومية",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/MAhDn.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "77315379028bc2816b60d1a37f3af90c04e0addca0188e88ecd6ea8c077a7262",
+            "url": "https://refugeesps.net/post/36133/%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B4%D8%B1%D9%82%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%BA%D8%B2%D8%A9-%D8%AC%D8%B1%D8%A7%D8%A1-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
+            "title": "شهداء وجرحى وإخلاء مناطق شرقي قطاع غزة جراء هجمات متواصلة لقوات الاحتلال",
+            "image": "https://refugeesps.net/thumb/265x160/uploads/images/2026/07/U9Alp.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "8468c9a347ac0fb82fd26aa46e4abcdc79a06d2cc839b73deea20153b25c753c",
+            "url": "https://refugeesps.net/post/36132/%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9",
+            "title": "تصاعد اعتداءات قوات الاحتلال والمستوطنين في الضفة الغربية والقدس المحتلة",
+            "image": "https://refugeesps.net/thumb/265x160/uploads/images/2026/07/U9Alp.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "540ade98b66a71f45b9909786c3507d9022e2e82bc709cd23ff4fe19eae348c1",
+            "url": "https://refugeesps.net/post/36131/%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85-%D8%A8%D8%B1%D8%AC-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%AC%D9%86%D8%A9-%D9%8A%D8%AD%D8%B1%D9%85-%D8%AD%D9%8A-%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%84%D8%A3%D9%8A%D8%A7%D9%85",
+            "title": "حريق في مخيم برج البراجنة يحرم حيّين من الكهرباء لأيام",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/MAhDn.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "168af079a749ca2f2b7439104e86cee1dc8d95747733e5b4b91fd33ad38d298f",
+            "url": "https://refugeesps.net/post/36130/%D8%AC%D9%84%D8%B3%D8%A9-%D8%AA%D9%88%D8%B9%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D8%A8%D8%AD%D9%85%D8%B5-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D9%88%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D9%85%D8%A8%D9%83%D8%B1",
+            "title": "جلسة توعوية في مخيم العائدين بحمص لتعزيز الوقاية من السرطان وأهمية الكشف المبكر",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/MAhDn.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "8e608e9187e62806bfebe88c6c7c3f65ddc02fd059de06b775bc6b21757e0e6d",
+            "url": "https://refugeesps.net/post/36129/%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%8A%D8%A8%D8%B7%D9%84-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D9%85%D8%A4%D8%AA%D9%85%D8%B1-%D8%B9%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D9%81%D9%8A-%D9%83%D9%88%D9%84%D9%8A%D8%AC-%D8%AF%D9%88-%D9%81%D8%B1%D8%A7%D9%86%D8%B3",
+            "title": "القضاء الفرنسي يبطل قرار إلغاء مؤتمر عن فلسطين في \"كوليج دو فرانس\"",
+            "image": "https://refugeesps.net/thumb/265x160/uploads/images/2026/07/U9Alp.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "8a6641dda8dd71420318aa94d7d75c2cd4dac1d8485fb720bfa952c97b3f0eeb",
+            "url": "https://refugeesps.net/post/36128/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%80-%D8%A3%D9%88%D9%86%D8%B1%D9%88%D8%A7-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84-%D9%85%D8%BA%D9%84%D9%82%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%A3%D9%85%D9%88%D9%85%D8%A9-%D9%88%D8%BA%D8%B6%D8%A8-%D9%84%D8%B9%D8%AF%D9%85-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%A8%D8%AF%D9%8A%D9%84",
+            "title": "عيادة الأسنان التابعة لـ \"أونروا\" في مخيم الجليل مغلقة بسبب إجازة أمومة وغضب لعدم توفير بديل",
+            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/07/MAhDn.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "ef83a666bad3930ec1625cf9a785346c5eaffbabbc383aff96d7f87b414fe071",
+            "url": "https://refugeesps.net/post/36126/%D8%A3%D9%88%D9%86%D8%B1%D9%88%D8%A7-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%88%D8%B3%D8%B7-%D8%B8%D8%B1%D9%88%D9%81-%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9-%D8%B5%D8%B9%D8%A8%D8%A9",
+            "title": "\"أونروا\" تفتح باب تسجيل طلبة الصف الأول في غزة وسط ظروف إنسانية صعبة",
+            "image": "https://refugeesps.net/thumb/265x160/uploads/images/2026/07/U9Alp.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "b0c3930b6c6f9fc8ef3c157e4080b76d08ce37abdaefecabec65d2a89051b2b4",
+            "url": "https://refugeesps.net/post/36124/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D8%A9-%D8%B9%D9%8A%D8%A8%D8%A7%D9%84-%D8%B4%D9%85%D8%A7%D9%84-%D9%86%D8%A7%D8%A8%D9%84%D8%B3-%D8%AA%D9%85%D9%87%D9%8A%D8%AF-%D8%A7-%D9%84%D8%AA%D9%88%D8%B3%D9%8A%D8%B9%D9%87%D8%A7",
+            "title": "عائلات مستوطنين تبدأ الإقامة في مستوطنة \"عيبال\" شمال نابلس تمهيدًا لتوسيعها",
+            "image": "https://refugeesps.net/thumb/265x160/uploads/images/2026/07/U9Alp.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "aaebbb1a84857b4ded889657ffa516527fbbf69d2ab8462f8732dc017dff7ad5",
+            "url": "https://refugeesps.net/post/36122/%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86-%D8%AA%D9%81%D8%B4%D9%8A-%D8%AC%D8%AF%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%A7%D8%A1-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D9%86%D8%A7%D8%B2%D8%AD%D9%8A%D9%86-%D9%88%D8%B3%D8%B7-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%A9-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
+            "title": "\"الميزان\": تفشي جدري الماء يهدد النازحين وسط انهيار الخدمات الصحية في غزة",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "1020dd044ae98c1dc55cffe6448f116a54a03a335f8d927f8d44c56ea470c34a",
+            "url": "https://refugeesps.net/post/36121/%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D9%81%D9%86%D8%A7%D9%86%D9%8A%D9%86-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%84%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%B4%D9%8A%D9%81%D8%AA-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9",
+            "title": "حملة المقاطعة تدعو فنانين فلسطينيين للانسحاب من مهرجان \"شيفت في مدينة القدس المحتلة",
+            "image": "https://refugeesps.net/thumb/408x250/uploads/images/2026/07/QPQ09.jpeg",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "b5e66e1b21c08cf0b315a39eb505137898a75366f59749e4133ccb751ed75ca5",
+            "url": "https://refugeesps.net/post/36120/%D9%85%D8%B1%D9%83%D8%B2-%D8%BA%D8%B2%D8%A9-%D8%AA%D9%88%D8%B3%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B5%D9%81%D8%B1%D8%A7%D8%A1-%D9%88%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%8A%D9%85%D9%87-%D8%AF%D8%A7%D9%86-%D9%84%D8%AA%D9%87%D8%AC%D9%8A%D8%B1-%D9%82%D8%B3%D8%B1%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF",
+            "title": "مركز غزة: توسيع \"المنطقة الصفراء\" واستهداف المياه يمهّدان لتهجير قسري جديد",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "91c9a686ecf092e068a9502a90c9ee3b1cc629a8c72d3394eb8b3181dfdb0131",
+            "url": "https://refugeesps.net/post/36119/%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B7%D8%A7%D9%84-%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%B5%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AC-%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B2%D9%8A-%D9%88%D9%8A%D9%88%D9%82%D8%B9-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D9%88%D8%AC%D8%B1%D8%AD%D9%89",
+            "title": "قصف الاحتلال يطال مخيمات النصيرات والبريج والمغازي ويوقع شهداء وجرحى",
+            "date_modified": "2026-07-17T16:45:03.630Z"
+        },
+        {
+            "id": "26ade361b39fd01ca02f913746a543cc9aa34b02b73032baf11cca64fdaba01f",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMWlJUW9aSFZ6ek50NTgwZ2xBU1Z0dlBMOUw5NjgyblhUX0xiNkl4Uk0zWXJERWRQMGt0ZkNBS1RHaUNnMHh4VnBkcGJJVUs3eC04Tg?oc=5\" target=\"_blank\">اليرموك... حين تصبح العودة بداية الطريق لا نهايته</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة وطن للأنباء</font>",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMWlJUW9aSFZ6ek50NTgwZ2xBU1Z0dlBMOUw5NjgyblhUX0xiNkl4Uk0zWXJERWRQMGt0ZkNBS1RHaUNnMHh4VnBkcGJJVUs3eC04Tg?oc=5",
+            "title": "اليرموك... حين تصبح العودة بداية الطريق لا نهايته - وكالة وطن للأنباء",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMWlJUW9aSFZ6ek50NTgwZ2xBU1Z0dlBMOUw5NjgyblhUX0xiNkl4Uk0zWXJERWRQMGt0ZkNBS1RHaUNnMHh4VnBkcGJJVUs3eC04Tg?oc=5\" target=\"_blank\">اليرموك... حين تصبح العودة بداية الطريق لا نهايته</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة وطن للأنباء</font>",
+            "date_modified": "2026-07-17T12:33:56.000Z",
+            "author": {
+                "name": "وكالة وطن للأنباء"
+            }
+        },
+        {
+            "id": "726b68a693611f08039e9dfa62cf41bc9feeb91df79610f4f44131129bf93c0b",
+            "content_html": "With violence in south Lebanon significantly decreased since mid-June, UN peacekeepers there have returned to core functions such as protecting humanitarian aid and restoring critical infrastructure as families continue to return home.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+            "title": "Peacekeepers step up support as families return to south Lebanon",
+            "summary": "With violence in south Lebanon significantly decreased since mid-June, UN peacekeepers there have returned to core functions such as protecting humanitarian aid and restoring critical infrastructure as families continue to return home.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026-UNIFIL-explosive-ordnance-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-16T12:00:00.000Z"
+        },
+        {
+            "id": "380e275ec9a18dde97c16cd16480338d85baef95f027c160b23966309fe95e49",
+            "content_html": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
+            "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+            "summary": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-04-2026_UNNews_Gaza_Framing_01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-16T12:00:00.000Z"
+        },
+        {
+            "id": "f762ff31ddcdaf8af9e636b40d454f69fade361d36328cd6a0e8305e4ea06575",
+            "content_html": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167949",
+            "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
+            "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormus-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-15T12:00:00.000Z"
+        },
+        {
+            "id": "ab8ef062935bb85d32ac23670d1c81380e956cabb104295401311bb4eb54f868",
+            "content_html": "The UN maritime agency, IMO, condemned overnight attacks&nbsp;on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
+            "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
+            "summary": "The UN maritime agency, IMO, condemned overnight attacks&nbsp;on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_AdobeStock_Oman.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-14T12:00:00.000Z"
+        },
+        {
+            "id": "be34b10306632f65ddf45f1f2a7638759b9f73eca9a7ed94c4d7a3b3593cba9c",
+            "content_html": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167929",
+            "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
+            "summary": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormus-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-13T12:00:00.000Z"
+        },
+        {
+            "id": "88849cd2efe7acf8f52941c2f821c7ff3d4f0946909624102e3aad4b9ee09ae7",
+            "content_html": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday heard briefings from top officials on the latest humanitarian and political situation.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167924",
+            "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
+            "summary": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday heard briefings from top officials on the latest humanitarian and political situation.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-08-2024-UNFPA-Yemen-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-13T12:00:00.000Z"
+        },
+        {
+            "id": "268abfc852392bdf097bdf054c616fc06dbbf020cf0e9ed9b1cfbf4f9907dfcc",
+            "content_html": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+            "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+            "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-NASA-Hormuz-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-12T12:00:00.000Z"
+        },
+        {
+            "id": "31278ec4d69d3ca7c73e0184d6660917a48043a7db505ccfe4486c90ebe12478",
+            "content_html": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+            "title": "Reviving communities home by home in Gaza",
+            "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/08-07-2026-UNDP-Gaza-06.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-12T12:00:00.000Z"
+        },
+        {
+            "id": "640ba2b2b776cdef97b1ce36a583a1151292b6cf00c03dd01dabe2666e2f64a9",
+            "content_html": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+            "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+            "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/09-07-2026_UNNews_Gaza_Rubble_02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-11T12:00:00.000Z"
+        },
+        {
+            "id": "70f18aac2102f5d05cd0d0c31fba34542dfe381a9b3a669fa964b37b2fc7260f",
+            "content_html": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+            "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+            "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-04-2026-IRCS-Iran-Tehran-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-10T12:00:00.000Z"
+        },
+        {
+            "id": "d5a6ea951ec186f354eb13e7411ab0ca18a038b9bc25f40ad70883a199858edf",
+            "content_html": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+            "title": "Diplomats go virtual to witness Gaza displacement site up close",
+            "summary": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-06-2025_UNDP_Gaza_Water_04.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-09T12:00:00.000Z"
+        },
+        {
+            "id": "680d4f4ae6f8a008d583f33e089c33f7f3edc1b50a83dd053ef0a2c44bc7c67a",
+            "content_html": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+            "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+            "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-04-2026-NASA-Hormuz.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-09T12:00:00.000Z"
+        },
+        {
+            "id": "bcfd7508da7135b0d95577c61c9cee274a3b253272075b0c0b891fd10b2ba017",
+            "content_html": "UN investigators have urged Syria’s Government to trace thousands of missing detainees and hold perpetrators to account after a week-long visit that took in bomb attacks in Damascus, prison visits in the northeast and reports of vigilante violence in Homs.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167901",
+            "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+            "summary": "UN investigators have urged Syria’s Government to trace thousands of missing detainees and hold perpetrators to account after a week-long visit that took in bomb attacks in Damascus, prison visits in the northeast and reports of vigilante violence in Homs.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/07-05-2020-OCHA-Idlib-Syria-03.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-08T12:00:00.000Z"
+        },
+        {
+            "id": "3379c8b0f405acfdca4e78f5e242894c3ea0aec9c2d1264c0580b9d4ba5f1d79",
+            "content_html": "Renewed attacks on shipping in the Strait of Hormuz unsettled energy markets on Wednesday and prompted calls from the UN maritime agency, IMO, for “maximum restraint and de-escalation”.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167898",
+            "title": "US-Iran war: Renewed attacks in Strait of Hormuz prompt another global energy alert",
+            "summary": "Renewed attacks on shipping in the Strait of Hormuz unsettled energy markets on Wednesday and prompted calls from the UN maritime agency, IMO, for “maximum restraint and de-escalation”.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/08-07-2026-Adobe-Stock-Hormuz.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-08T12:00:00.000Z"
+        },
+        {
+            "id": "47e5e3455c709cf5077fa8db10f3e6d5cf1398d0441c2b02fe6d53aea4d9eedb",
+            "content_html": "The ceasefire deal between Beirut and Tel Aviv has led to a marked reduction in hostilities between Hezbollah and the Israeli military, sparked by the wider Iran-Israel-US war, but the situation remains uncertain for communities returning home only to find widespread destruction, UN peacekeepers said on Wednesday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167893",
+            "title": "Grim homecoming: Devastation greets Lebanon’s war-weary returnees",
+            "summary": "The ceasefire deal between Beirut and Tel Aviv has led to a marked reduction in hostilities between Hezbollah and the Israeli military, sparked by the wider Iran-Israel-US war, but the situation remains uncertain for communities returning home only to find widespread destruction, UN peacekeepers said on Wednesday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-03-2026-UNIFIL-Lebanon-03.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-08T12:00:00.000Z"
+        },
+        {
+            "id": "db6443a4c1c1f34ed4be5eecaf2e322383b8ce93e2aaec2c4084aeb4ef199925",
+            "content_html": "Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+            "title": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+            "summary": "Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-05-2026_Gaza_Pestiside_Campaign4.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-06T12:00:00.000Z"
+        },
+        {
+            "id": "ac7989809de111717108ab3b24e9a793cdd63fc4d631a7c339b4f3ff5f52af0d",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxQcW9La1Y1YWRVWkwwN0F4aE1DOWc5Wl95a2dacHdiVUhZSDZSbHZpOFpYcFpBamZYMm0yTGJabDkwMjlsWnlXZEdWbmUxUGtYa2RvMFFib1VFU3k0a19lc29uWXFSVi1OcTlKcEdhRGZVV3AzWnFRNEdnTV9Id01OMHR0anZXdGVSemZnTlZXZEpidnQwYllQT3FIRVBsZHhocktfSXN4NjJCcmVhNmRDYjdiSE1JQTJTSENNbnRFNXJoVFA1c1Z4ZHFncnptLVBBeWJlcG81WDNFN1B0bEwtX2tYd09rTjZYVFZmcENvb3N4NjFSYS1RaV9STUxBNE9OWC1MRk41NFptSV84YUYzM1VuVGlZdG4xVlp1YUVMOXFyTVc1c0Q5QVhmSXhvdFBBQlFaSGhnaXNWUDFUeFRFTnVqNnhKMklpaVZKQ1RzOVoxOUZTREZSTW40SG1udmJSZjV4YzhucEZUeWt1ZVRZcXItc0gxVGFw?oc=5\" target=\"_blank\">هاجس اللاجئين الفلسطينيين في سوريا الجديدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">عربي21</font>",
+            "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQcW9La1Y1YWRVWkwwN0F4aE1DOWc5Wl95a2dacHdiVUhZSDZSbHZpOFpYcFpBamZYMm0yTGJabDkwMjlsWnlXZEdWbmUxUGtYa2RvMFFib1VFU3k0a19lc29uWXFSVi1OcTlKcEdhRGZVV3AzWnFRNEdnTV9Id01OMHR0anZXdGVSemZnTlZXZEpidnQwYllQT3FIRVBsZHhocktfSXN4NjJCcmVhNmRDYjdiSE1JQTJTSENNbnRFNXJoVFA1c1Z4ZHFncnptLVBBeWJlcG81WDNFN1B0bEwtX2tYd09rTjZYVFZmcENvb3N4NjFSYS1RaV9STUxBNE9OWC1MRk41NFptSV84YUYzM1VuVGlZdG4xVlp1YUVMOXFyTVc1c0Q5QVhmSXhvdFBBQlFaSGhnaXNWUDFUeFRFTnVqNnhKMklpaVZKQ1RzOVoxOUZTREZSTW40SG1udmJSZjV4YzhucEZUeWt1ZVRZcXItc0gxVGFw?oc=5",
+            "title": "هاجس اللاجئين الفلسطينيين في سوريا الجديدة - عربي21",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxQcW9La1Y1YWRVWkwwN0F4aE1DOWc5Wl95a2dacHdiVUhZSDZSbHZpOFpYcFpBamZYMm0yTGJabDkwMjlsWnlXZEdWbmUxUGtYa2RvMFFib1VFU3k0a19lc29uWXFSVi1OcTlKcEdhRGZVV3AzWnFRNEdnTV9Id01OMHR0anZXdGVSemZnTlZXZEpidnQwYllQT3FIRVBsZHhocktfSXN4NjJCcmVhNmRDYjdiSE1JQTJTSENNbnRFNXJoVFA1c1Z4ZHFncnptLVBBeWJlcG81WDNFN1B0bEwtX2tYd09rTjZYVFZmcENvb3N4NjFSYS1RaV9STUxBNE9OWC1MRk41NFptSV84YUYzM1VuVGlZdG4xVlp1YUVMOXFyTVc1c0Q5QVhmSXhvdFBBQlFaSGhnaXNWUDFUeFRFTnVqNnhKMklpaVZKQ1RzOVoxOUZTREZSTW40SG1udmJSZjV4YzhucEZUeWt1ZVRZcXItc0gxVGFw?oc=5\" target=\"_blank\">هاجس اللاجئين الفلسطينيين في سوريا الجديدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">عربي21</font>",
+            "date_modified": "2026-07-05T20:59:00.000Z",
+            "author": {
+                "name": "عربي21"
+            }
+        },
+        {
+            "id": "6e5981cd2cb1cf0532836881fade443b4e3c629238f254e48158631234324682",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QNzBxUm4zcnV6VllxYjFWbVMzRXRmSW5XckNGVWNEYzhGeFh6Z3pmNktRSjl1VzBRSjJPaEpNQWJYT0d6OVE?oc=5\" target=\"_blank\">الشؤون الاجتماعية والأونروا تبحثان تطوير التعاون المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QNzBxUm4zcnV6VllxYjFWbVMzRXRmSW5XckNGVWNEYzhGeFh6Z3pmNktRSjl1VzBRSjJPaEpNQWJYT0d6OVE?oc=5",
+            "title": "الشؤون الاجتماعية والأونروا تبحثان تطوير التعاون المشترك - سانا",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QNzBxUm4zcnV6VllxYjFWbVMzRXRmSW5XckNGVWNEYzhGeFh6Z3pmNktRSjl1VzBRSjJPaEpNQWJYT0d6OVE?oc=5\" target=\"_blank\">الشؤون الاجتماعية والأونروا تبحثان تطوير التعاون المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "date_modified": "2026-07-02T13:16:11.000Z",
+            "author": {
+                "name": "سانا"
+            }
+        },
+        {
+            "id": "ffa8067bc54ef1836374fd85bd39b307774a64c34f90c8b39a8a81a8d493ef1c",
+            "content_html": "The 15-member Security Council is meeting in emergency session on Thursday morning to address the escalating tensions in the Gulf region following Iran attacks in recent days on Bahrain and Kuwait while Tehran and Washington continue to trade strikes over the Strait of Hormuz chokepoint. Stay tuned for live updates.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167860",
+            "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
+            "summary": "The 15-member Security Council is meeting in emergency session on Thursday morning to address the escalating tensions in the Gulf region following Iran attacks in recent days on Bahrain and Kuwait while Tehran and Washington continue to trade strikes over the Strait of Hormuz chokepoint. Stay tuned for live updates.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/01-07-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-02T12:00:00.000Z"
+        },
+        {
+            "id": "e88e2da7e385400a59a0b2f726a710f4f0514a1967897225c94c50d67592a0cd",
+            "content_html": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners&nbsp;warned on Wednesday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
+            "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
+            "summary": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners&nbsp;warned on Wednesday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-01T12:00:00.000Z"
+        },
+        {
+            "id": "23e2c701bd47a125e315c7a929f936b11f5d453bf85505249afb7dba27d053e4",
+            "content_html": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
+            "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
+            "summary": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-30T12:00:00.000Z"
+        },
+        {
+            "id": "7b0a5efb5e48f40cf1cff1097eee55929165f34518ff820797db799aeb8ad881",
+            "content_html": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to&nbsp;a new UN report released on Tuesday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167844",
+            "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
+            "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to&nbsp;a new UN report released on Tuesday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-Unsplash-Iran-hormuz.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-30T12:00:00.000Z"
+        },
+        {
+            "id": "e0c8584284afcdef399d5867debea7cad205886042ace6b6fcd1174e446e7899",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBicWFaSE1nVkEzLTVyRG8wVGM4MlhPM1BsTEplZk1XZUdfMF9kN3paQTlybE9tOFZIRDFGSWpHTENSejUtV29EYw?oc=5\" target=\"_blank\">مدير شؤون الأونروا لـ سانا: دعم الحكومة السورية أسهم في ‏استمرار خدماتنا للاجئين الفلسطينيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBicWFaSE1nVkEzLTVyRG8wVGM4MlhPM1BsTEplZk1XZUdfMF9kN3paQTlybE9tOFZIRDFGSWpHTENSejUtV29EYw?oc=5",
+            "title": "مدير شؤون الأونروا لـ سانا: دعم الحكومة السورية أسهم في ‏استمرار خدماتنا للاجئين الفلسطينيين - سانا",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBicWFaSE1nVkEzLTVyRG8wVGM4MlhPM1BsTEplZk1XZUdfMF9kN3paQTlybE9tOFZIRDFGSWpHTENSejUtV29EYw?oc=5\" target=\"_blank\">مدير شؤون الأونروا لـ سانا: دعم الحكومة السورية أسهم في ‏استمرار خدماتنا للاجئين الفلسطينيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "date_modified": "2026-06-30T07:00:00.000Z",
+            "author": {
+                "name": "سانا"
+            }
+        },
+        {
+            "id": "5b79f5c6ea32610826cfbecee34f2554bc32c42cd1ea76456fab57bf0626e11e",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxPLXFoMWNwVW5XR3A3WHlPQ1VkSVRUYzNZaEJMZ2FnMHdWQjZMVTdpOGlOZ0M2X2NfOGdkTmJpaW1zYTVoZ25WQU1tVm15X09ETU4xbzN6djVNdVJlclFhTWJ4SElMMWo5R3ZzRmNUU0I1Y1hzRS1BWS01OEQybnBVUmt0ZFhMalhaVjk5OFZUeFJvTGZOQkJaS2hFc1BfeDJiRkZzckJLalNRNXNLN0lrR3RMWVlPRGRLcFFpMWJBZjgyY1hrYUw1dXdmR1Izcjg4ZFphdWlXWGlwdWFNNzVvcnMzQmxEejZtVEVNM2dhMTAwd1FuaDhFb0FoYVJRS21fcy1ncjF1VTgtcHZkOGxtdnltZ2NEYVpMQUd1blFMM1lzdHBqNEx3aVlvdGU4RDJTd0FyNnhkdGdDTi10dFRuMkRDeDMyZlNUU3U2d0ZvVk51eklOU09HTmNxMDhQd3NlUHFWQWZ3YnlXdDZIbWVfbDh0b25xWkNSUU5PWjVGaGVGNkZFSDQtZzNsbGlDLVBlVlNDSmZObGVYN3hlOUJISmcyalNaYzhJQ21uZ3h5TjZvd1ZTVVExOERyTjJGa0N2ZmpvV0NkOE5PenJOU3RSY1RoZHhReFdIa01GYTdudk9YM1h6UlNzbGstbFd0TC1veTZHb1U0NldsVnh0UTBadXFPUEs?oc=5\" target=\"_blank\">خدمات \"أونروا\" الصحية في سوريا.. الملاذ الأول اللاجئين الفلسطينيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxPLXFoMWNwVW5XR3A3WHlPQ1VkSVRUYzNZaEJMZ2FnMHdWQjZMVTdpOGlOZ0M2X2NfOGdkTmJpaW1zYTVoZ25WQU1tVm15X09ETU4xbzN6djVNdVJlclFhTWJ4SElMMWo5R3ZzRmNUU0I1Y1hzRS1BWS01OEQybnBVUmt0ZFhMalhaVjk5OFZUeFJvTGZOQkJaS2hFc1BfeDJiRkZzckJLalNRNXNLN0lrR3RMWVlPRGRLcFFpMWJBZjgyY1hrYUw1dXdmR1Izcjg4ZFphdWlXWGlwdWFNNzVvcnMzQmxEejZtVEVNM2dhMTAwd1FuaDhFb0FoYVJRS21fcy1ncjF1VTgtcHZkOGxtdnltZ2NEYVpMQUd1blFMM1lzdHBqNEx3aVlvdGU4RDJTd0FyNnhkdGdDTi10dFRuMkRDeDMyZlNUU3U2d0ZvVk51eklOU09HTmNxMDhQd3NlUHFWQWZ3YnlXdDZIbWVfbDh0b25xWkNSUU5PWjVGaGVGNkZFSDQtZzNsbGlDLVBlVlNDSmZObGVYN3hlOUJISmcyalNaYzhJQ21uZ3h5TjZvd1ZTVVExOERyTjJGa0N2ZmpvV0NkOE5PenJOU3RSY1RoZHhReFdIa01GYTdudk9YM1h6UlNzbGstbFd0TC1veTZHb1U0NldsVnh0UTBadXFPUEs?oc=5",
+            "title": "خدمات \"أونروا\" الصحية في سوريا.. الملاذ الأول اللاجئين الفلسطينيين - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxPLXFoMWNwVW5XR3A3WHlPQ1VkSVRUYzNZaEJMZ2FnMHdWQjZMVTdpOGlOZ0M2X2NfOGdkTmJpaW1zYTVoZ25WQU1tVm15X09ETU4xbzN6djVNdVJlclFhTWJ4SElMMWo5R3ZzRmNUU0I1Y1hzRS1BWS01OEQybnBVUmt0ZFhMalhaVjk5OFZUeFJvTGZOQkJaS2hFc1BfeDJiRkZzckJLalNRNXNLN0lrR3RMWVlPRGRLcFFpMWJBZjgyY1hrYUw1dXdmR1Izcjg4ZFphdWlXWGlwdWFNNzVvcnMzQmxEejZtVEVNM2dhMTAwd1FuaDhFb0FoYVJRS21fcy1ncjF1VTgtcHZkOGxtdnltZ2NEYVpMQUd1blFMM1lzdHBqNEx3aVlvdGU4RDJTd0FyNnhkdGdDTi10dFRuMkRDeDMyZlNUU3U2d0ZvVk51eklOU09HTmNxMDhQd3NlUHFWQWZ3YnlXdDZIbWVfbDh0b25xWkNSUU5PWjVGaGVGNkZFSDQtZzNsbGlDLVBlVlNDSmZObGVYN3hlOUJISmcyalNaYzhJQ21uZ3h5TjZvd1ZTVVExOERyTjJGa0N2ZmpvV0NkOE5PenJOU3RSY1RoZHhReFdIa01GYTdudk9YM1h6UlNzbGstbFd0TC1veTZHb1U0NldsVnh0UTBadXFPUEs?oc=5\" target=\"_blank\">خدمات \"أونروا\" الصحية في سوريا.. الملاذ الأول اللاجئين الفلسطينيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-29T16:16:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "56e6b37972067d4cad4f1f18578fb21194044fd12127508da1e9b4f104f6fc1b",
+            "content_html": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
+            "title": "Middle East conflict leaves developing countries paying the price",
+            "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-IFAD-RPSF-Mauritania.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-29T12:00:00.000Z"
+        },
+        {
+            "id": "64e6930ed1145ecdd32bd6d128957f7302af916f03d56e1b9b3f9bca0f16b4eb",
+            "content_html": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
+            "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
+            "summary": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-11-2024-UNRWA-West-Bank-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-29T12:00:00.000Z"
+        },
+        {
+            "id": "bb298359d29b6b0e714475e364389f2c72d83a1bae69ee5e69dce6a8de5a3b3e",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdsWnFFM1ctWjJBQl9yLUExTGNOTk81dDhkTWc5WWZ4VEFDVFNhUlR3VjJOcVo0ZTBBemhLTTJPb29OTWdZNTI3OGljampaRHJzeE5US29mcXZCbDNTMVJmelM1UWtPUmMwN1p5N2hWQ3NHdmtxY08zMlBKOXBidFdrNGxBNWdBalZpdFVpNzRzRU5DdjQxWWVlZmtzTWFBREhRaTB4WW1tcW5qakpndjdZaVpxRkNwSTE0NmwzaV9MY1dwclhmbQ?oc=5\" target=\"_blank\">Help Palestinian and Syrian Refugees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anera</font>",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdsWnFFM1ctWjJBQl9yLUExTGNOTk81dDhkTWc5WWZ4VEFDVFNhUlR3VjJOcVo0ZTBBemhLTTJPb29OTWdZNTI3OGljampaRHJzeE5US29mcXZCbDNTMVJmelM1UWtPUmMwN1p5N2hWQ3NHdmtxY08zMlBKOXBidFdrNGxBNWdBalZpdFVpNzRzRU5DdjQxWWVlZmtzTWFBREhRaTB4WW1tcW5qakpndjdZaVpxRkNwSTE0NmwzaV9MY1dwclhmbQ?oc=5",
+            "title": "Help Palestinian and Syrian Refugees - Anera",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdsWnFFM1ctWjJBQl9yLUExTGNOTk81dDhkTWc5WWZ4VEFDVFNhUlR3VjJOcVo0ZTBBemhLTTJPb29OTWdZNTI3OGljampaRHJzeE5US29mcXZCbDNTMVJmelM1UWtPUmMwN1p5N2hWQ3NHdmtxY08zMlBKOXBidFdrNGxBNWdBalZpdFVpNzRzRU5DdjQxWWVlZmtzTWFBREhRaTB4WW1tcW5qakpndjdZaVpxRkNwSTE0NmwzaV9MY1dwclhmbQ?oc=5\" target=\"_blank\">Help Palestinian and Syrian Refugees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anera</font>",
+            "date_modified": "2026-06-29T08:37:23.000Z",
+            "author": {
+                "name": "Anera"
+            }
+        },
+        {
+            "id": "0f3506054eb1548ba6124e478773ce4d03999d61542f797b620528156e1c2213",
+            "content_html": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
+            "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
+            "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-04-2026-Unsplash-Hormuz.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-26T12:00:00.000Z"
+        },
+        {
+            "id": "c0524bc01e65b4012f8f5e031b70edff2f3e79387076ae4de2a355e8257336fb",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQUpyaU4tMENuTEhMVkk1UWdXT1UtdjYyc3U5SEpwVG92N3pUNldCSUIzVkNqTkNHWnNLRlZWTkM5bVdLY1V1dFdnMnRMZ1I1di1VSjlaSDI3UVhPazhHMWV4Q2kyQkxvU21qVy04WS1jWDZnQjJUMW04aXhBWlpJaU9zZG8wTGtBb2RUbWZWYXN0WmZzdDlHc0Z2UEVUOWtMZC11SHBsV1FQVFB4Qm90TlVHcXcxU0J5VWtsdU1GZEppdU1lTnNvcEdOMmRsSjVLZVZVYkJiQUt0SWhPV3ZDV1ZzZmh2cmJxenNmbnMyQ3psbFh4YnNTWTdGVFN2RUp4cG13b2FkMGk4aVlTU3hXVThoR0RDeDRkNFVyVDdVd1h0bWRFVC01X21wUlBmVTJNMVB3N25TVThadklRSldIZ0ZvQlhQVmJ6SURmd0xLVmZmcGRadlkxaNIB3gJBVV95cUxOT3Z4NlAtZWlDM2R2SVR2VElSNnZjd0taMWxoQkptemtTQktnbHVxa210N29id0FaWlB6YVNLUHBqdHlheUJMdVhtaFFUeGlPaEo2SU4tYlNmODdNZHlkWUN2b3o1Ry1LQ25PeGJWVFpvSG1xdnZTczJWa1o3c3Rsay11YkJUdTd2aVo3VHhlN2x6azBvZGlVdjlGUWZicU40d0tkNkR3ZVNhek9uWGNjYzlvdjExcDF2OG5MM3doVmRVS3VYLXl3QXQzdHF6MkZiaWNMWnptR19YTW1FaV9UaEZIcDRybE1xN3RYRU1KUEdZYWdrMVFydDdTS0pQc0lUb2lSYWRjSEs4bXhtRFFLZ2JfU1RZSUZ0WkZMN2I2enUyaXhWMXhPNlZOa3ZyMjUyMWlfU3FwMDNzMHZTNlNLZ1hPSVRPdEVTLWRRNThXSEw2WFJFNXMxelQ5WjRvdw?oc=5\" target=\"_blank\">سورية وفلسطين أسئلة مطروحة وأخرى تنتظر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQUpyaU4tMENuTEhMVkk1UWdXT1UtdjYyc3U5SEpwVG92N3pUNldCSUIzVkNqTkNHWnNLRlZWTkM5bVdLY1V1dFdnMnRMZ1I1di1VSjlaSDI3UVhPazhHMWV4Q2kyQkxvU21qVy04WS1jWDZnQjJUMW04aXhBWlpJaU9zZG8wTGtBb2RUbWZWYXN0WmZzdDlHc0Z2UEVUOWtMZC11SHBsV1FQVFB4Qm90TlVHcXcxU0J5VWtsdU1GZEppdU1lTnNvcEdOMmRsSjVLZVZVYkJiQUt0SWhPV3ZDV1ZzZmh2cmJxenNmbnMyQ3psbFh4YnNTWTdGVFN2RUp4cG13b2FkMGk4aVlTU3hXVThoR0RDeDRkNFVyVDdVd1h0bWRFVC01X21wUlBmVTJNMVB3N25TVThadklRSldIZ0ZvQlhQVmJ6SURmd0xLVmZmcGRadlkxaNIB3gJBVV95cUxOT3Z4NlAtZWlDM2R2SVR2VElSNnZjd0taMWxoQkptemtTQktnbHVxa210N29id0FaWlB6YVNLUHBqdHlheUJMdVhtaFFUeGlPaEo2SU4tYlNmODdNZHlkWUN2b3o1Ry1LQ25PeGJWVFpvSG1xdnZTczJWa1o3c3Rsay11YkJUdTd2aVo3VHhlN2x6azBvZGlVdjlGUWZicU40d0tkNkR3ZVNhek9uWGNjYzlvdjExcDF2OG5MM3doVmRVS3VYLXl3QXQzdHF6MkZiaWNMWnptR19YTW1FaV9UaEZIcDRybE1xN3RYRU1KUEdZYWdrMVFydDdTS0pQc0lUb2lSYWRjSEs4bXhtRFFLZ2JfU1RZSUZ0WkZMN2I2enUyaXhWMXhPNlZOa3ZyMjUyMWlfU3FwMDNzMHZTNlNLZ1hPSVRPdEVTLWRRNThXSEw2WFJFNXMxelQ5WjRvdw?oc=5",
+            "title": "سورية وفلسطين أسئلة مطروحة وأخرى تنتظر - العربي الجديد",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQUpyaU4tMENuTEhMVkk1UWdXT1UtdjYyc3U5SEpwVG92N3pUNldCSUIzVkNqTkNHWnNLRlZWTkM5bVdLY1V1dFdnMnRMZ1I1di1VSjlaSDI3UVhPazhHMWV4Q2kyQkxvU21qVy04WS1jWDZnQjJUMW04aXhBWlpJaU9zZG8wTGtBb2RUbWZWYXN0WmZzdDlHc0Z2UEVUOWtMZC11SHBsV1FQVFB4Qm90TlVHcXcxU0J5VWtsdU1GZEppdU1lTnNvcEdOMmRsSjVLZVZVYkJiQUt0SWhPV3ZDV1ZzZmh2cmJxenNmbnMyQ3psbFh4YnNTWTdGVFN2RUp4cG13b2FkMGk4aVlTU3hXVThoR0RDeDRkNFVyVDdVd1h0bWRFVC01X21wUlBmVTJNMVB3N25TVThadklRSldIZ0ZvQlhQVmJ6SURmd0xLVmZmcGRadlkxaNIB3gJBVV95cUxOT3Z4NlAtZWlDM2R2SVR2VElSNnZjd0taMWxoQkptemtTQktnbHVxa210N29id0FaWlB6YVNLUHBqdHlheUJMdVhtaFFUeGlPaEo2SU4tYlNmODdNZHlkWUN2b3o1Ry1LQ25PeGJWVFpvSG1xdnZTczJWa1o3c3Rsay11YkJUdTd2aVo3VHhlN2x6azBvZGlVdjlGUWZicU40d0tkNkR3ZVNhek9uWGNjYzlvdjExcDF2OG5MM3doVmRVS3VYLXl3QXQzdHF6MkZiaWNMWnptR19YTW1FaV9UaEZIcDRybE1xN3RYRU1KUEdZYWdrMVFydDdTS0pQc0lUb2lSYWRjSEs4bXhtRFFLZ2JfU1RZSUZ0WkZMN2I2enUyaXhWMXhPNlZOa3ZyMjUyMWlfU3FwMDNzMHZTNlNLZ1hPSVRPdEVTLWRRNThXSEw2WFJFNXMxelQ5WjRvdw?oc=5\" target=\"_blank\">سورية وفلسطين أسئلة مطروحة وأخرى تنتظر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "date_modified": "2026-06-26T07:00:00.000Z",
+            "author": {
+                "name": "العربي الجديد"
+            }
+        },
+        {
+            "id": "49e28713d600ca11e90f001e58e0b533883dd9c2f7ab6a4bf9acf665b0b0eb51",
+            "content_html": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167813",
+            "title": "Security Council extends critical stabilisation force in Syria",
+            "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2013/03/16624/image560x340cropped.jpg",
+            "date_modified": "2026-06-25T12:00:00.000Z"
+        },
+        {
+            "id": "8983de69ed3bcacdb55914124c2e8d6c87f63001b3d9d5ec3429dbda6a31ad99",
+            "content_html": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167811",
+            "title": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
+            "summary": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-04-2026-NASA-Hormuz.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-25T12:00:00.000Z"
+        },
+        {
+            "id": "270d358e1290129e842d3c03a34682dfe473a06e679441aca3a069fff95da09d",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxQb1NKMHJYaVNmdVJOalhnQmhwNG85cV8yY1pMdEJNbl9fQ1c1ZV9SMXdRd3VHN2hwMVV6dlZmQzh6VVBNcjY5MmFaT3RCZm1BSmxnUVRmS2I3aWI0Y3RnR01RVG1TeTNzOUpPSGpnazNCZGFXQUdhbXdndDJiVF9Bdk96RHpLN0JuMV84UzVnZ05aNWk1SkpqdVQyeE4xR2hNM0xabUlyNFVKSXM5UWVHV0VyaGFMdzFsLUVJR0ktcWRoa041dDRIengyTmtOdDRIQkJxQnowTnFMVnlwNUd0OVVBY2VwemdGN0FRY1dFSmRuV1RtMExBV1VLWklYT0ZqR1NFSmNIMG05aXZfczNEbWdaTGtFUHB1cGdsNnM1aVdmQWE1Y0ZraWpiQ2xVckt4dEhaT0xlMlFZTHlxSm9QY1ZhLU5rNkRiU3NOY2pzNndfRi1SNW1wREltMFRocHMwNkI0RWxMc3BYY24wdXRBMHFDV1NUZ1YzV3NCbFRyR00zYzZsZXBpZ3Z6N2VQOGVoWGVzeUc5b1kzeU85c1VJQ2pucXZocG1WWXkxTWliUjJxemM3RkM3cGVKSkxVZUQ0ajdhS05HcGZvVzN3RmloTFNBVVJjNlA0U0k3NnVMNG5rQXFfdXpHSHlRX2pfSWhmM182UF9vQ242Z2JtZzA0?oc=5\" target=\"_blank\">كيف غيّر توقف مساعدات \"أونروا\" حياة اللاجئين الفلسطينيين في سوريا؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQb1NKMHJYaVNmdVJOalhnQmhwNG85cV8yY1pMdEJNbl9fQ1c1ZV9SMXdRd3VHN2hwMVV6dlZmQzh6VVBNcjY5MmFaT3RCZm1BSmxnUVRmS2I3aWI0Y3RnR01RVG1TeTNzOUpPSGpnazNCZGFXQUdhbXdndDJiVF9Bdk96RHpLN0JuMV84UzVnZ05aNWk1SkpqdVQyeE4xR2hNM0xabUlyNFVKSXM5UWVHV0VyaGFMdzFsLUVJR0ktcWRoa041dDRIengyTmtOdDRIQkJxQnowTnFMVnlwNUd0OVVBY2VwemdGN0FRY1dFSmRuV1RtMExBV1VLWklYT0ZqR1NFSmNIMG05aXZfczNEbWdaTGtFUHB1cGdsNnM1aVdmQWE1Y0ZraWpiQ2xVckt4dEhaT0xlMlFZTHlxSm9QY1ZhLU5rNkRiU3NOY2pzNndfRi1SNW1wREltMFRocHMwNkI0RWxMc3BYY24wdXRBMHFDV1NUZ1YzV3NCbFRyR00zYzZsZXBpZ3Z6N2VQOGVoWGVzeUc5b1kzeU85c1VJQ2pucXZocG1WWXkxTWliUjJxemM3RkM3cGVKSkxVZUQ0ajdhS05HcGZvVzN3RmloTFNBVVJjNlA0U0k3NnVMNG5rQXFfdXpHSHlRX2pfSWhmM182UF9vQ242Z2JtZzA0?oc=5",
+            "title": "كيف غيّر توقف مساعدات \"أونروا\" حياة اللاجئين الفلسطينيين في سوريا؟ - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxQb1NKMHJYaVNmdVJOalhnQmhwNG85cV8yY1pMdEJNbl9fQ1c1ZV9SMXdRd3VHN2hwMVV6dlZmQzh6VVBNcjY5MmFaT3RCZm1BSmxnUVRmS2I3aWI0Y3RnR01RVG1TeTNzOUpPSGpnazNCZGFXQUdhbXdndDJiVF9Bdk96RHpLN0JuMV84UzVnZ05aNWk1SkpqdVQyeE4xR2hNM0xabUlyNFVKSXM5UWVHV0VyaGFMdzFsLUVJR0ktcWRoa041dDRIengyTmtOdDRIQkJxQnowTnFMVnlwNUd0OVVBY2VwemdGN0FRY1dFSmRuV1RtMExBV1VLWklYT0ZqR1NFSmNIMG05aXZfczNEbWdaTGtFUHB1cGdsNnM1aVdmQWE1Y0ZraWpiQ2xVckt4dEhaT0xlMlFZTHlxSm9QY1ZhLU5rNkRiU3NOY2pzNndfRi1SNW1wREltMFRocHMwNkI0RWxMc3BYY24wdXRBMHFDV1NUZ1YzV3NCbFRyR00zYzZsZXBpZ3Z6N2VQOGVoWGVzeUc5b1kzeU85c1VJQ2pucXZocG1WWXkxTWliUjJxemM3RkM3cGVKSkxVZUQ0ajdhS05HcGZvVzN3RmloTFNBVVJjNlA0U0k3NnVMNG5rQXFfdXpHSHlRX2pfSWhmM182UF9vQ242Z2JtZzA0?oc=5\" target=\"_blank\">كيف غيّر توقف مساعدات \"أونروا\" حياة اللاجئين الفلسطينيين في سوريا؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-25T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "386eb36ce178494537198c423d8ebf0f792b6ada455b10f3bd9d93474ec4cc88",
+            "content_html": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167794",
+            "title": "Stranded Hormuz seafarers begin mass evacuation operation",
+            "summary": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-24T12:00:00.000Z"
+        },
+        {
+            "id": "0ff62ddd07fe59f4640392f13ebb2559acd7a928e70d0737ebd45bc7eba43178",
+            "content_html": "Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide and atrocity crimes in the Gaza Strip and war crimes in the West Bank, a UN independent commission of inquiry said in its latest report released on Tuesday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+            "title": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
+            "summary": "Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide and atrocity crimes in the Gaza Strip and war crimes in the West Bank, a UN independent commission of inquiry said in its latest report released on Tuesday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/18-05-2026-Adobe-Israeli-wall.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-23T12:00:00.000Z"
+        },
+        {
+            "id": "48349f3b3e6ef42de37caa2bfc877086768efc888dd206c4d33ecb5c22982bf6",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi-ARBVV95cUxPVGhMZFpSR0RHeEFnbGpud3lWSmJMeXBoSXg5X0Q3TTllUEVTT0Y1LVh0ZUEtdTNLcHFlZ01BVDZkdWRtRm82R092MGh6RWViVUxkUmlITGx2N2dMTWN1Ui1KTjdId2hKNk1STHg4MUR1TWNkWkJhSUR6d0JVemw2bVg5RjhGcGtTRFdIbXAzdnlycW0wYWtXY1hobkI5V3B4d3hHZGRRTDVOdlRGelNmOW02WGg4dnV6c2FWOE9QU2FweFE3T1ppUkdiTHFEaUwtajMyVmtvMEc2VmtVRXZ5YmxYQ2FyRm1BRzJGZEl0dkNDZjIycDAxcmx0RTFVMGp3bjhCV1M2bUZKVUU5UGs2R2RBMXlnWWtkR1VkVFpRX3NPZkxzSDhxdmw2cWptNW9CQ3dXbkNSWnBaRi1IUHFVY0dmNlQwX3prR1lFWmt0YzUweFNIZklYRWh4NHp1R25OVmUtUUQ3TVFFdG9uU3RGOVJCX3FUQkQ4ZzU3TVRaZWxIZjMydHIyTWd0M0VLR1VkVXRaUUxWQjhCOEg2VVpiVm5UdnFHTGpWelZHUGlsZTJkSmZqMmo3cTdQeUNkVlYwSE80VFNvb2d6MXFhNGctZ3NLMnEyRHZPUVd5TmNHSGxqekpnTlBpa01pU2JpWXlBZVlOLUZDRE9xUjhOVlVQc2E4TWEzeTAyczhXeS1Ib2tNMF83Vm9NU3ZSLUhlZFQxNDdTLUJVRmlhLWJQRTNyQU9LN1pGVUZQVDdGS3hpanRHeEcxRDBBWHY3b2RfU1FYQ0hFTWx1TEdOTFY1b0hINmNxakNJUkVDN1pGc2VFaWJHRTlkQ2VDcA?oc=5\" target=\"_blank\">الهيئة العامة للاجئين الفلسطينيين في سوريا تكشف عن إجراءات قانونية وخدمية جديدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxPVGhMZFpSR0RHeEFnbGpud3lWSmJMeXBoSXg5X0Q3TTllUEVTT0Y1LVh0ZUEtdTNLcHFlZ01BVDZkdWRtRm82R092MGh6RWViVUxkUmlITGx2N2dMTWN1Ui1KTjdId2hKNk1STHg4MUR1TWNkWkJhSUR6d0JVemw2bVg5RjhGcGtTRFdIbXAzdnlycW0wYWtXY1hobkI5V3B4d3hHZGRRTDVOdlRGelNmOW02WGg4dnV6c2FWOE9QU2FweFE3T1ppUkdiTHFEaUwtajMyVmtvMEc2VmtVRXZ5YmxYQ2FyRm1BRzJGZEl0dkNDZjIycDAxcmx0RTFVMGp3bjhCV1M2bUZKVUU5UGs2R2RBMXlnWWtkR1VkVFpRX3NPZkxzSDhxdmw2cWptNW9CQ3dXbkNSWnBaRi1IUHFVY0dmNlQwX3prR1lFWmt0YzUweFNIZklYRWh4NHp1R25OVmUtUUQ3TVFFdG9uU3RGOVJCX3FUQkQ4ZzU3TVRaZWxIZjMydHIyTWd0M0VLR1VkVXRaUUxWQjhCOEg2VVpiVm5UdnFHTGpWelZHUGlsZTJkSmZqMmo3cTdQeUNkVlYwSE80VFNvb2d6MXFhNGctZ3NLMnEyRHZPUVd5TmNHSGxqekpnTlBpa01pU2JpWXlBZVlOLUZDRE9xUjhOVlVQc2E4TWEzeTAyczhXeS1Ib2tNMF83Vm9NU3ZSLUhlZFQxNDdTLUJVRmlhLWJQRTNyQU9LN1pGVUZQVDdGS3hpanRHeEcxRDBBWHY3b2RfU1FYQ0hFTWx1TEdOTFY1b0hINmNxakNJUkVDN1pGc2VFaWJHRTlkQ2VDcA?oc=5",
+            "title": "الهيئة العامة للاجئين الفلسطينيين في سوريا تكشف عن إجراءات قانونية وخدمية جديدة - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-ARBVV95cUxPVGhMZFpSR0RHeEFnbGpud3lWSmJMeXBoSXg5X0Q3TTllUEVTT0Y1LVh0ZUEtdTNLcHFlZ01BVDZkdWRtRm82R092MGh6RWViVUxkUmlITGx2N2dMTWN1Ui1KTjdId2hKNk1STHg4MUR1TWNkWkJhSUR6d0JVemw2bVg5RjhGcGtTRFdIbXAzdnlycW0wYWtXY1hobkI5V3B4d3hHZGRRTDVOdlRGelNmOW02WGg4dnV6c2FWOE9QU2FweFE3T1ppUkdiTHFEaUwtajMyVmtvMEc2VmtVRXZ5YmxYQ2FyRm1BRzJGZEl0dkNDZjIycDAxcmx0RTFVMGp3bjhCV1M2bUZKVUU5UGs2R2RBMXlnWWtkR1VkVFpRX3NPZkxzSDhxdmw2cWptNW9CQ3dXbkNSWnBaRi1IUHFVY0dmNlQwX3prR1lFWmt0YzUweFNIZklYRWh4NHp1R25OVmUtUUQ3TVFFdG9uU3RGOVJCX3FUQkQ4ZzU3TVRaZWxIZjMydHIyTWd0M0VLR1VkVXRaUUxWQjhCOEg2VVpiVm5UdnFHTGpWelZHUGlsZTJkSmZqMmo3cTdQeUNkVlYwSE80VFNvb2d6MXFhNGctZ3NLMnEyRHZPUVd5TmNHSGxqekpnTlBpa01pU2JpWXlBZVlOLUZDRE9xUjhOVlVQc2E4TWEzeTAyczhXeS1Ib2tNMF83Vm9NU3ZSLUhlZFQxNDdTLUJVRmlhLWJQRTNyQU9LN1pGVUZQVDdGS3hpanRHeEcxRDBBWHY3b2RfU1FYQ0hFTWx1TEdOTFY1b0hINmNxakNJUkVDN1pGc2VFaWJHRTlkQ2VDcA?oc=5\" target=\"_blank\">الهيئة العامة للاجئين الفلسطينيين في سوريا تكشف عن إجراءات قانونية وخدمية جديدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-23T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "0e1374016d782ca3797f3a6cd308f2378da705fda83c287dbabd534d8bbe13ff",
+            "content_html": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
+            "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+            "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-04.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-22T12:00:00.000Z"
+        },
+        {
+            "id": "6f7cd578b1e12d72eea9775fd47bc5195f031e60705f8a0ad85fb88953d53c10",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMimgVBVV95cUxPNWZtZ1N3ZElPNm1QZDFhbzlzejJEbXlLVTh3TkdNajFRa0ZDVGxnMHNQT2pUZks2UlJ4MnFaWDZSLVRYM0NXdEV6azNpMVZFVlNPMjUxXzJ5cUF1OVpVZGx2eW1vbmRqeHgyOVhVTHdQZS0yMmN4OWxROWllVkNZdGw2RHhPd0RkUkxOUTdoNEQ0WHM5YUFCUUx6MUtiaDlLd3JONXhZNXRRSGZWX2dYOW9lNFc4UzkzYWFZamZlR01WYnhNSjNXUjR0MVd6X05iWlFaZjB2Q296U3dkZTR4dy15bkRfRlc1OHN1MEI2cFgtdUt3Z05waDRtSHJ2Y28zYnRMa0NfcldvY3UtV25VUzlEUl85NFhHZ2t6akQyVjRkX2RxcTNJbDhDbTljQWxqNnFpLUp5WG1WWlZhQldLQnRlajVMN2ZZam1Wdzg3c0h5blBsRkFBQnJfNTBKTWZJZy04QW5kQTRERFlVTkNXb3ZKSjdlRUdpZ3JwMDhISW8zejdHanVJOFg1ZEEwVG9oM0c3RUgzVW9WcEE0dEZ4eUltU19wY2s1ejZPWm1na05pZ2ZGVFBpR3lBNUxocnRlcEFSTVVjR3FNLUNhdW9hQnFTYm95MUlvTW12ZldsQmZGZVJubUI2b2Jkbi1yUXRZYUFHMHJpcFllZHBXdlRaT2JRR0xXNFFMS2ZvUlpvQXlYMDV1cnZ6MDJxbE51LURIMDdlSFN4WkpoYnVYd3NGU0k5U2hZdWFRN2NHNmtuN3o3Skd4QmpNc3F3VWZfaEI4UTR6b3lMeWs1a0k2TnhsQmtHRHA2cW43cWkwa0RBQzhXRjlTNHdOcWxOdnVpaGl1YUNzRlZVYWFOSFJTa09zR1c0SXVYdEVrNHc?oc=5\" target=\"_blank\">تمديد صلاحية البيان العائلي للفلسطينيين في سوريا وتساؤلات حول حذف خانة \"الموطن الأصلي\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxPNWZtZ1N3ZElPNm1QZDFhbzlzejJEbXlLVTh3TkdNajFRa0ZDVGxnMHNQT2pUZks2UlJ4MnFaWDZSLVRYM0NXdEV6azNpMVZFVlNPMjUxXzJ5cUF1OVpVZGx2eW1vbmRqeHgyOVhVTHdQZS0yMmN4OWxROWllVkNZdGw2RHhPd0RkUkxOUTdoNEQ0WHM5YUFCUUx6MUtiaDlLd3JONXhZNXRRSGZWX2dYOW9lNFc4UzkzYWFZamZlR01WYnhNSjNXUjR0MVd6X05iWlFaZjB2Q296U3dkZTR4dy15bkRfRlc1OHN1MEI2cFgtdUt3Z05waDRtSHJ2Y28zYnRMa0NfcldvY3UtV25VUzlEUl85NFhHZ2t6akQyVjRkX2RxcTNJbDhDbTljQWxqNnFpLUp5WG1WWlZhQldLQnRlajVMN2ZZam1Wdzg3c0h5blBsRkFBQnJfNTBKTWZJZy04QW5kQTRERFlVTkNXb3ZKSjdlRUdpZ3JwMDhISW8zejdHanVJOFg1ZEEwVG9oM0c3RUgzVW9WcEE0dEZ4eUltU19wY2s1ejZPWm1na05pZ2ZGVFBpR3lBNUxocnRlcEFSTVVjR3FNLUNhdW9hQnFTYm95MUlvTW12ZldsQmZGZVJubUI2b2Jkbi1yUXRZYUFHMHJpcFllZHBXdlRaT2JRR0xXNFFMS2ZvUlpvQXlYMDV1cnZ6MDJxbE51LURIMDdlSFN4WkpoYnVYd3NGU0k5U2hZdWFRN2NHNmtuN3o3Skd4QmpNc3F3VWZfaEI4UTR6b3lMeWs1a0k2TnhsQmtHRHA2cW43cWkwa0RBQzhXRjlTNHdOcWxOdnVpaGl1YUNzRlZVYWFOSFJTa09zR1c0SXVYdEVrNHc?oc=5",
+            "title": "تمديد صلاحية البيان العائلي للفلسطينيين في سوريا وتساؤلات حول حذف خانة \"الموطن الأصلي\" - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgVBVV95cUxPNWZtZ1N3ZElPNm1QZDFhbzlzejJEbXlLVTh3TkdNajFRa0ZDVGxnMHNQT2pUZks2UlJ4MnFaWDZSLVRYM0NXdEV6azNpMVZFVlNPMjUxXzJ5cUF1OVpVZGx2eW1vbmRqeHgyOVhVTHdQZS0yMmN4OWxROWllVkNZdGw2RHhPd0RkUkxOUTdoNEQ0WHM5YUFCUUx6MUtiaDlLd3JONXhZNXRRSGZWX2dYOW9lNFc4UzkzYWFZamZlR01WYnhNSjNXUjR0MVd6X05iWlFaZjB2Q296U3dkZTR4dy15bkRfRlc1OHN1MEI2cFgtdUt3Z05waDRtSHJ2Y28zYnRMa0NfcldvY3UtV25VUzlEUl85NFhHZ2t6akQyVjRkX2RxcTNJbDhDbTljQWxqNnFpLUp5WG1WWlZhQldLQnRlajVMN2ZZam1Wdzg3c0h5blBsRkFBQnJfNTBKTWZJZy04QW5kQTRERFlVTkNXb3ZKSjdlRUdpZ3JwMDhISW8zejdHanVJOFg1ZEEwVG9oM0c3RUgzVW9WcEE0dEZ4eUltU19wY2s1ejZPWm1na05pZ2ZGVFBpR3lBNUxocnRlcEFSTVVjR3FNLUNhdW9hQnFTYm95MUlvTW12ZldsQmZGZVJubUI2b2Jkbi1yUXRZYUFHMHJpcFllZHBXdlRaT2JRR0xXNFFMS2ZvUlpvQXlYMDV1cnZ6MDJxbE51LURIMDdlSFN4WkpoYnVYd3NGU0k5U2hZdWFRN2NHNmtuN3o3Skd4QmpNc3F3VWZfaEI4UTR6b3lMeWs1a0k2TnhsQmtHRHA2cW43cWkwa0RBQzhXRjlTNHdOcWxOdnVpaGl1YUNzRlZVYWFOSFJTa09zR1c0SXVYdEVrNHc?oc=5\" target=\"_blank\">تمديد صلاحية البيان العائلي للفلسطينيين في سوريا وتساؤلات حول حذف خانة \"الموطن الأصلي\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-22T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "b8659b0fac13b295a1697b3def3d4b627bcc6f4281c83dfef0f4f7325150922d",
+            "content_html": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday while warning that civilians on the ground are still fleeing amid ongoing insecurity.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167768",
+            "title": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
+            "summary": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday while warning that civilians on the ground are still fleeing amid ongoing insecurity.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-03-2026-IOM-Lebanon-05.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-19T12:00:00.000Z"
+        },
+        {
+            "id": "64d08b7c58de3b3c01a44801c7a6dc133f1ad47f5e1051f3dfd1f76719d57771",
+            "content_html": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
+            "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
+            "title": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+            "summary": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/12-05-2026-UNICEF-Gaza.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-06-19T12:00:00.000Z"
+        },
+        {
+            "id": "029fc204f3c84f7fb61b05bea08ca9d53932398ec4da7c8406fe88876c0f13be",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxPUy16NFN1Y212T09PTC1OSDJkU3NqSDBKTWpSTXVBVmFiYnpMdW5PMUdYb2xQbnRmRi1pN3VEWWgtQUlYbVlabWt2ZXVfRVZ1SXRtYWcybHhiVHlsZ1d6UHRwcFZQOXhEektGbXhDWm9rNGtLeklkV0xOYjkyY0djUUNyb19vTXRTM2xNaXd4eElaM2VnZXhqUmVZN0JJVDZGTXptZ3RyUy1BRTFMVTFmd0gxMDVObWZIZTFPZl91bTV3NWNIa3lBdVcyYW1ONHI2MndZQlFqYzhGSUU5akpiQjBPTURYOUFPNVN5XzNreEdseERqUXBDYUluNDQ0MlFBeFBHNHlpV21QRTNzZURwSmVJVzF4RXIzNXhJT01rQzFFVVB1T25TcnJKQ0QzenNHLWFuSENLYjltTzh0Nk0ySjByNGdJSFM2bjBHOEVxTmtRak9kMm5Sb1laWlljTDVrOUxWOS1Ebl95WXRGWGo1TmxGMlBLUnNhRzRKZWEzMkk3Z1pYQTVBWVZQQmFudkNUbnVJMHlEZ3ZlU0lEVllGRy1uc3BRS1J1cEVqWkszb3owQWxJeFBMSm1vS1BjMExKUnBfRmU4dzI1cm56QUxoQmVUZVpXR0pWa1RROHNRVUZLRGdDTnpseEZvd3ZPV1dRd29PaV85dkd3Yk52OEEzbG5qYw?oc=5\" target=\"_blank\">استئناف مساعدات \"أونروا\" النقدية للفلسطينيين في سوريا حتى نهاية 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPUy16NFN1Y212T09PTC1OSDJkU3NqSDBKTWpSTXVBVmFiYnpMdW5PMUdYb2xQbnRmRi1pN3VEWWgtQUlYbVlabWt2ZXVfRVZ1SXRtYWcybHhiVHlsZ1d6UHRwcFZQOXhEektGbXhDWm9rNGtLeklkV0xOYjkyY0djUUNyb19vTXRTM2xNaXd4eElaM2VnZXhqUmVZN0JJVDZGTXptZ3RyUy1BRTFMVTFmd0gxMDVObWZIZTFPZl91bTV3NWNIa3lBdVcyYW1ONHI2MndZQlFqYzhGSUU5akpiQjBPTURYOUFPNVN5XzNreEdseERqUXBDYUluNDQ0MlFBeFBHNHlpV21QRTNzZURwSmVJVzF4RXIzNXhJT01rQzFFVVB1T25TcnJKQ0QzenNHLWFuSENLYjltTzh0Nk0ySjByNGdJSFM2bjBHOEVxTmtRak9kMm5Sb1laWlljTDVrOUxWOS1Ebl95WXRGWGo1TmxGMlBLUnNhRzRKZWEzMkk3Z1pYQTVBWVZQQmFudkNUbnVJMHlEZ3ZlU0lEVllGRy1uc3BRS1J1cEVqWkszb3owQWxJeFBMSm1vS1BjMExKUnBfRmU4dzI1cm56QUxoQmVUZVpXR0pWa1RROHNRVUZLRGdDTnpseEZvd3ZPV1dRd29PaV85dkd3Yk52OEEzbG5qYw?oc=5",
+            "title": "استئناف مساعدات \"أونروا\" النقدية للفلسطينيين في سوريا حتى نهاية 2026 - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxPUy16NFN1Y212T09PTC1OSDJkU3NqSDBKTWpSTXVBVmFiYnpMdW5PMUdYb2xQbnRmRi1pN3VEWWgtQUlYbVlabWt2ZXVfRVZ1SXRtYWcybHhiVHlsZ1d6UHRwcFZQOXhEektGbXhDWm9rNGtLeklkV0xOYjkyY0djUUNyb19vTXRTM2xNaXd4eElaM2VnZXhqUmVZN0JJVDZGTXptZ3RyUy1BRTFMVTFmd0gxMDVObWZIZTFPZl91bTV3NWNIa3lBdVcyYW1ONHI2MndZQlFqYzhGSUU5akpiQjBPTURYOUFPNVN5XzNreEdseERqUXBDYUluNDQ0MlFBeFBHNHlpV21QRTNzZURwSmVJVzF4RXIzNXhJT01rQzFFVVB1T25TcnJKQ0QzenNHLWFuSENLYjltTzh0Nk0ySjByNGdJSFM2bjBHOEVxTmtRak9kMm5Sb1laWlljTDVrOUxWOS1Ebl95WXRGWGo1TmxGMlBLUnNhRzRKZWEzMkk3Z1pYQTVBWVZQQmFudkNUbnVJMHlEZ3ZlU0lEVllGRy1uc3BRS1J1cEVqWkszb3owQWxJeFBMSm1vS1BjMExKUnBfRmU4dzI1cm56QUxoQmVUZVpXR0pWa1RROHNRVUZLRGdDTnpseEZvd3ZPV1dRd29PaV85dkd3Yk52OEEzbG5qYw?oc=5\" target=\"_blank\">استئناف مساعدات \"أونروا\" النقدية للفلسطينيين في سوريا حتى نهاية 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-16T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "1015c4243c02de23e8e9d37ad870ff75d54515cac3f5275173825074717e1da6",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxOODdLNllDZUg3NU5lRjlQSkwtVmd4OUhlSHJwLS1xQU5uY092cXlROXdpNzk0eDA2LWtoNXVBNm9JLUFVZ2FZWlItOXFUMmtRVTd2am5DSWVpeVV1b2NVSEM3eEtQa2RsZjlUZzVhZHpEdXVrSEcxYnRibTFXdDVSUFlibkhTNl81Wk5Uc1FzZXRrYzNKVXoxQlBaWHh1MGpnRHdUdUF3ekNrSEJwbHZHM3BQZHNweE9HMUxRYUp3ZW5xb0NfQ0tJWUVvV2ZhRlg4X1JiQkxrNU5GcU9fSFpuVGk0T1VjeHlMWlpSdjVHVl9yb0xSTi1VNU9WeU1qN21qcTRZTzlRRm4ycGtsS05adm91N0NuVVZWOVNISDRDWjk3RmUxOThlbDJkRnZJdXZZX1FXRERjaVFLN1A5S0k4UTQwbUgtMS1XMWhVWmdsOUk1RFI4RUp2ZlRCMlNjcld2THV1TC1iT2M0ZzFvMzhWQlBNZFI5NkNUOUlGbzFTcDNtZU0zTkZCSHIzUlJHOFY3UDVoWXk5LXJBN0NMRTZTUW91TF9VSlAwcE80UVROUFZOejBBRWNENjFPVjFMZUJLbEN5cnZDV0pzQUJMQ2hwMXVBcy1YeHVReng2djB4QzV4SktXaVRKb3I5SWNZZV9Cd1FHc1lNd2dUU3BxLUJTa0dfSlVfbjJBQ0UzQW9QWlNzeEtUc0tjblpxRTVVTWc5elRyNVFVTEgwWjQ3OWtCb3pRelR2TDgwTkdNang0WGpHT0JHdUtmbjlHdWFsUzQ?oc=5\" target=\"_blank\">حقوق تملك الفلسطينيين في سوريا تعود إلى الواجهة ومطالبات بتعديل التشريعات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOODdLNllDZUg3NU5lRjlQSkwtVmd4OUhlSHJwLS1xQU5uY092cXlROXdpNzk0eDA2LWtoNXVBNm9JLUFVZ2FZWlItOXFUMmtRVTd2am5DSWVpeVV1b2NVSEM3eEtQa2RsZjlUZzVhZHpEdXVrSEcxYnRibTFXdDVSUFlibkhTNl81Wk5Uc1FzZXRrYzNKVXoxQlBaWHh1MGpnRHdUdUF3ekNrSEJwbHZHM3BQZHNweE9HMUxRYUp3ZW5xb0NfQ0tJWUVvV2ZhRlg4X1JiQkxrNU5GcU9fSFpuVGk0T1VjeHlMWlpSdjVHVl9yb0xSTi1VNU9WeU1qN21qcTRZTzlRRm4ycGtsS05adm91N0NuVVZWOVNISDRDWjk3RmUxOThlbDJkRnZJdXZZX1FXRERjaVFLN1A5S0k4UTQwbUgtMS1XMWhVWmdsOUk1RFI4RUp2ZlRCMlNjcld2THV1TC1iT2M0ZzFvMzhWQlBNZFI5NkNUOUlGbzFTcDNtZU0zTkZCSHIzUlJHOFY3UDVoWXk5LXJBN0NMRTZTUW91TF9VSlAwcE80UVROUFZOejBBRWNENjFPVjFMZUJLbEN5cnZDV0pzQUJMQ2hwMXVBcy1YeHVReng2djB4QzV4SktXaVRKb3I5SWNZZV9Cd1FHc1lNd2dUU3BxLUJTa0dfSlVfbjJBQ0UzQW9QWlNzeEtUc0tjblpxRTVVTWc5elRyNVFVTEgwWjQ3OWtCb3pRelR2TDgwTkdNang0WGpHT0JHdUtmbjlHdWFsUzQ?oc=5",
+            "title": "حقوق تملك الفلسطينيين في سوريا تعود إلى الواجهة ومطالبات بتعديل التشريعات - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxOODdLNllDZUg3NU5lRjlQSkwtVmd4OUhlSHJwLS1xQU5uY092cXlROXdpNzk0eDA2LWtoNXVBNm9JLUFVZ2FZWlItOXFUMmtRVTd2am5DSWVpeVV1b2NVSEM3eEtQa2RsZjlUZzVhZHpEdXVrSEcxYnRibTFXdDVSUFlibkhTNl81Wk5Uc1FzZXRrYzNKVXoxQlBaWHh1MGpnRHdUdUF3ekNrSEJwbHZHM3BQZHNweE9HMUxRYUp3ZW5xb0NfQ0tJWUVvV2ZhRlg4X1JiQkxrNU5GcU9fSFpuVGk0T1VjeHlMWlpSdjVHVl9yb0xSTi1VNU9WeU1qN21qcTRZTzlRRm4ycGtsS05adm91N0NuVVZWOVNISDRDWjk3RmUxOThlbDJkRnZJdXZZX1FXRERjaVFLN1A5S0k4UTQwbUgtMS1XMWhVWmdsOUk1RFI4RUp2ZlRCMlNjcld2THV1TC1iT2M0ZzFvMzhWQlBNZFI5NkNUOUlGbzFTcDNtZU0zTkZCSHIzUlJHOFY3UDVoWXk5LXJBN0NMRTZTUW91TF9VSlAwcE80UVROUFZOejBBRWNENjFPVjFMZUJLbEN5cnZDV0pzQUJMQ2hwMXVBcy1YeHVReng2djB4QzV4SktXaVRKb3I5SWNZZV9Cd1FHc1lNd2dUU3BxLUJTa0dfSlVfbjJBQ0UzQW9QWlNzeEtUc0tjblpxRTVVTWc5elRyNVFVTEgwWjQ3OWtCb3pRelR2TDgwTkdNang0WGpHT0JHdUtmbjlHdWFsUzQ?oc=5\" target=\"_blank\">حقوق تملك الفلسطينيين في سوريا تعود إلى الواجهة ومطالبات بتعديل التشريعات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-15T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "02cc7d008088e3c1464058eb557eb915b85b299908887b30e6699d3b79b0d525",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZHMyV0FweThYWjM0YVNDaDNidTJhZkJtWl9JMjgxOVhPZDhrM3k0OF9tVG56U2t4b1ppWVFMQ0lweTgwbXc?oc=5\" target=\"_blank\">اختتام أعمال ورشة \"سوريا وفلسطين\" ببحث أبعاد القضية الفلسطينية وواقع اللاجئين وإعادة الإعمار</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZHMyV0FweThYWjM0YVNDaDNidTJhZkJtWl9JMjgxOVhPZDhrM3k0OF9tVG56U2t4b1ppWVFMQ0lweTgwbXc?oc=5",
+            "title": "اختتام أعمال ورشة \"سوريا وفلسطين\" ببحث أبعاد القضية الفلسطينية وواقع اللاجئين وإعادة الإعمار - سانا",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZHMyV0FweThYWjM0YVNDaDNidTJhZkJtWl9JMjgxOVhPZDhrM3k0OF9tVG56U2t4b1ppWVFMQ0lweTgwbXc?oc=5\" target=\"_blank\">اختتام أعمال ورشة \"سوريا وفلسطين\" ببحث أبعاد القضية الفلسطينية وواقع اللاجئين وإعادة الإعمار</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "date_modified": "2026-06-14T07:00:00.000Z",
+            "author": {
+                "name": "سانا"
+            }
+        },
+        {
+            "id": "8017b8aacf7ccd090e4997ba4bd4741ead129648986f6efea61ce1e99ec7ef16",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMijARBVV95cUxQZ0NZYUFjczNhdi1RNGl2QXBNQUl4bUZoZzdzTUtveUt1TGR4amVCOEFHNDI5NnNwdjVndnZmSjRsWHU2X2FuNDJzcS1WMVFMNG1hS0x6dUlQcVFFSTN4UkJuUDEtOFJ3QUxtb0Qza1EtMWZyVGhFRE5pb1pKa0hsbnNZSlpCS191TEpWUTJOUDA2WjdoOTdValFycmk3S3ZPZjdjSktYaTUwMWRDc2dtVXJKZzhnSHVQWjhtcl9ONkgwM3VFR1J4Y0FKelpsbTE2YlM5d1NsSk5ucFdQdFlMbUh5dVRVMXdHMjNZWkdlV0w1dlZlanVLTTA2V2lEb0QxLWRfR2tiVUtCVDJyRmJYU3NYNUN0cEdtUFBvRWlwMWlMZWJEZVI5QklIS1Nwbm04VmdVYlJ0Y3ZPcXBLU1VKcFJhUW5pT3dhR3hGVkZGbmJ4SmtSLXRhc0RTeDN5RE44RUthRVRLakJqVkxNQlR4LXFTM1ZlOHNkdTYwUDhhakxaclpXYXo4SUkyemt5ZG5nQXRzRmFuZVJQRU55M1VvYmtLcTVuM0JSOVNfMzNsbEhqNGpFendYRWhIa1dOclpHZThxZmJCTnM3b2hIOHJPUjgyTW1IbnlULXlXY1ZVSHhrMmw2M1lJT1kyTGFzNVI0eWc4R3dja1I2d1dnMWVZbC1IZmktUUN5V3FINNIBkgRBVV95cUxNT2EtQ0J4b0tvVFR3VDZwWGZTUUJKSUZ5bzliT0FjNEQ3MkkxQ05sQ011RUxOU0w1YkQxR215ZVUzelhmMTdiRXJsZ0ZYUHhZQUFFRkdiWGVMQ0JZWlZWV29wMDllRXE2TzRLYzZkUk9aZmpxbDA3WE82R0d5eEd1M3Eta1VURllHTVVFZFdYaDFtOVVpWVZwSXNhWVV3NjFmN3N5RnNETkctMHpPZVpwa0lSOEpjVHhHX0hiV050ZGhWMzVyN0N0b0V4RjlXM3A1YUZISHZ3SExvYjJ5TDdyaDVUeHZRckY5OXBHUWdkalhOQW1wNWhqZGp1Z05BT0RDWGl5OTViNTVXbXVldzdhWU4xUjhicDU0Z0czUVhQUVdWelBxUjktVG5DMVhDWnJXLXZvSzlEcjVLQ3dPWXQxQnlDRFVoY2tkcUdnTWNFSkFobzJFTFUza1ptQzBIX0JaMzBKcTBzS1RVVGU3QUFRcGhkNXpISVRmY3dDVWE0S3BNaWlyRGJoZVVUbW4tY2JPYVhVSkRGVjZqMHlFa0twN0RQMTFqdWhYZDg2Y1RXWnhEMEZWdXdnZEs0a3A1TUdYQkhVUFBNaUxNRHBaSnB0M3BpQ3J1Ukh5aFNkQWljRWhvZUlQZ3VYbVBTaGE5djZmaEgtNEh0V3VSaWRaM2hidE9ReDNWUUQzUU44dDVTeUxwZw?oc=5\" target=\"_blank\">تعيين الفلسطيني السوري مؤيد البنا مديراً للشركة السورية للمعادن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQZ0NZYUFjczNhdi1RNGl2QXBNQUl4bUZoZzdzTUtveUt1TGR4amVCOEFHNDI5NnNwdjVndnZmSjRsWHU2X2FuNDJzcS1WMVFMNG1hS0x6dUlQcVFFSTN4UkJuUDEtOFJ3QUxtb0Qza1EtMWZyVGhFRE5pb1pKa0hsbnNZSlpCS191TEpWUTJOUDA2WjdoOTdValFycmk3S3ZPZjdjSktYaTUwMWRDc2dtVXJKZzhnSHVQWjhtcl9ONkgwM3VFR1J4Y0FKelpsbTE2YlM5d1NsSk5ucFdQdFlMbUh5dVRVMXdHMjNZWkdlV0w1dlZlanVLTTA2V2lEb0QxLWRfR2tiVUtCVDJyRmJYU3NYNUN0cEdtUFBvRWlwMWlMZWJEZVI5QklIS1Nwbm04VmdVYlJ0Y3ZPcXBLU1VKcFJhUW5pT3dhR3hGVkZGbmJ4SmtSLXRhc0RTeDN5RE44RUthRVRLakJqVkxNQlR4LXFTM1ZlOHNkdTYwUDhhakxaclpXYXo4SUkyemt5ZG5nQXRzRmFuZVJQRU55M1VvYmtLcTVuM0JSOVNfMzNsbEhqNGpFendYRWhIa1dOclpHZThxZmJCTnM3b2hIOHJPUjgyTW1IbnlULXlXY1ZVSHhrMmw2M1lJT1kyTGFzNVI0eWc4R3dja1I2d1dnMWVZbC1IZmktUUN5V3FINNIBkgRBVV95cUxNT2EtQ0J4b0tvVFR3VDZwWGZTUUJKSUZ5bzliT0FjNEQ3MkkxQ05sQ011RUxOU0w1YkQxR215ZVUzelhmMTdiRXJsZ0ZYUHhZQUFFRkdiWGVMQ0JZWlZWV29wMDllRXE2TzRLYzZkUk9aZmpxbDA3WE82R0d5eEd1M3Eta1VURllHTVVFZFdYaDFtOVVpWVZwSXNhWVV3NjFmN3N5RnNETkctMHpPZVpwa0lSOEpjVHhHX0hiV050ZGhWMzVyN0N0b0V4RjlXM3A1YUZISHZ3SExvYjJ5TDdyaDVUeHZRckY5OXBHUWdkalhOQW1wNWhqZGp1Z05BT0RDWGl5OTViNTVXbXVldzdhWU4xUjhicDU0Z0czUVhQUVdWelBxUjktVG5DMVhDWnJXLXZvSzlEcjVLQ3dPWXQxQnlDRFVoY2tkcUdnTWNFSkFobzJFTFUza1ptQzBIX0JaMzBKcTBzS1RVVGU3QUFRcGhkNXpISVRmY3dDVWE0S3BNaWlyRGJoZVVUbW4tY2JPYVhVSkRGVjZqMHlFa0twN0RQMTFqdWhYZDg2Y1RXWnhEMEZWdXdnZEs0a3A1TUdYQkhVUFBNaUxNRHBaSnB0M3BpQ3J1Ukh5aFNkQWljRWhvZUlQZ3VYbVBTaGE5djZmaEgtNEh0V3VSaWRaM2hidE9ReDNWUUQzUU44dDVTeUxwZw?oc=5",
+            "title": "تعيين الفلسطيني السوري مؤيد البنا مديراً للشركة السورية للمعادن - العربي الجديد",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijARBVV95cUxQZ0NZYUFjczNhdi1RNGl2QXBNQUl4bUZoZzdzTUtveUt1TGR4amVCOEFHNDI5NnNwdjVndnZmSjRsWHU2X2FuNDJzcS1WMVFMNG1hS0x6dUlQcVFFSTN4UkJuUDEtOFJ3QUxtb0Qza1EtMWZyVGhFRE5pb1pKa0hsbnNZSlpCS191TEpWUTJOUDA2WjdoOTdValFycmk3S3ZPZjdjSktYaTUwMWRDc2dtVXJKZzhnSHVQWjhtcl9ONkgwM3VFR1J4Y0FKelpsbTE2YlM5d1NsSk5ucFdQdFlMbUh5dVRVMXdHMjNZWkdlV0w1dlZlanVLTTA2V2lEb0QxLWRfR2tiVUtCVDJyRmJYU3NYNUN0cEdtUFBvRWlwMWlMZWJEZVI5QklIS1Nwbm04VmdVYlJ0Y3ZPcXBLU1VKcFJhUW5pT3dhR3hGVkZGbmJ4SmtSLXRhc0RTeDN5RE44RUthRVRLakJqVkxNQlR4LXFTM1ZlOHNkdTYwUDhhakxaclpXYXo4SUkyemt5ZG5nQXRzRmFuZVJQRU55M1VvYmtLcTVuM0JSOVNfMzNsbEhqNGpFendYRWhIa1dOclpHZThxZmJCTnM3b2hIOHJPUjgyTW1IbnlULXlXY1ZVSHhrMmw2M1lJT1kyTGFzNVI0eWc4R3dja1I2d1dnMWVZbC1IZmktUUN5V3FINNIBkgRBVV95cUxNT2EtQ0J4b0tvVFR3VDZwWGZTUUJKSUZ5bzliT0FjNEQ3MkkxQ05sQ011RUxOU0w1YkQxR215ZVUzelhmMTdiRXJsZ0ZYUHhZQUFFRkdiWGVMQ0JZWlZWV29wMDllRXE2TzRLYzZkUk9aZmpxbDA3WE82R0d5eEd1M3Eta1VURllHTVVFZFdYaDFtOVVpWVZwSXNhWVV3NjFmN3N5RnNETkctMHpPZVpwa0lSOEpjVHhHX0hiV050ZGhWMzVyN0N0b0V4RjlXM3A1YUZISHZ3SExvYjJ5TDdyaDVUeHZRckY5OXBHUWdkalhOQW1wNWhqZGp1Z05BT0RDWGl5OTViNTVXbXVldzdhWU4xUjhicDU0Z0czUVhQUVdWelBxUjktVG5DMVhDWnJXLXZvSzlEcjVLQ3dPWXQxQnlDRFVoY2tkcUdnTWNFSkFobzJFTFUza1ptQzBIX0JaMzBKcTBzS1RVVGU3QUFRcGhkNXpISVRmY3dDVWE0S3BNaWlyRGJoZVVUbW4tY2JPYVhVSkRGVjZqMHlFa0twN0RQMTFqdWhYZDg2Y1RXWnhEMEZWdXdnZEs0a3A1TUdYQkhVUFBNaUxNRHBaSnB0M3BpQ3J1Ukh5aFNkQWljRWhvZUlQZ3VYbVBTaGE5djZmaEgtNEh0V3VSaWRaM2hidE9ReDNWUUQzUU44dDVTeUxwZw?oc=5\" target=\"_blank\">تعيين الفلسطيني السوري مؤيد البنا مديراً للشركة السورية للمعادن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "date_modified": "2026-06-13T07:00:00.000Z",
+            "author": {
+                "name": "العربي الجديد"
+            }
+        },
+        {
+            "id": "cbd11ff10931e25a4494665252f680ce06e97386c133f2fb96a136498ce5788a",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxPblI4dkY3aWlTNDB0T0VoYWwtb1NpbXlwc21KNnBFVHpILXo2MUIxV3l6QWdKeTFZczV4RUtZRW4yN2VMSzhoelpJekNkczNpQUJDZkJLVFdtTlpoaGo2STNjby1meGJWM3JVeElnUmluQldPQnpYNTZ6RHRiSTdfT05adlVIZ2JYQU5zY1JVN3BxUDNnbFF1bEExMks5OVU1dWlieUtvVk4wR1cyaW5yMnlYMlZKdmxwdWdQdk1fMHo1U2tWbXM0cm9LTVFYNlRXQ2NrSFlvY1F1NDhwbXptX2VwZGRfaF9Rb2pPcVFEaklCVG5GRnRGa05HZkx2N2NYYkFoZFZKNTQ5TEdTa3AtaldDb1lIaFk1TVJZbWlXNHVFbFExUWpTX1JfLXNlN3ZXVFhLN3J5YlNuLUQtMFZlZTZ1VnpZYXZGZlRMX0pqRVlENzk5Y3RINThQWmZDM2JNVFQxakFsMFkwSTQ0M25uN1p3NXNnZGl5ZDNidHRxQ0JYT2Rad2NwZm5EX1BBNERJTHV2VFZjLUc2WVVwRFFxNnpQS3lxeWN2MTNMaWl4SjhSMGlrakhwT0xoeE1EenFMbDhvOUU1NzJWUWs?oc=5\" target=\"_blank\">انتقادات فلسطينية لخفض مساعدات فلسطينيي سوريا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPblI4dkY3aWlTNDB0T0VoYWwtb1NpbXlwc21KNnBFVHpILXo2MUIxV3l6QWdKeTFZczV4RUtZRW4yN2VMSzhoelpJekNkczNpQUJDZkJLVFdtTlpoaGo2STNjby1meGJWM3JVeElnUmluQldPQnpYNTZ6RHRiSTdfT05adlVIZ2JYQU5zY1JVN3BxUDNnbFF1bEExMks5OVU1dWlieUtvVk4wR1cyaW5yMnlYMlZKdmxwdWdQdk1fMHo1U2tWbXM0cm9LTVFYNlRXQ2NrSFlvY1F1NDhwbXptX2VwZGRfaF9Rb2pPcVFEaklCVG5GRnRGa05HZkx2N2NYYkFoZFZKNTQ5TEdTa3AtaldDb1lIaFk1TVJZbWlXNHVFbFExUWpTX1JfLXNlN3ZXVFhLN3J5YlNuLUQtMFZlZTZ1VnpZYXZGZlRMX0pqRVlENzk5Y3RINThQWmZDM2JNVFQxakFsMFkwSTQ0M25uN1p3NXNnZGl5ZDNidHRxQ0JYT2Rad2NwZm5EX1BBNERJTHV2VFZjLUc2WVVwRFFxNnpQS3lxeWN2MTNMaWl4SjhSMGlrakhwT0xoeE1EenFMbDhvOUU1NzJWUWs?oc=5",
+            "title": "انتقادات فلسطينية لخفض مساعدات فلسطينيي سوريا في لبنان - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywNBVV95cUxPblI4dkY3aWlTNDB0T0VoYWwtb1NpbXlwc21KNnBFVHpILXo2MUIxV3l6QWdKeTFZczV4RUtZRW4yN2VMSzhoelpJekNkczNpQUJDZkJLVFdtTlpoaGo2STNjby1meGJWM3JVeElnUmluQldPQnpYNTZ6RHRiSTdfT05adlVIZ2JYQU5zY1JVN3BxUDNnbFF1bEExMks5OVU1dWlieUtvVk4wR1cyaW5yMnlYMlZKdmxwdWdQdk1fMHo1U2tWbXM0cm9LTVFYNlRXQ2NrSFlvY1F1NDhwbXptX2VwZGRfaF9Rb2pPcVFEaklCVG5GRnRGa05HZkx2N2NYYkFoZFZKNTQ5TEdTa3AtaldDb1lIaFk1TVJZbWlXNHVFbFExUWpTX1JfLXNlN3ZXVFhLN3J5YlNuLUQtMFZlZTZ1VnpZYXZGZlRMX0pqRVlENzk5Y3RINThQWmZDM2JNVFQxakFsMFkwSTQ0M25uN1p3NXNnZGl5ZDNidHRxQ0JYT2Rad2NwZm5EX1BBNERJTHV2VFZjLUc2WVVwRFFxNnpQS3lxeWN2MTNMaWl4SjhSMGlrakhwT0xoeE1EenFMbDhvOUU1NzJWUWs?oc=5\" target=\"_blank\">انتقادات فلسطينية لخفض مساعدات فلسطينيي سوريا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-11T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "e05a4473262e11f82cc107449a46532c37345546ab1e9e497f406b6cde21d084",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiuARBVV95cUxPWHVITU5rOExRZ2NjdUdPNjJDZXBSLTdwQUFZeUNKbFlqMENXMDduemY2OWc0ZjRJWXNpRlVHX2YyZ011LU9YVE80Wk85NmNCMFg5RDNsZW1GMFBKeGxNY1Z6NWxrS1VqbGFJM2FleUh5cmUtanoxNmFLekMtVlMzYkdIZ1R0NUlfdm0xZ2lldG4wQS1jMnJDSDZSTHlEWjB6Q0lFUV9hS1AxaWNjTktUSEF4eDVpNTBpMEthbjI4Z1NZajZFekUydXcwaWEzUnF1VFcwSE80Q2pnWHM5VVZfMTNjLW5iSFdlRkdZVXU0RG1VZUF2Q2hDVDZFRTlrVU56OUFqZlZrWmZvRVZrM1pmWXViUG1ITWdVc0FtLWJtZ0dHVWxpLTFNTEc2NjdRN3diSE03VjlIQjhnaVFZRjNzMXotUHo1VzFnWGdncTB5aDNqNHFfbnRDUXhQVjFkOG9BUFhOMWdUcXhLMkNpb0tULWlTZjlfQ25tT2Zzc0dzVmVHUXNPSjVOQ1hfa09LUk0wRlpfcFpNX0g3QzdsRHYwVjA0TlAxZVlrZmphVlRtUkRObVdWdHRnUXY2WGFRTjlOcWZpb0RncEhGajF1WjAyVy1CMlplSkVlbFJCZG1Eak9RX0ZFVzFvTXlkWWNBekxTYkUtellaeFQ1ZHZycDhTRHVqMjdHNnpYdDdRbV9SU0xVbkpkdDd2V2xnaUV1VzRNSXRhRm5KOGRNVlp4UElNbVd4Y3ktcWNx?oc=5\" target=\"_blank\">\"أونروا\" تعلن موعد توزيع دفعة جديدة من المساعدات لفلسطينيي سوريا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPWHVITU5rOExRZ2NjdUdPNjJDZXBSLTdwQUFZeUNKbFlqMENXMDduemY2OWc0ZjRJWXNpRlVHX2YyZ011LU9YVE80Wk85NmNCMFg5RDNsZW1GMFBKeGxNY1Z6NWxrS1VqbGFJM2FleUh5cmUtanoxNmFLekMtVlMzYkdIZ1R0NUlfdm0xZ2lldG4wQS1jMnJDSDZSTHlEWjB6Q0lFUV9hS1AxaWNjTktUSEF4eDVpNTBpMEthbjI4Z1NZajZFekUydXcwaWEzUnF1VFcwSE80Q2pnWHM5VVZfMTNjLW5iSFdlRkdZVXU0RG1VZUF2Q2hDVDZFRTlrVU56OUFqZlZrWmZvRVZrM1pmWXViUG1ITWdVc0FtLWJtZ0dHVWxpLTFNTEc2NjdRN3diSE03VjlIQjhnaVFZRjNzMXotUHo1VzFnWGdncTB5aDNqNHFfbnRDUXhQVjFkOG9BUFhOMWdUcXhLMkNpb0tULWlTZjlfQ25tT2Zzc0dzVmVHUXNPSjVOQ1hfa09LUk0wRlpfcFpNX0g3QzdsRHYwVjA0TlAxZVlrZmphVlRtUkRObVdWdHRnUXY2WGFRTjlOcWZpb0RncEhGajF1WjAyVy1CMlplSkVlbFJCZG1Eak9RX0ZFVzFvTXlkWWNBekxTYkUtellaeFQ1ZHZycDhTRHVqMjdHNnpYdDdRbV9SU0xVbkpkdDd2V2xnaUV1VzRNSXRhRm5KOGRNVlp4UElNbVd4Y3ktcWNx?oc=5",
+            "title": "\"أونروا\" تعلن موعد توزيع دفعة جديدة من المساعدات لفلسطينيي سوريا في لبنان - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuARBVV95cUxPWHVITU5rOExRZ2NjdUdPNjJDZXBSLTdwQUFZeUNKbFlqMENXMDduemY2OWc0ZjRJWXNpRlVHX2YyZ011LU9YVE80Wk85NmNCMFg5RDNsZW1GMFBKeGxNY1Z6NWxrS1VqbGFJM2FleUh5cmUtanoxNmFLekMtVlMzYkdIZ1R0NUlfdm0xZ2lldG4wQS1jMnJDSDZSTHlEWjB6Q0lFUV9hS1AxaWNjTktUSEF4eDVpNTBpMEthbjI4Z1NZajZFekUydXcwaWEzUnF1VFcwSE80Q2pnWHM5VVZfMTNjLW5iSFdlRkdZVXU0RG1VZUF2Q2hDVDZFRTlrVU56OUFqZlZrWmZvRVZrM1pmWXViUG1ITWdVc0FtLWJtZ0dHVWxpLTFNTEc2NjdRN3diSE03VjlIQjhnaVFZRjNzMXotUHo1VzFnWGdncTB5aDNqNHFfbnRDUXhQVjFkOG9BUFhOMWdUcXhLMkNpb0tULWlTZjlfQ25tT2Zzc0dzVmVHUXNPSjVOQ1hfa09LUk0wRlpfcFpNX0g3QzdsRHYwVjA0TlAxZVlrZmphVlRtUkRObVdWdHRnUXY2WGFRTjlOcWZpb0RncEhGajF1WjAyVy1CMlplSkVlbFJCZG1Eak9RX0ZFVzFvTXlkWWNBekxTYkUtellaeFQ1ZHZycDhTRHVqMjdHNnpYdDdRbV9SU0xVbkpkdDd2V2xnaUV1VzRNSXRhRm5KOGRNVlp4UElNbVd4Y3ktcWNx?oc=5\" target=\"_blank\">\"أونروا\" تعلن موعد توزيع دفعة جديدة من المساعدات لفلسطينيي سوريا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-11T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "5c36dabd579deeb1b253780bb34d60699e050bc0f0754ec48723c877b43630f6",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi8gJBVV95cUxOZXJIU2hZeC1ndTRxQk81ZzFrV3huVWRQSTFJRGJMNko1Sk16Tkpsa1pzVGNpVjY5eFdNWXUzTjN6TDBXbVZRSEtCUWVFVDl0MlhYN1pUMVIwTkJ3MW0wd1hUN0JwNFJUaGJsdFVwZXVIclNobE9jU1ltd1pDYUtMekJreXEzOXlFMWVscmJFQ0RIVG5tVElJRFM2dWxmNWdqRzRJYXgtTXZ4QXphVk5zbmNiYlRLWmp4N19wYkZ6SmhVT0xaZ3FBWmRIMThJaWRQVFRJS2tRXzI5RTBiZjdCWkJuVUltYmtZRGZuX1ZFOF8xYU5qUHVzQjBhcVlCZVBWUVp2eXV4TGtlbTJNekRhd0VaZ21idDhwTmZSajdRbGk4Z0pleUV3XzM1b3ppempTY3ltRUUzVU93VUc2dXB0dUNSXy16Mm50WFFxX2VhTkZSZkxOOGVNRVl2TWxXSFE1TENBa05wdnVmREd1Q0dMSkRB0gH3AkFVX3lxTE5tUDNIOThPaWRWTXFUXzhidjk2ZWMtd1gtSUJlY1N2OWtSZEptRDhNZTIzM1pEdFRXdFZ5RW1nZ04wRkxoWmozcEJvU1JUNGFjVHRqV2lBVkR6NC04NmZJVzhvY2xqUGQxOXpnRmZETk9qVFc1WkxtUzF3ZlZzTl9xSF8zcHpCRDRiTlJ0M2FYY0g5RFd5dDBmYm1lckZIdjIzV2NTdllBNzVidlRpblZVM29uelVQWXFXcDllaGxKNUNnQWh2X3dWRDJWX3pjbWYxT1ZrS08xdDAwdkdnbi1TNXdOV3VqVVBxd0RZWC1TNldhZGtDT3dJUDVVbEwwTmVNSE95VlpRSDlKUEluSzZfMEY1VWc1TEV4dWRVTG9sVGNUWkRUb04zYzY5YnNhcUVqRjRTVjZaY3o5TEdraTBmR1llWnhMRDlLT3lxd0RCSjhoT2p3VEVCbU56dGdaZm9jOXRjQVU2czUwVVA3X2tQUlpXVmpRSQ?oc=5\" target=\"_blank\">الفلسطينيون في تركيا... وضع مختلف عن السوريين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOZXJIU2hZeC1ndTRxQk81ZzFrV3huVWRQSTFJRGJMNko1Sk16Tkpsa1pzVGNpVjY5eFdNWXUzTjN6TDBXbVZRSEtCUWVFVDl0MlhYN1pUMVIwTkJ3MW0wd1hUN0JwNFJUaGJsdFVwZXVIclNobE9jU1ltd1pDYUtMekJreXEzOXlFMWVscmJFQ0RIVG5tVElJRFM2dWxmNWdqRzRJYXgtTXZ4QXphVk5zbmNiYlRLWmp4N19wYkZ6SmhVT0xaZ3FBWmRIMThJaWRQVFRJS2tRXzI5RTBiZjdCWkJuVUltYmtZRGZuX1ZFOF8xYU5qUHVzQjBhcVlCZVBWUVp2eXV4TGtlbTJNekRhd0VaZ21idDhwTmZSajdRbGk4Z0pleUV3XzM1b3ppempTY3ltRUUzVU93VUc2dXB0dUNSXy16Mm50WFFxX2VhTkZSZkxOOGVNRVl2TWxXSFE1TENBa05wdnVmREd1Q0dMSkRB0gH3AkFVX3lxTE5tUDNIOThPaWRWTXFUXzhidjk2ZWMtd1gtSUJlY1N2OWtSZEptRDhNZTIzM1pEdFRXdFZ5RW1nZ04wRkxoWmozcEJvU1JUNGFjVHRqV2lBVkR6NC04NmZJVzhvY2xqUGQxOXpnRmZETk9qVFc1WkxtUzF3ZlZzTl9xSF8zcHpCRDRiTlJ0M2FYY0g5RFd5dDBmYm1lckZIdjIzV2NTdllBNzVidlRpblZVM29uelVQWXFXcDllaGxKNUNnQWh2X3dWRDJWX3pjbWYxT1ZrS08xdDAwdkdnbi1TNXdOV3VqVVBxd0RZWC1TNldhZGtDT3dJUDVVbEwwTmVNSE95VlpRSDlKUEluSzZfMEY1VWc1TEV4dWRVTG9sVGNUWkRUb04zYzY5YnNhcUVqRjRTVjZaY3o5TEdraTBmR1llWnhMRDlLT3lxd0RCSjhoT2p3VEVCbU56dGdaZm9jOXRjQVU2czUwVVA3X2tQUlpXVmpRSQ?oc=5",
+            "title": "الفلسطينيون في تركيا... وضع مختلف عن السوريين - العربي الجديد",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gJBVV95cUxOZXJIU2hZeC1ndTRxQk81ZzFrV3huVWRQSTFJRGJMNko1Sk16Tkpsa1pzVGNpVjY5eFdNWXUzTjN6TDBXbVZRSEtCUWVFVDl0MlhYN1pUMVIwTkJ3MW0wd1hUN0JwNFJUaGJsdFVwZXVIclNobE9jU1ltd1pDYUtMekJreXEzOXlFMWVscmJFQ0RIVG5tVElJRFM2dWxmNWdqRzRJYXgtTXZ4QXphVk5zbmNiYlRLWmp4N19wYkZ6SmhVT0xaZ3FBWmRIMThJaWRQVFRJS2tRXzI5RTBiZjdCWkJuVUltYmtZRGZuX1ZFOF8xYU5qUHVzQjBhcVlCZVBWUVp2eXV4TGtlbTJNekRhd0VaZ21idDhwTmZSajdRbGk4Z0pleUV3XzM1b3ppempTY3ltRUUzVU93VUc2dXB0dUNSXy16Mm50WFFxX2VhTkZSZkxOOGVNRVl2TWxXSFE1TENBa05wdnVmREd1Q0dMSkRB0gH3AkFVX3lxTE5tUDNIOThPaWRWTXFUXzhidjk2ZWMtd1gtSUJlY1N2OWtSZEptRDhNZTIzM1pEdFRXdFZ5RW1nZ04wRkxoWmozcEJvU1JUNGFjVHRqV2lBVkR6NC04NmZJVzhvY2xqUGQxOXpnRmZETk9qVFc1WkxtUzF3ZlZzTl9xSF8zcHpCRDRiTlJ0M2FYY0g5RFd5dDBmYm1lckZIdjIzV2NTdllBNzVidlRpblZVM29uelVQWXFXcDllaGxKNUNnQWh2X3dWRDJWX3pjbWYxT1ZrS08xdDAwdkdnbi1TNXdOV3VqVVBxd0RZWC1TNldhZGtDT3dJUDVVbEwwTmVNSE95VlpRSDlKUEluSzZfMEY1VWc1TEV4dWRVTG9sVGNUWkRUb04zYzY5YnNhcUVqRjRTVjZaY3o5TEdraTBmR1llWnhMRDlLT3lxd0RCSjhoT2p3VEVCbU56dGdaZm9jOXRjQVU2czUwVVA3X2tQUlpXVmpRSQ?oc=5\" target=\"_blank\">الفلسطينيون في تركيا... وضع مختلف عن السوريين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "date_modified": "2026-06-08T07:00:00.000Z",
+            "author": {
+                "name": "العربي الجديد"
+            }
+        },
+        {
+            "id": "7f26f1e63164aa8796a31b234cd4dba8787643b9afeaf350f0763e31a3545722",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNam02QzFzVVB0OFY0aDk2eEc1SWhKUnVGeFVEMFhadjRYbWxMWXJWMmJVZHIxaE84QmxaS3FhMGtTendrV3g4X1l3ejJjbkRuaVNRbmZIQ0NKWmFiTC1zYzNYbDFNQ3NLTktHSFJkd3BwRHlxWDFYU2ZvTE5xdlFESURTUlZwVnFFbHV0MFVpNjZOeEhWSFJ5cXJURjhhNnNFWGVPWFU5WjJjVkdOb1FGb3Q4OEJSdmJoRzllVmZEUFBHN05RQ05jY0tmQlYzSGtuTE56UUdOR1M2bjZoZHphNC1BN2EzSlNxV05sZlowUVVNQWU3MUp30gH8AUFVX3lxTE9MRk95RkJDU2JKR2c0UlhuZWh3Tk15d2lseXB4elRkaUdwQU90SjdWSWpacHlaMEpJQ0tLbG1SdXZqdjlpWXlOUExPRnBST0hpbHFGZXl6T09nb2NVQTR6ejdSVGN1cFFsbEJod1U1QXpud0JNa0JPWXlERzhyazQ4SktjTXdzMFNFaHhqa2NLd0JOQzFRZTZoemtjYXJVb1ZTWEFFNWVCUGt2X0NsSVpnQnB1MEZoMUllQWlqaUoyVUU1aURhYUZDVTF6a2pyVFd5XzFQMm9BVllNNWJBbm5UUV9fRGtMRzlsbl9pQnBSbkx0Sm12R0ZCMTVHUQ?oc=5\" target=\"_blank\">من ينصف الفلسطيني السوري؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNam02QzFzVVB0OFY0aDk2eEc1SWhKUnVGeFVEMFhadjRYbWxMWXJWMmJVZHIxaE84QmxaS3FhMGtTendrV3g4X1l3ejJjbkRuaVNRbmZIQ0NKWmFiTC1zYzNYbDFNQ3NLTktHSFJkd3BwRHlxWDFYU2ZvTE5xdlFESURTUlZwVnFFbHV0MFVpNjZOeEhWSFJ5cXJURjhhNnNFWGVPWFU5WjJjVkdOb1FGb3Q4OEJSdmJoRzllVmZEUFBHN05RQ05jY0tmQlYzSGtuTE56UUdOR1M2bjZoZHphNC1BN2EzSlNxV05sZlowUVVNQWU3MUp30gH8AUFVX3lxTE9MRk95RkJDU2JKR2c0UlhuZWh3Tk15d2lseXB4elRkaUdwQU90SjdWSWpacHlaMEpJQ0tLbG1SdXZqdjlpWXlOUExPRnBST0hpbHFGZXl6T09nb2NVQTR6ejdSVGN1cFFsbEJod1U1QXpud0JNa0JPWXlERzhyazQ4SktjTXdzMFNFaHhqa2NLd0JOQzFRZTZoemtjYXJVb1ZTWEFFNWVCUGt2X0NsSVpnQnB1MEZoMUllQWlqaUoyVUU1aURhYUZDVTF6a2pyVFd5XzFQMm9BVllNNWJBbm5UUV9fRGtMRzlsbl9pQnBSbkx0Sm12R0ZCMTVHUQ?oc=5",
+            "title": "من ينصف الفلسطيني السوري؟ - العربي الجديد",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNam02QzFzVVB0OFY0aDk2eEc1SWhKUnVGeFVEMFhadjRYbWxMWXJWMmJVZHIxaE84QmxaS3FhMGtTendrV3g4X1l3ejJjbkRuaVNRbmZIQ0NKWmFiTC1zYzNYbDFNQ3NLTktHSFJkd3BwRHlxWDFYU2ZvTE5xdlFESURTUlZwVnFFbHV0MFVpNjZOeEhWSFJ5cXJURjhhNnNFWGVPWFU5WjJjVkdOb1FGb3Q4OEJSdmJoRzllVmZEUFBHN05RQ05jY0tmQlYzSGtuTE56UUdOR1M2bjZoZHphNC1BN2EzSlNxV05sZlowUVVNQWU3MUp30gH8AUFVX3lxTE9MRk95RkJDU2JKR2c0UlhuZWh3Tk15d2lseXB4elRkaUdwQU90SjdWSWpacHlaMEpJQ0tLbG1SdXZqdjlpWXlOUExPRnBST0hpbHFGZXl6T09nb2NVQTR6ejdSVGN1cFFsbEJod1U1QXpud0JNa0JPWXlERzhyazQ4SktjTXdzMFNFaHhqa2NLd0JOQzFRZTZoemtjYXJVb1ZTWEFFNWVCUGt2X0NsSVpnQnB1MEZoMUllQWlqaUoyVUU1aURhYUZDVTF6a2pyVFd5XzFQMm9BVllNNWJBbm5UUV9fRGtMRzlsbl9pQnBSbkx0Sm12R0ZCMTVHUQ?oc=5\" target=\"_blank\">من ينصف الفلسطيني السوري؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "date_modified": "2026-06-07T07:00:00.000Z",
+            "author": {
+                "name": "العربي الجديد"
+            }
+        },
+        {
+            "id": "deed1be1d00f438b8508f1662100bd90aa79b2cf54101f022361db4110a349be",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMixAVBVV95cUxObmRwMmlMT0I4NlFCRXhtLWZ4UjdpS1A4bTU1MGltb2dSeHN1dTlrNFI0elVlejhiY2FjQ0xyTDJZblVpSmV0R3dhcFI5a2JDTFR6R2p2cDkxNnZjc3AxNGIyTTFnSjJDZHhaUkxoSWR3cWtVaUFiLVdNcTZuWVVjUUtJdHQ1V2swQmtZYjc1N1hQLXZwVDhSUHJ1ZldTVTRySlRnc2NDNFVHNm5hWWlqNnV1ckZoakJXUVFQTVB4THJXYlRkZzY1UDZGTjE5ay1oMndIMEcxM3VIai05UnNtNHprV3dLUHZvSHp2eWdfYnFSUTBoOEpoSUlyckpRVVVpVV82N00zeVNkMGQzZ0gtZC1xdmstbXdIeWtVNGpwU21nT21XUGgwcUozeXZHb1RpQmtNZjhJdHhSZ05KZUd0M2p2c0R3ZVRUSGNnQWlBYUZoN0ZXYmFneWs0X0puZW1JQzQxNFhXSzVDdlJzZzhZREllM3RuSFZqcEl4Ym9QUDJVMldmbDNJRnd0eUdxNlpUbnhkSUd4TVgyVlplczhfMXZIS05KdEhLSFpZQ2NtejRCSkxjeGphNnItZWhKMEgyTTMxRUxIOUFxaFQzSGRFQXhpUFBWYlY4NkpjYVhVR09YS2xBVEpJRWM4R3lmeXR4dUtoRWhXTGNKbEl6MktQVzFXR2JwZ2FPQndwVFFHSlBJVkhlQkNtZjg3aURHRTZDTHJNR2J0ZlVkMUI5NEJHcUpZWU9JR3F6eXBYeWNDS2Nvb3gwaDRPTzRBMUlENXQya2pqUGVMNVNLU29EVG5Vc05uTkFvRmJzRE1kR1J5Zjd0TnhOcFl3aDZQWGNIeUpHUTBNZ1dFQlVpc0N5dmd6dFpWb1o3eGdEMGIybk9oLUs1WFlhSEJ2SHMyRUNkaWJnWGdLTWlacGRaQTI0QVFVSHhraUY?oc=5\" target=\"_blank\">من \"فرع فلسطين\" إلى \"إدارة المهام الخاصة\".. هل هو تغيير أم عبث بمسارح المجازر في سوريا؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">مونت كارلو الدولية</font>",
+            "url": "https://news.google.com/rss/articles/CBMixAVBVV95cUxObmRwMmlMT0I4NlFCRXhtLWZ4UjdpS1A4bTU1MGltb2dSeHN1dTlrNFI0elVlejhiY2FjQ0xyTDJZblVpSmV0R3dhcFI5a2JDTFR6R2p2cDkxNnZjc3AxNGIyTTFnSjJDZHhaUkxoSWR3cWtVaUFiLVdNcTZuWVVjUUtJdHQ1V2swQmtZYjc1N1hQLXZwVDhSUHJ1ZldTVTRySlRnc2NDNFVHNm5hWWlqNnV1ckZoakJXUVFQTVB4THJXYlRkZzY1UDZGTjE5ay1oMndIMEcxM3VIai05UnNtNHprV3dLUHZvSHp2eWdfYnFSUTBoOEpoSUlyckpRVVVpVV82N00zeVNkMGQzZ0gtZC1xdmstbXdIeWtVNGpwU21nT21XUGgwcUozeXZHb1RpQmtNZjhJdHhSZ05KZUd0M2p2c0R3ZVRUSGNnQWlBYUZoN0ZXYmFneWs0X0puZW1JQzQxNFhXSzVDdlJzZzhZREllM3RuSFZqcEl4Ym9QUDJVMldmbDNJRnd0eUdxNlpUbnhkSUd4TVgyVlplczhfMXZIS05KdEhLSFpZQ2NtejRCSkxjeGphNnItZWhKMEgyTTMxRUxIOUFxaFQzSGRFQXhpUFBWYlY4NkpjYVhVR09YS2xBVEpJRWM4R3lmeXR4dUtoRWhXTGNKbEl6MktQVzFXR2JwZ2FPQndwVFFHSlBJVkhlQkNtZjg3aURHRTZDTHJNR2J0ZlVkMUI5NEJHcUpZWU9JR3F6eXBYeWNDS2Nvb3gwaDRPTzRBMUlENXQya2pqUGVMNVNLU29EVG5Vc05uTkFvRmJzRE1kR1J5Zjd0TnhOcFl3aDZQWGNIeUpHUTBNZ1dFQlVpc0N5dmd6dFpWb1o3eGdEMGIybk9oLUs1WFlhSEJ2SHMyRUNkaWJnWGdLTWlacGRaQTI0QVFVSHhraUY?oc=5",
+            "title": "من \"فرع فلسطين\" إلى \"إدارة المهام الخاصة\".. هل هو تغيير أم عبث بمسارح المجازر في سوريا؟ - مونت كارلو الدولية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAVBVV95cUxObmRwMmlMT0I4NlFCRXhtLWZ4UjdpS1A4bTU1MGltb2dSeHN1dTlrNFI0elVlejhiY2FjQ0xyTDJZblVpSmV0R3dhcFI5a2JDTFR6R2p2cDkxNnZjc3AxNGIyTTFnSjJDZHhaUkxoSWR3cWtVaUFiLVdNcTZuWVVjUUtJdHQ1V2swQmtZYjc1N1hQLXZwVDhSUHJ1ZldTVTRySlRnc2NDNFVHNm5hWWlqNnV1ckZoakJXUVFQTVB4THJXYlRkZzY1UDZGTjE5ay1oMndIMEcxM3VIai05UnNtNHprV3dLUHZvSHp2eWdfYnFSUTBoOEpoSUlyckpRVVVpVV82N00zeVNkMGQzZ0gtZC1xdmstbXdIeWtVNGpwU21nT21XUGgwcUozeXZHb1RpQmtNZjhJdHhSZ05KZUd0M2p2c0R3ZVRUSGNnQWlBYUZoN0ZXYmFneWs0X0puZW1JQzQxNFhXSzVDdlJzZzhZREllM3RuSFZqcEl4Ym9QUDJVMldmbDNJRnd0eUdxNlpUbnhkSUd4TVgyVlplczhfMXZIS05KdEhLSFpZQ2NtejRCSkxjeGphNnItZWhKMEgyTTMxRUxIOUFxaFQzSGRFQXhpUFBWYlY4NkpjYVhVR09YS2xBVEpJRWM4R3lmeXR4dUtoRWhXTGNKbEl6MktQVzFXR2JwZ2FPQndwVFFHSlBJVkhlQkNtZjg3aURHRTZDTHJNR2J0ZlVkMUI5NEJHcUpZWU9JR3F6eXBYeWNDS2Nvb3gwaDRPTzRBMUlENXQya2pqUGVMNVNLU29EVG5Vc05uTkFvRmJzRE1kR1J5Zjd0TnhOcFl3aDZQWGNIeUpHUTBNZ1dFQlVpc0N5dmd6dFpWb1o3eGdEMGIybk9oLUs1WFlhSEJ2SHMyRUNkaWJnWGdLTWlacGRaQTI0QVFVSHhraUY?oc=5\" target=\"_blank\">من \"فرع فلسطين\" إلى \"إدارة المهام الخاصة\".. هل هو تغيير أم عبث بمسارح المجازر في سوريا؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">مونت كارلو الدولية</font>",
+            "date_modified": "2026-06-05T07:00:00.000Z",
+            "author": {
+                "name": "مونت كارلو الدولية"
+            }
+        },
+        {
+            "id": "20be8d534a958744983e1c26c6773ba9da58b7a7dfee8744b0be1abdec160346",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMipwRBVV95cUxQa1c4UFFEWm5TSFgtMWxFaWxhS1FiYm5DNndWNnoyNlNPbkxaeHNEVzg3a09BeVh4c2dUUnpiWk02eThqZWhHWllfUEt1QmdyVk5WWXdlbkZKWGdPV2Q1bXJweHc2aWN5Umd0MllDOTRDazRFMUw2dEhYODN2RVJhbmlvdkVtUndMRGtVVWt4b0FNQUFrbUVOVERyZkQ3QzlqcUE3dl8ySENQZDA4LTE1c0g3NjhfS25EUjRJUXVOREtvZVhhd3VGZTZpbFF3LVBQYTNwZGlFYkZHZTlfdXRPUHloZ2owYkJiU1lRdTNGb09uLS1mOUI1TmhBanNsQ3NYQnV5ZG9fY1RaYkdoUmlFblliYlc2dVBrd1pZUXBlbHFic0Y0bWJ6Wld3Rm5tZG5ZMlo5OXhTdkNCbW85Njc3Q3FBeERyZ0FDLTMxNE0ySXlmYjdTSFN2UDVqTHg0aEVuZWNwR2VvZFpBa1djRk10MEhweUlYTHZleUpWdy1hOWlPQWhIdmIyTnFlS0FYUFNIay05VFpCT3JoVkJ6MWcyUzlCVW1ZNEZmNFhjd3UtS3ppRDByRUhxWW85bjM1OG56eW9wVVcxUU5rUFFURU1Ma2dSUlNCTzZ3bXJpY0hMNENqXzNmZWZBY0lNZmV0T3JWek1sSkVvS0hxNnVndVJQbGhkWE5kUDJ1VUVGVVRULThfMU52U21EcEtFTVFpbWZWdXFoeE91TQ?oc=5\" target=\"_blank\">توقعات بصرف \"أونروا\" لمعونة فلسطينيي سوريا في لبنان منتصف الشهر الجاري</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMipwRBVV95cUxQa1c4UFFEWm5TSFgtMWxFaWxhS1FiYm5DNndWNnoyNlNPbkxaeHNEVzg3a09BeVh4c2dUUnpiWk02eThqZWhHWllfUEt1QmdyVk5WWXdlbkZKWGdPV2Q1bXJweHc2aWN5Umd0MllDOTRDazRFMUw2dEhYODN2RVJhbmlvdkVtUndMRGtVVWt4b0FNQUFrbUVOVERyZkQ3QzlqcUE3dl8ySENQZDA4LTE1c0g3NjhfS25EUjRJUXVOREtvZVhhd3VGZTZpbFF3LVBQYTNwZGlFYkZHZTlfdXRPUHloZ2owYkJiU1lRdTNGb09uLS1mOUI1TmhBanNsQ3NYQnV5ZG9fY1RaYkdoUmlFblliYlc2dVBrd1pZUXBlbHFic0Y0bWJ6Wld3Rm5tZG5ZMlo5OXhTdkNCbW85Njc3Q3FBeERyZ0FDLTMxNE0ySXlmYjdTSFN2UDVqTHg0aEVuZWNwR2VvZFpBa1djRk10MEhweUlYTHZleUpWdy1hOWlPQWhIdmIyTnFlS0FYUFNIay05VFpCT3JoVkJ6MWcyUzlCVW1ZNEZmNFhjd3UtS3ppRDByRUhxWW85bjM1OG56eW9wVVcxUU5rUFFURU1Ma2dSUlNCTzZ3bXJpY0hMNENqXzNmZWZBY0lNZmV0T3JWek1sSkVvS0hxNnVndVJQbGhkWE5kUDJ1VUVGVVRULThfMU52U21EcEtFTVFpbWZWdXFoeE91TQ?oc=5",
+            "title": "توقعات بصرف \"أونروا\" لمعونة فلسطينيي سوريا في لبنان منتصف الشهر الجاري - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwRBVV95cUxQa1c4UFFEWm5TSFgtMWxFaWxhS1FiYm5DNndWNnoyNlNPbkxaeHNEVzg3a09BeVh4c2dUUnpiWk02eThqZWhHWllfUEt1QmdyVk5WWXdlbkZKWGdPV2Q1bXJweHc2aWN5Umd0MllDOTRDazRFMUw2dEhYODN2RVJhbmlvdkVtUndMRGtVVWt4b0FNQUFrbUVOVERyZkQ3QzlqcUE3dl8ySENQZDA4LTE1c0g3NjhfS25EUjRJUXVOREtvZVhhd3VGZTZpbFF3LVBQYTNwZGlFYkZHZTlfdXRPUHloZ2owYkJiU1lRdTNGb09uLS1mOUI1TmhBanNsQ3NYQnV5ZG9fY1RaYkdoUmlFblliYlc2dVBrd1pZUXBlbHFic0Y0bWJ6Wld3Rm5tZG5ZMlo5OXhTdkNCbW85Njc3Q3FBeERyZ0FDLTMxNE0ySXlmYjdTSFN2UDVqTHg0aEVuZWNwR2VvZFpBa1djRk10MEhweUlYTHZleUpWdy1hOWlPQWhIdmIyTnFlS0FYUFNIay05VFpCT3JoVkJ6MWcyUzlCVW1ZNEZmNFhjd3UtS3ppRDByRUhxWW85bjM1OG56eW9wVVcxUU5rUFFURU1Ma2dSUlNCTzZ3bXJpY0hMNENqXzNmZWZBY0lNZmV0T3JWek1sSkVvS0hxNnVndVJQbGhkWE5kUDJ1VUVGVVRULThfMU52U21EcEtFTVFpbWZWdXFoeE91TQ?oc=5\" target=\"_blank\">توقعات بصرف \"أونروا\" لمعونة فلسطينيي سوريا في لبنان منتصف الشهر الجاري</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-06-01T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "47c7825c792921eeb615c2612a21124a336a1b6134551c95d034d420983edbdb",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi2ARBVV95cUxNcFBZcGxxRHNkTllFUEtSOU5hOXdrX2J1ODloMkFYTlQ3X29VSDdTb01KTHZwQ1FhdnV2c1BhTUVRSDBLNzVaWXIzNHBMME04d3VMWHVfUXRvNHRaUG1lb0dPVFlRNEhkZW9wWWFDTzRMR2kwYWtSdzhfTXpuZWxlYjRYcTFIc1A4SE16aHRrMzZyUkluUEJxSzlEQ01JaGFrdEdubkUxVE5qT1NpUVRkZEtYb2liS2FrWW1CQ3pESDVBSVdtQ0R5Q2RMdGZuUk51eU1sVXBJQnVKdXlQd2lIbzc5LTdUWWRfRlp3N1dKSTZfMjhSSkgwbHNyQVhuR2ZldXRxLWlRYVo4ZTlHMkFwd1BiSUxKcE9Qa2l1aGp6cjg2elVqWUd6Y1o1MEJ5ZHBwV3NkOHhhNWdHaE5LeDdMTjJsTFBRZzZwZ2gyMTZGazB2LXZkOWFLeHpaYVhmMktvWFhPcTVPSENLN2s1a24yRnJGREhOSmgwQ2dhTlZrNnVyWWs4ZEtId0E2UmxJenZmc19UWXl1Q2pYQ3R4VTRCdDM2QXBBb1FqQmE0RVh0OVBlWVltOVo3MDFSeHh2Y0VJcm1KT09DV01UVWx0RklmUkVPSk1oQ19BSkFSRFBmN3V2WVRGRU5CRk1Kd0kydElxTVdTRUVmVl94LU5td2FBWFdwR01KRW5HLUE3YTRIZFZpR3RRRC1YRzVwWlVWdFlBTFRIZnVSS1RwOWtZelhtVm5GUHpISkhNMnBodGlia0hfemlvTmp3MjJEOHpmRC1NQWNveFBHam0?oc=5\" target=\"_blank\">تساؤلات حول غياب الشفافية في إدارة شؤون مخيمات اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة مصدر الاخبارية</font>",
+            "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNcFBZcGxxRHNkTllFUEtSOU5hOXdrX2J1ODloMkFYTlQ3X29VSDdTb01KTHZwQ1FhdnV2c1BhTUVRSDBLNzVaWXIzNHBMME04d3VMWHVfUXRvNHRaUG1lb0dPVFlRNEhkZW9wWWFDTzRMR2kwYWtSdzhfTXpuZWxlYjRYcTFIc1A4SE16aHRrMzZyUkluUEJxSzlEQ01JaGFrdEdubkUxVE5qT1NpUVRkZEtYb2liS2FrWW1CQ3pESDVBSVdtQ0R5Q2RMdGZuUk51eU1sVXBJQnVKdXlQd2lIbzc5LTdUWWRfRlp3N1dKSTZfMjhSSkgwbHNyQVhuR2ZldXRxLWlRYVo4ZTlHMkFwd1BiSUxKcE9Qa2l1aGp6cjg2elVqWUd6Y1o1MEJ5ZHBwV3NkOHhhNWdHaE5LeDdMTjJsTFBRZzZwZ2gyMTZGazB2LXZkOWFLeHpaYVhmMktvWFhPcTVPSENLN2s1a24yRnJGREhOSmgwQ2dhTlZrNnVyWWs4ZEtId0E2UmxJenZmc19UWXl1Q2pYQ3R4VTRCdDM2QXBBb1FqQmE0RVh0OVBlWVltOVo3MDFSeHh2Y0VJcm1KT09DV01UVWx0RklmUkVPSk1oQ19BSkFSRFBmN3V2WVRGRU5CRk1Kd0kydElxTVdTRUVmVl94LU5td2FBWFdwR01KRW5HLUE3YTRIZFZpR3RRRC1YRzVwWlVWdFlBTFRIZnVSS1RwOWtZelhtVm5GUHpISkhNMnBodGlia0hfemlvTmp3MjJEOHpmRC1NQWNveFBHam0?oc=5",
+            "title": "تساؤلات حول غياب الشفافية في إدارة شؤون مخيمات اللاجئين الفلسطينيين في سوريا - شبكة مصدر الاخبارية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2ARBVV95cUxNcFBZcGxxRHNkTllFUEtSOU5hOXdrX2J1ODloMkFYTlQ3X29VSDdTb01KTHZwQ1FhdnV2c1BhTUVRSDBLNzVaWXIzNHBMME04d3VMWHVfUXRvNHRaUG1lb0dPVFlRNEhkZW9wWWFDTzRMR2kwYWtSdzhfTXpuZWxlYjRYcTFIc1A4SE16aHRrMzZyUkluUEJxSzlEQ01JaGFrdEdubkUxVE5qT1NpUVRkZEtYb2liS2FrWW1CQ3pESDVBSVdtQ0R5Q2RMdGZuUk51eU1sVXBJQnVKdXlQd2lIbzc5LTdUWWRfRlp3N1dKSTZfMjhSSkgwbHNyQVhuR2ZldXRxLWlRYVo4ZTlHMkFwd1BiSUxKcE9Qa2l1aGp6cjg2elVqWUd6Y1o1MEJ5ZHBwV3NkOHhhNWdHaE5LeDdMTjJsTFBRZzZwZ2gyMTZGazB2LXZkOWFLeHpaYVhmMktvWFhPcTVPSENLN2s1a24yRnJGREhOSmgwQ2dhTlZrNnVyWWs4ZEtId0E2UmxJenZmc19UWXl1Q2pYQ3R4VTRCdDM2QXBBb1FqQmE0RVh0OVBlWVltOVo3MDFSeHh2Y0VJcm1KT09DV01UVWx0RklmUkVPSk1oQ19BSkFSRFBmN3V2WVRGRU5CRk1Kd0kydElxTVdTRUVmVl94LU5td2FBWFdwR01KRW5HLUE3YTRIZFZpR3RRRC1YRzVwWlVWdFlBTFRIZnVSS1RwOWtZelhtVm5GUHpISkhNMnBodGlia0hfemlvTmp3MjJEOHpmRC1NQWNveFBHam0?oc=5\" target=\"_blank\">تساؤلات حول غياب الشفافية في إدارة شؤون مخيمات اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة مصدر الاخبارية</font>",
+            "date_modified": "2026-05-28T07:00:00.000Z",
+            "author": {
+                "name": "شبكة مصدر الاخبارية"
+            }
+        },
+        {
+            "id": "3525c3b77fea60c563f529e132cebc96e0a6239761ea800368f2ce42bdb7db6b",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxPU3lldVM2QWNQUWRZY0ExWUZnTW1FTHlPVTRnYXNWVUJaWmFjVU44ZXFsLUQ3TXpyVGVLYVlNYXVnZFpfR3dFZXFtUlFLUkdaVTBYaU5WWVQ1UTFXX1ZiT2RadTgzU0ZmU2RaMDJQNnpjTFFjcE94alliLXlxUVlseV9qS3VrSjNFcm0yaXFTRnJDemZTck1mRWxfWUVieHhDNVFaa0s4MGJRdllyNHc3a1UxczU3d3J6eEhxUmVZQzNkLXlvRFRlbXRYYkUyOU01T3dJdVNDR1JSZVljN01udmQ4S0hwZFVNRUFteGpCVDZvTFpSY2NhYkhVRi1VaGxMX2NlcnJ6d1Npd1BrUHJiMTdJMEd6YzhaUFJ6c1lGWWQteFZMOXJoaGR5N3owSllUbVh1VVZUSXh6QXR5eUR0YkZyRTRCWGtpNWI1bk5IbDhINHRrVGJaSU5kWXpxa2pMRGFVVFgxTlpnNDhFVUJ6WnB4c3JLOVhsQnZCaEN5MGtha19IMm5VYnB2a0Y4Vm9zamNaQ3lnYnRfanNhcGVpbDgwVEJ4VlJaWTRRSl9QSUpDZ2cwSlRxVjRZYUtfUDVOZ2lnMkZNZDlCQVdkdWViOHI3TjBjM1lDMlV6T0hvZWZNbG82Zmp2alhvdTk1bTEzSzNEdmZYdHprWUhGVlpNVXNVTEd4a2ZnVU14b3ZTeWExa3RVS0ptdFRRU3g2MDJqbjd2SWpXSGFfVDBPM3RKOUhSSzBLeWpybURhMlhWdnJKc2RuMXY3N0dTbnNEbG1uZFNvVWhFQVFDenlxQndQSUZiLUNub1NNbHZkWjBocWZGSVRDUjRZcjNyOHRlQ0NjZFdxSkx2VmFzV1lqY1Y2UDNXNXZpZ0Nf?oc=5\" target=\"_blank\">انتقادات لهيئة اللاجئين الفلسطينيين في سوريا لعدم نشر قراراتها عبر معرفاتها الرسمية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMimAVBVV95cUxPU3lldVM2QWNQUWRZY0ExWUZnTW1FTHlPVTRnYXNWVUJaWmFjVU44ZXFsLUQ3TXpyVGVLYVlNYXVnZFpfR3dFZXFtUlFLUkdaVTBYaU5WWVQ1UTFXX1ZiT2RadTgzU0ZmU2RaMDJQNnpjTFFjcE94alliLXlxUVlseV9qS3VrSjNFcm0yaXFTRnJDemZTck1mRWxfWUVieHhDNVFaa0s4MGJRdllyNHc3a1UxczU3d3J6eEhxUmVZQzNkLXlvRFRlbXRYYkUyOU01T3dJdVNDR1JSZVljN01udmQ4S0hwZFVNRUFteGpCVDZvTFpSY2NhYkhVRi1VaGxMX2NlcnJ6d1Npd1BrUHJiMTdJMEd6YzhaUFJ6c1lGWWQteFZMOXJoaGR5N3owSllUbVh1VVZUSXh6QXR5eUR0YkZyRTRCWGtpNWI1bk5IbDhINHRrVGJaSU5kWXpxa2pMRGFVVFgxTlpnNDhFVUJ6WnB4c3JLOVhsQnZCaEN5MGtha19IMm5VYnB2a0Y4Vm9zamNaQ3lnYnRfanNhcGVpbDgwVEJ4VlJaWTRRSl9QSUpDZ2cwSlRxVjRZYUtfUDVOZ2lnMkZNZDlCQVdkdWViOHI3TjBjM1lDMlV6T0hvZWZNbG82Zmp2alhvdTk1bTEzSzNEdmZYdHprWUhGVlpNVXNVTEd4a2ZnVU14b3ZTeWExa3RVS0ptdFRRU3g2MDJqbjd2SWpXSGFfVDBPM3RKOUhSSzBLeWpybURhMlhWdnJKc2RuMXY3N0dTbnNEbG1uZFNvVWhFQVFDenlxQndQSUZiLUNub1NNbHZkWjBocWZGSVRDUjRZcjNyOHRlQ0NjZFdxSkx2VmFzV1lqY1Y2UDNXNXZpZ0Nf?oc=5",
+            "title": "انتقادات لهيئة اللاجئين الفلسطينيين في سوريا لعدم نشر قراراتها عبر معرفاتها الرسمية - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAVBVV95cUxPU3lldVM2QWNQUWRZY0ExWUZnTW1FTHlPVTRnYXNWVUJaWmFjVU44ZXFsLUQ3TXpyVGVLYVlNYXVnZFpfR3dFZXFtUlFLUkdaVTBYaU5WWVQ1UTFXX1ZiT2RadTgzU0ZmU2RaMDJQNnpjTFFjcE94alliLXlxUVlseV9qS3VrSjNFcm0yaXFTRnJDemZTck1mRWxfWUVieHhDNVFaa0s4MGJRdllyNHc3a1UxczU3d3J6eEhxUmVZQzNkLXlvRFRlbXRYYkUyOU01T3dJdVNDR1JSZVljN01udmQ4S0hwZFVNRUFteGpCVDZvTFpSY2NhYkhVRi1VaGxMX2NlcnJ6d1Npd1BrUHJiMTdJMEd6YzhaUFJ6c1lGWWQteFZMOXJoaGR5N3owSllUbVh1VVZUSXh6QXR5eUR0YkZyRTRCWGtpNWI1bk5IbDhINHRrVGJaSU5kWXpxa2pMRGFVVFgxTlpnNDhFVUJ6WnB4c3JLOVhsQnZCaEN5MGtha19IMm5VYnB2a0Y4Vm9zamNaQ3lnYnRfanNhcGVpbDgwVEJ4VlJaWTRRSl9QSUpDZ2cwSlRxVjRZYUtfUDVOZ2lnMkZNZDlCQVdkdWViOHI3TjBjM1lDMlV6T0hvZWZNbG82Zmp2alhvdTk1bTEzSzNEdmZYdHprWUhGVlpNVXNVTEd4a2ZnVU14b3ZTeWExa3RVS0ptdFRRU3g2MDJqbjd2SWpXSGFfVDBPM3RKOUhSSzBLeWpybURhMlhWdnJKc2RuMXY3N0dTbnNEbG1uZFNvVWhFQVFDenlxQndQSUZiLUNub1NNbHZkWjBocWZGSVRDUjRZcjNyOHRlQ0NjZFdxSkx2VmFzV1lqY1Y2UDNXNXZpZ0Nf?oc=5\" target=\"_blank\">انتقادات لهيئة اللاجئين الفلسطينيين في سوريا لعدم نشر قراراتها عبر معرفاتها الرسمية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-05-26T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "f2c4fc21278ac5f6f38a04fa9cf6cb101cc155b7d627b095e5f9f864100fa845",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMilgRBVV95cUxNd0hMRG5Oa1JrSFFEVkN6NGVra1MzRVlsalkzNGxtOTczTzlKX0NJUmwwRkNSeXRtbjFGd2Nha3VWazRNMzU1b2ItMWxyZC1KWEE5N1oyNGxLWlNNSGhaTnZlcGZEOFpIRDMzMkVtVkd2UEF4RENuMkhtZDhTMFhWNjZ2aDFDZkpzQlJ5WXVfWGdHbHZoZnVHS2Z2d2hxN1ZqR045a1B4ck0zODJMaE90ejFROUowVWlCbE95RUZiWUs1RDhpSkZ5U296aWh1dUI3RzJDMHAwZUR1LWhZVzlOWDJkbDdiLUNLaFZ5NUV0UkNqTVl0eEJFLURNY01LU1dBMHFhSE91TEdTejZIUlZ4eDQtdXdsQm95V2VYSnVIbmN2VUEwSTByUGFxdDFQQ2dfVWF2bUc4cTVuQ21DR0NKOHA1UWwwbVJpWmhTVVhKSE5iQjNjN0tqZEk2MVNRV2FsV3JYejYzN01tdnhuZDFxNzFfODQ2Tl9lVVZDSzlKbl9IbWEzRjVwa3VyRU5ueGlnUFBpdzZ4NUN4RWREdl9uX1lMVXptWXY1Qmd4djlmMzBuTnpxanJMMzZCVklzdnQtNHRjd3JzMExRZV92TEdxN0tUTDRLTkt3clp2YVA1MGVUZVhQdzJrZ1RRa0dvOXpVaXY4aGduYUZFTlRReTZZemp4OWxwRVFtRUpYOXhGZnF4b01NY2c?oc=5\" target=\"_blank\">قرار بتعيين رئيس جديد للجان التنمية في المخيمات الفلسطينية بسوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNd0hMRG5Oa1JrSFFEVkN6NGVra1MzRVlsalkzNGxtOTczTzlKX0NJUmwwRkNSeXRtbjFGd2Nha3VWazRNMzU1b2ItMWxyZC1KWEE5N1oyNGxLWlNNSGhaTnZlcGZEOFpIRDMzMkVtVkd2UEF4RENuMkhtZDhTMFhWNjZ2aDFDZkpzQlJ5WXVfWGdHbHZoZnVHS2Z2d2hxN1ZqR045a1B4ck0zODJMaE90ejFROUowVWlCbE95RUZiWUs1RDhpSkZ5U296aWh1dUI3RzJDMHAwZUR1LWhZVzlOWDJkbDdiLUNLaFZ5NUV0UkNqTVl0eEJFLURNY01LU1dBMHFhSE91TEdTejZIUlZ4eDQtdXdsQm95V2VYSnVIbmN2VUEwSTByUGFxdDFQQ2dfVWF2bUc4cTVuQ21DR0NKOHA1UWwwbVJpWmhTVVhKSE5iQjNjN0tqZEk2MVNRV2FsV3JYejYzN01tdnhuZDFxNzFfODQ2Tl9lVVZDSzlKbl9IbWEzRjVwa3VyRU5ueGlnUFBpdzZ4NUN4RWREdl9uX1lMVXptWXY1Qmd4djlmMzBuTnpxanJMMzZCVklzdnQtNHRjd3JzMExRZV92TEdxN0tUTDRLTkt3clp2YVA1MGVUZVhQdzJrZ1RRa0dvOXpVaXY4aGduYUZFTlRReTZZemp4OWxwRVFtRUpYOXhGZnF4b01NY2c?oc=5",
+            "title": "قرار بتعيين رئيس جديد للجان التنمية في المخيمات الفلسطينية بسوريا - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgRBVV95cUxNd0hMRG5Oa1JrSFFEVkN6NGVra1MzRVlsalkzNGxtOTczTzlKX0NJUmwwRkNSeXRtbjFGd2Nha3VWazRNMzU1b2ItMWxyZC1KWEE5N1oyNGxLWlNNSGhaTnZlcGZEOFpIRDMzMkVtVkd2UEF4RENuMkhtZDhTMFhWNjZ2aDFDZkpzQlJ5WXVfWGdHbHZoZnVHS2Z2d2hxN1ZqR045a1B4ck0zODJMaE90ejFROUowVWlCbE95RUZiWUs1RDhpSkZ5U296aWh1dUI3RzJDMHAwZUR1LWhZVzlOWDJkbDdiLUNLaFZ5NUV0UkNqTVl0eEJFLURNY01LU1dBMHFhSE91TEdTejZIUlZ4eDQtdXdsQm95V2VYSnVIbmN2VUEwSTByUGFxdDFQQ2dfVWF2bUc4cTVuQ21DR0NKOHA1UWwwbVJpWmhTVVhKSE5iQjNjN0tqZEk2MVNRV2FsV3JYejYzN01tdnhuZDFxNzFfODQ2Tl9lVVZDSzlKbl9IbWEzRjVwa3VyRU5ueGlnUFBpdzZ4NUN4RWREdl9uX1lMVXptWXY1Qmd4djlmMzBuTnpxanJMMzZCVklzdnQtNHRjd3JzMExRZV92TEdxN0tUTDRLTkt3clp2YVA1MGVUZVhQdzJrZ1RRa0dvOXpVaXY4aGduYUZFTlRReTZZemp4OWxwRVFtRUpYOXhGZnF4b01NY2c?oc=5\" target=\"_blank\">قرار بتعيين رئيس جديد للجان التنمية في المخيمات الفلسطينية بسوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-05-26T07:00:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        }
+    ]
+}
