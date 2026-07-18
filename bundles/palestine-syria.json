@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "e80ccf9fd6932ed6df986ad15142862e90242940b8e1b586e9e3f3837679c94e",
+            "content_html": "رئيس لجنة الاستجابة الطارئة في محافظة دير الزور فايز عباس:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سيعاد تشغيل العبّارات المائية في منطقة الميادين اعتباراً من صباح الأحد 19 تموز 2026<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تشمل إجراءات السلامة وضع حاجز أمني لتنظيم حركة العبور وتمركز سيارة إسعاف وتخصيص زورق إنقاذ مجهز بغواص خلال ساعات التشغيل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تحدد ساعات العمل يومياً من الساعة 7 صباحاً حتى 7 مساءً إلى حين الانتهاء من تأهيل الجسر الترابي وتركيب الجسر الحربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/138473",
+            "title": "رئيس لجنة الاستجابة الطارئة في محافظة دير الزور فايز عباس: 📌سيعاد تشغيل…",
+            "summary": "رئيس لجنة الاستجابة الطارئة في محافظة دير الزور فايز عباس:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سيعاد تشغيل العبّارات المائية في منطقة الميادين اعتباراً من صباح الأحد 19 تموز 2026<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تشمل إجراءات السلامة وضع حاجز أمني لتنظيم حركة العبور وتمركز سيارة إسعاف وتخصيص زورق إنقاذ مجهز بغواص خلال ساعات التشغيل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تحدد ساعات العمل يومياً من الساعة 7 صباحاً حتى 7 مساءً إلى حين الانتهاء من تأهيل الجسر الترابي وتركيب الجسر الحربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-07-18T18:37:57.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "629dab5e163e55791952d96cbdbac310acca39a3de758cab07593935f6c94e4f",
+            "content_html": "أ.ب: 16 عسكريا أمريكيا قتلوا وأصيب أكثر من 430 آخرين منذ اندلاع الحرب مع إيران في فبراير الماضي",
+            "url": "https://t.me/aljazeeraBrk/227175",
+            "title": "أ.ب: 16 عسكريا أمريكيا قتلوا وأصيب أكثر من 430 آخرين منذ اندلاع الحرب مع إيران…",
+            "summary": "أ.ب: 16 عسكريا أمريكيا قتلوا وأصيب أكثر من 430 آخرين منذ اندلاع الحرب مع إيران في فبراير الماضي",
+            "date_modified": "2026-07-18T18:36:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "bc0c8dab1024aa479104578d6f91afd4d5e6ca6eb7b3aebcef360847f2b710dc",
             "content_html": "الرئيس الإيراني: الالتزام بمتطلبات الوحدة الداخلية وتجنب الخلاف والتفرقة هو سر الانتصار في هذه اللحظة التاريخية الحاسمة",
             "url": "https://t.me/aljazeeraBrk/227174",
@@ -1609,28 +1631,6 @@
             "date_modified": "2026-07-18T02:15:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "6a8ef3ec5a6ce4a1b32f9aecd639bd24fdc33dd569711ca19aa0a96157e053a1",
-            "content_html": "الجيش الكويتي: دفاعاتنا الجوية تتصدى لهجمات صاروخية وطائرات مسيرة إيرانية معادية",
-            "url": "https://t.me/aljazeeraBrk/227072",
-            "title": "الجيش الكويتي: دفاعاتنا الجوية تتصدى لهجمات صاروخية وطائرات مسيرة إيرانية معادية",
-            "summary": "الجيش الكويتي: دفاعاتنا الجوية تتصدى لهجمات صاروخية وطائرات مسيرة إيرانية معادية",
-            "date_modified": "2026-07-18T02:05:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "13e8a70fc5c42b7c5a2f2887c4e6cbee98c458d5fdac340e11fddbc1fc3b04cd",
-            "content_html": "وزير الطاقة محمد البشير: وقّعنا مذكرة تفاهم مع العراق الشقيقة لإعادة تأهيل خط أنابيب كركوك - بانياس  لتشغيل أحد أهم خطوط نقل النفط في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138441",
-            "title": "وزير الطاقة محمد البشير: وقّعنا مذكرة تفاهم مع العراق الشقيقة لإعادة تأهيل خط…",
-            "summary": "وزير الطاقة محمد البشير: وقّعنا مذكرة تفاهم مع العراق الشقيقة لإعادة تأهيل خط أنابيب كركوك - بانياس  لتشغيل أحد أهم خطوط نقل النفط في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-07-17T21:26:50.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
