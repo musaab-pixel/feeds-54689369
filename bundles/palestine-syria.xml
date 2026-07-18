@@ -4,7 +4,7 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sat, 18 Jul 2026 11:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 11:54:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2584,6 +2584,15 @@
             <author>وكالة وطن للأنباء</author>
         </item>
         <item>
+            <title><![CDATA[US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1167973</link>
+            <guid isPermaLink="false">e8f4f000cc2ad3530660f81b58fa8ba64c022dbd4a077c456d8451f333d3a7cf</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.]]></description>
+            <content:encoded><![CDATA[The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[💰 أسعار العملات والذهب مقابل الليرة السورية 17-07-2026 لمتابعة أحدث الأخبار…]]></title>
             <link>https://t.me/HalabTodayTV/138417</link>
             <guid isPermaLink="false">1e36e716fa862dc0761c2565b65c444bd3593d401dc235a6fc7b8469c18fd586</guid>
@@ -2592,15 +2601,6 @@
             <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')"><b>💰</b></i> أسعار العملات والذهب مقابل الليرة السورية 17-07-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
             <author>Halab Today TV قناة حلب اليوم</author>
             <enclosure url="https://cdn4.telesco.pe/file/cJ58AKpfcCmKrkfAurJu16uWaTSmnSzWNisHjGeqLAc7YqVgAJTmg4ACc8fwnOLeI6GMndwGl4_gFdxjgigZONBPkr2jkCkO3mvnmOW5Be2w-AdRAbxIGt664-locLaQWdZ3W5gCo7TQm0VsdpJxCBnFfJVuy5qJL3PjqNTouJryUmGpe8fwLCeU0MAQegOUxWsz19AeGHutWHoA4zzo04jiNYsxpGypZVNYRimv_42M6-NAn3HPfyYuFuuN6nk2kTLO-HQFf_AiBJ0vcRSpXpOD9J4oghfBs7VovGiY4cZEF1Ka1cQPIqHfkHbUA04ruABsvT0BwXf__EBa1Je6XA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[مصادر محلية: وفاة شخصين وإصابة 3 آخرين بحادث سير على الطريق الواصل بين جرابلس…]]></title>
-            <link>https://t.me/HalabTodayTV/138416</link>
-            <guid isPermaLink="false">6ba970b66b44411bef484c38d9fcafba06b5d3a71fd7a4dbe325348fd482cf96</guid>
-            <pubDate>Fri, 17 Jul 2026 11:35:09 GMT</pubDate>
-            <description><![CDATA[<b>مصادر محلية:</b> وفاة شخصين وإصابة 3 آخرين بحادث سير على الطريق الواصل بين جرابلس وجسر الشيوخ بريف حلب الشرقي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[<b>مصادر محلية:</b> وفاة شخصين وإصابة 3 آخرين بحادث سير على الطريق الواصل بين جرابلس وجسر الشيوخ بريف حلب الشرقي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
         </item>
     </channel>
 </rss>

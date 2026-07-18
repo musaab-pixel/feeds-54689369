@@ -4,7 +4,7 @@
         <title>Muftah — Palestine/Syria monitor</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Muftah — Palestine/Syria monitor" (type: bundle)</description>
-        <lastBuildDate>Sat, 18 Jul 2026 11:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 11:54:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1621,6 +1621,15 @@
             <author>وكالة وطن للأنباء</author>
         </item>
         <item>
+            <title><![CDATA[US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1167973</link>
+            <guid isPermaLink="false">e8f4f000cc2ad3530660f81b58fa8ba64c022dbd4a077c456d8451f333d3a7cf</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.]]></description>
+            <content:encoded><![CDATA[The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Peacekeepers step up support as families return to south Lebanon]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/07/1167961</link>
             <guid isPermaLink="false">726b68a693611f08039e9dfa62cf41bc9feeb91df79610f4f44131129bf93c0b</guid>
@@ -1988,15 +1997,6 @@
             <description><![CDATA[<a href="https://news.google.com/rss/articles/CBMizwRBVV95cUxOODdLNllDZUg3NU5lRjlQSkwtVmd4OUhlSHJwLS1xQU5uY092cXlROXdpNzk0eDA2LWtoNXVBNm9JLUFVZ2FZWlItOXFUMmtRVTd2am5DSWVpeVV1b2NVSEM3eEtQa2RsZjlUZzVhZHpEdXVrSEcxYnRibTFXdDVSUFlibkhTNl81Wk5Uc1FzZXRrYzNKVXoxQlBaWHh1MGpnRHdUdUF3ekNrSEJwbHZHM3BQZHNweE9HMUxRYUp3ZW5xb0NfQ0tJWUVvV2ZhRlg4X1JiQkxrNU5GcU9fSFpuVGk0T1VjeHlMWlpSdjVHVl9yb0xSTi1VNU9WeU1qN21qcTRZTzlRRm4ycGtsS05adm91N0NuVVZWOVNISDRDWjk3RmUxOThlbDJkRnZJdXZZX1FXRERjaVFLN1A5S0k4UTQwbUgtMS1XMWhVWmdsOUk1RFI4RUp2ZlRCMlNjcld2THV1TC1iT2M0ZzFvMzhWQlBNZFI5NkNUOUlGbzFTcDNtZU0zTkZCSHIzUlJHOFY3UDVoWXk5LXJBN0NMRTZTUW91TF9VSlAwcE80UVROUFZOejBBRWNENjFPVjFMZUJLbEN5cnZDV0pzQUJMQ2hwMXVBcy1YeHVReng2djB4QzV4SktXaVRKb3I5SWNZZV9Cd1FHc1lNd2dUU3BxLUJTa0dfSlVfbjJBQ0UzQW9QWlNzeEtUc0tjblpxRTVVTWc5elRyNVFVTEgwWjQ3OWtCb3pRelR2TDgwTkdNang0WGpHT0JHdUtmbjlHdWFsUzQ?oc=5" target="_blank">حقوق تملك الفلسطينيين في سوريا تعود إلى الواجهة ومطالبات بتعديل التشريعات</a>&nbsp;&nbsp;<font color="#6f6f6f">بوابة اللاجئين الفلسطينيين</font>]]></description>
             <content:encoded><![CDATA[<a href="https://news.google.com/rss/articles/CBMizwRBVV95cUxOODdLNllDZUg3NU5lRjlQSkwtVmd4OUhlSHJwLS1xQU5uY092cXlROXdpNzk0eDA2LWtoNXVBNm9JLUFVZ2FZWlItOXFUMmtRVTd2am5DSWVpeVV1b2NVSEM3eEtQa2RsZjlUZzVhZHpEdXVrSEcxYnRibTFXdDVSUFlibkhTNl81Wk5Uc1FzZXRrYzNKVXoxQlBaWHh1MGpnRHdUdUF3ekNrSEJwbHZHM3BQZHNweE9HMUxRYUp3ZW5xb0NfQ0tJWUVvV2ZhRlg4X1JiQkxrNU5GcU9fSFpuVGk0T1VjeHlMWlpSdjVHVl9yb0xSTi1VNU9WeU1qN21qcTRZTzlRRm4ycGtsS05adm91N0NuVVZWOVNISDRDWjk3RmUxOThlbDJkRnZJdXZZX1FXRERjaVFLN1A5S0k4UTQwbUgtMS1XMWhVWmdsOUk1RFI4RUp2ZlRCMlNjcld2THV1TC1iT2M0ZzFvMzhWQlBNZFI5NkNUOUlGbzFTcDNtZU0zTkZCSHIzUlJHOFY3UDVoWXk5LXJBN0NMRTZTUW91TF9VSlAwcE80UVROUFZOejBBRWNENjFPVjFMZUJLbEN5cnZDV0pzQUJMQ2hwMXVBcy1YeHVReng2djB4QzV4SktXaVRKb3I5SWNZZV9Cd1FHc1lNd2dUU3BxLUJTa0dfSlVfbjJBQ0UzQW9QWlNzeEtUc0tjblpxRTVVTWc5elRyNVFVTEgwWjQ3OWtCb3pRelR2TDgwTkdNang0WGpHT0JHdUtmbjlHdWFsUzQ?oc=5" target="_blank">حقوق تملك الفلسطينيين في سوريا تعود إلى الواجهة ومطالبات بتعديل التشريعات</a>&nbsp;&nbsp;<font color="#6f6f6f">بوابة اللاجئين الفلسطينيين</font>]]></content:encoded>
             <author>بوابة اللاجئين الفلسطينيين</author>
-        </item>
-        <item>
-            <title><![CDATA[اختتام أعمال ورشة "سوريا وفلسطين" ببحث أبعاد القضية الفلسطينية وواقع اللاجئين وإعادة الإعمار - سانا]]></title>
-            <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZHMyV0FweThYWjM0YVNDaDNidTJhZkJtWl9JMjgxOVhPZDhrM3k0OF9tVG56U2t4b1ppWVFMQ0lweTgwbXc?oc=5</link>
-            <guid isPermaLink="false">02cc7d008088e3c1464058eb557eb915b85b299908887b30e6699d3b79b0d525</guid>
-            <pubDate>Sun, 14 Jun 2026 07:00:00 GMT</pubDate>
-            <description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZHMyV0FweThYWjM0YVNDaDNidTJhZkJtWl9JMjgxOVhPZDhrM3k0OF9tVG56U2t4b1ppWVFMQ0lweTgwbXc?oc=5" target="_blank">اختتام أعمال ورشة "سوريا وفلسطين" ببحث أبعاد القضية الفلسطينية وواقع اللاجئين وإعادة الإعمار</a>&nbsp;&nbsp;<font color="#6f6f6f">سانا</font>]]></description>
-            <content:encoded><![CDATA[<a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTFBkZHMyV0FweThYWjM0YVNDaDNidTJhZkJtWl9JMjgxOVhPZDhrM3k0OF9tVG56U2t4b1ppWVFMQ0lweTgwbXc?oc=5" target="_blank">اختتام أعمال ورشة "سوريا وفلسطين" ببحث أبعاد القضية الفلسطينية وواقع اللاجئين وإعادة الإعمار</a>&nbsp;&nbsp;<font color="#6f6f6f">سانا</font>]]></content:encoded>
-            <author>سانا</author>
         </item>
     </channel>
 </rss>
