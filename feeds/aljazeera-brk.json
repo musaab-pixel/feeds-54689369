@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الجزيرة عاجل (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "c9fbaee1110cfd7cbcc09dd4e08a748cd868940262a9b00bc63a4907a86aff22",
+            "content_html": "الجيش الأردني: اعتراض 4 مسيرات دخلت أجواء المملكة",
+            "url": "https://t.me/aljazeeraBrk/227111",
+            "title": "الجيش الأردني: اعتراض 4 مسيرات دخلت أجواء المملكة",
+            "summary": "الجيش الأردني: اعتراض 4 مسيرات دخلت أجواء المملكة",
+            "date_modified": "2026-07-18T09:57:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "9d004842684d0b8d898462dacde68ab86c4b54338b77e56b4f75bc7afc3b843e",
             "content_html": "حاكم مقاطعة موسكو: مقتل شخص وإصابة 37 في هجوم أوكراني بالمسيرات على المقاطعة",
             "url": "https://t.me/aljazeeraBrk/227110",
