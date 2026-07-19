@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الجزيرة عاجل (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "09ef94b8850d69a0f205f059662b798e8e8a8850d81fe11b6d80e1c901f09b8f",
+            "content_html": "وسائل إعلام أردنية: أصوات اعتراضات في سماء العقبة",
+            "url": "https://t.me/aljazeeraBrk/227269",
+            "title": "وسائل إعلام أردنية: أصوات اعتراضات في سماء العقبة",
+            "summary": "وسائل إعلام أردنية: أصوات اعتراضات في سماء العقبة",
+            "date_modified": "2026-07-19T12:38:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "a12a59543045b99dd18f0219826b38ca40d1d7d706f791fb6f0f923bd7a96a8c",
             "content_html": "مراسل الجزيرة: إطلاق صفارات الإنذار في الأردن إيذانا بانتهاء حالة التهديد الجوي",
             "url": "https://t.me/aljazeeraBrk/227268",
