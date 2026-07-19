@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 19 Jul 2026 10:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 10:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة عن مصادر أردنية مسؤولة: لا صحة لما نشرته السفارة الأمريكية بشأن…]]></title>
+            <link>https://t.me/aljazeeraBrk/227250</link>
+            <guid isPermaLink="false">15ba07a332e877db3a4f1caf1d6170d809cd75d78e43e7ff2760d064b39a118c</guid>
+            <pubDate>Sun, 19 Jul 2026 10:21:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة عن مصادر أردنية مسؤولة: لا صحة لما نشرته السفارة الأمريكية بشأن إخلاء مطار العقبة ومينائها]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة عن مصادر أردنية مسؤولة: لا صحة لما نشرته السفارة الأمريكية بشأن إخلاء مطار العقبة ومينائها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[السلطة القضائية الإيرانية: إعدام شخصين أدينا بالمشاركة في قتل 4 أفراد أمن خلال…]]></title>
             <link>https://t.me/aljazeeraBrk/227249</link>
@@ -1600,15 +1609,6 @@
             <pubDate>Sat, 18 Jul 2026 11:16:02 GMT</pubDate>
             <description><![CDATA[الجيش اللبناني: استشهاد عسكري وإصابة ضابط وعسكري آخر في انفجار جسم مشبوه بآلية للجيش في بلدة المنصوري]]></description>
             <content:encoded><![CDATA[الجيش اللبناني: استشهاد عسكري وإصابة ضابط وعسكري آخر في انفجار جسم مشبوه بآلية للجيش في بلدة المنصوري]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الكويتي: العدوان الإيراني استهدف منشآت في قطاعي النفط والكهرباء والماء ما…]]></title>
-            <link>https://t.me/aljazeeraBrk/227121</link>
-            <guid isPermaLink="false">e47b699d8c2c23676c12b5c008a9dc0112ce428a15575424c9e200b41fad93ff</guid>
-            <pubDate>Sat, 18 Jul 2026 11:07:02 GMT</pubDate>
-            <description><![CDATA[الجيش الكويتي: العدوان الإيراني استهدف منشآت في قطاعي النفط والكهرباء والماء ما أدى لاندلاع حرائق وأضرار جسيمة]]></description>
-            <content:encoded><![CDATA[الجيش الكويتي: العدوان الإيراني استهدف منشآت في قطاعي النفط والكهرباء والماء ما أدى لاندلاع حرائق وأضرار جسيمة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
