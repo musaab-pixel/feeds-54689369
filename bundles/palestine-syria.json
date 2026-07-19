@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "f7c8f0f8f24f21b39086f034cf4e6ce4f12f1d295d947a0b73edf3bae169a5da",
+            "content_html": "الجيش الإسرائيلي: امتداد العنف إلى إسرائيل وارد بعد إطلاق صواريخ من إيران باتجاه العقبة في الأردن",
+            "url": "https://t.me/aljazeeraBrk/227266",
+            "title": "الجيش الإسرائيلي: امتداد العنف إلى إسرائيل وارد بعد إطلاق صواريخ من إيران…",
+            "summary": "الجيش الإسرائيلي: امتداد العنف إلى إسرائيل وارد بعد إطلاق صواريخ من إيران باتجاه العقبة في الأردن",
+            "date_modified": "2026-07-19T12:20:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "c8d92163f2271aba43cc68af2e445f66a432b789e904ab3fdab2f41c2e4e2921",
+            "content_html": "القناة 12 الإسرائيلية: دوي انفجارات في منطقتي إيلات والعقبة بعد إطلاق مضادات جوية لاعتراض صواريخ إيرانية",
+            "url": "https://t.me/aljazeeraBrk/227265",
+            "title": "القناة 12 الإسرائيلية: دوي انفجارات في منطقتي إيلات والعقبة بعد إطلاق مضادات…",
+            "summary": "القناة 12 الإسرائيلية: دوي انفجارات في منطقتي إيلات والعقبة بعد إطلاق مضادات جوية لاعتراض صواريخ إيرانية",
+            "date_modified": "2026-07-19T12:19:05.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "dc21b97f6871fe5dbcb83ece30eba430ec7fcbe01cf833db72a181ddd7355666",
+            "content_html": "الجيش الإسرائيلي: رصدنا إطلاق صواريخ من إيران باتجاه مدينة العقبة وقد يسقط بعضها في إسرائيل",
+            "url": "https://t.me/aljazeeraBrk/227264",
+            "title": "الجيش الإسرائيلي: رصدنا إطلاق صواريخ من إيران باتجاه مدينة العقبة وقد يسقط…",
+            "summary": "الجيش الإسرائيلي: رصدنا إطلاق صواريخ من إيران باتجاه مدينة العقبة وقد يسقط بعضها في إسرائيل",
+            "date_modified": "2026-07-19T12:13:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "57d95fba9a7e3a4448debdb667b83ddb84848c0546405e009495750ff8fb0b9e",
             "content_html": "مراسل الجزيرة: صفارات الإنذار تدوي في العاصمة الأردنية عمان ومناطق مختلفة من الأردن",
             "url": "https://t.me/aljazeeraBrk/227263",
@@ -1612,40 +1645,6 @@
             "title": "مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية على منزل بحي النصر غربي…",
             "summary": "مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية على منزل بحي النصر غربي مدينة غزة",
             "date_modified": "2026-07-18T13:45:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "fe73f70fac9797baa9e386f3e115d1a63244f5fe69c4f9ef1474a701ff767cd2",
-            "content_html": "مراسل الجزيرة: جيش الاحتلال الإسرائيلي ينفذ عملية نسف ثانية في مناطق سيطرته شرقي مدينة خان يونس",
-            "url": "https://t.me/aljazeeraBrk/227133",
-            "title": "مراسل الجزيرة: جيش الاحتلال الإسرائيلي ينفذ عملية نسف ثانية في مناطق سيطرته…",
-            "summary": "مراسل الجزيرة: جيش الاحتلال الإسرائيلي ينفذ عملية نسف ثانية في مناطق سيطرته شرقي مدينة خان يونس",
-            "date_modified": "2026-07-18T13:29:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "b80fc18a4d149e389ab5558c0e186ee38d1312c12400c5327816675115c446b2",
-            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">وزير المالية يصدر قرارًا لمكافحة ظاهرة التهرب الضريبي عبر المستوردين الوهميين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "url": "https://t.me/HalabTodayTV/138462",
-            "title": "وزير المالية يصدر قرارًا لمكافحة ظاهرة التهرب الضريبي عبر المستوردين الوهميين…",
-            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">وزير المالية يصدر قرارًا لمكافحة ظاهرة التهرب الضريبي عبر المستوردين الوهميين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "image": "https://cdn4.telesco.pe/file/V_qNrX5o7GSaUdhidivJdAqIeSNCqRViJwaxjeagEZOSAIttgx2sM-zZq-pdXTWb2ITLbsjVBOgMGuI1esLUu2U0yYNT7v1hYZF3zZUID0uy2rtsT6elU_dUgqTXsRyLvSa3tSeHDWKKY2b5P-2UV_lH8HSQkTNcgvh4tThgal34em8JTZNv0qcttIkjLBoYrX9E4yec0z_joG6uWuOzXa2w5lxQhpwYxYPOEtZ5Jml9ILD26agMFaRlMvtEZm4zm9y5D8Az7OMnwydeoXItaztInAVK5JYNycY1txd8xv64BO6IR4l-9XcVLZA1f_nO7hYV7SV8hc-by_97Nbcspg.jpg",
-            "date_modified": "2026-07-18T13:15:56.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "1251c1a4c16c1f64c0ec0b4347c28b50bf5ee1b33deb647e7aa3eb623fbd3a45",
-            "content_html": "الخارجية القطرية: نشدد على ضرورة الوقف الفوري للأعمال العسكرية والاعتداءات التي تهدد أمن المنطقة واستقرارها",
-            "url": "https://t.me/aljazeeraBrk/227132",
-            "title": "الخارجية القطرية: نشدد على ضرورة الوقف الفوري للأعمال العسكرية والاعتداءات التي…",
-            "summary": "الخارجية القطرية: نشدد على ضرورة الوقف الفوري للأعمال العسكرية والاعتداءات التي تهدد أمن المنطقة واستقرارها",
-            "date_modified": "2026-07-18T13:14:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
