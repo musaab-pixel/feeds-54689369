@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 07:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إدارة الأزمات بمحافظة أذربيجان الغربية بإيران: مصابون في قصف على محيط مدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/227412</link>
+            <guid isPermaLink="false">26575969b81837df797b9ba0eb6d48789db22ab4aad5790e2b48ff54d59b8519</guid>
+            <pubDate>Mon, 20 Jul 2026 07:05:03 GMT</pubDate>
+            <description><![CDATA[إدارة الأزمات بمحافظة أذربيجان الغربية بإيران: مصابون في قصف على محيط مدينة أرومية بالمحافظة]]></description>
+            <content:encoded><![CDATA[إدارة الأزمات بمحافظة أذربيجان الغربية بإيران: مصابون في قصف على محيط مدينة أرومية بالمحافظة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تاس عن السلطات الروسية: إصابة 10 أشخاص بينهم طفل في هجوم بمسيرة أوكرانية…]]></title>
             <link>https://t.me/aljazeeraBrk/227411</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 18 Jul 2026 09:39:02 GMT</pubDate>
             <description><![CDATA[حاكم مقاطعة موسكو: مقتل شخص وإصابة 37 في هجوم أوكراني بالمسيرات على المقاطعة]]></description>
             <content:encoded><![CDATA[حاكم مقاطعة موسكو: مقتل شخص وإصابة 37 في هجوم أوكراني بالمسيرات على المقاطعة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا منشآت للطاقة والنقل تستخدمها القوات الأوكرانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/227109</link>
-            <guid isPermaLink="false">93a89a9c58dad1ea868f940724ada55909a04da0ae71f2d73e5f48f2737e2fce</guid>
-            <pubDate>Sat, 18 Jul 2026 09:38:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا منشآت للطاقة والنقل تستخدمها القوات الأوكرانية خلال الساعات الماضية]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا منشآت للطاقة والنقل تستخدمها القوات الأوكرانية خلال الساعات الماضية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
