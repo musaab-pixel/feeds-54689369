@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 15:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 15:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الخارجية الفرنسي: موظفان بسفارتنا بطهران احتجزا لساعات أمس وتعرضا لترهيب…]]></title>
+            <link>https://t.me/aljazeeraBrk/227472</link>
+            <guid isPermaLink="false">91837677bf80e9b91983d17eeebac1a17f474ae0492f81af634fa5e20b45b26d</guid>
+            <pubDate>Mon, 20 Jul 2026 15:34:02 GMT</pubDate>
+            <description><![CDATA[وزير الخارجية الفرنسي: موظفان بسفارتنا بطهران احتجزا لساعات أمس وتعرضا لترهيب من أجهزة الأمن الإيرانية]]></description>
+            <content:encoded><![CDATA[وزير الخارجية الفرنسي: موظفان بسفارتنا بطهران احتجزا لساعات أمس وتعرضا لترهيب من أجهزة الأمن الإيرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة أنباء فارس: مقتل ضابط بوحدة الدفاع الجوي الإيرانية في الهجوم الأمريكي على…]]></title>
             <link>https://t.me/aljazeeraBrk/227471</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 18 Jul 2026 15:14:02 GMT</pubDate>
             <description><![CDATA[الخارجية الايرانية: مذكرة التفاهم قائمة على الالتزام مقابل الالتزام وسنلتزم بتعهداتنا طالما التزمت أمريكا]]></description>
             <content:encoded><![CDATA[الخارجية الايرانية: مذكرة التفاهم قائمة على الالتزام مقابل الالتزام وسنلتزم بتعهداتنا طالما التزمت أمريكا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قائد القوات البحرية في الحرس الثوري الإيراني: ليس أمام أمريكا من خيار سوى…]]></title>
-            <link>https://t.me/aljazeeraBrk/227143</link>
-            <guid isPermaLink="false">f2fbd986363692784db62cc897ae05513ff380cf876805062635ad4cc5689ded</guid>
-            <pubDate>Sat, 18 Jul 2026 15:05:02 GMT</pubDate>
-            <description><![CDATA[قائد القوات البحرية في الحرس الثوري الإيراني: ليس أمام أمريكا من خيار سوى الابتعاد عن الخليج]]></description>
-            <content:encoded><![CDATA[قائد القوات البحرية في الحرس الثوري الإيراني: ليس أمام أمريكا من خيار سوى الابتعاد عن الخليج]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
