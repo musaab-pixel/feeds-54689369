@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 23:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 23:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: هجوم معاد استهدف منطقتين في شرق وغرب شيراز بمحافظة فارس فجر…]]></title>
+            <link>https://t.me/aljazeeraBrk/227581</link>
+            <guid isPermaLink="false">266c80b12235d771434c253a935727ff96543342fda93d8f074f9ecbf7c81fa9</guid>
+            <pubDate>Mon, 20 Jul 2026 23:50:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: هجوم معاد استهدف منطقتين في شرق وغرب شيراز بمحافظة فارس فجر اليوم]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: هجوم معاد استهدف منطقتين في شرق وغرب شيراز بمحافظة فارس فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: هجوم معاد استهدف منطقتين في شرق وغرب شيراز بمحافظة فارس]]></title>
             <link>https://t.me/aljazeeraBrk/227580</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 13:37:03 GMT</pubDate>
             <description><![CDATA[وزير الطاقة الأمريكي: الرئيس ترمب يبحث دائما عن مخرج دبلوماسي ويريد إنهاء الأمر باتفاق]]></description>
             <content:encoded><![CDATA[وزير الطاقة الأمريكي: الرئيس ترمب يبحث دائما عن مخرج دبلوماسي ويريد إنهاء الأمر باتفاق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الطاقة الأمريكي: نعمل حاليا على ضمان تدفق النفط والغاز عبر مضيق هرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/227278</link>
-            <guid isPermaLink="false">af0698c20f042a5581646beeb8de8b4d003fb4633fea1a60084adede69aa9a82</guid>
-            <pubDate>Sun, 19 Jul 2026 13:37:02 GMT</pubDate>
-            <description><![CDATA[وزير الطاقة الأمريكي: نعمل حاليا على ضمان تدفق النفط والغاز عبر مضيق هرمز بتعاون إيراني أو من غيره]]></description>
-            <content:encoded><![CDATA[وزير الطاقة الأمريكي: نعمل حاليا على ضمان تدفق النفط والغاز عبر مضيق هرمز بتعاون إيراني أو من غيره]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
