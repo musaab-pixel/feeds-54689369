@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "4fce1070606d8f61f9a4e4153013a6aa2493d8a4fe168f221d547611efc71e6e",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSjNReGpUOGk2NnRCZklFZzgtUHZlZWhGYzQwTnNsTXZkakJrVmxHT3loZjktc2Y5ZUZNd0NCaDJRcmd0MEpTN2lYeEtQT2c?oc=5\" target=\"_blank\">مدير شؤون الأونروا: لاجئو فلسطين يواجهون تحديات متفاقمة والأونروا بحاجة إلى دعم دولي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSjNReGpUOGk2NnRCZklFZzgtUHZlZWhGYzQwTnNsTXZkakJrVmxHT3loZjktc2Y5ZUZNd0NCaDJRcmd0MEpTN2lYeEtQT2c?oc=5",
+            "title": "مدير شؤون الأونروا: لاجئو فلسطين يواجهون تحديات متفاقمة والأونروا بحاجة إلى دعم دولي - سانا",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSjNReGpUOGk2NnRCZklFZzgtUHZlZWhGYzQwTnNsTXZkakJrVmxHT3loZjktc2Y5ZUZNd0NCaDJRcmd0MEpTN2lYeEtQT2c?oc=5\" target=\"_blank\">مدير شؤون الأونروا: لاجئو فلسطين يواجهون تحديات متفاقمة والأونروا بحاجة إلى دعم دولي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "date_modified": "2026-07-20T14:53:13.000Z",
+            "author": {
+                "name": "سانا"
+            }
+        },
+        {
             "id": "086ec05b24402c95afec7fb38b26dbbdbdc31525883679a45d2f44c1a086630e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi-wRBVV95cUxPYk01b08tUTR6MWhQSWtMV0NmZmNFWXIzMzN5bmZRZEtlTk12THBXUm5sRnB1Nkg0UHh3UlEtYlVoM2xjdTFNaUtEUVNwZUV4SG5fWWhWV1J5cWZxbzR1LUctVkd0R3FhbUxKZDJVOEdNRWh6SmZvVmZIQlZyZTNHUGc3dDdqeFZYVmFQTUh5MU5EcUZvbkNMbkVmQ2phcVhWV2xKZzhyV1ZOemo2MWlDY1hRUUkwMEN0bDRGa1ZVWDlkVjc3WkNQaGhnRmhXTkpETDVNbzNOWEJJalVJZFlLMmZWeEsxVUhPNDh6TktLXzFPUTNVMmppVmFlNmJUWDh2cDdzYnJLMU9VMkxxZmh4TENaVnVqYm1ScFR4YlZOZjcyWVZQU2JrUFR2RmQ3N2JRMWZ2LURCem5vT09RZDVzYVNMMDRtYnhzaXoyNjZCZ2ljRTNTbFBSUVVQYnd4TVFBd20teTdUT0JCQW5wd1J6LWZsQjhCYkNPNXNPME43RFYxTXU3ejFPMHM4b0w4UE5mdEZSdW5iaXpCS096a2RSVDJhSTU3VTYtdllDbHY0UzlwLXJVbmpKOF9fVWR2cHlHUHJqV2hxWW1sUjdxWGVUR3pReFpGc0hzN3ppT1REMWU1Ylhua2QxbzBhZk9nTDdDM0JpZ042TkxmV2JqWFktZlk1ZmsxV3E0dGpfbHZvbHh2T3ZuUmtVZGVyQ1dKRlJyVmdzYS14UWJwczVRX2RwSXhUZzY3Q0ZXNHRua29FZUNaTU9nbTZiRzlHQjVOZlIzRWJLZGdFLWFkMTZTTkVjVnRiYU1CVHpiQWt0SGNQQ0FDNlFXdTFfcUdBaw?oc=5\" target=\"_blank\">مطالب لـ\"أونروا\" بتوضيح أسباب تأخر الدفعة الثانية من مساعدات ترميم منازل مخيم درعا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxPYk01b08tUTR6MWhQSWtMV0NmZmNFWXIzMzN5bmZRZEtlTk12THBXUm5sRnB1Nkg0UHh3UlEtYlVoM2xjdTFNaUtEUVNwZUV4SG5fWWhWV1J5cWZxbzR1LUctVkd0R3FhbUxKZDJVOEdNRWh6SmZvVmZIQlZyZTNHUGc3dDdqeFZYVmFQTUh5MU5EcUZvbkNMbkVmQ2phcVhWV2xKZzhyV1ZOemo2MWlDY1hRUUkwMEN0bDRGa1ZVWDlkVjc3WkNQaGhnRmhXTkpETDVNbzNOWEJJalVJZFlLMmZWeEsxVUhPNDh6TktLXzFPUTNVMmppVmFlNmJUWDh2cDdzYnJLMU9VMkxxZmh4TENaVnVqYm1ScFR4YlZOZjcyWVZQU2JrUFR2RmQ3N2JRMWZ2LURCem5vT09RZDVzYVNMMDRtYnhzaXoyNjZCZ2ljRTNTbFBSUVVQYnd4TVFBd20teTdUT0JCQW5wd1J6LWZsQjhCYkNPNXNPME43RFYxTXU3ejFPMHM4b0w4UE5mdEZSdW5iaXpCS096a2RSVDJhSTU3VTYtdllDbHY0UzlwLXJVbmpKOF9fVWR2cHlHUHJqV2hxWW1sUjdxWGVUR3pReFpGc0hzN3ppT1REMWU1Ylhua2QxbzBhZk9nTDdDM0JpZ042TkxmV2JqWFktZlk1ZmsxV3E0dGpfbHZvbHh2T3ZuUmtVZGVyQ1dKRlJyVmdzYS14UWJwczVRX2RwSXhUZzY3Q0ZXNHRua29FZUNaTU9nbTZiRzlHQjVOZlIzRWJLZGdFLWFkMTZTTkVjVnRiYU1CVHpiQWt0SGNQQ0FDNlFXdTFfcUdBaw?oc=5",
