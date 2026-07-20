@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 15:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 15:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة مهر الإيرانية: دوي انفجارات قرب مدينة سيريك جنوبي البلاد]]></title>
+            <link>https://t.me/aljazeeraBrk/227476</link>
+            <guid isPermaLink="false">5b53e5ce327751dafe9e496f0ac2b4086f8b4c7c3175825388d0709e6183012d</guid>
+            <pubDate>Mon, 20 Jul 2026 15:50:03 GMT</pubDate>
+            <description><![CDATA[وكالة مهر الإيرانية: دوي انفجارات قرب مدينة سيريك جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[وكالة مهر الإيرانية: دوي انفجارات قرب مدينة سيريك جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الداخلية البحرينية: إطلاق صفارات الإنذار مجددا وعلى المواطنين والمقيمين الهدوء…]]></title>
             <link>https://t.me/aljazeeraBrk/227475</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 18 Jul 2026 15:45:02 GMT</pubDate>
             <description><![CDATA[الإطفاء العام بالكويت: فرقنا سيطرت على حريقين في موقعين مختلفين استهدفا بهجمات إيرانية معادية]]></description>
             <content:encoded><![CDATA[الإطفاء العام بالكويت: فرقنا سيطرت على حريقين في موقعين مختلفين استهدفا بهجمات إيرانية معادية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظ هرمزغان: تعرض مناطق قرب مدينة سيريك ظهر اليوم لهجمات صاروخية أمريكية دون…]]></title>
-            <link>https://t.me/aljazeeraBrk/227147</link>
-            <guid isPermaLink="false">edf701e62b424ea2af050b116312eda3aeb259b64f2cce60dea1e3dd4f8f2732</guid>
-            <pubDate>Sat, 18 Jul 2026 15:20:02 GMT</pubDate>
-            <description><![CDATA[محافظ هرمزغان: تعرض مناطق قرب مدينة سيريك ظهر اليوم لهجمات صاروخية أمريكية دون تسجيل أي إصابات بين المدنيين]]></description>
-            <content:encoded><![CDATA[محافظ هرمزغان: تعرض مناطق قرب مدينة سيريك ظهر اليوم لهجمات صاروخية أمريكية دون تسجيل أي إصابات بين المدنيين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
