@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 15:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 15:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة أنباء فارس: مقتل ضابط بوحدة الدفاع الجوي الإيرانية في الهجوم الأمريكي على…]]></title>
+            <link>https://t.me/aljazeeraBrk/227471</link>
+            <guid isPermaLink="false">9c0815c52cc7e4e05930b8469cb09a183008e64c3867727ec8db24d5828e88bc</guid>
+            <pubDate>Mon, 20 Jul 2026 15:25:02 GMT</pubDate>
+            <description><![CDATA[وكالة أنباء فارس: مقتل ضابط بوحدة الدفاع الجوي الإيرانية في الهجوم الأمريكي على مدينة تبريز فجر اليوم]]></description>
+            <content:encoded><![CDATA[وكالة أنباء فارس: مقتل ضابط بوحدة الدفاع الجوي الإيرانية في الهجوم الأمريكي على مدينة تبريز فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة فارس الإيرانية: غارة معادية استهدفت منطقة في مدينة شيراز ولا خسائر…]]></title>
             <link>https://t.me/aljazeeraBrk/227470</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 18 Jul 2026 15:05:02 GMT</pubDate>
             <description><![CDATA[قائد القوات البحرية في الحرس الثوري الإيراني: ليس أمام أمريكا من خيار سوى الابتعاد عن الخليج]]></description>
             <content:encoded><![CDATA[قائد القوات البحرية في الحرس الثوري الإيراني: ليس أمام أمريكا من خيار سوى الابتعاد عن الخليج]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم 3 أطفال في غارات إسرائيلية على مدينة غزة…]]></title>
-            <link>https://t.me/aljazeeraBrk/227142</link>
-            <guid isPermaLink="false">8b6375a3f70fe5b1cb42571d4694a1bf850cee008f21cd47e4291f52481eb19d</guid>
-            <pubDate>Sat, 18 Jul 2026 14:21:02 GMT</pubDate>
-            <description><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم 3 أطفال في غارات إسرائيلية على مدينة غزة منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم 3 أطفال في غارات إسرائيلية على مدينة غزة منذ فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
