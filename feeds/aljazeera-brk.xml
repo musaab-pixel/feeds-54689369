@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 15:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 16:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: نواصل تنفيذ مهماتنا في المناطق الجنوبية بما فيها فرون وبنت جبيل…]]></title>
+            <link>https://t.me/aljazeeraBrk/227477</link>
+            <guid isPermaLink="false">5eb959d299952f73e55d1b477613fd1eceb56621737247463494b082e89ad9a4</guid>
+            <pubDate>Mon, 20 Jul 2026 16:06:03 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: نواصل تنفيذ مهماتنا في المناطق الجنوبية بما فيها فرون وبنت جبيل وصريفا وصور]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: نواصل تنفيذ مهماتنا في المناطق الجنوبية بما فيها فرون وبنت جبيل وصريفا وصور]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة مهر الإيرانية: دوي انفجارات قرب مدينة سيريك جنوبي البلاد]]></title>
             <link>https://t.me/aljazeeraBrk/227476</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 18 Jul 2026 15:47:02 GMT</pubDate>
             <description><![CDATA[الإطفاء العام بالكويت: إصابة عدد من رجال الإطفاء وعامل في القطاع النفطي نتيجة تجدد استهداف أحد الموقعين]]></description>
             <content:encoded><![CDATA[الإطفاء العام بالكويت: إصابة عدد من رجال الإطفاء وعامل في القطاع النفطي نتيجة تجدد استهداف أحد الموقعين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإطفاء العام بالكويت: فرقنا سيطرت على حريقين في موقعين مختلفين استهدفا بهجمات…]]></title>
-            <link>https://t.me/aljazeeraBrk/227148</link>
-            <guid isPermaLink="false">63de6b737e03ccc0c58aae593f5350ee533e49ac21d736f8ffe68a89911494fb</guid>
-            <pubDate>Sat, 18 Jul 2026 15:45:02 GMT</pubDate>
-            <description><![CDATA[الإطفاء العام بالكويت: فرقنا سيطرت على حريقين في موقعين مختلفين استهدفا بهجمات إيرانية معادية]]></description>
-            <content:encoded><![CDATA[الإطفاء العام بالكويت: فرقنا سيطرت على حريقين في موقعين مختلفين استهدفا بهجمات إيرانية معادية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
