@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "fe092d3d365af72fd636858928b3125ff8381860606ea8c9bd5d8b4b005b0da6",
+            "content_html": "وكالة فارس الإيرانية: دوي انفجارات في مدينة سيريك بمحافظة هرمزغان جنوبي البلاد",
+            "url": "https://t.me/aljazeeraBrk/227523",
+            "title": "وكالة فارس الإيرانية: دوي انفجارات في مدينة سيريك بمحافظة هرمزغان جنوبي البلاد",
+            "summary": "وكالة فارس الإيرانية: دوي انفجارات في مدينة سيريك بمحافظة هرمزغان جنوبي البلاد",
+            "date_modified": "2026-07-20T19:54:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "49e8d335df83a7df7376c608c79962d747480eb87d1eabc12c94b50b7179ae01",
             "content_html": "الجيش الإسرائيلي: سنتصرف بقوة ضد أي انتهاك للاتفاق في جنوب لبنان",
             "url": "https://t.me/aljazeeraBrk/227522",
@@ -1163,6 +1174,15 @@
             }
         },
         {
+            "id": "b2c047a2eb6d3977b65d1c429ff118bef3253ec48b029f51de5c574375b9666d",
+            "content_html": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",
+            "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
+            "summary": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-03-2026-Unsplash-Iran-Tehran-03.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-20T12:00:00.000Z"
+        },
+        {
             "id": "086ec05b24402c95afec7fb38b26dbbdbdc31525883679a45d2f44c1a086630e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi-wRBVV95cUxPYk01b08tUTR6MWhQSWtMV0NmZmNFWXIzMzN5bmZRZEtlTk12THBXUm5sRnB1Nkg0UHh3UlEtYlVoM2xjdTFNaUtEUVNwZUV4SG5fWWhWV1J5cWZxbzR1LUctVkd0R3FhbUxKZDJVOEdNRWh6SmZvVmZIQlZyZTNHUGc3dDdqeFZYVmFQTUh5MU5EcUZvbkNMbkVmQ2phcVhWV2xKZzhyV1ZOemo2MWlDY1hRUUkwMEN0bDRGa1ZVWDlkVjc3WkNQaGhnRmhXTkpETDVNbzNOWEJJalVJZFlLMmZWeEsxVUhPNDh6TktLXzFPUTNVMmppVmFlNmJUWDh2cDdzYnJLMU9VMkxxZmh4TENaVnVqYm1ScFR4YlZOZjcyWVZQU2JrUFR2RmQ3N2JRMWZ2LURCem5vT09RZDVzYVNMMDRtYnhzaXoyNjZCZ2ljRTNTbFBSUVVQYnd4TVFBd20teTdUT0JCQW5wd1J6LWZsQjhCYkNPNXNPME43RFYxTXU3ejFPMHM4b0w4UE5mdEZSdW5iaXpCS096a2RSVDJhSTU3VTYtdllDbHY0UzlwLXJVbmpKOF9fVWR2cHlHUHJqV2hxWW1sUjdxWGVUR3pReFpGc0hzN3ppT1REMWU1Ylhua2QxbzBhZk9nTDdDM0JpZ042TkxmV2JqWFktZlk1ZmsxV3E0dGpfbHZvbHh2T3ZuUmtVZGVyQ1dKRlJyVmdzYS14UWJwczVRX2RwSXhUZzY3Q0ZXNHRua29FZUNaTU9nbTZiRzlHQjVOZlIzRWJLZGdFLWFkMTZTTkVjVnRiYU1CVHpiQWt0SGNQQ0FDNlFXdTFfcUdBaw?oc=5\" target=\"_blank\">مطالب لـ\"أونروا\" بتوضيح أسباب تأخر الدفعة الثانية من مساعدات ترميم منازل مخيم درعا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxPYk01b08tUTR6MWhQSWtMV0NmZmNFWXIzMzN5bmZRZEtlTk12THBXUm5sRnB1Nkg0UHh3UlEtYlVoM2xjdTFNaUtEUVNwZUV4SG5fWWhWV1J5cWZxbzR1LUctVkd0R3FhbUxKZDJVOEdNRWh6SmZvVmZIQlZyZTNHUGc3dDdqeFZYVmFQTUh5MU5EcUZvbkNMbkVmQ2phcVhWV2xKZzhyV1ZOemo2MWlDY1hRUUkwMEN0bDRGa1ZVWDlkVjc3WkNQaGhnRmhXTkpETDVNbzNOWEJJalVJZFlLMmZWeEsxVUhPNDh6TktLXzFPUTNVMmppVmFlNmJUWDh2cDdzYnJLMU9VMkxxZmh4TENaVnVqYm1ScFR4YlZOZjcyWVZQU2JrUFR2RmQ3N2JRMWZ2LURCem5vT09RZDVzYVNMMDRtYnhzaXoyNjZCZ2ljRTNTbFBSUVVQYnd4TVFBd20teTdUT0JCQW5wd1J6LWZsQjhCYkNPNXNPME43RFYxTXU3ejFPMHM4b0w4UE5mdEZSdW5iaXpCS096a2RSVDJhSTU3VTYtdllDbHY0UzlwLXJVbmpKOF9fVWR2cHlHUHJqV2hxWW1sUjdxWGVUR3pReFpGc0hzN3ppT1REMWU1Ylhua2QxbzBhZk9nTDdDM0JpZ042TkxmV2JqWFktZlk1ZmsxV3E0dGpfbHZvbHh2T3ZuUmtVZGVyQ1dKRlJyVmdzYS14UWJwczVRX2RwSXhUZzY3Q0ZXNHRua29FZUNaTU9nbTZiRzlHQjVOZlIzRWJLZGdFLWFkMTZTTkVjVnRiYU1CVHpiQWt0SGNQQ0FDNlFXdTFfcUdBaw?oc=5",
@@ -1610,29 +1630,6 @@
             "date_modified": "2026-07-20T06:32:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a83efcababbd8b4098a36b4447d5087b18fed1940c2f82c2ee851e48e837a48e",
-            "content_html": "حاكم مدينة بوشهر: المدينة تعرضت لهجومين من جانب الولايات المتحدة وأبعاد وتفاصيل الهجومين قيد التحقق",
-            "url": "https://t.me/aljazeeraBrk/227400",
-            "title": "حاكم مدينة بوشهر: المدينة تعرضت لهجومين من جانب الولايات المتحدة وأبعاد وتفاصيل…",
-            "summary": "حاكم مدينة بوشهر: المدينة تعرضت لهجومين من جانب الولايات المتحدة وأبعاد وتفاصيل الهجومين قيد التحقق",
-            "date_modified": "2026-07-20T06:25:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "28ac3c7ae7972a5f1eb4c5db61baaa6c3949954708c88a904ba9ae987954a4a6",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i>حالة الطقس في سوريا 20-07-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138524",
-            "title": "☀️حالة الطقس في سوريا 20-07-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i>حالة الطقس في سوريا 20-07-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/eCZhBPIyGncpMT-OD9SFiQaQZXJ9qkerRH_jRQ-3xUOsaGdUtEepuKFS5TD0uKp5B8CRN3CAZBrnrG2YcdXKNyf5Vt8ZAoK61NtyBkJQNeAaX7V04lGzLgp8ZAjQvQI1lVr29TwMOPcxBf5IO3M0Pw1b1PHy1RqDfMP19SNckqr2G0mV90ABr0nTvoiY-6nLCyFrzcI-y9PbEEn567I_jEOeDNXXBY7BDNfiVr0ux8wSKrFWRcZQwzntUwL-GQz7ZYB0SMSoTD_UgMF63JT6ie1sne1Oqs61vn2Q8KRiHZZewklB_DQCnkkUAK3ye6kfgxIOfxi_LSCgtRs4qJS_fQ.jpg",
-            "date_modified": "2026-07-20T06:17:41.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
