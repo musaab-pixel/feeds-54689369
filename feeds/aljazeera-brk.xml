@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 21:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 21:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الأنباء الإيرانية: دوي انفجار بمدينة شيراز في محافظة فارس جنوبي البلاد]]></title>
+            <link>https://t.me/aljazeeraBrk/227551</link>
+            <guid isPermaLink="false">825c1dbcf31ee306b9c32fc49c8214643ef8bd295d21e5fd2f7695210923f6d7</guid>
+            <pubDate>Mon, 20 Jul 2026 21:31:03 GMT</pubDate>
+            <description><![CDATA[وكالة الأنباء الإيرانية: دوي انفجار بمدينة شيراز في محافظة فارس جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[وكالة الأنباء الإيرانية: دوي انفجار بمدينة شيراز في محافظة فارس جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم البنتاغون: 96% من المصابين عادوا إلى أداء مهامهم ومعظم الإصابات…]]></title>
             <link>https://t.me/aljazeeraBrk/227550</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 10:13:02 GMT</pubDate>
             <description><![CDATA[السلطة القضائية الإيرانية: إعدام شخصين أدينا بالمشاركة في قتل 4 أفراد أمن خلال احتجاجات يناير في أصفهان]]></description>
             <content:encoded><![CDATA[السلطة القضائية الإيرانية: إعدام شخصين أدينا بالمشاركة في قتل 4 أفراد أمن خلال احتجاجات يناير في أصفهان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[تسنيم: الدفاعات الجوية الإيرانية تسقط مسيرة من طراز إم كيو 9 في دهلران بمحافظة…]]></title>
-            <link>https://t.me/aljazeeraBrk/227248</link>
-            <guid isPermaLink="false">88ba6723c09396f69ce73463303aee251f1e9d093e109a032cd85c4f2b8873c7</guid>
-            <pubDate>Sun, 19 Jul 2026 10:06:02 GMT</pubDate>
-            <description><![CDATA[تسنيم: الدفاعات الجوية الإيرانية تسقط مسيرة من طراز إم كيو 9 في دهلران بمحافظة إيلام غربي البلاد]]></description>
-            <content:encoded><![CDATA[تسنيم: الدفاعات الجوية الإيرانية تسقط مسيرة من طراز إم كيو 9 في دهلران بمحافظة إيلام غربي البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
