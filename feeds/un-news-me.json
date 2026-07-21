@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "fc731af07838018ce50d34a3c3a343d6114d1c3dd195c0bfb1f40562eb6f2488",
+            "content_html": "The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as the UN chief heads to Damascus for his first visit to the country as Secretary-General.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+            "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+            "summary": "The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as the UN chief heads to Damascus for his first visit to the country as Secretary-General.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-03.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-21T12:00:00.000Z"
+        },
+        {
             "id": "b2c047a2eb6d3977b65d1c429ff118bef3253ec48b029f51de5c574375b9666d",
             "content_html": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
             "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",

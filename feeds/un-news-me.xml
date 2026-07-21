@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 04:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 15:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1167984</link>
+            <guid isPermaLink="false">fc731af07838018ce50d34a3c3a343d6114d1c3dd195c0bfb1f40562eb6f2488</guid>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as the UN chief heads to Damascus for his first visit to the country as Secretary-General.]]></description>
+            <content:encoded><![CDATA[The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as the UN chief heads to Damascus for his first visit to the country as Secretary-General.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-03.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Middle East: Civilians again under fire as US-Iran strikes continue]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/07/1167979</link>
