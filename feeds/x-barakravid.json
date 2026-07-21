@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"Barak Ravid — باراك رافيد (X)\" (type: x)",
     "items": [
         {
+            "id": "ec8df35e82d6ec80fe5020251d5f1573acfaaac5e541e811897056c8ebac9670",
+            "content_html": "<p>Trump says the U.S. will be hitting Pickaxe mountain in Iran \"pretty soon very heavily and there is nothing they can do about it\"</p>",
+            "url": "https://x.com/BarakRavid/status/2079592466823438533",
+            "title": "Trump says the U.S. will be hitting Pickaxe mountain in Iran \"pretty soon very heavily and there is nothing they can do about it\"",
+            "summary": "<p>Trump says the U.S. will be hitting Pickaxe mountain in Iran \"pretty soon very heavily and there is nothing they can do about it\"</p>",
+            "date_modified": "2026-07-21T15:40:55.000Z",
+            "author": {
+                "name": "@BarakRavid"
+            }
+        },
+        {
             "id": "00d1adfb234fa55d7bec36fafea53e385deb9d374aa761237b89c571d5983b27",
             "content_html": "<p>Trump says Iran wants \"desperately\" to meet but stresses that \"until they don’t meet in a meaningful way we are not interested\"</p>",
             "url": "https://x.com/BarakRavid/status/2079588222280097903",
