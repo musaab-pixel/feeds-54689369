@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 09:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 09:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نيويورك تايمز عن شركة كبلر لتتبع السفن: 12 سفينة فقط عبرت مضيق هرمز أمس الاثنين]]></title>
+            <link>https://t.me/aljazeeraBrk/227626</link>
+            <guid isPermaLink="false">dad55837e4d2892d8bae56b0aa6c1a522fc11a00512e54fa6e7cee98de224688</guid>
+            <pubDate>Tue, 21 Jul 2026 09:27:02 GMT</pubDate>
+            <description><![CDATA[نيويورك تايمز عن شركة كبلر لتتبع السفن: 12 سفينة فقط عبرت مضيق هرمز أمس الاثنين]]></description>
+            <content:encoded><![CDATA[نيويورك تايمز عن شركة كبلر لتتبع السفن: 12 سفينة فقط عبرت مضيق هرمز أمس الاثنين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الأردني: إسقاط 3 صواريخ إيرانية استهدفت أراضي المملكة]]></title>
             <link>https://t.me/aljazeeraBrk/227625</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 20 Jul 2026 06:25:03 GMT</pubDate>
             <description><![CDATA[حاكم مدينة بوشهر: المدينة تعرضت لهجومين من جانب الولايات المتحدة وأبعاد وتفاصيل الهجومين قيد التحقق]]></description>
             <content:encoded><![CDATA[حاكم مدينة بوشهر: المدينة تعرضت لهجومين من جانب الولايات المتحدة وأبعاد وتفاصيل الهجومين قيد التحقق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة الأنباء الإيرانية عن حاكم مدينة بوشهر: تعرض مناطق عدة في المدينة لمقذوفات…]]></title>
-            <link>https://t.me/aljazeeraBrk/227399</link>
-            <guid isPermaLink="false">709afb0024401c830c2aaea30c80f826ec74b7bd40460ad43e02daf1f91bb5ec</guid>
-            <pubDate>Mon, 20 Jul 2026 06:17:03 GMT</pubDate>
-            <description><![CDATA[وكالة الأنباء الإيرانية عن حاكم مدينة بوشهر: تعرض مناطق عدة في المدينة لمقذوفات أمريكية قبل قليل]]></description>
-            <content:encoded><![CDATA[وكالة الأنباء الإيرانية عن حاكم مدينة بوشهر: تعرض مناطق عدة في المدينة لمقذوفات أمريكية قبل قليل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
