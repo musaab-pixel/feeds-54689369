@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 06:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 06:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: وحداتنا العسكرية بدأت الانتشار ببلدة زوطر الغربية بناء على…]]></title>
+            <link>https://t.me/aljazeeraBrk/227603</link>
+            <guid isPermaLink="false">05042f9f9ea2ad0298692623bcae20e7643dce02cac52b3540b505fbd86a82d4</guid>
+            <pubDate>Tue, 21 Jul 2026 06:44:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: وحداتنا العسكرية بدأت الانتشار ببلدة زوطر الغربية بناء على الاتصالات مع مجموعة التنسيق العسكري]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: وحداتنا العسكرية بدأت الانتشار ببلدة زوطر الغربية بناء على الاتصالات مع مجموعة التنسيق العسكري]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: فرق هندسة الجيش اللبناني تعمل على مسح شوارع زوطر الغربية من…]]></title>
             <link>https://t.me/aljazeeraBrk/227602</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 18:08:02 GMT</pubDate>
             <description><![CDATA[الجيش الكويتي: دمرنا صواريخ باليستية وطائرات مسيرة داخل مجالنا الجوي منذ فجر اليوم]]></description>
             <content:encoded><![CDATA[الجيش الكويتي: دمرنا صواريخ باليستية وطائرات مسيرة داخل مجالنا الجوي منذ فجر اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول بمحافظة خوزستان: هجوم صاروخي أمريكي استهدف قبل قليل مناطق خارج مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/227306</link>
-            <guid isPermaLink="false">af9c50343a66eccae01c6c418cafa3fbe1fb8b06c4b2ee7d22f24efb94ee5e5a</guid>
-            <pubDate>Sun, 19 Jul 2026 17:40:02 GMT</pubDate>
-            <description><![CDATA[مسؤول بمحافظة خوزستان: هجوم صاروخي أمريكي استهدف قبل قليل مناطق خارج مدينة آبادان جنوب غربي إيران]]></description>
-            <content:encoded><![CDATA[مسؤول بمحافظة خوزستان: هجوم صاروخي أمريكي استهدف قبل قليل مناطق خارج مدينة آبادان جنوب غربي إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
