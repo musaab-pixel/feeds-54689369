@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 20 Jul 2026 23:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 00:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على منزل في حي الصبرة جنوبي مدينة غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/227582</link>
+            <guid isPermaLink="false">b984b1c8b56e8ff419706e69238f4396303e3ea8b83d980163cad8fddd0ae5e0</guid>
+            <pubDate>Tue, 21 Jul 2026 00:09:03 GMT</pubDate>
+            <description><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على منزل في حي الصبرة جنوبي مدينة غزة]]></description>
+            <content:encoded><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على منزل في حي الصبرة جنوبي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: هجوم معاد استهدف منطقتين في شرق وغرب شيراز بمحافظة فارس فجر…]]></title>
             <link>https://t.me/aljazeeraBrk/227581</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 13:39:02 GMT</pubDate>
             <description><![CDATA[وزير الطاقة الأمريكي: إذا كانت إيران مستعدة للحل الدبلوماسي فسيكون هذا هو الحل وإلا فسنواصل ضمان حركة الملاحة]]></description>
             <content:encoded><![CDATA[وزير الطاقة الأمريكي: إذا كانت إيران مستعدة للحل الدبلوماسي فسيكون هذا هو الحل وإلا فسنواصل ضمان حركة الملاحة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الطاقة الأمريكي: الرئيس ترمب يبحث دائما عن مخرج دبلوماسي ويريد إنهاء الأمر…]]></title>
-            <link>https://t.me/aljazeeraBrk/227279</link>
-            <guid isPermaLink="false">cf8c2120a3c9c99b7768645e9e461ce6f28d4f99bdf6dafe00f147e6d9ddc3ef</guid>
-            <pubDate>Sun, 19 Jul 2026 13:37:03 GMT</pubDate>
-            <description><![CDATA[وزير الطاقة الأمريكي: الرئيس ترمب يبحث دائما عن مخرج دبلوماسي ويريد إنهاء الأمر باتفاق]]></description>
-            <content:encoded><![CDATA[وزير الطاقة الأمريكي: الرئيس ترمب يبحث دائما عن مخرج دبلوماسي ويريد إنهاء الأمر باتفاق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
