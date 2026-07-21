@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 01:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 01:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: طاقم ناقلة مستهدفة في مضيق هرمز أخلى…]]></title>
+            <link>https://t.me/aljazeeraBrk/227594</link>
+            <guid isPermaLink="false">08173ae00dce7650e02c0c578c3c0543f17718505b65cebedcfa929f65212098</guid>
+            <pubDate>Tue, 21 Jul 2026 01:33:02 GMT</pubDate>
+            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: طاقم ناقلة مستهدفة في مضيق هرمز أخلى السفينة وانتقل إلى قارب نجاة]]></description>
+            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: طاقم ناقلة مستهدفة في مضيق هرمز أخلى السفينة وانتقل إلى قارب نجاة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: دمرنا بالمسيرات والصواريخ معدات ومنشآت للجيش الأمريكي في…]]></title>
             <link>https://t.me/aljazeeraBrk/227593</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 15:30:02 GMT</pubDate>
             <description><![CDATA[الخارجية الأمريكية: الوزير روبيو أشاد بجهود حكومة لبنان لاستعادة السيادة ونزع سلاح حزب_الله وتفكيك بنيته]]></description>
             <content:encoded><![CDATA[الخارجية الأمريكية: الوزير روبيو أشاد بجهود حكومة لبنان لاستعادة السيادة ونزع سلاح حزب_الله وتفكيك بنيته]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الأمريكية: الوزير روبيو جدد التأكيد على دعم جهود الحكومة اللبنانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/227291</link>
-            <guid isPermaLink="false">16997aa7c8fe34c52049c798d4ca1d8c6467bb74338f720e4cd9b64b3db39437</guid>
-            <pubDate>Sun, 19 Jul 2026 15:28:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الأمريكية: الوزير روبيو جدد التأكيد على دعم جهود الحكومة اللبنانية لتحقيق السلام والتعافي الاقتصادي]]></description>
-            <content:encoded><![CDATA[الخارجية الأمريكية: الوزير روبيو جدد التأكيد على دعم جهود الحكومة اللبنانية لتحقيق السلام والتعافي الاقتصادي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
