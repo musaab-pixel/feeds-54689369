@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 06:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 06:56:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: ندعو المواطنين إلى عدم التوجه إلى زوطر الغربية ريثما يستقر…]]></title>
+            <link>https://t.me/aljazeeraBrk/227604</link>
+            <guid isPermaLink="false">03b315f664647a7d04510d03cd0f59f3eeec623ec89b77539f85cc9e8e86c114</guid>
+            <pubDate>Tue, 21 Jul 2026 06:46:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: ندعو المواطنين إلى عدم التوجه إلى زوطر الغربية ريثما يستقر الوضع الأمني]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: ندعو المواطنين إلى عدم التوجه إلى زوطر الغربية ريثما يستقر الوضع الأمني]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش اللبناني: وحداتنا العسكرية بدأت الانتشار ببلدة زوطر الغربية بناء على…]]></title>
             <link>https://t.me/aljazeeraBrk/227603</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 18:09:02 GMT</pubDate>
             <description><![CDATA[الجيش الكويتي: الاعتداءات الإيرانية طالت منشآت لوزارة الكهرباء والماء وتسببت بحرائق وأضرار جسيمة]]></description>
             <content:encoded><![CDATA[الجيش الكويتي: الاعتداءات الإيرانية طالت منشآت لوزارة الكهرباء والماء وتسببت بحرائق وأضرار جسيمة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الكويتي: دمرنا صواريخ باليستية وطائرات مسيرة داخل مجالنا الجوي منذ فجر…]]></title>
-            <link>https://t.me/aljazeeraBrk/227307</link>
-            <guid isPermaLink="false">e41aac232d39161510867559604c53db1300bf0bb7ac0f962fd9ad39bfe9c568</guid>
-            <pubDate>Sun, 19 Jul 2026 18:08:02 GMT</pubDate>
-            <description><![CDATA[الجيش الكويتي: دمرنا صواريخ باليستية وطائرات مسيرة داخل مجالنا الجوي منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[الجيش الكويتي: دمرنا صواريخ باليستية وطائرات مسيرة داخل مجالنا الجوي منذ فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
