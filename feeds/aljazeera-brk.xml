@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 01:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 01:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر بمستشفى الشفاء: 5 شهداء بينهم 3 أطفال في قصف إسرائيلي على منزل في حي…]]></title>
+            <link>https://t.me/aljazeeraBrk/227595</link>
+            <guid isPermaLink="false">6493b48114f23762445dec92495f2c5092115b47c5d9a0cdd24e2cd1bda79a51</guid>
+            <pubDate>Tue, 21 Jul 2026 01:46:02 GMT</pubDate>
+            <description><![CDATA[مصدر بمستشفى الشفاء: 5 شهداء بينهم 3 أطفال في قصف إسرائيلي على منزل في حي الصبرة بمدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر بمستشفى الشفاء: 5 شهداء بينهم 3 أطفال في قصف إسرائيلي على منزل في حي الصبرة بمدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: طاقم ناقلة مستهدفة في مضيق هرمز أخلى…]]></title>
             <link>https://t.me/aljazeeraBrk/227594</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 19 Jul 2026 16:57:02 GMT</pubDate>
             <description><![CDATA[الخارجية الأردنية: استدعاء القائم بأعمال سفارة إيران وإبلاغه رسالة احتجاج شديدة ضد استمرار الاعتداءات الغاشمة]]></description>
             <content:encoded><![CDATA[الخارجية الأردنية: استدعاء القائم بأعمال سفارة إيران وإبلاغه رسالة احتجاج شديدة ضد استمرار الاعتداءات الغاشمة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الأمريكية: الوزير روبيو أشاد بجهود حكومة لبنان لاستعادة السيادة ونزع…]]></title>
-            <link>https://t.me/aljazeeraBrk/227292</link>
-            <guid isPermaLink="false">81967245975deac92b347833990c3c48fee9052aa25d5d5387fc16d58a38bfd4</guid>
-            <pubDate>Sun, 19 Jul 2026 15:30:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الأمريكية: الوزير روبيو أشاد بجهود حكومة لبنان لاستعادة السيادة ونزع سلاح حزب_الله وتفكيك بنيته]]></description>
-            <content:encoded><![CDATA[الخارجية الأمريكية: الوزير روبيو أشاد بجهود حكومة لبنان لاستعادة السيادة ونزع سلاح حزب_الله وتفكيك بنيته]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
