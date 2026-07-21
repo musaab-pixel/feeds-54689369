@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 16:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 16:58:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الصليب الأحمر اللبناني: إصابة مسعفين اثنين بعد تعرض سيارة تابعة لنا لانفجار لغم…]]></title>
+            <link>https://t.me/aljazeeraBrk/227727</link>
+            <guid isPermaLink="false">1593d3152c20f69de3c78d5527ae44c640af8d9fb55aa91bac349d789ac5c0fe</guid>
+            <pubDate>Tue, 21 Jul 2026 16:49:02 GMT</pubDate>
+            <description><![CDATA[الصليب الأحمر اللبناني: إصابة مسعفين اثنين بعد تعرض سيارة تابعة لنا لانفجار لغم ببلدة زوطر الشرقية]]></description>
+            <content:encoded><![CDATA[الصليب الأحمر اللبناني: إصابة مسعفين اثنين بعد تعرض سيارة تابعة لنا لانفجار لغم ببلدة زوطر الشرقية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: عراقجي أوضح أن الذي تنصل من الاتفاقات وعرض استقرار المنطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/227726</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 20 Jul 2026 16:46:02 GMT</pubDate>
             <description><![CDATA[ترمب: في كل مرة تقتل فيها إيران جنديا أمريكيا ستدفع ثمن ذلك أضعافا مضاعفة]]></description>
             <content:encoded><![CDATA[ترمب: في كل مرة تقتل فيها إيران جنديا أمريكيا ستدفع ثمن ذلك أضعافا مضاعفة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن هيئة بحرية بريطانية: بلاغ بإصابة سفينة بمقذوف على بعد 17 ميلا بحريا…]]></title>
-            <link>https://t.me/aljazeeraBrk/227488</link>
-            <guid isPermaLink="false">1bf1a2a13f1501df1ee2044d82a90626221ad6dacc8d27b29297fdd923bcb99e</guid>
-            <pubDate>Mon, 20 Jul 2026 16:43:03 GMT</pubDate>
-            <description><![CDATA[رويترز عن هيئة بحرية بريطانية: بلاغ بإصابة سفينة بمقذوف على بعد 17 ميلا بحريا شرق الإمارات دون خسائر بشرية]]></description>
-            <content:encoded><![CDATA[رويترز عن هيئة بحرية بريطانية: بلاغ بإصابة سفينة بمقذوف على بعد 17 ميلا بحريا شرق الإمارات دون خسائر بشرية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
