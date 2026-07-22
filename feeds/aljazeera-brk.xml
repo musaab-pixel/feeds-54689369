@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 22 Jul 2026 15:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 16:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الأمريكي دونالد ترمب يشارك في استقبال جثامين جنود أمريكيين قتلوا في…]]></title>
+            <link>https://t.me/aljazeeraBrk/227902</link>
+            <guid isPermaLink="false">9d99d8bdaf72fecf99b5ad50a4823e97184a4701102b5896877305013b73b253</guid>
+            <pubDate>Wed, 22 Jul 2026 16:28:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الأمريكي دونالد ترمب يشارك في استقبال جثامين جنود أمريكيين قتلوا في الأردن والعراق]]></description>
+            <content:encoded><![CDATA[الرئيس الأمريكي دونالد ترمب يشارك في استقبال جثامين جنود أمريكيين قتلوا في الأردن والعراق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد ومصابون في غارة إسرائيلية على خيمة نازحين…]]></title>
             <link>https://t.me/aljazeeraBrk/227901</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 20 Jul 2026 21:29:03 GMT</pubDate>
             <description><![CDATA[المتحدث باسم البنتاغون: 96% من المصابين عادوا إلى أداء مهامهم ومعظم الإصابات كانت ارتجاجات بسيطة]]></description>
             <content:encoded><![CDATA[المتحدث باسم البنتاغون: 96% من المصابين عادوا إلى أداء مهامهم ومعظم الإصابات كانت ارتجاجات بسيطة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تسنيم الإيرانية: دوي انفجارين في بندر لنجة بمحافظة هرمزغان جنوبي البلاد]]></title>
-            <link>https://t.me/aljazeeraBrk/227549</link>
-            <guid isPermaLink="false">922034e4d9efc56f9a4ca60e64890b4ac445929272dd6b86e334e6c7525770ee</guid>
-            <pubDate>Mon, 20 Jul 2026 21:25:03 GMT</pubDate>
-            <description><![CDATA[وكالة تسنيم الإيرانية: دوي انفجارين في بندر لنجة بمحافظة هرمزغان جنوبي البلاد]]></description>
-            <content:encoded><![CDATA[وكالة تسنيم الإيرانية: دوي انفجارين في بندر لنجة بمحافظة هرمزغان جنوبي البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
