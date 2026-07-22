@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 22 Jul 2026 19:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 19:53:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: لا نريد السيطرة على مضيق هرمز لكننا مضطرون للقيام بما يلزم لأنه لا يمكن…]]></title>
+            <link>https://t.me/aljazeeraBrk/227938</link>
+            <guid isPermaLink="false">87fc47f7026efee50e0ef66f451807bef39837eeb5ffce9d9ac70d3b62a08bc7</guid>
+            <pubDate>Wed, 22 Jul 2026 19:49:02 GMT</pubDate>
+            <description><![CDATA[ترمب: لا نريد السيطرة على مضيق هرمز لكننا مضطرون للقيام بما يلزم لأنه لا يمكن السماح لإيران بامتلاك سلاح نووي]]></description>
+            <content:encoded><![CDATA[ترمب: لا نريد السيطرة على مضيق هرمز لكننا مضطرون للقيام بما يلزم لأنه لا يمكن السماح لإيران بامتلاك سلاح نووي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: دوي 4 انفجارات في أربيل في إقليم كردستان العراق]]></title>
             <link>https://t.me/aljazeeraBrk/227937</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 01:18:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: عملياتنا ضد التجهيزات الأمريكية في البحرين هدفها تمهيد الطريق للعملية الواسعة المقبلة]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: عملياتنا ضد التجهيزات الأمريكية في البحرين هدفها تمهيد الطريق للعملية الواسعة المقبلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: دمرنا معدات وتجهيزات أمريكية في منطقتي المحرق والرفاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/227585</link>
-            <guid isPermaLink="false">e89223f226d7675e7a59f96e069b2e55ea116cdf2c2abb515e290ff7b9500b49</guid>
-            <pubDate>Tue, 21 Jul 2026 01:13:02 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: دمرنا معدات وتجهيزات أمريكية في منطقتي المحرق والرفاع بالبحرين]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: دمرنا معدات وتجهيزات أمريكية في منطقتي المحرق والرفاع بالبحرين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
