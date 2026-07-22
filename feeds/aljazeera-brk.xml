@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 22 Jul 2026 19:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 19:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: دوي 4 انفجارات في أربيل في إقليم كردستان العراق]]></title>
+            <link>https://t.me/aljazeeraBrk/227937</link>
+            <guid isPermaLink="false">2be3c8998860ffb7891b32d1fe346857f9f2503ed8725c524c0a52c8984a1b70</guid>
+            <pubDate>Wed, 22 Jul 2026 19:42:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: دوي 4 انفجارات في أربيل في إقليم كردستان العراق]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: دوي 4 انفجارات في أربيل في إقليم كردستان العراق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نائب وزير الخارجية الإيراني: وضع الدول الأوروبية قواعدها وأراضيها تحت تصرف…]]></title>
             <link>https://t.me/aljazeeraBrk/227936</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 01:13:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: دمرنا معدات وتجهيزات أمريكية في منطقتي المحرق والرفاع بالبحرين]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: دمرنا معدات وتجهيزات أمريكية في منطقتي المحرق والرفاع بالبحرين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: ما دامت الأعمال العدائية الأمريكية في المنطقة مستمرة فإن…]]></title>
-            <link>https://t.me/aljazeeraBrk/227584</link>
-            <guid isPermaLink="false">6499dde37594b54b98016afe86548e03ea4c93c0184ec44e6aea797a938d0368</guid>
-            <pubDate>Tue, 21 Jul 2026 01:08:02 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: ما دامت الأعمال العدائية الأمريكية في المنطقة مستمرة فإن مضيق هرمز سيظل مغلقا]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: ما دامت الأعمال العدائية الأمريكية في المنطقة مستمرة فإن مضيق هرمز سيظل مغلقا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
