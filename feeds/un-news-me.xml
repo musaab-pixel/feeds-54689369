@@ -4,7 +4,7 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 15:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 23:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -13,9 +13,27 @@
             <link>https://news.un.org/feed/view/en/story/2026/07/1167984</link>
             <guid isPermaLink="false">fc731af07838018ce50d34a3c3a343d6114d1c3dd195c0bfb1f40562eb6f2488</guid>
             <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&nbsp;heads to Damascus for his first visit to the country as Secretary-General.]]></description>
-            <content:encoded><![CDATA[The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&nbsp;heads to Damascus for his first visit to the country as Secretary-General.]]></content:encoded>
+            <description><![CDATA[The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&nbsp;heads to Damascus for his first visit to the country as Secretary-General.]]></description>
+            <content:encoded><![CDATA[The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&nbsp;heads to Damascus for his first visit to the country as Secretary-General.]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-03.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Israeli attacks on Gaza intensify amid surge of West Bank settler violence]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1167991</link>
+            <guid isPermaLink="false">a24c12d0d0862df45e1f8963db987dd166e85952260ae055ca32406161145cd5</guid>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.]]></description>
+            <content:encoded><![CDATA[Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-WFP-Gaza-03.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guterres calls for stepping up diplomatic efforts to end US-Iran conflict]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1167989</link>
+            <guid isPermaLink="false">ef370b7d83e93f463b5c38d066fcff64c271084262f321157878a5b16953f2ba</guid>
+            <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.]]></description>
+            <content:encoded><![CDATA[The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/09/25328/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Middle East: Civilians again under fire as US-Iran strikes continue]]></title>
