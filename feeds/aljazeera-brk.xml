@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 22 Jul 2026 19:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 19:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في مستشفى الشفاء بغزة: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية…]]></title>
+            <link>https://t.me/aljazeeraBrk/227935</link>
+            <guid isPermaLink="false">12a62fc0746b50083df7eb83f229bf6f8cc352ff1762e80f479d7f57f5277351</guid>
+            <pubDate>Wed, 22 Jul 2026 19:08:02 GMT</pubDate>
+            <description><![CDATA[مصدر في مستشفى الشفاء بغزة: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مخيم جباليا صباح اليوم]]></description>
+            <content:encoded><![CDATA[مصدر في مستشفى الشفاء بغزة: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مخيم جباليا صباح اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الديوان الأميري القطري: أمير قطر تلقى اتصالا من رئيس سوريا وأكدا أهمية جهود خفض…]]></title>
             <link>https://t.me/aljazeeraBrk/227934</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 01:06:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: اشتعال النيران بناقلتين عقب انفجار أثناء محاولتهما عبور المسار غير الآمن جنوب مضيق هرمز]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: اشتعال النيران بناقلتين عقب انفجار أثناء محاولتهما عبور المسار غير الآمن جنوب مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على منزل في حي الصبرة جنوبي مدينة غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/227582</link>
-            <guid isPermaLink="false">b984b1c8b56e8ff419706e69238f4396303e3ea8b83d980163cad8fddd0ae5e0</guid>
-            <pubDate>Tue, 21 Jul 2026 00:09:03 GMT</pubDate>
-            <description><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على منزل في حي الصبرة جنوبي مدينة غزة]]></description>
-            <content:encoded><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على منزل في حي الصبرة جنوبي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
