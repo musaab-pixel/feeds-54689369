@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 20:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 20:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تسنيم: صاروخان أمريكيان أصابا منطقة بالقرب من قرية مسن بجزيرة قشم جنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/228161</link>
+            <guid isPermaLink="false">9344f2157f5a789874c475bb0ca2f8494597866994b8e5913c66ed2ef3389f8a</guid>
+            <pubDate>Thu, 23 Jul 2026 20:47:03 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم: صاروخان أمريكيان أصابا منطقة بالقرب من قرية مسن بجزيرة قشم جنوبي إيران]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم: صاروخان أمريكيان أصابا منطقة بالقرب من قرية مسن بجزيرة قشم جنوبي إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المبعوث الأممي لليمن: التصعيد ينذر بانزلاق اليمن نحو مزيد من المواجهة وتوريط…]]></title>
             <link>https://t.me/aljazeeraBrk/228160</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 20:41:02 GMT</pubDate>
             <description><![CDATA[وزارة الطاقة الأمريكية: الولايات المتحدة والسعودية تتوصلان إلى اتفاقية تاريخية للتعاون النووي]]></description>
             <content:encoded><![CDATA[وزارة الطاقة الأمريكية: الولايات المتحدة والسعودية تتوصلان إلى اتفاقية تاريخية للتعاون النووي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية البريطانية: اتخذنا إجراء احترازيا بسحب موظفينا من إيران مؤقتا]]></title>
-            <link>https://t.me/aljazeeraBrk/227944</link>
-            <guid isPermaLink="false">6346e2870483f3d73afbc641ac0cb443dad45af013ff9edbf597a2048e7ceaa5</guid>
-            <pubDate>Wed, 22 Jul 2026 20:18:02 GMT</pubDate>
-            <description><![CDATA[الخارجية البريطانية: اتخذنا إجراء احترازيا بسحب موظفينا من إيران مؤقتا]]></description>
-            <content:encoded><![CDATA[الخارجية البريطانية: اتخذنا إجراء احترازيا بسحب موظفينا من إيران مؤقتا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
