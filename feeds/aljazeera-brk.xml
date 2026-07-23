@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 08:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 09:00:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى…]]></title>
+            <link>https://t.me/aljazeeraBrk/228037</link>
+            <guid isPermaLink="false">84c66cb795942d6f996f9f5cffc360a1f054daa13f7d6bf40d13788b3fa5283c</guid>
+            <pubDate>Thu, 23 Jul 2026 08:56:03 GMT</pubDate>
+            <description><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى إلى 3228 خلال الفترة الصباحية]]></description>
+            <content:encoded><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى إلى 3228 خلال الفترة الصباحية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الأوقاف الإسلامية: بن غفير يتقدم مئات المستوطنين في اقتحام الأقصى وهو…]]></title>
             <link>https://t.me/aljazeeraBrk/228036</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 15:40:03 GMT</pubDate>
             <description><![CDATA[ترمب: وضع إيران أكثر تعقيدا من فنزويلا]]></description>
             <content:encoded><![CDATA[ترمب: وضع إيران أكثر تعقيدا من فنزويلا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: سنضرب الموقع الجديد في إيران فهم متورطون بسبب الأسلحة النووية ويحاولون…]]></title>
-            <link>https://t.me/aljazeeraBrk/227706</link>
-            <guid isPermaLink="false">42e1206608a2e783f97222cf0b0ce1e26fc7de8afe5d0b5b5991c4b7710d5bc8</guid>
-            <pubDate>Tue, 21 Jul 2026 15:40:02 GMT</pubDate>
-            <description><![CDATA[ترمب: سنضرب الموقع الجديد في إيران فهم متورطون بسبب الأسلحة النووية ويحاولون إعادة إحياء موقع محتمل]]></description>
-            <content:encoded><![CDATA[ترمب: سنضرب الموقع الجديد في إيران فهم متورطون بسبب الأسلحة النووية ويحاولون إعادة إحياء موقع محتمل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
