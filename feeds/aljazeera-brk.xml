@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 12:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 13:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: عملية طعن في منطقة جنين شمال الضفة الغربية وتم تحييد المنفذ…]]></title>
+            <link>https://t.me/aljazeeraBrk/228075</link>
+            <guid isPermaLink="false">ea82cc1d3c050d2054265f2ac540a49d6829856f00b18f87c8bb3dd9fa31c47e</guid>
+            <pubDate>Thu, 23 Jul 2026 13:05:03 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: عملية طعن في منطقة جنين شمال الضفة الغربية وتم تحييد المنفذ والتفاصيل قيد الفحص]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: عملية طعن في منطقة جنين شمال الضفة الغربية وتم تحييد المنفذ والتفاصيل قيد الفحص]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: قطر تقدر جهود عمان للتنسيق مع السعودية والأطراف باليمن…]]></title>
             <link>https://t.me/aljazeeraBrk/228074</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 00:05:02 GMT</pubDate>
             <description><![CDATA[التلفزيون الإيراني: تفعيل الدفاعات الجوية للتصدي لمسيرات صغيرة في مدينة مهاباد بمحافظة أذربيجان الغربية شمال غربي البلاد]]></description>
             <content:encoded><![CDATA[التلفزيون الإيراني: تفعيل الدفاعات الجوية للتصدي لمسيرات صغيرة في مدينة مهاباد بمحافظة أذربيجان الغربية شمال غربي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: تفعيل الدفاعات الجوية وسط وشرقي العاصمة الإيرانية طهران]]></title>
-            <link>https://t.me/aljazeeraBrk/227783</link>
-            <guid isPermaLink="false">a1b5bc27b643f9287659427c5ddc3130eb8a0353e60424832bcd8e5b998f50db</guid>
-            <pubDate>Wed, 22 Jul 2026 00:04:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: تفعيل الدفاعات الجوية وسط وشرقي العاصمة الإيرانية طهران]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: تفعيل الدفاعات الجوية وسط وشرقي العاصمة الإيرانية طهران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
