@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 22:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 23:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: دوي انفجار في مدينة الأهواز بمحافظة خوزستان جنوب غربي البلاد]]></title>
+            <link>https://t.me/aljazeeraBrk/228169</link>
+            <guid isPermaLink="false">e9d34834742d4b55256ef7e680302f68ae17b205687d6f7fb048e7104a496b04</guid>
+            <pubDate>Thu, 23 Jul 2026 23:03:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: دوي انفجار في مدينة الأهواز بمحافظة خوزستان جنوب غربي البلاد]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: دوي انفجار في مدينة الأهواز بمحافظة خوزستان جنوب غربي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: رغم أن الأضرار التي تلحق بالسفن قد تكون جسيمة للغاية إلا أن تعويضها من…]]></title>
             <link>https://t.me/aljazeeraBrk/228168</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 21:35:02 GMT</pubDate>
             <description><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: نفذنا عملية بالصواريخ والمسيرات استهدفت سفينتين نفطيتين سعوديتين]]></description>
             <content:encoded><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: نفذنا عملية بالصواريخ والمسيرات استهدفت سفينتين نفطيتين سعوديتين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تسنيم: دوي انفجارات في محيط مدينة بندر ماهشهر في محافظة خوزستان جنوب غربي…]]></title>
-            <link>https://t.me/aljazeeraBrk/227952</link>
-            <guid isPermaLink="false">14f941e5684d3c5fdf497f1fecd05d8086bcf9235c9f0781a859d70ed3396587</guid>
-            <pubDate>Wed, 22 Jul 2026 21:31:02 GMT</pubDate>
-            <description><![CDATA[وكالة تسنيم: دوي انفجارات في محيط مدينة بندر ماهشهر في محافظة خوزستان جنوب غربي إيران]]></description>
-            <content:encoded><![CDATA[وكالة تسنيم: دوي انفجارات في محيط مدينة بندر ماهشهر في محافظة خوزستان جنوب غربي إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
