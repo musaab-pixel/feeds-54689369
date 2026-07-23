@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 20:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 20:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: قوات الاحتلال تطلق النار على شاب عند حاجز مخيم شعفاط بقضاء القدس…]]></title>
+            <link>https://t.me/aljazeeraBrk/228150</link>
+            <guid isPermaLink="false">554207d0529c887be00f1fadd67e3dbed212cf9ebac876c4822963103b4e5bae</guid>
+            <pubDate>Thu, 23 Jul 2026 20:12:03 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: قوات الاحتلال تطلق النار على شاب عند حاجز مخيم شعفاط بقضاء القدس المحتلة]]></description>
+            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تطلق النار على شاب عند حاجز مخيم شعفاط بقضاء القدس المحتلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: غارة إسرائيلية على منطقة مفتوحة بمحيط بلدة القصير جنوبي لبنان]]></title>
             <link>https://t.me/aljazeeraBrk/228149</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 18:54:02 GMT</pubDate>
             <description><![CDATA[الديوان الأميري القطري: أمير قطر تلقى اتصالا من رئيس سوريا وأكدا أهمية جهود خفض التصعيد بالمنطقة وتغليب الحوار]]></description>
             <content:encoded><![CDATA[الديوان الأميري القطري: أمير قطر تلقى اتصالا من رئيس سوريا وأكدا أهمية جهود خفض التصعيد بالمنطقة وتغليب الحوار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مقر خاتم الأنبياء الإيراني: مضيق هرمز مغلق وأي سفينة تعبره يجب أن تسلك حصرا…]]></title>
-            <link>https://t.me/aljazeeraBrk/227933</link>
-            <guid isPermaLink="false">c1f7f386e20ea6102e8706a3836cf2e278570e1edb9f7e0c50940d579730f35d</guid>
-            <pubDate>Wed, 22 Jul 2026 18:51:02 GMT</pubDate>
-            <description><![CDATA[مقر خاتم الأنبياء الإيراني: مضيق هرمز مغلق وأي سفينة تعبره يجب أن تسلك حصرا المسار المحدد ووفقا لترتيباتنا]]></description>
-            <content:encoded><![CDATA[مقر خاتم الأنبياء الإيراني: مضيق هرمز مغلق وأي سفينة تعبره يجب أن تسلك حصرا المسار المحدد ووفقا لترتيباتنا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "554207d0529c887be00f1fadd67e3dbed212cf9ebac876c4822963103b4e5bae",
+            "content_html": "محافظة القدس: قوات الاحتلال تطلق النار على شاب عند حاجز مخيم شعفاط بقضاء القدس المحتلة",
+            "url": "https://t.me/aljazeeraBrk/228150",
+            "title": "محافظة القدس: قوات الاحتلال تطلق النار على شاب عند حاجز مخيم شعفاط بقضاء القدس…",
+            "summary": "محافظة القدس: قوات الاحتلال تطلق النار على شاب عند حاجز مخيم شعفاط بقضاء القدس المحتلة",
+            "date_modified": "2026-07-23T20:12:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "5bd926181652f437fd0d3a788ecb19abdd8b95f23dd821575380795ebb3a6475",
             "content_html": "مراسل الجزيرة: غارة إسرائيلية على منطقة مفتوحة بمحيط بلدة القصير جنوبي لبنان",
             "url": "https://t.me/aljazeeraBrk/228149",
@@ -1193,6 +1204,24 @@
             "date_modified": "2026-07-23T12:00:00.000Z"
         },
         {
+            "id": "1a0d2c057c04d3d8a8138418e9d7453908c59b0521ba0ba662c48aea93e14fa6",
+            "content_html": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1168010",
+            "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
+            "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-23T12:00:00.000Z"
+        },
+        {
+            "id": "82e3957967016a26f780ebead168941cf3e64e42c73704c18988fcd0ca3306c9",
+            "content_html": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
+            "title": "Iran urged to stop protest-related executions",
+            "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-09-2023-SaraHossain-GVA.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-23T12:00:00.000Z"
+        },
+        {
             "id": "47a9d66cf4840b869719e623346d80ea49f53bbe7cfbff3f9f04bd0cd2ab5070",
             "content_html": "<p><strong>مجموعة العمل – سوريا</strong><br>\nناشدت عائلة الشاب الفلسطيني السوري <strong>علي عشماوي</strong>، المنحدر من مخيم اليرموك للاجئين الفلسطينيين جنوب دمشق، الجهات المعنية والجاليات الفلسطينية والسورية في الخارج، المساعدة في الكشف عن مصيره، بعد انقطاع أخباره منذ أكثر من عامين إثر رحلة بحرية انطلقت من السواحل التركية.</p>\n<p>وبحسب ما أفادت به العائلة، <strong>غادر عشماوي الأراضي التركية</strong> في الأول من كانون الأول/ديسمبر 2023 متوجهاً نحو جزيرة ميتيليني اليونانية على متن قارب من نوع “جيت سكي”، برفقة شخص آخر، إلا أن الاتصال به انقطع منذ لحظة المغادرة، ولم تتمكن أسرته، رغم محاولاتها المتواصلة، من الحصول على أي معلومات حول مكان وجوده أو مصيره.</p>\n<p>وأعربت العائلة عن قلقها الشديد إزاء استمرار غياب أي معلومات عنه، مطالبة كل من يمتلك معلومات قد تسهم في تحديد مسار رحلته أو مكان وجوده، بالتواصل مع المنصات المخصصة لنقل البلاغات إلى الأسرة.</p>\n<p>وتأتي هذه المناشدة في ظل استمرار حالات فقدان عدد من اللاجئين خلال <strong>محاولات الهجرة غير النظامية عبر البحر</strong>، حيث تبقى العديد من العائلات بانتظار معلومات تكشف مصير أبنائها المفقودين.</p>",
             "url": "https://actionpal.org.uk/post/999125083",
@@ -1597,39 +1626,6 @@
             "title": "رئيس الحكومة اللبنانية: الدولة ستعود إلى الجنوب بعد انتشار الجيش وتحقيق الأمن…",
             "summary": "رئيس الحكومة اللبنانية: الدولة ستعود إلى الجنوب بعد انتشار الجيش وتحقيق الأمن وإعادة الخدمات الأساسية",
             "date_modified": "2026-07-23T09:04:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "41b6a5215df0a6bdb067573cd5fe44dfd30ad082fd1237bb71eda7c6d675cde1",
-            "content_html": "رئيس الحكومة اللبنانية: أهل الجنوب لن يكونوا وحدهم والدولة حاضرة بكل إمكاناتها لإطلاق مسار العودة والتعافي",
-            "url": "https://t.me/aljazeeraBrk/228039",
-            "title": "رئيس الحكومة اللبنانية: أهل الجنوب لن يكونوا وحدهم والدولة حاضرة بكل إمكاناتها…",
-            "summary": "رئيس الحكومة اللبنانية: أهل الجنوب لن يكونوا وحدهم والدولة حاضرة بكل إمكاناتها لإطلاق مسار العودة والتعافي",
-            "date_modified": "2026-07-23T09:04:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "d167b3f7412990f38f8900eaee801bed324816bd3a94006ead62d707e14a14cd",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i>وفد من الهيئة العامة للمنافذ والجمارك واتحاد غرف التجارة السورية يضم رئيس غرفة تجارة حلب محمد سعيد شيخ الكار يجري زيارةً رسميةً إلى الجمهورية التركية بهدف تعزيز التعاون الاقتصادي والتجاري وبحث فرص الاستثمار والشراكة بين البلدين<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الوفد عقد لقاء موسّعًا مع مجموعةٍ من رجال الأعمال والمستثمرين الأتراك قدّم خلاله الوفد عرضاً حول البيئة الاستثمارية في سوريا والفرص المتاحة للاستثمار في المناطق الحرة السورية إضافةً إلى التسهيلات والإجراءات التي تعمل الحكومة السورية على توفيرها للمستثمرين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138662",
-            "title": "🛑وفد من الهيئة العامة للمنافذ والجمارك واتحاد غرف التجارة السورية يضم رئيس…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i>وفد من الهيئة العامة للمنافذ والجمارك واتحاد غرف التجارة السورية يضم رئيس غرفة تجارة حلب محمد سعيد شيخ الكار يجري زيارةً رسميةً إلى الجمهورية التركية بهدف تعزيز التعاون الاقتصادي والتجاري وبحث فرص الاستثمار والشراكة بين البلدين<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الوفد عقد لقاء موسّعًا مع مجموعةٍ من رجال الأعمال والمستثمرين الأتراك قدّم خلاله الوفد عرضاً حول البيئة الاستثمارية في سوريا والفرص المتاحة للاستثمار في المناطق الحرة السورية إضافةً إلى التسهيلات والإجراءات التي تعمل الحكومة السورية على توفيرها للمستثمرين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-07-23T09:03:55.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "84c66cb795942d6f996f9f5cffc360a1f054daa13f7d6bf40d13788b3fa5283c",
-            "content_html": "دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى إلى 3228 خلال الفترة الصباحية",
-            "url": "https://t.me/aljazeeraBrk/228037",
-            "title": "دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى…",
-            "summary": "دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى إلى 3228 خلال الفترة الصباحية",
-            "date_modified": "2026-07-23T08:56:03.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
