@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 18:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 19:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بيان عراقي إيراني مشترك: تسوية الأزمات الإقليمية لا تتحقق إلا بالحوار…]]></title>
+            <link>https://t.me/aljazeeraBrk/228142</link>
+            <guid isPermaLink="false">54cc4843ed10efa4f61e6322dcdd049e3cb674f08f99d76d1074467b1d5a7927</guid>
+            <pubDate>Thu, 23 Jul 2026 19:05:03 GMT</pubDate>
+            <description><![CDATA[بيان عراقي إيراني مشترك: تسوية الأزمات الإقليمية لا تتحقق إلا بالحوار والدبلوماسية ومشاركة دول المنطقة]]></description>
+            <content:encoded><![CDATA[بيان عراقي إيراني مشترك: تسوية الأزمات الإقليمية لا تتحقق إلا بالحوار والدبلوماسية ومشاركة دول المنطقة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: إذا لم تتحرك الولايات المتحدة ضد إيران فلن يتحرك ضدها أحد]]></title>
             <link>https://t.me/aljazeeraBrk/228141</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 18:32:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: نعمل لأن تكون الحكومة اللبنانية هي صاحبة القرار السيادي في لبنان]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: نعمل لأن تكون الحكومة اللبنانية هي صاحبة القرار السيادي في لبنان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: الاتفاق الثلاثي يسعى لأن يكون لبنان ذا…]]></title>
-            <link>https://t.me/aljazeeraBrk/227926</link>
-            <guid isPermaLink="false">50f62e2a4b8cf48774bce8a2708f1fd7dfb0b125c13db9b59a826a69192ea616</guid>
-            <pubDate>Wed, 22 Jul 2026 18:32:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: الاتفاق الثلاثي يسعى لأن يكون لبنان ذا سيادة ولأن تكون إسرائيل آمنة]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: الاتفاق الثلاثي يسعى لأن يكون لبنان ذا سيادة ولأن تكون إسرائيل آمنة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
