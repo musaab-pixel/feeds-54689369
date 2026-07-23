@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 15:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 16:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تسنيم الإيرانية: صاروخ أمريكي أصاب منطقة في ساحل مدينة سوزا بجزيرة قشم…]]></title>
+            <link>https://t.me/aljazeeraBrk/228120</link>
+            <guid isPermaLink="false">907bf185f54446cc6f28f4bce8f6d02979173b3fb9a768b4d9226e575a784d18</guid>
+            <pubDate>Thu, 23 Jul 2026 15:51:03 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم الإيرانية: صاروخ أمريكي أصاب منطقة في ساحل مدينة سوزا بجزيرة قشم جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم الإيرانية: صاروخ أمريكي أصاب منطقة في ساحل مدينة سوزا بجزيرة قشم جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></title>
             <link>https://t.me/aljazeeraBrk/228119</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 16:43:02 GMT</pubDate>
             <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: إيران تواصل هجماتها على دول المجلس ودول أخرى بانتهاك لمبادئ القانون الدولي]]></description>
             <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: إيران تواصل هجماتها على دول المجلس ودول أخرى بانتهاك لمبادئ القانون الدولي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الأمين العام لمجلس التعاون الخليجي: أي اعتداء على الممرات البحرية ينعكس على أمن…]]></title>
-            <link>https://t.me/aljazeeraBrk/227903</link>
-            <guid isPermaLink="false">4dc47efd0c391f8841e2c4285fbb6d263caa297b7748a45beecc8ecfedf2e823</guid>
-            <pubDate>Wed, 22 Jul 2026 16:42:02 GMT</pubDate>
-            <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: أي اعتداء على الممرات البحرية ينعكس على أمن الطاقة العالمي]]></description>
-            <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: أي اعتداء على الممرات البحرية ينعكس على أمن الطاقة العالمي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
