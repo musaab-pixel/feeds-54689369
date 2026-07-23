@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 17:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 17:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[متحدث باسم الحكومة البريطانية ردا على تحذيرات الحرس الثوري الإيراني: قواتنا…]]></title>
+            <link>https://t.me/aljazeeraBrk/228130</link>
+            <guid isPermaLink="false">90da21347b45d07b81135eca0da85f49bbdfaa2714f520fa67d9dc8c610a63c9</guid>
+            <pubDate>Thu, 23 Jul 2026 17:41:03 GMT</pubDate>
+            <description><![CDATA[متحدث باسم الحكومة البريطانية ردا على تحذيرات الحرس الثوري الإيراني: قواتنا مستعدة لحماية البلاد من أي هجمات]]></description>
+            <content:encoded><![CDATA[متحدث باسم الحكومة البريطانية ردا على تحذيرات الحرس الثوري الإيراني: قواتنا مستعدة لحماية البلاد من أي هجمات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحكومة الإسرائيلية تمدد إغلاق مكتب شبكة الجزيرة في القدس وحظر عملها في إسرائيل…]]></title>
             <link>https://t.me/aljazeeraBrk/228129</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 17:30:02 GMT</pubDate>
             <description><![CDATA[رئيس البرلمان الإيراني: لن تكون أي بنية تحتية آمنة في المنطقة إذا لم يتم ضمان أمننا]]></description>
             <content:encoded><![CDATA[رئيس البرلمان الإيراني: لن تكون أي بنية تحتية آمنة في المنطقة إذا لم يتم ضمان أمننا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس البرلمان الإيراني: لن يبيع أحد النفط في منطقة لا نبيع فيها النفط]]></title>
-            <link>https://t.me/aljazeeraBrk/227913</link>
-            <guid isPermaLink="false">5c384362f9408fd7b2f2031afb02e49f252991e38819642c409d52e735c00a52</guid>
-            <pubDate>Wed, 22 Jul 2026 17:29:02 GMT</pubDate>
-            <description><![CDATA[رئيس البرلمان الإيراني: لن يبيع أحد النفط في منطقة لا نبيع فيها النفط]]></description>
-            <content:encoded><![CDATA[رئيس البرلمان الإيراني: لن يبيع أحد النفط في منطقة لا نبيع فيها النفط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
