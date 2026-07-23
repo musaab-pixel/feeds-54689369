@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 09:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 09:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الداخلية البحرينية: إطلاق صفارات الإنذار ونرجو من المواطنين والمقيمين والتوجه…]]></title>
+            <link>https://t.me/aljazeeraBrk/228041</link>
+            <guid isPermaLink="false">7fc443aa5bc7b88710b3c6da254848fb541879e0c9e4e412b5666e6e1fbf658f</guid>
+            <pubDate>Thu, 23 Jul 2026 09:12:03 GMT</pubDate>
+            <description><![CDATA[الداخلية البحرينية: إطلاق صفارات الإنذار ونرجو من المواطنين والمقيمين والتوجه لأقرب مكان آمن]]></description>
+            <content:encoded><![CDATA[الداخلية البحرينية: إطلاق صفارات الإنذار ونرجو من المواطنين والمقيمين والتوجه لأقرب مكان آمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية العمانية: نتابع الوضع بالبحر الأحمر ونشدد على ضرورة تجنب التصعيد وأي…]]></title>
             <link>https://t.me/aljazeeraBrk/228040</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 15:44:02 GMT</pubDate>
             <description><![CDATA[عون: طلبت من الرئيس ترمب دعما سياسيا]]></description>
             <content:encoded><![CDATA[عون: طلبت من الرئيس ترمب دعما سياسيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عون: الجيش اللبناني يقوم بعمل رائع وهو عمود الاستقرار في البلاد]]></title>
-            <link>https://t.me/aljazeeraBrk/227710</link>
-            <guid isPermaLink="false">4d77d28a4a05c0d83e699e5544e434cd1e83ca85232142363e1ec67b296d0c4c</guid>
-            <pubDate>Tue, 21 Jul 2026 15:43:02 GMT</pubDate>
-            <description><![CDATA[عون: الجيش اللبناني يقوم بعمل رائع وهو عمود الاستقرار في البلاد]]></description>
-            <content:encoded><![CDATA[عون: الجيش اللبناني يقوم بعمل رائع وهو عمود الاستقرار في البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
