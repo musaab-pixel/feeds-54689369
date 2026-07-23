@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 19:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 19:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تنذر بإخلاء مبان ومنشآت تمهيدا لقصفها في مدينة غزة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228143</link>
+            <guid isPermaLink="false">1c3a204a4c811ec64fbc046592508160b317b763c136e4ae07321ce749d6a015</guid>
+            <pubDate>Thu, 23 Jul 2026 19:18:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تنذر بإخلاء مبان ومنشآت تمهيدا لقصفها في مدينة غزة ومخيم جباليا وبيت لاهيا]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تنذر بإخلاء مبان ومنشآت تمهيدا لقصفها في مدينة غزة ومخيم جباليا وبيت لاهيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان عراقي إيراني مشترك: تسوية الأزمات الإقليمية لا تتحقق إلا بالحوار…]]></title>
             <link>https://t.me/aljazeeraBrk/228142</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 18:37:02 GMT</pubDate>
             <description><![CDATA[قائد القوة الجوفضائية بالحرس الثوري: ضرب جسورنا ومحطات الكهرباء سيؤدي لقطع الكهرباء عن حلفاء أمريكا ومستضيفيها]]></description>
             <content:encoded><![CDATA[قائد القوة الجوفضائية بالحرس الثوري: ضرب جسورنا ومحطات الكهرباء سيؤدي لقطع الكهرباء عن حلفاء أمريكا ومستضيفيها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: نعمل لأن تكون الحكومة اللبنانية هي…]]></title>
-            <link>https://t.me/aljazeeraBrk/227925</link>
-            <guid isPermaLink="false">1b94fd73b3e4089fdd9a5888f2bd91edc302c93bdafaaa51a4c1aa2de1c56c23</guid>
-            <pubDate>Wed, 22 Jul 2026 18:32:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: نعمل لأن تكون الحكومة اللبنانية هي صاحبة القرار السيادي في لبنان]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الأمريكية للجزيرة: نعمل لأن تكون الحكومة اللبنانية هي صاحبة القرار السيادي في لبنان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

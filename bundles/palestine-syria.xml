@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 19:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 19:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تنذر بإخلاء مبان ومنشآت تمهيدا لقصفها في مدينة غزة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228143</link>
+            <guid isPermaLink="false">1c3a204a4c811ec64fbc046592508160b317b763c136e4ae07321ce749d6a015</guid>
+            <pubDate>Thu, 23 Jul 2026 19:18:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تنذر بإخلاء مبان ومنشآت تمهيدا لقصفها في مدينة غزة ومخيم جباليا وبيت لاهيا]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تنذر بإخلاء مبان ومنشآت تمهيدا لقصفها في مدينة غزة ومخيم جباليا وبيت لاهيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان عراقي إيراني مشترك: تسوية الأزمات الإقليمية لا تتحقق إلا بالحوار…]]></title>
             <link>https://t.me/aljazeeraBrk/228142</link>
@@ -1989,15 +1998,6 @@
             <pubDate>Thu, 23 Jul 2026 08:26:03 GMT</pubDate>
             <description><![CDATA[الجيش الأردني: تعاملنا مع 4 صواريخ و6 مسيرات إيرانية دخلت الأجواء الأردنية]]></description>
             <content:encoded><![CDATA[الجيش الأردني: تعاملنا مع 4 صواريخ و6 مسيرات إيرانية دخلت الأجواء الأردنية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا المسجد…]]></title>
-            <link>https://t.me/aljazeeraBrk/228032</link>
-            <guid isPermaLink="false">15fd94b70516750199327a210c4d6c6bc7ded1193294d541de7608467feb3058</guid>
-            <pubDate>Thu, 23 Jul 2026 08:26:02 GMT</pubDate>
-            <description><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا المسجد الأقصى إلى 2756]]></description>
-            <content:encoded><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا المسجد الأقصى إلى 2756]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
