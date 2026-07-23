@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 16:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 16:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية الأمريكية: على الأمريكيين في الشرق الأوسط الاستعداد لاحتمال إلغاء…]]></title>
+            <link>https://t.me/aljazeeraBrk/228121</link>
+            <guid isPermaLink="false">2220feca555fe682c9595609a46f29141fcf7f4a72d02dd5ffc407df493eaa2b</guid>
+            <pubDate>Thu, 23 Jul 2026 16:08:03 GMT</pubDate>
+            <description><![CDATA[الخارجية الأمريكية: على الأمريكيين في الشرق الأوسط الاستعداد لاحتمال إلغاء الرحلات وإغلاق مجالات جوية في المنطقة]]></description>
+            <content:encoded><![CDATA[الخارجية الأمريكية: على الأمريكيين في الشرق الأوسط الاستعداد لاحتمال إلغاء الرحلات وإغلاق مجالات جوية في المنطقة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تسنيم الإيرانية: صاروخ أمريكي أصاب منطقة في ساحل مدينة سوزا بجزيرة قشم…]]></title>
             <link>https://t.me/aljazeeraBrk/228120</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 16:44:02 GMT</pubDate>
             <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: نطالب مجلس الأمن والمجتمع الدولي بوضع حد للاعتداءات والهجمات الإيرانية]]></description>
             <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: نطالب مجلس الأمن والمجتمع الدولي بوضع حد للاعتداءات والهجمات الإيرانية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الأمين العام لمجلس التعاون الخليجي: إيران تواصل هجماتها على دول المجلس ودول…]]></title>
-            <link>https://t.me/aljazeeraBrk/227904</link>
-            <guid isPermaLink="false">983f71b11df622317fc7880e916de275e8b0f3be4467e6300acc8cb603f7abdb</guid>
-            <pubDate>Wed, 22 Jul 2026 16:43:02 GMT</pubDate>
-            <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: إيران تواصل هجماتها على دول المجلس ودول أخرى بانتهاك لمبادئ القانون الدولي]]></description>
-            <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: إيران تواصل هجماتها على دول المجلس ودول أخرى بانتهاك لمبادئ القانون الدولي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
