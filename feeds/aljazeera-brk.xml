@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 06:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 06:59:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون…]]></title>
+            <link>https://t.me/aljazeeraBrk/228012</link>
+            <guid isPermaLink="false">5e2275d6b01b9dc46cbad4116e75c12ea9a4e0ae73c678fe9555adf5a10c8c92</guid>
+            <pubDate>Thu, 23 Jul 2026 06:59:03 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون المسجد الأقصى في تصعيد خطير]]></description>
+            <content:encoded><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون المسجد الأقصى في تصعيد خطير]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع الروسية: دمرنا 223 مسيرة أوكرانية في أجواء مناطق عدة في البلاد…]]></title>
             <link>https://t.me/aljazeeraBrk/228011</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 15:17:03 GMT</pubDate>
             <description><![CDATA[ترمب: سنحل كثيرا من المشاكل للبنان وقد حللنا بعضها بالفعل]]></description>
             <content:encoded><![CDATA[ترمب: سنحل كثيرا من المشاكل للبنان وقد حللنا بعضها بالفعل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: أعتقد أن لبنان بلد أسيئت معاملته لفترة طويلة]]></title>
-            <link>https://t.me/aljazeeraBrk/227681</link>
-            <guid isPermaLink="false">0cfc0e7fafb0310ff71e816f204e313c7e685dd44c5ca4cc7b3e0e2e26a410e9</guid>
-            <pubDate>Tue, 21 Jul 2026 15:17:02 GMT</pubDate>
-            <description><![CDATA[ترمب: أعتقد أن لبنان بلد أسيئت معاملته لفترة طويلة]]></description>
-            <content:encoded><![CDATA[ترمب: أعتقد أن لبنان بلد أسيئت معاملته لفترة طويلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
