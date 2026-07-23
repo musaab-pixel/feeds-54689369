@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 20:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 21:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: دوي انفجارات في جزيرة قشم قادمة من مضيق هرمز جنوب جزيرتي…]]></title>
+            <link>https://t.me/aljazeeraBrk/228162</link>
+            <guid isPermaLink="false">5c2e25911a89eb9a32443f73c30d35b43dc0488f005bb6346c200ee62f49888b</guid>
+            <pubDate>Thu, 23 Jul 2026 21:04:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: دوي انفجارات في جزيرة قشم قادمة من مضيق هرمز جنوب جزيرتي لارك وهنغام]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: دوي انفجارات في جزيرة قشم قادمة من مضيق هرمز جنوب جزيرتي لارك وهنغام]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تسنيم: صاروخان أمريكيان أصابا منطقة بالقرب من قرية مسن بجزيرة قشم جنوبي…]]></title>
             <link>https://t.me/aljazeeraBrk/228161</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 20:55:02 GMT</pubDate>
             <description><![CDATA[التلفزيون الإيراني: دوي انفجار في مدينة سيريك بمحافظة هرمزغان جنوبي البلاد]]></description>
             <content:encoded><![CDATA[التلفزيون الإيراني: دوي انفجار في مدينة سيريك بمحافظة هرمزغان جنوبي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الطاقة الأمريكية: الولايات المتحدة والسعودية تتوصلان إلى اتفاقية تاريخية…]]></title>
-            <link>https://t.me/aljazeeraBrk/227945</link>
-            <guid isPermaLink="false">81d1c1cc675c5d43bcdc72f14fb07c954e46b9f254067be5bdefb489aac875a1</guid>
-            <pubDate>Wed, 22 Jul 2026 20:41:02 GMT</pubDate>
-            <description><![CDATA[وزارة الطاقة الأمريكية: الولايات المتحدة والسعودية تتوصلان إلى اتفاقية تاريخية للتعاون النووي]]></description>
-            <content:encoded><![CDATA[وزارة الطاقة الأمريكية: الولايات المتحدة والسعودية تتوصلان إلى اتفاقية تاريخية للتعاون النووي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
