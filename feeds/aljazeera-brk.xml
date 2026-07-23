@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 15:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 15:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></title>
+            <link>https://t.me/aljazeeraBrk/228119</link>
+            <guid isPermaLink="false">fac1c2286e9cbebf850dc2c4a951cfa8fb723747c90e96acac9703448a18ab5e</guid>
+            <pubDate>Thu, 23 Jul 2026 15:48:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب لأكسيوس: الإيرانيون يريدون التفاوض لكنهم غير مستعدين لإبرام اتفاق حاليا…]]></title>
             <link>https://t.me/aljazeeraBrk/228118</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 22 Jul 2026 16:42:02 GMT</pubDate>
             <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: أي اعتداء على الممرات البحرية ينعكس على أمن الطاقة العالمي]]></description>
             <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: أي اعتداء على الممرات البحرية ينعكس على أمن الطاقة العالمي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الأمريكي دونالد ترمب يشارك في استقبال جثامين جنود أمريكيين قتلوا في…]]></title>
-            <link>https://t.me/aljazeeraBrk/227902</link>
-            <guid isPermaLink="false">9d99d8bdaf72fecf99b5ad50a4823e97184a4701102b5896877305013b73b253</guid>
-            <pubDate>Wed, 22 Jul 2026 16:28:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الأمريكي دونالد ترمب يشارك في استقبال جثامين جنود أمريكيين قتلوا في الأردن والعراق]]></description>
-            <content:encoded><![CDATA[الرئيس الأمريكي دونالد ترمب يشارك في استقبال جثامين جنود أمريكيين قتلوا في الأردن والعراق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
