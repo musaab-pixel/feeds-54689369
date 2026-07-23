@@ -4,7 +4,7 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 16:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 16:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -640,6 +640,15 @@
             <description><![CDATA[وزارة الصحة الفلسطينية: مصابان في حالة خطيرة برصاص الاحتلال في بلدة بيت فوريك]]></description>
             <content:encoded><![CDATA[وزارة الصحة الفلسطينية: مصابان في حالة خطيرة برصاص الاحتلال في بلدة بيت فوريك]]></content:encoded>
             <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[Gaza's food gains could unravel without sustained aid, UN warns]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1168006</link>
+            <guid isPermaLink="false">83d680528dd110e25ab487eae783e1809e2c8d64a6c203eb6a421ec222a4cfd1</guid>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.]]></description>
+            <content:encoded><![CDATA[Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[عائلة فلسطينية تناشد للكشف عن مصير ابنها المفقود منذ عام 2023]]></title>
@@ -2064,15 +2073,6 @@
             <description><![CDATA[<b>مديرية الطوارئ وإدارة الكوارث بحلب:</b> انتشال جثمان رجل قضى غرقًا بعد انزلاقه مع دراجته النارية إلى نهر الفرات بالقرب من مدينة جرابلس شرقي حلب مساء أمس<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
             <content:encoded><![CDATA[<b>مديرية الطوارئ وإدارة الكوارث بحلب:</b> انتشال جثمان رجل قضى غرقًا بعد انزلاقه مع دراجته النارية إلى نهر الفرات بالقرب من مدينة جرابلس شرقي حلب مساء أمس<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
             <author>Halab Today TV قناة حلب اليوم</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون…]]></title>
-            <link>https://t.me/aljazeeraBrk/228012</link>
-            <guid isPermaLink="false">5e2275d6b01b9dc46cbad4116e75c12ea9a4e0ae73c678fe9555adf5a10c8c92</guid>
-            <pubDate>Thu, 23 Jul 2026 06:59:03 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون المسجد الأقصى في تصعيد خطير]]></description>
-            <content:encoded><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون المسجد الأقصى في تصعيد خطير]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>

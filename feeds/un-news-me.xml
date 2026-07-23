@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 06:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 16:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Gaza's food gains could unravel without sustained aid, UN warns]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1168006</link>
+            <guid isPermaLink="false">83d680528dd110e25ab487eae783e1809e2c8d64a6c203eb6a421ec222a4cfd1</guid>
+            <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.]]></description>
+            <content:encoded><![CDATA[Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thousands prevented from returning home to southern Lebanon]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/07/1168003</link>
