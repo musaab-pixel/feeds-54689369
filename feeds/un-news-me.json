@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "517b713fb7c49967c6ec7ca6b75e0c96abb996b3c85b2d9d9ddf621d39b3c4a0",
+            "content_html": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1168003",
+            "title": "Thousands prevented from returning home to southern Lebanon",
+            "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-08-2024_OCHA-South%20Lebanon-Child.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-22T12:00:00.000Z"
+        },
+        {
             "id": "fc731af07838018ce50d34a3c3a343d6114d1c3dd195c0bfb1f40562eb6f2488",
             "content_html": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&nbsp;heads to Damascus for his first visit to the country as Secretary-General.",
             "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",

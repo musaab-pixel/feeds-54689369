@@ -4,7 +4,7 @@
         <title>Muftah — Palestine/Syria monitor</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Muftah — Palestine/Syria monitor" (type: bundle)</description>
-        <lastBuildDate>Wed, 22 Jul 2026 18:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -566,6 +566,15 @@
 <p style="text-align: justify;">ووفق الوزارة، ارتفعت حصيلة&nbsp; حرب الإبادة الجماعية في غزة منذ السابع من تشرين الأول/أكتوبر 2023 إلى 73,293 شهيداً و173,906 مصابين.</p>
 <p style="text-align: justify;">وبلغت حصيلة اعتداءات كيان الاحتلال منذ بدء وقف إطلاق النار في 11 تشرين الأول/أكتوبر من العام الماضي 1,168 شهيداً و3,798 مصاباً، إضافة إلى انتشال 802 جثمان.</p>]]></content:encoded>
             <enclosure url="https://refugeesps.net/thumb/265x160/uploads/images/2026/07/ZuQlo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thousands prevented from returning home to southern Lebanon]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1168003</link>
+            <guid isPermaLink="false">517b713fb7c49967c6ec7ca6b75e0c96abb996b3c85b2d9d9ddf621d39b3c4a0</guid>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.]]></description>
+            <content:encoded><![CDATA[As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-08-2024_OCHA-South%20Lebanon-Child.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["أونروا" تبدأ التحقق الميداني من مستفيدي شبكة الأمان الاجتماعي في سوريا - بوابة اللاجئين الفلسطينيين]]></title>
@@ -2747,13 +2756,6 @@
 <p style="text-align: justify;">وأسفر الهجوم عن إصابة الفتى النعسان بالرصاص الحي في الفخذ، إلى جانب إصابة فلسطينيين آخرين بالرصاص المعدني المغلف بالمطاط، فيما أُصيب الطفل الفلسطيني رائد عودة أبو عليا (10 أعوام) بقنبلة صوتية في الرأس.</p>
 <p style="text-align: justify;">وتتعرض قرية المغير والقرى والبلدات المحيطة بها لاعتداءات متواصلة ينفذها المستوطنون ضد الفلسطينيين وممتلكاتهم، بالتزامن مع اقتحامات متكررة تنفذها قوات الاحتلال وجيش الاحتلال.</p>]]></content:encoded>
             <enclosure url="https://refugeesps.net/style/assets/images/latest-logo.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[اللجوء المركب]]></title>
-            <link>https://actionpal.org.uk/wp-content/uploads/2026/03/The_reality_of_asylum.pdf#new_tab</link>
-            <guid isPermaLink="false">130f3a61ee8ce4fcb39a236faa1513396061458b1bbacfbd1e022b498601ee22</guid>
-            <pubDate>Sat, 18 Jul 2026 05:14:56 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/03/%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

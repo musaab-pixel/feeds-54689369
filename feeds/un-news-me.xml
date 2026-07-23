@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 21 Jul 2026 23:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Thousands prevented from returning home to southern Lebanon]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1168003</link>
+            <guid isPermaLink="false">517b713fb7c49967c6ec7ca6b75e0c96abb996b3c85b2d9d9ddf621d39b3c4a0</guid>
+            <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.]]></description>
+            <content:encoded><![CDATA[As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-08-2024_OCHA-South%20Lebanon-Child.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/07/1167984</link>
