@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 23 Jul 2026 06:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 07:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد مقتحمي المسجد الأقصى إلى 2300…]]></title>
+            <link>https://t.me/aljazeeraBrk/228013</link>
+            <guid isPermaLink="false">da9a2d8851c452f547e5b964b6a6c6f2153e6f95883b87b559c693ecf4c76dc6</guid>
+            <pubDate>Thu, 23 Jul 2026 07:11:03 GMT</pubDate>
+            <description><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد مقتحمي المسجد الأقصى إلى 2300 مستوطن منذ الصباح]]></description>
+            <content:encoded><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد مقتحمي المسجد الأقصى إلى 2300 مستوطن منذ الصباح]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: 1300 مستوطن يتقدمهم وزير الأمن القومي إيتمار بن غفير يقتحمون…]]></title>
             <link>https://t.me/aljazeeraBrk/228012</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 21 Jul 2026 15:17:03 GMT</pubDate>
             <description><![CDATA[عون: أشكر الرئيس ترمب على الإنجازات التاريخية التي حققناها معا]]></description>
             <content:encoded><![CDATA[عون: أشكر الرئيس ترمب على الإنجازات التاريخية التي حققناها معا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: سنحل كثيرا من المشاكل للبنان وقد حللنا بعضها بالفعل]]></title>
-            <link>https://t.me/aljazeeraBrk/227683</link>
-            <guid isPermaLink="false">3f81e59b1c245c8498558c09e219cf5ced359728b2ff774823c81a1ff8bbdda4</guid>
-            <pubDate>Tue, 21 Jul 2026 15:17:03 GMT</pubDate>
-            <description><![CDATA[ترمب: سنحل كثيرا من المشاكل للبنان وقد حللنا بعضها بالفعل]]></description>
-            <content:encoded><![CDATA[ترمب: سنحل كثيرا من المشاكل للبنان وقد حللنا بعضها بالفعل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
