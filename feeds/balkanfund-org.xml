@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>balkanfund.org</title>
+        <link>https://balkanfund.org/</link>
+        <description>RSS Factory feed "balkanfund.org" (type: website)</description>
+        <lastBuildDate>Fri, 24 Jul 2026 11:16:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>rss-factory</generator>
+        <language>ar</language>
+        <item>
+            <title><![CDATA[BiEPAGBalkans in Europe Policy Advisory GroupInfluencing EU integration and democratization through policy research and advocacy.Explore BiEPAG]]></title>
+            <link>https://balkanfund.org/programme/biepag</link>
+            <guid isPermaLink="false">1d5ed0ce64f01d16b9e56c7af4f695b9480e99377e233dca2910e3846176a338</guid>
+            <pubDate>Fri, 24 Jul 2026 11:16:03 GMT</pubDate>
+            <enclosure url="https://balkanfund.org/uploads/programmes/programme-biepag.svg" length="0" type="image/svg"/>
+        </item>
+        <item>
+            <title><![CDATA[EDIEngaged Democracy InitiativeConnecting local movements and engaged citizens to promote open, solidary, and democratic societies.Explore EDI]]></title>
+            <link>https://balkanfund.org/programme/edi</link>
+            <guid isPermaLink="false">f71c81651287a73ce2a1f100ef52b012cc7f78c3db422b11d1847448181415be</guid>
+            <pubDate>Fri, 24 Jul 2026 11:16:03 GMT</pubDate>
+            <enclosure url="https://balkanfund.org/uploads/programmes/programme-edi.svg" length="0" type="image/svg"/>
+        </item>
+        <item>
+            <title><![CDATA[beeEffectBeeEffect Programme & Alumni NetworkA leadership programme equipping young professionals to become agents of regional change.Explore beeEffect]]></title>
+            <link>https://balkanfund.org/programme/alumni</link>
+            <guid isPermaLink="false">c2a08890c8b1f9ba03e8dc0918490d0c9895fc82acb593c054f825efc66413d7</guid>
+            <pubDate>Fri, 24 Jul 2026 11:16:03 GMT</pubDate>
+            <enclosure url="https://balkanfund.org/uploads/programmes/programme-alumni.svg" length="0" type="image/svg"/>
+        </item>
+        <item>
+            <title><![CDATA[CGPCommon Ground ProgramFostering trust, dialogue, and solidarity to counter polarization and bridge regional divides.Explore CGP]]></title>
+            <link>https://balkanfund.org/programme/cgp</link>
+            <guid isPermaLink="false">8a2401bf944a99b3d5f34fbd7abb9df82e2149832c6b7967b5289c89dd2e3d70</guid>
+            <pubDate>Fri, 24 Jul 2026 11:16:03 GMT</pubDate>
+            <enclosure url="https://balkanfund.org/uploads/programmes/programme-cgp.svg" length="0" type="image/svg"/>
+        </item>
+    </channel>
+</rss>
