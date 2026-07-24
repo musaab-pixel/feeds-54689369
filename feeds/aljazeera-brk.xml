@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 20:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 21:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات سعودية استهدفت ميناء الحديدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228427</link>
+            <guid isPermaLink="false">9a65051c4b3f7fda8f680868b23dcc6578bd00d295c9704af1d75075ae1708ca</guid>
+            <pubDate>Fri, 24 Jul 2026 20:58:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات سعودية استهدفت ميناء الحديدة وجزيرة كمران]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات سعودية استهدفت ميناء الحديدة وجزيرة كمران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت منشآت لمؤسسة…]]></title>
             <link>https://t.me/aljazeeraBrk/228426</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 06:22:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم قرب مستوطنة حفات…]]></title>
-            <link>https://t.me/aljazeeraBrk/228227</link>
-            <guid isPermaLink="false">c385656b3983be2dbb8f1e92bcd28fa359e9ca4f82338e3100b412c076c0d9d3</guid>
-            <pubDate>Fri, 24 Jul 2026 06:17:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم قرب مستوطنة حفات جلعاد بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم قرب مستوطنة حفات جلعاد بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
