@@ -1,0 +1,118 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "bosch-stiftung.de",
+    "home_page_url": "https://www.bosch-stiftung.de/rss.xml",
+    "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
+    "items": [
+        {
+            "id": "e3394c8a49e8df643278ebeef563daa1e044d3b1b280b372b3b006f0acbb619c",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/mythen-ueber-ki",
+            "title": "Mythen über KI",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
+            "date_modified": "2026-07-22T10:41:01.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
+            "id": "2ded9d36f14bcd7fdbf083fffdbb676deced4076d84c43ce9bd2f47544edabae",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für das Thema Klimawandel (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-21T13:33:24+02:00\" title=\"Dienstag, 21 Juli 2026 - 13:33\" class=\"datetime\">Di. 21 Jul 2026 - 13:33</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/werkstudent-fuer-das-thema-klimawandel-wmdiv",
+            "title": "Werkstudent für das Thema Klimawandel (w/m/div.)",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für das Thema Klimawandel (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-21T13:33:24+02:00\" title=\"Dienstag, 21 Juli 2026 - 13:33\" class=\"datetime\">Di. 21 Jul 2026 - 13:33</time>\n</span>\n",
+            "date_modified": "2026-07-21T11:33:24.000Z",
+            "author": {
+                "name": "ebolta"
+            }
+        },
+        {
+            "id": "318f075627d56af8f38662f299e706cd04a6a7026fa2de0dec09c8d1e2c6a63a",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Robert Bosch Stiftung legt Jahresbericht vor und präsentiert neuen Markenauftritt</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-13T09:56:40+02:00\" title=\"Montag, 13 Juli 2026 - 09:56\" class=\"datetime\">Mo. 13 Jul 2026 - 09:56</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/robert-bosch-stiftung-legt-jahresbericht-vor-und-praesentiert-neuen-markenauftritt",
+            "title": "Robert Bosch Stiftung legt Jahresbericht vor und präsentiert neuen Markenauftritt",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Robert Bosch Stiftung legt Jahresbericht vor und präsentiert neuen Markenauftritt</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-13T09:56:40+02:00\" title=\"Montag, 13 Juli 2026 - 09:56\" class=\"datetime\">Mo. 13 Jul 2026 - 09:56</time>\n</span>\n",
+            "date_modified": "2026-07-13T07:56:40.000Z",
+            "author": {
+                "name": "ebolta"
+            }
+        },
+        {
+            "id": "98fb095d62bbb4efa87e8f6db774f12dbd93e834dd975493792c3fb7b45d93db",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">„Wir wird Wirkung“: Robert Bosch Stiftung stellt neuen, barrierearmen Markenauftritt vor</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-02T09:38:12+02:00\" title=\"Donnerstag, 2 Juli 2026 - 09:38\" class=\"datetime\">Do. 2 Jul 2026 - 09:38</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/wir-wird-wirkung-robert-bosch-stiftung-stellt-neuen-barrierearmen-markenauftritt-vor",
+            "title": "„Wir wird Wirkung“: Robert Bosch Stiftung stellt neuen, barrierearmen Markenauftritt vor",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">„Wir wird Wirkung“: Robert Bosch Stiftung stellt neuen, barrierearmen Markenauftritt vor</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-02T09:38:12+02:00\" title=\"Donnerstag, 2 Juli 2026 - 09:38\" class=\"datetime\">Do. 2 Jul 2026 - 09:38</time>\n</span>\n",
+            "date_modified": "2026-07-02T07:38:12.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
+            "id": "719ae9c2adc9840432aa2ab989c8294820145f007b200a5c16f5dc9a822824bb",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Große Defizite bei der Gesundheitskompetenz in Baden-Württemberg</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-01T10:19:46+02:00\" title=\"Mittwoch, 1 Juli 2026 - 10:19\" class=\"datetime\">Mi. 1 Jul 2026 - 10:19</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/grosse-defizite-bei-der-gesundheitskompetenz-baden-wuerttemberg",
+            "title": "Große Defizite bei der Gesundheitskompetenz in Baden-Württemberg",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Große Defizite bei der Gesundheitskompetenz in Baden-Württemberg</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-01T10:19:46+02:00\" title=\"Mittwoch, 1 Juli 2026 - 10:19\" class=\"datetime\">Mi. 1 Jul 2026 - 10:19</time>\n</span>\n",
+            "date_modified": "2026-07-01T08:19:46.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "7a5dc64fdce78f20370eabc2af7692d9b3ec903832032594a544cbb22783e6d9",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Forschungsfreiheit ist ein hohes Gut</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-01T10:13:49+02:00\" title=\"Mittwoch, 1 Juli 2026 - 10:13\" class=\"datetime\">Mi. 1 Jul 2026 - 10:13</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/forschungsfreiheit-ist-ein-hohes-gut",
+            "title": "Forschungsfreiheit ist ein hohes Gut",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Forschungsfreiheit ist ein hohes Gut</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-01T10:13:49+02:00\" title=\"Mittwoch, 1 Juli 2026 - 10:13\" class=\"datetime\">Mi. 1 Jul 2026 - 10:13</time>\n</span>\n",
+            "date_modified": "2026-07-01T08:13:49.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "1dc10ef6a134431643b3eddd1d4a2bb242b826d729a68ea2a96e78b5ef98b154",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Künstliche Intelligenz für die Medizin der Zukunft</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-01T10:00:54+02:00\" title=\"Mittwoch, 1 Juli 2026 - 10:00\" class=\"datetime\">Mi. 1 Jul 2026 - 10:00</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/kuenstliche-intelligenz-fuer-die-medizin-der-zukunft",
+            "title": "Künstliche Intelligenz für die Medizin der Zukunft",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Künstliche Intelligenz für die Medizin der Zukunft</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-01T10:00:54+02:00\" title=\"Mittwoch, 1 Juli 2026 - 10:00\" class=\"datetime\">Mi. 1 Jul 2026 - 10:00</time>\n</span>\n",
+            "date_modified": "2026-07-01T08:00:54.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "36aec18af3dd9fc68e9c2ab33ab1edd7d31fe9209dc73e6c66ea033d51f80ca7",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Sundi: Neues digitales Gesundheitsangebot für Menschen ab 55</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-06-30T17:20:54+02:00\" title=\"Dienstag, 30 Juni 2026 - 17:20\" class=\"datetime\">Di. 30 Jun 2026 - 17:20</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/sundi-neues-digitales-gesundheitsangebot-fuer-menschen-ab-55",
+            "title": "Sundi: Neues digitales Gesundheitsangebot für Menschen ab 55",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Sundi: Neues digitales Gesundheitsangebot für Menschen ab 55</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-06-30T17:20:54+02:00\" title=\"Dienstag, 30 Juni 2026 - 17:20\" class=\"datetime\">Di. 30 Jun 2026 - 17:20</time>\n</span>\n",
+            "date_modified": "2026-06-30T15:20:54.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "1b966a699a4eb6c25356a2b7aabf2668ef1162052785b033f67a1a2b330150e9",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wir sind Innovationsgestalter, Brückenbauer und Transformationsbegleiter</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-06-30T17:11:34+02:00\" title=\"Dienstag, 30 Juni 2026 - 17:11\" class=\"datetime\">Di. 30 Jun 2026 - 17:11</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/wir-sind-innovationsgestalter-brueckenbauer-und-transformationsbegleiter",
+            "title": "Wir sind Innovationsgestalter, Brückenbauer und Transformationsbegleiter",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wir sind Innovationsgestalter, Brückenbauer und Transformationsbegleiter</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-06-30T17:11:34+02:00\" title=\"Dienstag, 30 Juni 2026 - 17:11\" class=\"datetime\">Di. 30 Jun 2026 - 17:11</time>\n</span>\n",
+            "date_modified": "2026-06-30T15:11:34.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "003cd5f88dd60de16b47da4d3009fd13b542e0fce08e4a8b0874fef2a5ba7c74",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wie Gene die Krebstherapie verbessern können</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-06-30T17:07:27+02:00\" title=\"Dienstag, 30 Juni 2026 - 17:07\" class=\"datetime\">Di. 30 Jun 2026 - 17:07</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/wie-gene-die-krebstherapie-verbessern-koennen",
+            "title": "Wie Gene die Krebstherapie verbessern können",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wie Gene die Krebstherapie verbessern können</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-06-30T17:07:27+02:00\" title=\"Dienstag, 30 Juni 2026 - 17:07\" class=\"datetime\">Di. 30 Jun 2026 - 17:07</time>\n</span>\n",
+            "date_modified": "2026-06-30T15:07:27.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        }
+    ]
+}
