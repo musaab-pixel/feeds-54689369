@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 06:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 06:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القناة 14 الإسرائيلية: الجيش الإسرائيلي يستخدم المروحيات لإجلاء المصابين قرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/228236</link>
+            <guid isPermaLink="false">079b47f54e61089ee1835a2898c6be247dd16f21cda0f261edc73ee0da2d46a4</guid>
+            <pubDate>Fri, 24 Jul 2026 06:46:02 GMT</pubDate>
+            <description><![CDATA[القناة 14 الإسرائيلية: الجيش الإسرائيلي يستخدم المروحيات لإجلاء المصابين قرب حفات جلعاد]]></description>
+            <content:encoded><![CDATA[القناة 14 الإسرائيلية: الجيش الإسرائيلي يستخدم المروحيات لإجلاء المصابين قرب حفات جلعاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: أرسلنا جنودا إلى منطقة قرب حفات جلعاد بعد هجوم على إسرائيليين…]]></title>
             <link>https://t.me/aljazeeraBrk/228235</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 08:56:03 GMT</pubDate>
             <description><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى إلى 3228 خلال الفترة الصباحية]]></description>
             <content:encoded><![CDATA[دائرة الأوقاف الإسلامية في القدس: ارتفاع عدد المستوطنين الذين اقتحموا الأقصى إلى 3228 خلال الفترة الصباحية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الأوقاف الإسلامية: بن غفير يتقدم مئات المستوطنين في اقتحام الأقصى وهو…]]></title>
-            <link>https://t.me/aljazeeraBrk/228036</link>
-            <guid isPermaLink="false">a6ba332d05a6bd7ca893d2e24f7e60b0d4be207d8d80e4f33cbeedaeaf8417e5</guid>
-            <pubDate>Thu, 23 Jul 2026 08:47:03 GMT</pubDate>
-            <description><![CDATA[وزارة الأوقاف الإسلامية: بن غفير يتقدم مئات المستوطنين في اقتحام الأقصى وهو انتهاك للوضع التاريخي والقانوني]]></description>
-            <content:encoded><![CDATA[وزارة الأوقاف الإسلامية: بن غفير يتقدم مئات المستوطنين في اقتحام الأقصى وهو انتهاك للوضع التاريخي والقانوني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
