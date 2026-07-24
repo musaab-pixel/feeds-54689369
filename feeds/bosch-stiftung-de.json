@@ -27,6 +27,17 @@
             }
         },
         {
+            "id": "f0ed83be30898cf599a6f24ae5f7c86859a259777a5eb6221efcbecbdaadbb15",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Die Welt in einem Klassenzimmer</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-20T15:35:42+02:00\" title=\"Montag, 20 Juli 2026 - 15:35\" class=\"datetime\">Mo. 20 Jul 2026 - 15:35</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/die-welt-einem-klassenzimmer",
+            "title": "Die Welt in einem Klassenzimmer",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Die Welt in einem Klassenzimmer</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-20T15:35:42+02:00\" title=\"Montag, 20 Juli 2026 - 15:35\" class=\"datetime\">Mo. 20 Jul 2026 - 15:35</time>\n</span>\n",
+            "date_modified": "2026-07-20T13:35:42.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "318f075627d56af8f38662f299e706cd04a6a7026fa2de0dec09c8d1e2c6a63a",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Robert Bosch Stiftung legt Jahresbericht vor und präsentiert neuen Markenauftritt</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-13T09:56:40+02:00\" title=\"Montag, 13 Juli 2026 - 09:56\" class=\"datetime\">Mo. 13 Jul 2026 - 09:56</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/robert-bosch-stiftung-legt-jahresbericht-vor-und-praesentiert-neuen-markenauftritt",
