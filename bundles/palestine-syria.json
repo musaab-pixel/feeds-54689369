@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "ce3b6c098cb27ccf596136104ebd5d4c76e37a07bd57c2932bded1513ba8e153",
+            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">من حفل ختم مجلس سماع صحيح الإمام البخاري في جامع عبد الله بن العباس بحلب برعاية من مديرية أوقاف حلب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المجلس هو أولى ثمار دار الشيخ العلامة عبد الفتاح أبو غدة التي افتتحت مؤخرا إحياء لمجالس الحديث<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
+            "url": "https://t.me/HalabTodayTV/138706",
+            "title": "من حفل ختم مجلس سماع صحيح الإمام البخاري في جامع عبد الله بن العباس بحلب برعاية…",
+            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">من حفل ختم مجلس سماع صحيح الإمام البخاري في جامع عبد الله بن العباس بحلب برعاية من مديرية أوقاف حلب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المجلس هو أولى ثمار دار الشيخ العلامة عبد الفتاح أبو غدة التي افتتحت مؤخرا إحياء لمجالس الحديث<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
+            "image": "https://cdn4.telesco.pe/file/FYpHO7IGXxYywsT5d_d1pf3GCNnB3umpm3mvDxVhYIRaZ3hTbHhYi34WQDdqrPzKbRIvUFBVw_NRl-CXo3BtjoSGouy2A7Vf30ZdRgg42AbeJLoOaaUZTHNE-HNEJ6wMHwi2ENLk0JG01o3bnxAceiZF4_mXi5gG7r4U9Qqr7HsoliuGUfeBggt5FwOYQitJ9qavAN1Y8HPLaYhm7WqWOLjB7UOeTt55uc8htILyqkQTysRyQrWs13Uxx-Fsk-4QZVo3uvenz9WY7MrxaLIZF-GuNIs-FYYNkJ-D3P-KbH5ZFiR_LDpxlS0QkoRXzUH2ZD2aL0eeUZDpXtHcFLPG1A.jpg",
+            "date_modified": "2026-07-24T17:00:31.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "bfc9e428de699beb1426f9e201cc78d13d4ac1d9700d3bf9238a874f6e0583d2",
             "content_html": "مراسلة الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين في بلدة عوريف بقضاء نابلس",
             "url": "https://t.me/aljazeeraBrk/228391",
@@ -1639,17 +1651,6 @@
             "title": "مراسلة الجزيرة: الجيش اللبناني يسمح لدفعة من أهالي زوطر الغربية بالدخول إليها…",
             "summary": "مراسلة الجزيرة: الجيش اللبناني يسمح لدفعة من أهالي زوطر الغربية بالدخول إليها بعد 3 أيام من الانتظار",
             "date_modified": "2026-07-24T08:40:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2c56edeb64bdf3926d3614bb6dddb2493d8e1853c6fa9d88e20458c5a08c8460",
-            "content_html": "مراسلة الجزيرة: أهالي زوطر الغربية يتجمعون عند مدخل البلدة جنوبي لبنان استعدادا لدخولها",
-            "url": "https://t.me/aljazeeraBrk/228258",
-            "title": "مراسلة الجزيرة: أهالي زوطر الغربية يتجمعون عند مدخل البلدة جنوبي لبنان استعدادا…",
-            "summary": "مراسلة الجزيرة: أهالي زوطر الغربية يتجمعون عند مدخل البلدة جنوبي لبنان استعدادا لدخولها",
-            "date_modified": "2026-07-24T08:39:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
