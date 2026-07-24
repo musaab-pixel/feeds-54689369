@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>gulbenkian.ptEMIF - European Media and Information Fund (Gulbenkian)</title>
+        <link>https://gulbenkian.pt/</link>
+        <description>RSS Factory feed "gulbenkian.ptEMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
+        <lastBuildDate>Fri, 24 Jul 2026 07:18:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>rss-factory</generator>
+        <language>ar</language>
+        <item>
+            <title><![CDATA[Conversas A importância das humanidades hoje 12 nov 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/agenda/a-importancia-das-humanidades-hoje/</link>
+            <guid isPermaLink="false">cb4877e9aa83549f5cb3bf374ca0f9c91e4bf90b239baa2c42747a0eaa9e233b</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quinta, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>No dia seguinte à conferência inaugural do Gulbenkian Institute for Advanced Study, David Nirenberg participará numa conversa pública sobre o lugar das humanidades na sociedade contemporânea.</p>
+<p>A discussão, com convidados a anunciar brevemente, abordará a relevância contínua da investigação humanística numa época de rápidas mudanças tecnológicas, políticas e culturais.</p>
+<p>O <a href="https://gulbenkian.pt/gias/">Gulbenkian Institute for Advanced Study</a> (GIAS) é um instituto independente criado em 2025 pela Fundação Calouste Gulbenkian com o objetivo de permitir que académicos de renome internacional realizem investigação livre, por períodos limitados de tempo (normalmente entre três e oito meses), num ambiente intelectual estimulante e com poucas obrigações regulares.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quinta, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>No dia seguinte à conferência inaugural do Gulbenkian Institute for Advanced Study, David Nirenberg participará numa conversa pública sobre o lugar das humanidades na sociedade contemporânea.</p>
+<p>A discussão, com convidados a anunciar brevemente, abordará a relevância contínua da investigação humanística numa época de rápidas mudanças tecnológicas, políticas e culturais.</p>
+<p>O <a href="https://gulbenkian.pt/gias/">Gulbenkian Institute for Advanced Study</a> (GIAS) é um instituto independente criado em 2025 pela Fundação Calouste Gulbenkian com o objetivo de permitir que académicos de renome internacional realizem investigação livre, por períodos limitados de tempo (normalmente entre três e oito meses), num ambiente intelectual estimulante e com poucas obrigações regulares.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/DavidNirenberg_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Fanny e Felix Mendelssohn 12 nov 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/fanny-e-felix-mendelssohn/</link>
+            <guid isPermaLink="false">10fc68bc21dc3ef94c44f5d0587e26e6f343324a4342b7f7bef4db17c9a53b82</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Coro Gulbenkian</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Fundado em 1964, o Coro Gulbenkian conta presentemente com uma formação sinfónica de cerca de cem cantores. Pode atuar em grupos vocais mais reduzidos, apresentando-se tanto <em>a cappella</em> como em colaboração com a Orquestra Gulbenkian ou com outros agrupamentos para a interpretação das grandes obras. No domínio da música contemporânea, tem apresentado, frequentemente em estreia absoluta, inúmeras obras de compositores portugueses e estrangeiros. Tem colaborado regularmente com prestigiadas orquestras, entre as quais a Philharmonia Orchestra de Londres, a Freiburg Barockorchester, a Orquestra do Século XVIII, a Filarmónica de Berlim, a Sinfónica de Baden‑Baden, a Sinfónica de Viena, a Orquestra do Real Concertgebouw de Amesterdão, a Orquestra Nacional de Lyon ou a Orquestra de Paris.</p>
+<p>O Coro Gulbenkian participou em importantes festivais internacionais, tais como: Festival Eurotop (Amesterdão), Festival Veneto (Pádua e Verona), City of London Festival, Hong Kong Arts Festival, Festival Internacional de Música de Macau, ou Festival d’Aix-en-Provence.</p>
+<p>A discografia do Coro Gulbenkian está representada nas editoras Philips, Archiv / Deutsche Grammophon, Erato, Cascavelle, Musifrance, FNAC‑Music e Aria‑Music, tendo ao longo dos anos registado um repertório diversificado, com particular incidência na música portuguesa dos séculos XVI a XX. Algumas destas gravações receberam prestigiados prémios internacionais. Entre 1969 e 2020,&nbsp;<a href="https://gulbenkian.pt/musica/biography/michel-corboz/" target="_blank" rel="noopener">Michel Corboz</a> foi o Maestro Titular do Coro Gulbenkian. Desde 2024, <a href="https://gulbenkian.pt/musica/biography/martina-batic/">Martina Batič</a> é Maestra Titular, <a href="https://gulbenkian.pt/musica/biography/ines-tavares-lopes/">Inês Tavares Lopes</a>&nbsp;Maestra Adjunta e <a href="https://gulbenkian.pt/musica/biography/jorge-matta/">Jorge Matta</a>&nbsp;consultor artístico.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Hannu Lintu</h1>
+								<p class="fcg-entry-header__subtitle">Maestro Titular</p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>O finlandês Hannu Lintu é o atual Maestro Titular da Orquestra Gulbenkian. Em paralelo, prossegue o seu trajeto como Maestro Principal da Ópera e Ballet Nacionais da Finlândia e inicia os seus mandatos como Parceiro Artístico da Sinfónica de Lahti e Diretor Artístico do Festival Internacional Sibelius.</p>
+<p>Na temporada passada, Lintu foi nomeado Diretor Musical da Orquestra Sinfónica de Singapura, com início em 2026/27. À frente desta orquestra, dirige na &nbsp;presente temporada a <em>Missa de Nelson</em>, de Haydn, e a 7.ª Sinfonia de Chostakovitch. Outros destaques incluem novas colaborações com as Sinfónicas da BBC, de St. Louis, de Toronto, de Baltimore e de Detroit, bem como produções de <em>Elektra</em>, de R. Strauss, e uma estreia mundial de <em>A Estrela da Manhã</em>, de Sebastian Fagerlund, na Ópera Nacional Finlandesa.</p>
+<p>Nos últimos anos, dirigiu a Sinfónica de Chicago, a Filarmónica de Nova Iorque, a Filarmónica de Berlim, a Orquestra de Cleveland, a Sinfónica da Rádio da Baviera, a Orquestra Nacional da Radio France, a Sinfónica de Boston, a Sinfónica da Rádio Sueca, a Deutsches Symphonie-Orchester Berlin, a Radio Filharmonisch Orkest, a Filarmónica de Londres, a&nbsp; Sinfónica de Atlanta, a Orquestra do Konzerthaus de Berlim e a Sinfónica de Montreal, entre outras orquestras.</p>
+<p>Para além das grandes obras sinfónicas, dirige regularmente repertório de ópera. Neste domínio, os destaques recentes incluem <em>Oedipe</em> de Enesco, com a Sinfónica de Viena, no Festival de Bregenz, <em>O Navio Fantasma</em> de Wagner, na Ópera de Paris, e <em>Pelléas et Mélisande </em>de Debussy, na Ópera Estadual da Baviera, bem como várias produções para a Ópera e Ballet Nacionais da Finlândia, incluindo o ciclo <em>O</em> <em>Anel</em> do <em>Nibelungo</em> de Wagner, <em>Dialogues des Carmélites</em> de Poulenc, <em>Don Giovanni</em> de Mozart, <em>Turandot</em> de Puccini, <em>Salome</em> de R. Strauss, <em>Billy Budd</em> de Britten, e uma versão coreografada da <em>Messa da Requiem</em> de Verdi.</p>
+<p>Hannu Lintu gravou para as editoras Ondine, Bis, Naxos, Avie e Hyperion. Recebeu vários prémios, incluindo dois ICMA para os Concertos para Violino de Béla Bartók, com Christian Tetzlaff, e para a gravação de obras de Sibelius, com Anne Sofie von Otter. Estas duas gravações, bem como <em>Kaivos</em>, de E. Rautavaara e os Concertos para Violino de Sibelius e de T. Adès, com Augustin Hadelich e a Royal Liverpool Orchestra, foram nomeados para os prémios <em>Gramophone</em> e <em>Grammy</em>.</p>
+<p>Hannu Lintu estudou violoncelo e piano na Academia Sibelius, em Helsínquia, instituição onde mais tarde se formou em direção de orquestra com Jorma Panula. Estudou também com Myung-Whun Chung na Accademia Musicale Chigiana, em Siena. Em 1994 venceu o Concurso Nórdico de Direção de Orquestra, em Bergen.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="533" height="800" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800.jpg 533w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800-200x300.jpg 200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800-288x432.jpg 288w" sizes="(max-width: 533px) 100vw, 533px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Hugo Oliveira</h1>
+								<p class="fcg-entry-header__subtitle">Barítono </p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Nascido em Lisboa, Hugo Oliveira foi membro do Estúdio de Ópera do Porto – Casa da Música, onde participou em produções como <em>Joaz</em> (Jojada) de Benedetto Marcello, sob a direção de Richard Gwilt, <em>L’Ivrogne Corrige</em> (Lucas) de Gluck, com direção musical de Jeff Cohen, e <em>Frankenstein!</em>, de Heinz-Karl Gruber, dirigido por Pierre-Andre Valade, atuação que repetiu mais tarde, em 2006, com a Orquestra Sinfónica de Londres, sob a direção de François-Xavier Roth, no Barbican Centre de Londres.</p>
+<p>Inserido na prestigiada série de ópera do Concertgebouw – ZaterdagMatinee NPS, interpretou <em>La Wally</em> (Pedone) de Catalani e <em>Samson et Dalila</em> (2ème Philistin) de Saint-Saëns, ambas sob a direção de Giuliano Carella, e<em> Lohengrin</em> (Dritte Edler) de Wagner, dirigido por Jaap van Zweden. No Festival d’Aix-en-Provence foi o protagonista de <em>Un Retour </em>de Oscar Strasnoy. Interpretou ainda <em>As bodas de Figaro</em> (Figaro) no Coliseu do Porto, sob a direção de Young-min Park, <em>Les malheurs d’Orphée</em> (Orphée) de D. Milhaud, com a Ebony Band, em Paris (Cité de la Musique), <em>Melodias Estranhas,</em> de António Chagas Rosa, com Stefan Asbury, <em>Paint me</em> (Howard) de Luís Tinoco, dirigido por Joana Carneiro,<em> L'enfant et les Sortilèges</em> (Fauteuil), sob a direção de Wayne Marshall, no Concertgebouw de Amesterdão, <em>Dido e Eneias </em>(Eneias) de Purcell, <em>Vénus e Adonis </em>(Adonis) de John Blow, <em>Le Carnaval et La Folie</em> (Momus) de Destouches, com Os Músicos do Tejo, e <em>Rappresentatione di Anima et di Corpo</em>, de Cavalieri, com AKAMUS (René Jacobs) na Staatsoper Berlin. Cantou ainda em <em>Orfeo</em> (Plutone) de Monteverdi, com os Divino Sospiro (Enrico Onofri) e, como Caronte, com o ensemble francês Akadêmia (Françoise Lasserre) em Delhi e Paris.</p>
+<p>O vasto reportório de Hugo Oliveira estende-se ainda à oratória, salientando-se obras como o <em>Requiem</em> de Mozart, com a Orquestra Gulbenkian (Michel Corboz), a <em>Missa em Dó menor</em> de Mozart, em França, <em>Die Legende von der Heiligen</em> <em>Elisabeth</em> de Liszt (Gennadi Rozhdestvensky), o <em>Requiem</em> de Brahms (Marcus Creed), <em>Solomon</em> de Händel (Paul McCreesh), <em>Pulcinella</em> de Stravinsky (Martin Andrè), <em>Les Noces </em>de Stravinsky (Rob Vermeulen) e <em>Jetzt immer Schnee </em>de Gubaidulina, com o Asko Schönberg Ensemble (Reinbert de Leeuw).</p>
+<p>Hugo Oliveira tem-se destacado internacionalmente pela interpretação do repertório de J. S. Bach, com maestros como Ton Koopman, Frans Brüggen, Peter Dijkstra, Klaas Stok, Paul Dombrecht, Peter van Heyghen e Václav Luks. Trabalhou ainda com Jordi Saval (Le Concert des Nations), Bruno Weil (Wallfisch Band), Gabriel Garrido (Ensemble Elyma), Andrzej Kosendiak (Wroclaw Baroque Orchestra), Keneth Weiss, Nigel North, Lawrence Cummings e Christophe Rousset.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Bio-CoroGulbenkian_4x3.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Coro Gulbenkian</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Fundado em 1964, o Coro Gulbenkian conta presentemente com uma formação sinfónica de cerca de cem cantores. Pode atuar em grupos vocais mais reduzidos, apresentando-se tanto <em>a cappella</em> como em colaboração com a Orquestra Gulbenkian ou com outros agrupamentos para a interpretação das grandes obras. No domínio da música contemporânea, tem apresentado, frequentemente em estreia absoluta, inúmeras obras de compositores portugueses e estrangeiros. Tem colaborado regularmente com prestigiadas orquestras, entre as quais a Philharmonia Orchestra de Londres, a Freiburg Barockorchester, a Orquestra do Século XVIII, a Filarmónica de Berlim, a Sinfónica de Baden‑Baden, a Sinfónica de Viena, a Orquestra do Real Concertgebouw de Amesterdão, a Orquestra Nacional de Lyon ou a Orquestra de Paris.</p>
+<p>O Coro Gulbenkian participou em importantes festivais internacionais, tais como: Festival Eurotop (Amesterdão), Festival Veneto (Pádua e Verona), City of London Festival, Hong Kong Arts Festival, Festival Internacional de Música de Macau, ou Festival d’Aix-en-Provence.</p>
+<p>A discografia do Coro Gulbenkian está representada nas editoras Philips, Archiv / Deutsche Grammophon, Erato, Cascavelle, Musifrance, FNAC‑Music e Aria‑Music, tendo ao longo dos anos registado um repertório diversificado, com particular incidência na música portuguesa dos séculos XVI a XX. Algumas destas gravações receberam prestigiados prémios internacionais. Entre 1969 e 2020,&nbsp;<a href="https://gulbenkian.pt/musica/biography/michel-corboz/" target="_blank" rel="noopener">Michel Corboz</a> foi o Maestro Titular do Coro Gulbenkian. Desde 2024, <a href="https://gulbenkian.pt/musica/biography/martina-batic/">Martina Batič</a> é Maestra Titular, <a href="https://gulbenkian.pt/musica/biography/ines-tavares-lopes/">Inês Tavares Lopes</a>&nbsp;Maestra Adjunta e <a href="https://gulbenkian.pt/musica/biography/jorge-matta/">Jorge Matta</a>&nbsp;consultor artístico.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Hannu Lintu</h1>
+								<p class="fcg-entry-header__subtitle">Maestro Titular</p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>O finlandês Hannu Lintu é o atual Maestro Titular da Orquestra Gulbenkian. Em paralelo, prossegue o seu trajeto como Maestro Principal da Ópera e Ballet Nacionais da Finlândia e inicia os seus mandatos como Parceiro Artístico da Sinfónica de Lahti e Diretor Artístico do Festival Internacional Sibelius.</p>
+<p>Na temporada passada, Lintu foi nomeado Diretor Musical da Orquestra Sinfónica de Singapura, com início em 2026/27. À frente desta orquestra, dirige na &nbsp;presente temporada a <em>Missa de Nelson</em>, de Haydn, e a 7.ª Sinfonia de Chostakovitch. Outros destaques incluem novas colaborações com as Sinfónicas da BBC, de St. Louis, de Toronto, de Baltimore e de Detroit, bem como produções de <em>Elektra</em>, de R. Strauss, e uma estreia mundial de <em>A Estrela da Manhã</em>, de Sebastian Fagerlund, na Ópera Nacional Finlandesa.</p>
+<p>Nos últimos anos, dirigiu a Sinfónica de Chicago, a Filarmónica de Nova Iorque, a Filarmónica de Berlim, a Orquestra de Cleveland, a Sinfónica da Rádio da Baviera, a Orquestra Nacional da Radio France, a Sinfónica de Boston, a Sinfónica da Rádio Sueca, a Deutsches Symphonie-Orchester Berlin, a Radio Filharmonisch Orkest, a Filarmónica de Londres, a&nbsp; Sinfónica de Atlanta, a Orquestra do Konzerthaus de Berlim e a Sinfónica de Montreal, entre outras orquestras.</p>
+<p>Para além das grandes obras sinfónicas, dirige regularmente repertório de ópera. Neste domínio, os destaques recentes incluem <em>Oedipe</em> de Enesco, com a Sinfónica de Viena, no Festival de Bregenz, <em>O Navio Fantasma</em> de Wagner, na Ópera de Paris, e <em>Pelléas et Mélisande </em>de Debussy, na Ópera Estadual da Baviera, bem como várias produções para a Ópera e Ballet Nacionais da Finlândia, incluindo o ciclo <em>O</em> <em>Anel</em> do <em>Nibelungo</em> de Wagner, <em>Dialogues des Carmélites</em> de Poulenc, <em>Don Giovanni</em> de Mozart, <em>Turandot</em> de Puccini, <em>Salome</em> de R. Strauss, <em>Billy Budd</em> de Britten, e uma versão coreografada da <em>Messa da Requiem</em> de Verdi.</p>
+<p>Hannu Lintu gravou para as editoras Ondine, Bis, Naxos, Avie e Hyperion. Recebeu vários prémios, incluindo dois ICMA para os Concertos para Violino de Béla Bartók, com Christian Tetzlaff, e para a gravação de obras de Sibelius, com Anne Sofie von Otter. Estas duas gravações, bem como <em>Kaivos</em>, de E. Rautavaara e os Concertos para Violino de Sibelius e de T. Adès, com Augustin Hadelich e a Royal Liverpool Orchestra, foram nomeados para os prémios <em>Gramophone</em> e <em>Grammy</em>.</p>
+<p>Hannu Lintu estudou violoncelo e piano na Academia Sibelius, em Helsínquia, instituição onde mais tarde se formou em direção de orquestra com Jorma Panula. Estudou também com Myung-Whun Chung na Accademia Musicale Chigiana, em Siena. Em 1994 venceu o Concurso Nórdico de Direção de Orquestra, em Bergen.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="533" height="800" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800.jpg 533w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800-200x300.jpg 200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2014/03/Hugo-Oliveira-c-DR_533x800-288x432.jpg 288w" sizes="(max-width: 533px) 100vw, 533px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Hugo Oliveira</h1>
+								<p class="fcg-entry-header__subtitle">Barítono </p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Nascido em Lisboa, Hugo Oliveira foi membro do Estúdio de Ópera do Porto – Casa da Música, onde participou em produções como <em>Joaz</em> (Jojada) de Benedetto Marcello, sob a direção de Richard Gwilt, <em>L’Ivrogne Corrige</em> (Lucas) de Gluck, com direção musical de Jeff Cohen, e <em>Frankenstein!</em>, de Heinz-Karl Gruber, dirigido por Pierre-Andre Valade, atuação que repetiu mais tarde, em 2006, com a Orquestra Sinfónica de Londres, sob a direção de François-Xavier Roth, no Barbican Centre de Londres.</p>
+<p>Inserido na prestigiada série de ópera do Concertgebouw – ZaterdagMatinee NPS, interpretou <em>La Wally</em> (Pedone) de Catalani e <em>Samson et Dalila</em> (2ème Philistin) de Saint-Saëns, ambas sob a direção de Giuliano Carella, e<em> Lohengrin</em> (Dritte Edler) de Wagner, dirigido por Jaap van Zweden. No Festival d’Aix-en-Provence foi o protagonista de <em>Un Retour </em>de Oscar Strasnoy. Interpretou ainda <em>As bodas de Figaro</em> (Figaro) no Coliseu do Porto, sob a direção de Young-min Park, <em>Les malheurs d’Orphée</em> (Orphée) de D. Milhaud, com a Ebony Band, em Paris (Cité de la Musique), <em>Melodias Estranhas,</em> de António Chagas Rosa, com Stefan Asbury, <em>Paint me</em> (Howard) de Luís Tinoco, dirigido por Joana Carneiro,<em> L'enfant et les Sortilèges</em> (Fauteuil), sob a direção de Wayne Marshall, no Concertgebouw de Amesterdão, <em>Dido e Eneias </em>(Eneias) de Purcell, <em>Vénus e Adonis </em>(Adonis) de John Blow, <em>Le Carnaval et La Folie</em> (Momus) de Destouches, com Os Músicos do Tejo, e <em>Rappresentatione di Anima et di Corpo</em>, de Cavalieri, com AKAMUS (René Jacobs) na Staatsoper Berlin. Cantou ainda em <em>Orfeo</em> (Plutone) de Monteverdi, com os Divino Sospiro (Enrico Onofri) e, como Caronte, com o ensemble francês Akadêmia (Françoise Lasserre) em Delhi e Paris.</p>
+<p>O vasto reportório de Hugo Oliveira estende-se ainda à oratória, salientando-se obras como o <em>Requiem</em> de Mozart, com a Orquestra Gulbenkian (Michel Corboz), a <em>Missa em Dó menor</em> de Mozart, em França, <em>Die Legende von der Heiligen</em> <em>Elisabeth</em> de Liszt (Gennadi Rozhdestvensky), o <em>Requiem</em> de Brahms (Marcus Creed), <em>Solomon</em> de Händel (Paul McCreesh), <em>Pulcinella</em> de Stravinsky (Martin Andrè), <em>Les Noces </em>de Stravinsky (Rob Vermeulen) e <em>Jetzt immer Schnee </em>de Gubaidulina, com o Asko Schönberg Ensemble (Reinbert de Leeuw).</p>
+<p>Hugo Oliveira tem-se destacado internacionalmente pela interpretação do repertório de J. S. Bach, com maestros como Ton Koopman, Frans Brüggen, Peter Dijkstra, Klaas Stok, Paul Dombrecht, Peter van Heyghen e Václav Luks. Trabalhou ainda com Jordi Saval (Le Concert des Nations), Bruno Weil (Wallfisch Band), Gabriel Garrido (Ensemble Elyma), Andrzej Kosendiak (Wroclaw Baroque Orchestra), Keneth Weiss, Nigel North, Lawrence Cummings e Christophe Rousset.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/20_Brenda-Rae_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conferência Formas experimentais para a vida intelectual, por David Nirenberg 11 nov 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/agenda/formas-experimentais-para-a-vida-intelectual-por-david-nirenberg/</link>
+            <guid isPermaLink="false">6b6813e66f4973c4545d7cac6ac49b68b73858c645bade24aa423567298be983</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>David Nirenberg, Diretor do Instituto de Estudos Avançados de Princeton, é o convidado a conferência inaugural do Instituto Gulbenkian de Estudos Avançados.</p>
+<p>Historiador e medievalista, Nirenberg refletirá sobre o papel destes institutos enquanto espaços de experimentação intelectual, inquérito continuado&nbsp;e diálogo entre áreas do saber.</p>
+<p>O Instituto Gulbenkian de Estudos Avançados (GIAS) é um instituto independente criado em 2025 pela Fundação Calouste Gulbenkian com o objetivo de permitir que académicos de renome internacional realizem investigação livre, por períodos limitados de tempo (normalmente entre três e oito meses), num ambiente intelectual estimulante e com poucas obrigações regulares.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>David Nirenberg, Diretor do Instituto de Estudos Avançados de Princeton, é o convidado a conferência inaugural do Instituto Gulbenkian de Estudos Avançados.</p>
+<p>Historiador e medievalista, Nirenberg refletirá sobre o papel destes institutos enquanto espaços de experimentação intelectual, inquérito continuado&nbsp;e diálogo entre áreas do saber.</p>
+<p>O Instituto Gulbenkian de Estudos Avançados (GIAS) é um instituto independente criado em 2025 pela Fundação Calouste Gulbenkian com o objetivo de permitir que académicos de renome internacional realizem investigação livre, por períodos limitados de tempo (normalmente entre três e oito meses), num ambiente intelectual estimulante e com poucas obrigações regulares.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/img110_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Petrouchka 05 nov 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/petrouchka-2/</link>
+            <guid isPermaLink="false">6a5415ed9200b8a76dd96d1911dc39ba44f1ab0fdebe0e362ba150a742caa030</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Gulbenkian</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Em 1962 a Fundação Calouste Gulbenkian decidiu estabelecer um agrupamento orquestral permanente. No início constituído apenas por doze elementos, foi originalmente designado por Orquestra de Câmara Gulbenkian. Ao longo de sessenta anos de atividade, a Orquestra Gulbenkian (denominação adotada desde 1971) foi sendo progressivamente alargada, contando hoje com um efetivo de cerca de sessenta instrumentistas, que pode ser expandido de acordo com as exigências de cada programa. Esta constituição permite à Orquestra Gulbenkian interpretar um amplo repertório, do Barroco até à música contemporânea. Obras pertencentes ao repertório corrente das grandes formações sinfónicas podem também ser interpretadas pela Orquestra Gulbenkian em versões mais próximas dos efetivos orquestrais para que foram originalmente concebidas, no que respeita ao equilíbrio da respetiva arquitetura sonora.</p>
+<p>Em cada temporada, a Orquestra Gulbenkian realiza uma série regular de concertos no Grande Auditório, em Lisboa, em cujo âmbito colabora com os maiores nomes do mundo da música, nomeadamente maestros e solistas. Atua também com regularidade noutros palcos nacionais, cumprindo desta forma uma significativa função descentralizadora. No plano internacional, a Orquestra Gulbenkian foi ampliando gradualmente a sua atividade, tendo efetuado digressões na Europa, na Ásia, em África e nas Américas. No plano discográfico, o nome da Orquestra Gulbenkian encontra-se associado às editoras Philips, Deutsche Grammophon, Hyperion, Teldec, Erato, Adès, Nimbus, Lyrinx, Naïve e Pentatone, entre outras, tendo esta sua atividade sido distinguida, desde muito cedo, com diversos prémios internacionais de grande prestígio. O finlandês <a href="https://gulbenkian.pt/musica/biography/hannu-lintu/">Hannu Lintu</a> é o Maestro Titular da Orquestra Gulbenkian desde 2023.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Hannu Lintu</h1>
+								<p class="fcg-entry-header__subtitle">Maestro Titular</p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>O finlandês Hannu Lintu é o atual Maestro Titular da Orquestra Gulbenkian. Em paralelo, prossegue o seu trajeto como Maestro Principal da Ópera e Ballet Nacionais da Finlândia e inicia os seus mandatos como Parceiro Artístico da Sinfónica de Lahti e Diretor Artístico do Festival Internacional Sibelius.</p>
+<p>Na temporada passada, Lintu foi nomeado Diretor Musical da Orquestra Sinfónica de Singapura, com início em 2026/27. À frente desta orquestra, dirige na &nbsp;presente temporada a <em>Missa de Nelson</em>, de Haydn, e a 7.ª Sinfonia de Chostakovitch. Outros destaques incluem novas colaborações com as Sinfónicas da BBC, de St. Louis, de Toronto, de Baltimore e de Detroit, bem como produções de <em>Elektra</em>, de R. Strauss, e uma estreia mundial de <em>A Estrela da Manhã</em>, de Sebastian Fagerlund, na Ópera Nacional Finlandesa.</p>
+<p>Nos últimos anos, dirigiu a Sinfónica de Chicago, a Filarmónica de Nova Iorque, a Filarmónica de Berlim, a Orquestra de Cleveland, a Sinfónica da Rádio da Baviera, a Orquestra Nacional da Radio France, a Sinfónica de Boston, a Sinfónica da Rádio Sueca, a Deutsches Symphonie-Orchester Berlin, a Radio Filharmonisch Orkest, a Filarmónica de Londres, a&nbsp; Sinfónica de Atlanta, a Orquestra do Konzerthaus de Berlim e a Sinfónica de Montreal, entre outras orquestras.</p>
+<p>Para além das grandes obras sinfónicas, dirige regularmente repertório de ópera. Neste domínio, os destaques recentes incluem <em>Oedipe</em> de Enesco, com a Sinfónica de Viena, no Festival de Bregenz, <em>O Navio Fantasma</em> de Wagner, na Ópera de Paris, e <em>Pelléas et Mélisande </em>de Debussy, na Ópera Estadual da Baviera, bem como várias produções para a Ópera e Ballet Nacionais da Finlândia, incluindo o ciclo <em>O</em> <em>Anel</em> do <em>Nibelungo</em> de Wagner, <em>Dialogues des Carmélites</em> de Poulenc, <em>Don Giovanni</em> de Mozart, <em>Turandot</em> de Puccini, <em>Salome</em> de R. Strauss, <em>Billy Budd</em> de Britten, e uma versão coreografada da <em>Messa da Requiem</em> de Verdi.</p>
+<p>Hannu Lintu gravou para as editoras Ondine, Bis, Naxos, Avie e Hyperion. Recebeu vários prémios, incluindo dois ICMA para os Concertos para Violino de Béla Bartók, com Christian Tetzlaff, e para a gravação de obras de Sibelius, com Anne Sofie von Otter. Estas duas gravações, bem como <em>Kaivos</em>, de E. Rautavaara e os Concertos para Violino de Sibelius e de T. Adès, com Augustin Hadelich e a Royal Liverpool Orchestra, foram nomeados para os prémios <em>Gramophone</em> e <em>Grammy</em>.</p>
+<p>Hannu Lintu estudou violoncelo e piano na Academia Sibelius, em Helsínquia, instituição onde mais tarde se formou em direção de orquestra com Jorma Panula. Estudou também com Myung-Whun Chung na Accademia Musicale Chigiana, em Siena. Em 1994 venceu o Concurso Nórdico de Direção de Orquestra, em Bergen.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Gulbenkian</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Em 1962 a Fundação Calouste Gulbenkian decidiu estabelecer um agrupamento orquestral permanente. No início constituído apenas por doze elementos, foi originalmente designado por Orquestra de Câmara Gulbenkian. Ao longo de sessenta anos de atividade, a Orquestra Gulbenkian (denominação adotada desde 1971) foi sendo progressivamente alargada, contando hoje com um efetivo de cerca de sessenta instrumentistas, que pode ser expandido de acordo com as exigências de cada programa. Esta constituição permite à Orquestra Gulbenkian interpretar um amplo repertório, do Barroco até à música contemporânea. Obras pertencentes ao repertório corrente das grandes formações sinfónicas podem também ser interpretadas pela Orquestra Gulbenkian em versões mais próximas dos efetivos orquestrais para que foram originalmente concebidas, no que respeita ao equilíbrio da respetiva arquitetura sonora.</p>
+<p>Em cada temporada, a Orquestra Gulbenkian realiza uma série regular de concertos no Grande Auditório, em Lisboa, em cujo âmbito colabora com os maiores nomes do mundo da música, nomeadamente maestros e solistas. Atua também com regularidade noutros palcos nacionais, cumprindo desta forma uma significativa função descentralizadora. No plano internacional, a Orquestra Gulbenkian foi ampliando gradualmente a sua atividade, tendo efetuado digressões na Europa, na Ásia, em África e nas Américas. No plano discográfico, o nome da Orquestra Gulbenkian encontra-se associado às editoras Philips, Deutsche Grammophon, Hyperion, Teldec, Erato, Adès, Nimbus, Lyrinx, Naïve e Pentatone, entre outras, tendo esta sua atividade sido distinguida, desde muito cedo, com diversos prémios internacionais de grande prestígio. O finlandês <a href="https://gulbenkian.pt/musica/biography/hannu-lintu/">Hannu Lintu</a> é o Maestro Titular da Orquestra Gulbenkian desde 2023.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Hannu-Lintu-C-Diana-Tinoco_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Hannu Lintu</h1>
+								<p class="fcg-entry-header__subtitle">Maestro Titular</p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>O finlandês Hannu Lintu é o atual Maestro Titular da Orquestra Gulbenkian. Em paralelo, prossegue o seu trajeto como Maestro Principal da Ópera e Ballet Nacionais da Finlândia e inicia os seus mandatos como Parceiro Artístico da Sinfónica de Lahti e Diretor Artístico do Festival Internacional Sibelius.</p>
+<p>Na temporada passada, Lintu foi nomeado Diretor Musical da Orquestra Sinfónica de Singapura, com início em 2026/27. À frente desta orquestra, dirige na &nbsp;presente temporada a <em>Missa de Nelson</em>, de Haydn, e a 7.ª Sinfonia de Chostakovitch. Outros destaques incluem novas colaborações com as Sinfónicas da BBC, de St. Louis, de Toronto, de Baltimore e de Detroit, bem como produções de <em>Elektra</em>, de R. Strauss, e uma estreia mundial de <em>A Estrela da Manhã</em>, de Sebastian Fagerlund, na Ópera Nacional Finlandesa.</p>
+<p>Nos últimos anos, dirigiu a Sinfónica de Chicago, a Filarmónica de Nova Iorque, a Filarmónica de Berlim, a Orquestra de Cleveland, a Sinfónica da Rádio da Baviera, a Orquestra Nacional da Radio France, a Sinfónica de Boston, a Sinfónica da Rádio Sueca, a Deutsches Symphonie-Orchester Berlin, a Radio Filharmonisch Orkest, a Filarmónica de Londres, a&nbsp; Sinfónica de Atlanta, a Orquestra do Konzerthaus de Berlim e a Sinfónica de Montreal, entre outras orquestras.</p>
+<p>Para além das grandes obras sinfónicas, dirige regularmente repertório de ópera. Neste domínio, os destaques recentes incluem <em>Oedipe</em> de Enesco, com a Sinfónica de Viena, no Festival de Bregenz, <em>O Navio Fantasma</em> de Wagner, na Ópera de Paris, e <em>Pelléas et Mélisande </em>de Debussy, na Ópera Estadual da Baviera, bem como várias produções para a Ópera e Ballet Nacionais da Finlândia, incluindo o ciclo <em>O</em> <em>Anel</em> do <em>Nibelungo</em> de Wagner, <em>Dialogues des Carmélites</em> de Poulenc, <em>Don Giovanni</em> de Mozart, <em>Turandot</em> de Puccini, <em>Salome</em> de R. Strauss, <em>Billy Budd</em> de Britten, e uma versão coreografada da <em>Messa da Requiem</em> de Verdi.</p>
+<p>Hannu Lintu gravou para as editoras Ondine, Bis, Naxos, Avie e Hyperion. Recebeu vários prémios, incluindo dois ICMA para os Concertos para Violino de Béla Bartók, com Christian Tetzlaff, e para a gravação de obras de Sibelius, com Anne Sofie von Otter. Estas duas gravações, bem como <em>Kaivos</em>, de E. Rautavaara e os Concertos para Violino de Sibelius e de T. Adès, com Augustin Hadelich e a Royal Liverpool Orchestra, foram nomeados para os prémios <em>Gramophone</em> e <em>Grammy</em>.</p>
+<p>Hannu Lintu estudou violoncelo e piano na Academia Sibelius, em Helsínquia, instituição onde mais tarde se formou em direção de orquestra com Jorma Panula. Estudou também com Myung-Whun Chung na Accademia Musicale Chigiana, em Siena. Em 1994 venceu o Concurso Nórdico de Direção de Orquestra, em Bergen.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/19_Hannu-Lintu-C-Veikko-Kahkonen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Quarteto Van Kuijk 02 nov 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/quarteto-van-kuijk/</link>
+            <guid isPermaLink="false">db87d4794ddf0448a44ffe6741d797f778cfbd728698ee59a5845344d3dba5c0</guid>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="900" height="1200" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4.jpg 900w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-225x300.jpg 225w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-768x1024.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-288x384.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-576x768.jpg 576w" sizes="(max-width: 900px) 100vw, 900px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Quarteto Van Kuijk</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Desde a sua constituição, em 2012, o Quatuor Van Kuijk afirmou-se nas principais salas de concertos e festivais, com destaque para a conquista de vários prémios: 1.º classificado, Prémio Beethoven e Prémio Haydn no Concurso Internacional de Quartetos de Cordas do Wigmore Hall (2015); 1.º classificado e Prémio do Público no Concurso Internacional de Música de Câmara de Trondheim. Foi nomeado <em>BBC New Generation Artists</em> (2015-2017) e laureado pela Academia do Festival d’Aix-en-Provence. Foi também selecionado <em>ECHO Rising Star</em> para a temporada 2017-2018, tendo-se então estreado na Fundação Gulbenkian.</p>
+<p>Para além dos concertos regulares em prestigiados palcos europeus e norte-americanos, apresentou-se também na Ópera de Sydney e no Melbourne Recital Centre, na Austrália, e no Auditório Sinfónico de Xangai.</p>
+<p>O Quatuor Van Kuijk grava em exclusivo para a Alpha Classics, tendo o seu álbum de estreia,&nbsp;intitulado <em>Mozart</em>, recebido o aplauso da crítica – <em>Choc</em> da revista <em>Classica</em> e <em>Diapason d’Or Découverte</em>. Seguiram-se gravações de obras de Debussy, Ravel e Schubert, tendo depois regressado a Mozart com dois lançamentos – Quartetos K. 421 e K. 387 e os Quintetos K. 515 e K. 516, com o violetista Adrien La Marca.</p>
+<p>Em residência no Proquartet, em Paris, os seus membros estudaram com músicos dos quartetos Alban Berg, Artemis e Hagen. Anteriormente trabalharam com o Ysaÿe Quartet e com Günter Pichler na Escuela Superior de Música Reina Sofía, em Madrid. O Quatuor Van Kuijk é patrocinado pela Pirastro e pela SPEDIDAM e tem o apoio da Anima Music e da Foundation Mécénat Musical Société Génerale.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="900" height="1200" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4.jpg 900w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-225x300.jpg 225w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-768x1024.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-288x384.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/media_124_van_kuijk_3x4-576x768.jpg 576w" sizes="(max-width: 900px) 100vw, 900px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Quarteto Van Kuijk</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Desde a sua constituição, em 2012, o Quatuor Van Kuijk afirmou-se nas principais salas de concertos e festivais, com destaque para a conquista de vários prémios: 1.º classificado, Prémio Beethoven e Prémio Haydn no Concurso Internacional de Quartetos de Cordas do Wigmore Hall (2015); 1.º classificado e Prémio do Público no Concurso Internacional de Música de Câmara de Trondheim. Foi nomeado <em>BBC New Generation Artists</em> (2015-2017) e laureado pela Academia do Festival d’Aix-en-Provence. Foi também selecionado <em>ECHO Rising Star</em> para a temporada 2017-2018, tendo-se então estreado na Fundação Gulbenkian.</p>
+<p>Para além dos concertos regulares em prestigiados palcos europeus e norte-americanos, apresentou-se também na Ópera de Sydney e no Melbourne Recital Centre, na Austrália, e no Auditório Sinfónico de Xangai.</p>
+<p>O Quatuor Van Kuijk grava em exclusivo para a Alpha Classics, tendo o seu álbum de estreia,&nbsp;intitulado <em>Mozart</em>, recebido o aplauso da crítica – <em>Choc</em> da revista <em>Classica</em> e <em>Diapason d’Or Découverte</em>. Seguiram-se gravações de obras de Debussy, Ravel e Schubert, tendo depois regressado a Mozart com dois lançamentos – Quartetos K. 421 e K. 387 e os Quintetos K. 515 e K. 516, com o violetista Adrien La Marca.</p>
+<p>Em residência no Proquartet, em Paris, os seus membros estudaram com músicos dos quartetos Alban Berg, Artemis e Hagen. Anteriormente trabalharam com o Ysaÿe Quartet e com Günter Pichler na Escuela Superior de Música Reina Sofía, em Madrid. O Quatuor Van Kuijk é patrocinado pela Pirastro e pela SPEDIDAM e tem o apoio da Anima Music e da Foundation Mécénat Musical Société Génerale.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Joachim Kühn 31 jul 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/joachim-khun/</link>
+            <guid isPermaLink="false">2e913970c7b650925cc824ddfbc260a0c1a470cad1f7e7ba9ebb5f811ea97e7a</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sexta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Joachim Kühn											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<p>Prova cabal da sua inesgotável fonte de criatividade, Joachim Kühn gravou pouco antes de cumprir 80 anos o álbum duplo a solo Échappée para a Intakt Records.</p>
+<p>O pianista alemão é, desde a década de 1960, uma das figuras maiores do jazz de vanguarda, graças a uma riquíssima linguagem ao piano que deve tanto à tradição jazzística quanto ao legado da música erudita de linhagem europeia. Esse mundo livre e vasto está bem presente em Échapée, com a revista Jazzwise a chamar a atenção para a convivência de referências como Ravel, Chopin, Bud Powell e Art Tatum.</p>
+<p>“Não se espere uma improvisação tranquila e cristalina”, escrevia ainda a Jazzwise, “mas antes um galope frenético que, após repetidas audições, revela um subterrâneo sentido de estrutura sob a aparente aleatoriedade das rajadas de notas”.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sexta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Joachim Kühn											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<p>Prova cabal da sua inesgotável fonte de criatividade, Joachim Kühn gravou pouco antes de cumprir 80 anos o álbum duplo a solo Échappée para a Intakt Records.</p>
+<p>O pianista alemão é, desde a década de 1960, uma das figuras maiores do jazz de vanguarda, graças a uma riquíssima linguagem ao piano que deve tanto à tradição jazzística quanto ao legado da música erudita de linhagem europeia. Esse mundo livre e vasto está bem presente em Échapée, com a revista Jazzwise a chamar a atenção para a convivência de referências como Ravel, Chopin, Bud Powell e Art Tatum.</p>
+<p>“Não se espere uma improvisação tranquila e cristalina”, escrevia ainda a Jazzwise, “mas antes um galope frenético que, após repetidas audições, revela um subterrâneo sentido de estrutura sob a aparente aleatoriedade das rajadas de notas”.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Joachim_Kuhn_by_ACT_Tibor_Bozi_01_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orquestra Juvenil Geração 26 jul 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/orquestra-juvenil-geracao-5/</link>
+            <guid isPermaLink="false">616ed9a2d38291c179da88f84249dff4ef6fa0a751e4c46914a5d706dbbe5392</guid>
+            <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Juvenil Geração</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>A Orquestra Geração/Sistema Portugal nasceu em 2007/2008, na Amadora, pela mão da Câmara Municipal, da Fundação Calouste Gulbenkian e da Escola Artística de Música do Conservatório Nacional, sob a inspiração do El Sistema venezuelano.</p>
+<p>Ao longo de 18 anos, promovendo a inclusão social através da música orquestral, a Orquestra Geração tornou-se num projeto de referência, para o que muito contribuíam os intercâmbios com formadores e maestros venezuelanos, o apoio do Ministério da Educação e dos vários municípios que se foram agregando e ainda de apoios privados, que acreditam que a música, a arte e cultura, são absolutamente fulcrais e insubstituíveis para o desenvolvimento pleno das sociedades e dos seus cidadãos, independentemente das origens, crenças ou estratos sociais.</p>
+<p>Atualmente, o projeto abrange mais de 1700 crianças e jovens, com vários a prosseguir estudos musicais especializados em escolas de referência, nacionais e estrangeiras.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Jose Jesus Olivetti</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Jovem violinista e maestro venezuelano, Jose Jesus Olivetti foi formado no prestigiado Sistema Nacional de Orquestras e Coros Juvenis e Infantis da Venezuela (El Sistema), onde iniciou a sua trajetória musical aos oito anos. Estudou violino com Savino D’Addona, Rubén Camacho e Francisco Díaz, e iniciou a sua formação em direção de orquestra com Tarcísio Barreto. Recebeu formação do Maestro José Antonio Abreu, não apenas em direção orquestral, mas também na conceção, planeamento e realização de projetos musicais e orquestrais. Prosseguiu os seus estudos na Europa com reconhecidos maestros, entre eles Jorma Panula, Colin Metters, Alex Treger e Maurice Hamers.</p>
+<p>Olivetti participou em diversos festivais internacionais e cursos de aperfeiçoamento, nomeadamente com a Orquestra Filarmónica de Ruse, a Ópera Estatal de Burgas, a Orquestra de Câmara Filarmónica de Berlim ou a Orquestra Sinfónica Estatal da Lituânia.</p>
+<p>Dirigiu importantes festivais e projetos com a Orquestra Geração em Portugal, bem como com orquestras nacionais e internacionais na Suíça, Portugal, Espanha e outros países. Em 2023, foi um dos vencedores do Festival Internacional de Direção de Orquestra de Düsseldorf.</p>
+<p>Na sua atividade como maestro ou maestro convidado tem colaborado com orquestras de diferentes partes do mundo, promovendo o acesso à música clássica junto de públicos internacionais.</p>
+<p>Paralelamente à sua atividade artística, Jose Jesus Olivetti alia a sua carreira musical a um forte compromisso social. Através da Olivetti Foundation, por si fundada, desenvolve projetos de promoção de jovens talentos, entre os quais se destacam o concurso internacional <i>Tocar y Luchar</i>, o apoio sustentável a orquestras em Angola e Moçambique, bem como ações de formação e palestras especializadas destinadas a músicos e educadores em Medellín, na Colômbia.</p>
+<p>Adicionalmente, criou o projeto <i>Meet the Community</i>, concebido como uma ponte entre as orquestras que dirige e as escolas de música regionais e jovens músicos, para promover intercâmbios culturais, musicais e artísticos, oferecendo aos jovens a oportunidade de conhecer de perto o trabalho e a realidade de uma orquestra profissional.</p>
+<p>Olivetti concluiu os seus estudos no Leopold Mozart College of Music da Universidade de Augsburg, onde estudou direção de orquestra com o Professor Maurice Hamers e violino com a Professora Senta Kraemer. Foi bolseiro da Fundação Theodor Rogler, na Alemanha, e da Fundação Elena Probst, na Suíça.</p>
+<p>Atualmente, Jose Jesus Olivetti é Diretor Musical da Philludiker Orchester München, da Bodensee Ärzteorchester e da Garchinger Sinfonieorchester. É também violinista do Seraphin Ensemble München e da Münchner Kammerphilharmonie Dacapo.&nbsp;</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Juvenil Geração</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>A Orquestra Geração/Sistema Portugal nasceu em 2007/2008, na Amadora, pela mão da Câmara Municipal, da Fundação Calouste Gulbenkian e da Escola Artística de Música do Conservatório Nacional, sob a inspiração do El Sistema venezuelano.</p>
+<p>Ao longo de 18 anos, promovendo a inclusão social através da música orquestral, a Orquestra Geração tornou-se num projeto de referência, para o que muito contribuíam os intercâmbios com formadores e maestros venezuelanos, o apoio do Ministério da Educação e dos vários municípios que se foram agregando e ainda de apoios privados, que acreditam que a música, a arte e cultura, são absolutamente fulcrais e insubstituíveis para o desenvolvimento pleno das sociedades e dos seus cidadãos, independentemente das origens, crenças ou estratos sociais.</p>
+<p>Atualmente, o projeto abrange mais de 1700 crianças e jovens, com vários a prosseguir estudos musicais especializados em escolas de referência, nacionais e estrangeiras.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Jesus-Olivetti_4x3.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Jose Jesus Olivetti</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif tw-leading-relaxed"><p>Jovem violinista e maestro venezuelano, Jose Jesus Olivetti foi formado no prestigiado Sistema Nacional de Orquestras e Coros Juvenis e Infantis da Venezuela (El Sistema), onde iniciou a sua trajetória musical aos oito anos. Estudou violino com Savino D’Addona, Rubén Camacho e Francisco Díaz, e iniciou a sua formação em direção de orquestra com Tarcísio Barreto. Recebeu formação do Maestro José Antonio Abreu, não apenas em direção orquestral, mas também na conceção, planeamento e realização de projetos musicais e orquestrais. Prosseguiu os seus estudos na Europa com reconhecidos maestros, entre eles Jorma Panula, Colin Metters, Alex Treger e Maurice Hamers.</p>
+<p>Olivetti participou em diversos festivais internacionais e cursos de aperfeiçoamento, nomeadamente com a Orquestra Filarmónica de Ruse, a Ópera Estatal de Burgas, a Orquestra de Câmara Filarmónica de Berlim ou a Orquestra Sinfónica Estatal da Lituânia.</p>
+<p>Dirigiu importantes festivais e projetos com a Orquestra Geração em Portugal, bem como com orquestras nacionais e internacionais na Suíça, Portugal, Espanha e outros países. Em 2023, foi um dos vencedores do Festival Internacional de Direção de Orquestra de Düsseldorf.</p>
+<p>Na sua atividade como maestro ou maestro convidado tem colaborado com orquestras de diferentes partes do mundo, promovendo o acesso à música clássica junto de públicos internacionais.</p>
+<p>Paralelamente à sua atividade artística, Jose Jesus Olivetti alia a sua carreira musical a um forte compromisso social. Através da Olivetti Foundation, por si fundada, desenvolve projetos de promoção de jovens talentos, entre os quais se destacam o concurso internacional <i>Tocar y Luchar</i>, o apoio sustentável a orquestras em Angola e Moçambique, bem como ações de formação e palestras especializadas destinadas a músicos e educadores em Medellín, na Colômbia.</p>
+<p>Adicionalmente, criou o projeto <i>Meet the Community</i>, concebido como uma ponte entre as orquestras que dirige e as escolas de música regionais e jovens músicos, para promover intercâmbios culturais, musicais e artísticos, oferecendo aos jovens a oportunidade de conhecer de perto o trabalho e a realidade de uma orquestra profissional.</p>
+<p>Olivetti concluiu os seus estudos no Leopold Mozart College of Music da Universidade de Augsburg, onde estudou direção de orquestra com o Professor Maurice Hamers e violino com a Professora Senta Kraemer. Foi bolseiro da Fundação Theodor Rogler, na Alemanha, e da Fundação Elena Probst, na Suíça.</p>
+<p>Atualmente, Jose Jesus Olivetti é Diretor Musical da Philludiker Orchester München, da Bodensee Ärzteorchester e da Garchinger Sinfonieorchester. É também violinista do Seraphin Ensemble München e da Münchner Kammerphilharmonie Dacapo.&nbsp;</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto David Maranha & Rodrigo Amado 01 ago 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/agenda/david-maranha-rodrigo-amado/</link>
+            <guid isPermaLink="false">7b10cdc2e5ca193f6f0972e8b7a0d17590de58f3c32102ebf1dd73d8defb815e</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Rodrigo Amado											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone tenor</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													David Maranha											</span>
+														<span class="tw-ml-xs tw-text-sm">Órgão</span>
+									</li>
+					</ul>
+<p>O mundo não atravessa um momento fácil. Guerras, catástrofes naturais, extremismos políticos, ameaças totalitárias, economias voláteis, desigualdades gritantes, ansiedades climáticas, discursos de ódio e de intolerância, amanhãs incertos.</p>
+<p>O texto de apresentação de Wrecks, encontro entre o saxofone tenor de Rodrigo Amado e o órgão elétrico de David Maranha, alude a essa tempestade contemporânea como pano de fundo para esta música inquietante urdida a dois.</p>
+<p>Este cenário não escapou à lente do Free Jazz Blog, que acompanhou uma crítica de nota máxima com a descrição do som “industrial, violento, sem melodias ou harmonias” que Maranha cria como base; depois, por cima dela, Amado “acalma, canta, lamenta, uiva, grita”, na criação de uma intensa banda sonora para um presente em chamas.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Rodrigo Amado											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone tenor</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													David Maranha											</span>
+														<span class="tw-ml-xs tw-text-sm">Órgão</span>
+									</li>
+					</ul>
+<p>O mundo não atravessa um momento fácil. Guerras, catástrofes naturais, extremismos políticos, ameaças totalitárias, economias voláteis, desigualdades gritantes, ansiedades climáticas, discursos de ódio e de intolerância, amanhãs incertos.</p>
+<p>O texto de apresentação de Wrecks, encontro entre o saxofone tenor de Rodrigo Amado e o órgão elétrico de David Maranha, alude a essa tempestade contemporânea como pano de fundo para esta música inquietante urdida a dois.</p>
+<p>Este cenário não escapou à lente do Free Jazz Blog, que acompanhou uma crítica de nota máxima com a descrição do som “industrial, violento, sem melodias ou harmonias” que Maranha cria como base; depois, por cima dela, Amado “acalma, canta, lamenta, uiva, grita”, na criação de uma intensa banda sonora para um presente em chamas.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Amado_Maranha_by_Vera_Marmelo_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Canyon 01 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/canyon/</link>
+            <guid isPermaLink="false">b829cff5126d8c47d3facce909b7dd2f97e99d35155c97f5c7f62b4642f5d43f</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jerome Deupree											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Joe Morris											</span>
+														<span class="tw-ml-xs tw-text-sm">Contrabaixo</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Sylvie Courvoisier											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Lester St. Louis											</span>
+														<span class="tw-ml-xs tw-text-sm">Violoncelo</span>
+									</li>
+					</ul>
+<p>A música improvisada, assumida pelos seus melhores intérpretes, é como uma disputada competição desportiva de desfecho imprevisível. Com o original quarteto de Canyon é fácil de perceber que tudo é possível.</p>
+<p>O baterista Jerome Deupree deu ritmo ao rock alternativo dos Morphine; o violoncelista Lester St.Louis notabilizou-se na banda Fly or Die de Jamie Branch; o guitarrista Joe Morris é, para a revista The Wire, “um dos mais profundos improvisadores em atividade nos Estados Unidos”; a pianista Sylvie Courvoisier é um colosso de inventividade, descrita por Deupree como alguém que mantém o grupo “na ponta da cadeira, porque parece que o piano não a consegue conter”.</p>
+<p>Tudo, na verdade, é incontido em Canyon; a energia, a exploração sonora, a comunicação a quatro, a vibração, a urgência.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jerome Deupree											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Joe Morris											</span>
+														<span class="tw-ml-xs tw-text-sm">Contrabaixo</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Sylvie Courvoisier											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Lester St. Louis											</span>
+														<span class="tw-ml-xs tw-text-sm">Violoncelo</span>
+									</li>
+					</ul>
+<p>A música improvisada, assumida pelos seus melhores intérpretes, é como uma disputada competição desportiva de desfecho imprevisível. Com o original quarteto de Canyon é fácil de perceber que tudo é possível.</p>
+<p>O baterista Jerome Deupree deu ritmo ao rock alternativo dos Morphine; o violoncelista Lester St.Louis notabilizou-se na banda Fly or Die de Jamie Branch; o guitarrista Joe Morris é, para a revista The Wire, “um dos mais profundos improvisadores em atividade nos Estados Unidos”; a pianista Sylvie Courvoisier é um colosso de inventividade, descrita por Deupree como alguém que mantém o grupo “na ponta da cadeira, porque parece que o piano não a consegue conter”.</p>
+<p>Tudo, na verdade, é incontido em Canyon; a energia, a exploração sonora, a comunicação a quatro, a vibração, a urgência.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Canyon_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Fred Moten & Brandon Lopez 02 ago 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/agenda/fred-moten-brandon-lopez/</link>
+            <guid isPermaLink="false">3efb390582f333c362f9d637fdf10860e3229206aebe3ffe9f7515fa5550198e</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Fred Moten											</span>
+														<span class="tw-ml-xs tw-text-sm">Textos, Voz</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Brandon Lopez											</span>
+														<span class="tw-ml-xs tw-text-sm">Contrabaixo</span>
+									</li>
+					</ul>
+<p>Na sua escolha dos dez melhores álbuns de jazz editados em 2022, o New York Times escrevia sobre o precioso disco do contrabaixista Brandon López, do baterista Gerald Cleaver e do poeta Fred Moten notando como Moten “persegue um completo questionamento das formas como os sistemas de conhecimento negros foram explorados e descartados, tendo, ainda assim, renascido”.</p>
+<p>Em Revision, de 2025, Moten volta a trabalhar com López, num aprofundamento da relação entre a palavra indomada e a música fervente, extremamente visual. Revision é música de hoje, consciente da resposta à insanidade política atual e do permanente lugar de resistência na população afroamericana.</p>
+<p>Como escreve o site The Quietus, “não se trata bem de um apelo às armas, mas antes de um convite premente a repensarmos o nosso mundo”.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Fred Moten											</span>
+														<span class="tw-ml-xs tw-text-sm">Textos, Voz</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Brandon Lopez											</span>
+														<span class="tw-ml-xs tw-text-sm">Contrabaixo</span>
+									</li>
+					</ul>
+<p>Na sua escolha dos dez melhores álbuns de jazz editados em 2022, o New York Times escrevia sobre o precioso disco do contrabaixista Brandon López, do baterista Gerald Cleaver e do poeta Fred Moten notando como Moten “persegue um completo questionamento das formas como os sistemas de conhecimento negros foram explorados e descartados, tendo, ainda assim, renascido”.</p>
+<p>Em Revision, de 2025, Moten volta a trabalhar com López, num aprofundamento da relação entre a palavra indomada e a música fervente, extremamente visual. Revision é música de hoje, consciente da resposta à insanidade política atual e do permanente lugar de resistência na população afroamericana.</p>
+<p>Como escreve o site The Quietus, “não se trata bem de um apelo às armas, mas antes de um convite premente a repensarmos o nosso mundo”.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Fred_Moten_Brandon_Lopez_by_Pat_Cray_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Shardik 02 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/shardik-cruelty-bacchanal/</link>
+            <guid isPermaLink="false">7ed1f75d6e7f2436b3a73c2b177ce8c8a4c85b44ec365c3d3d16e939bf7388b9</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Shardik_by_DR_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto LUME – Lisbon Underground Music Ensemble 03 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/lume-lisbon-underground-music-ensemble/</link>
+            <guid isPermaLink="false">81b9dbc11fc57f47517333a3e3b77a450abdd774d65d95a58140a72c13ac9dd6</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/lume_semlogo-1_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Bonbon Flamme 04 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/bonbon-flamme/</link>
+            <guid isPermaLink="false">136b92079d66df795f1afc835156f4ae9f5ea31f99023bfac804338fc8057b44</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/BONBON_FLAMME_01_by_Istvan_Huszti_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto The Sleep Of Reason Produces Monsters 05 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/the-sleep-of-reason-produces-monsters/</link>
+            <guid isPermaLink="false">c1a0ff97b62c8b75fd07b7e3902be0cf1e4df55272793221dc4414749cee551d</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/TSORPM_by_Alexia_Toussaint_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Anna Webber: Shimmer Wince 06 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/anna-webber-shimmer-wince/</link>
+            <guid isPermaLink="false">b09f72119b72cdf3b08a9abe758919713849bc7541f69571e85a84edc9063929</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Anna_Webber_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Ches Smith: Clone Row 07 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/ches-smith-clone-row/</link>
+            <guid isPermaLink="false">794a4dbecb4d2ef5e1600560824e5857145870a152ad0f82abbc1db09b721191</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Ches_Smith_New_Quartet_by_Peter_Gannushkin_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Pat Thomas 08 ago 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/agenda/pat-thomas/</link>
+            <guid isPermaLink="false">0217d438db46146846dc091111b70cbdaa44797d2472c09e939acdd67bcff1b2</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Path-Thomas-c-Vera-Marmelo_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Tomas Fujiwara: Dream Up 08 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/tomas-fujiwara-dream-up/</link>
+            <guid isPermaLink="false">1f76cbdb930dfe44b637e8a6b99d5e54b56cd80ef8bb20e5f43400a4d0f87dd5</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Tomas_Fujiwara_02_by_Ernest_Stuart_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Chicago Underground Duo 09 ago 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/agenda/chicago-underground-duo-hyperglyph/</link>
+            <guid isPermaLink="false">70afb5d70979e4fbf875adf65187eb4554af2f0ec409b85abc22238e183c4725</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/CUD_by_DR_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto SML 09 ago 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/sml/</link>
+            <guid isPermaLink="false">2a02f9198764f66220592c0ceae82084826f6b09d8507b5841698c9b7db07c09</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/SML_by_Charlie_Weinmann_01_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Vale do Silêncio 05 set 2026 / 21:30]]></title>
+            <link>https://gulbenkian.pt/agenda/vale-do-silencio-3/</link>
+            <guid isPermaLink="false">9a2121fb0e7c1c6bd03dc67767a93bf71d964842f6a6c4771e906ece9d3949d2</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2025/07/Sofia_ConcertoValeSilencio_0609_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Kafka-Fragmente 09 set 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/kafka-fragmente/</link>
+            <guid isPermaLink="false">77d816ed9d40238740e94fde1f17b4a7bb905308afc53371e4d0dddcdea4f994</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/02_Marisol-Montalvo-e-Ava-Bahari_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto A Little Summer Suite 11 set 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/agenda/a-little-summer-suite/</link>
+            <guid isPermaLink="false">577cab5d0055e9cbfc782b53415fc0943b32496b25db606d02cf31f86055b5dc</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/03_Corinna-Niemeyer-C-Simon-Pauly_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Quarteto Diotima 12 set 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/agenda/quarteto-diotima/</link>
+            <guid isPermaLink="false">c0fe04cbe86ed596c7fe1923fc5d9bff8e7cd980def3f91684c2a49a6943728d</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/04_Quarteto-Diotima-C-Michel-Nguyen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conversas / Filme A Hard Day’s Night (1964) 19 set 2026 / 17:00]]></title>
+            <link>https://gulbenkian.pt/agenda/a-hard-days-night-1964/</link>
+            <guid isPermaLink="false">610a38d6587839a82b544fff84691f63dfda03bbadb3074a7e501d015804da4e</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/03/beatles-card-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto / Conversas Sammy Baloji. Missa Utica 19 set 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/sammy-baloji-missa-utica/</link>
+            <guid isPermaLink="false">ccef4a97c807f169342071a7d5b2bd1743f934e38ed616ec9661f60e1be1cb31</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/07/50-Kunsten-2024-KVS-Missa-Utica-3005-CLessire-CARD-1200x900-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conversas / Filme Don’t Look Back (1967) 19 set 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/dont-look-back-1967/</link>
+            <guid isPermaLink="false">af790e082f5bd3873f7a01b6dc8ac14af99b884dac61e359bfbcd640e7aa9bee</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/03/dylan_card-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conversas / Filme / Filme-Concerto The Last Waltz (1978) 20 set 2026 / 17:00]]></title>
+            <link>https://gulbenkian.pt/agenda/the-last-waltz-1978/</link>
+            <guid isPermaLink="false">21a49d8b2794c775826b07211b8957870e66ac5fb9100f377c2f6378e8c31526</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/03/the-band_cardjpg-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conversas / Filme / Filme-Concerto Stop Making Sense (1984) 20 set 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/stop-making-sense-1984/</link>
+            <guid isPermaLink="false">6cffdbef259355c5befac474703815c3b306da18fdbb700b90de5e3630ae3037</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/03/talkingheads_card-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Serenata para Cordas de Tchaikovsky 24 set 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/serenata-para-cordas-de-tchaikovsky/</link>
+            <guid isPermaLink="false">106fc9ac8ab0030d92407c13310e5aac0f73aa8c299fca42fb8cd8eb845f4eb2</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/05_andrej-power-ns-212_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conversas / Filme / Filme-Concerto Summer of Soul (2021) 26 set 2026 / 16:00]]></title>
+            <link>https://gulbenkian.pt/agenda/summer-of-soul-2021/</link>
+            <guid isPermaLink="false">82566db87b3d7ff334c81210a5744fd2b986fb322c6d42c58c37fab09c63f6d8</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/03/summer_card-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conversas / Filme Purple Rain (1984) 27 set 2026 / 16:00]]></title>
+            <link>https://gulbenkian.pt/agenda/purple-rain-1984/</link>
+            <guid isPermaLink="false">3bea04efb7452fb603699fae098df0f43396f766ac204413339ca9d6c84087cc</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/03/Prince_card-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Oedipus Rex 01 out 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/oedipus-rex/</link>
+            <guid isPermaLink="false">07362b347a9ec2f2f04d31fd7cc270c2367920d247995c266eb0388ba4fe41f4</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/06_5H0A6024_Hannu-Lintu_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transmissão Così fan tutte 03 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/cosi-fan-tutte-4/</link>
+            <guid isPermaLink="false">11f85fd3d52f68ec5755d8baed24037fc97132f4a411b12f668bced7c29bc924</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/07_MET_DSC_9382_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Concerto para Piano n.º 2 de Prokofiev 08 out 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/concerto-para-piano-n-o-2-de-prokofiev/</link>
+            <guid isPermaLink="false">fe02688304e89f46c01103c246f7ee65f4e34d8cab3f595011b9237e75ee30df</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/08_Yeol-Eum-Som-C-DR_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Dal:um 10 out 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/agenda/dalum/</link>
+            <guid isPermaLink="false">d7667ccc5f6c40d5ffeda5cd36c01e21fb7056a3006c8669e207f4f91720bc5f</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/09_Dal-um-by-Jaeyoung-Park_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Beatrice Rana 11 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/beatrice-rana-4/</link>
+            <guid isPermaLink="false">2f9f7d75de3c2647b112c7c4960b85e68d4b6340553365074ff88934d333bd23</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/10_Beatrice-Rana-C-Nicolas-Bets_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Sinfonia n.º 2 de Brahms 15 out 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/sinfonia-n-o-2-de-brahms/</link>
+            <guid isPermaLink="false">31be8371e6678cc73ada0cbd6efe252572999199ee62ff2e96101c512294dd1f</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/11_Pawel-Kapula-C-Kamil-Szkopik_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transmissão Macbeth 17 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/macbeth/</link>
+            <guid isPermaLink="false">1cd2bc8251a4eaf5557fc2e21e906ada3ad957c4e5be985010dd5cbc8bf24008</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/12_MET_Macbeth-programme-image-new-silhouette-less-smoke_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Trio Amatis / Thomas Quasthoff 18 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/trio-amatis-thomas-quasthoff/</link>
+            <guid isPermaLink="false">b531dde2bb740fdeac3ae063ff4ee36cf9d932060fb0c7b22612d439e051048a</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/13_Thomas-Quasthoff-c-Gregor-Hohenberg_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Coro Gulbenkian a cappella 21 out 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/coro-gulbenkian-a-cappella-20/</link>
+            <guid isPermaLink="false">aea3dd24df70c4eb3bb1b3d846a3dec4c49fbc3d1e375a4eeee849fde26ad774</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/14_MartinaBatic_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Evgeny Kissin / András Schiff 22 out 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/evgeny-kissin-andras-schiff/</link>
+            <guid isPermaLink="false">3f2fe8008b756dc28a9fcec5f6676924bb72ea4137f09b57cfea53c2763dd4c9</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/15_Evgeny-Kissin-e-Andras-Schif_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Viagem à América 25 out 2026 / 11:00]]></title>
+            <link>https://gulbenkian.pt/agenda/viagem-a-america/</link>
+            <guid isPermaLink="false">04fcd14e7c91e3a9a0695eda4d33dec6a3b90f2f4bc3250e5cc2fa3f38747e0c</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/16_Mariano-Chiacchiarini_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Concerto para Violoncelo de Dvořák 29 out 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/concerto-para-violoncelo-de-dvorak/</link>
+            <guid isPermaLink="false">5c479aa19187333bcfa0bd7355c5c3cc1efef6071fca3f6eae29528960a7c28b</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/17_Maximilian_Hornung-C-Julia-Wesely_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apoios Portugal + Preparado Apoio a um projeto que contribua para desenvolver uma cultura de prevenção e resiliência sísmica em Portugal até 31 ago 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/portugal-preparado/</link>
+            <guid isPermaLink="false">fe4f0fe5bd96b8a704dbae0467b5b380643f19b45a2226629321c7431c538ddd</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apoios Financiamento de base a organizações ambientais Reforçar a capacidade de atuação de organizações dedicadas à conservação da natureza e da biodiversidade. até 07 set 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/financiamento-de-base-a-organizacoes-ambientais/</link>
+            <guid isPermaLink="false">bb1bd70fa134bf5094caa1c73a803cf22508ac9f7b9e5ec2678f29ccb924a7c5</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apoios Comunidades de Energia Gulbenkian Apoio a projetos comunitários de energia renovável que promovam uma participação ativa dos cidadãos na transição energética. até 16 set 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/comunidades-de-energia-gulbenkian/</link>
+            <guid isPermaLink="false">12c5cf3abda4701c463607bbf53231f95a3dce5918d9813a3192c9608cc1e0e2</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bolsas Bolsas Gulbenkian Novos Talentos Estas bolsas de estudo destinam-se a estudantes excecionais no ensino superior português, promovendo o seu talento e estimulando a iniciação à investigação. 01 – 30 set 2026]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/novos-talentos/</link>
+            <guid isPermaLink="false">5aa820ae0daf91984fafc396c281cddd9e7974a1e5bfb866268f142f425ec468</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bolsas Bolsas Gulbenkian Professores Visitantes nas Humanidades Estas bolsas são destinadas a Instituições de Ensino Superior Portuguesas que queiram receber professores visitantes de universidades estrangeiras na área das Humanidades. até 30 set 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/bolsas-gulbenkian-professores-visitantes-nas-humanidades/</link>
+            <guid isPermaLink="false">caa0a918e37abdea6bb550b49858fe6cd0b9dc865c711c15db686b08cbabad2b</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bolsas Bolsas Gulbenkian Institute for Advanced Study Estas bolsas destinam-se a apoiar académicos de renome internacional na realização de investigação livre, durante um período limitado, num ambiente intelectual estimulante e com poucas obrigações regulares. até 15 out 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/bolsas-gulbenkian-institute-for-advanced-study/</link>
+            <guid isPermaLink="false">225d24f1c145c4e72723e8815bd18ffdc4b92cf16cc3bdf7180f61525e7a9ac3</guid>
+            <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
