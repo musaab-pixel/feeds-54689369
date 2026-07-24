@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 21:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 21:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة أحد العاملين بمبنى الاتصالات في…]]></title>
+            <link>https://t.me/aljazeeraBrk/228428</link>
+            <guid isPermaLink="false">6f2195acc81fb32ccd59f07d73a98339d3b03e26d962e8c8ec84d48240db476e</guid>
+            <pubDate>Fri, 24 Jul 2026 21:04:14 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة أحد العاملين بمبنى الاتصالات في الهجوم السعودي على مدينة الحديدة]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة أحد العاملين بمبنى الاتصالات في الهجوم السعودي على مدينة الحديدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات سعودية استهدفت ميناء الحديدة…]]></title>
             <link>https://t.me/aljazeeraBrk/228427</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 06:32:02 GMT</pubDate>
             <description><![CDATA[سموتريتش: أبناء مستوطنة حفات جلعاد هم حماة دولة إسرائيل وسوف نستمر في دعمهم]]></description>
             <content:encoded><![CDATA[سموتريتش: أبناء مستوطنة حفات جلعاد هم حماة دولة إسرائيل وسوف نستمر في دعمهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></title>
-            <link>https://t.me/aljazeeraBrk/228228</link>
-            <guid isPermaLink="false">e6bf3e38fad869110d31d937255b8a3a26ada7b1e20a637650cf7e3343b5c8ca</guid>
-            <pubDate>Fri, 24 Jul 2026 06:22:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
