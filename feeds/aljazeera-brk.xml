@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 21:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 21:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القناة 12 الإسرائيلية: الخطوط الجوية النمساوية وشركة آي تي أيه تلغيان رحلات…]]></title>
+            <link>https://t.me/aljazeeraBrk/228429</link>
+            <guid isPermaLink="false">77d452de1837c768bd8c8de796145a523da8a12229050fed63332019afbd7f27</guid>
+            <pubDate>Fri, 24 Jul 2026 21:23:02 GMT</pubDate>
+            <description><![CDATA[القناة 12 الإسرائيلية: الخطوط الجوية النمساوية وشركة آي تي أيه تلغيان رحلات لإسرائيل وسط مخاوف من التصعيد]]></description>
+            <content:encoded><![CDATA[القناة 12 الإسرائيلية: الخطوط الجوية النمساوية وشركة آي تي أيه تلغيان رحلات لإسرائيل وسط مخاوف من التصعيد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة أحد العاملين بمبنى الاتصالات في…]]></title>
             <link>https://t.me/aljazeeraBrk/228428</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 06:32:02 GMT</pubDate>
             <description><![CDATA[سموتريتش: أدعو الجيش للعمل بقوة ضد كل قرية فلسطينية تنفذ منها عملية وما حولها من بلدات من أجل فرض السيادة]]></description>
             <content:encoded><![CDATA[سموتريتش: أدعو الجيش للعمل بقوة ضد كل قرية فلسطينية تنفذ منها عملية وما حولها من بلدات من أجل فرض السيادة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سموتريتش: أبناء مستوطنة حفات جلعاد هم حماة دولة إسرائيل وسوف نستمر في دعمهم]]></title>
-            <link>https://t.me/aljazeeraBrk/228230</link>
-            <guid isPermaLink="false">45ccab21c104494ec8ed634a6a14e577b8be673f5a4174fca5c4a604f5e16fb3</guid>
-            <pubDate>Fri, 24 Jul 2026 06:32:02 GMT</pubDate>
-            <description><![CDATA[سموتريتش: أبناء مستوطنة حفات جلعاد هم حماة دولة إسرائيل وسوف نستمر في دعمهم]]></description>
-            <content:encoded><![CDATA[سموتريتش: أبناء مستوطنة حفات جلعاد هم حماة دولة إسرائيل وسوف نستمر في دعمهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
