@@ -883,6 +883,116 @@
             <link>https://gulbenkian.pt/agenda/shardik-cruelty-bacchanal/</link>
             <guid isPermaLink="false">7ed1f75d6e7f2436b3a73c2b177ce8c8a4c85b44ec365c3d3d16e939bf7388b9</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Matt Hollenberg											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Sana Nagano											</span>
+														<span class="tw-ml-xs tw-text-sm">Violino acústico e elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Nick Jost											</span>
+														<span class="tw-ml-xs tw-text-sm">Baixo elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Danny Sher											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+					</ul>
+<p>Cruelty Bacchanal, escreve Matt Hollenberg, “é sobre a erosão da empatia – sobre como a celebração da violência e o abraço do niilismo se tornaram uma demonstração de força na sociedade moderna”. É assim que o líder dos Shardik pensa o segundo álbum do grupo para a Tzadik, música feita de peças que se partem e se reorganizam de forma diferente.</p>
+<p>Numa mistura de códigos do heavy metal, do free jazz e da composição clássica, buscando sempre escapes sonoros não cartografados, a guitarra de Hollenberg alia-se ao violino de Sana Nagano, ao baixo de Nick Jost e à bateria de Danny Sher.</p>
+<p>Segundo o site <em>Everythings Is Noise</em>, as “nuances vagamente do Leste Europeu” juntam-se a uma “evocação deliberada das festas romanas de outrora”, espelho de um mundo em convulsão (política, humana e social).</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Matt Hollenberg											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Sana Nagano											</span>
+														<span class="tw-ml-xs tw-text-sm">Violino acústico e elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Nick Jost											</span>
+														<span class="tw-ml-xs tw-text-sm">Baixo elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Danny Sher											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+					</ul>
+<p>Cruelty Bacchanal, escreve Matt Hollenberg, “é sobre a erosão da empatia – sobre como a celebração da violência e o abraço do niilismo se tornaram uma demonstração de força na sociedade moderna”. É assim que o líder dos Shardik pensa o segundo álbum do grupo para a Tzadik, música feita de peças que se partem e se reorganizam de forma diferente.</p>
+<p>Numa mistura de códigos do heavy metal, do free jazz e da composição clássica, buscando sempre escapes sonoros não cartografados, a guitarra de Hollenberg alia-se ao violino de Sana Nagano, ao baixo de Nick Jost e à bateria de Danny Sher.</p>
+<p>Segundo o site <em>Everythings Is Noise</em>, as “nuances vagamente do Leste Europeu” juntam-se a uma “evocação deliberada das festas romanas de outrora”, espelho de um mundo em convulsão (política, humana e social).</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Shardik_by_DR_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -890,6 +1000,228 @@
             <link>https://gulbenkian.pt/agenda/lume-lisbon-underground-music-ensemble/</link>
             <guid isPermaLink="false">81b9dbc11fc57f47517333a3e3b77a450abdd774d65d95a58140a72c13ac9dd6</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									segunda, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Marco Barroso​											</span>
+														<span class="tw-ml-xs tw-text-sm">Composição, Direção, Piano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Manuel Luís Cochofel​											</span>
+														<span class="tw-ml-xs tw-text-sm">Flauta</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Paulo Gaspar​											</span>
+														<span class="tw-ml-xs tw-text-sm">Clarinete soprano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													João Pedro Silva											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone soprano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Tomás Marques											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone alto</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gonçalo Prazeres											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone tenor</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Joana Sá											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone barítono</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gileno Santana											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Alexandra Caeiro											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													João Silva​											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Rúben da Luz											</span>
+														<span class="tw-ml-xs tw-text-sm">Trombone</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Eduardo Lála											</span>
+														<span class="tw-ml-xs tw-text-sm">Trombone</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mário Vicente​											</span>
+														<span class="tw-ml-xs tw-text-sm">Trombone</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Ricardo Marques											</span>
+														<span class="tw-ml-xs tw-text-sm">Baixo elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													João Sousa​											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+					</ul>
+<p>No seu 20.º aniversário, o projeto criado e liderado por Marco Barroso traz ao Jazz em Agosto uma visão singular e irreverente da sonoridade de big band.</p>
+<p>Composto por músicos de jazz e de música erudita, o LUME explora o vocabulário típico da composição para este tipo de formação, mas brincando tanto com os seus lugares-comuns, quanto injetando-lhe referências do rock, da música popular, do jazz vanguardista, da música escrita contemporânea ou do experimentalismo.</p>
+<p>Para o site <em>London Jazz News</em>, “Marco Barroso desenvolveu no LUME um organismo sonoro de funcionamento singular, percetível também na [sua] forma minimalista de regência”.</p>
+<p>O ponto de partida é sempre o mesmo: pensar cada composição como um lugar de infinitas possibilidades e uma oportunidade para apontar a um diferente horizonte.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									segunda, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Marco Barroso​											</span>
+														<span class="tw-ml-xs tw-text-sm">Composição, Direção, Piano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Manuel Luís Cochofel​											</span>
+														<span class="tw-ml-xs tw-text-sm">Flauta</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Paulo Gaspar​											</span>
+														<span class="tw-ml-xs tw-text-sm">Clarinete soprano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													João Pedro Silva											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone soprano</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Tomás Marques											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone alto</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gonçalo Prazeres											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone tenor</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Joana Sá											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone barítono</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gileno Santana											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Alexandra Caeiro											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													João Silva​											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Rúben da Luz											</span>
+														<span class="tw-ml-xs tw-text-sm">Trombone</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Eduardo Lála											</span>
+														<span class="tw-ml-xs tw-text-sm">Trombone</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mário Vicente​											</span>
+														<span class="tw-ml-xs tw-text-sm">Trombone</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Ricardo Marques											</span>
+														<span class="tw-ml-xs tw-text-sm">Baixo elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													João Sousa​											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+					</ul>
+<p>No seu 20.º aniversário, o projeto criado e liderado por Marco Barroso traz ao Jazz em Agosto uma visão singular e irreverente da sonoridade de big band.</p>
+<p>Composto por músicos de jazz e de música erudita, o LUME explora o vocabulário típico da composição para este tipo de formação, mas brincando tanto com os seus lugares-comuns, quanto injetando-lhe referências do rock, da música popular, do jazz vanguardista, da música escrita contemporânea ou do experimentalismo.</p>
+<p>Para o site <em>London Jazz News</em>, “Marco Barroso desenvolveu no LUME um organismo sonoro de funcionamento singular, percetível também na [sua] forma minimalista de regência”.</p>
+<p>O ponto de partida é sempre o mesmo: pensar cada composição como um lugar de infinitas possibilidades e uma oportunidade para apontar a um diferente horizonte.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/lume_semlogo-1_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -897,6 +1229,116 @@
             <link>https://gulbenkian.pt/agenda/bonbon-flamme/</link>
             <guid isPermaLink="false">136b92079d66df795f1afc835156f4ae9f5ea31f99023bfac804338fc8057b44</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Valentin Ceccaldi											</span>
+														<span class="tw-ml-xs tw-text-sm">Violoncelo, Sintetizador</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Luís Lopes											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica, Sintetizador</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Fulco Ottervanger											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano, Sintetizador, Voz</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Étienne Ziemniak											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Eletrónica, Sintetizador</span>
+									</li>
+					</ul>
+<p>Após uma intensa viagem ao México, Valentin Ceccaldi, violoncelista e fundador do coletivo Bonbon Flamme, regressou a casa com vontade de compor música que se alimentasse de tudo aquilo que tinha absorvido: as cores vibrantes da natureza e das ruas, a acidez dos limões, a doçura dos abacates, o fogo das malaguetas, a omnipresença da violência e da morte, a relação com os antepassados e a religião.</p>
+<p>Tudo isso está presente no segundo álbum do quarteto, Calaveras y Boom Boom Chupitos, Acompanhado por outros três incendiários músicos (Luís Lopes, Etienne Ziemniak e Fulco Ottervanger), Ceccaldi comanda uma música com “uma enorme amplitude de cores” e que acrescenta “peças atmosféricas, ocasionais melodias infantis e um toque de ragtime”, segundo a UK Jazz News.</p>
+<p>Tudo magnificamente delirante.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Valentin Ceccaldi											</span>
+														<span class="tw-ml-xs tw-text-sm">Violoncelo, Sintetizador</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Luís Lopes											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica, Sintetizador</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Fulco Ottervanger											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano, Sintetizador, Voz</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Étienne Ziemniak											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Eletrónica, Sintetizador</span>
+									</li>
+					</ul>
+<p>Após uma intensa viagem ao México, Valentin Ceccaldi, violoncelista e fundador do coletivo Bonbon Flamme, regressou a casa com vontade de compor música que se alimentasse de tudo aquilo que tinha absorvido: as cores vibrantes da natureza e das ruas, a acidez dos limões, a doçura dos abacates, o fogo das malaguetas, a omnipresença da violência e da morte, a relação com os antepassados e a religião.</p>
+<p>Tudo isso está presente no segundo álbum do quarteto, Calaveras y Boom Boom Chupitos, Acompanhado por outros três incendiários músicos (Luís Lopes, Etienne Ziemniak e Fulco Ottervanger), Ceccaldi comanda uma música com “uma enorme amplitude de cores” e que acrescenta “peças atmosféricas, ocasionais melodias infantis e um toque de ragtime”, segundo a UK Jazz News.</p>
+<p>Tudo magnificamente delirante.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/BONBON_FLAMME_01_by_Istvan_Huszti_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -904,6 +1346,116 @@
             <link>https://gulbenkian.pt/agenda/the-sleep-of-reason-produces-monsters/</link>
             <guid isPermaLink="false">c1a0ff97b62c8b75fd07b7e3902be0cf1e4df55272793221dc4414749cee551d</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gabriele Mitelli											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete piccolo, Eletrónica, Voz</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mette Rasmussen											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone alto</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mariam Rezaei											</span>
+														<span class="tw-ml-xs tw-text-sm">Gira-discos</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Lukas König											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Pratos amplificados, Sintetizador</span>
+									</li>
+					</ul>
+<p>Um ano depois da sua arrasadora passagem pelo Jazz em Agosto, Mariam Rezaei volta ao festival com a sua ferocidade criativa a partir dos sons altamente experimentais que retira do gira-discos.</p>
+<p>O quarteto, que integra também Mette Rasmussen, Gabriele Mitelli e Lukas König (saxofone, trompete piccolo e bateria respetivamente), assume a designação de uma obra de Goya e dinamita géneros como prática quotidiana. “Ao integrar noise, jazz, música eletrónica e pura loucura”, este quarteto, diz em jeito de apresentação, “não se senta passivamente à espera de que algo aconteça”.</p>
+<p>Em vez disso, entregando-se a uma improvisação febril, o grupo (cuja estreia em disco se deu em 2025) inventa uma música que, nas palavras da revista <em>The Wire</em>, resulta num “soberbo, absorvente álbum – reflexivo e criativo”.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gabriele Mitelli											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete piccolo, Eletrónica, Voz</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mette Rasmussen											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone alto</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mariam Rezaei											</span>
+														<span class="tw-ml-xs tw-text-sm">Gira-discos</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Lukas König											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Pratos amplificados, Sintetizador</span>
+									</li>
+					</ul>
+<p>Um ano depois da sua arrasadora passagem pelo Jazz em Agosto, Mariam Rezaei volta ao festival com a sua ferocidade criativa a partir dos sons altamente experimentais que retira do gira-discos.</p>
+<p>O quarteto, que integra também Mette Rasmussen, Gabriele Mitelli e Lukas König (saxofone, trompete piccolo e bateria respetivamente), assume a designação de uma obra de Goya e dinamita géneros como prática quotidiana. “Ao integrar noise, jazz, música eletrónica e pura loucura”, este quarteto, diz em jeito de apresentação, “não se senta passivamente à espera de que algo aconteça”.</p>
+<p>Em vez disso, entregando-se a uma improvisação febril, o grupo (cuja estreia em disco se deu em 2025) inventa uma música que, nas palavras da revista <em>The Wire</em>, resulta num “soberbo, absorvente álbum – reflexivo e criativo”.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/TSORPM_by_Alexia_Toussaint_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -911,6 +1463,126 @@
             <link>https://gulbenkian.pt/agenda/anna-webber-shimmer-wince/</link>
             <guid isPermaLink="false">b09f72119b72cdf3b08a9abe758919713849bc7541f69571e85a84edc9063929</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quinta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Anna Webber											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone tenor, Flauta</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Adam O’Farrill											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mariel Roberts											</span>
+														<span class="tw-ml-xs tw-text-sm">Violoncelo</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Elias Stemeseder											</span>
+														<span class="tw-ml-xs tw-text-sm">Sintetizador</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Lesley Mok											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+					</ul>
+<p>Flautista, saxofonista e compositora, Anna Webber conquistou nos últimos anos um merecido e destacado lugar na cena jazzística nova-iorquina, cimentando uma reputação de música inovadora e elevada às listas de melhores discos do ano por meios como o <em>New York Times</em> e a <em>National Public Radio</em>.</p>
+<p>Para este quinteto, formado por outros pontas-de-lança do jazz norte-americano (Adam O’Farrill, Mariel Roberts, Elias Stemeseder e Lesley Mok), Webber escreveu música a partir de um antigo sistema de afinação, baseado em harmónicos naturais e na ressonância das notas.</p>
+<p>Segundo o <em>Free Jazz Collective</em>, “os arranjos, a orquestração e a performance criam um sentido de profundidade, momento e teatralidade, que contribuem para a qualidade narrativa desta música altamente envolvente.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quinta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Anna Webber											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone tenor, Flauta</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Adam O’Farrill											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mariel Roberts											</span>
+														<span class="tw-ml-xs tw-text-sm">Violoncelo</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Elias Stemeseder											</span>
+														<span class="tw-ml-xs tw-text-sm">Sintetizador</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Lesley Mok											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria</span>
+									</li>
+					</ul>
+<p>Flautista, saxofonista e compositora, Anna Webber conquistou nos últimos anos um merecido e destacado lugar na cena jazzística nova-iorquina, cimentando uma reputação de música inovadora e elevada às listas de melhores discos do ano por meios como o <em>New York Times</em> e a <em>National Public Radio</em>.</p>
+<p>Para este quinteto, formado por outros pontas-de-lança do jazz norte-americano (Adam O’Farrill, Mariel Roberts, Elias Stemeseder e Lesley Mok), Webber escreveu música a partir de um antigo sistema de afinação, baseado em harmónicos naturais e na ressonância das notas.</p>
+<p>Segundo o <em>Free Jazz Collective</em>, “os arranjos, a orquestração e a performance criam um sentido de profundidade, momento e teatralidade, que contribuem para a qualidade narrativa desta música altamente envolvente.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Anna_Webber_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -918,6 +1590,118 @@
             <link>https://gulbenkian.pt/agenda/ches-smith-clone-row/</link>
             <guid isPermaLink="false">794a4dbecb4d2ef5e1600560824e5857145870a152ad0f82abbc1db09b721191</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sexta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Ches Smith											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Vibrafone, Eletrónica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mary Halvorson											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Liberty Ellman											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Nick Dunston											</span>
+														<span class="tw-ml-xs tw-text-sm">Contrabaixo, Eletrónica</span>
+									</li>
+					</ul>
+<p>Perante a enorme originalidade da música composta por Ches Smith para o projeto Clone Row, Marc Ribot aventurou-se a escrever que é como “escutar um concerto de Jim Hall sob o efeito de muitos cogumelos” ou, em alternativa, “uma experiência pós-punk, pós-Dave Brubeck, pós-trip-hop com forma clássica”.</p>
+<p>Se o talento de Ches Smith é por demais conhecido na qualidade de baterista (Darius Jones, John Zorn, Tim Berne e muitos outros), Clone Row é uma fulgurante demonstração da sua soberba imaginação enquanto compositor, encaminhada para esta formação que partilha com duas guitarras, um baixo e eletrónica.</p>
+<p>Música desconcertante, em que cada composição explora um novo ângulo de como tangenciar os diferentes estilos das guitarras de Mary Halvorson e Liberty Ellman.</p>
+<p>Uma explosão de ideias.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sexta, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Ches Smith											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Vibrafone, Eletrónica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mary Halvorson											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Liberty Ellman											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Nick Dunston											</span>
+														<span class="tw-ml-xs tw-text-sm">Contrabaixo, Eletrónica</span>
+									</li>
+					</ul>
+<p>Perante a enorme originalidade da música composta por Ches Smith para o projeto Clone Row, Marc Ribot aventurou-se a escrever que é como “escutar um concerto de Jim Hall sob o efeito de muitos cogumelos” ou, em alternativa, “uma experiência pós-punk, pós-Dave Brubeck, pós-trip-hop com forma clássica”.</p>
+<p>Se o talento de Ches Smith é por demais conhecido na qualidade de baterista (Darius Jones, John Zorn, Tim Berne e muitos outros), Clone Row é uma fulgurante demonstração da sua soberba imaginação enquanto compositor, encaminhada para esta formação que partilha com duas guitarras, um baixo e eletrónica.</p>
+<p>Música desconcertante, em que cada composição explora um novo ângulo de como tangenciar os diferentes estilos das guitarras de Mary Halvorson e Liberty Ellman.</p>
+<p>Uma explosão de ideias.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Ches_Smith_New_Quartet_by_Peter_Gannushkin_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -925,6 +1709,84 @@
             <link>https://gulbenkian.pt/agenda/pat-thomas/</link>
             <guid isPermaLink="false">0217d438db46146846dc091111b70cbdaa44797d2472c09e939acdd67bcff1b2</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Pat Thomas											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<p>Presença assídua do Jazz em Agosto nos últimos anos, tendo atuado com os coletivos Ahmed, The Locals ou X-Ray Hex Tet, o britânico Pat Thomas apresenta-se, desta vez, num concerto de piano solo, baseado no álbum Hikmah (2025).</p>
+<p>Hikmah, palavra árabe que significa “sabedoria ou conhecimento”, é o guarda-chuva temático para um álbum que, escreve Marc Corrotto no <em>All About Jazz</em>, “reafirma Pat Thomas como uma voz singular na música improvisada”.</p>
+<p>“Thomas convida o ouvinte a concentrar-se profundamente, mas também a deixar-se levar sem rédeas, como se estivesse dividido entre a oração e o sonho. A sua mão esquerda serve muitas vezes de âncora, enquanto a direita mergulha no desconhecido.” Como se o mundo espiritual e o terreno habitassem, em simultâneo, as teclas do seu piano.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Pat Thomas											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<p>Presença assídua do Jazz em Agosto nos últimos anos, tendo atuado com os coletivos Ahmed, The Locals ou X-Ray Hex Tet, o britânico Pat Thomas apresenta-se, desta vez, num concerto de piano solo, baseado no álbum Hikmah (2025).</p>
+<p>Hikmah, palavra árabe que significa “sabedoria ou conhecimento”, é o guarda-chuva temático para um álbum que, escreve Marc Corrotto no <em>All About Jazz</em>, “reafirma Pat Thomas como uma voz singular na música improvisada”.</p>
+<p>“Thomas convida o ouvinte a concentrar-se profundamente, mas também a deixar-se levar sem rédeas, como se estivesse dividido entre a oração e o sonho. A sua mão esquerda serve muitas vezes de âncora, enquanto a direita mergulha no desconhecido.” Como se o mundo espiritual e o terreno habitassem, em simultâneo, as teclas do seu piano.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Path-Thomas-c-Vera-Marmelo_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -932,6 +1794,116 @@
             <link>https://gulbenkian.pt/agenda/tomas-fujiwara-dream-up/</link>
             <guid isPermaLink="false">1f76cbdb930dfe44b637e8a6b99d5e54b56cd80ef8bb20e5f43400a4d0f87dd5</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Tomas Fujiwara											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Composição</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Ches Smith											</span>
+														<span class="tw-ml-xs tw-text-sm">Vibrafone, Percussão</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Kaoru Watanabe											</span>
+														<span class="tw-ml-xs tw-text-sm">Tambores Taiko, Flautas japonesas</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Kweku Sumbry											</span>
+														<span class="tw-ml-xs tw-text-sm">Djembe, Balafon, Ngoni</span>
+									</li>
+					</ul>
+<p>Dream Up é o quarteto de percussão de Tomas Fujiwara, um dos membros mais ativos, ubíquos e criativos do jazz nova-iorquino.</p>
+<p>Colaborador habitual de Taylor Ho Bynum, Mary Halvorson ou Tomeka Reid, Fujiwara lança-se agora numa sonoridade percussiva partilhada com Kaoru Watanabe, Ches Smith e Kweku Sumbry, larga o suficiente para incluir vibrafone, o ngoni africano ou a flauta japonesa shinobue.</p>
+<p>Para o <em>Jazz Trail</em>, as peças de Fujiwara constroem “uma ponte entre o ensemble de percussão M’Boom de Max Roach e as preciosidades do vibrafonista Bobby Hutcherson para a Blue Note nos anos 60 e 70”.&nbsp; A mesma crítica elogia “a inteligência rítmica, o virtuosismo deslumbrante e a imaginação destemida” de Fujiwara, tanto homenageando várias e distintas tradições quanto buscando uma perspetiva inovadora.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Tomas Fujiwara											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Composição</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Ches Smith											</span>
+														<span class="tw-ml-xs tw-text-sm">Vibrafone, Percussão</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Kaoru Watanabe											</span>
+														<span class="tw-ml-xs tw-text-sm">Tambores Taiko, Flautas japonesas</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Kweku Sumbry											</span>
+														<span class="tw-ml-xs tw-text-sm">Djembe, Balafon, Ngoni</span>
+									</li>
+					</ul>
+<p>Dream Up é o quarteto de percussão de Tomas Fujiwara, um dos membros mais ativos, ubíquos e criativos do jazz nova-iorquino.</p>
+<p>Colaborador habitual de Taylor Ho Bynum, Mary Halvorson ou Tomeka Reid, Fujiwara lança-se agora numa sonoridade percussiva partilhada com Kaoru Watanabe, Ches Smith e Kweku Sumbry, larga o suficiente para incluir vibrafone, o ngoni africano ou a flauta japonesa shinobue.</p>
+<p>Para o <em>Jazz Trail</em>, as peças de Fujiwara constroem “uma ponte entre o ensemble de percussão M’Boom de Max Roach e as preciosidades do vibrafonista Bobby Hutcherson para a Blue Note nos anos 60 e 70”.&nbsp; A mesma crítica elogia “a inteligência rítmica, o virtuosismo deslumbrante e a imaginação destemida” de Fujiwara, tanto homenageando várias e distintas tradições quanto buscando uma perspetiva inovadora.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Tomas_Fujiwara_02_by_Ernest_Stuart_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -939,6 +1911,94 @@
             <link>https://gulbenkian.pt/agenda/chicago-underground-duo-hyperglyph/</link>
             <guid isPermaLink="false">70afb5d70979e4fbf875adf65187eb4554af2f0ec409b85abc22238e183c4725</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Chad Taylor											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Percussão, Mbira, Kalimba</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Rob Mazurek											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete, Trompete piccolo, Piano elétrico, Sintetizadores modulares, Samplers, Voz, Flauta, Sinos</span>
+									</li>
+					</ul>
+<p>Rob Mazurek e Chad Taylor puseram fim ao longo silêncio de 11 anos do emblemático Chicago Underground Duo com a edição pela International Anthem de Hyperglyph, um festim de jazz em colisão com a linguagem desconstruída do pós-rock, um cardápio rítmico de tradição africana e a exuberância experimental da eletrónica.</p>
+<p>O reencontro de Mazurek e Taylor acontece depois das suas experiências com os coletivos Exploding Star Orchestra, Fly or Die (de Jaimie Branch) e Marshall Allen’s Ghost Horizons, num diálogo que alia a percussão em estado de transe de Taylor aos constantes movimentos centrífugos de Mazurek, com recurso a uma ampla panóplia de instrumentos e a uma dimensão multimédia guardada para os palcos.</p>
+<p>Um prodigioso lugar entre a selva e a cidade, entre a ancestralidade e a projeção futura.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Chad Taylor											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Percussão, Mbira, Kalimba</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Rob Mazurek											</span>
+														<span class="tw-ml-xs tw-text-sm">Trompete, Trompete piccolo, Piano elétrico, Sintetizadores modulares, Samplers, Voz, Flauta, Sinos</span>
+									</li>
+					</ul>
+<p>Rob Mazurek e Chad Taylor puseram fim ao longo silêncio de 11 anos do emblemático Chicago Underground Duo com a edição pela International Anthem de Hyperglyph, um festim de jazz em colisão com a linguagem desconstruída do pós-rock, um cardápio rítmico de tradição africana e a exuberância experimental da eletrónica.</p>
+<p>O reencontro de Mazurek e Taylor acontece depois das suas experiências com os coletivos Exploding Star Orchestra, Fly or Die (de Jaimie Branch) e Marshall Allen’s Ghost Horizons, num diálogo que alia a percussão em estado de transe de Taylor aos constantes movimentos centrífugos de Mazurek, com recurso a uma ampla panóplia de instrumentos e a uma dimensão multimédia guardada para os palcos.</p>
+<p>Um prodigioso lugar entre a selva e a cidade, entre a ancestralidade e a projeção futura.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/CUD_by_DR_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -946,6 +2006,124 @@
             <link>https://gulbenkian.pt/agenda/sml/</link>
             <guid isPermaLink="false">2a02f9198764f66220592c0ceae82084826f6b09d8507b5841698c9b7db07c09</guid>
             <pubDate>Fri, 24 Jul 2026 07:18:19 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Anna Butterss											</span>
+														<span class="tw-ml-xs tw-text-sm">Baixo elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jeremiah Chiu											</span>
+														<span class="tw-ml-xs tw-text-sm">Sintetizador, Sampling, Percussão</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Josh Johnson											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone, Eletrónica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Booker Stardrum											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Percussão</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gregory Uhlmann											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica, Efeitos</span>
+									</li>
+					</ul>
+<p>Quando o quinteto SML (Small Medium Large), supergrupo formado por Anna Butterss, Jeremiah Chiu, Josh Johnson, Booker Stardum e Gregory Uhlmann, se estreou em 2024, a <i>Pitchfork</i> qualificou esse álbum como “um emocionante marco” na música vanguardista contemporânea, sugerindo que o SML “pode sinalizar uma nova iteração do jazz, ou pode até nem sequer ser jazz, ou pode nem sequer importar”.</p>
+<p>Na música do SML, dá-se a implosão dos vários géneros musicais que o grupo cita a dada altura, numa atitude de voracidade que esgota possibilidades, logo se cansando e seguindo noutra direção. Cada instrumento, tal como acontecia no princípio da fase elétrica de Miles Davis (2026 é o ano do seu centenário), transcende a sua característica sonora e funciona como portal para uma outra surpreendente dimensão.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 21:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<p>Jardim Gulbenkian</p>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Anna Butterss											</span>
+														<span class="tw-ml-xs tw-text-sm">Baixo elétrico</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jeremiah Chiu											</span>
+														<span class="tw-ml-xs tw-text-sm">Sintetizador, Sampling, Percussão</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Josh Johnson											</span>
+														<span class="tw-ml-xs tw-text-sm">Saxofone, Eletrónica</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Booker Stardrum											</span>
+														<span class="tw-ml-xs tw-text-sm">Bateria, Percussão</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Gregory Uhlmann											</span>
+														<span class="tw-ml-xs tw-text-sm">Guitarra elétrica, Efeitos</span>
+									</li>
+					</ul>
+<p>Quando o quinteto SML (Small Medium Large), supergrupo formado por Anna Butterss, Jeremiah Chiu, Josh Johnson, Booker Stardum e Gregory Uhlmann, se estreou em 2024, a <i>Pitchfork</i> qualificou esse álbum como “um emocionante marco” na música vanguardista contemporânea, sugerindo que o SML “pode sinalizar uma nova iteração do jazz, ou pode até nem sequer ser jazz, ou pode nem sequer importar”.</p>
+<p>Na música do SML, dá-se a implosão dos vários géneros musicais que o grupo cita a dada altura, numa atitude de voracidade que esgota possibilidades, logo se cansando e seguindo noutra direção. Cada instrumento, tal como acontecia no princípio da fase elétrica de Miles Davis (2026 é o ano do seu centenário), transcende a sua característica sonora e funciona como portal para uma outra surpreendente dimensão.</p>
+<p class="tw-text-xs tw-leading-snug tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/SML_by_Charlie_Weinmann_01_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
