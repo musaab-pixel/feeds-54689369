@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 08:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 08:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن بيانات ملاحية: حركة السفن في مضيق هرمز استقرت عند 3 سفن يوميا خلال…]]></title>
+            <link>https://t.me/aljazeeraBrk/228262</link>
+            <guid isPermaLink="false">e386382bb3e19dba2aec16a8ff14192724312d8a7114463d321c636af7041889</guid>
+            <pubDate>Fri, 24 Jul 2026 08:50:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن بيانات ملاحية: حركة السفن في مضيق هرمز استقرت عند 3 سفن يوميا خلال الأيام الثلاثة الماضية]]></description>
+            <content:encoded><![CDATA[رويترز عن بيانات ملاحية: حركة السفن في مضيق هرمز استقرت عند 3 سفن يوميا خلال الأيام الثلاثة الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[موقع كبلر للبيانات الملاحية: تراجع عدد السفن التي عبرت مضيق باب المندب إلى 12…]]></title>
             <link>https://t.me/aljazeeraBrk/228261</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 12:05:03 GMT</pubDate>
             <description><![CDATA[ترمب: الاتفاق النووي مع السعودية سيحظى بالموافقة لكنه مشروط بانضمامها لاتفاقيات أبراهام]]></description>
             <content:encoded><![CDATA[ترمب: الاتفاق النووي مع السعودية سيحظى بالموافقة لكنه مشروط بانضمامها لاتفاقيات أبراهام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: الاتفاق مع السعودية يظل مشروطا بالكامل بانضمامها لاتفاقيات أبراهام]]></title>
-            <link>https://t.me/aljazeeraBrk/228062</link>
-            <guid isPermaLink="false">e730a4fa2a0362398af4610cf3350002464819462c4cbc37baf0cd39f76ab3ce</guid>
-            <pubDate>Thu, 23 Jul 2026 12:04:02 GMT</pubDate>
-            <description><![CDATA[ترمب: الاتفاق مع السعودية يظل مشروطا بالكامل بانضمامها لاتفاقيات أبراهام]]></description>
-            <content:encoded><![CDATA[ترمب: الاتفاق مع السعودية يظل مشروطا بالكامل بانضمامها لاتفاقيات أبراهام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
