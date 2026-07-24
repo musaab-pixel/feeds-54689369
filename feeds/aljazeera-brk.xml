@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 03:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 03:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عراقجي: بمجرد أن تعتبر الحكومات مصادرة الأموال أمرا طبيعيا لن تكون أصول أحد في…]]></title>
+            <link>https://t.me/aljazeeraBrk/228204</link>
+            <guid isPermaLink="false">3946c8629b5fb1cf2b8a1ef7f26044db2adcc016eff9d10c176bd8f6e7210bad</guid>
+            <pubDate>Fri, 24 Jul 2026 03:04:02 GMT</pubDate>
+            <description><![CDATA[عراقجي: بمجرد أن تعتبر الحكومات مصادرة الأموال أمرا طبيعيا لن تكون أصول أحد في مأمن والفوضى لن تكون سلمية]]></description>
+            <content:encoded><![CDATA[عراقجي: بمجرد أن تعتبر الحكومات مصادرة الأموال أمرا طبيعيا لن تكون أصول أحد في مأمن والفوضى لن تكون سلمية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: الاستيلاء على أصول دولة أخرى لسداد مطالبات مستقبلية غير ذات صلة سابقة…]]></title>
             <link>https://t.me/aljazeeraBrk/228203</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 06:16:03 GMT</pubDate>
             <description><![CDATA[رويترز عن بيانات ملاحية: 5 ناقلات نفط غيرت مسارها في البحر الأحمر لتجنب مضيق باب المندب يوم الأربعاء]]></description>
             <content:encoded><![CDATA[رويترز عن بيانات ملاحية: 5 ناقلات نفط غيرت مسارها في البحر الأحمر لتجنب مضيق باب المندب يوم الأربعاء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن بيانات ملاحية: 3 ناقلات محملة بالنفط متجهة إلى الصين والهند عادت…]]></title>
-            <link>https://t.me/aljazeeraBrk/228005</link>
-            <guid isPermaLink="false">b47724d2d57edaf9e7e2b5db75edd8052adf63394ec425dde7df8a1dd99a1053</guid>
-            <pubDate>Thu, 23 Jul 2026 06:16:03 GMT</pubDate>
-            <description><![CDATA[رويترز عن بيانات ملاحية: 3 ناقلات محملة بالنفط متجهة إلى الصين والهند عادت أدراجها من باب المندب يوم الثلاثاء]]></description>
-            <content:encoded><![CDATA[رويترز عن بيانات ملاحية: 3 ناقلات محملة بالنفط متجهة إلى الصين والهند عادت أدراجها من باب المندب يوم الثلاثاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
