@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 03:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 04:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حاكم مقاطعة لينينغراد الروسية: 3 مصابين في هجوم أوكراني بالمسيرات على مستودعات…]]></title>
+            <link>https://t.me/aljazeeraBrk/228206</link>
+            <guid isPermaLink="false">83bbc8f8f4a725be1390e95f8feb740c469b24d0c54840fe753c1999e170167e</guid>
+            <pubDate>Fri, 24 Jul 2026 04:46:02 GMT</pubDate>
+            <description><![CDATA[حاكم مقاطعة لينينغراد الروسية: 3 مصابين في هجوم أوكراني بالمسيرات على مستودعات تجارية في المقاطعة]]></description>
+            <content:encoded><![CDATA[حاكم مقاطعة لينينغراد الروسية: 3 مصابين في هجوم أوكراني بالمسيرات على مستودعات تجارية في المقاطعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة فارس عن مسؤول بمحافظة لورستان: إصابة شخصين في هجوم بطائرة مسيرة على خرم…]]></title>
             <link>https://t.me/aljazeeraBrk/228205</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 06:19:03 GMT</pubDate>
             <description><![CDATA[رويترز عن مسؤولين أمريكيين: تهديد الحوثيين بفرض حصار في باب المندب قد يوسع نطاق الحرب ويرهق الجيش الأمريكي]]></description>
             <content:encoded><![CDATA[رويترز عن مسؤولين أمريكيين: تهديد الحوثيين بفرض حصار في باب المندب قد يوسع نطاق الحرب ويرهق الجيش الأمريكي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن مصدر أمني بحري: ناقلة نفط أرسلت نداء استغاثة بعد تعرضها لهجوم صاروخي…]]></title>
-            <link>https://t.me/aljazeeraBrk/228006</link>
-            <guid isPermaLink="false">62363a1d9cbfc7f62b51d7d39c08d75ecffe81e15334739e21ce26699d9d87d2</guid>
-            <pubDate>Thu, 23 Jul 2026 06:18:03 GMT</pubDate>
-            <description><![CDATA[رويترز عن مصدر أمني بحري: ناقلة نفط أرسلت نداء استغاثة بعد تعرضها لهجوم صاروخي في البحر الأحمر  مساء الأربعاء]]></description>
-            <content:encoded><![CDATA[رويترز عن مصدر أمني بحري: ناقلة نفط أرسلت نداء استغاثة بعد تعرضها لهجوم صاروخي في البحر الأحمر  مساء الأربعاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
