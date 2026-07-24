@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 07:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 07:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: استشهاد شاب متأثرا بإصابته برصاص الاحتلال عند حاجز مخيم شعفاط…]]></title>
+            <link>https://t.me/aljazeeraBrk/228244</link>
+            <guid isPermaLink="false">c3ab471123e29506ad56e33005f1174096683d0fe07997c018c373ea7bf3343f</guid>
+            <pubDate>Fri, 24 Jul 2026 07:40:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: استشهاد شاب متأثرا بإصابته برصاص الاحتلال عند حاجز مخيم شعفاط بقضاء القدس فجر اليوم]]></description>
+            <content:encoded><![CDATA[محافظة القدس: استشهاد شاب متأثرا بإصابته برصاص الاحتلال عند حاجز مخيم شعفاط بقضاء القدس فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: عشرات المستوطنين يهاجمون منازل الفلسطينيين في قرية جيت شرقي…]]></title>
             <link>https://t.me/aljazeeraBrk/228243</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 09:45:03 GMT</pubDate>
             <description><![CDATA[العقود الآجلة للنفط الأمريكي ترتفع ٤%؜ متجاوزة 90 دولارا للبرميل  في أعلى مستوى منذ يونيو]]></description>
             <content:encoded><![CDATA[العقود الآجلة للنفط الأمريكي ترتفع ٤%؜ متجاوزة 90 دولارا للبرميل  في أعلى مستوى منذ يونيو]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[يسرائيل هيوم عن مصادر: إصابة إسرائيلي عقب طعنه قرب مستوطنة ألون موريه وإطلاق…]]></title>
-            <link>https://t.me/aljazeeraBrk/228044</link>
-            <guid isPermaLink="false">42450e5b239049da0bf1ee067165b0cd71e08845065b12bf671b71b18bbcda8a</guid>
-            <pubDate>Thu, 23 Jul 2026 09:35:03 GMT</pubDate>
-            <description><![CDATA[يسرائيل هيوم عن مصادر: إصابة إسرائيلي عقب طعنه قرب مستوطنة ألون موريه وإطلاق النار على فلسطينيين اثنين]]></description>
-            <content:encoded><![CDATA[يسرائيل هيوم عن مصادر: إصابة إسرائيلي عقب طعنه قرب مستوطنة ألون موريه وإطلاق النار على فلسطينيين اثنين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
