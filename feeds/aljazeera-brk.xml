@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 03:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 03:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة فارس عن مسؤول بمحافظة لورستان: إصابة شخصين في هجوم بطائرة مسيرة على خرم…]]></title>
+            <link>https://t.me/aljazeeraBrk/228205</link>
+            <guid isPermaLink="false">32b554612fe34f58d54dff6885464cb2f9f97cdaf4e53f1d19fc176324c90478</guid>
+            <pubDate>Fri, 24 Jul 2026 03:31:02 GMT</pubDate>
+            <description><![CDATA[وكالة فارس عن مسؤول بمحافظة لورستان: إصابة شخصين في هجوم بطائرة مسيرة على خرم آباد]]></description>
+            <content:encoded><![CDATA[وكالة فارس عن مسؤول بمحافظة لورستان: إصابة شخصين في هجوم بطائرة مسيرة على خرم آباد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: بمجرد أن تعتبر الحكومات مصادرة الأموال أمرا طبيعيا لن تكون أصول أحد في…]]></title>
             <link>https://t.me/aljazeeraBrk/228204</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 06:18:03 GMT</pubDate>
             <description><![CDATA[رويترز عن مصدر أمني بحري: ناقلة نفط أرسلت نداء استغاثة بعد تعرضها لهجوم صاروخي في البحر الأحمر  مساء الأربعاء]]></description>
             <content:encoded><![CDATA[رويترز عن مصدر أمني بحري: ناقلة نفط أرسلت نداء استغاثة بعد تعرضها لهجوم صاروخي في البحر الأحمر  مساء الأربعاء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن بيانات ملاحية: 5 ناقلات نفط غيرت مسارها في البحر الأحمر لتجنب مضيق…]]></title>
-            <link>https://t.me/aljazeeraBrk/228004</link>
-            <guid isPermaLink="false">41c77f2c1e0e7332848c035f9b249b074cd3b9a9344dfbfae6276c65cf253539</guid>
-            <pubDate>Thu, 23 Jul 2026 06:16:03 GMT</pubDate>
-            <description><![CDATA[رويترز عن بيانات ملاحية: 5 ناقلات نفط غيرت مسارها في البحر الأحمر لتجنب مضيق باب المندب يوم الأربعاء]]></description>
-            <content:encoded><![CDATA[رويترز عن بيانات ملاحية: 5 ناقلات نفط غيرت مسارها في البحر الأحمر لتجنب مضيق باب المندب يوم الأربعاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
