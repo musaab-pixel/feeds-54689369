@@ -1,0 +1,93 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "medwomensfund.org",
+    "home_page_url": "https://www.medwomensfund.org/",
+    "description": "RSS Factory feed \"medwomensfund.org\" (type: website)",
+    "items": [
+        {
+            "id": "f1c9e43269439d204105e826b9f3a0437c5a3c32e375e1bc33786ec93dc8a262",
+            "url": "https://www.medwomensfund.org/nous-connaitre/notre-vision.html",
+            "title": "Notre Vision",
+            "image": "https://www.medwomensfund.org/files/114.jpg",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "bd6d0f37668c99f1e4b2db76a2af08f8fc18de714ba14b39f0358469b194d984",
+            "url": "https://www.medwomensfund.org/nous-connaitre/notre-equipe.html",
+            "title": "Notre Équipe",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "76a6e5863fa5eb64f67e8e9b1b73727fb7198feeadb26e66efdf5ecbecb0d191",
+            "url": "https://www.medwomensfund.org/nous-connaitre/notre-fonctionnement.html",
+            "title": "Notre Fonctionnement",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "58d2fbeb8ce75e4a50103197e35fdf5248bcbc5d07eb6edf6dc9b71f73fd8358",
+            "url": "https://www.medwomensfund.org/nous-connaitre/nos-partenaires.html",
+            "title": "Nos Partenaires",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "d9a496070906b21d7baafae14700326ad27ac493e868242566830ff379dd07e9",
+            "url": "https://www.medwomensfund.org/nos-programmes/formation-feministe.html",
+            "title": "Formation Féministe",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "bbd6b871a87d14184d2a081bc560abb983be7a40e726dd325d5b815f294da6af",
+            "url": "https://www.medwomensfund.org/nos-programmes/soutien-aux-initiatives.html",
+            "title": "Soutien aux initiatives",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "6edd3803fd801fc6140425b7ca6f774f547f76a184c38d9d0c71bd4bf9a1730e",
+            "url": "https://www.medwomensfund.org/nos-programmes/rencontres-stratgiques.html",
+            "title": "Rencontres Stratégiques",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "1ce61bd25cfee60b7bfe8e0b4ceb48d9c17801db9d08d7ecd0fcc213b1b82f40",
+            "url": "https://www.medwomensfund.org/nos-programmes/plaidoyer.html",
+            "title": "Plaidoyer",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "c97eb37673766e4392d0229b29d0a3b9db69be43f48bb87c3e5f0671e78a4bd9",
+            "url": "https://www.medwomensfund.org/nos-programmes/coalition-pour-une-philanthropie-feministe.html",
+            "title": "Coalition pour une Philanthropie Féministe",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "b8a467049342c5d320bc5460de64eb8da98b383d1d7aa204c679780b0ce2a7ce",
+            "url": "https://www.medwomensfund.org/associations/",
+            "title": "Associations",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "e32776deec7f98abe6daaaa838c82114e07a1e66ec31650206e09d0caded7a19",
+            "url": "https://www.medwomensfund.org/agir-avec-nous/professionnel.html",
+            "title": "Professionnel.le",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "20060b409f5c910f5adef5165425470a9cdc478a47be48ef8c757906fd0bbb0b",
+            "url": "https://www.medwomensfund.org/agir-avec-nous/nous-rejoindre.html",
+            "title": "Nous rejoindre",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "0ad69488667149c3ced99b964d6196b0e5f0972f928147b982de4025cf7b5694",
+            "url": "https://www.medwomensfund.org/agir-avec-nous/particulier.html",
+            "title": "Particulier.e",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        },
+        {
+            "id": "0b82e81a1e32bd49fbebf0e910ac8f5eca0206099f9f470dc63e0975acedb83b",
+            "url": "https://www.medwomensfund.org/appel-projets-cerv/appel-a-projet.html",
+            "title": "SEE CHANGE (clôturé)",
+            "date_modified": "2026-07-24T08:36:01.951Z"
+        }
+    ]
+}
