@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 18:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 18:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني عن مصدر: الجيش الأمريكي هاجم ناقلة قادمة من بحر عمان ظنا منه…]]></title>
+            <link>https://t.me/aljazeeraBrk/228411</link>
+            <guid isPermaLink="false">cf670c29d74332dc2f1a38758c1bb2847928f406db37c6e4993d8f7a981a7f8b</guid>
+            <pubDate>Fri, 24 Jul 2026 18:47:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني عن مصدر: الجيش الأمريكي هاجم ناقلة قادمة من بحر عمان ظنا منه أنها تنقل غازا إيرانيا]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني عن مصدر: الجيش الأمريكي هاجم ناقلة قادمة من بحر عمان ظنا منه أنها تنقل غازا إيرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نيويورك تايمز عن مصادر: ترمب اجتمع بكبار مستشاريه وأعضاء إدارته لدراسة ما إذا…]]></title>
             <link>https://t.me/aljazeeraBrk/228410</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 05:39:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن إطلاق نار في البؤرة الاستيطانية حفات جلعاد بشمال الضفة الغريية]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن إطلاق نار في البؤرة الاستيطانية حفات جلعاد بشمال الضفة الغريية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإيراني: أي إجراء يتخذ ضد مصالحنا القانونية سيقوض الأمن والمصالح…]]></title>
-            <link>https://t.me/aljazeeraBrk/228211</link>
-            <guid isPermaLink="false">76c463da58406f84782ae13bb31a03b2c9ad2b1184eb08733c09939267c354b3</guid>
-            <pubDate>Fri, 24 Jul 2026 05:10:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإيراني: أي إجراء يتخذ ضد مصالحنا القانونية سيقوض الأمن والمصالح الاقتصادية لباقي دول المنطقة]]></description>
-            <content:encoded><![CDATA[الجيش الإيراني: أي إجراء يتخذ ضد مصالحنا القانونية سيقوض الأمن والمصالح الاقتصادية لباقي دول المنطقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
