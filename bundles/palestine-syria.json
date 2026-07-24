@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "0388f915027dc30de6fb6a90cf2b6ac6a88f0cd1c81032529fad9918ce4fe7b9",
+            "content_html": "بلومبرغ عن مصادر: ترمب يشعر بإحباط متزايد إزاء مسار الحرب ويرغب بزيادة كلفتها على إيران",
+            "url": "https://t.me/aljazeeraBrk/228412",
+            "title": "بلومبرغ عن مصادر: ترمب يشعر بإحباط متزايد إزاء مسار الحرب ويرغب بزيادة كلفتها…",
+            "summary": "بلومبرغ عن مصادر: ترمب يشعر بإحباط متزايد إزاء مسار الحرب ويرغب بزيادة كلفتها على إيران",
+            "date_modified": "2026-07-24T18:57:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "cf670c29d74332dc2f1a38758c1bb2847928f406db37c6e4993d8f7a981a7f8b",
             "content_html": "التلفزيون الإيراني عن مصدر: الجيش الأمريكي هاجم ناقلة قادمة من بحر عمان ظنا منه أنها تنقل غازا إيرانيا",
             "url": "https://t.me/aljazeeraBrk/228411",
@@ -1644,17 +1655,6 @@
             "date_modified": "2026-07-24T10:24:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "778a3938913462151c0719fa0c1794c235514eb37593d5e8852aec1d02b1de05",
-            "content_html": "<b>الدفاع المدني:</b> انتشال جثمانَي طفلين شقيقين توفيا غرقاً أثناء السباحة في ساقية ري قرب بلدة تل حاصل شرقي حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138695",
-            "title": "الدفاع المدني: انتشال جثمانَي طفلين شقيقين توفيا غرقاً أثناء السباحة في ساقية…",
-            "summary": "<b>الدفاع المدني:</b> انتشال جثمانَي طفلين شقيقين توفيا غرقاً أثناء السباحة في ساقية ري قرب بلدة تل حاصل شرقي حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-07-24T10:22:13.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

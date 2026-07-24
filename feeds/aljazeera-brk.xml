@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 18:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 19:07:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بلومبرغ عن مصادر: ترمب يشعر بإحباط متزايد إزاء مسار الحرب ويرغب بزيادة كلفتها…]]></title>
+            <link>https://t.me/aljazeeraBrk/228412</link>
+            <guid isPermaLink="false">0388f915027dc30de6fb6a90cf2b6ac6a88f0cd1c81032529fad9918ce4fe7b9</guid>
+            <pubDate>Fri, 24 Jul 2026 18:57:02 GMT</pubDate>
+            <description><![CDATA[بلومبرغ عن مصادر: ترمب يشعر بإحباط متزايد إزاء مسار الحرب ويرغب بزيادة كلفتها على إيران]]></description>
+            <content:encoded><![CDATA[بلومبرغ عن مصادر: ترمب يشعر بإحباط متزايد إزاء مسار الحرب ويرغب بزيادة كلفتها على إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني عن مصدر: الجيش الأمريكي هاجم ناقلة قادمة من بحر عمان ظنا منه…]]></title>
             <link>https://t.me/aljazeeraBrk/228411</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 05:43:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام إسرائيلية عن مصدر: أنباء أولية عن إصابة ضابط وحارس أمن بإطلاق النار قرب مستوطنة حفات جلعاد]]></description>
             <content:encoded><![CDATA[وسائل إعلام إسرائيلية عن مصدر: أنباء أولية عن إصابة ضابط وحارس أمن بإطلاق النار قرب مستوطنة حفات جلعاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن إطلاق نار في البؤرة الاستيطانية حفات جلعاد بشمال…]]></title>
-            <link>https://t.me/aljazeeraBrk/228212</link>
-            <guid isPermaLink="false">0815abcb346140f3e30908d6991ed211435dc3f012995a552c8e2e417a8cf86d</guid>
-            <pubDate>Fri, 24 Jul 2026 05:39:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن إطلاق نار في البؤرة الاستيطانية حفات جلعاد بشمال الضفة الغريية]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن إطلاق نار في البؤرة الاستيطانية حفات جلعاد بشمال الضفة الغريية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
