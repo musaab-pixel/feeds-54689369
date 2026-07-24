@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"Barak Ravid — باراك رافيد (X)\" (type: x)",
     "items": [
         {
+            "id": "ec8bd2432fd3318efea962837cdc1dec6076e7a2220d360dca3e4c640bcb550c",
+            "content_html": "<p>The <a href=\"https://x.com/axios\" title=\"Axios\">@axios</a> team is in the house</p>\n<img src=\"https://pbs.twimg.com/media/HOB5TJUXcAApGjR.jpg\" style=\"max-width:250px;\" />",
+            "url": "https://x.com/BarakRavid/status/2080796408492274022",
+            "title": "The @axios team is in the house",
+            "summary": "<p>The <a href=\"https://x.com/axios\" title=\"Axios\">@axios</a> team is in the house</p>\n<img src=\"https://pbs.twimg.com/media/HOB5TJUXcAApGjR.jpg\" style=\"max-width:250px;\" />",
+            "image": "https://pbs.twimg.com/media/HOB5TJUXcAApGjR.jpg",
+            "date_modified": "2026-07-24T23:24:57.000Z",
+            "author": {
+                "name": "@BarakRavid"
+            }
+        },
+        {
             "id": "c648b46d0187eb996879e7724ecc019720e99ad4a8610bfbcd0ed610b8f52d50",
             "content_html": "<p>🚨The member states of the International Criminal Court voted today by a large majority to dismiss Prosecutor Karim Khan over the sexual misconduct scandal<br>\n🚨Khan made the decision to issue arrest warrants against Israeli Prime Minister Netanyahu and former Defense Minister Galant over alleged committing war crimes in Gaza<br>\n🚨82 member states voted in favor of dismissing Khan, 13 against, 15 abstained<br>\n🚨A senior Israeli official said that in recent days Foreign Minister Gideon Sa'ar and Israeli embassies around the world have been working to mobilize as many countries as possible to vote in favor of his dismissal</p>",
             "url": "https://x.com/BarakRavid/status/2080718985515925692",
