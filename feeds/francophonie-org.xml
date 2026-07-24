@@ -4,10 +4,243 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 08:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 13:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[1ère édition du Forum Francophonie 4.0]]></title>
+            <link>https://www.francophonie.org/1ere-edition-du-forum-francophonie-40-8603</link>
+            <guid isPermaLink="false">e993880b434ed9ad5e82285d0fb51e05f8a0611ef343d6208815bc68e06b940c</guid>
+            <pubDate>Fri, 24 Jul 2026 10:21:55 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">1ère édition du Forum Francophonie 4.0</span>
+
+  <div class="field field--name-field-date-de-l-evenement-debut field--type-datetime field--label-above">
+    <div class="field__label">Date de l'événement (Début)</div>
+              <div class="field__item"><time datetime="2026-09-23T00:00:01Z" class="datetime">mer 23/09/2026 - 02:00</time></div>
+          </div>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 24/07/2026 - 10:21</span>
+
+  <div class="field field--name-field-date-de-l-evenement-fin field--type-datetime field--label-above">
+    <div class="field__label">Date de l'événement (Fin)</div>
+              <div class="field__item"><time datetime="2026-09-23T23:59:59Z" class="datetime">jeu 24/09/2026 - 01:59</time></div>
+          </div>
+
+  <div class="field field--name-field-ville-evenement field--type-string field--label-above">
+    <div class="field__label">Ville</div>
+              <div class="field__item">Bruxelles</div>
+          </div>
+
+  <div class="field field--name-field-pays-evenement field--type-string field--label-above">
+    <div class="field__label">Pays</div>
+              <div class="field__item">Belgique</div>
+          </div>
+    <div class="paragraph paragraph--type--zone-video paragraph--view-mode--default">
+          
+  <div class="field field--name-field-illustration-zone-video field--type-image field--label-above">
+    <div class="field__label">Illustration zone vidéo</div>
+              <div class="field__item">  <img src="https://www.francophonie.org/sites/default/files/2026-07/Forum%20Francophonie%204.0%20%281%29.png" width="970" height="400" alt=" Forum Francophonie 4.0" typeof="foaf:Image" /></div>
+          </div>
+
+      </div>
+
+
+  <div class="field field--name-field-mettre-en-avant-dans-l-age field--type-boolean field--label-above">
+    <div class="field__label">Mettre en avant dans l’agenda</div>
+              <div class="field__item">Désactivé</div>
+          </div>
+  <div class="item">
+  <div class="detailblock rounded bg-white p-4">
+    <h6 class="Libre-bold">Participer à distance</h6>
+    <p class="py-4">Inscriptions ouvertes jusqu'au 22 septembre 2026</p>
+    <a href="https://us06web.zoom.us/webinar/register/WN_04gAdV2JTlWne43dCXF0sw" class="btn btn-outline-orange rounded-50">S'inscrire<i class="fa fa-long-arrow-right pl-2"></i></a>
+  </div>
+</div>
+
+  <div class="item">
+  <div class="detailblock rounded bg-white p-4">
+    <h6 class="Libre-bold">Participer en présentiel</h6>
+    <p class="py-4">Inscriptions ouvertes jusqu'au 2 septembre 2026, avec un nombre de prises en charge limité.</p>
+    <a href="https://appelsaprojets.francophonie.org/fr/applications/forumfrancophonie40" class="btn btn-outline-orange rounded-50">S'inscrire<i class="fa fa-long-arrow-right pl-2"></i></a>
+  </div>
+</div>
+
+  <div class="item">
+  <div class="detailblock rounded bg-white p-4">
+    <h6 class="Libre-bold">Programme</h6>
+    <p class="py-4">Retrouvez l'agenda détaillé de l'évènement</p>
+    <a href="https://www.francophonie.org/sites/default/files/2026-07/Forum%20Francophonie%204.0.pdf" class="btn btn-outline-orange rounded-50">Découvrir<i class="fa fa-long-arrow-right pl-2"></i></a>
+  </div>
+</div>
+
+    <div class="paragraph paragraph--type--zone-reseaux-sociaux paragraph--view-mode--default">
+          
+  <div class="field field--name-field-hashtag-de-l-evenement field--type-string field--label-visually_hidden">
+    <div class="field__label visually-hidden">Hashtag de l’événement</div>
+              <div class="field__item">#ForumFrancophonie</div>
+          </div>
+
+      </div>
+
+  
+
+<div class="col-12 col-sm-6 col-lg-4 mb-4">
+  <div class="media docblock">
+    <div class="docimage mr-3">
+      <a href="https://www.francophonie.org/"><img src="https://www.francophonie.org/" alt="" class="img-fluid" /></a>
+    </div>
+    <div class="media-body doccontent">
+      <a href="https://www.francophonie.org/">
+        <h6 class="Libre-bold"></h6>
+      </a>
+      <p class="year mb-0">     <br />            
+                -
+                  0 Ko
+        </p>
+    </div>
+  </div>
+</div>
+
+      <div class="row">
+    <div class="col-12 col-lg-12">
+      <div id="partner" class="owllist owl-carousel owl-theme">
+                  <div class="item">
+            <div class="partner-logo text-center">
+              <a href=""><img src="https://www.francophonie.org/" alt="" class="img-fluid" /></a>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page Actualités et médias</div>
+              <div class="field__item">Activé</div>
+          </div>
+
+  <div class="clearfix text-formatted field field--name-field-zone-texte-principal field--type-text-long field--label-above">
+    <div class="field__label">Zone Texte Principal</div>
+              <div class="field__item"><h3 class="h3content">Organisé par l'OIF, le Forum Francophonie 4.0 vise à créer un espace de dialogue multipartite permettant d’identifier les opportunités et défis liés à l’intelligence artificielle et à l’innovation locale pour construire des trajectoires de développement inclusif et durable dans l’espace francophone à l’horizon 2030.</h3></div>
+          </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">1ère édition du Forum Francophonie 4.0</span>
+
+  <div class="field field--name-field-date-de-l-evenement-debut field--type-datetime field--label-above">
+    <div class="field__label">Date de l'événement (Début)</div>
+              <div class="field__item"><time datetime="2026-09-23T00:00:01Z" class="datetime">mer 23/09/2026 - 02:00</time></div>
+          </div>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 24/07/2026 - 10:21</span>
+
+  <div class="field field--name-field-date-de-l-evenement-fin field--type-datetime field--label-above">
+    <div class="field__label">Date de l'événement (Fin)</div>
+              <div class="field__item"><time datetime="2026-09-23T23:59:59Z" class="datetime">jeu 24/09/2026 - 01:59</time></div>
+          </div>
+
+  <div class="field field--name-field-ville-evenement field--type-string field--label-above">
+    <div class="field__label">Ville</div>
+              <div class="field__item">Bruxelles</div>
+          </div>
+
+  <div class="field field--name-field-pays-evenement field--type-string field--label-above">
+    <div class="field__label">Pays</div>
+              <div class="field__item">Belgique</div>
+          </div>
+    <div class="paragraph paragraph--type--zone-video paragraph--view-mode--default">
+          
+  <div class="field field--name-field-illustration-zone-video field--type-image field--label-above">
+    <div class="field__label">Illustration zone vidéo</div>
+              <div class="field__item">  <img src="https://www.francophonie.org/sites/default/files/2026-07/Forum%20Francophonie%204.0%20%281%29.png" width="970" height="400" alt=" Forum Francophonie 4.0" typeof="foaf:Image" /></div>
+          </div>
+
+      </div>
+
+
+  <div class="field field--name-field-mettre-en-avant-dans-l-age field--type-boolean field--label-above">
+    <div class="field__label">Mettre en avant dans l’agenda</div>
+              <div class="field__item">Désactivé</div>
+          </div>
+  <div class="item">
+  <div class="detailblock rounded bg-white p-4">
+    <h6 class="Libre-bold">Participer à distance</h6>
+    <p class="py-4">Inscriptions ouvertes jusqu'au 22 septembre 2026</p>
+    <a href="https://us06web.zoom.us/webinar/register/WN_04gAdV2JTlWne43dCXF0sw" class="btn btn-outline-orange rounded-50">S'inscrire<i class="fa fa-long-arrow-right pl-2"></i></a>
+  </div>
+</div>
+
+  <div class="item">
+  <div class="detailblock rounded bg-white p-4">
+    <h6 class="Libre-bold">Participer en présentiel</h6>
+    <p class="py-4">Inscriptions ouvertes jusqu'au 2 septembre 2026, avec un nombre de prises en charge limité.</p>
+    <a href="https://appelsaprojets.francophonie.org/fr/applications/forumfrancophonie40" class="btn btn-outline-orange rounded-50">S'inscrire<i class="fa fa-long-arrow-right pl-2"></i></a>
+  </div>
+</div>
+
+  <div class="item">
+  <div class="detailblock rounded bg-white p-4">
+    <h6 class="Libre-bold">Programme</h6>
+    <p class="py-4">Retrouvez l'agenda détaillé de l'évènement</p>
+    <a href="https://www.francophonie.org/sites/default/files/2026-07/Forum%20Francophonie%204.0.pdf" class="btn btn-outline-orange rounded-50">Découvrir<i class="fa fa-long-arrow-right pl-2"></i></a>
+  </div>
+</div>
+
+    <div class="paragraph paragraph--type--zone-reseaux-sociaux paragraph--view-mode--default">
+          
+  <div class="field field--name-field-hashtag-de-l-evenement field--type-string field--label-visually_hidden">
+    <div class="field__label visually-hidden">Hashtag de l’événement</div>
+              <div class="field__item">#ForumFrancophonie</div>
+          </div>
+
+      </div>
+
+  
+
+<div class="col-12 col-sm-6 col-lg-4 mb-4">
+  <div class="media docblock">
+    <div class="docimage mr-3">
+      <a href="https://www.francophonie.org/"><img src="https://www.francophonie.org/" alt="" class="img-fluid" /></a>
+    </div>
+    <div class="media-body doccontent">
+      <a href="https://www.francophonie.org/">
+        <h6 class="Libre-bold"></h6>
+      </a>
+      <p class="year mb-0">     <br />            
+                -
+                  0 Ko
+        </p>
+    </div>
+  </div>
+</div>
+
+      <div class="row">
+    <div class="col-12 col-lg-12">
+      <div id="partner" class="owllist owl-carousel owl-theme">
+                  <div class="item">
+            <div class="partner-logo text-center">
+              <a href=""><img src="https://www.francophonie.org/" alt="" class="img-fluid" /></a>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page Actualités et médias</div>
+              <div class="field__item">Activé</div>
+          </div>
+
+  <div class="clearfix text-formatted field field--name-field-zone-texte-principal field--type-text-long field--label-above">
+    <div class="field__label">Zone Texte Principal</div>
+              <div class="field__item"><h3 class="h3content">Organisé par l'OIF, le Forum Francophonie 4.0 vise à créer un espace de dialogue multipartite permettant d’identifier les opportunités et défis liés à l’intelligence artificielle et à l’innovation locale pour construire des trajectoires de développement inclusif et durable dans l’espace francophone à l’horizon 2030.</h3></div>
+          </div>
+]]></content:encoded>
+            <author>Montresor</author>
+        </item>
         <item>
             <title><![CDATA[Les Xes Jeux de la Francophonie entrent dans leur dernière année de préparation]]></title>
             <link>https://www.francophonie.org/les-xes-jeux-de-la-francophonie-entrent-dans-leur-derniere-annee-de-preparation-8602</link>
