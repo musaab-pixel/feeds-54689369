@@ -5,6 +5,61 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "31005e4085cdbfbf2d01824331545b7c98c2f1129d22f956962d150592d6641c",
+            "content_html": "الهلال الأحمر الفلسطيني: مصابان في هجوم مستوطنين على قرية فرعتا قرب قلقيلية شمالي الضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/228276",
+            "title": "الهلال الأحمر الفلسطيني: مصابان في هجوم مستوطنين على قرية فرعتا قرب قلقيلية…",
+            "summary": "الهلال الأحمر الفلسطيني: مصابان في هجوم مستوطنين على قرية فرعتا قرب قلقيلية شمالي الضفة الغربية",
+            "date_modified": "2026-07-24T09:50:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "ba873c0c85984ef6919c6bd673911330fed1afa44d69cfb0a85e19251ebb8d40",
+            "content_html": "وزارة الصحة الفلسطينية: 4 شهداء و4 مصابين برصاص الاحتلال الإسرائيلي في بلدة تل بنابلس بالضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/228275",
+            "title": "وزارة الصحة الفلسطينية: 4 شهداء و4 مصابين برصاص الاحتلال الإسرائيلي في بلدة تل…",
+            "summary": "وزارة الصحة الفلسطينية: 4 شهداء و4 مصابين برصاص الاحتلال الإسرائيلي في بلدة تل بنابلس بالضفة الغربية",
+            "date_modified": "2026-07-24T09:49:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "66e1fd5a64ecc47bb2a8ebd3a324eadada3aea9f1d8070189ffb739dc0f1cff4",
+            "content_html": "الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة لإنهاء الأعمال العسكرية بالخليج",
+            "url": "https://t.me/aljazeeraBrk/228274",
+            "title": "الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة…",
+            "summary": "الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة لإنهاء الأعمال العسكرية بالخليج",
+            "date_modified": "2026-07-24T09:46:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "99f337c69de57ebfc0a7962848235706aba278f044502cce65b6c51b2eb4f037",
+            "content_html": "مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي إماتين وفرعتا بالضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/228273",
+            "title": "مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي…",
+            "summary": "مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي إماتين وفرعتا بالضفة الغربية",
+            "date_modified": "2026-07-24T09:45:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "76c9d3e2069c759d5b6ea492685ef902c47f10a32fc98390d62efe95f4261832",
+            "content_html": "مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم قلنديا شمالي القدس المحتلة",
+            "url": "https://t.me/aljazeeraBrk/228272",
+            "title": "مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم قلنديا شمالي القدس المحتلة",
+            "summary": "مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم قلنديا شمالي القدس المحتلة",
+            "date_modified": "2026-07-24T09:42:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "a18e73113304063c150cb8f5ba2c8941a4bbe90dfb5d650c054b3b7f2d62f79c",
             "content_html": "الأمم المتحدة: ندعو إلى إجلاء 6 آلاف بحار عالقين في مضيق هرمز",
             "url": "https://t.me/aljazeeraBrk/228271",
@@ -1589,61 +1644,6 @@
             "date_modified": "2026-07-23T19:04:45.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "d46b57f98cd6fbc14e33c22341d8dd890b850708f7c53def119764d55e5265b8",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxPSmRPNzF0TFJqS2hKOWxPUWNRNU1LSHMySzVZWFFPNTNScEV3ZU1qNjJBazlQY2lwcUtQS3dDY0lQSnRqdV80OW5QMGVnZ3I5QzN2YjYtRzhPTEc1RW9FVGRPY2w4ajRmX3VfbG4yZ3FkWW9jVXNwUlBVWWl5ckl0WGNPNGtNZGhhRVlnMjdYTmxPUnVmZXQzTU5oS3RSNU5MNnlyYXJUNzBqNzU2Z0ZiOWhSVDBHNElUY3VJdW1XRFRQTnMyQ09wcGp6QUJYVVhZeUF3NU1LLTVYc3hldlFaXzdRMFUtd2tDMmRMcVRMdWVmQUpTWHhXVWJOdk85SkZhSjFwUmpTbUdhTTU5S2R0RmotX01kSjRVNm96UTdIa2hiREhJRDVhSzlpeXdYM3FVSktjd1ZxNkFjNHZlUmc?oc=5\" target=\"_blank\">الأمم المتحدة: كشف مصير المفقودين مفتاح الاستقرار بسوريا.. ونبحث عن الفلسطينيين كالسوريين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">القدس العربي</font>",
-            "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPSmRPNzF0TFJqS2hKOWxPUWNRNU1LSHMySzVZWFFPNTNScEV3ZU1qNjJBazlQY2lwcUtQS3dDY0lQSnRqdV80OW5QMGVnZ3I5QzN2YjYtRzhPTEc1RW9FVGRPY2w4ajRmX3VfbG4yZ3FkWW9jVXNwUlBVWWl5ckl0WGNPNGtNZGhhRVlnMjdYTmxPUnVmZXQzTU5oS3RSNU5MNnlyYXJUNzBqNzU2Z0ZiOWhSVDBHNElUY3VJdW1XRFRQTnMyQ09wcGp6QUJYVVhZeUF3NU1LLTVYc3hldlFaXzdRMFUtd2tDMmRMcVRMdWVmQUpTWHhXVWJOdk85SkZhSjFwUmpTbUdhTTU5S2R0RmotX01kSjRVNm96UTdIa2hiREhJRDVhSzlpeXdYM3FVSktjd1ZxNkFjNHZlUmc?oc=5",
-            "title": "الأمم المتحدة: كشف مصير المفقودين مفتاح الاستقرار بسوريا.. ونبحث عن الفلسطينيين كالسوريين - القدس العربي",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxPSmRPNzF0TFJqS2hKOWxPUWNRNU1LSHMySzVZWFFPNTNScEV3ZU1qNjJBazlQY2lwcUtQS3dDY0lQSnRqdV80OW5QMGVnZ3I5QzN2YjYtRzhPTEc1RW9FVGRPY2w4ajRmX3VfbG4yZ3FkWW9jVXNwUlBVWWl5ckl0WGNPNGtNZGhhRVlnMjdYTmxPUnVmZXQzTU5oS3RSNU5MNnlyYXJUNzBqNzU2Z0ZiOWhSVDBHNElUY3VJdW1XRFRQTnMyQ09wcGp6QUJYVVhZeUF3NU1LLTVYc3hldlFaXzdRMFUtd2tDMmRMcVRMdWVmQUpTWHhXVWJOdk85SkZhSjFwUmpTbUdhTTU5S2R0RmotX01kSjRVNm96UTdIa2hiREhJRDVhSzlpeXdYM3FVSktjd1ZxNkFjNHZlUmc?oc=5\" target=\"_blank\">الأمم المتحدة: كشف مصير المفقودين مفتاح الاستقرار بسوريا.. ونبحث عن الفلسطينيين كالسوريين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">القدس العربي</font>",
-            "date_modified": "2026-07-23T19:00:58.000Z",
-            "author": {
-                "name": "القدس العربي"
-            }
-        },
-        {
-            "id": "ea1d59905ba3d6e8398cefadffaf0547bfd0ce33b658ef2df61d1d0b46429f9b",
-            "content_html": "ترمب: إذا لم تتحرك الولايات المتحدة ضد إيران فلن يتحرك ضدها أحد",
-            "url": "https://t.me/aljazeeraBrk/228141",
-            "title": "ترمب: إذا لم تتحرك الولايات المتحدة ضد إيران فلن يتحرك ضدها أحد",
-            "summary": "ترمب: إذا لم تتحرك الولايات المتحدة ضد إيران فلن يتحرك ضدها أحد",
-            "date_modified": "2026-07-23T18:54:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "bb9782a0254b4cdd8a2e101ded2f629728134b89e9b150fd3f5824bd08f3bfc5",
-            "content_html": "ترمب: إيران اليوم أضعف مما كانت عليه قبل 4 أشهر",
-            "url": "https://t.me/aljazeeraBrk/228140",
-            "title": "ترمب: إيران اليوم أضعف مما كانت عليه قبل 4 أشهر",
-            "summary": "ترمب: إيران اليوم أضعف مما كانت عليه قبل 4 أشهر",
-            "date_modified": "2026-07-23T18:53:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "170c8f1502c198f821be64761d6bc7ff26eff9959fb68ec8a2c0f19c91dcf5a7",
-            "content_html": "ترمب: الإيرانيون يرغبون في القيام بشيء ما دبلوماسيا لكنني أقول إنهم ليسوا مستعدين بعد",
-            "url": "https://t.me/aljazeeraBrk/228139",
-            "title": "ترمب: الإيرانيون يرغبون في القيام بشيء ما دبلوماسيا لكنني أقول إنهم ليسوا…",
-            "summary": "ترمب: الإيرانيون يرغبون في القيام بشيء ما دبلوماسيا لكنني أقول إنهم ليسوا مستعدين بعد",
-            "date_modified": "2026-07-23T18:48:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a27ec3d9010ee6107f3d70d99ab476849591453139e48cf2cc63081784b17b8d",
-            "content_html": "ترمب: نبلي بلاء حسنا في التعامل مع إيران ولن نسمح لها بامتلاك سلاح نووي",
-            "url": "https://t.me/aljazeeraBrk/228138",
-            "title": "ترمب: نبلي بلاء حسنا في التعامل مع إيران ولن نسمح لها بامتلاك سلاح نووي",
-            "summary": "ترمب: نبلي بلاء حسنا في التعامل مع إيران ولن نسمح لها بامتلاك سلاح نووي",
-            "date_modified": "2026-07-23T18:47:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
