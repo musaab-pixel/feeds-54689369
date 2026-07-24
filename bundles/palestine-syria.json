@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a93e7af876807439332109a12be8cb19cccabb5b745b8a8e7acb4735680bba6f",
+            "content_html": "وكالة فارس الإيرانية: دوي عدة انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد",
+            "url": "https://t.me/aljazeeraBrk/228185",
+            "title": "وكالة فارس الإيرانية: دوي عدة انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي…",
+            "summary": "وكالة فارس الإيرانية: دوي عدة انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد",
+            "date_modified": "2026-07-24T00:22:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "1f357afc206c79cdde25ac1d5bf9b84ba4075689d03c661575954cd7bbc9482e",
+            "content_html": "وكالة فارس الإيرانية: دوي انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد",
+            "url": "https://t.me/aljazeeraBrk/228184",
+            "title": "وكالة فارس الإيرانية: دوي انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد",
+            "summary": "وكالة فارس الإيرانية: دوي انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد",
+            "date_modified": "2026-07-24T00:21:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "0d34fc7641e69c5635aee3455bddf2fa90d1cefb68a5bea085a1fd07c0bfd1f6",
             "content_html": "مسؤول في محافظة هرمزغان الإيرانية: نعمل على إعادة الكهرباء لبعض المناطق في بندر عباس إثر أضرار بسبب هجمات أمريكية",
             "url": "https://t.me/aljazeeraBrk/228183",
@@ -1628,24 +1650,6 @@
             "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
             "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-01.jpg/image560x340cropped.jpg",
             "date_modified": "2026-07-23T12:00:00.000Z"
-        },
-        {
-            "id": "82e3957967016a26f780ebead168941cf3e64e42c73704c18988fcd0ca3306c9",
-            "content_html": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
-            "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-            "title": "Iran urged to stop protest-related executions",
-            "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-09-2023-SaraHossain-GVA.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-07-23T12:00:00.000Z"
-        },
-        {
-            "id": "47a9d66cf4840b869719e623346d80ea49f53bbe7cfbff3f9f04bd0cd2ab5070",
-            "content_html": "<p><strong>مجموعة العمل – سوريا</strong><br>\nناشدت عائلة الشاب الفلسطيني السوري <strong>علي عشماوي</strong>، المنحدر من مخيم اليرموك للاجئين الفلسطينيين جنوب دمشق، الجهات المعنية والجاليات الفلسطينية والسورية في الخارج، المساعدة في الكشف عن مصيره، بعد انقطاع أخباره منذ أكثر من عامين إثر رحلة بحرية انطلقت من السواحل التركية.</p>\n<p>وبحسب ما أفادت به العائلة، <strong>غادر عشماوي الأراضي التركية</strong> في الأول من كانون الأول/ديسمبر 2023 متوجهاً نحو جزيرة ميتيليني اليونانية على متن قارب من نوع “جيت سكي”، برفقة شخص آخر، إلا أن الاتصال به انقطع منذ لحظة المغادرة، ولم تتمكن أسرته، رغم محاولاتها المتواصلة، من الحصول على أي معلومات حول مكان وجوده أو مصيره.</p>\n<p>وأعربت العائلة عن قلقها الشديد إزاء استمرار غياب أي معلومات عنه، مطالبة كل من يمتلك معلومات قد تسهم في تحديد مسار رحلته أو مكان وجوده، بالتواصل مع المنصات المخصصة لنقل البلاغات إلى الأسرة.</p>\n<p>وتأتي هذه المناشدة في ظل استمرار حالات فقدان عدد من اللاجئين خلال <strong>محاولات الهجرة غير النظامية عبر البحر</strong>، حيث تبقى العديد من العائلات بانتظار معلومات تكشف مصير أبنائها المفقودين.</p>",
-            "url": "https://actionpal.org.uk/post/999125083",
-            "title": "عائلة فلسطينية تناشد للكشف عن مصير ابنها المفقود منذ عام 2023",
-            "summary": "<p><strong>مجموعة العمل – سوريا</strong><br>\nناشدت عائلة الشاب الفلسطيني السوري <strong>علي عشماوي</strong>، المنحدر من مخيم اليرموك للاجئين الفلسطينيين جنوب دمشق، الجهات المعنية والجاليات الفلسطينية والسورية في الخارج، المساعدة في الكشف عن مصيره، بعد انقطاع أخباره منذ أكثر من عامين إثر رحلة بحرية انطلقت من السواحل التركية.</p>\n<p>وبحسب ما أفادت به العائلة، <strong>غادر عشماوي الأراضي التركية</strong> في الأول من كانون الأول/ديسمبر 2023 متوجهاً نحو جزيرة ميتيليني اليونانية على متن قارب من نوع “جيت سكي”، برفقة شخص آخر، إلا أن الاتصال به انقطع منذ لحظة المغادرة، ولم تتمكن أسرته، رغم محاولاتها المتواصلة، من الحصول على أي معلومات حول مكان وجوده أو مصيره.</p>\n<p>وأعربت العائلة عن قلقها الشديد إزاء استمرار غياب أي معلومات عنه، مطالبة كل من يمتلك معلومات قد تسهم في تحديد مسار رحلته أو مكان وجوده، بالتواصل مع المنصات المخصصة لنقل البلاغات إلى الأسرة.</p>\n<p>وتأتي هذه المناشدة في ظل استمرار حالات فقدان عدد من اللاجئين خلال <strong>محاولات الهجرة غير النظامية عبر البحر</strong>، حيث تبقى العديد من العائلات بانتظار معلومات تكشف مصير أبنائها المفقودين.</p>",
-            "image": "https://actionpal.org.uk/wp-content/uploads/2026/07/5.jpeg",
-            "date_modified": "2026-07-23T11:53:44.402Z"
         }
     ]
 }
