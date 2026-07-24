@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 20:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 20:50:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت منشآت لمؤسسة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228426</link>
+            <guid isPermaLink="false">4d187c2dae320c6006bebec8e1055f8c7daf44cc3ecc7816b67ab0b638c25c72</guid>
+            <pubDate>Fri, 24 Jul 2026 20:48:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت منشآت لمؤسسة الاتصالات بالحديدة وجزيرة كمران]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت منشآت لمؤسسة الاتصالات بالحديدة وجزيرة كمران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت جزيرة كمران]]></title>
             <link>https://t.me/aljazeeraBrk/228425</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 06:17:02 GMT</pubDate>
             <description><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم قرب مستوطنة حفات جلعاد بالضفة الغربية]]></description>
             <content:encoded><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم قرب مستوطنة حفات جلعاد بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم على مستوطنة حفات…]]></title>
-            <link>https://t.me/aljazeeraBrk/228226</link>
-            <guid isPermaLink="false">09a898c253ac6c881b873cb73e680b50389fa0a66fa9c808bffbfde27ecb840a</guid>
-            <pubDate>Fri, 24 Jul 2026 06:16:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم على مستوطنة حفات جلعاد بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم على مستوطنة حفات جلعاد بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
