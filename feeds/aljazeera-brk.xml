@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 06:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 06:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></title>
+            <link>https://t.me/aljazeeraBrk/228228</link>
+            <guid isPermaLink="false">e6bf3e38fad869110d31d937255b8a3a26ada7b1e20a637650cf7e3343b5c8ca</guid>
+            <pubDate>Fri, 24 Jul 2026 06:22:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الجيش الإسرائيلي يغلق مداخل مدينة نابلس بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الإسعاف الإسرائيلي: مقتل إسرائيلي وإصابة 3 آخرين في الهجوم قرب مستوطنة حفات…]]></title>
             <link>https://t.me/aljazeeraBrk/228227</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 08:15:03 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الأمريكي: إيران على الأرجح ليست مستعدة لإبرام اتفاق لكنها قد تكون مستعدة قريبا]]></description>
             <content:encoded><![CDATA[وزير الخارجية الأمريكي: إيران على الأرجح ليست مستعدة لإبرام اتفاق لكنها قد تكون مستعدة قريبا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الأمريكي: الثمن الذي ستدفعه إيران سيزداد كل ليلة إلى أن يعودوا…]]></title>
-            <link>https://t.me/aljazeeraBrk/228027</link>
-            <guid isPermaLink="false">59f7ff96839dae4a6ad39bb43c840c5e69cb5a43d101a8a941a34cf2a0c01c46</guid>
-            <pubDate>Thu, 23 Jul 2026 07:58:03 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الأمريكي: الثمن الذي ستدفعه إيران سيزداد كل ليلة إلى أن يعودوا إلى رشدهم]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الأمريكي: الثمن الذي ستدفعه إيران سيزداد كل ليلة إلى أن يعودوا إلى رشدهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
