@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 11:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 12:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: 15 آلية عسكرية إسرائيلية تقتحم مدينة نابلس بالضفة الغربية]]></title>
+            <link>https://t.me/aljazeeraBrk/228319</link>
+            <guid isPermaLink="false">f853da4b65bbdde90e07c61c535c5fea7205673b7e5dce21bfa23c2ec7240e17</guid>
+            <pubDate>Fri, 24 Jul 2026 12:22:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: 15 آلية عسكرية إسرائيلية تقتحم مدينة نابلس بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: 15 آلية عسكرية إسرائيلية تقتحم مدينة نابلس بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان لنتنياهو وكاتس: يجب السماح لقوات الأمن بحرية العمل بكل قوة ضد الإرهاب…]]></title>
             <link>https://t.me/aljazeeraBrk/228317</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 15:51:03 GMT</pubDate>
             <description><![CDATA[وكالة تسنيم الإيرانية: صاروخ أمريكي أصاب منطقة في ساحل مدينة سوزا بجزيرة قشم جنوبي البلاد]]></description>
             <content:encoded><![CDATA[وكالة تسنيم الإيرانية: صاروخ أمريكي أصاب منطقة في ساحل مدينة سوزا بجزيرة قشم جنوبي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></title>
-            <link>https://t.me/aljazeeraBrk/228119</link>
-            <guid isPermaLink="false">fac1c2286e9cbebf850dc2c4a951cfa8fb723747c90e96acac9703448a18ab5e</guid>
-            <pubDate>Thu, 23 Jul 2026 15:48:03 GMT</pubDate>
-            <description><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></description>
-            <content:encoded><![CDATA[التلفزيون الإيراني: دوي انفجار في جزيرة قشم بمحافظة هرمزغان جنوبي البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
