@@ -5,6 +5,83 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "2d9973689e35bdef41a52ae46892d99f4252d8eedd565255661be3dd4993f9bc",
+            "content_html": "وزارة الصحة الفلسطينية: شهيد ومصابان أحدهما بجروح حرجة برصاص الاحتلال في بلدة تل جنوب غرب نابلس",
+            "url": "https://t.me/aljazeeraBrk/228222",
+            "title": "وزارة الصحة الفلسطينية: شهيد ومصابان أحدهما بجروح حرجة برصاص الاحتلال في بلدة…",
+            "summary": "وزارة الصحة الفلسطينية: شهيد ومصابان أحدهما بجروح حرجة برصاص الاحتلال في بلدة تل جنوب غرب نابلس",
+            "date_modified": "2026-07-24T06:07:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "8339e9a35d996146cfd7a11c72fc9217b384afbf5f28e55747b4103bae134912",
+            "content_html": "الهلال الأحمر الفلسطيني: إصابة 3 أشخاص خلال هجوم المستوطنين على بلدة تل بالضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/228220",
+            "title": "الهلال الأحمر الفلسطيني: إصابة 3 أشخاص خلال هجوم المستوطنين على بلدة تل بالضفة…",
+            "summary": "الهلال الأحمر الفلسطيني: إصابة 3 أشخاص خلال هجوم المستوطنين على بلدة تل بالضفة الغربية",
+            "date_modified": "2026-07-24T06:05:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "0387177ae9ad32414f727280a31f30e1382c5e46ee6f219e0d8fb356ad3e66ab",
+            "content_html": "مراسل الجزيرة: مستوطنون يطلقون النار على فلسطينيين في بلدة تل بالضفة الغربية عقب الهجوم على مستوطنة حفات جلعاد",
+            "url": "https://t.me/aljazeeraBrk/228221",
+            "title": "مراسل الجزيرة: مستوطنون يطلقون النار على فلسطينيين في بلدة تل بالضفة الغربية…",
+            "summary": "مراسل الجزيرة: مستوطنون يطلقون النار على فلسطينيين في بلدة تل بالضفة الغربية عقب الهجوم على مستوطنة حفات جلعاد",
+            "date_modified": "2026-07-24T06:05:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "ac1dd9c62f64c38d686854996192f95c025b9144f0e4d0d276031fcb72c065a3",
+            "content_html": "القناة 12 الإسرائيلية: إصابة ضابط في إطلاق النار على مستوطنة حفات جلعاد بالضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/228219",
+            "title": "القناة 12 الإسرائيلية: إصابة ضابط في إطلاق النار على مستوطنة حفات جلعاد بالضفة…",
+            "summary": "القناة 12 الإسرائيلية: إصابة ضابط في إطلاق النار على مستوطنة حفات جلعاد بالضفة الغربية",
+            "date_modified": "2026-07-24T06:04:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "f84c721d3533ff6441828f632e9dd8780201128cec1d059538e1b53f66174b07",
+            "content_html": "مراسل الجزيرة: الهجوم في الضفة الغربية وقع في مستوطنة حفات جلعاد على مقربة من قرية تل قرب نابلس",
+            "url": "https://t.me/aljazeeraBrk/228218",
+            "title": "مراسل الجزيرة: الهجوم في الضفة الغربية وقع في مستوطنة حفات جلعاد على مقربة من…",
+            "summary": "مراسل الجزيرة: الهجوم في الضفة الغربية وقع في مستوطنة حفات جلعاد على مقربة من قرية تل قرب نابلس",
+            "date_modified": "2026-07-24T06:03:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "c8858a50813b87546f4fe4ce183f43f8779268126beb1a5dd1cd73d9b672ef73",
+            "content_html": "يسرائيل هيوم عن مصدر: فلسطيني انتزع سلاحا من حارس مستوطنة وأطلق النار على مستوطنين في حفات جلعاد بالضفة",
+            "url": "https://t.me/aljazeeraBrk/228217",
+            "title": "يسرائيل هيوم عن مصدر: فلسطيني انتزع سلاحا من حارس مستوطنة وأطلق النار على…",
+            "summary": "يسرائيل هيوم عن مصدر: فلسطيني انتزع سلاحا من حارس مستوطنة وأطلق النار على مستوطنين في حفات جلعاد بالضفة",
+            "date_modified": "2026-07-24T06:01:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "c0aebcdcadd7da842720b7c81965d436132ee49b60057768ff747be8db7dc825",
+            "content_html": "يسرائيل هيوم عن مصدر: فلسطيني انتزع سلاح من حارس مستوطنة وأطلق النار على مستوطنين في حفات جلعاد بالضفة",
+            "url": "https://t.me/aljazeeraBrk/228216",
+            "title": "يسرائيل هيوم عن مصدر: فلسطيني انتزع سلاح من حارس مستوطنة وأطلق النار على…",
+            "summary": "يسرائيل هيوم عن مصدر: فلسطيني انتزع سلاح من حارس مستوطنة وأطلق النار على مستوطنين في حفات جلعاد بالضفة",
+            "date_modified": "2026-07-24T06:01:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "86735dde2d09bc7849a75aa380f9db3f5da84cccbf19dea8119495deb0baa7da",
             "content_html": "الإسعاف الإسرائيلي: إصابة 4 إسرائيليين بجروح في الهجوم على مستوطنة حفات جلعاد",
             "url": "https://t.me/aljazeeraBrk/228215",
@@ -1575,83 +1652,6 @@
             "title": "مراسل الجزيرة: توقف خدمات الاتصالات والإنترنت في كوبا بالتزامن مع استمرار…",
             "summary": "مراسل الجزيرة: توقف خدمات الاتصالات والإنترنت في كوبا بالتزامن مع استمرار انقطاع التيار الكهربائي",
             "date_modified": "2026-07-23T14:07:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "6437b0608613cdb2be5d11928ee39ae3e734f3c2412577de620f9f76030b53bf",
-            "content_html": "كتلة حزب_الله البرلمانية: الزيارة الرئاسية اللبنانية إلى واشنطن فشلت في تحقيق أدنى مطلب وطني سيادي",
-            "url": "https://t.me/aljazeeraBrk/228093",
-            "title": "كتلة حزب_الله البرلمانية: الزيارة الرئاسية اللبنانية إلى واشنطن فشلت في تحقيق…",
-            "summary": "كتلة حزب_الله البرلمانية: الزيارة الرئاسية اللبنانية إلى واشنطن فشلت في تحقيق أدنى مطلب وطني سيادي",
-            "date_modified": "2026-07-23T14:06:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "f954d930a453961a54ed5f84139efc7d467e2c4bcfdae16754d514217c328adb",
-            "content_html": "كتلة حزب_الله البرلمانية: أي مقاربة لسلاح المقاومة خارج منطقة جنوب الليطاني تكون بعد انسحاب العدو الإسرائيلي",
-            "url": "https://t.me/aljazeeraBrk/228094",
-            "title": "كتلة حزب_الله البرلمانية: أي مقاربة لسلاح المقاومة خارج منطقة جنوب الليطاني…",
-            "summary": "كتلة حزب_الله البرلمانية: أي مقاربة لسلاح المقاومة خارج منطقة جنوب الليطاني تكون بعد انسحاب العدو الإسرائيلي",
-            "date_modified": "2026-07-23T14:06:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "c1a8c4065f551099a7f4c8709b902ce0a1c3b1a84a673023dc0caeee8ac5f70a",
-            "content_html": "الحرس الثوري الإيراني: أي قاعدة تستخدم لشن هجمات على الأراضي الإيرانية تعد هدفا مشروعا لقواتنا",
-            "url": "https://t.me/aljazeeraBrk/228092",
-            "title": "الحرس الثوري الإيراني: أي قاعدة تستخدم لشن هجمات على الأراضي الإيرانية تعد هدفا…",
-            "summary": "الحرس الثوري الإيراني: أي قاعدة تستخدم لشن هجمات على الأراضي الإيرانية تعد هدفا مشروعا لقواتنا",
-            "date_modified": "2026-07-23T13:53:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "27cb61345c45b139e4e899b8b9603f590803b639987b7238236e728560edbebb",
-            "content_html": "الحرس الثوري الإيراني: الجيش الأمريكي استخدم في اعتداءاته أمس قاذفات انطلقت من قاعدة فيرفورد ببريطانيا",
-            "url": "https://t.me/aljazeeraBrk/228091",
-            "title": "الحرس الثوري الإيراني: الجيش الأمريكي استخدم في اعتداءاته أمس قاذفات انطلقت من…",
-            "summary": "الحرس الثوري الإيراني: الجيش الأمريكي استخدم في اعتداءاته أمس قاذفات انطلقت من قاعدة فيرفورد ببريطانيا",
-            "date_modified": "2026-07-23T13:53:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "bf9b73135abc82e8145e09c770b8d89796c31ef7c4e962b9c13178e005e22629",
-            "content_html": "الإطفاء العام الكويتي: السيطرة على حريق اندلع بمنفذ العبدلي بعد استهدافه بمسيرات",
-            "url": "https://t.me/aljazeeraBrk/228090",
-            "title": "الإطفاء العام الكويتي: السيطرة على حريق اندلع بمنفذ العبدلي بعد استهدافه بمسيرات",
-            "summary": "الإطفاء العام الكويتي: السيطرة على حريق اندلع بمنفذ العبدلي بعد استهدافه بمسيرات",
-            "date_modified": "2026-07-23T13:45:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a44c868decf4238de21a4594b0b4defe739047bf1b6420768cf8b5fbfa2f1dd6",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiugVBVV95cUxQcldhMVRmX01iWlpraFd4c2lCOGpieWpzZzNoaC1xdVlycVBaVTFBUnk3Q2J4cHVLZ1E5SU9GN092d0FwS3F4M3lUY1lzY1paa2l4N3c2ZXdJTzJoZ1RNMUpYRVhpVm1SYkFVVFBfNlZqSlV2TTB5NENfRHZNaWlFT2NGQ25GWTZLMnVxY3JVRnBLNG05c1ZkSWVEX0MzOUVfSnhJSjI4SnBOZjQ2REMycWFPMEN3U2w2R0w0ZzFtd0hoMlFlWEZSbzVGcjBGOGVCY3I0ZXBuYjBpdmlkenluSXI2bmJWS2g3aF9wYjBkS2JCeEtpRkNRRG01T0hnRURNcFZTLXM2aTgyaVJxUFpvMHBuY0hqNXFBaFg0VV9QYUc5REZNQUhwVDdoVWtUaHdLRVNJRW1OdnZTakdYalRZLWpVX3gxdnVES0Raam1yZGdkMzI2VDM4b1JQN1VhRE5RREw2bGNaZjdpdVFTSWpxNEJvT1U4UUptV3F3V1h1MnB0ZVhTTlBRNldKODhjazRpc2o2LUhuTzJ3TWdSdWNDMXhMcHFqZ2ZSWU5kVWFudFYzWXZxbVZOTjZyeFpiVGdTNF80ejBvMWlXRGRkOGktajZfTkYwN1JxTGI4bm1QY1BqcWNTblJCejYwb2Rxem5yQVE0MGo3NTN3TWplRGVFcE1VT1ExNUJET1dzVGVTYjNHbC1KYXRvS2hCZGJuSkVUYkVQalk3c0dUSElCc3FfN1NKazBmTldaazNGSGNaT2NSQ0ppRVdDLVdjUVBRU0JEbklZMW44N0l2OWZoX1JxN01heHEyVlgyRUpKU1AybnB1M2dyVFFwMHkzSkFSbkozbFN1MmJiOV9kQkhMeTdYRHFMUmNPYno5SWhVcWlwUThnazJwRktfOTBGUTVhZEgyX1NyVkpycTRudw?oc=5\" target=\"_blank\">وزارة الداخلية السورية تفتح الانتساب لــ\"دورة أفراد\" والإعلان يتيح التقدم لفلسطينيي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxQcldhMVRmX01iWlpraFd4c2lCOGpieWpzZzNoaC1xdVlycVBaVTFBUnk3Q2J4cHVLZ1E5SU9GN092d0FwS3F4M3lUY1lzY1paa2l4N3c2ZXdJTzJoZ1RNMUpYRVhpVm1SYkFVVFBfNlZqSlV2TTB5NENfRHZNaWlFT2NGQ25GWTZLMnVxY3JVRnBLNG05c1ZkSWVEX0MzOUVfSnhJSjI4SnBOZjQ2REMycWFPMEN3U2w2R0w0ZzFtd0hoMlFlWEZSbzVGcjBGOGVCY3I0ZXBuYjBpdmlkenluSXI2bmJWS2g3aF9wYjBkS2JCeEtpRkNRRG01T0hnRURNcFZTLXM2aTgyaVJxUFpvMHBuY0hqNXFBaFg0VV9QYUc5REZNQUhwVDdoVWtUaHdLRVNJRW1OdnZTakdYalRZLWpVX3gxdnVES0Raam1yZGdkMzI2VDM4b1JQN1VhRE5RREw2bGNaZjdpdVFTSWpxNEJvT1U4UUptV3F3V1h1MnB0ZVhTTlBRNldKODhjazRpc2o2LUhuTzJ3TWdSdWNDMXhMcHFqZ2ZSWU5kVWFudFYzWXZxbVZOTjZyeFpiVGdTNF80ejBvMWlXRGRkOGktajZfTkYwN1JxTGI4bm1QY1BqcWNTblJCejYwb2Rxem5yQVE0MGo3NTN3TWplRGVFcE1VT1ExNUJET1dzVGVTYjNHbC1KYXRvS2hCZGJuSkVUYkVQalk3c0dUSElCc3FfN1NKazBmTldaazNGSGNaT2NSQ0ppRVdDLVdjUVBRU0JEbklZMW44N0l2OWZoX1JxN01heHEyVlgyRUpKU1AybnB1M2dyVFFwMHkzSkFSbkozbFN1MmJiOV9kQkhMeTdYRHFMUmNPYno5SWhVcWlwUThnazJwRktfOTBGUTVhZEgyX1NyVkpycTRudw?oc=5",
-            "title": "وزارة الداخلية السورية تفتح الانتساب لــ\"دورة أفراد\" والإعلان يتيح التقدم لفلسطينيي سوريا - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugVBVV95cUxQcldhMVRmX01iWlpraFd4c2lCOGpieWpzZzNoaC1xdVlycVBaVTFBUnk3Q2J4cHVLZ1E5SU9GN092d0FwS3F4M3lUY1lzY1paa2l4N3c2ZXdJTzJoZ1RNMUpYRVhpVm1SYkFVVFBfNlZqSlV2TTB5NENfRHZNaWlFT2NGQ25GWTZLMnVxY3JVRnBLNG05c1ZkSWVEX0MzOUVfSnhJSjI4SnBOZjQ2REMycWFPMEN3U2w2R0w0ZzFtd0hoMlFlWEZSbzVGcjBGOGVCY3I0ZXBuYjBpdmlkenluSXI2bmJWS2g3aF9wYjBkS2JCeEtpRkNRRG01T0hnRURNcFZTLXM2aTgyaVJxUFpvMHBuY0hqNXFBaFg0VV9QYUc5REZNQUhwVDdoVWtUaHdLRVNJRW1OdnZTakdYalRZLWpVX3gxdnVES0Raam1yZGdkMzI2VDM4b1JQN1VhRE5RREw2bGNaZjdpdVFTSWpxNEJvT1U4UUptV3F3V1h1MnB0ZVhTTlBRNldKODhjazRpc2o2LUhuTzJ3TWdSdWNDMXhMcHFqZ2ZSWU5kVWFudFYzWXZxbVZOTjZyeFpiVGdTNF80ejBvMWlXRGRkOGktajZfTkYwN1JxTGI4bm1QY1BqcWNTblJCejYwb2Rxem5yQVE0MGo3NTN3TWplRGVFcE1VT1ExNUJET1dzVGVTYjNHbC1KYXRvS2hCZGJuSkVUYkVQalk3c0dUSElCc3FfN1NKazBmTldaazNGSGNaT2NSQ0ppRVdDLVdjUVBRU0JEbklZMW44N0l2OWZoX1JxN01heHEyVlgyRUpKU1AybnB1M2dyVFFwMHkzSkFSbkozbFN1MmJiOV9kQkhMeTdYRHFMUmNPYno5SWhVcWlwUThnazJwRktfOTBGUTVhZEgyX1NyVkpycTRudw?oc=5\" target=\"_blank\">وزارة الداخلية السورية تفتح الانتساب لــ\"دورة أفراد\" والإعلان يتيح التقدم لفلسطينيي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-07-23T13:44:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "b9ba044a952a04176ef268435b3e675dfe87dcafeff53461f2293f7699fac8e6",
-            "content_html": "الحرس الثوري الإيراني: نفذنا اليوم هجوما استهدف قاعدة العديري ومقر إقامة القوات الأمريكية في الكويت",
-            "url": "https://t.me/aljazeeraBrk/228089",
-            "title": "الحرس الثوري الإيراني: نفذنا اليوم هجوما استهدف قاعدة العديري ومقر إقامة القوات…",
-            "summary": "الحرس الثوري الإيراني: نفذنا اليوم هجوما استهدف قاعدة العديري ومقر إقامة القوات الأمريكية في الكويت",
-            "date_modified": "2026-07-23T13:42:03.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
