@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 22:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 23:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية كوبر في قضاء رام الله وبلدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228448</link>
+            <guid isPermaLink="false">f3de5772a54914afe4fb24095c742dac1385421162842bb1b5fc11b96f1a474d</guid>
+            <pubDate>Fri, 24 Jul 2026 23:15:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية كوبر في قضاء رام الله وبلدة يعبد في جنين بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية كوبر في قضاء رام الله وبلدة يعبد في جنين بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم عقبة جبر جنوب أريحا بالضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/228447</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 07:57:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: قواتنا قتلت الفلسطيني الذي نفذ عملية إطلاق النار ضد إسرائيليين قرب بلدة تل بقضاء نابلس]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: قواتنا قتلت الفلسطيني الذي نفذ عملية إطلاق النار ضد إسرائيليين قرب بلدة تل بقضاء نابلس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإيراني: استهدفنا بالمسيرات قواعد الدوحة وعريفجان والعديري في الكويت]]></title>
-            <link>https://t.me/aljazeeraBrk/228248</link>
-            <guid isPermaLink="false">75f04e0ce9a4c65f3b2884683a0148c23e10144006a21af001f85e06c63733bb</guid>
-            <pubDate>Fri, 24 Jul 2026 07:54:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإيراني: استهدفنا بالمسيرات قواعد الدوحة وعريفجان والعديري في الكويت]]></description>
-            <content:encoded><![CDATA[الجيش الإيراني: استهدفنا بالمسيرات قواعد الدوحة وعريفجان والعديري في الكويت]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
