@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "801ff94a638c0cd055a40d082e80d4ffbaaaa9f19b0aadba8fc17aa96bd9e659",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\">#عاجل</a> | خام برنت يتجاوز حاجز الـ 100 دولار للبرميل ليرتفع هذا الأسبوع بنسبة 13 بالمئة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/138691",
+            "title": "🛑#عاجل | خام برنت يتجاوز حاجز الـ 100 دولار للبرميل ليرتفع هذا الأسبوع بنسبة…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\">#عاجل</a> | خام برنت يتجاوز حاجز الـ 100 دولار للبرميل ليرتفع هذا الأسبوع بنسبة 13 بالمئة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-07-24T05:25:25.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "76c463da58406f84782ae13bb31a03b2c9ad2b1184eb08733c09939267c354b3",
             "content_html": "الجيش الإيراني: أي إجراء يتخذ ضد مصالحنا القانونية سيقوض الأمن والمصالح الاقتصادية لباقي دول المنطقة",
             "url": "https://t.me/aljazeeraBrk/228211",
@@ -1641,17 +1652,6 @@
             "title": "مصدر رسمي لبناني للجزيرة: على واشنطن أن تكون الضامن لعدم تجدد الاستفزازات…",
             "summary": "مصدر رسمي لبناني للجزيرة: على واشنطن أن تكون الضامن لعدم تجدد الاستفزازات الإسرائيلية ضد الجيش",
             "date_modified": "2026-07-23T13:23:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "04fa8937c2beca8ebcc0269a9cbcf57d010e83ec95a4366747d85368fda638c6",
-            "content_html": "مصدر رسمي لبناني للجزيرة: لم يتلق الجيش من واشنطن أي خرائط أو إحداثيات لمواقع يشتبه بوجود سلاح فيها",
-            "url": "https://t.me/aljazeeraBrk/228084",
-            "title": "مصدر رسمي لبناني للجزيرة: لم يتلق الجيش من واشنطن أي خرائط أو إحداثيات لمواقع…",
-            "summary": "مصدر رسمي لبناني للجزيرة: لم يتلق الجيش من واشنطن أي خرائط أو إحداثيات لمواقع يشتبه بوجود سلاح فيها",
-            "date_modified": "2026-07-23T13:22:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
