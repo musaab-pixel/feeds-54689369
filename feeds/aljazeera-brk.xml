@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 21:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 21:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في قرية عوريف بقضاء نابلس في…]]></title>
+            <link>https://t.me/aljazeeraBrk/228436</link>
+            <guid isPermaLink="false">272de9d1393ae64ab337e4dae6758ecd4371f1e8eb21bd739f90816f12c785fe</guid>
+            <pubDate>Fri, 24 Jul 2026 21:43:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في قرية عوريف بقضاء نابلس في الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في قرية عوريف بقضاء نابلس في الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قوات التحالف: في حال مواصلة المليشيا الحوثية أعمالها العدائية سيتم الرد على ذلك…]]></title>
             <link>https://t.me/aljazeeraBrk/228435</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 07:06:02 GMT</pubDate>
             <description><![CDATA[مستشفى إيخيلوف في تل أبيب: طواقمنا تحاول جاهدة إنقاذ حياة أحد الجرحى بعدما صنفت إصابته بالحرجة]]></description>
             <content:encoded><![CDATA[مستشفى إيخيلوف في تل أبيب: طواقمنا تحاول جاهدة إنقاذ حياة أحد الجرحى بعدما صنفت إصابته بالحرجة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القناة 14 الإسرائيلية: الجيش الإسرائيلي يستخدم المروحيات لإجلاء المصابين قرب…]]></title>
-            <link>https://t.me/aljazeeraBrk/228236</link>
-            <guid isPermaLink="false">079b47f54e61089ee1835a2898c6be247dd16f21cda0f261edc73ee0da2d46a4</guid>
-            <pubDate>Fri, 24 Jul 2026 06:46:02 GMT</pubDate>
-            <description><![CDATA[القناة 14 الإسرائيلية: الجيش الإسرائيلي يستخدم المروحيات لإجلاء المصابين قرب حفات جلعاد]]></description>
-            <content:encoded><![CDATA[القناة 14 الإسرائيلية: الجيش الإسرائيلي يستخدم المروحيات لإجلاء المصابين قرب حفات جلعاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

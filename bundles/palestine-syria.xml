@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 21:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 21:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في قرية عوريف بقضاء نابلس في…]]></title>
+            <link>https://t.me/aljazeeraBrk/228436</link>
+            <guid isPermaLink="false">272de9d1393ae64ab337e4dae6758ecd4371f1e8eb21bd739f90816f12c785fe</guid>
+            <pubDate>Fri, 24 Jul 2026 21:43:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في قرية عوريف بقضاء نابلس في الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في قرية عوريف بقضاء نابلس في الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قوات التحالف: في حال مواصلة المليشيا الحوثية أعمالها العدائية سيتم الرد على ذلك…]]></title>
             <link>https://t.me/aljazeeraBrk/228435</link>
@@ -1490,15 +1499,6 @@
             <pubDate>Fri, 24 Jul 2026 11:53:02 GMT</pubDate>
             <description><![CDATA[بيان لديوان رئيس الوزراء ووزير الدفاع الإسرائيلي: نتنياهو وكاتس أمرا الجيش باتخاذ خطوات بعد حادث بلدة تل]]></description>
             <content:encoded><![CDATA[بيان لديوان رئيس الوزراء ووزير الدفاع الإسرائيلي: نتنياهو وكاتس أمرا الجيش باتخاذ خطوات بعد حادث بلدة تل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[يديعوت أحرونوت عن مصدر: مستوطنون أطلقوا النار بالهواء قبل بدء الحدث في بلدة تل…]]></title>
-            <link>https://t.me/aljazeeraBrk/228305</link>
-            <guid isPermaLink="false">c183573aed255ccc42f3c222af1092629b6b947aac163ef61af631ebb62a05f2</guid>
-            <pubDate>Fri, 24 Jul 2026 11:52:02 GMT</pubDate>
-            <description><![CDATA[يديعوت أحرونوت عن مصدر: مستوطنون أطلقوا النار بالهواء قبل بدء الحدث في بلدة تل والجيش يحقق في الأمر]]></description>
-            <content:encoded><![CDATA[يديعوت أحرونوت عن مصدر: مستوطنون أطلقوا النار بالهواء قبل بدء الحدث في بلدة تل والجيش يحقق في الأمر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
