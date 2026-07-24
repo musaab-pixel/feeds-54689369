@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "cfa9cd1b3adcb4abf190762a18a239507357b6c96ce209a5e5044271a2d44524",
+            "content_html": "وكالة أنباء مهر: تفعيل الدفاعات الجوية في العاصمة الإيرانية طهران للتصدي لأهداف معادية",
+            "url": "https://t.me/aljazeeraBrk/228187",
+            "title": "وكالة أنباء مهر: تفعيل الدفاعات الجوية في العاصمة الإيرانية طهران للتصدي لأهداف…",
+            "summary": "وكالة أنباء مهر: تفعيل الدفاعات الجوية في العاصمة الإيرانية طهران للتصدي لأهداف معادية",
+            "date_modified": "2026-07-24T00:34:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7e4f9ed5cb187100b33ccb8e38c9c1e7ae0464319bf77539e8c6212d8258c328",
+            "content_html": "وكالة فارس الإيرانية: دوي انفجار في جنوب مدينة خرم آباد بمحافظة لرستان غربي البلاد",
+            "url": "https://t.me/aljazeeraBrk/228186",
+            "title": "وكالة فارس الإيرانية: دوي انفجار في جنوب مدينة خرم آباد بمحافظة لرستان غربي…",
+            "summary": "وكالة فارس الإيرانية: دوي انفجار في جنوب مدينة خرم آباد بمحافظة لرستان غربي البلاد",
+            "date_modified": "2026-07-24T00:32:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "a93e7af876807439332109a12be8cb19cccabb5b745b8a8e7acb4735680bba6f",
             "content_html": "وكالة فارس الإيرانية: دوي عدة انفجارات في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد",
             "url": "https://t.me/aljazeeraBrk/228185",
@@ -1632,24 +1654,6 @@
             "author": {
                 "name": "الجزيرة عاجل"
             }
-        },
-        {
-            "id": "83d680528dd110e25ab487eae783e1809e2c8d64a6c203eb6a421ec222a4cfd1",
-            "content_html": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
-            "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-            "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-            "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-04-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-07-23T12:00:00.000Z"
-        },
-        {
-            "id": "1a0d2c057c04d3d8a8138418e9d7453908c59b0521ba0ba662c48aea93e14fa6",
-            "content_html": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
-            "url": "https://news.un.org/feed/view/en/story/2026/07/1168010",
-            "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-            "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-01.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-07-23T12:00:00.000Z"
         }
     ]
 }
