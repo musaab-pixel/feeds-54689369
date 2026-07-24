@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 07:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 07:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: عشرات المستوطنين يهاجمون منازل الفلسطينيين في قرية جيت شرقي…]]></title>
+            <link>https://t.me/aljazeeraBrk/228243</link>
+            <guid isPermaLink="false">358c46bfd706be6094b0a2369a0363355d8cbe9a21b67f607a93bf5173e8ef1a</guid>
+            <pubDate>Fri, 24 Jul 2026 07:28:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: عشرات المستوطنين يهاجمون منازل الفلسطينيين في قرية جيت شرقي قلقيلية شمال الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: عشرات المستوطنين يهاجمون منازل الفلسطينيين في قرية جيت شرقي قلقيلية شمال الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نتنياهو: سنتحرك بحزم ضد الإرهابيين ومن يقف وراءهم ولن نسمح للإرهاب في الضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/228242</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 23 Jul 2026 09:35:03 GMT</pubDate>
             <description><![CDATA[يسرائيل هيوم عن مصادر: إصابة إسرائيلي عقب طعنه قرب مستوطنة ألون موريه وإطلاق النار على فلسطينيين اثنين]]></description>
             <content:encoded><![CDATA[يسرائيل هيوم عن مصادر: إصابة إسرائيلي عقب طعنه قرب مستوطنة ألون موريه وإطلاق النار على فلسطينيين اثنين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن حادث طعن قرب مستوطنة ألون موريه في قضاء نابلس]]></title>
-            <link>https://t.me/aljazeeraBrk/228043</link>
-            <guid isPermaLink="false">9187a47e639b30919602937545a21e127643ddad8fc4fecfced85a58af93d843</guid>
-            <pubDate>Thu, 23 Jul 2026 09:33:03 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن حادث طعن قرب مستوطنة ألون موريه في قضاء نابلس]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: بلاغ أولي عن حادث طعن قرب مستوطنة ألون موريه في قضاء نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
