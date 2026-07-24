@@ -1,0 +1,36 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jrct.org.uk",
+    "home_page_url": "https://www.jrct.org.uk/",
+    "description": "RSS Factory feed \"jrct.org.uk\" (type: website)",
+    "items": [
+        {
+            "id": "90929e75f6f851221356a190f7f836a5c950a5c8e0c9c702802b920bd3db4630",
+            "url": "https://www.jrct.org.uk/northern-ireland-cooptees",
+            "title": "JRCT welcomes three new Northern Ireland co-optees",
+            "image": "https://www.jrct.org.uk/userfiles/documents/White%20Brown%20Minimalist%20Moodboard%20Photo%20Collage%20(3).png",
+            "date_modified": "2026-07-24T11:25:42.843Z"
+        },
+        {
+            "id": "f5e5faa924d009133af31246ffd3b3cde25932683b661de93df581530a929325",
+            "url": "https://www.jrct.org.uk/four-new-trustees",
+            "title": "JRCT welcomes four new trustees to the board",
+            "image": "https://www.jrct.org.uk/userfiles/images/profiles/Trustees/colalge%20new%20trustees.png",
+            "date_modified": "2026-07-24T11:25:42.843Z"
+        },
+        {
+            "id": "e7643c793a604aa770da27c1e82836df3023b2246bcc2d0cdec39f3c476732bf",
+            "url": "https://www.jrct.org.uk/eight-themes-emerging-strategy",
+            "title": "Eight themes emerging from conversations about JRCT’s strategy for the future",
+            "image": "https://www.jrct.org.uk/userfiles/News/Shaping%20our%20future%20together%20(470%20x%20400%20px)%20(1).png",
+            "date_modified": "2026-07-24T11:25:42.843Z"
+        },
+        {
+            "id": "6850f00fa1f5e6b4e924391bbece44dcf5b16f5025f3f182e54f7fd5b6e05848",
+            "url": "https://www.jrct.org.uk/expression-of-interest-process",
+            "title": "Expression of interest process for September 2026 grant rounds",
+            "image": "https://www.jrct.org.uk/userfiles/documents/Funding%20(3).jpg",
+            "date_modified": "2026-07-24T11:25:42.843Z"
+        }
+    ]
+}

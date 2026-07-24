@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>jrct.org.uk</title>
+        <link>https://www.jrct.org.uk/</link>
+        <description>RSS Factory feed "jrct.org.uk" (type: website)</description>
+        <lastBuildDate>Fri, 24 Jul 2026 11:25:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>rss-factory</generator>
+        <language>ar</language>
+        <item>
+            <title><![CDATA[JRCT welcomes three new Northern Ireland co-optees]]></title>
+            <link>https://www.jrct.org.uk/northern-ireland-cooptees</link>
+            <guid isPermaLink="false">90929e75f6f851221356a190f7f836a5c950a5c8e0c9c702802b920bd3db4630</guid>
+            <pubDate>Fri, 24 Jul 2026 11:25:42 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/documents/White%20Brown%20Minimalist%20Moodboard%20Photo%20Collage%20(3).png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[JRCT welcomes four new trustees to the board]]></title>
+            <link>https://www.jrct.org.uk/four-new-trustees</link>
+            <guid isPermaLink="false">f5e5faa924d009133af31246ffd3b3cde25932683b661de93df581530a929325</guid>
+            <pubDate>Fri, 24 Jul 2026 11:25:42 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/images/profiles/Trustees/colalge%20new%20trustees.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Eight themes emerging from conversations about JRCT’s strategy for the future]]></title>
+            <link>https://www.jrct.org.uk/eight-themes-emerging-strategy</link>
+            <guid isPermaLink="false">e7643c793a604aa770da27c1e82836df3023b2246bcc2d0cdec39f3c476732bf</guid>
+            <pubDate>Fri, 24 Jul 2026 11:25:42 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/News/Shaping%20our%20future%20together%20(470%20x%20400%20px)%20(1).png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Expression of interest process for September 2026 grant rounds]]></title>
+            <link>https://www.jrct.org.uk/expression-of-interest-process</link>
+            <guid isPermaLink="false">6850f00fa1f5e6b4e924391bbece44dcf5b16f5025f3f182e54f7fd5b6e05848</guid>
+            <pubDate>Fri, 24 Jul 2026 11:25:42 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/documents/Funding%20(3).jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
