@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 00:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 01:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة بيت فوريك شرق نابلس وتدهم…]]></title>
+            <link>https://t.me/aljazeeraBrk/228456</link>
+            <guid isPermaLink="false">e8b12c3325a13b490b8b3752b325b63c02f3ce0eae335acb7ee0ed1cc9281e5a</guid>
+            <pubDate>Sat, 25 Jul 2026 01:44:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة بيت فوريك شرق نابلس وتدهم عددا من المنازل]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة بيت فوريك شرق نابلس وتدهم عددا من المنازل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: عراقجي أكد خلال لقائه نظيره الروسي عزم إيران على منع أمريكا…]]></title>
             <link>https://t.me/aljazeeraBrk/228455</link>
@@ -1497,15 +1506,6 @@
             <pubDate>Fri, 24 Jul 2026 12:39:02 GMT</pubDate>
             <description><![CDATA[الجيش الأردني: إسقاط 7 صواريخ و6 مسيرات إيرانية دخلت أجواء المملكة]]></description>
             <content:encoded><![CDATA[الجيش الأردني: إسقاط 7 صواريخ و6 مسيرات إيرانية دخلت أجواء المملكة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الأردني: لا خسائر بشرية أو مادية جراء اعتراض وإسقاط الصواريخ والمسيرات…]]></title>
-            <link>https://t.me/aljazeeraBrk/228326</link>
-            <guid isPermaLink="false">2ac8f9a3d979bd63156a6835229f2efdd960bbce8b7944fc46c908e1ec5fae2f</guid>
-            <pubDate>Fri, 24 Jul 2026 12:39:02 GMT</pubDate>
-            <description><![CDATA[الجيش الأردني: لا خسائر بشرية أو مادية جراء اعتراض وإسقاط الصواريخ والمسيرات الإيرانية]]></description>
-            <content:encoded><![CDATA[الجيش الأردني: لا خسائر بشرية أو مادية جراء اعتراض وإسقاط الصواريخ والمسيرات الإيرانية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 00:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 01:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة بيت فوريك شرق نابلس وتدهم…]]></title>
+            <link>https://t.me/aljazeeraBrk/228456</link>
+            <guid isPermaLink="false">e8b12c3325a13b490b8b3752b325b63c02f3ce0eae335acb7ee0ed1cc9281e5a</guid>
+            <pubDate>Sat, 25 Jul 2026 01:44:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة بيت فوريك شرق نابلس وتدهم عددا من المنازل]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة بيت فوريك شرق نابلس وتدهم عددا من المنازل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: عراقجي أكد خلال لقائه نظيره الروسي عزم إيران على منع أمريكا…]]></title>
             <link>https://t.me/aljazeeraBrk/228455</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 08:25:02 GMT</pubDate>
             <description><![CDATA[وكالة تسنيم عن المتحدث باسم الخارجية الإيرانية: الوضع الراهن هو عدوان عسكري واضح من جانب الولايات المتحدة]]></description>
             <content:encoded><![CDATA[وكالة تسنيم عن المتحدث باسم الخارجية الإيرانية: الوضع الراهن هو عدوان عسكري واضح من جانب الولايات المتحدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: قصفنا قاعدة علي السالم الجوية بالكويت]]></title>
-            <link>https://t.me/aljazeeraBrk/228256</link>
-            <guid isPermaLink="false">913bb111619dfc08aa34b6836b3e66eb65f0ab8ae82b3eaff1a1351a412b6a3a</guid>
-            <pubDate>Fri, 24 Jul 2026 08:23:02 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: قصفنا قاعدة علي السالم الجوية بالكويت]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: قصفنا قاعدة علي السالم الجوية بالكويت]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
