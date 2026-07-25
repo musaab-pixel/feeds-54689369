@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 05:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 06:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم بلدة بيت فوريك شرق مدينة نابلس بالضفة الغربية]]></title>
+            <link>https://t.me/aljazeeraBrk/228472</link>
+            <guid isPermaLink="false">5f4e1d86e9339e9083179216db13c40a831f36dae2227042c907ead6c82688c1</guid>
+            <pubDate>Sat, 25 Jul 2026 06:17:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم بلدة بيت فوريك شرق مدينة نابلس بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم بلدة بيت فوريك شرق مدينة نابلس بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إذاعة الجيش الإسرائيلي: الجيش يدهم منزل منفذ عملية بلدة تل ويبدأ أعمال المسح…]]></title>
             <link>https://t.me/aljazeeraBrk/228471</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 09:45:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي إماتين وفرعتا بالضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي إماتين وفرعتا بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم قلنديا شمالي القدس المحتلة]]></title>
-            <link>https://t.me/aljazeeraBrk/228272</link>
-            <guid isPermaLink="false">76c9d3e2069c759d5b6ea492685ef902c47f10a32fc98390d62efe95f4261832</guid>
-            <pubDate>Fri, 24 Jul 2026 09:42:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم قلنديا شمالي القدس المحتلة]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم قلنديا شمالي القدس المحتلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
