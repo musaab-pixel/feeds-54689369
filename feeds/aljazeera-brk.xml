@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 07:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون بحماية قوات الاحتلال يقتلعون مئات من أشجار الزيتون بقرى…]]></title>
+            <link>https://t.me/aljazeeraBrk/228478</link>
+            <guid isPermaLink="false">5ffc226290960fafba8e46597ed2c6751d5c1417d27108c319e0da06f75dd7d8</guid>
+            <pubDate>Sat, 25 Jul 2026 07:31:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون بحماية قوات الاحتلال يقتلعون مئات من أشجار الزيتون بقرى تل وبورين ومادما جنوب نابلس]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون بحماية قوات الاحتلال يقتلعون مئات من أشجار الزيتون بقرى تل وبورين ومادما جنوب نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس مجلس القيادة الرئاسي اليمني: المليشيات الحوثية تصر على زج البلاد في أزمات…]]></title>
             <link>https://t.me/aljazeeraBrk/228477</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 10:19:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الباكستاني: الخلافات لا تحل إلا بحوار مستدام ويجب أن نبقى متيقظين تجاه من يسعون لتقويض الاستقرار]]></description>
             <content:encoded><![CDATA[وزير الخارجية الباكستاني: الخلافات لا تحل إلا بحوار مستدام ويجب أن نبقى متيقظين تجاه من يسعون لتقويض الاستقرار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإدارة العسكرية في مقاطعة دونيتسك بأوكرانيا: 5 قتلى في قصف روسي على مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228278</link>
-            <guid isPermaLink="false">16a0f40a2adaacfc49b6d1b86b34716813bf53a6e651376b36cfe88fff76a041</guid>
-            <pubDate>Fri, 24 Jul 2026 10:15:03 GMT</pubDate>
-            <description><![CDATA[الإدارة العسكرية في مقاطعة دونيتسك بأوكرانيا: 5 قتلى في قصف روسي على مدينة سلافيانسك بالمقاطعة]]></description>
-            <content:encoded><![CDATA[الإدارة العسكرية في مقاطعة دونيتسك بأوكرانيا: 5 قتلى في قصف روسي على مدينة سلافيانسك بالمقاطعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
