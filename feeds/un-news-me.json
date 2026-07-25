@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "70555d8803d012ba355fd6cf0949ded4427c6753274d37b73ac04f9f1e4ed992",
+            "content_html": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+            "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+            "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/24-07-2026-Adobe-Red-Sea.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-07-24T12:00:00.000Z"
+        },
+        {
             "id": "83d680528dd110e25ab487eae783e1809e2c8d64a6c203eb6a421ec222a4cfd1",
             "content_html": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
             "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
