@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 18:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 18:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قتلنا في غزة قائد خلية نخبة في حركة حماس شارك في هجمات 7…]]></title>
+            <link>https://t.me/aljazeeraBrk/228587</link>
+            <guid isPermaLink="false">d36801dfaedb96010cef1b619afea8c77f8f36319ea8880eaa293e9b8138ddba</guid>
+            <pubDate>Sat, 25 Jul 2026 18:18:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قتلنا في غزة قائد خلية نخبة في حركة حماس شارك في هجمات 7 أكتوبر وعنصرين آخرين الأسبوع الماضي]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قتلنا في غزة قائد خلية نخبة في حركة حماس شارك في هجمات 7 أكتوبر وعنصرين آخرين الأسبوع الماضي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القناة 12 الإسرائيلية: الجيش ألقى القبض على منفذ هجوم سوسيا في الضفة الغربية]]></title>
             <link>https://t.me/aljazeeraBrk/228586</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 16:12:02 GMT</pubDate>
             <description><![CDATA[رويترز عن مصادر باكستانية: وزير خارجية باكستان بحث مبادرة متعلقة بالمنطقة مع مسؤولين صينيين خلال زيارته لبيجين]]></description>
             <content:encoded><![CDATA[رويترز عن مصادر باكستانية: وزير خارجية باكستان بحث مبادرة متعلقة بالمنطقة مع مسؤولين صينيين خلال زيارته لبيجين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن مصادر باكستانية: باكستان تدرس سبيلا لاستئناف المحادثات المتعثرة بين…]]></title>
-            <link>https://t.me/aljazeeraBrk/228380</link>
-            <guid isPermaLink="false">f109fd9bbf716ef55f2d4dfa0983d98c8ad0fc3ecc78f01027e1935f55faf92f</guid>
-            <pubDate>Fri, 24 Jul 2026 16:10:02 GMT</pubDate>
-            <description><![CDATA[رويترز عن مصادر باكستانية: باكستان تدرس سبيلا لاستئناف المحادثات المتعثرة بين واشنطن وطهران عقب مسعى صيني]]></description>
-            <content:encoded><![CDATA[رويترز عن مصادر باكستانية: باكستان تدرس سبيلا لاستئناف المحادثات المتعثرة بين واشنطن وطهران عقب مسعى صيني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
