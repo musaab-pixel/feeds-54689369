@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 12:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 13:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية المغير في قضاء رام الله…]]></title>
+            <link>https://t.me/aljazeeraBrk/228552</link>
+            <guid isPermaLink="false">42eefb890259334bc287e74202f07beaf069f6d5f97632ec79294750c8f985ba</guid>
+            <pubDate>Sat, 25 Jul 2026 13:04:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية المغير في قضاء رام الله بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية المغير في قضاء رام الله بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: نحث المجتمع الدولي على التحرك العاجل لوقف الاعتداءات…]]></title>
             <link>https://t.me/aljazeeraBrk/228551</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 14:23:02 GMT</pubDate>
             <description><![CDATA[الهلال الأحمر الفلسطيني: هجوم للمستوطنين على قرية صرة بقضاء نابلس]]></description>
             <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: هجوم للمستوطنين على قرية صرة بقضاء نابلس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عراقجي: المشكلة الأساسية مع الولايات المتحدة تكمن في نهجها الذي يجب تغييره]]></title>
-            <link>https://t.me/aljazeeraBrk/228352</link>
-            <guid isPermaLink="false">63fe50750034c457b784666797beccfc7e0dc73f3a61310b18a4db9246095e43</guid>
-            <pubDate>Fri, 24 Jul 2026 14:17:02 GMT</pubDate>
-            <description><![CDATA[عراقجي: المشكلة الأساسية مع الولايات المتحدة تكمن في نهجها الذي يجب تغييره]]></description>
-            <content:encoded><![CDATA[عراقجي: المشكلة الأساسية مع الولايات المتحدة تكمن في نهجها الذي يجب تغييره]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
