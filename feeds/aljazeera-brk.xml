@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 11:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 11:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة إسرائيلية على منطقة السوارحة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228528</link>
+            <guid isPermaLink="false">94a643c18684347d74d87b1740c59f2cfffcd85e530d829a61a7864c0e5c8110</guid>
+            <pubDate>Sat, 25 Jul 2026 11:31:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة إسرائيلية على منطقة السوارحة غربي مخيم النصيرات وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة إسرائيلية على منطقة السوارحة غربي مخيم النصيرات وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[غوتيريش: موقفنا واضح بحماية وحدة الأراضي السورية ونؤكد على ضرورة توقف كل…]]></title>
             <link>https://t.me/aljazeeraBrk/228527</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 12:51:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تعتقل أحد المصابين خلال اقتحامها مستشفى نابلس التخصصي]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تعتقل أحد المصابين خلال اقتحامها مستشفى نابلس التخصصي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القناة 14 عن مصدر: القتيل الثاني في تل هو رائد في الجيش الإسرائيلي وقائد السرية…]]></title>
-            <link>https://t.me/aljazeeraBrk/228328</link>
-            <guid isPermaLink="false">33b8bfba57258118bfb8ece975f226c11a18b3dc6440ba06c40aca707a448954</guid>
-            <pubDate>Fri, 24 Jul 2026 12:45:02 GMT</pubDate>
-            <description><![CDATA[القناة 14 عن مصدر: القتيل الثاني في تل هو رائد في الجيش الإسرائيلي وقائد السرية التي حضرت إلى الموقع]]></description>
-            <content:encoded><![CDATA[القناة 14 عن مصدر: القتيل الثاني في تل هو رائد في الجيش الإسرائيلي وقائد السرية التي حضرت إلى الموقع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
