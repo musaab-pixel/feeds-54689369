@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 06:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 06:52:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية مادما بقضاء نابلس بالضفة الغربية وتحول…]]></title>
+            <link>https://t.me/aljazeeraBrk/228474</link>
+            <guid isPermaLink="false">fdf982e2e7429c7ae982a5c66f045827b133577b247832cfe58279168a28547c</guid>
+            <pubDate>Sat, 25 Jul 2026 06:46:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية مادما بقضاء نابلس بالضفة الغربية وتحول منزلين لثكنتين عسكريتين]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية مادما بقضاء نابلس بالضفة الغربية وتحول منزلين لثكنتين عسكريتين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يستولون على منزل قيد الإنشاء في أطراف بلدة قراوة بني…]]></title>
             <link>https://t.me/aljazeeraBrk/228473</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 09:49:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة الفلسطينية: 4 شهداء و4 مصابين برصاص الاحتلال الإسرائيلي في بلدة تل بنابلس بالضفة الغربية]]></description>
             <content:encoded><![CDATA[وزارة الصحة الفلسطينية: 4 شهداء و4 مصابين برصاص الاحتلال الإسرائيلي في بلدة تل بنابلس بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228274</link>
-            <guid isPermaLink="false">66e1fd5a64ecc47bb2a8ebd3a324eadada3aea9f1d8070189ffb739dc0f1cff4</guid>
-            <pubDate>Fri, 24 Jul 2026 09:46:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة لإنهاء الأعمال العسكرية بالخليج]]></description>
-            <content:encoded><![CDATA[الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة لإنهاء الأعمال العسكرية بالخليج]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
