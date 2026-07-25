@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 13:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 13:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر أمنية عراقية: الدفاعات الجوية تسقط مسيرة قرب القنصلية الأمريكية…]]></title>
+            <link>https://t.me/aljazeeraBrk/228553</link>
+            <guid isPermaLink="false">c6522adde3098adb934987f06916b813ddfb19cf8558aa8e1a0493fdb878a3a4</guid>
+            <pubDate>Sat, 25 Jul 2026 13:17:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر أمنية عراقية: الدفاعات الجوية تسقط مسيرة قرب القنصلية الأمريكية في أربيل]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر أمنية عراقية: الدفاعات الجوية تسقط مسيرة قرب القنصلية الأمريكية في أربيل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية المغير في قضاء رام الله…]]></title>
             <link>https://t.me/aljazeeraBrk/228552</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 14:25:02 GMT</pubDate>
             <description><![CDATA[الجيش الكويتي: دفاعاتنا الجوية تتصدى حاليا لهجمات مسيرات إيرانية معادية]]></description>
             <content:encoded><![CDATA[الجيش الكويتي: دفاعاتنا الجوية تتصدى حاليا لهجمات مسيرات إيرانية معادية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: هجوم للمستوطنين على قرية صرة بقضاء نابلس]]></title>
-            <link>https://t.me/aljazeeraBrk/228353</link>
-            <guid isPermaLink="false">e8d996562dd79f222e7b3f715b3adf8d65512f5f3d596373742612a7c5b2474f</guid>
-            <pubDate>Fri, 24 Jul 2026 14:23:02 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: هجوم للمستوطنين على قرية صرة بقضاء نابلس]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: هجوم للمستوطنين على قرية صرة بقضاء نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
