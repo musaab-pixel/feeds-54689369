@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 21:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 21:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم عايدة للاجئين شمالي محافظة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228608</link>
+            <guid isPermaLink="false">769967e96737b70699335dd2da758783bc4b690fd5174cfe8c962e750980e4d1</guid>
+            <pubDate>Sat, 25 Jul 2026 21:42:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم عايدة للاجئين شمالي محافظة بيت لحم]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مخيم عايدة للاجئين شمالي محافظة بيت لحم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: عطلنا حركة سفينتين لم تمتثلا للأوامر وصعدنا على متن…]]></title>
             <link>https://t.me/aljazeeraBrk/228607</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 18:24:02 GMT</pubDate>
             <description><![CDATA[الرئاسة الفلسطينية: ندين جرائم الاحتلال الإسرائيلي والمستعمرين الإرهابيين بحق الفلسطينيين في الضفة الغربية]]></description>
             <content:encoded><![CDATA[الرئاسة الفلسطينية: ندين جرائم الاحتلال الإسرائيلي والمستعمرين الإرهابيين بحق الفلسطينيين في الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن فلسطيني برصاص قوات الاحتلال في قرية صرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228401</link>
-            <guid isPermaLink="false">8e5eb75373df7fec7589c24e7b9203050c95e3a35eb813447239235c251ebb7a</guid>
-            <pubDate>Fri, 24 Jul 2026 18:23:02 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن فلسطيني برصاص قوات الاحتلال في قرية صرة شمالي الضفة الغربية]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن فلسطيني برصاص قوات الاحتلال في قرية صرة شمالي الضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
