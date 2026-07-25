@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 03:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 04:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار المبكر في محافظة ينبع للتحذير من خطر]]></title>
+            <link>https://t.me/aljazeeraBrk/228465</link>
+            <guid isPermaLink="false">cd45e34a10fad7cd76cbac3b5100e1d83bbdf87a4b958882dc38f17df22f1762</guid>
+            <pubDate>Sat, 25 Jul 2026 04:14:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار المبكر في محافظة ينبع للتحذير من خطر]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار المبكر في محافظة ينبع للتحذير من خطر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار المبكر في منطقة جازان للتحذير من خطر]]></title>
             <link>https://t.me/aljazeeraBrk/228464</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 09:15:02 GMT</pubDate>
             <description><![CDATA[سموترتش: قرى تل وعراق بورين وبيت فوريك يجب أن تصبح مثل مخيمات اللاجئين في نابلس وطولكرم]]></description>
             <content:encoded><![CDATA[سموترتش: قرى تل وعراق بورين وبيت فوريك يجب أن تصبح مثل مخيمات اللاجئين في نابلس وطولكرم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع الروسية: قواتنا سيطرت على بلدتي زاخاروفكا وإيفاشكين بمقاطعة خاركوف]]></title>
-            <link>https://t.me/aljazeeraBrk/228265</link>
-            <guid isPermaLink="false">7e58cd1f5c7f20aa1f8a54e6c3ee6dc5caff40237a9145a5d014ab11fb2f0ba5</guid>
-            <pubDate>Fri, 24 Jul 2026 09:14:02 GMT</pubDate>
-            <description><![CDATA[الدفاع الروسية: قواتنا سيطرت على بلدتي زاخاروفكا وإيفاشكين بمقاطعة خاركوف]]></description>
-            <content:encoded><![CDATA[الدفاع الروسية: قواتنا سيطرت على بلدتي زاخاروفكا وإيفاشكين بمقاطعة خاركوف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
