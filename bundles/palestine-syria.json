@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "35897d60a79f22337ad8b960d5550d49e86f2333248762ec51524ab8dec45dae",
+            "content_html": "شرطة العاصمة الألمانية: ننفذ عملية أمنية واسعة في منطقة تيرغارتن بعد حادثة أسفرت عن إصابة عدد من الأشخاص",
+            "url": "https://t.me/aljazeeraBrk/228605",
+            "title": "شرطة العاصمة الألمانية: ننفذ عملية أمنية واسعة في منطقة تيرغارتن بعد حادثة…",
+            "summary": "شرطة العاصمة الألمانية: ننفذ عملية أمنية واسعة في منطقة تيرغارتن بعد حادثة أسفرت عن إصابة عدد من الأشخاص",
+            "date_modified": "2026-07-25T20:59:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "722f001eaa7da5ae8aa63e58d646fd714ee923810cfd0719632b000d0031e9ac",
             "content_html": "الخارجية الإيرانية: استدعاء القائم بأعمال سفارة أوكرانيا بعد هجوم أوكراني على سفينة تجارية في بحر قزوين",
             "url": "https://t.me/aljazeeraBrk/228604",
@@ -1631,18 +1642,6 @@
             "date_modified": "2026-07-25T08:37:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "dcb7eefa559ba8988fe3853c0a32cf659bb77eff3ed2d1aec161fadc3ff3b40d",
-            "content_html": "قيادة الأمن الداخلي في حماة تنعى الشرطي حسين الحسين الذي توفي متأثرًا بإصابته أثناء مهمة أمنية لإلقاء القبض على أحد المطلوبين‏<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138723",
-            "title": "قيادة الأمن الداخلي في حماة تنعى الشرطي حسين الحسين الذي توفي متأثرًا بإصابته…",
-            "summary": "قيادة الأمن الداخلي في حماة تنعى الشرطي حسين الحسين الذي توفي متأثرًا بإصابته أثناء مهمة أمنية لإلقاء القبض على أحد المطلوبين‏<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/MYUpzHvhhlJzOvCU-BmEsJlKYYqhyift6uoljsC44ItP_K3UWryTJQ0qFU-w-b_R_5bpR6ArWg-dCPV4Ys7d_HsPqQjA13Wbz-VV4TCgM6w5J8xdW5KOAMQpX_RHKTKIw2NdsrOQ0FK9anjY0mDBc4S8TZ98e4SCjj7jnEjtt4SnWjvGWf0HKH03-pVtTOYSiKm88cBQpLpdinPbQtpy0TGiBnpjcw6gr5xseWItqO6J6rY8KiuxWkHue8I8AH9qTaDYV434s6jkkAFHoENfTEsBmoV4D_9gb108yb7f2nBRWY19vzRjaoCcxvEdvcN4x9SHOeOvvZ3m_gVpcwWa7w.jpg",
-            "date_modified": "2026-07-25T08:27:49.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

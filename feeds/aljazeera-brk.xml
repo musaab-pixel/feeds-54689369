@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 20:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 21:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[شرطة العاصمة الألمانية: ننفذ عملية أمنية واسعة في منطقة تيرغارتن بعد حادثة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228605</link>
+            <guid isPermaLink="false">35897d60a79f22337ad8b960d5550d49e86f2333248762ec51524ab8dec45dae</guid>
+            <pubDate>Sat, 25 Jul 2026 20:59:02 GMT</pubDate>
+            <description><![CDATA[شرطة العاصمة الألمانية: ننفذ عملية أمنية واسعة في منطقة تيرغارتن بعد حادثة أسفرت عن إصابة عدد من الأشخاص]]></description>
+            <content:encoded><![CDATA[شرطة العاصمة الألمانية: ننفذ عملية أمنية واسعة في منطقة تيرغارتن بعد حادثة أسفرت عن إصابة عدد من الأشخاص]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: استدعاء القائم بأعمال سفارة أوكرانيا بعد هجوم أوكراني على…]]></title>
             <link>https://t.me/aljazeeraBrk/228604</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 18:07:02 GMT</pubDate>
             <description><![CDATA[أيه بي سي عن مسؤول أمريكي: الولايات المتحدة قصفت موقعا قرب معبر الشلامجة الحدودي بين العراق وإيران]]></description>
             <content:encoded><![CDATA[أيه بي سي عن مسؤول أمريكي: الولايات المتحدة قصفت موقعا قرب معبر الشلامجة الحدودي بين العراق وإيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الصوت والغاز خلال اقتحامها بلدة سنجل…]]></title>
-            <link>https://t.me/aljazeeraBrk/228398</link>
-            <guid isPermaLink="false">93d10c4312e441bbf41b5c6ae8bb1256c37ea63b5a060b6b70b0c15fcb8b066d</guid>
-            <pubDate>Fri, 24 Jul 2026 18:05:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الصوت والغاز خلال اقتحامها بلدة سنجل بقضاء رام الله]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الصوت والغاز خلال اقتحامها بلدة سنجل بقضاء رام الله]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
