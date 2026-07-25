@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 02:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 02:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس وتنفذ حملة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228463</link>
+            <guid isPermaLink="false">15f96d9eede8922ef924c1617fd724e5abb43ef36d9fe0a939eeb16c04d98504</guid>
+            <pubDate>Sat, 25 Jul 2026 02:37:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس وتنفذ حملة اعتقالات واسعة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس وتنفذ حملة اعتقالات واسعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: نتنياهو سيأتي إلى واشنطن الأسبوع المقبل]]></title>
             <link>https://t.me/aljazeeraBrk/228462</link>
@@ -1497,15 +1506,6 @@
             <pubDate>Fri, 24 Jul 2026 12:57:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: القتيلان في بلدة تل هما ضابط يشغل منصب قائد وحدة في سلاح المدرعات وجندي من لواء القدس]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: القتيلان في بلدة تل هما ضابط يشغل منصب قائد وحدة في سلاح المدرعات وجندي من لواء القدس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المقررة الأممية للأراضي الفلسطينية فرانشيسكا ألبانيزي: قادة المسلحين…]]></title>
-            <link>https://t.me/aljazeeraBrk/228332</link>
-            <guid isPermaLink="false">1d6bf76b4692230defb32d6057657ccfd9a1a755a379bf10104c9ec15c3c082d</guid>
-            <pubDate>Fri, 24 Jul 2026 12:55:03 GMT</pubDate>
-            <description><![CDATA[المقررة الأممية للأراضي الفلسطينية فرانشيسكا ألبانيزي: قادة المسلحين الإسرائيليين يتحدثون عن نيتهم تحويل الضفة إلى غزة]]></description>
-            <content:encoded><![CDATA[المقررة الأممية للأراضي الفلسطينية فرانشيسكا ألبانيزي: قادة المسلحين الإسرائيليين يتحدثون عن نيتهم تحويل الضفة إلى غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

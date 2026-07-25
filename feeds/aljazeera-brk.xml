@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 02:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 02:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس وتنفذ حملة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228463</link>
+            <guid isPermaLink="false">15f96d9eede8922ef924c1617fd724e5abb43ef36d9fe0a939eeb16c04d98504</guid>
+            <pubDate>Sat, 25 Jul 2026 02:37:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس وتنفذ حملة اعتقالات واسعة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس وتنفذ حملة اعتقالات واسعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: نتنياهو سيأتي إلى واشنطن الأسبوع المقبل]]></title>
             <link>https://t.me/aljazeeraBrk/228462</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 09:09:02 GMT</pubDate>
             <description><![CDATA[إذاعة الجيش الإسرائيلي: الجيش يقرر الدفع بخمس سرايا لتعزيز قواته بالضفة الغربية في أعقاب الحدث في قرية تل]]></description>
             <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: الجيش يقرر الدفع بخمس سرايا لتعزيز قواته بالضفة الغربية في أعقاب الحدث في قرية تل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[موقع كبلر للبيانات الملاحية: عدد السفن التي عبرت مضيق هرمز أمس 6 بينها 3 ناقلات…]]></title>
-            <link>https://t.me/aljazeeraBrk/228263</link>
-            <guid isPermaLink="false">35f9b5ac3e8d81914d2da2b48c836077769e27c4985ec2c3342de78e404d1e10</guid>
-            <pubDate>Fri, 24 Jul 2026 08:56:02 GMT</pubDate>
-            <description><![CDATA[موقع كبلر للبيانات الملاحية: عدد السفن التي عبرت مضيق هرمز أمس 6 بينها 3 ناقلات إضافة إلى 3 أخرى اليوم]]></description>
-            <content:encoded><![CDATA[موقع كبلر للبيانات الملاحية: عدد السفن التي عبرت مضيق هرمز أمس 6 بينها 3 ناقلات إضافة إلى 3 أخرى اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
