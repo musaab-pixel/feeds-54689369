@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 06:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 06:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يستولون على منزل قيد الإنشاء في أطراف بلدة قراوة بني…]]></title>
+            <link>https://t.me/aljazeeraBrk/228473</link>
+            <guid isPermaLink="false">a6ed57afbfcb4a5a0f4295329a85121423c10fce4ddbb5f798160df1bab870db</guid>
+            <pubDate>Sat, 25 Jul 2026 06:38:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يستولون على منزل قيد الإنشاء في أطراف بلدة قراوة بني حسان غرب سلفيت بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يستولون على منزل قيد الإنشاء في أطراف بلدة قراوة بني حسان غرب سلفيت بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم بلدة بيت فوريك شرق مدينة نابلس بالضفة الغربية]]></title>
             <link>https://t.me/aljazeeraBrk/228472</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 09:46:02 GMT</pubDate>
             <description><![CDATA[الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة لإنهاء الأعمال العسكرية بالخليج]]></description>
             <content:encoded><![CDATA[الخارجية الروسية: لافروف أكد خلال لقائه عراقجي أهمية التوصل لاتفاقيات مستدامة لإنهاء الأعمال العسكرية بالخليج]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي…]]></title>
-            <link>https://t.me/aljazeeraBrk/228273</link>
-            <guid isPermaLink="false">99f337c69de57ebfc0a7962848235706aba278f044502cce65b6c51b2eb4f037</guid>
-            <pubDate>Fri, 24 Jul 2026 09:45:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي إماتين وفرعتا بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في ممتلكات الفلسطينيين خلال هجوم على قريتي إماتين وفرعتا بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
