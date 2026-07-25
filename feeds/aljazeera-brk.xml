@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 23:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 00:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية قريوت جنوب نابلس وتطلق قنابل…]]></title>
+            <link>https://t.me/aljazeeraBrk/228451</link>
+            <guid isPermaLink="false">82e115e8329cc58fa06eb602ed689984f183f1fb3a934f1abd9ac0bd7913112c</guid>
+            <pubDate>Fri, 24 Jul 2026 23:53:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية قريوت جنوب نابلس وتطلق قنابل الغاز باتجاه المنازل]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية قريوت جنوب نابلس وتطلق قنابل الغاز باتجاه المنازل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قريتي فرعون جنوب طولكرم وبرقين…]]></title>
             <link>https://t.me/aljazeeraBrk/228450</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 08:00:02 GMT</pubDate>
             <description><![CDATA[الهلال الأحمر الفلسطيني: مستوطنون يهاجمون بلدة عراق بورين بقضاء نابلس]]></description>
             <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: مستوطنون يهاجمون بلدة عراق بورين بقضاء نابلس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: الفلسطيني قتل على الفور بنيران قواتنا التي استعادت السلاح…]]></title>
-            <link>https://t.me/aljazeeraBrk/228250</link>
-            <guid isPermaLink="false">7e03fb47ab1270c5a39b37f61776b00b66cedfedb1854d23a547e41cccb6249c</guid>
-            <pubDate>Fri, 24 Jul 2026 07:59:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: الفلسطيني قتل على الفور بنيران قواتنا التي استعادت السلاح الذي كان قد استولى عليه]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: الفلسطيني قتل على الفور بنيران قواتنا التي استعادت السلاح الذي كان قد استولى عليه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
