@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 12:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 13:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[السفير الأمريكي لدى الأمم المتحدة لفوكس نيوز: الرئيس ترمب يمنح فرصة للمسار…]]></title>
+            <link>https://t.me/aljazeeraBrk/228693</link>
+            <guid isPermaLink="false">37c55d3627a601f9bfbaf415ee8d6b9d765d8ba8d35d88b55f865b7557fc82e8</guid>
+            <pubDate>Sun, 26 Jul 2026 13:10:03 GMT</pubDate>
+            <description><![CDATA[السفير الأمريكي لدى الأمم المتحدة لفوكس نيوز: الرئيس ترمب يمنح فرصة للمسار الدبلوماسي مع إيران]]></description>
+            <content:encoded><![CDATA[السفير الأمريكي لدى الأمم المتحدة لفوكس نيوز: الرئيس ترمب يمنح فرصة للمسار الدبلوماسي مع إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[غوتيريش: مصممون على فعل كل ما من شأنه أن يدفع المجتمع الدولي لدعم المرحلة…]]></title>
             <link>https://t.me/aljazeeraBrk/228691</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 07:57:02 GMT</pubDate>
             <description><![CDATA[نادي الأسير الفلسطيني للجزيرة: تصاعد الانتهاكات التي ترافق الاعتقالات مثل الضرب وتحطيم المنازل]]></description>
             <content:encoded><![CDATA[نادي الأسير الفلسطيني للجزيرة: تصاعد الانتهاكات التي ترافق الاعتقالات مثل الضرب وتحطيم المنازل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نادي الأسير الفلسطيني للجزيرة: اعتقال أكثر من ٨٠ فلسطينيا في الضفة الغربية…]]></title>
-            <link>https://t.me/aljazeeraBrk/228485</link>
-            <guid isPermaLink="false">ee2e1c14285a3c92ff2e64edb28d6cec8b707dd25cfee2d55d33e9d5208ba89d</guid>
-            <pubDate>Sat, 25 Jul 2026 07:55:02 GMT</pubDate>
-            <description><![CDATA[نادي الأسير الفلسطيني للجزيرة: اعتقال أكثر من ٨٠ فلسطينيا في الضفة الغربية أغلبهم في قرية تل بقضاء نابلس]]></description>
-            <content:encoded><![CDATA[نادي الأسير الفلسطيني للجزيرة: اعتقال أكثر من ٨٠ فلسطينيا في الضفة الغربية أغلبهم في قرية تل بقضاء نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
