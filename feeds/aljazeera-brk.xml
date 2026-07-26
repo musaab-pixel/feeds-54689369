@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 22:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 23:00:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم ضاحية اكتابا شمال شرق طولكرم…]]></title>
+            <link>https://t.me/aljazeeraBrk/228761</link>
+            <guid isPermaLink="false">7355207816eb1034e26a373abfe84784c8e3693859e56f591946cd0c9d35c2c9</guid>
+            <pubDate>Sun, 26 Jul 2026 22:50:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم ضاحية اكتابا شمال شرق طولكرم وجلبون شرق جنين بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم ضاحية اكتابا شمال شرق طولكرم وجلبون شرق جنين بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس بالضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/228760</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:08:02 GMT</pubDate>
             <description><![CDATA[مصدر بالجيش السوداني للجزيرة: استعدنا مدينة بارا بشمال كردفان بعد معارك عنيفة مع الدعم السريع]]></description>
             <content:encoded><![CDATA[مصدر بالجيش السوداني للجزيرة: استعدنا مدينة بارا بشمال كردفان بعد معارك عنيفة مع الدعم السريع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على عائلة فلسطينية في قرية اللبن الشرقية جنوب…]]></title>
-            <link>https://t.me/aljazeeraBrk/228561</link>
-            <guid isPermaLink="false">426779c1ad32cacaf3577683a1a72840cec888ae4f83ab344ee9ce7d77e1c582</guid>
-            <pubDate>Sat, 25 Jul 2026 15:52:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على عائلة فلسطينية في قرية اللبن الشرقية جنوب نابلس]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على عائلة فلسطينية في قرية اللبن الشرقية جنوب نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
