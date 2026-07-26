@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 05:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 06:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض…]]></title>
+            <link>https://t.me/aljazeeraBrk/228622</link>
+            <guid isPermaLink="false">fe14f8a5f42d37f95e61b965519411ff3d00ee4ecccf71b1fa762cfdf6aa0587</guid>
+            <pubDate>Sun, 26 Jul 2026 06:05:03 GMT</pubDate>
+            <description><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض على خلفية التوتر مع إيران]]></description>
+            <content:encoded><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض على خلفية التوتر مع إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجلس الشعب يصوّت اليوم على مسودة نظامه الداخلي في جلسته الثانية مجلس الشعب يعلن…]]></title>
             <link>https://t.me/HalabTodayTV/138755</link>
@@ -1484,15 +1493,6 @@
             <pubDate>Sat, 25 Jul 2026 09:43:02 GMT</pubDate>
             <description><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: عمليات المستوطنين في القرى والبلدات تتم برعاية وحماية قوات الاحتلال]]></description>
             <content:encoded><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: عمليات المستوطنين في القرى والبلدات تتم برعاية وحماية قوات الاحتلال]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: عمليات اعتقال وتحقيق ميداني في عدد من مناطق…]]></title>
-            <link>https://t.me/aljazeeraBrk/228505</link>
-            <guid isPermaLink="false">3c04c2df3e490df32071e6faf9937ec7164417f881e3986a58f21af71c37645a</guid>
-            <pubDate>Sat, 25 Jul 2026 09:42:02 GMT</pubDate>
-            <description><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: عمليات اعتقال وتحقيق ميداني في عدد من مناطق الضفة الغربية وسط حملات مداهمة]]></description>
-            <content:encoded><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: عمليات اعتقال وتحقيق ميداني في عدد من مناطق الضفة الغربية وسط حملات مداهمة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

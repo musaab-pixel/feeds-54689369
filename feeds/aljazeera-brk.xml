@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 05:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 06:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض…]]></title>
+            <link>https://t.me/aljazeeraBrk/228622</link>
+            <guid isPermaLink="false">fe14f8a5f42d37f95e61b965519411ff3d00ee4ecccf71b1fa762cfdf6aa0587</guid>
+            <pubDate>Sun, 26 Jul 2026 06:05:03 GMT</pubDate>
+            <description><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض على خلفية التوتر مع إيران]]></description>
+            <content:encoded><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض على خلفية التوتر مع إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/228621</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 19:40:02 GMT</pubDate>
             <description><![CDATA[مصدر مسؤول بالهيئة العامة للنقل السعودية: استهداف سفينة سعودية بالبحر الأحمر نتج عنه إصابة طفيفة في هيكلها]]></description>
             <content:encoded><![CDATA[مصدر مسؤول بالهيئة العامة للنقل السعودية: استهداف سفينة سعودية بالبحر الأحمر نتج عنه إصابة طفيفة في هيكلها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: أمامنا خياران بشأن إيران إما مواصلة الضربات وتدمير قدراتها أو التوصل إلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/228415</link>
-            <guid isPermaLink="false">0d250b24d6fa8a6995be5cc4b5076b18784f6ae44c93f250c3f883eae60199b8</guid>
-            <pubDate>Fri, 24 Jul 2026 19:38:02 GMT</pubDate>
-            <description><![CDATA[ترمب: أمامنا خياران بشأن إيران إما مواصلة الضربات وتدمير قدراتها أو التوصل إلى اتفاق ونحن نتفاوض معها حاليا]]></description>
-            <content:encoded><![CDATA[ترمب: أمامنا خياران بشأن إيران إما مواصلة الضربات وتدمير قدراتها أو التوصل إلى اتفاق ونحن نتفاوض معها حاليا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
