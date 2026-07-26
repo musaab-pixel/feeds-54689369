@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 18:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 19:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: هناك تبادل للرسائل مع أمريكا والوسطاء يقومون…]]></title>
+            <link>https://t.me/aljazeeraBrk/228738</link>
+            <guid isPermaLink="false">55be00727741210fa3118fba44f8e7f6c4157a45da0f06ffc2ebc27e4b323fc8</guid>
+            <pubDate>Sun, 26 Jul 2026 19:05:03 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: هناك تبادل للرسائل مع أمريكا والوسطاء يقومون بمهمتهم]]></description>
+            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: هناك تبادل للرسائل مع أمريكا والوسطاء يقومون بمهمتهم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: إصابة فلسطيني برصاص الاحتلال في مخيم قلنديا شمالي القدس]]></title>
             <link>https://t.me/aljazeeraBrk/228737</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 11:38:02 GMT</pubDate>
             <description><![CDATA[وزارة الداخلية بغزة: استشهاد مدير شرطة محافظة شمال غزة في استهداف بمسيرة إسرائيلية في حي الشيخ رضوان]]></description>
             <content:encoded><![CDATA[وزارة الداخلية بغزة: استشهاد مدير شرطة محافظة شمال غزة في استهداف بمسيرة إسرائيلية في حي الشيخ رضوان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم منزلا وتحوله لثكنة عسكرية في بلدة ترمسعيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/228531</link>
-            <guid isPermaLink="false">52b760ad410f89942e85fd32094c93881c03e213392d3a78d0ffb38191de0ef6</guid>
-            <pubDate>Sat, 25 Jul 2026 11:35:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم منزلا وتحوله لثكنة عسكرية في بلدة ترمسعيا بقضاء رام الله]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم منزلا وتحوله لثكنة عسكرية في بلدة ترمسعيا بقضاء رام الله]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
