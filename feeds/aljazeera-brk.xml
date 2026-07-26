@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 20:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 20:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: قوات الاحتلال تقتحم مدخل بلدة مخماس شرق القدس المحتلة]]></title>
+            <link>https://t.me/aljazeeraBrk/228741</link>
+            <guid isPermaLink="false">07c1efcf438c9b42a114e470f0ddaac39de5033e9dd29fad0546de3c825d5790</guid>
+            <pubDate>Sun, 26 Jul 2026 20:13:03 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: قوات الاحتلال تقتحم مدخل بلدة مخماس شرق القدس المحتلة]]></description>
+            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تقتحم مدخل بلدة مخماس شرق القدس المحتلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: مستوطنون يقتحمون محيط تجمع أبو فزاع البدوي في بلدة الطيبة بقضاء…]]></title>
             <link>https://t.me/aljazeeraBrk/228740</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 11:49:02 GMT</pubDate>
             <description><![CDATA[وكالة سبأ اليمنية: اجتماع يضم عضو مجلس القيادة سلطان العرادة ووزير الدفاع ورئيس الأركان وقائد التحالف]]></description>
             <content:encoded><![CDATA[وكالة سبأ اليمنية: اجتماع يضم عضو مجلس القيادة سلطان العرادة ووزير الدفاع ورئيس الأركان وقائد التحالف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في مستشفيات غزة: 3 شهداء وأكثر من 10 مصابين في غارات إسرائيلية على قطاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/228534</link>
-            <guid isPermaLink="false">5fe7bcf451a70fd8fa3aa7ab181277119f1169a773e7f1d5887a879b7967bfcb</guid>
-            <pubDate>Sat, 25 Jul 2026 11:44:02 GMT</pubDate>
-            <description><![CDATA[مصادر في مستشفيات غزة: 3 شهداء وأكثر من 10 مصابين في غارات إسرائيلية على قطاع غزة منذ صباح اليوم]]></description>
-            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 3 شهداء وأكثر من 10 مصابين في غارات إسرائيلية على قطاع غزة منذ صباح اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
