@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 25 Jul 2026 22:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 05:01:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: مشروع القانون المتعلق بمضيق هرمز يجري بحثه حاليا في لجنة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228610</link>
+            <guid isPermaLink="false">21455ed88e7de149e597234d736731dac14c85e4e873ee11aa49f7bd10fb6c3a</guid>
+            <pubDate>Sun, 26 Jul 2026 04:56:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: مشروع القانون المتعلق بمضيق هرمز يجري بحثه حاليا في لجنة الأمن القومي بالبرلمان]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: مشروع القانون المتعلق بمضيق هرمز يجري بحثه حاليا في لجنة الأمن القومي بالبرلمان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدتي زيتا واكتابا في محافظة طولكرم شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/228609</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 18:25:03 GMT</pubDate>
             <description><![CDATA[مصادر دبلوماسية: الدول الأعضاء في المحكمة الجنائية الدولية تعفي المدعي العام كريم خان من منصبه]]></description>
             <content:encoded><![CDATA[مصادر دبلوماسية: الدول الأعضاء في المحكمة الجنائية الدولية تعفي المدعي العام كريم خان من منصبه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئاسة الفلسطينية: حكومة الاحتلال تدفع الضفة الغربية نحو الانفجار تنفيذا…]]></title>
-            <link>https://t.me/aljazeeraBrk/228403</link>
-            <guid isPermaLink="false">b8e20f69772b7a79f154d77548b4ab148edcfbeaa4c8809014ecc9433a2d073e</guid>
-            <pubDate>Fri, 24 Jul 2026 18:25:02 GMT</pubDate>
-            <description><![CDATA[الرئاسة الفلسطينية: حكومة الاحتلال تدفع الضفة الغربية نحو الانفجار تنفيذا لمخططاتها الاستعمارية]]></description>
-            <content:encoded><![CDATA[الرئاسة الفلسطينية: حكومة الاحتلال تدفع الضفة الغربية نحو الانفجار تنفيذا لمخططاتها الاستعمارية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
