@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "42f7618e3bef9c44916b69b4d216a0aa66860d60677e74bcba1972282b08ab5f",
+            "content_html": "مراسلة الجزيرة: مستوطنون يقتحمون محيط تجمع أبو فزاع البدوي في بلدة الطيبة بقضاء رام الله",
+            "url": "https://t.me/aljazeeraBrk/228740",
+            "title": "مراسلة الجزيرة: مستوطنون يقتحمون محيط تجمع أبو فزاع البدوي في بلدة الطيبة بقضاء…",
+            "summary": "مراسلة الجزيرة: مستوطنون يقتحمون محيط تجمع أبو فزاع البدوي في بلدة الطيبة بقضاء رام الله",
+            "date_modified": "2026-07-26T20:09:04.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "e0fd84387e0edf38c0e4f69d84973eedae6e6b4062af29ded876028aa0bd37f9",
+            "content_html": "مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة بير زيت شمال رام الله",
+            "url": "https://t.me/aljazeeraBrk/228739",
+            "title": "مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة بير زيت شمال رام الله",
+            "summary": "مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة بير زيت شمال رام الله",
+            "date_modified": "2026-07-26T20:08:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "55be00727741210fa3118fba44f8e7f6c4157a45da0f06ffc2ebc27e4b323fc8",
             "content_html": "المتحدث باسم الخارجية الإيرانية: هناك تبادل للرسائل مع أمريكا والوسطاء يقومون بمهمتهم",
             "url": "https://t.me/aljazeeraBrk/228738",
@@ -1593,28 +1615,6 @@
             "title": "مصدر في الإسعاف والطوارئ بغزة: مصابون في غارة إسرائيلية على مركبة مدنية جنوب…",
             "summary": "مصدر في الإسعاف والطوارئ بغزة: مصابون في غارة إسرائيلية على مركبة مدنية جنوب دير البلح",
             "date_modified": "2026-07-26T08:47:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "74e6efaa915f2f30eebeb96fea3e74ad353c379cea6a0182871e3e093e2dce0e",
-            "content_html": "المصرف المركزي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>انتهاء مهلة استبدال العملة القديمة في 30 تموز الجاري بعد تحقيق نسبة إنجاز متقدمة في عملية الاستبدال<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>مرحلة السحب تبدأ اعتبارًا من 31 تموز ولمدة خمس سنوات وتنفذ حصرًا عبر مصرف سورية المركزي في دمشق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>يشترط على طلب  السحب ألا يقل عدد الأوراق النقدية عن 100 ورقة من أي فئة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>يقصد بمصطلح الليرة السورية في جميع التعاملات الرسمية بالليرة الجديدة اعتبارًا من 31 تموز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ندعو المواطنين إلى استقاء معلومات إجراءات السحب من القنوات الرسمية فقط وتجنب الشائعات <br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138758",
-            "title": "المصرف المركزي: 📌انتهاء مهلة استبدال العملة القديمة في 30 تموز الجاري بعد…",
-            "summary": "المصرف المركزي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>انتهاء مهلة استبدال العملة القديمة في 30 تموز الجاري بعد تحقيق نسبة إنجاز متقدمة في عملية الاستبدال<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>مرحلة السحب تبدأ اعتبارًا من 31 تموز ولمدة خمس سنوات وتنفذ حصرًا عبر مصرف سورية المركزي في دمشق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>يشترط على طلب  السحب ألا يقل عدد الأوراق النقدية عن 100 ورقة من أي فئة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>يقصد بمصطلح الليرة السورية في جميع التعاملات الرسمية بالليرة الجديدة اعتبارًا من 31 تموز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ندعو المواطنين إلى استقاء معلومات إجراءات السحب من القنوات الرسمية فقط وتجنب الشائعات <br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-07-26T08:37:02.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "eca86c8c9ad8977ad50c37923894d38e95f25712c463457f5542a54536b24a2a",
-            "content_html": "مراسلة الجزيرة: مستوطنون يعتدون على سيارات الفلسطينيين ويمنعونها من المرور على مدخل سلواد شرق رام الله",
-            "url": "https://t.me/aljazeeraBrk/228634",
-            "title": "مراسلة الجزيرة: مستوطنون يعتدون على سيارات الفلسطينيين ويمنعونها من المرور على…",
-            "summary": "مراسلة الجزيرة: مستوطنون يعتدون على سيارات الفلسطينيين ويمنعونها من المرور على مدخل سلواد شرق رام الله",
-            "date_modified": "2026-07-26T08:16:03.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
