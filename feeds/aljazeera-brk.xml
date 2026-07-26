@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 23:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 23:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان…]]></title>
+            <link>https://t.me/aljazeeraBrk/228762</link>
+            <guid isPermaLink="false">95fdc807fac51b6d73978dac1b800bef41999384c1b9eea51869538071d7404c</guid>
+            <pubDate>Sun, 26 Jul 2026 23:32:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان من تل جنوب غرب نابلس]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان من تل جنوب غرب نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم ضاحية اكتابا شمال شرق طولكرم…]]></title>
             <link>https://t.me/aljazeeraBrk/228761</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:15:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق الواصل إلى قرى شمال غرب القدس ويرشقون المركبات بالحجارة]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق الواصل إلى قرى شمال غرب القدس ويرشقون المركبات بالحجارة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر بالجيش السوداني للجزيرة: استعدنا مدينة بارا بشمال كردفان بعد معارك عنيفة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228562</link>
-            <guid isPermaLink="false">f0a4c1118dde8d66546829288e35cc1571011420a5d7471fbadf0d258a8ae0e7</guid>
-            <pubDate>Sat, 25 Jul 2026 16:08:02 GMT</pubDate>
-            <description><![CDATA[مصدر بالجيش السوداني للجزيرة: استعدنا مدينة بارا بشمال كردفان بعد معارك عنيفة مع الدعم السريع]]></description>
-            <content:encoded><![CDATA[مصدر بالجيش السوداني للجزيرة: استعدنا مدينة بارا بشمال كردفان بعد معارك عنيفة مع الدعم السريع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

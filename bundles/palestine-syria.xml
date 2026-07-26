@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 23:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 23:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان…]]></title>
+            <link>https://t.me/aljazeeraBrk/228762</link>
+            <guid isPermaLink="false">95fdc807fac51b6d73978dac1b800bef41999384c1b9eea51869538071d7404c</guid>
+            <pubDate>Sun, 26 Jul 2026 23:32:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان من تل جنوب غرب نابلس]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان من تل جنوب غرب نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة العدالة الانتقالية تبحث مع غوتيريش دعم مسارات العدالة وملف المفقودين]]></title>
             <link>https://actionpal.org.uk/post/999125372</link>
@@ -1700,15 +1709,6 @@
             <pubDate>Sun, 26 Jul 2026 09:57:03 GMT</pubDate>
             <description><![CDATA[الشرع للجزيرة: نتجنب الصدام مع إسرائيل ولا مصلحة لنا في ذلك]]></description>
             <content:encoded><![CDATA[الشرع للجزيرة: نتجنب الصدام مع إسرائيل ولا مصلحة لنا في ذلك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الشرع للجزيرة: نعمل للوصول إلى اتفاق أمني مع إسرائيل بمشاركة مجموعة من الدول]]></title>
-            <link>https://t.me/aljazeeraBrk/228657</link>
-            <guid isPermaLink="false">20525a3e8fd5e90df9fd847fb68f604dd9b87a60627d85cb65637fafcf89ffa4</guid>
-            <pubDate>Sun, 26 Jul 2026 09:57:03 GMT</pubDate>
-            <description><![CDATA[الشرع للجزيرة: نعمل للوصول إلى اتفاق أمني مع إسرائيل بمشاركة مجموعة من الدول]]></description>
-            <content:encoded><![CDATA[الشرع للجزيرة: نعمل للوصول إلى اتفاق أمني مع إسرائيل بمشاركة مجموعة من الدول]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
