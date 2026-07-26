@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 14:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 14:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئاسة اللبنانية: عون وماكرون بحثا في اتصال الأوضاع العامة في لبنان والمنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228695</link>
+            <guid isPermaLink="false">32f90c7f01f0bd6eadb9b1af494d41ea6a69c50bcc83047e48578f1285faefad</guid>
+            <pubDate>Sun, 26 Jul 2026 14:10:03 GMT</pubDate>
+            <description><![CDATA[الرئاسة اللبنانية: عون وماكرون بحثا في اتصال الأوضاع العامة في لبنان والمنطقة في ضوء التطورات الأخيرة]]></description>
+            <content:encoded><![CDATA[الرئاسة اللبنانية: عون وماكرون بحثا في اتصال الأوضاع العامة في لبنان والمنطقة في ضوء التطورات الأخيرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[يديعوت أحرونوت: المجلس الوزاري المصغر يصدق على إدخال مجلس السلام إلى قطاع غزة]]></title>
             <link>https://t.me/aljazeeraBrk/228694</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 08:38:02 GMT</pubDate>
             <description><![CDATA[أطباء بلا حدود: مرافق الرعاية الصحية بفلسطين تتمتع بالحماية وليس مقبولا استهداف المستشفيات وسيارات الإسعاف]]></description>
             <content:encoded><![CDATA[أطباء بلا حدود: مرافق الرعاية الصحية بفلسطين تتمتع بالحماية وليس مقبولا استهداف المستشفيات وسيارات الإسعاف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أطباء بلا حدود: اقتحام قوات إسرائيلية مستشفى نابلس وأحداث تل أمس نمط أوسع من…]]></title>
-            <link>https://t.me/aljazeeraBrk/228488</link>
-            <guid isPermaLink="false">7b8d52a9f607257c64f780770be144f61f71d054d33011f005b0e8a4bf4b9282</guid>
-            <pubDate>Sat, 25 Jul 2026 08:37:02 GMT</pubDate>
-            <description><![CDATA[أطباء بلا حدود: اقتحام قوات إسرائيلية مستشفى نابلس وأحداث تل أمس نمط أوسع من الهجمات وعنف المستوطنين]]></description>
-            <content:encoded><![CDATA[أطباء بلا حدود: اقتحام قوات إسرائيلية مستشفى نابلس وأحداث تل أمس نمط أوسع من الهجمات وعنف المستوطنين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
