@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 20:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 21:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب ينشر على حسابه في منصة تروث سوشيال صورا بالذكاء الاصطناعي تحاكي شن غارات…]]></title>
+            <link>https://t.me/aljazeeraBrk/228751</link>
+            <guid isPermaLink="false">2e5ac7396a12ff23f61877761df5e800e1e9ab6c885a0b78f9693cd1ffc71c01</guid>
+            <pubDate>Sun, 26 Jul 2026 21:00:03 GMT</pubDate>
+            <description><![CDATA[ترمب ينشر على حسابه في منصة تروث سوشيال صورا بالذكاء الاصطناعي تحاكي شن غارات على إيران وجزيرة خارك]]></description>
+            <content:encoded><![CDATA[ترمب ينشر على حسابه في منصة تروث سوشيال صورا بالذكاء الاصطناعي تحاكي شن غارات على إيران وجزيرة خارك]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة حزما بقضاء القدس]]></title>
             <link>https://t.me/aljazeeraBrk/228750</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 12:30:02 GMT</pubDate>
             <description><![CDATA[رويترز عن مسؤولين عسكريين يمنيين: قواتنا الجوية قصفت مواقع لإطلاق الصواريخ والمسيرات للحوثيين في مأرب والجوف]]></description>
             <content:encoded><![CDATA[رويترز عن مسؤولين عسكريين يمنيين: قواتنا الجوية قصفت مواقع لإطلاق الصواريخ والمسيرات للحوثيين في مأرب والجوف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: دفاعاتنا اشتبكت ليلة أمس مع طائرات…]]></title>
-            <link>https://t.me/aljazeeraBrk/228544</link>
-            <guid isPermaLink="false">9c058b2b65251bffe61f6facace9856cdf02c29cd152d9cae1402afb132a9b63</guid>
-            <pubDate>Sat, 25 Jul 2026 12:06:02 GMT</pubDate>
-            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: دفاعاتنا اشتبكت ليلة أمس مع طائرات سعودية أغارت على الحديدة وكمران]]></description>
-            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: دفاعاتنا اشتبكت ليلة أمس مع طائرات سعودية أغارت على الحديدة وكمران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
