@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 17:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 17:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية دير جرير وتعتقل شابا على مدخل قرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/228728</link>
+            <guid isPermaLink="false">5567753827a22e32c2584d1eafc55c12b7066e1a2364e6cf187485ca30b3b50e</guid>
+            <pubDate>Sun, 26 Jul 2026 17:23:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية دير جرير وتعتقل شابا على مدخل قرية المغير في رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية دير جرير وتعتقل شابا على مدخل قرية المغير في رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المرشد الإيراني في رسالة: وضعنا حفظ وحدة أراضي لبنان وإنهاء العدوان الصهيوني…]]></title>
             <link>https://t.me/aljazeeraBrk/228727</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 11:10:02 GMT</pubDate>
             <description><![CDATA[الصحة السورية: 35 وفاة و30 مصابا بحادث طريق دمشق دير الزور]]></description>
             <content:encoded><![CDATA[الصحة السورية: 35 وفاة و30 مصابا بحادث طريق دمشق دير الزور]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مدير الإسعاف والطوارئ بوزارة الصحة السورية: حصيلة حادث تصادم الحافلتين على طريق…]]></title>
-            <link>https://t.me/aljazeeraBrk/228521</link>
-            <guid isPermaLink="false">bc8ef015251c7bd61cbcf37995a0ba5cfff63eb6936c0c6ae2f0767cf07494be</guid>
-            <pubDate>Sat, 25 Jul 2026 11:09:02 GMT</pubDate>
-            <description><![CDATA[مدير الإسعاف والطوارئ بوزارة الصحة السورية: حصيلة حادث تصادم الحافلتين على طريق دير الزور دمشق بلغت حتى الآن 35 وفاة و30 مصابا]]></description>
-            <content:encoded><![CDATA[مدير الإسعاف والطوارئ بوزارة الصحة السورية: حصيلة حادث تصادم الحافلتين على طريق دير الزور دمشق بلغت حتى الآن 35 وفاة و30 مصابا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
