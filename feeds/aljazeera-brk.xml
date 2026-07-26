@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 07:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 07:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تغلق الحواجز العسكرية التي تطوق محافظة رام الله…]]></title>
+            <link>https://t.me/aljazeeraBrk/228632</link>
+            <guid isPermaLink="false">0d671bc5bf6323ff6b0e29d1d90d69d333c09d1fc1f24efa06742307e5d3e4a2</guid>
+            <pubDate>Sun, 26 Jul 2026 07:30:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تغلق الحواجز العسكرية التي تطوق محافظة رام الله والبيرة وسط الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تغلق الحواجز العسكرية التي تطوق محافظة رام الله والبيرة وسط الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: قوات الاحتلال منعت دخول مرضى غسيل الكلى من خارج…]]></title>
             <link>https://t.me/aljazeeraBrk/228631</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 20:48:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت منشآت لمؤسسة الاتصالات بالحديدة وجزيرة كمران]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت منشآت لمؤسسة الاتصالات بالحديدة وجزيرة كمران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت جزيرة كمران]]></title>
-            <link>https://t.me/aljazeeraBrk/228425</link>
-            <guid isPermaLink="false">8afad97ead31ec604466f91923264f7260cc9cfb89c9e09862a7ffe7ba83b295</guid>
-            <pubDate>Fri, 24 Jul 2026 20:23:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت جزيرة كمران]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية استهدفت جزيرة كمران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
