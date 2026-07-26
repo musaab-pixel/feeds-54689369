@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 06:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 06:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا الليلة الماضية منشآت تابعة لمجمع الصناعة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228623</link>
+            <guid isPermaLink="false">917f456e5513b42e651dbd2313cc654e140331a5aa9aaa30b2d766d39d44bbb3</guid>
+            <pubDate>Sun, 26 Jul 2026 06:29:03 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا الليلة الماضية منشآت تابعة لمجمع الصناعة العسكرية الأوكراني في كييف]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا الليلة الماضية منشآت تابعة لمجمع الصناعة العسكرية الأوكراني في كييف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة البث الإسرائيلية عن مصادر: نقل اجتماع مجلس الوزراء إلى موقع آمن تحت الأرض…]]></title>
             <link>https://t.me/aljazeeraBrk/228622</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 19:46:02 GMT</pubDate>
             <description><![CDATA[ترمب: لم يتخذ قرار بعد بشأن تنفيذ ضربات أمريكية كبيرة على إيران]]></description>
             <content:encoded><![CDATA[ترمب: لم يتخذ قرار بعد بشأن تنفيذ ضربات أمريكية كبيرة على إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر مسؤول بالهيئة العامة للنقل السعودية: استهداف سفينة سعودية بالبحر الأحمر…]]></title>
-            <link>https://t.me/aljazeeraBrk/228416</link>
-            <guid isPermaLink="false">652abf4bc5a4fbce0a266ad68dae17e63a06c1bee04067386734a5971cbb5648</guid>
-            <pubDate>Fri, 24 Jul 2026 19:40:02 GMT</pubDate>
-            <description><![CDATA[مصدر مسؤول بالهيئة العامة للنقل السعودية: استهداف سفينة سعودية بالبحر الأحمر نتج عنه إصابة طفيفة في هيكلها]]></description>
-            <content:encoded><![CDATA[مصدر مسؤول بالهيئة العامة للنقل السعودية: استهداف سفينة سعودية بالبحر الأحمر نتج عنه إصابة طفيفة في هيكلها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
