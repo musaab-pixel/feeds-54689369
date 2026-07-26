@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 06:54:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 07:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تطلق قذائف مدفعية في محيط أراضي قرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/228628</link>
+            <guid isPermaLink="false">0c64065c529865d140158f62b171a2ff5fd5791d902230974a3de306b949b148</guid>
+            <pubDate>Sun, 26 Jul 2026 07:05:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تطلق قذائف مدفعية في محيط أراضي قرية طرنجة بريف القنيطرة الشمالي]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تطلق قذائف مدفعية في محيط أراضي قرية طرنجة بريف القنيطرة الشمالي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الأوقاف الفلسطينية: جريمة حرق المساجد تتجاوز السلوك الفردي لتأخذ شكلا…]]></title>
             <link>https://t.me/aljazeeraBrk/228627</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 20:13:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية تستهدف مدينة الحديدة غربي اليمن]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات سعودية تستهدف مدينة الحديدة غربي اليمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الغاز خلال اقتحامها محيط مخيم الدهيشة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228421</link>
-            <guid isPermaLink="false">720d56402c06758dee9d29745fababad933041c9886e22f2cd37688d3f7bdafd</guid>
-            <pubDate>Fri, 24 Jul 2026 20:12:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الغاز خلال اقتحامها محيط مخيم الدهيشة في مدينة بيت لحم]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الغاز خلال اقتحامها محيط مخيم الدهيشة في مدينة بيت لحم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
