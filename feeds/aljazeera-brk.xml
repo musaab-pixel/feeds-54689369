@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 17:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 17:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القناة 12 الإسرائيلية عن مسؤولين عسكريين: دعم المسؤولين لأعمال المستوطنين في…]]></title>
+            <link>https://t.me/aljazeeraBrk/228729</link>
+            <guid isPermaLink="false">2479ce249aac43426de671484a862de9c9b63942300a7016c1bddea2185c4c4b</guid>
+            <pubDate>Sun, 26 Jul 2026 17:52:03 GMT</pubDate>
+            <description><![CDATA[القناة 12 الإسرائيلية عن مسؤولين عسكريين: دعم المسؤولين لأعمال المستوطنين في الضفة الغربية يهدد بفقدان السيطرة]]></description>
+            <content:encoded><![CDATA[القناة 12 الإسرائيلية عن مسؤولين عسكريين: دعم المسؤولين لأعمال المستوطنين في الضفة الغربية يهدد بفقدان السيطرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم قرية دير جرير وتعتقل شابا على مدخل قرية…]]></title>
             <link>https://t.me/aljazeeraBrk/228728</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 11:14:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية السوري خلال لقائه غوتيريش بدمشق: هذه أول زيارة لأمين عام المنظمة الدولية إلى سوريا منذ 17 عاما]]></description>
             <content:encoded><![CDATA[وزير الخارجية السوري خلال لقائه غوتيريش بدمشق: هذه أول زيارة لأمين عام المنظمة الدولية إلى سوريا منذ 17 عاما]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الصحة السورية: 35 وفاة و30 مصابا بحادث طريق دمشق دير الزور]]></title>
-            <link>https://t.me/aljazeeraBrk/228522</link>
-            <guid isPermaLink="false">434e33c0384b5c75ae7dab0a462547267f5013a4088cce0bfac6b4792301c302</guid>
-            <pubDate>Sat, 25 Jul 2026 11:10:02 GMT</pubDate>
-            <description><![CDATA[الصحة السورية: 35 وفاة و30 مصابا بحادث طريق دمشق دير الزور]]></description>
-            <content:encoded><![CDATA[الصحة السورية: 35 وفاة و30 مصابا بحادث طريق دمشق دير الزور]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
