@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 18:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 18:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: إصابة فلسطيني برصاص الاحتلال في مخيم قلنديا شمالي القدس]]></title>
+            <link>https://t.me/aljazeeraBrk/228737</link>
+            <guid isPermaLink="false">f6d154ad2df132e6cd2e0f8972629e524bc8fa3bbfeb93a0b33227a6ceca5a5e</guid>
+            <pubDate>Sun, 26 Jul 2026 18:46:03 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: إصابة فلسطيني برصاص الاحتلال في مخيم قلنديا شمالي القدس]]></description>
+            <content:encoded><![CDATA[محافظة القدس: إصابة فلسطيني برصاص الاحتلال في مخيم قلنديا شمالي القدس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص الحي خلال اقتحامها مخيم قلنديا شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/228736</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 11:35:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم منزلا وتحوله لثكنة عسكرية في بلدة ترمسعيا بقضاء رام الله]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم منزلا وتحوله لثكنة عسكرية في بلدة ترمسعيا بقضاء رام الله]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التلفزيون اليمني: غارات على منصات صواريخ ومخازن سلاح للحوثيين بمديريات الجوبة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228530</link>
-            <guid isPermaLink="false">0446a0657b0b5de3b46ab1cc9ed27eac025a4dde7a23f6c7eec28209c286400c</guid>
-            <pubDate>Sat, 25 Jul 2026 11:34:02 GMT</pubDate>
-            <description><![CDATA[التلفزيون اليمني: غارات على منصات صواريخ ومخازن سلاح للحوثيين بمديريات الجوبة والصفراء ومجزر بمأرب والجوف]]></description>
-            <content:encoded><![CDATA[التلفزيون اليمني: غارات على منصات صواريخ ومخازن سلاح للحوثيين بمديريات الجوبة والصفراء ومجزر بمأرب والجوف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
