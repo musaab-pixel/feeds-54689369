@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 05:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 05:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228621</link>
+            <guid isPermaLink="false">e13f747c904ab21097983f9f825f3b4b38a3171af4d863d01f610ee25ba6c74d</guid>
+            <pubDate>Sun, 26 Jul 2026 05:44:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[السعودية وقطر والأردن ومصر والبحرين وتركيا وفرنسا تعلن تعازيها ومواساتها لسوريا…]]></title>
             <link>https://t.me/HalabTodayTV/138754</link>
@@ -1484,15 +1493,6 @@
             <pubDate>Sat, 25 Jul 2026 09:41:01 GMT</pubDate>
             <description><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: اعتقال نحو 50 فلسطينيا في بلدة تل في نابلس]]></description>
             <content:encoded><![CDATA[رئيس نادي الأسير الفلسطيني للجزيرة: اعتقال نحو 50 فلسطينيا في بلدة تل في نابلس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: حصار على عدد من البلدات والقرى في قضاء نابلس بالضفة الغربية]]></title>
-            <link>https://t.me/aljazeeraBrk/228503</link>
-            <guid isPermaLink="false">cbea49ec3520bf734278d4f38da598263d4cea974f5abf60791321b411ea03fc</guid>
-            <pubDate>Sat, 25 Jul 2026 09:24:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: حصار على عدد من البلدات والقرى في قضاء نابلس بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: حصار على عدد من البلدات والقرى في قضاء نابلس بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 05:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 05:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228621</link>
+            <guid isPermaLink="false">e13f747c904ab21097983f9f825f3b4b38a3171af4d863d01f610ee25ba6c74d</guid>
+            <pubDate>Sun, 26 Jul 2026 05:44:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار بمسجد في بلدة قصرة جنوب نابلس شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تدهم مبنى سكنيا خلال اقتحامها مدينة نابلس في الضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/228620</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 24 Jul 2026 19:38:02 GMT</pubDate>
             <description><![CDATA[ترمب: أمامنا خياران بشأن إيران إما مواصلة الضربات وتدمير قدراتها أو التوصل إلى اتفاق ونحن نتفاوض معها حاليا]]></description>
             <content:encoded><![CDATA[ترمب: أمامنا خياران بشأن إيران إما مواصلة الضربات وتدمير قدراتها أو التوصل إلى اتفاق ونحن نتفاوض معها حاليا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الأمريكي: إيران ليست مستعدة بعد لإبرام اتفاق لكننا نتحدث معهم ويمكننا…]]></title>
-            <link>https://t.me/aljazeeraBrk/228414</link>
-            <guid isPermaLink="false">ab50f2d7901a25436dda96aac6bcacef0e1e567ce54cda04924b6eb02206cd1a</guid>
-            <pubDate>Fri, 24 Jul 2026 19:36:03 GMT</pubDate>
-            <description><![CDATA[الرئيس الأمريكي: إيران ليست مستعدة بعد لإبرام اتفاق لكننا نتحدث معهم ويمكننا التفاوض]]></description>
-            <content:encoded><![CDATA[الرئيس الأمريكي: إيران ليست مستعدة بعد لإبرام اتفاق لكننا نتحدث معهم ويمكننا التفاوض]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
