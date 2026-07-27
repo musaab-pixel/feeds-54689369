@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 26 Jul 2026 23:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 00:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن بيانات تتبع حركة الملاحة: أقل من 10 سفن محملة بالسلع عبرت مضيق هرمز…]]></title>
+            <link>https://t.me/aljazeeraBrk/228763</link>
+            <guid isPermaLink="false">1905dc84403a9549f4beaad9d8c68b017f969a1c09c57a123dea4edc827cbf45</guid>
+            <pubDate>Mon, 27 Jul 2026 00:38:03 GMT</pubDate>
+            <description><![CDATA[رويترز عن بيانات تتبع حركة الملاحة: أقل من 10 سفن محملة بالسلع عبرت مضيق هرمز يوميا خلال عطلة نهاية الأسبوع]]></description>
+            <content:encoded><![CDATA[رويترز عن بيانات تتبع حركة الملاحة: أقل من 10 سفن محملة بالسلع عبرت مضيق هرمز يوميا خلال عطلة نهاية الأسبوع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل والد الشهيدين إبراهيم وجواد رمضان…]]></title>
             <link>https://t.me/aljazeeraBrk/228762</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:17:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق المؤدي إلى قرى شمال غرب القدس ويرشقون السيارات بالحجارة]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق المؤدي إلى قرى شمال غرب القدس ويرشقون السيارات بالحجارة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق الواصل إلى قرى شمال غرب القدس…]]></title>
-            <link>https://t.me/aljazeeraBrk/228563</link>
-            <guid isPermaLink="false">f6b6fb43f654cc161a0729f0b5c564b0cdf4544a207ad06adc9eb8d320970f6a</guid>
-            <pubDate>Sat, 25 Jul 2026 16:15:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق الواصل إلى قرى شمال غرب القدس ويرشقون المركبات بالحجارة]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق الواصل إلى قرى شمال غرب القدس ويرشقون المركبات بالحجارة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 00:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -481,6 +481,598 @@
 <p class="tw-text-xs tw-leading-snug tw-mb-0">
 		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Joachim_Kuhn_by_ACT_Tibor_Bozi_01_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apoios Apoio à edição Apoio à publicação de obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, ou traduções de obras de referência internacional. 14 set – 16 out 2026]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/apoio-a-edicao/</link>
+            <guid isPermaLink="false">cb1a0548374c54dd15768ad1edc21d790f9a463cf79f531008c499a439666474</guid>
+            <pubDate>Mon, 27 Jul 2026 00:42:48 GMT</pubDate>
+            <description><![CDATA[<p>Este concurso apoia editoras para a publicação de obras originais de interesse cultural e científico em língua portuguesa, ou a tradução de obras de referência.</p>
+<p>Os objetivos do apoio são:</p>
+<ul class="list-format-bar">
+<li>Estimular a circulação de obras que traduzam pensamento original e inovador, nos domínios das Artes, Humanidades e Ciências Sociais, bem como a tradução de qualidade;</li>
+<li>Estimular a atividade e o contributo das editoras para um debate cultural aberto e inclusivo;</li>
+<li>Contribuir para a dinamização do mercado do livro em áreas editoriais menos sustentáveis do ponto de vista comercial.</li>
+</ul>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Podem candidatar-se obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, nos seguintes domínios:</p>
+<ul class="list-format-bar">
+	<li>Artes (não-ficção);</li>
+	<li>Humanidades (não-ficção);</li>
+	<li>Ciências Sociais (não-ficção);</li>
+	<li>Tradução (literatura ou não-ficção).</li>
+</ul>
+<p>Os apoios serão concedidos para uma ou mais das seguintes fases de produção do livro (impresso ou eletrónico):</p>
+<ul class="list-format-bar">
+	<li>Direitos de autor;</li>
+	<li>Revisão;</li>
+	<li>Tradução;</li>
+	<li>Conceção gráfica;</li>
+	<li>Paginação;</li>
+	<li>Impressão;</li>
+	<li>Acabamento.</li>
+</ul>
+<p>O apoio pode corresponder a 100% do valor total do orçamento do projeto, desde que não ultrapasse o montante máximo de 10.000€.</p>
+<p>Os resultados serão comunicados online até 15 de janeiro de 2027.</p>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>
+<p>Podem candidatar-se à obtenção do apoio pessoas coletivas de direito privado, nomeadamente sociedades comerciais, cooperativas ou associações, cujo objeto social e estatutos seja, a título principal, a atividade de edição e publicação de livros (as entidades candidatas devem ter atividade permanente durante, pelo menos, dois anos);</p>
+</li>
+	<li>
+<p>Os livros devem ser publicados no prazo de 18 meses após a atribuição do subsídio;</p>
+</li>
+	<li>
+<p>Não será admitida mais do que uma candidatura e uma obra a publicar por cada editora proponente;</p>
+</li>
+	<li>Só serão aceites candidaturas <em>online</em> e em português.</li>
+</ul>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>
+<p>Faça o seu <a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2Fapoios-lista%2Fapoio-a-criacao-artistica%2F" target="_blank" rel="noopener">registo</a>;</p>
+</li>
+	<li>
+<p>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de Documentos) e das Perguntas Frequentes;</p>
+</li>
+	<li>
+<p>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o <em>upload</em> da documentação exigida no Regulamento;</p>
+</li>
+	<li>
+<p>No final, clicar no botão «submeter candidatura». De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</p>
+</li>
+</ul>
+<h2 class="fcg-section__title" id="perguntas-frequentes">
+			<span>Perguntas Frequentes</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-sao-as-fases-do-concurso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais são as fases do concurso?				</h4>
+<ul class="list-format-bar">
+	<li><strong>Candidatura:&nbsp; </strong>Preenchimento do formulário <em>online</em> entre 14 de setembro e 16 de outubro de 2026 (até às 12:00).</li>
+	<li><strong>Comunicação de resultados: </strong>Até 15 de janeiro de 2027.</li>
+	<li><strong>Formalização: </strong>Após a comunicação de atribuição do apoio, devem ser submetidos, no prazo de dez dias úteis, através da plataforma, o Termo de Aceitação assinado e os comprovativos seguintes:
+
+<ol class="list-format-bar" style="margin-top: 10px!important" start="–">
+	<li style="margin-bottom: 4px!important">Cópia do documento de identificação dos titulares dos órgãos de administração ou equivalentes, com poderes de gestão;</li>
+	<li style="margin-bottom: 4px!important">&nbsp;Certidão Permanente ou a Ata de Constituição dos Corpos Sociais e Declaração do Registo Central do Beneficiário Efetivo;</li>
+	<li style="margin-bottom: 4px!important">IBAN emitido pela entidade bancária;</li>
+	<li style="margin-bottom: 4px!important">Comprovativos de Não Dívida à Autoridade Tributária e à Segurança Social.</li>
+</ol>
+</li>
+</ul>
+<p>Com a submissão destes documentos, é feito o pagamento da primeira parcela do apoio (50%), por transferência bancária. A segunda parcela do apoio (50%) é paga após a finalização do livro e a entrega de 3 exemplares à Fundação Calouste Gulbenkian (ou envio do ficheiro final, no caso dos livros eletrónicos) e a apresentação dos documentos de despesas.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-publicacoes-sao-elegiveis-para-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de publicações são elegíveis para este apoio?				</h4>
+<p>Podem candidatar-se obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, nos domínios das Artes, Humanidades e Ciências Sociais, na categoria de não-ficção, designadamente géneros como o ensaio e a reflexão crítica, e em língua portuguesa.</p>
+<p>Podem candidatar-se, ainda, traduções de obras de referência internacional, para a língua portuguesa, nas categorias de não-ficção ou literatura.</p>
+<p>São elegíveis propostas para livros impressos ou eletrónicos (e-books ou audiolivros).</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-projetos-nao-sao-elegiveis-para-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de projetos não são elegíveis para este apoio?				</h4>
+<ul class="list-format-bar">
+	<li>
+<p>Teses universitárias;</p>
+</li>
+	<li>
+<p>Atas de congressos e colóquios científicos;</p>
+</li>
+	<li>&nbsp;Manuais didáticos (escolares, técnico-profissionais, universitários), livros de atividades, jogos;</li>
+	<li>&nbsp;Dicionários e enciclopédias;</li>
+	<li>Publicações periódicas;</li>
+	<li>Catálogos de museus e exposições;</li>
+	<li>Guias turísticos e gastronómicos;</li>
+	<li>Libretos de ópera, programas de espetáculos, partituras de música;</li>
+	<li>Literatura para infância e juventude.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quem-se-pode-candidatar-a-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quem se pode candidatar a este apoio?				</h4>
+<p>Este concurso destina-se a apoiar editoras. São apenas elegíveis candidaturas apresentadas por pessoas coletivas de direito privado, nomeadamente sociedades comerciais, cooperativas ou associações, cujo objeto social e estatutos seja, a título principal, a atividade de edição e publicação de livros.</p>
+<p>É ainda obrigatório que as entidades candidatas tenham tido atividade permanente durante, pelo menos, dois anos.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-mesma-entidade-pode-candidatar-se-a-este-apoio-com-mais-do-que-um-projeto">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A mesma entidade pode candidatar-se a este apoio com mais do que um projeto?				</h4>
+<p>Não. Em cada edição do apoio, cada entidade pode candidatar-se com apenas uma proposta de publicação.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-e-feito-o-processo-de-selecao">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como é feito o processo de seleção?				</h4>
+<p>A Fundação Calouste Gulbenkian fará uma verificação preliminar dos requisitos formais de elegibilidade, de acordo com o Regulamento. Posteriormente, as candidaturas admitidas a concurso serão avaliadas por um júri nomeado pela Fundação, que avaliará os projetos segundo os critérios seguintes:</p>
+<ul class="list-format-bar">
+	<li>
+<p>Qualidade artística, científica ou literária;</p>
+</li>
+	<li>Originalidade e inovação;</li>
+	<li>Contributo para o conhecimento e o debate cultura;</li>
+	<li>Adequação do orçamento global e detalhado do projeto.</li>
+</ul>
+<p>A avaliação, seleção e seriação de candidaturas será objeto de decisão final do Conselho Executivo da Fundação Calouste Gulbenkian, não sendo admitido recurso.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-o-prazo-de-publicacao-dos-projetos-apoiados">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual o prazo de publicação dos projetos apoiados?				</h4>
+<p>Os projetos apoiados deverão ser publicados no prazo de 18 meses após a atribuição do apoio. A entidade candidata deverá entregar 3 exemplares do livro à Fundação Calouste Gulbenkian (excetuando no caso dos livros eletrónicos e audiolivros).</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-despesas-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de despesas são elegíveis?				</h4>
+<p>São elegíveis despesas diretamente relacionadas com a execução do projeto editorial submetido a concurso, até ao valor máximo de 10.000€:</p>
+<ul class="list-format-bar">
+	<li>
+<p>Direitos de autor;</p>
+</li>
+	<li>Revisão;</li>
+	<li>Tradução;</li>
+	<li>Conceção gráfica;</li>
+	<li>Paginação;</li>
+	<li>Impressão;</li>
+	<li>Acabamento.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-despesas-nao-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de despesas não são elegíveis?				</h4>
+<p>Serão excluídas do financiamento quaisquer despesas não diretamente relacionadas com o projeto editorial:</p>
+<ul class="list-format-bar">
+	<li>
+<p>Vencimentos e salários;</p>
+</li>
+	<li>Viagens, estadias e ajudas de custo;</li>
+	<li>Aquisição e manutenção de equipamentos;</li>
+	<li>Custos fixos e despesas correntes, como consumos de eletricidade, equipamentos, internet, etc.</li>
+	<li>Amortização de dívidas e respetivos juros;</li>
+	<li>Despesas com atividades de entidades empregadoras ou sindicais;</li>
+	<li>Outras despesas não diretamente relacionadas com o projeto apoiado.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-necessario-apresentar-faturas-ou-recibos">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É necessário apresentar faturas ou recibos?				</h4>
+<p>As despesas elegíveis deverão ser justificadas por faturas, recibos ou outros documentos de despesas a apresentar à Fundação.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-o-limite-maximo-do-financiamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual o limite máximo do financiamento?				</h4>
+<p>O apoio pode corresponder a 100% do valor total do orçamento do projeto, desde que não ultrapasse o montante máximo de 10.000€.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-serao-feitos-os-pagamentos">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como serão feitos os pagamentos?				</h4>
+<p>Após a comunicação de atribuição do apoio, devem ser submetidos, no prazo de dez dias úteis, através da plataforma, o Termo de Atribuição assinado e os comprovativos seguintes:</p>
+<ol class="list-format-bar" style="margin-top: 10px!important" start="–">
+	<li style="margin-bottom: 4px!important">Cópia do documento de identificação dos titulares dos órgãos de administração ou equivalentes, com poderes de gestão;</li>
+	<li style="margin-bottom: 4px!important">&nbsp;Certidão Permanente ou a Ata de Constituição dos Corpos Sociais e Declaração do Registo Central do Beneficiário Efetivo;</li>
+	<li style="margin-bottom: 4px!important">IBAN emitido pela entidade bancária;</li>
+	<li style="margin-bottom: 4px!important">Comprovativos de Não Dívida à Autoridade Tributária e à Segurança Social.</li>
+</ol>
+<p>Com a submissão dos documentos, é feito o pagamento da primeira parcela do apoio (50%), por transferência bancária. A segunda parcela do apoio (50%) é paga após a finalização do livro e a entrega de 3 exemplares à Fundação Calouste Gulbenkian (ou envio do ficheiro final, no caso dos livros eletrónicos) e a apresentação dos documentos de despesas.&nbsp;</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="podem-candidatar-se-projetos-apoiados-por-outras-entidades">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Podem candidatar-se projetos apoiados por outras entidades?				</h4>
+<p>Sim. Deverão ser descriminados os apoios confirmados ou pendentes no formulário de candidatura.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-obrigatorio-preencher-o-formulario-de-candidatura-online-e-em-lingua-portuguesa">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É obrigatório preencher o formulário de candidatura online e em língua portuguesa?				</h4>
+<p>Sim. Apenas serão consideradas candidaturas submetidas em língua portuguesa, através do preenchimento do formulário&nbsp;<em>online</em>, disponível na página dos apoios da Fundação Calouste Gulbenkian.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="apos-a-submissao-de-candidatura-recebemos-uma-mensagem-de-confirmacao-por-email">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Após a submissão de candidatura, recebemos uma mensagem de confirmação por email?				</h4>
+<p>Não será enviada uma mensagem por email. A confirmação da submissão é dada pela plataforma com o seguinte texto: «Candidatura submetida com sucesso».</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="na-eventualidade-de-a-candidatura-conter-erros-e-ter-elementos-em-falta-existe-um-prazo-limite-para-correcoes-ou-entrega-de-documentos-em-falta">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Na eventualidade de a candidatura conter erros e ter elementos em falta, existe um prazo limite para correções ou entrega de documentos em falta?				</h4>
+<p>O prazo limite para a submissão da candidatura e de todos os documentos obrigatórios é 14 de setembro de 2026, até às 12:00. Depois desta data, caso a candidatura não esteja completa, será eliminada. Não serão consideradas candidaturas enviadas depois da data limite e a Fundação Gulbenkian não irá responder a pedidos de reclamação.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-acontece-caso-o-projeto-sofra-alteracoes-depois-de-aprovado">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que acontece caso o projeto sofra alterações depois de aprovado?				</h4>
+<p>Em princípio, não serão admitidas alterações ao projeto editorial aprovado e selecionado para apoio. Em caso de força maior, que justifique eventuais modificações, o pedido de alteração e respetiva fundamentação deverão ser submetidos por escrito pela entidade beneficiária à Fundação, podendo o apoio ser revogado.</p>
+<p>A decisão será comunicada à entidade beneficiária no prazo de 30 dias após a receção do pedido de alteração.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-possivel-realizar-transmissoes-de-responsabilidade">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É possível realizar transmissões de responsabilidade?				</h4>
+<p>Não são admissíveis, neste concurso, transmissões de responsabilidade na gestão do projeto, nem recebedores divergentes.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-acontece-se-nao-for-usada-a-totalidade-do-saldo-ou-se-existirem-desvios-de-aplicacao-de-verbas">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que acontece se não for usada a totalidade do saldo, ou se existirem desvios de aplicação de verbas?				</h4>
+<p>Os saldos não utilizados pelos projetos devem ser devolvidos à Fundação Gulbenkian, por transferência bancária, no prazo de 30 dias após a apresentação do relatório final. As entidades candidatas deverão solicitar à Fundação Gulbenkian a indicação do IBAN para a devolução de saldo.</p>
+<p>Podem, em princípio, apresentar-se desvios de aplicação de verbas desde que previamente autorizados pela Fundação Gulbenkian.</p>
+<h2 class="fcg-section__title" id="contactos">
+			<span>Contactos</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Caso subsistam dúvidas depois de ler as perguntas frequentes e o regulamento, poderá contactar a Fundação Calouste Gulbenkian através de <a href="/cdn-cgi/l/email-protection#4a2b3a252325642f2e23292b250a2d3f26282f2421232b24643a3e"><span class="__cf_email__" data-cfemail="0e6f7e616761206b6a676d6f614e697b626c6b6065676f60207e7a">[email&nbsp;protected]</span></a></p>]]></description>
+            <content:encoded><![CDATA[<p>Este concurso apoia editoras para a publicação de obras originais de interesse cultural e científico em língua portuguesa, ou a tradução de obras de referência.</p>
+<p>Os objetivos do apoio são:</p>
+<ul class="list-format-bar">
+<li>Estimular a circulação de obras que traduzam pensamento original e inovador, nos domínios das Artes, Humanidades e Ciências Sociais, bem como a tradução de qualidade;</li>
+<li>Estimular a atividade e o contributo das editoras para um debate cultural aberto e inclusivo;</li>
+<li>Contribuir para a dinamização do mercado do livro em áreas editoriais menos sustentáveis do ponto de vista comercial.</li>
+</ul>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Podem candidatar-se obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, nos seguintes domínios:</p>
+<ul class="list-format-bar">
+	<li>Artes (não-ficção);</li>
+	<li>Humanidades (não-ficção);</li>
+	<li>Ciências Sociais (não-ficção);</li>
+	<li>Tradução (literatura ou não-ficção).</li>
+</ul>
+<p>Os apoios serão concedidos para uma ou mais das seguintes fases de produção do livro (impresso ou eletrónico):</p>
+<ul class="list-format-bar">
+	<li>Direitos de autor;</li>
+	<li>Revisão;</li>
+	<li>Tradução;</li>
+	<li>Conceção gráfica;</li>
+	<li>Paginação;</li>
+	<li>Impressão;</li>
+	<li>Acabamento.</li>
+</ul>
+<p>O apoio pode corresponder a 100% do valor total do orçamento do projeto, desde que não ultrapasse o montante máximo de 10.000€.</p>
+<p>Os resultados serão comunicados online até 15 de janeiro de 2027.</p>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>
+<p>Podem candidatar-se à obtenção do apoio pessoas coletivas de direito privado, nomeadamente sociedades comerciais, cooperativas ou associações, cujo objeto social e estatutos seja, a título principal, a atividade de edição e publicação de livros (as entidades candidatas devem ter atividade permanente durante, pelo menos, dois anos);</p>
+</li>
+	<li>
+<p>Os livros devem ser publicados no prazo de 18 meses após a atribuição do subsídio;</p>
+</li>
+	<li>
+<p>Não será admitida mais do que uma candidatura e uma obra a publicar por cada editora proponente;</p>
+</li>
+	<li>Só serão aceites candidaturas <em>online</em> e em português.</li>
+</ul>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>
+<p>Faça o seu <a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2Fapoios-lista%2Fapoio-a-criacao-artistica%2F" target="_blank" rel="noopener">registo</a>;</p>
+</li>
+	<li>
+<p>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de Documentos) e das Perguntas Frequentes;</p>
+</li>
+	<li>
+<p>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o <em>upload</em> da documentação exigida no Regulamento;</p>
+</li>
+	<li>
+<p>No final, clicar no botão «submeter candidatura». De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</p>
+</li>
+</ul>
+<h2 class="fcg-section__title" id="perguntas-frequentes">
+			<span>Perguntas Frequentes</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-sao-as-fases-do-concurso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais são as fases do concurso?				</h4>
+<ul class="list-format-bar">
+	<li><strong>Candidatura:&nbsp; </strong>Preenchimento do formulário <em>online</em> entre 14 de setembro e 16 de outubro de 2026 (até às 12:00).</li>
+	<li><strong>Comunicação de resultados: </strong>Até 15 de janeiro de 2027.</li>
+	<li><strong>Formalização: </strong>Após a comunicação de atribuição do apoio, devem ser submetidos, no prazo de dez dias úteis, através da plataforma, o Termo de Aceitação assinado e os comprovativos seguintes:
+
+<ol class="list-format-bar" style="margin-top: 10px!important" start="–">
+	<li style="margin-bottom: 4px!important">Cópia do documento de identificação dos titulares dos órgãos de administração ou equivalentes, com poderes de gestão;</li>
+	<li style="margin-bottom: 4px!important">&nbsp;Certidão Permanente ou a Ata de Constituição dos Corpos Sociais e Declaração do Registo Central do Beneficiário Efetivo;</li>
+	<li style="margin-bottom: 4px!important">IBAN emitido pela entidade bancária;</li>
+	<li style="margin-bottom: 4px!important">Comprovativos de Não Dívida à Autoridade Tributária e à Segurança Social.</li>
+</ol>
+</li>
+</ul>
+<p>Com a submissão destes documentos, é feito o pagamento da primeira parcela do apoio (50%), por transferência bancária. A segunda parcela do apoio (50%) é paga após a finalização do livro e a entrega de 3 exemplares à Fundação Calouste Gulbenkian (ou envio do ficheiro final, no caso dos livros eletrónicos) e a apresentação dos documentos de despesas.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-publicacoes-sao-elegiveis-para-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de publicações são elegíveis para este apoio?				</h4>
+<p>Podem candidatar-se obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, nos domínios das Artes, Humanidades e Ciências Sociais, na categoria de não-ficção, designadamente géneros como o ensaio e a reflexão crítica, e em língua portuguesa.</p>
+<p>Podem candidatar-se, ainda, traduções de obras de referência internacional, para a língua portuguesa, nas categorias de não-ficção ou literatura.</p>
+<p>São elegíveis propostas para livros impressos ou eletrónicos (e-books ou audiolivros).</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-projetos-nao-sao-elegiveis-para-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de projetos não são elegíveis para este apoio?				</h4>
+<ul class="list-format-bar">
+	<li>
+<p>Teses universitárias;</p>
+</li>
+	<li>
+<p>Atas de congressos e colóquios científicos;</p>
+</li>
+	<li>&nbsp;Manuais didáticos (escolares, técnico-profissionais, universitários), livros de atividades, jogos;</li>
+	<li>&nbsp;Dicionários e enciclopédias;</li>
+	<li>Publicações periódicas;</li>
+	<li>Catálogos de museus e exposições;</li>
+	<li>Guias turísticos e gastronómicos;</li>
+	<li>Libretos de ópera, programas de espetáculos, partituras de música;</li>
+	<li>Literatura para infância e juventude.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quem-se-pode-candidatar-a-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quem se pode candidatar a este apoio?				</h4>
+<p>Este concurso destina-se a apoiar editoras. São apenas elegíveis candidaturas apresentadas por pessoas coletivas de direito privado, nomeadamente sociedades comerciais, cooperativas ou associações, cujo objeto social e estatutos seja, a título principal, a atividade de edição e publicação de livros.</p>
+<p>É ainda obrigatório que as entidades candidatas tenham tido atividade permanente durante, pelo menos, dois anos.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-mesma-entidade-pode-candidatar-se-a-este-apoio-com-mais-do-que-um-projeto">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A mesma entidade pode candidatar-se a este apoio com mais do que um projeto?				</h4>
+<p>Não. Em cada edição do apoio, cada entidade pode candidatar-se com apenas uma proposta de publicação.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-e-feito-o-processo-de-selecao">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como é feito o processo de seleção?				</h4>
+<p>A Fundação Calouste Gulbenkian fará uma verificação preliminar dos requisitos formais de elegibilidade, de acordo com o Regulamento. Posteriormente, as candidaturas admitidas a concurso serão avaliadas por um júri nomeado pela Fundação, que avaliará os projetos segundo os critérios seguintes:</p>
+<ul class="list-format-bar">
+	<li>
+<p>Qualidade artística, científica ou literária;</p>
+</li>
+	<li>Originalidade e inovação;</li>
+	<li>Contributo para o conhecimento e o debate cultura;</li>
+	<li>Adequação do orçamento global e detalhado do projeto.</li>
+</ul>
+<p>A avaliação, seleção e seriação de candidaturas será objeto de decisão final do Conselho Executivo da Fundação Calouste Gulbenkian, não sendo admitido recurso.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-o-prazo-de-publicacao-dos-projetos-apoiados">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual o prazo de publicação dos projetos apoiados?				</h4>
+<p>Os projetos apoiados deverão ser publicados no prazo de 18 meses após a atribuição do apoio. A entidade candidata deverá entregar 3 exemplares do livro à Fundação Calouste Gulbenkian (excetuando no caso dos livros eletrónicos e audiolivros).</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-despesas-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de despesas são elegíveis?				</h4>
+<p>São elegíveis despesas diretamente relacionadas com a execução do projeto editorial submetido a concurso, até ao valor máximo de 10.000€:</p>
+<ul class="list-format-bar">
+	<li>
+<p>Direitos de autor;</p>
+</li>
+	<li>Revisão;</li>
+	<li>Tradução;</li>
+	<li>Conceção gráfica;</li>
+	<li>Paginação;</li>
+	<li>Impressão;</li>
+	<li>Acabamento.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-despesas-nao-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de despesas não são elegíveis?				</h4>
+<p>Serão excluídas do financiamento quaisquer despesas não diretamente relacionadas com o projeto editorial:</p>
+<ul class="list-format-bar">
+	<li>
+<p>Vencimentos e salários;</p>
+</li>
+	<li>Viagens, estadias e ajudas de custo;</li>
+	<li>Aquisição e manutenção de equipamentos;</li>
+	<li>Custos fixos e despesas correntes, como consumos de eletricidade, equipamentos, internet, etc.</li>
+	<li>Amortização de dívidas e respetivos juros;</li>
+	<li>Despesas com atividades de entidades empregadoras ou sindicais;</li>
+	<li>Outras despesas não diretamente relacionadas com o projeto apoiado.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-necessario-apresentar-faturas-ou-recibos">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É necessário apresentar faturas ou recibos?				</h4>
+<p>As despesas elegíveis deverão ser justificadas por faturas, recibos ou outros documentos de despesas a apresentar à Fundação.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-o-limite-maximo-do-financiamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual o limite máximo do financiamento?				</h4>
+<p>O apoio pode corresponder a 100% do valor total do orçamento do projeto, desde que não ultrapasse o montante máximo de 10.000€.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-serao-feitos-os-pagamentos">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como serão feitos os pagamentos?				</h4>
+<p>Após a comunicação de atribuição do apoio, devem ser submetidos, no prazo de dez dias úteis, através da plataforma, o Termo de Atribuição assinado e os comprovativos seguintes:</p>
+<ol class="list-format-bar" style="margin-top: 10px!important" start="–">
+	<li style="margin-bottom: 4px!important">Cópia do documento de identificação dos titulares dos órgãos de administração ou equivalentes, com poderes de gestão;</li>
+	<li style="margin-bottom: 4px!important">&nbsp;Certidão Permanente ou a Ata de Constituição dos Corpos Sociais e Declaração do Registo Central do Beneficiário Efetivo;</li>
+	<li style="margin-bottom: 4px!important">IBAN emitido pela entidade bancária;</li>
+	<li style="margin-bottom: 4px!important">Comprovativos de Não Dívida à Autoridade Tributária e à Segurança Social.</li>
+</ol>
+<p>Com a submissão dos documentos, é feito o pagamento da primeira parcela do apoio (50%), por transferência bancária. A segunda parcela do apoio (50%) é paga após a finalização do livro e a entrega de 3 exemplares à Fundação Calouste Gulbenkian (ou envio do ficheiro final, no caso dos livros eletrónicos) e a apresentação dos documentos de despesas.&nbsp;</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="podem-candidatar-se-projetos-apoiados-por-outras-entidades">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Podem candidatar-se projetos apoiados por outras entidades?				</h4>
+<p>Sim. Deverão ser descriminados os apoios confirmados ou pendentes no formulário de candidatura.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-obrigatorio-preencher-o-formulario-de-candidatura-online-e-em-lingua-portuguesa">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É obrigatório preencher o formulário de candidatura online e em língua portuguesa?				</h4>
+<p>Sim. Apenas serão consideradas candidaturas submetidas em língua portuguesa, através do preenchimento do formulário&nbsp;<em>online</em>, disponível na página dos apoios da Fundação Calouste Gulbenkian.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="apos-a-submissao-de-candidatura-recebemos-uma-mensagem-de-confirmacao-por-email">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Após a submissão de candidatura, recebemos uma mensagem de confirmação por email?				</h4>
+<p>Não será enviada uma mensagem por email. A confirmação da submissão é dada pela plataforma com o seguinte texto: «Candidatura submetida com sucesso».</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="na-eventualidade-de-a-candidatura-conter-erros-e-ter-elementos-em-falta-existe-um-prazo-limite-para-correcoes-ou-entrega-de-documentos-em-falta">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Na eventualidade de a candidatura conter erros e ter elementos em falta, existe um prazo limite para correções ou entrega de documentos em falta?				</h4>
+<p>O prazo limite para a submissão da candidatura e de todos os documentos obrigatórios é 14 de setembro de 2026, até às 12:00. Depois desta data, caso a candidatura não esteja completa, será eliminada. Não serão consideradas candidaturas enviadas depois da data limite e a Fundação Gulbenkian não irá responder a pedidos de reclamação.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-acontece-caso-o-projeto-sofra-alteracoes-depois-de-aprovado">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que acontece caso o projeto sofra alterações depois de aprovado?				</h4>
+<p>Em princípio, não serão admitidas alterações ao projeto editorial aprovado e selecionado para apoio. Em caso de força maior, que justifique eventuais modificações, o pedido de alteração e respetiva fundamentação deverão ser submetidos por escrito pela entidade beneficiária à Fundação, podendo o apoio ser revogado.</p>
+<p>A decisão será comunicada à entidade beneficiária no prazo de 30 dias após a receção do pedido de alteração.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-possivel-realizar-transmissoes-de-responsabilidade">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É possível realizar transmissões de responsabilidade?				</h4>
+<p>Não são admissíveis, neste concurso, transmissões de responsabilidade na gestão do projeto, nem recebedores divergentes.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-acontece-se-nao-for-usada-a-totalidade-do-saldo-ou-se-existirem-desvios-de-aplicacao-de-verbas">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que acontece se não for usada a totalidade do saldo, ou se existirem desvios de aplicação de verbas?				</h4>
+<p>Os saldos não utilizados pelos projetos devem ser devolvidos à Fundação Gulbenkian, por transferência bancária, no prazo de 30 dias após a apresentação do relatório final. As entidades candidatas deverão solicitar à Fundação Gulbenkian a indicação do IBAN para a devolução de saldo.</p>
+<p>Podem, em princípio, apresentar-se desvios de aplicação de verbas desde que previamente autorizados pela Fundação Gulbenkian.</p>
+<h2 class="fcg-section__title" id="contactos">
+			<span>Contactos</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Caso subsistam dúvidas depois de ler as perguntas frequentes e o regulamento, poderá contactar a Fundação Calouste Gulbenkian através de <a href="/cdn-cgi/l/email-protection#4a2b3a252325642f2e23292b250a2d3f26282f2421232b24643a3e"><span class="__cf_email__" data-cfemail="0e6f7e616761206b6a676d6f614e697b626c6b6065676f60207e7a">[email&nbsp;protected]</span></a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Concerto Orquestra Juvenil Geração 26 jul 2026 / 18:00]]></title>
