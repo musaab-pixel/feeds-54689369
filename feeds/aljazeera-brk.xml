@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 01:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام أمريكية: قتيلان و5 إصابات في حادث إطلاق النار في منطقة سياتل سنتر…]]></title>
+            <link>https://t.me/aljazeeraBrk/228765</link>
+            <guid isPermaLink="false">14b328d5ccba8b246b2bbbe98e0fadf598bf5a5f5d40e4982c027e7c7311fac8</guid>
+            <pubDate>Mon, 27 Jul 2026 03:10:03 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام أمريكية: قتيلان و5 إصابات في حادث إطلاق النار في منطقة سياتل سنتر بولاية واشنطن]]></description>
+            <content:encoded><![CDATA[وسائل إعلام أمريكية: قتيلان و5 إصابات في حادث إطلاق النار في منطقة سياتل سنتر بولاية واشنطن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[شرطة سياتل بولاية واشنطن: نحقق في حادث إطلاق نار أسفر عن إصابة عدة أشخاص]]></title>
             <link>https://t.me/aljazeeraBrk/228764</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:24:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: تلقينا بلاغات عن إطلاق نار في منطقة سوسيا جنوب الخليل والحادث قيد الفحص]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: تلقينا بلاغات عن إطلاق نار في منطقة سوسيا جنوب الخليل والحادث قيد الفحص]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يطلقون النار على منازل الفلسطينيين في خلة الحمص بمسافر…]]></title>
-            <link>https://t.me/aljazeeraBrk/228565</link>
-            <guid isPermaLink="false">86d535cb4cf13ad91f90d2b12cf3819fb7767a5f6df8cd2ba2bf941c3031ae12</guid>
-            <pubDate>Sat, 25 Jul 2026 16:21:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يطلقون النار على منازل الفلسطينيين في خلة الحمص بمسافر يطا جنوب الخليل]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يطلقون النار على منازل الفلسطينيين في خلة الحمص بمسافر يطا جنوب الخليل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
