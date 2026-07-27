@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 06:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 06:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: مصابان بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها…]]></title>
+            <link>https://t.me/aljazeeraBrk/228777</link>
+            <guid isPermaLink="false">c02d13f845f21d631997bb76c0232d8aa2c36855b78dd3331a85cf9e56b5860d</guid>
+            <pubDate>Mon, 27 Jul 2026 06:46:03 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: مصابان بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها جنوبي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: مصابان بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها جنوبي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[اتحاد لجان الصيادين في غزة: إصابة 3 صيادين بنيران مسيرة إسرائيلية أثناء عملهم…]]></title>
             <link>https://t.me/aljazeeraBrk/228776</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 17:06:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مصدر: ترمب لم يمنح الجمعة الضوء الأخضر لتنفيذ ضربات على إيران بعد أن كان يوافق يوميا على خطط الهجمات]]></description>
             <content:encoded><![CDATA[أكسيوس عن مصدر: ترمب لم يمنح الجمعة الضوء الأخضر لتنفيذ ضربات على إيران بعد أن كان يوافق يوميا على خطط الهجمات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مصدرين: الجيش الأمريكي يعكف على خطط لاحتمال شن عمليات كبرى ضد إيران…]]></title>
-            <link>https://t.me/aljazeeraBrk/228577</link>
-            <guid isPermaLink="false">7f20b2ce89487362b2babda531d00e72ae6693490a7345ea996e318760a527ab</guid>
-            <pubDate>Sat, 25 Jul 2026 17:04:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مصدرين: الجيش الأمريكي يعكف على خطط لاحتمال شن عمليات كبرى ضد إيران لكن ترمب لم يصدر أوامره بعد]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مصدرين: الجيش الأمريكي يعكف على خطط لاحتمال شن عمليات كبرى ضد إيران لكن ترمب لم يصدر أوامره بعد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
