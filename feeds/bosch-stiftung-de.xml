@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 14:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 10:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt]]></title>
+            <link>https://bosch-stiftung.de/story/hausaerztemangel-neue-studie-zeigt-wie-die-ambulante-versorgung-trotzdem-gelingt</link>
+            <guid isPermaLink="false">1f734dd2f8bb9f431d364e6f4a85f44f79205b12adc9968c55261699446d5eb0</guid>
+            <pubDate>Mon, 27 Jul 2026 09:33:31 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-07-27T11:33:31+02:00" title="Montag, 27 Juli 2026 - 11:33" class="datetime">Mo. 27 Jul 2026 - 11:33</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-07-27T11:33:31+02:00" title="Montag, 27 Juli 2026 - 11:33" class="datetime">Mo. 27 Jul 2026 - 11:33</time>
+</span>
+]]></content:encoded>
+            <author>palasthotel</author>
+        </item>
         <item>
             <title><![CDATA[Mythen über KI]]></title>
             <link>https://bosch-stiftung.de/mythen-ueber-ki</link>

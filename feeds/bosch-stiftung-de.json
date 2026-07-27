@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "1f734dd2f8bb9f431d364e6f4a85f44f79205b12adc9968c55261699446d5eb0",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-27T11:33:31+02:00\" title=\"Montag, 27 Juli 2026 - 11:33\" class=\"datetime\">Mo. 27 Jul 2026 - 11:33</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/hausaerztemangel-neue-studie-zeigt-wie-die-ambulante-versorgung-trotzdem-gelingt",
+            "title": "Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-27T11:33:31+02:00\" title=\"Montag, 27 Juli 2026 - 11:33\" class=\"datetime\">Mo. 27 Jul 2026 - 11:33</time>\n</span>\n",
+            "date_modified": "2026-07-27T09:33:31.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "e3394c8a49e8df643278ebeef563daa1e044d3b1b280b372b3b006f0acbb619c",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/mythen-ueber-ki",
