@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 1</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 1" (type: bundle)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 07:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 07:59:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -42,6 +42,39 @@
 <h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Angola </h4>
 <h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Benin </h4>]]></content:encoded>
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/us-department-of-state-118381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Strengthening Services to Prevent the Infectious Disease Consequences of Drug Use]]></title>
+            <link>https://www.developmentaid.org/grants/view/1689634/strengthening-services-to-prevent-the-infectious-disease-consequences-of-drug-use</link>
+            <guid isPermaLink="false">0379b156e86ad888691e4aa5a1d5bac71ce19cbd2f15a594e5cb4bcb2bdee62c</guid>
+            <pubDate>Mon, 24 May 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Health </h4>
+<p>Covers healthcare services, public health systems, and activities aimed at promoting physical and mental well-being.</p>
+<ul><li>Healthcare services and facilities</li><li>Public health and disease prevention</li><li>Medical equipment, supplies, and services</li></ul>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Statistics and data analysis </h4>
+<p>Covers initiatives that support data collection, statistical analysis, and evidence-based decision-making across public and private sectors.</p>
+<ul><li>Population censuses and household surveys</li><li>Quantitative data analysis and statistical studies</li><li>Data collection, entry, and processing</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></description>
+            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Health </h4>
+<p>Covers healthcare services, public health systems, and activities aimed at promoting physical and mental well-being.</p>
+<ul><li>Healthcare services and facilities</li><li>Public health and disease prevention</li><li>Medical equipment, supplies, and services</li></ul>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Statistics and data analysis </h4>
+<p>Covers initiatives that support data collection, statistical analysis, and evidence-based decision-making across public and private sectors.</p>
+<ul><li>Population censuses and household surveys</li><li>Quantitative data analysis and statistical studies</li><li>Data collection, entry, and processing</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/cdc-118471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Call for Applications: Small Grants 2026–2027 (Australia)]]></title>
@@ -123,6 +156,87 @@
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/no-logo-organization.svg" length="0" type="image/svg"/>
         </item>
         <item>
+            <title><![CDATA[Open Call: Unincorporated Group Grant 2026-2027 (Australia)]]></title>
+            <link>https://www.developmentaid.org/grants/view/1689429/open-call-unincorporated-group-grant-2026-2027-australia</link>
+            <guid isPermaLink="false">3391be6537829af31655dd5b73fe7d89f16f7e9fdec28509b26ec0e1fd2a6d48</guid>
+            <pubDate>Fri, 30 Apr 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
+<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
+<p>Website:&nbsp;Multiple.</p>
+<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></description>
+            <content:encoded><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
+<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
+<p>Website:&nbsp;Multiple.</p>
+<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/assets/img/no-logo-organization.svg" length="0" type="image/svg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maternal-Child Surveillance and Partnerships for Action, Results, and Knowledge]]></title>
+            <link>https://www.developmentaid.org/grants/view/1689635/maternal-child-surveillance-and-partnerships-for-action-results-and-knowledge</link>
+            <guid isPermaLink="false">cac33ef90c6f00a93b3ba9851e5424ca986f4fd8ff3f6ee2f2eda02270b0a67f</guid>
+            <pubDate>Mon, 26 Apr 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Health </h4>
+<p>Covers healthcare services, public health systems, and activities aimed at promoting physical and mental well-being.</p>
+<ul><li>Healthcare services and facilities</li><li>Public health and disease prevention</li><li>Medical equipment, supplies, and services</li></ul>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Youth &amp; Child Welfare </h4>
+<p>Includes measures that support the well-being, protection, and development of young people and children.</p>
+<ul><li>Youth development policies and programmes</li><li>Child protection and welfare systems</li><li>Family support and social services</li><li>Education, inclusion, and well-being initiatives</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></description>
+            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Health </h4>
+<p>Covers healthcare services, public health systems, and activities aimed at promoting physical and mental well-being.</p>
+<ul><li>Healthcare services and facilities</li><li>Public health and disease prevention</li><li>Medical equipment, supplies, and services</li></ul>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Youth &amp; Child Welfare </h4>
+<p>Includes measures that support the well-being, protection, and development of young people and children.</p>
+<ul><li>Youth development policies and programmes</li><li>Child protection and welfare systems</li><li>Family support and social services</li><li>Education, inclusion, and well-being initiatives</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/cdc-118471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pilot Testing, Implementation, and Evaluation of the Cervical, Breast and Colorectal Cancer Clinical Decision Support Tools]]></title>
+            <link>https://www.developmentaid.org/grants/view/1689636/pilot-testing-implementation-and-evaluation-of-the-cervical-breast-and-colorectal-cancer-clinical-de</link>
+            <guid isPermaLink="false">41762b940d5607174e35b9990de0a371755cab5a8e9aa1e900a20509dd60b7a5</guid>
+            <pubDate>Tue, 23 Mar 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Health </h4>
+<p>Covers healthcare services, public health systems, and activities aimed at promoting physical and mental well-being.</p>
+<ul><li>Healthcare services and facilities</li><li>Public health and disease prevention</li><li>Medical equipment, supplies, and services</li></ul>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Research &amp; Innovation </h4>
+<p>Focuses on collecting data, generating new knowledge, and applying it to develop improved methods, technologies, products, and solutions across sectors.</p>
+<ul><li>Scientific research, studies, and investigations</li><li>Innovation programs and applied R&amp;D initiatives</li><li>Technology development</li><li>Space-related research and exploration themes</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></description>
+            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Health </h4>
+<p>Covers healthcare services, public health systems, and activities aimed at promoting physical and mental well-being.</p>
+<ul><li>Healthcare services and facilities</li><li>Public health and disease prevention</li><li>Medical equipment, supplies, and services</li></ul>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Research &amp; Innovation </h4>
+<p>Focuses on collecting data, generating new knowledge, and applying it to develop improved methods, technologies, products, and solutions across sectors.</p>
+<ul><li>Scientific research, studies, and investigations</li><li>Innovation programs and applied R&amp;D initiatives</li><li>Technology development</li><li>Space-related research and exploration themes</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/cdc-118471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Submit Applications for Sport and Leisure Defibrillator Grant (UK)]]></title>
             <link>https://www.developmentaid.org/grants/view/1689236/submit-applications-for-sport-and-leisure-defibrillator-grant-uk</link>
             <guid isPermaLink="false">845f0a6290ab91537256863fba56079db869997bad29b6f805e2963e8de51aba</guid>
@@ -200,6 +314,31 @@
 <h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
 <h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> USA </h4>]]></content:encoded>
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/cdc-118471.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Open Call for Feasibility Fund (New Zealand)]]></title>
+            <link>https://www.developmentaid.org/grants/view/1689430/open-call-for-feasibility-fund-new-zealand</link>
+            <guid isPermaLink="false">377222358118f532cd936628d566d78f714a9b444ed65413646fe3e89b6895c4</guid>
+            <pubDate>Fri, 05 Feb 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>A nonprofit organization, also known as a non-business entity, not-for-profit organization, or nonprofit institution, is dedicated to furthering a particular social cause or advocating for a shared point of view. Nonprofits are tax exempt or charitable. They can operate in religious, scientific, research, or educational settings.</p>
+<p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Research &amp; Innovation </h4>
+<p>Focuses on collecting data, generating new knowledge, and applying it to develop improved methods, technologies, products, and solutions across sectors.</p>
+<ul><li>Scientific research, studies, and investigations</li><li>Innovation programs and applied R&amp;D initiatives</li><li>Technology development</li><li>Space-related research and exploration themes</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> New Zealand </h4>]]></description>
+            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
+<p>A nonprofit organization, also known as a non-business entity, not-for-profit organization, or nonprofit institution, is dedicated to furthering a particular social cause or advocating for a shared point of view. Nonprofits are tax exempt or charitable. They can operate in religious, scientific, research, or educational settings.</p>
+<p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>
+<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
+<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Research &amp; Innovation </h4>
+<p>Focuses on collecting data, generating new knowledge, and applying it to develop improved methods, technologies, products, and solutions across sectors.</p>
+<ul><li>Scientific research, studies, and investigations</li><li>Innovation programs and applied R&amp;D initiatives</li><li>Technology development</li><li>Space-related research and exploration themes</li></ul>
+<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
+<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> New Zealand </h4>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/assets/img/no-logo-organization.svg" length="0" type="image/svg"/>
         </item>
         <item>
             <title><![CDATA[Submit Applications for Sport and Leisure Defibrillator Grant (UK)]]></title>
@@ -2282,6 +2421,19 @@
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/us-department-of-agriculture-122234.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AI Partnership & Exchange for Tech Leaders (APEX)]]></title>
+            <link>https://www.developmentaid.org/grants/view/1689638/ai-partnership-exchange-for-tech-leaders-apex</link>
+            <guid isPermaLink="false">6ad30cef1a768be2eb4efb33b7ffc9ce01b70364e3b60538c74b5fa2db1e1a9d</guid>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>The U.S. Department of State is the federal executive body under the US government that advises the President and maintains international relations, serving as the Department of Foreign Affairs. It was formed in 1789 in Washington, DC, USA and guides America’s foreign policy through diplomacy, advocacy and assistance, supporting citizens' interests, security and economic prosperity.</p>
+<p>The responsibilities of the Department of State include implementing U.S. foreign policy, managing the country's diplomatic missions overseas, negotiating treaties and agreements with foreign organizations and representing the United States at the United Nations. It is also responsible for working with non-profit organizations and foundations that represent social and political programs in other countries. In addition to managing the Department, the Secretary of State serves as the country's chief diplomat and representative abroad. The Bureau of Democracy, Human Rights, and Labour, a division of the U.S. Department of State, publishes annual reports on global human rights and U.S. contributions to the advancement of freedom and democracy. The Foreign Service Institute, which is also a division of the Department of State, is responsible for training diplomatic personnel. The director of the institute has the rank of Assistant Secretary of State of the United States. The Office of Digital Diplomacy deals with digital projects such as Diplopedia.</p>
+<p>U.S. Department of State key sectors: Public &amp; Foreign Affairs, International Relations, Public Policy, Diplomacy, Socio-Economic Development, Democracy, Human Rights, Programme Management, etc.</p>]]></description>
+            <content:encoded><![CDATA[<p>The U.S. Department of State is the federal executive body under the US government that advises the President and maintains international relations, serving as the Department of Foreign Affairs. It was formed in 1789 in Washington, DC, USA and guides America’s foreign policy through diplomacy, advocacy and assistance, supporting citizens' interests, security and economic prosperity.</p>
+<p>The responsibilities of the Department of State include implementing U.S. foreign policy, managing the country's diplomatic missions overseas, negotiating treaties and agreements with foreign organizations and representing the United States at the United Nations. It is also responsible for working with non-profit organizations and foundations that represent social and political programs in other countries. In addition to managing the Department, the Secretary of State serves as the country's chief diplomat and representative abroad. The Bureau of Democracy, Human Rights, and Labour, a division of the U.S. Department of State, publishes annual reports on global human rights and U.S. contributions to the advancement of freedom and democracy. The Foreign Service Institute, which is also a division of the Department of State, is responsible for training diplomatic personnel. The director of the institute has the rank of Assistant Secretary of State of the United States. The Office of Digital Diplomacy deals with digital projects such as Diplopedia.</p>
+<p>U.S. Department of State key sectors: Public &amp; Foreign Affairs, International Relations, Public Policy, Diplomacy, Socio-Economic Development, Democracy, Human Rights, Programme Management, etc.</p>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/us-department-of-state-118381.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Apply for Levi Lassen Foundation Grants (Israel)]]></title>
             <link>https://www.developmentaid.org/grants/view/1689451/apply-for-levi-lassen-foundation-grants-israel</link>
             <guid isPermaLink="false">9a3a80f92fbaf1da891a66dc9c33ef9512c019025fd0695ef9d6c027cf5a9925</guid>
@@ -2799,7 +2951,7 @@
 <p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>]]></description>
             <content:encoded><![CDATA[<p>A nonprofit organization, also known as a non-business entity, not-for-profit organization, or nonprofit institution, is dedicated to furthering a particular social cause or advocating for a shared point of view. Nonprofits are tax exempt or charitable. They can operate in religious, scientific, research, or educational settings.</p>
 <p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/assets/img/no-logo-organization.svg" length="0" type="image/svg"/>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/no-logo-organization.svg" length="0" type="image/svg"/>
         </item>
         <item>
             <title><![CDATA[Demonstrate Grant Stream 1: Document What Works in GBV Prevention]]></title>
@@ -2810,7 +2962,7 @@
 <p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>]]></description>
             <content:encoded><![CDATA[<p>A nonprofit organization, also known as a non-business entity, not-for-profit organization, or nonprofit institution, is dedicated to furthering a particular social cause or advocating for a shared point of view. Nonprofits are tax exempt or charitable. They can operate in religious, scientific, research, or educational settings.</p>
 <p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/assets/img/no-logo-organization.svg" length="0" type="image/svg"/>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/no-logo-organization.svg" length="0" type="image/svg"/>
         </item>
         <item>
             <title><![CDATA[BFA24002-10009 – Réinsertion socio-économique des survivant·es de Violences Basées sur le Genre (VBG) et autonomisation socio-écon...]]></title>
@@ -3684,234 +3836,6 @@
 <p>
                 The information gathered in this form is only used to send you the CFI newsletter. The information may be kept for no more than 3 years. In accordance with the Data Protection Act of 6 January 1978 amended in 2004, you have the right to access and correct information relating to you, which you can exercise via the contact form or by emailing <a href="mailto:webmaster@cfi.fr">webmaster@cfi.fr</a> or writing to CFI, Direction générale, 62 rue Camille Desmoulins - F - 92130 Issy-les-Moulineaux.
               </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Call for EOIs: Community Strategy - Together for Inclusion (Colombia)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1689050/call-for-eois-community-strategy-together-for-inclusion-colombia</link>
-            <guid isPermaLink="false">8a5b4467e73a32d94c3750e87b8dc0bbf7b0c538adeba340f0e3bc2cc6d386dc</guid>
-            <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p><strong>UNHCR - UN High Commissioner for Refugees</strong> - The Office of the United Nations High Commissioner for Refugees (UNHCR), also known as the UN Refugee Agency, is a United Nations agency mandated to protect and support refugees at the request of a government or the UN itself and assists in their voluntary repatriation, local integration or resettlement to a third country. Its headquarters are in Geneva, Switzerland and is a member of the United Nations Development Group.<strong>&nbsp;</strong></p>
-<p><strong>Type of projects</strong>: all, but mostly services.</p>
-<p><strong>In order to see UNHCR opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=118395">here</a>.</strong></p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Social Development </h4>
-<p>Includes measures for improving well-being, inclusion, and resilience of individuals and communities through social services and protection systems.</p>
-<ul><li>Social inclusion and social cohesion programs</li><li>Social protection systems and safety nets</li><li>Social care services</li><li>Community development and vulnerable groups support</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Migration &amp; Refugees </h4>
-<p>Focuses on managing migration flows, protecting displaced populations, and supporting durable solutions for migrants and refugees.</p>
-<ul><li>Migration management and policy support</li><li>Refugee protection and assistance</li><li>Population movement and resettlement</li><li>Social integration and protection services</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Colombia </h4>]]></description>
-            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p><strong>UNHCR - UN High Commissioner for Refugees</strong> - The Office of the United Nations High Commissioner for Refugees (UNHCR), also known as the UN Refugee Agency, is a United Nations agency mandated to protect and support refugees at the request of a government or the UN itself and assists in their voluntary repatriation, local integration or resettlement to a third country. Its headquarters are in Geneva, Switzerland and is a member of the United Nations Development Group.<strong>&nbsp;</strong></p>
-<p><strong>Type of projects</strong>: all, but mostly services.</p>
-<p><strong>In order to see UNHCR opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=118395">here</a>.</strong></p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Social Development </h4>
-<p>Includes measures for improving well-being, inclusion, and resilience of individuals and communities through social services and protection systems.</p>
-<ul><li>Social inclusion and social cohesion programs</li><li>Social protection systems and safety nets</li><li>Social care services</li><li>Community development and vulnerable groups support</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Migration &amp; Refugees </h4>
-<p>Focuses on managing migration flows, protecting displaced populations, and supporting durable solutions for migrants and refugees.</p>
-<ul><li>Migration management and policy support</li><li>Refugee protection and assistance</li><li>Population movement and resettlement</li><li>Social integration and protection services</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Colombia </h4>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/unhcr-118395.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RFAs: Small Seeding Activity and/or Insurance Community Grant (UK)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1689551/rfas-small-seeding-activity-andor-insurance-community-grant-uk</link>
-            <guid isPermaLink="false">294f21c3e2520d47e18be29e084bacbede76dec3e94d75019e4eeef22167df58</guid>
-            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/antrim-and-newtownabbey-borough-council-598419.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[CFPs: Community Innovation Challenge Grant Program (Bhutan)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1688568/cfps-community-innovation-challenge-grant-program-bhutan</link>
-            <guid isPermaLink="false">b9b332e802751391d6f48ccd7372c9d2f849eb580a211266007266eeb107cd4a</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p>A nonprofit organization, also known as a non-business entity, not-for-profit organization, or nonprofit institution, is dedicated to furthering a particular social cause or advocating for a shared point of view. Nonprofits are tax exempt or charitable. They can operate in religious, scientific, research, or educational settings.</p>
-<p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Gender &amp; Human Rights </h4>
-<p>Includes initiatives that promote gender equality, protect human rights, and address discrimination and vulnerability across populations.</p>
-<ul><li>Gender equality and women’s empowerment</li><li>Human rights protection and advocacy</li><li>Protection of vulnerable and marginalized groups</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Social Development </h4>
-<p>Includes measures for improving well-being, inclusion, and resilience of individuals and communities through social services and protection systems.</p>
-<ul><li>Social inclusion and social cohesion programs</li><li>Social protection systems and safety nets</li><li>Social care services</li><li>Community development and vulnerable groups support</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Bhutan </h4>]]></description>
-            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p>A nonprofit organization, also known as a non-business entity, not-for-profit organization, or nonprofit institution, is dedicated to furthering a particular social cause or advocating for a shared point of view. Nonprofits are tax exempt or charitable. They can operate in religious, scientific, research, or educational settings.</p>
-<p><strong>In order to see NGO opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=82">here</a>.</strong></p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Gender &amp; Human Rights </h4>
-<p>Includes initiatives that promote gender equality, protect human rights, and address discrimination and vulnerability across populations.</p>
-<ul><li>Gender equality and women’s empowerment</li><li>Human rights protection and advocacy</li><li>Protection of vulnerable and marginalized groups</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Social Development </h4>
-<p>Includes measures for improving well-being, inclusion, and resilience of individuals and communities through social services and protection systems.</p>
-<ul><li>Social inclusion and social cohesion programs</li><li>Social protection systems and safety nets</li><li>Social care services</li><li>Community development and vulnerable groups support</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Bhutan </h4>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/no-logo-organization.svg" length="0" type="image/svg"/>
-        </item>
-        <item>
-            <title><![CDATA[Call for EOIs: Technical Support to Implement Climate Resilient (Nepal)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1688577/call-for-eois-technical-support-to-implement-climate-resilient-nepal</link>
-            <guid isPermaLink="false">d8b9ddbc63bc8380ca1d9c8b57472049c0763e7d4dc893c4dc66c0a115234d91</guid>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p><strong>UNICEF - United Nations Children's Fund</strong> - is a United Nations Program headquartered in New York City, that provides long-term humanitarian and developmental assistance to children and mothers in developing countries.</p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Environment &amp; Climate </h4>
-<p>Focuses on protecting natural ecosystems, promoting sustainable resource management, enhancing climate resilience, and mitigating the impacts of climate change through conservation, adaptation, and low-carbon initiatives.</p>
-<ul><li>Environmental protection and conservation</li><li>Natural resource and ecosystem management</li><li>Climate change and environmental resilience</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Water, Sanitation &amp; Hygiene </h4>
-<p>Supports initiatives that ensure access to safe water, sanitation systems, and hygiene services to improve public health and living conditions.</p>
-<ul><li>Water supply and drinking water projects</li><li>Sanitation systems and wastewater treatment</li><li>Hygiene promotion and WASH programmes</li><li>Water infrastructure (wells, boreholes, dams, irrigation)</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Nepal </h4>]]></description>
-            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p><strong>UNICEF - United Nations Children's Fund</strong> - is a United Nations Program headquartered in New York City, that provides long-term humanitarian and developmental assistance to children and mothers in developing countries.</p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Environment &amp; Climate </h4>
-<p>Focuses on protecting natural ecosystems, promoting sustainable resource management, enhancing climate resilience, and mitigating the impacts of climate change through conservation, adaptation, and low-carbon initiatives.</p>
-<ul><li>Environmental protection and conservation</li><li>Natural resource and ecosystem management</li><li>Climate change and environmental resilience</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Water, Sanitation &amp; Hygiene </h4>
-<p>Supports initiatives that ensure access to safe water, sanitation systems, and hygiene services to improve public health and living conditions.</p>
-<ul><li>Water supply and drinking water projects</li><li>Sanitation systems and wastewater treatment</li><li>Hygiene promotion and WASH programmes</li><li>Water infrastructure (wells, boreholes, dams, irrigation)</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Nepal </h4>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/unicef-118387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNNATI Phase 2: Call for Child Growth Assessment Initiative (India)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1689053/unnati-phase-2-call-for-child-growth-assessment-initiative-india</link>
-            <guid isPermaLink="false">7f227f8a323606351780931f53bed2dd5576a7fa16a8e2476ccb0e2ebb138201</guid>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Youth &amp; Child Welfare </h4>
-<p>Includes measures that support the well-being, protection, and development of young people and children.</p>
-<ul><li>Youth development policies and programmes</li><li>Child protection and welfare systems</li><li>Family support and social services</li><li>Education, inclusion, and well-being initiatives</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Research &amp; Innovation </h4>
-<p>Focuses on collecting data, generating new knowledge, and applying it to develop improved methods, technologies, products, and solutions across sectors.</p>
-<ul><li>Scientific research, studies, and investigations</li><li>Innovation programs and applied R&amp;D initiatives</li><li>Technology development</li><li>Space-related research and exploration themes</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> India </h4>]]></description>
-            <content:encoded><![CDATA[<h2 _ngcontent-ng-c3688897540="" class="funding-agency-card-title border-bottom mb-3"> About the Funding Agency </h2>
-<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>
-<h2 _ngcontent-ng-c2992923602="" class="sector-card-title border-bottom mb-4">About the Sectors</h2>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Youth &amp; Child Welfare </h4>
-<p>Includes measures that support the well-being, protection, and development of young people and children.</p>
-<ul><li>Youth development policies and programmes</li><li>Child protection and welfare systems</li><li>Family support and social services</li><li>Education, inclusion, and well-being initiatives</li></ul>
-<h4 _ngcontent-ng-c2992923602="" class="sector-card-subtitle mt-4 ng-star-inserted"> Research &amp; Innovation </h4>
-<p>Focuses on collecting data, generating new knowledge, and applying it to develop improved methods, technologies, products, and solutions across sectors.</p>
-<ul><li>Scientific research, studies, and investigations</li><li>Innovation programs and applied R&amp;D initiatives</li><li>Technology development</li><li>Space-related research and exploration themes</li></ul>
-<h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
-<h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> India </h4>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/indian-council-of-medical-research-icmr-222267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Concerto Joachim Kühn 31 jul 2026 / 21:30]]></title>
-            <link>https://gulbenkian.pt/agenda/joachim-khun/</link>
-            <guid isPermaLink="false">2e913970c7b650925cc824ddfbc260a0c1a470cad1f7e7ba9ebb5f811ea97e7a</guid>
-            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
-<h4 class="assist">Data</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelado							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Esgotado							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									sexta, 21:30								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Local</h4>
-<h4 class="assist">Preço</h4>
-<p>10% – Cartão Gulbenkian</p>
-<ul class="fcg-list-unstyled">
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Joachim Kühn											</span>
-														<span class="tw-ml-xs tw-text-sm">Piano</span>
-									</li>
-					</ul>
-<p>Prova cabal da sua inesgotável fonte de criatividade, Joachim Kühn gravou pouco antes de cumprir 80 anos o álbum duplo a solo Échappée para a Intakt Records.</p>
-<p>O pianista alemão é, desde a década de 1960, uma das figuras maiores do jazz de vanguarda, graças a uma riquíssima linguagem ao piano que deve tanto à tradição jazzística quanto ao legado da música erudita de linhagem europeia. Esse mundo livre e vasto está bem presente em Échapée, com a revista Jazzwise a chamar a atenção para a convivência de referências como Ravel, Chopin, Bud Powell e Art Tatum.</p>
-<p>“Não se espere uma improvisação tranquila e cristalina”, escrevia ainda a Jazzwise, “mas antes um galope frenético que, após repetidas audições, revela um subterrâneo sentido de estrutura sob a aparente aleatoriedade das rajadas de notas”.</p>
-<p class="tw-text-xs tw-leading-snug tw-mb-0">
-		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
-            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
-<h4 class="assist">Data</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelado							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Esgotado							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									sexta, 21:30								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Local</h4>
-<h4 class="assist">Preço</h4>
-<p>10% – Cartão Gulbenkian</p>
-<ul class="fcg-list-unstyled">
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Joachim Kühn											</span>
-														<span class="tw-ml-xs tw-text-sm">Piano</span>
-									</li>
-					</ul>
-<p>Prova cabal da sua inesgotável fonte de criatividade, Joachim Kühn gravou pouco antes de cumprir 80 anos o álbum duplo a solo Échappée para a Intakt Records.</p>
-<p>O pianista alemão é, desde a década de 1960, uma das figuras maiores do jazz de vanguarda, graças a uma riquíssima linguagem ao piano que deve tanto à tradição jazzística quanto ao legado da música erudita de linhagem europeia. Esse mundo livre e vasto está bem presente em Échapée, com a revista Jazzwise a chamar a atenção para a convivência de referências como Ravel, Chopin, Bud Powell e Art Tatum.</p>
-<p>“Não se espere uma improvisação tranquila e cristalina”, escrevia ainda a Jazzwise, “mas antes um galope frenético que, após repetidas audições, revela um subterrâneo sentido de estrutura sob a aparente aleatoriedade das rajadas de notas”.</p>
-<p class="tw-text-xs tw-leading-snug tw-mb-0">
-		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
-            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Joachim_Kuhn_by_ACT_Tibor_Bozi_01_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
