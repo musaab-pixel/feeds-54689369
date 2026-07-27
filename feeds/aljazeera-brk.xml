@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 09:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 09:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: تدمير نحو 500 مسيرة أوكرانية في منطقة العمليات العسكرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/228802</link>
+            <guid isPermaLink="false">3e322eca542785ec07403af291c6c8840389d5bd939475d38403300fc22c97a8</guid>
+            <pubDate>Mon, 27 Jul 2026 09:31:04 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: تدمير نحو 500 مسيرة أوكرانية في منطقة العمليات العسكرية يوم أمس]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: تدمير نحو 500 مسيرة أوكرانية في منطقة العمليات العسكرية يوم أمس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الأردني: إسقاط مسيرتين في أجواء البلاد وعملية الاعتراض لم تسفر عن إصابات…]]></title>
             <link>https://t.me/aljazeeraBrk/228801</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 20:18:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: عراقجي ومسؤولة السياسة الخارجية في الاتحاد الأوروبي بحثا التطورات الأخيرة في مضيق هرمز]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي ومسؤولة السياسة الخارجية في الاتحاد الأوروبي بحثا التطورات الأخيرة في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب لقناة إل سي آي الفرنسية: سنستأنف الحرب الواسعة ضد إيران إذا لم نحصل على…]]></title>
-            <link>https://t.me/aljazeeraBrk/228602</link>
-            <guid isPermaLink="false">8500d89dd53a684ce25a0aaa1cd6d2a03fd4cf9876e8ad1206f0bb8b4b142e73</guid>
-            <pubDate>Sat, 25 Jul 2026 20:11:02 GMT</pubDate>
-            <description><![CDATA[ترمب لقناة إل سي آي الفرنسية: سنستأنف الحرب الواسعة ضد إيران إذا لم نحصل على 100% مما نريد]]></description>
-            <content:encoded><![CDATA[ترمب لقناة إل سي آي الفرنسية: سنستأنف الحرب الواسعة ضد إيران إذا لم نحصل على 100% مما نريد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
