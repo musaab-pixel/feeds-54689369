@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 00:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 01:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[شرطة سياتل بولاية واشنطن: نحقق في حادث إطلاق نار أسفر عن إصابة عدة أشخاص]]></title>
+            <link>https://t.me/aljazeeraBrk/228764</link>
+            <guid isPermaLink="false">54a9047d25c9d8a45976926ba64c35f24861dc32214c3c54a1510e51fdbf7e61</guid>
+            <pubDate>Mon, 27 Jul 2026 01:44:02 GMT</pubDate>
+            <description><![CDATA[شرطة سياتل بولاية واشنطن: نحقق في حادث إطلاق نار أسفر عن إصابة عدة أشخاص]]></description>
+            <content:encoded><![CDATA[شرطة سياتل بولاية واشنطن: نحقق في حادث إطلاق نار أسفر عن إصابة عدة أشخاص]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن بيانات تتبع حركة الملاحة: أقل من 10 سفن محملة بالسلع عبرت مضيق هرمز…]]></title>
             <link>https://t.me/aljazeeraBrk/228763</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:21:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يطلقون النار على منازل الفلسطينيين في خلة الحمص بمسافر يطا جنوب الخليل]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يطلقون النار على منازل الفلسطينيين في خلة الحمص بمسافر يطا جنوب الخليل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق المؤدي إلى قرى شمال غرب القدس…]]></title>
-            <link>https://t.me/aljazeeraBrk/228564</link>
-            <guid isPermaLink="false">050ed31fc457a7654ca709719cc2911e8959f721471bb2ac743eb94abcde9005</guid>
-            <pubDate>Sat, 25 Jul 2026 16:17:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق المؤدي إلى قرى شمال غرب القدس ويرشقون السيارات بالحجارة]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يغلقون طريق النفق المؤدي إلى قرى شمال غرب القدس ويرشقون السيارات بالحجارة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
