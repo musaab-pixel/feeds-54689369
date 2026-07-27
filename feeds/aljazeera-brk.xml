@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 05:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 06:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: جرافات الاحتلال تهدم منزلا لفلسطيني في بلدة نعلين غرب رام الله…]]></title>
+            <link>https://t.me/aljazeeraBrk/228772</link>
+            <guid isPermaLink="false">297f0cb24036b99997fa87ab4dec32f92e123250124cd3dd240044953c4f8e7e</guid>
+            <pubDate>Mon, 27 Jul 2026 05:54:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: جرافات الاحتلال تهدم منزلا لفلسطيني في بلدة نعلين غرب رام الله بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: جرافات الاحتلال تهدم منزلا لفلسطيني في بلدة نعلين غرب رام الله بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: جرافات الاحتلال تبدأ هدم مبنى سكنيا في بلدة عرابة بجنين في الضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/228771</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:53:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تعتدي على طواقم الهلال الأحمر في منطقة سوسيا بمسافر يطا جنوب الخليل]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تعتدي على طواقم الهلال الأحمر في منطقة سوسيا بمسافر يطا جنوب الخليل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: مواجهة عنيفة قبل قليل بين إسرائيليين وفلسطينيين في سوسيا جنوب…]]></title>
-            <link>https://t.me/aljazeeraBrk/228573</link>
-            <guid isPermaLink="false">d7cbb934430876dca95b6b498d39f06ffa1371e6b8563982a1b098650cf57927</guid>
-            <pubDate>Sat, 25 Jul 2026 16:53:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: مواجهة عنيفة قبل قليل بين إسرائيليين وفلسطينيين في سوسيا جنوب الخليل تخللها رشق بالحجارة]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: مواجهة عنيفة قبل قليل بين إسرائيليين وفلسطينيين في سوسيا جنوب الخليل تخللها رشق بالحجارة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
