@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 03:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 03:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[موقع واللا عن مسؤولين عسكريين إسرائيليين: الوضع في الضفة الغربية بالغ الخطورة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228766</link>
+            <guid isPermaLink="false">95d8ed5cfd525a8a00e522599f43c4a587030fd5ab4ba40eb45ec33831239abd</guid>
+            <pubDate>Mon, 27 Jul 2026 03:29:02 GMT</pubDate>
+            <description><![CDATA[موقع واللا عن مسؤولين عسكريين إسرائيليين: الوضع في الضفة الغربية بالغ الخطورة وقابل للانفجار]]></description>
+            <content:encoded><![CDATA[موقع واللا عن مسؤولين عسكريين إسرائيليين: الوضع في الضفة الغربية بالغ الخطورة وقابل للانفجار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام أمريكية: قتيلان و5 إصابات في حادث إطلاق النار في منطقة سياتل سنتر…]]></title>
             <link>https://t.me/aljazeeraBrk/228765</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:26:02 GMT</pubDate>
             <description><![CDATA[يسرائيل هيوم: إصابة إسرائيلي في حادثة جنوب جبل الخليل واشتباه بالاستيلاء على سلاحه]]></description>
             <content:encoded><![CDATA[يسرائيل هيوم: إصابة إسرائيلي في حادثة جنوب جبل الخليل واشتباه بالاستيلاء على سلاحه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: تلقينا بلاغات عن إطلاق نار في منطقة سوسيا جنوب الخليل والحادث…]]></title>
-            <link>https://t.me/aljazeeraBrk/228566</link>
-            <guid isPermaLink="false">3b516180661ed14b4c00a614ce7dd906b97c7d54d8318ae1765219814607fd8e</guid>
-            <pubDate>Sat, 25 Jul 2026 16:24:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: تلقينا بلاغات عن إطلاق نار في منطقة سوسيا جنوب الخليل والحادث قيد الفحص]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: تلقينا بلاغات عن إطلاق نار في منطقة سوسيا جنوب الخليل والحادث قيد الفحص]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
