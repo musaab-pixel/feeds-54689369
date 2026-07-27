@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 08:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 08:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[زيلنسكي: المسيرات الأوكرانية استهدفت منصة للتصدير ومنشآت نفطية على بعد 1300 كلم…]]></title>
+            <link>https://t.me/aljazeeraBrk/228796</link>
+            <guid isPermaLink="false">a90c330aabb659b50d41646b76f93b71c7541e0384520fda0b09241762114044</guid>
+            <pubDate>Mon, 27 Jul 2026 08:34:02 GMT</pubDate>
+            <description><![CDATA[زيلنسكي: المسيرات الأوكرانية استهدفت منصة للتصدير ومنشآت نفطية على بعد 1300 كلم في عمق الأراضي الروسية]]></description>
+            <content:encoded><![CDATA[زيلنسكي: المسيرات الأوكرانية استهدفت منصة للتصدير ومنشآت نفطية على بعد 1300 كلم في عمق الأراضي الروسية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: الوسطاء ينقلون لنا رسائل من واشنطن لكن ليس لدينا أي مفاوضات…]]></title>
             <link>https://t.me/aljazeeraBrk/228795</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 20:00:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: أمريكا انتهكت مذكرة التفاهم وأعلنت ممرا آخر لعبور السفن في مضيق هرمز]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: أمريكا انتهكت مذكرة التفاهم وأعلنت ممرا آخر لعبور السفن في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: مذكرة التفاهم تؤكد أن حركة الملاحة في هرمز تكون وفق…]]></title>
-            <link>https://t.me/aljazeeraBrk/228596</link>
-            <guid isPermaLink="false">0bcb3c2574f447ef0ef5d1b0a4006486ef42983e93a265b06931a3a3f874cff8</guid>
-            <pubDate>Sat, 25 Jul 2026 19:59:02 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: مذكرة التفاهم تؤكد أن حركة الملاحة في هرمز تكون وفق الترتيبات التي تعلنها إيران]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: مذكرة التفاهم تؤكد أن حركة الملاحة في هرمز تكون وفق الترتيبات التي تعلنها إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
