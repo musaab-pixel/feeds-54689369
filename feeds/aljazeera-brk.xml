@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 27 Jul 2026 04:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 05:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة عرابة في جنين بالضفة الغربية…]]></title>
+            <link>https://t.me/aljazeeraBrk/228769</link>
+            <guid isPermaLink="false">74cab9d6795bb85a55208b6afc89f9b17e35fec85cc9607a4de9e5232bd4bd2e</guid>
+            <pubDate>Mon, 27 Jul 2026 05:29:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة عرابة في جنين بالضفة الغربية برفقة جرافات عسكرية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة عرابة في جنين بالضفة الغربية برفقة جرافات عسكرية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: ممر الملاحة الآمن في مضيق هرمز هو المحدد مسبقا أما الممرات…]]></title>
             <link>https://t.me/aljazeeraBrk/228768</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 25 Jul 2026 16:29:02 GMT</pubDate>
             <description><![CDATA[إذاعة الجيش الإسرائيلي: الفلسطينيون تمكنوا من الفرار نحو يطا جنوب الخليل وقوات من الجيش تطاردهم]]></description>
             <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: الفلسطينيون تمكنوا من الفرار نحو يطا جنوب الخليل وقوات من الجيش تطاردهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إذاعة الجيش الإسرائيلي: فلسطينيون استولوا على سلاح مستوطن خلال مواجهات معه في…]]></title>
-            <link>https://t.me/aljazeeraBrk/228568</link>
-            <guid isPermaLink="false">9af63e3c7376d4db6b8ef1bf2d227373de83ee25f810cbbe4ba99051a7147614</guid>
-            <pubDate>Sat, 25 Jul 2026 16:28:02 GMT</pubDate>
-            <description><![CDATA[إذاعة الجيش الإسرائيلي: فلسطينيون استولوا على سلاح مستوطن خلال مواجهات معه في منطقة سوسيا جنوب الخليل]]></description>
-            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: فلسطينيون استولوا على سلاح مستوطن خلال مواجهات معه في منطقة سوسيا جنوب الخليل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
