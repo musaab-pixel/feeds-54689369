@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "167eb08c3be9663334228ae1cc54d1fbd64d2121e5dc5486da235f1fc09b4585",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Einstufung der Robert Bosch Stiftung als „unerwünschte Organisation“ in Russland</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-28T13:56:02+02:00\" title=\"Dienstag, 28 Juli 2026 - 13:56\" class=\"datetime\">Di. 28 Jul 2026 - 13:56</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/einstufung-der-robert-bosch-stiftung-als-unerwuenschte-organisation-russland",
+            "title": "Einstufung der Robert Bosch Stiftung als „unerwünschte Organisation“ in Russland",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Einstufung der Robert Bosch Stiftung als „unerwünschte Organisation“ in Russland</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-28T13:56:02+02:00\" title=\"Dienstag, 28 Juli 2026 - 13:56\" class=\"datetime\">Di. 28 Jul 2026 - 13:56</time>\n</span>\n",
+            "date_modified": "2026-07-28T11:56:02.000Z",
+            "author": {
+                "name": "ebolta"
+            }
+        },
+        {
             "id": "1f734dd2f8bb9f431d364e6f4a85f44f79205b12adc9968c55261699446d5eb0",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Hausärztemangel: Neue Studie zeigt, wie die ambulante Versorgung trotzdem gelingt</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-27T11:33:31+02:00\" title=\"Montag, 27 Juli 2026 - 11:33\" class=\"datetime\">Mo. 27 Jul 2026 - 11:33</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/hausaerztemangel-neue-studie-zeigt-wie-die-ambulante-versorgung-trotzdem-gelingt",
