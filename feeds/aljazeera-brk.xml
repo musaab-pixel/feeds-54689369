@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 30 Jul 2026 17:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 17:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإيراني: استهدفنا بالمسيرات قاعدة الشيخ عيسى في البحرين]]></title>
+            <link>https://t.me/aljazeeraBrk/228886</link>
+            <guid isPermaLink="false">c463492752720ce3fceebd6d4a95c4bdcc4f6f31aadf576b0bc3244399813e47</guid>
+            <pubDate>Thu, 30 Jul 2026 17:34:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإيراني: استهدفنا بالمسيرات قاعدة الشيخ عيسى في البحرين]]></description>
+            <content:encoded><![CDATA[الجيش الإيراني: استهدفنا بالمسيرات قاعدة الشيخ عيسى في البحرين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجلس الشيوخ الأمريكي يصوت ضد مشروع قرار لوقف العمليات العسكرية ضد إيران]]></title>
             <link>https://t.me/aljazeeraBrk/228885</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 11:26:03 GMT</pubDate>
             <description><![CDATA[محافظ غيلان شمالي إيران: العدو استهدف قبل أيام سفينة تجارية في بحر قزوين خلال وجودها في مرسى نهر الفولغا]]></description>
             <content:encoded><![CDATA[محافظ غيلان شمالي إيران: العدو استهدف قبل أيام سفينة تجارية في بحر قزوين خلال وجودها في مرسى نهر الفولغا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش اللبناني: استمرار الاعتداءات يعرقل استكمال انتشار الجيش ويمنع عودة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228674</link>
-            <guid isPermaLink="false">142d66d96c88b9f66f52ef8ee4945a67d254211122768bb1f25eac8b5ad61442</guid>
-            <pubDate>Sun, 26 Jul 2026 11:16:03 GMT</pubDate>
-            <description><![CDATA[الجيش اللبناني: استمرار الاعتداءات يعرقل استكمال انتشار الجيش ويمنع عودة الأهالي وإرساء الاستقرار في الجنوب]]></description>
-            <content:encoded><![CDATA[الجيش اللبناني: استمرار الاعتداءات يعرقل استكمال انتشار الجيش ويمنع عودة الأهالي وإرساء الاستقرار في الجنوب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
