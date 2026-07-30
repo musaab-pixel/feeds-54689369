@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 28 Jul 2026 02:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 12:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[D-CLIC : 150 jeunes entament une formation aux métiers de la fabrication numérique au Sénégal]]></title>
+            <link>https://www.francophonie.org/d-clic-150-jeunes-entament-une-formation-aux-metiers-de-la-fabrication-numerique-au-senegal-8605</link>
+            <guid isPermaLink="false">80708fd9bc6d6dc9d5a1f9b51f8c72e7bee9aec03af16eec46e98883da91f1a6</guid>
+            <pubDate>Thu, 30 Jul 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">D-CLIC : 150 jeunes entament une formation aux métiers de la fabrication numérique au Sénégal</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span property="schema:dateCreated" content="2026-07-30T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 30/07/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">D-CLIC : 150 jeunes entament une formation aux métiers de la fabrication numérique au Sénégal</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span property="schema:dateCreated" content="2026-07-30T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 30/07/2026 - 15:43</span>
+]]></content:encoded>
+            <author>Montresor</author>
+        </item>
         <item>
             <title><![CDATA[Moyen-Orient : signature d'une convention visant à renforcer les compétences en français de fonctionnaires d'État]]></title>
             <link>https://www.francophonie.org/moyen-orient-signature-dune-convention-visant-renforcer-les-competences-en-francais-de-8604</link>
