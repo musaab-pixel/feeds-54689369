@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 30 Jul 2026 22:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 22:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: مع استكمال نزع السلاح ستنسحب إسرائيل وستتولى قوة الاستقرار الدولي وشرطة…]]></title>
+            <link>https://t.me/aljazeeraBrk/228922</link>
+            <guid isPermaLink="false">20c7ac117a88ec180431ba3abbda7484a369da4e86feeae0e26aa82a9b75b1e6</guid>
+            <pubDate>Thu, 30 Jul 2026 22:45:03 GMT</pubDate>
+            <description><![CDATA[ترمب: مع استكمال نزع السلاح ستنسحب إسرائيل وستتولى قوة الاستقرار الدولي وشرطة فلسطينية جديدة مسؤولية الأمن في غزة]]></description>
+            <content:encoded><![CDATA[ترمب: مع استكمال نزع السلاح ستنسحب إسرائيل وستتولى قوة الاستقرار الدولي وشرطة فلسطينية جديدة مسؤولية الأمن في غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: أحرزنا تقدما تاريخيا في غزة وما يزال هناك الكثير من العمل لإنجازه]]></title>
             <link>https://t.me/aljazeeraBrk/228921</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 15:35:03 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء أكد بالاتصال مع وزير الخارجية السعودي ضرورة التزام جميع الأطراف بالحوار]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء أكد بالاتصال مع وزير الخارجية السعودي ضرورة التزام جميع الأطراف بالحوار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: رئيس الوزراء بحث في اتصال مع وزير الخارجية السعودي المستجدات…]]></title>
-            <link>https://t.me/aljazeeraBrk/228710</link>
-            <guid isPermaLink="false">ea1b10613b788fb079f31c6dbcccc29342d77fea5c6adc5cbe9fd4a4e290b77a</guid>
-            <pubDate>Sun, 26 Jul 2026 15:33:03 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: رئيس الوزراء بحث في اتصال مع وزير الخارجية السعودي المستجدات الإقليمية والجهود الدبلوماسية]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء بحث في اتصال مع وزير الخارجية السعودي المستجدات الإقليمية والجهود الدبلوماسية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
