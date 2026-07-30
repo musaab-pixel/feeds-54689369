@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 30 Jul 2026 16:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 17:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[قائد الجيش اللبناني: الفتنة الداخلية هي أحد أهداف الاحتلال الإسرائيلي ويجب…]]></title>
+            <link>https://t.me/aljazeeraBrk/228878</link>
+            <guid isPermaLink="false">37f4eb4a478928d46b03ea46f82e4922729b6cc46fecfdd476cd9cfd957c2e93</guid>
+            <pubDate>Thu, 30 Jul 2026 16:51:02 GMT</pubDate>
+            <description><![CDATA[قائد الجيش اللبناني: الفتنة الداخلية هي أحد أهداف الاحتلال الإسرائيلي ويجب مواجهتها]]></description>
+            <content:encoded><![CDATA[قائد الجيش اللبناني: الفتنة الداخلية هي أحد أهداف الاحتلال الإسرائيلي ويجب مواجهتها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: نؤكد رفض قطر استهداف المنشآت الحيوية ونشدد على تجنيب المنطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/228876</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 11:05:03 GMT</pubDate>
             <description><![CDATA[القيادة المركزية الأمريكية: حولنا حتى ٢٥ يوليو مسار 12 سفينة تجارية حاولت خرق الحصار وعطلنا سفينتين لم تمتثلا]]></description>
             <content:encoded><![CDATA[القيادة المركزية الأمريكية: حولنا حتى ٢٥ يوليو مسار 12 سفينة تجارية حاولت خرق الحصار وعطلنا سفينتين لم تمتثلا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القيادة المركزية الأمريكية: الحصار البحري الأمريكي المفروض على إيران لا يزال…]]></title>
-            <link>https://t.me/aljazeeraBrk/228666</link>
-            <guid isPermaLink="false">39b3c3d242b12d63b1c8230a042ca83708da388c2239fadfce39737cb9f9866c</guid>
-            <pubDate>Sun, 26 Jul 2026 11:04:03 GMT</pubDate>
-            <description><![CDATA[القيادة المركزية الأمريكية: الحصار البحري الأمريكي المفروض على إيران لا يزال ساريا بالكامل]]></description>
-            <content:encoded><![CDATA[القيادة المركزية الأمريكية: الحصار البحري الأمريكي المفروض على إيران لا يزال ساريا بالكامل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
