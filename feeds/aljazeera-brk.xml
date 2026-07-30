@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 30 Jul 2026 22:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 22:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: مجلس السلام توصل إلى اتفاق تاريخي يقضي بنزع السلاح بالكامل من حركة حماس…]]></title>
+            <link>https://t.me/aljazeeraBrk/228917</link>
+            <guid isPermaLink="false">a6636340e0d7989cde8338b619a0b84f3a7751704ffaa2651d9690bc6dcbf8c2</guid>
+            <pubDate>Thu, 30 Jul 2026 22:29:05 GMT</pubDate>
+            <description><![CDATA[ترمب: مجلس السلام توصل إلى اتفاق تاريخي يقضي بنزع السلاح بالكامل من حركة حماس والجماعات المسلحة الأخرى في غزة]]></description>
+            <content:encoded><![CDATA[ترمب: مجلس السلام توصل إلى اتفاق تاريخي يقضي بنزع السلاح بالكامل من حركة حماس والجماعات المسلحة الأخرى في غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المسودة تربط مراحل حصر السلاح بانسحاب إسرائيلي تدريجي من المناطق التي تسيطر…]]></title>
             <link>https://t.me/aljazeeraBrk/228916</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 15:11:03 GMT</pubDate>
             <description><![CDATA[مسؤول في ديوان نتنياهو: عدد القوات الدولية يبلغ في هذه المرحلة حوالي 200 فقط من دول صديقة]]></description>
             <content:encoded><![CDATA[مسؤول في ديوان نتنياهو: عدد القوات الدولية يبلغ في هذه المرحلة حوالي 200 فقط من دول صديقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول في ديوان نتنياهو: مجلس الوزراء قرر أن إسرائيل فقط مخولة بالموافقة على…]]></title>
-            <link>https://t.me/aljazeeraBrk/228705</link>
-            <guid isPermaLink="false">8023f0c8a47fcc6ded3f51aa51015bccc8052eb2e99a4515c24686c0aa14cb32</guid>
-            <pubDate>Sun, 26 Jul 2026 15:10:03 GMT</pubDate>
-            <description><![CDATA[مسؤول في ديوان نتنياهو: مجلس الوزراء قرر أن إسرائيل فقط مخولة بالموافقة على الدول المسموح لها بإرسال قوات لغزة]]></description>
-            <content:encoded><![CDATA[مسؤول في ديوان نتنياهو: مجلس الوزراء قرر أن إسرائيل فقط مخولة بالموافقة على الدول المسموح لها بإرسال قوات لغزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
