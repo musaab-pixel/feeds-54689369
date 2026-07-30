@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 30 Jul 2026 20:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 20:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية السعودية: ندين ونستنكر الهجوم بمسيرة الذي أدى لاندلاع حريق في سفينتين…]]></title>
+            <link>https://t.me/aljazeeraBrk/228893</link>
+            <guid isPermaLink="false">326bce1112c889f680afc3bd7a109db9eb1314abb31dd8f7a8741c09fb1622e3</guid>
+            <pubDate>Thu, 30 Jul 2026 20:14:02 GMT</pubDate>
+            <description><![CDATA[الخارجية السعودية: ندين ونستنكر الهجوم بمسيرة الذي أدى لاندلاع حريق في سفينتين بميناء دمياط شمالي مصر]]></description>
+            <content:encoded><![CDATA[الخارجية السعودية: ندين ونستنكر الهجوم بمسيرة الذي أدى لاندلاع حريق في سفينتين بميناء دمياط شمالي مصر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية السعودية: نجدد تضامننا مع الكويت والأردن في إجراءاتهما تجاه اعتداءات…]]></title>
             <link>https://t.me/aljazeeraBrk/228892</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 12:08:03 GMT</pubDate>
             <description><![CDATA[وكالة مهر الإيرانية عن مصدر: طهران حذرت مرارا من أن أي سفينة تخرج عن المسار المحدد من جانب إيران ستتحمل تداعيات ذلك]]></description>
             <content:encoded><![CDATA[وكالة مهر الإيرانية عن مصدر: طهران حذرت مرارا من أن أي سفينة تخرج عن المسار المحدد من جانب إيران ستتحمل تداعيات ذلك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة مهر الإيرانية عن مصدر: طهران حذرت مرارا من أن أي سفينة تخرج من المسار…]]></title>
-            <link>https://t.me/aljazeeraBrk/228681</link>
-            <guid isPermaLink="false">257d1c6100b565acb23f27d33984ec7ac1cadc4131574028741a69dfa5b91a0e</guid>
-            <pubDate>Sun, 26 Jul 2026 12:02:03 GMT</pubDate>
-            <description><![CDATA[وكالة مهر الإيرانية عن مصدر: طهران حذرت مرارا من أن أي سفينة تخرج من المسار المحدد من جانب إيران ستتحمل تداعيات ذلك]]></description>
-            <content:encoded><![CDATA[وكالة مهر الإيرانية عن مصدر: طهران حذرت مرارا من أن أي سفينة تخرج من المسار المحدد من جانب إيران ستتحمل تداعيات ذلك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
