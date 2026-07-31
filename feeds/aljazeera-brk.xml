@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 20:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 20:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القيادة المركزية الأمريكية: حولنا مسار 30 سفينة وعطلنا سفينتين منذ استئناف…]]></title>
+            <link>https://t.me/aljazeeraBrk/229109</link>
+            <guid isPermaLink="false">e0bee91ab46f0916aea81b3eb4c6a75fe0c220363e4528abfcd135a67b18c697</guid>
+            <pubDate>Fri, 31 Jul 2026 20:47:02 GMT</pubDate>
+            <description><![CDATA[القيادة المركزية الأمريكية: حولنا مسار 30 سفينة وعطلنا سفينتين منذ استئناف الحصار على الموانئ الإيرانية]]></description>
+            <content:encoded><![CDATA[القيادة المركزية الأمريكية: حولنا مسار 30 سفينة وعطلنا سفينتين منذ استئناف الحصار على الموانئ الإيرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد في غارة من مسيرة إسرائيلية على حي الصبرة…]]></title>
             <link>https://t.me/aljazeeraBrk/229107</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 30 Jul 2026 21:59:02 GMT</pubDate>
             <description><![CDATA[المسودة تنص على تولي لجنة التحقق الدولية مراقبة عملية حصر السلاح والتحقق من تنفيذها بدعم من قوة الاستقرار الدولية]]></description>
             <content:encoded><![CDATA[المسودة تنص على تولي لجنة التحقق الدولية مراقبة عملية حصر السلاح والتحقق من تنفيذها بدعم من قوة الاستقرار الدولية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المسودة تنص على مشاركة الفصائل الفلسطينية في عملية حصر وتخزين السلاح]]></title>
-            <link>https://t.me/aljazeeraBrk/228910</link>
-            <guid isPermaLink="false">94e06a428b10613cc200d48e3e0d8957eab381241f3931f3b5bd60128235f2f8</guid>
-            <pubDate>Thu, 30 Jul 2026 21:59:02 GMT</pubDate>
-            <description><![CDATA[المسودة تنص على مشاركة الفصائل الفلسطينية في عملية حصر وتخزين السلاح]]></description>
-            <content:encoded><![CDATA[المسودة تنص على مشاركة الفصائل الفلسطينية في عملية حصر وتخزين السلاح]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
