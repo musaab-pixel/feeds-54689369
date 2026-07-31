@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 21:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 21:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سي بي إس نيوز عن مصادر: الولايات المتحدة وإسرائيل تستعدان لقصف أهداف مرتبطة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229111</link>
+            <guid isPermaLink="false">6c5cb854de107180e8d2232d5a75b096afc02d6019cf8150bd8795bb9ceced73</guid>
+            <pubDate>Fri, 31 Jul 2026 21:08:02 GMT</pubDate>
+            <description><![CDATA[سي بي إس نيوز عن مصادر: الولايات المتحدة وإسرائيل تستعدان لقصف أهداف مرتبطة بقطاع الطاقة في إيران]]></description>
+            <content:encoded><![CDATA[سي بي إس نيوز عن مصادر: الولايات المتحدة وإسرائيل تستعدان لقصف أهداف مرتبطة بقطاع الطاقة في إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: سمحنا لنحو 30 سفينة بالعبور لنقل مساعدات إنسانية…]]></title>
             <link>https://t.me/aljazeeraBrk/229110</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 30 Jul 2026 22:05:02 GMT</pubDate>
             <description><![CDATA[المسودة تؤكد عدم نقل أو تسليم أي سلاح إلى إسرائيل أو إلى أطراف غير فلسطينية]]></description>
             <content:encoded><![CDATA[المسودة تؤكد عدم نقل أو تسليم أي سلاح إلى إسرائيل أو إلى أطراف غير فلسطينية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المسودة تنص على أن تكون اللجنة الوطنية وحدها الجهة التي تحتفظ بالسلاح أو تخزنه…]]></title>
-            <link>https://t.me/aljazeeraBrk/228912</link>
-            <guid isPermaLink="false">15c94e8dadc2abd371116e21509df8265311895d0ab1eecd2f9af5a497695724</guid>
-            <pubDate>Thu, 30 Jul 2026 22:05:02 GMT</pubDate>
-            <description><![CDATA[المسودة تنص على أن تكون اللجنة الوطنية وحدها الجهة التي تحتفظ بالسلاح أو تخزنه أو تسيطر عليه في غزة]]></description>
-            <content:encoded><![CDATA[المسودة تنص على أن تكون اللجنة الوطنية وحدها الجهة التي تحتفظ بالسلاح أو تخزنه أو تسيطر عليه في غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
