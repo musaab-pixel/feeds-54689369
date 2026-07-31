@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 17:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 17:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس مجلس قرية المغير للجزيرة: إصابة طفل برصاص مستوطن غربي القرية في قضاء رام…]]></title>
+            <link>https://t.me/aljazeeraBrk/229101</link>
+            <guid isPermaLink="false">74c8f1d628d8c7bc5b06cefdfc1a9d0b79ca1879db2fc24de6b4d51879991ff5</guid>
+            <pubDate>Fri, 31 Jul 2026 17:24:02 GMT</pubDate>
+            <description><![CDATA[رئيس مجلس قرية المغير للجزيرة: إصابة طفل برصاص مستوطن غربي القرية في قضاء رام الله]]></description>
+            <content:encoded><![CDATA[رئيس مجلس قرية المغير للجزيرة: إصابة طفل برصاص مستوطن غربي القرية في قضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الوزراء اللبناني: الاعتداءات الإسرائيلية في الجنوب خرق لوقف إطلاق النار…]]></title>
             <link>https://t.me/aljazeeraBrk/229100</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 30 Jul 2026 21:55:02 GMT</pubDate>
             <description><![CDATA[المسودة تربط بدء عملية حصر السلاح بدخول اللجنة الوطنية وانتشار قوة الاستقرار الدولية في قطاع غزة]]></description>
             <content:encoded><![CDATA[المسودة تربط بدء عملية حصر السلاح بدخول اللجنة الوطنية وانتشار قوة الاستقرار الدولية في قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المسودة التي وافقت عليها حماس والفصائل تنص على أن تتولى اللجنة الوطنية إدارة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228902</link>
-            <guid isPermaLink="false">d709dbe761dcbcf326522713a680dc207eb50a7fb96c07c00b569c1cba4cf895</guid>
-            <pubDate>Thu, 30 Jul 2026 21:55:02 GMT</pubDate>
-            <description><![CDATA[المسودة التي وافقت عليها حماس والفصائل تنص على أن تتولى اللجنة الوطنية إدارة عملية حصر وتخزين السلاح وتنفيذها]]></description>
-            <content:encoded><![CDATA[المسودة التي وافقت عليها حماس والفصائل تنص على أن تتولى اللجنة الوطنية إدارة عملية حصر وتخزين السلاح وتنفيذها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
