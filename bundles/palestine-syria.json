@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "b16d5fd6104c1153d4867ab53d946f2b764698fa420efd77c13def3993b7829f",
+            "content_html": "<b>وسائل إعلام لبنانية:</b> الأمن العام يتجه إلى تسوية أوضاع نحو 600 ألف سوري كانوا ممنوعين من دخول لبنان بسبب مخالفات في نظام الإقامة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/138939",
+            "title": "وسائل إعلام لبنانية: الأمن العام يتجه إلى تسوية أوضاع نحو 600 ألف سوري كانوا…",
+            "summary": "<b>وسائل إعلام لبنانية:</b> الأمن العام يتجه إلى تسوية أوضاع نحو 600 ألف سوري كانوا ممنوعين من دخول لبنان بسبب مخالفات في نظام الإقامة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-07-31T06:12:22.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "95523dcf1613a939a94aa2c8d24e8ca691546c9d76bbe43cffaa34f3a157f46b",
             "content_html": "<b>سانا:</b> القائم بأعمال السفارة السورية في مصر السفير يحيى دياب يسلم أوراق اعتماده لمساعد وزير الخارجية ‏المصري لشؤون المراسم السفير أيمن الدسوقي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/138938",
@@ -1621,17 +1632,6 @@
             "url": "https://t.me/aljazeeraBrk/228836",
             "title": "الحرس الثوري الإيراني: استهدفنا اليوم قاعدة الأزرق في الأردن",
             "summary": "الحرس الثوري الإيراني: استهدفنا اليوم قاعدة الأزرق في الأردن",
-            "date_modified": "2026-07-30T11:10:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "8e856ed27b3f4a39a2328116d6ab438d1907a692910d7851f36d62ecf065eb7e",
-            "content_html": "يسرائيل هيوم: نحو 100 جندي من لواء غفعاتي غادروا معتقل سديه تيمان تاركين أسلحتهم بعد خلاف مع قائد كتيبتهم",
-            "url": "https://t.me/aljazeeraBrk/228837",
-            "title": "يسرائيل هيوم: نحو 100 جندي من لواء غفعاتي غادروا معتقل سديه تيمان تاركين…",
-            "summary": "يسرائيل هيوم: نحو 100 جندي من لواء غفعاتي غادروا معتقل سديه تيمان تاركين أسلحتهم بعد خلاف مع قائد كتيبتهم",
             "date_modified": "2026-07-30T11:10:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
