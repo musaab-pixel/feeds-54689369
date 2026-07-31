@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "29a3f653efbdf7b7a0aa620657d25b065e58e1e1c02084caab4bace55807b768",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصادر أمنية إسبانية:</b> ارتفاع حصيلة الوفيات أثناء محاولة أعداد كبيرة من المهاجرين العبور من المغرب إلى سبتة لـ27 حالة وفاة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/138945",
+            "title": "🛑#عاجل | مصادر أمنية إسبانية: ارتفاع حصيلة الوفيات أثناء محاولة أعداد كبيرة من…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصادر أمنية إسبانية:</b> ارتفاع حصيلة الوفيات أثناء محاولة أعداد كبيرة من المهاجرين العبور من المغرب إلى سبتة لـ27 حالة وفاة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-07-31T11:07:45.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "6d87b8563b5e147001475a08b89df323fa12fae475da98a023627bd8ca75d322",
             "content_html": "رئيس الحكومة الإسبانية: أشكر السلطات المغربية على استعدادها للتعاون بشأن إعادة المهاجرين",
             "url": "https://t.me/aljazeeraBrk/228994",
@@ -1632,17 +1643,6 @@
             "title": "الرئيس اللبناني: استقرار لبنان ليس شأنا لبنانيا بل جزءا من استقرار المنطقة",
             "summary": "الرئيس اللبناني: استقرار لبنان ليس شأنا لبنانيا بل جزءا من استقرار المنطقة",
             "date_modified": "2026-07-30T15:15:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "015edf99295aef2cd9cb72dc67bb31aa30611c29c7059f5facb7833e96a0b35d",
-            "content_html": "الرئيس اللبناني: زيارتنا تأخرت أكثر مما ينبغي وأنا ثالث رئيس يزور تركيا منذ سبعين عاما",
-            "url": "https://t.me/aljazeeraBrk/228864",
-            "title": "الرئيس اللبناني: زيارتنا تأخرت أكثر مما ينبغي وأنا ثالث رئيس يزور تركيا منذ…",
-            "summary": "الرئيس اللبناني: زيارتنا تأخرت أكثر مما ينبغي وأنا ثالث رئيس يزور تركيا منذ سبعين عاما",
-            "date_modified": "2026-07-30T15:14:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
