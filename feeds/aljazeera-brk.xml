@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 18:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى العودة: 10 مصابين في غارة إسرائيلية على منزل بمخيم النصيرات وسط قطاع غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/229106</link>
+            <guid isPermaLink="false">0442277967139028a534016acda18a3892823c11332bd0a549ddcca9a7753d4c</guid>
+            <pubDate>Fri, 31 Jul 2026 19:34:02 GMT</pubDate>
+            <description><![CDATA[مستشفى العودة: 10 مصابين في غارة إسرائيلية على منزل بمخيم النصيرات وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى العودة: 10 مصابين في غارة إسرائيلية على منزل بمخيم النصيرات وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[العقود الآجلة لخام برنت ترتفع 1.22% لتبلغ عند التسوية 90.12 دولار للبرميل]]></title>
             <link>https://t.me/aljazeeraBrk/229105</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 30 Jul 2026 21:58:02 GMT</pubDate>
             <description><![CDATA[المسودة تنص على أن تمديد الجدول الزمني مشروط بموافقة جميع الأطراف على خريطة الطريق]]></description>
             <content:encoded><![CDATA[المسودة تنص على أن تمديد الجدول الزمني مشروط بموافقة جميع الأطراف على خريطة الطريق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المسودة تربط مراحل حصر السلاح بانسحاب إسرائيلي تدريجي من المناطق التي تسيطر…]]></title>
-            <link>https://t.me/aljazeeraBrk/228907</link>
-            <guid isPermaLink="false">25ef5946060c89278c1b7bda19c2b652b8e3194c437a9bcf02a65c2a550ca81b</guid>
-            <pubDate>Thu, 30 Jul 2026 21:58:02 GMT</pubDate>
-            <description><![CDATA[المسودة تربط مراحل حصر السلاح بانسحاب إسرائيلي تدريجي من المناطق التي تسيطر عليها إسرائيل في غزة]]></description>
-            <content:encoded><![CDATA[المسودة تربط مراحل حصر السلاح بانسحاب إسرائيلي تدريجي من المناطق التي تسيطر عليها إسرائيل في غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
