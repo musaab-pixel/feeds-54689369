@@ -4,7 +4,7 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 18:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 19:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1284,6 +1284,15 @@
             <author>الجزيرة عاجل</author>
         </item>
         <item>
+            <title><![CDATA[Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/07/1168062</link>
+            <guid isPermaLink="false">8ae0184e703d7e07d7b23ed9351b37560c4831427c7710a63288690304818000</guid>
+            <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.]]></description>
+            <content:encoded><![CDATA[Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/23-07-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[مجلس السلام الخاص بغزة: الأطراف تهدف لضمان الانسحاب الإسرائيلي من قطاع غزة…]]></title>
             <link>https://t.me/aljazeeraBrk/229004</link>
             <guid isPermaLink="false">f259eb878c01dc4f73e01970723822ae68bd0489bdc79133362def4824726941</guid>
@@ -1507,15 +1516,6 @@
             <pubDate>Fri, 31 Jul 2026 09:51:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: نواصل فرض إدارتنا الكاملة لمضيق هرمز وندافع عن مصالح شعبنا]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: نواصل فرض إدارتنا الكاملة لمضيق هرمز وندافع عن مصالح شعبنا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: ادعاءات القيادة المركزية الأمريكية استمرار الملاحة بهرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/228985</link>
-            <guid isPermaLink="false">b71c28e617d41f32b943dc1012602c13d0227a46222406ea66f48ab06aa067b8</guid>
-            <pubDate>Fri, 31 Jul 2026 09:50:03 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: ادعاءات القيادة المركزية الأمريكية استمرار الملاحة بهرمز دون عوائق وتحت مراقبتها كاذبة]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: ادعاءات القيادة المركزية الأمريكية استمرار الملاحة بهرمز دون عوائق وتحت مراقبتها كاذبة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
