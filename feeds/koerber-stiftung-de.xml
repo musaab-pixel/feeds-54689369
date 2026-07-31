@@ -4,10 +4,99 @@
         <title>koerber-stiftung.de</title>
         <link>https://koerber-stiftung.de/</link>
         <description>RSS Factory feed "koerber-stiftung.de" (type: website)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 10:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 08:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Mein HamburgWelche Geschichten gehören zu deinem Hamburg? Teile sie vom 4. bis 22. August im KörberHaus und gestalte mit, welche Perspektiven künftig im Museum für Hamburgische Geschichte gezeigt werden.]]></title>
+            <link>https://koerber-stiftung.de/projekte/mein-hamburg/</link>
+            <guid isPermaLink="false">367a3b68efd37f2436680a73dbe6e9a092662d2a45e64d7fa183e2c7cbbc8ab2</guid>
+            <pubDate>Fri, 31 Jul 2026 08:50:58 GMT</pubDate>
+            <description><![CDATA[<p class="is-large">Viele Perspektiven von Menschen der Hamburger Stadtgesellschaft finden sich im Museum für Hamburgische Geschichte (MHG) bislang nicht wieder. Während der derzeit stattfindenden baulichen und inhaltlichen Modernisierung lädt das MHG Menschen dazu ein, ihre Geschichten zu erzählen und Lebenswirklichkeiten zu teilen, damit einige davon langfristig Eingang in die Sammlungen und Ausstellungen finden können.</p>
+<p>Mithilfe von Beteiligungsformaten – ob digitale Formate oder Treffpunkte an öffentlichen Orten in den verschiedenen Stadtteilen – möchten wir Hamburger:innen ermutigen, ihre Lebenswirklichkeiten zu teilen.</p>
+<p class="readmore_action"><button @click="more=!more" class="button button-tiny"><span x-html="more ? labelsLess : labelsMore">mehr</span><i class="i i-bold i-chevron-down" :class="{&quot;i-chevron-up&quot;:more, &quot;i-chevron-down&quot;:!more, }"></i></button></p>
+<p>Wir laden Dich ein, auch Deine Geschichte mit uns zu teilen. Ob kurz, lang, ernst oder humorvoll – alles ist willkommen. Was verbindet dich mit Hamburg? Wo fühlst du dich zu Hause? Wann hast du Zugehörigkeit oder Ausgrenzung erlebt? Was soll so bleiben, wie es ist – was möchtest du verändern? Teile gerne etwas über Dein Leben und Deinen Alltag in der Stadt oder in Deinem Stadtteil, Deine Wünsche und Hoffnungen für Hamburg.</p>
+<ul class="summary_contents_container"><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s55412">Aktuell</a></li><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s56022">Komm vorbei!</a></li><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s56021">Programmübersicht</a></li><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s46283">Kontakt</a></li></ul>
+<h2>Aktuell</h2>
+<p class="is-large"><strong>Mein Hamburg! im KörberHaus in Bergedorf</strong></p>
+<p class="is-large">Auftaktabend am 06.08.2026 um 18:30 Uhr</p>
+<p>Das Museum für Hamburgische Geschichte ist vom 04.08. bis 22.08. zu Besuch im KörberHaus in Bergedorf. Wir laden dich ein, deine Geschichte zu teilen.</p>
+<p>Zu viele Perspektiven der Menschen unserer Stadt kommen im Museum nicht vor. Das wollen wir gemeinsam ändern! Mein Hamburg kommt zu dir nach Bergedorf!</p>
+<p>Zum Auftakt am Donnerstag, den 6. August 2026, erwartet dich ab 18:30 Uhr ein vielseitiger Abend zwischen Lesung, Erzählung und Live-Musik von Bergedorfer Künstler:innen, der die Besonderheiten des Stadtteils hörbar, sichtbar und erlebbar macht.</p>
+<p>Das vollständige Programm mit allen wichtigen Informationen findest du auf der Mein Hamburg!-Website:</p>
+<h2>Komm vorbei!</h2>
+<h3>Unsere Öffnungszeiten</h3>
+<p>04.–22. August 2026<br><br>Di–Fr: <em>14–20 Uhr</em><br>Sa: <em>12–18 Uhr</em><br>Mo &amp; So <em>geschlossen</em></p>
+<h2>Programmübersicht</h2>
+<h3>Donnerstag, 06. August</h3>
+<p>ab 18:30 Uhr: <em>Live-Konzert zur Eröffnung mit Bands aus Bergedorf</em></p>
+<h3>Freitag, 07. August</h3>
+<p>19:00 Uhr: <em>Falafel-Party*</em></p>
+<h3>Samstag, 08. August</h3>
+<p>17:00 Uhr: <em>Filmvorstellung „Manche hatten Krokodile“</em></p>
+<h3>Mittwoch, 12. August</h3>
+<p>15:00 Uhr: <em>Geschichtencafé mit Javi &amp; Amads Foto-Ecke –Porträts für alle</em></p>
+<h3>Donnerstag, 13. August</h3>
+<p>10:30 Uhr: <em>Dialog in Deutsch – Gesprächsgruppe</em></p>
+<p>17:00 Uhr: <em>Interkultureller Kochabend*</em></p>
+<h3>Freitag, 14. August</h3>
+<p>11:00 Uhr: <em>Finger-Alphabet*</em></p>
+<p>18:00 Uhr: <em>Filmvorstellung „Der Zweite Anschlag“ &amp; Gesprächsrunde*</em></p>
+<h3>Dienstag, 18. August</h3>
+<p>14:00 Uhr: <em>Unser Kinderstadtteilplan Bergedorf</em></p>
+<h3>Donnerstag, 20. August</h3>
+<p>15:00 Uhr: <em>Geschichtencafé mit Javi &amp; Amads Foto-Ecke –Porträts für alle</em></p>
+<h3>Freitag, 21. August</h3>
+<p>15:00 Uhr: <em>Geschichtencafé mit Javi</em></p>
+<h3>Samstag, 22. August</h3>
+<p>ab 17:00 Uhr: <em>Offener Abschluss</em></p>
+<p class="is-gray">*Eine Anmeldung ist erforderlich. Informationen, wie du dich anmelden kannst, findest du auf der Mein Hamburg!-Website:</p>
+<h2>Kontakt</h2>
+<h4 class="profile_content_title">Jonas Wietelmann</h4>]]></description>
+            <content:encoded><![CDATA[<p class="is-large">Viele Perspektiven von Menschen der Hamburger Stadtgesellschaft finden sich im Museum für Hamburgische Geschichte (MHG) bislang nicht wieder. Während der derzeit stattfindenden baulichen und inhaltlichen Modernisierung lädt das MHG Menschen dazu ein, ihre Geschichten zu erzählen und Lebenswirklichkeiten zu teilen, damit einige davon langfristig Eingang in die Sammlungen und Ausstellungen finden können.</p>
+<p>Mithilfe von Beteiligungsformaten – ob digitale Formate oder Treffpunkte an öffentlichen Orten in den verschiedenen Stadtteilen – möchten wir Hamburger:innen ermutigen, ihre Lebenswirklichkeiten zu teilen.</p>
+<p class="readmore_action"><button @click="more=!more" class="button button-tiny"><span x-html="more ? labelsLess : labelsMore">mehr</span><i class="i i-bold i-chevron-down" :class="{&quot;i-chevron-up&quot;:more, &quot;i-chevron-down&quot;:!more, }"></i></button></p>
+<p>Wir laden Dich ein, auch Deine Geschichte mit uns zu teilen. Ob kurz, lang, ernst oder humorvoll – alles ist willkommen. Was verbindet dich mit Hamburg? Wo fühlst du dich zu Hause? Wann hast du Zugehörigkeit oder Ausgrenzung erlebt? Was soll so bleiben, wie es ist – was möchtest du verändern? Teile gerne etwas über Dein Leben und Deinen Alltag in der Stadt oder in Deinem Stadtteil, Deine Wünsche und Hoffnungen für Hamburg.</p>
+<ul class="summary_contents_container"><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s55412">Aktuell</a></li><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s56022">Komm vorbei!</a></li><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s56021">Programmübersicht</a></li><li class="summary_contents_item"><a class="summary_contents_item_link" href="#s46283">Kontakt</a></li></ul>
+<h2>Aktuell</h2>
+<p class="is-large"><strong>Mein Hamburg! im KörberHaus in Bergedorf</strong></p>
+<p class="is-large">Auftaktabend am 06.08.2026 um 18:30 Uhr</p>
+<p>Das Museum für Hamburgische Geschichte ist vom 04.08. bis 22.08. zu Besuch im KörberHaus in Bergedorf. Wir laden dich ein, deine Geschichte zu teilen.</p>
+<p>Zu viele Perspektiven der Menschen unserer Stadt kommen im Museum nicht vor. Das wollen wir gemeinsam ändern! Mein Hamburg kommt zu dir nach Bergedorf!</p>
+<p>Zum Auftakt am Donnerstag, den 6. August 2026, erwartet dich ab 18:30 Uhr ein vielseitiger Abend zwischen Lesung, Erzählung und Live-Musik von Bergedorfer Künstler:innen, der die Besonderheiten des Stadtteils hörbar, sichtbar und erlebbar macht.</p>
+<p>Das vollständige Programm mit allen wichtigen Informationen findest du auf der Mein Hamburg!-Website:</p>
+<h2>Komm vorbei!</h2>
+<h3>Unsere Öffnungszeiten</h3>
+<p>04.–22. August 2026<br><br>Di–Fr: <em>14–20 Uhr</em><br>Sa: <em>12–18 Uhr</em><br>Mo &amp; So <em>geschlossen</em></p>
+<h2>Programmübersicht</h2>
+<h3>Donnerstag, 06. August</h3>
+<p>ab 18:30 Uhr: <em>Live-Konzert zur Eröffnung mit Bands aus Bergedorf</em></p>
+<h3>Freitag, 07. August</h3>
+<p>19:00 Uhr: <em>Falafel-Party*</em></p>
+<h3>Samstag, 08. August</h3>
+<p>17:00 Uhr: <em>Filmvorstellung „Manche hatten Krokodile“</em></p>
+<h3>Mittwoch, 12. August</h3>
+<p>15:00 Uhr: <em>Geschichtencafé mit Javi &amp; Amads Foto-Ecke –Porträts für alle</em></p>
+<h3>Donnerstag, 13. August</h3>
+<p>10:30 Uhr: <em>Dialog in Deutsch – Gesprächsgruppe</em></p>
+<p>17:00 Uhr: <em>Interkultureller Kochabend*</em></p>
+<h3>Freitag, 14. August</h3>
+<p>11:00 Uhr: <em>Finger-Alphabet*</em></p>
+<p>18:00 Uhr: <em>Filmvorstellung „Der Zweite Anschlag“ &amp; Gesprächsrunde*</em></p>
+<h3>Dienstag, 18. August</h3>
+<p>14:00 Uhr: <em>Unser Kinderstadtteilplan Bergedorf</em></p>
+<h3>Donnerstag, 20. August</h3>
+<p>15:00 Uhr: <em>Geschichtencafé mit Javi &amp; Amads Foto-Ecke –Porträts für alle</em></p>
+<h3>Freitag, 21. August</h3>
+<p>15:00 Uhr: <em>Geschichtencafé mit Javi</em></p>
+<h3>Samstag, 22. August</h3>
+<p>ab 17:00 Uhr: <em>Offener Abschluss</em></p>
+<p class="is-gray">*Eine Anmeldung ist erforderlich. Informationen, wie du dich anmelden kannst, findest du auf der Mein Hamburg!-Website:</p>
+<h2>Kontakt</h2>
+<h4 class="profile_content_title">Jonas Wietelmann</h4>]]></content:encoded>
+            <enclosure url="https://koerber-stiftung.de/site/assets/files/46279/shmh_mhg_bergedorf_website-koerber-stiftung_2560x2560_koerber-hellgrau.530x371-hidpi.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Deutscher Studienpreis 2026Psychosoziale Notfallversorgung, selbstbestimmte Identität und sichtbare Proteindynamik: Zu diesen Themen haben die Erstpreisträger 2026 geforscht. Erfahren Sie mehr über alle neun Preistragenden.]]></title>
             <link>https://koerber-stiftung.de/projekte/deutscher-studienpreis/preistraeger-innen-2026/</link>
