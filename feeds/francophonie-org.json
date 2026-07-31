@@ -16,6 +16,17 @@
             }
         },
         {
+            "id": "ef2c1386f3cd21be6f68367ef562c71677c96f984ff62b85568c9dbb85ba24bf",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">D-CLIC : des formations gratuites aux métiers du numérique offertes par l'OIF aux jeunes</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 31/07/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/d-clic-des-formations-gratuites-aux-metiers-du-numerique-offertes-par-loif-aux-jeunes-8607",
+            "title": "D-CLIC : des formations gratuites aux métiers du numérique offertes par l'OIF aux jeunes",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">D-CLIC : des formations gratuites aux métiers du numérique offertes par l'OIF aux jeunes</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 31/07/2026 - 15:43</span>\n",
+            "date_modified": "2026-07-31T15:43:13.000Z",
+            "author": {
+                "name": "Montresor"
+            }
+        },
+        {
             "id": "80708fd9bc6d6dc9d5a1f9b51f8c72e7bee9aec03af16eec46e98883da91f1a6",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">D-CLIC : 150 jeunes entament une formation aux métiers de la fabrication numérique au Sénégal</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 30/07/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/d-clic-150-jeunes-entament-une-formation-aux-metiers-de-la-fabrication-numerique-au-senegal-8605",

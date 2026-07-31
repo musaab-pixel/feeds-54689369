@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 13:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 15:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -18,6 +18,21 @@
 <span property="schema:dateCreated" content="2026-07-31T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 31/07/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Haïti : l’OIF salue la publication du calendrier électoral 2026-2027</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span property="schema:dateCreated" content="2026-07-31T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 31/07/2026 - 15:43</span>
+]]></content:encoded>
+            <author>Montresor</author>
+        </item>
+        <item>
+            <title><![CDATA[D-CLIC : des formations gratuites aux métiers du numérique offertes par l'OIF aux jeunes]]></title>
+            <link>https://www.francophonie.org/d-clic-des-formations-gratuites-aux-metiers-du-numerique-offertes-par-loif-aux-jeunes-8607</link>
+            <guid isPermaLink="false">ef2c1386f3cd21be6f68367ef562c71677c96f984ff62b85568c9dbb85ba24bf</guid>
+            <pubDate>Fri, 31 Jul 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">D-CLIC : des formations gratuites aux métiers du numérique offertes par l'OIF aux jeunes</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span property="schema:dateCreated" content="2026-07-31T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 31/07/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">D-CLIC : des formations gratuites aux métiers du numérique offertes par l'OIF aux jeunes</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
 <span property="schema:dateCreated" content="2026-07-31T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 31/07/2026 - 15:43</span>
 ]]></content:encoded>
