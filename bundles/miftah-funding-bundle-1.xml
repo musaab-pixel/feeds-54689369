@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 1</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 1" (type: bundle)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 01:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 06:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -653,6 +653,19 @@
 <h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
 <h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> New Zealand </h4>]]></content:encoded>
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/auckland-council-179305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Core State Injury Prevention Program (Core SIPP)]]></title>
+            <link>https://www.developmentaid.org/grants/view/1692570/core-state-injury-prevention-program-core-sipp</link>
+            <guid isPermaLink="false">135041b286649754c87bc1a63f7c661f71fd42e42a08dd8b419c7f10087895d4</guid>
+            <pubDate>Mon, 08 Mar 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>]]></description>
+            <content:encoded><![CDATA[<p>Centers for Disease Control and Prevention (CDC) is a federal agency of the U.S. Department of Health founded in 1946 and located in Druid Hills, Georgia, USA. Its role is to ensure the health and safety of the population by providing information on opportunities for improving health care decisions. Over the past decade, the agency has played an important role in the United States' fight against the spread of the A/California/H1N1 influenza strain.</p>
+<p>Nowadays, CDC is an important operational component of the Department of Health and Human Services and is well known as the leading national agency for health promotion, prevention and preparedness. The agency remains at the forefront of the public health efforts aimed at preventing and controlling chronic and infectious diseases, injuries, occupational hazards, disabilities and health threats. CDC is recognized around the world for its studies and research as well as for being an action-oriented agency. CDC conducts research and applies the results to improve living standards and quickly respond to health emergencies. CDC works with states and other partners to establish a health surveillance system that monitors and prevents disease outbreaks, including those related to biological terrorism, implements disease prevention strategies and maintains national health statistics. The agency also makes international efforts against disease transmission with staff in more than 25 countries.</p>
+<p>CDC key sectors: Public Health, Research, Health Surveillance, Laboratory, Science, Innovation, Disease Transmission, Social Welfare, etc.</p>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/cdc-118471.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Conceptual Development Games Grant for Micro-Prototype Development (Australia) Round 3]]></title>
@@ -3276,21 +3289,6 @@
 <h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
 <h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Spain </h4>]]></content:encoded>
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/ec-118352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Open Call for Special Event Minor Grant Program (Canada)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1681193/open-call-for-special-event-minor-grant-program-canada</link>
-            <guid isPermaLink="false">c1e7a6d0a7289b77fa185e3e7a31be5e7d16aaffdf04cd029007e297a919d2f6</guid>
-            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/city-of-regina-308811.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
