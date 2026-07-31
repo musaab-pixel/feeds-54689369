@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 17:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 17:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة شاب إثر اعتداء جنود الاحتلال عليه خلال اعتقاله…]]></title>
+            <link>https://t.me/aljazeeraBrk/229102</link>
+            <guid isPermaLink="false">0e548ec75e13e53477519187408180df2daf954ab9ee248f0b9b7225eec85f73</guid>
+            <pubDate>Fri, 31 Jul 2026 17:26:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة شاب إثر اعتداء جنود الاحتلال عليه خلال اعتقاله من قرية تل جنوب غربي نابلس]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة شاب إثر اعتداء جنود الاحتلال عليه خلال اعتقاله من قرية تل جنوب غربي نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس مجلس قرية المغير للجزيرة: إصابة طفل برصاص مستوطن غربي القرية في قضاء رام…]]></title>
             <link>https://t.me/aljazeeraBrk/229101</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 30 Jul 2026 21:56:02 GMT</pubDate>
             <description><![CDATA[المسودة التي وافقت عليها حماس والفصائل تنص على تنفيذ عملية حصر وتخزين السلاح بصورة تدريجية ومتسلسلة]]></description>
             <content:encoded><![CDATA[المسودة التي وافقت عليها حماس والفصائل تنص على تنفيذ عملية حصر وتخزين السلاح بصورة تدريجية ومتسلسلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المسودة تربط بدء عملية حصر السلاح بدخول اللجنة الوطنية وانتشار قوة الاستقرار…]]></title>
-            <link>https://t.me/aljazeeraBrk/228901</link>
-            <guid isPermaLink="false">3362ee31ccf4c65b9d781fceb3afe2da8b84b1b292923069a6e73cb1d3bfba2d</guid>
-            <pubDate>Thu, 30 Jul 2026 21:55:02 GMT</pubDate>
-            <description><![CDATA[المسودة تربط بدء عملية حصر السلاح بدخول اللجنة الوطنية وانتشار قوة الاستقرار الدولية في قطاع غزة]]></description>
-            <content:encoded><![CDATA[المسودة تربط بدء عملية حصر السلاح بدخول اللجنة الوطنية وانتشار قوة الاستقرار الدولية في قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
