@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 03:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 05:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: عشرات المستوطنين يقتحمون المنطقة الغربية لمدينة نابلس بحماية…]]></title>
+            <link>https://t.me/aljazeeraBrk/228960</link>
+            <guid isPermaLink="false">6d83cb6a9871e715a448311871a6d38bc7a8e3570330d00e9eb3f9a2e6d4b1ab</guid>
+            <pubDate>Fri, 31 Jul 2026 05:40:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: عشرات المستوطنين يقتحمون المنطقة الغربية لمدينة نابلس بحماية قوات الاحتلال]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: عشرات المستوطنين يقتحمون المنطقة الغربية لمدينة نابلس بحماية قوات الاحتلال]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإيراني: استهدفنا قبل ساعات بالمسيرات منشآت وتجهيزات للجيش الأمريكي في…]]></title>
             <link>https://t.me/aljazeeraBrk/228959</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 20:54:03 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم بلدة عرابة غرب جنين شمالي الضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم بلدة عرابة غرب جنين شمالي الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن أن نسمح بتحول مضيق هرمز إلى أداة بأيدي…]]></title>
-            <link>https://t.me/aljazeeraBrk/228748</link>
-            <guid isPermaLink="false">bd3761f7a8527146247c628940fe0df5d06bf69e911ab67f0c28cbea1c71c75d</guid>
-            <pubDate>Sun, 26 Jul 2026 20:34:03 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن أن نسمح بتحول مضيق هرمز إلى أداة بأيدي المعتدين للإضرار بأمننا القومي]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن أن نسمح بتحول مضيق هرمز إلى أداة بأيدي المعتدين للإضرار بأمننا القومي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
