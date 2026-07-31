@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 03:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 03:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإيراني: استهدفنا قبل ساعات بالمسيرات منشآت وتجهيزات للجيش الأمريكي في…]]></title>
+            <link>https://t.me/aljazeeraBrk/228959</link>
+            <guid isPermaLink="false">390430b376b5abad42314745c91b588402f910a0a655e315ddce3844ff550441</guid>
+            <pubDate>Fri, 31 Jul 2026 03:41:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإيراني: استهدفنا قبل ساعات بالمسيرات منشآت وتجهيزات للجيش الأمريكي في قاعدة أحمد الجابر بالكويت]]></description>
+            <content:encoded><![CDATA[الجيش الإيراني: استهدفنا قبل ساعات بالمسيرات منشآت وتجهيزات للجيش الأمريكي في قاعدة أحمد الجابر بالكويت]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: عشرات المستوطنين يقتحمون بلدة تل جنوب غرب نابلس بحماية قوات…]]></title>
             <link>https://t.me/aljazeeraBrk/228958</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 20:34:03 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن أن نسمح بتحول مضيق هرمز إلى أداة بأيدي المعتدين للإضرار بأمننا القومي]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن أن نسمح بتحول مضيق هرمز إلى أداة بأيدي المعتدين للإضرار بأمننا القومي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: الوسطاء ومن بينهم باكستان وقطر يقومون بمبادلة…]]></title>
-            <link>https://t.me/aljazeeraBrk/228746</link>
-            <guid isPermaLink="false">29a9349b3f305b5f91baa965cf53511cc8218b1392e6f32f4e6ff9efa3cedb28</guid>
-            <pubDate>Sun, 26 Jul 2026 20:33:03 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: الوسطاء ومن بينهم باكستان وقطر يقومون بمبادلة الرسائل بين الأطراف]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: الوسطاء ومن بينهم باكستان وقطر يقومون بمبادلة الرسائل بين الأطراف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
