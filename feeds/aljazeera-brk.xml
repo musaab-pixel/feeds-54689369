@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 08:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 08:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة الكرامة شمالي مدينة غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/228971</link>
+            <guid isPermaLink="false">2381cfdcbb8b232b6644d8d86e44b7000e1bfd3a5d4c9cf405e21368335c4513</guid>
+            <pubDate>Fri, 31 Jul 2026 08:38:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة الكرامة شمالي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة الكرامة شمالي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: دخول الإسرائيليين إلى مناطق "أ" في الضفة الغربية محظور وخطير…]]></title>
             <link>https://t.me/aljazeeraBrk/228970</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 26 Jul 2026 22:47:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس بالضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية تل جنوب غرب نابلس بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أسعار النفط تهبط 5% على خلفية تعليق الهجمات الأمريكية على إيران]]></title>
-            <link>https://t.me/aljazeeraBrk/228759</link>
-            <guid isPermaLink="false">3bbee3e06fdc464d682d01895af6083030d88b812c27c3e7adc5d1aedca367a2</guid>
-            <pubDate>Sun, 26 Jul 2026 22:44:03 GMT</pubDate>
-            <description><![CDATA[أسعار النفط تهبط 5% على خلفية تعليق الهجمات الأمريكية على إيران]]></description>
-            <content:encoded><![CDATA[أسعار النفط تهبط 5% على خلفية تعليق الهجمات الأمريكية على إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
