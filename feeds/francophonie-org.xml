@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 30 Jul 2026 12:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 13:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Haïti : l’OIF salue la publication du calendrier électoral 2026-2027]]></title>
+            <link>https://www.francophonie.org/haiti-loif-salue-la-publication-du-calendrier-electoral-2026-2027-8606</link>
+            <guid isPermaLink="false">d3d9ceba06998caf24920779541fbfd62326a36daac6635ef0317bd5c73d588c</guid>
+            <pubDate>Fri, 31 Jul 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Haïti : l’OIF salue la publication du calendrier électoral 2026-2027</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span property="schema:dateCreated" content="2026-07-31T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 31/07/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Haïti : l’OIF salue la publication du calendrier électoral 2026-2027</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/88" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">Montresor</span></span>
+<span property="schema:dateCreated" content="2026-07-31T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 31/07/2026 - 15:43</span>
+]]></content:encoded>
+            <author>Montresor</author>
+        </item>
         <item>
             <title><![CDATA[D-CLIC : 150 jeunes entament une formation aux métiers de la fabrication numérique au Sénégal]]></title>
             <link>https://www.francophonie.org/d-clic-150-jeunes-entament-une-formation-aux-metiers-de-la-fabrication-numerique-au-senegal-8605</link>
