@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 31 Jul 2026 09:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 10:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس البرلمان اللبناني: التفجيرات الإسرائيلية في الجنوب مدانة ولا يجب السكوت…]]></title>
+            <link>https://t.me/aljazeeraBrk/228987</link>
+            <guid isPermaLink="false">538ded4636dcb1d2e80f93f794c7618e3cefdb9134fe14fc5a01f1e8276c2327</guid>
+            <pubDate>Fri, 31 Jul 2026 10:04:02 GMT</pubDate>
+            <description><![CDATA[رئيس البرلمان اللبناني: التفجيرات الإسرائيلية في الجنوب مدانة ولا يجب السكوت والصمت عنها]]></description>
+            <content:encoded><![CDATA[رئيس البرلمان اللبناني: التفجيرات الإسرائيلية في الجنوب مدانة ولا يجب السكوت والصمت عنها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: نواصل فرض إدارتنا الكاملة لمضيق هرمز وندافع عن مصالح…]]></title>
             <link>https://t.me/aljazeeraBrk/228986</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 27 Jul 2026 06:35:03 GMT</pubDate>
             <description><![CDATA[اتحاد لجان الصيادين في غزة: إصابة 3 صيادين بنيران مسيرة إسرائيلية أثناء عملهم قرب ميناء غزة]]></description>
             <content:encoded><![CDATA[اتحاد لجان الصيادين في غزة: إصابة 3 صيادين بنيران مسيرة إسرائيلية أثناء عملهم قرب ميناء غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر طبي للجزيرة: وفاة جنين ونجاة والدته بعد أن احتجز الاحتلال مركبة إسعاف على…]]></title>
-            <link>https://t.me/aljazeeraBrk/228775</link>
-            <guid isPermaLink="false">552d86f72053308bce82e72f00581e85700fa446854a19153da6635f7077cbc3</guid>
-            <pubDate>Mon, 27 Jul 2026 06:34:03 GMT</pubDate>
-            <description><![CDATA[مصدر طبي للجزيرة: وفاة جنين ونجاة والدته بعد أن احتجز الاحتلال مركبة إسعاف على حاجز عورتا جنوب نابلس]]></description>
-            <content:encoded><![CDATA[مصدر طبي للجزيرة: وفاة جنين ونجاة والدته بعد أن احتجز الاحتلال مركبة إسعاف على حاجز عورتا جنوب نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
