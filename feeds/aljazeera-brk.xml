@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 01 Aug 2026 03:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 04:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: مقتل 9 وإصابة 23 في هجوم روسي بالصواريخ على العاصمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229137</link>
+            <guid isPermaLink="false">1b24fd9e7f120cd6589fd2395fe0f3918d813d6be17cb7e04f94e5380e3c91bc</guid>
+            <pubDate>Sat, 01 Aug 2026 04:06:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: مقتل 9 وإصابة 23 في هجوم روسي بالصواريخ على العاصمة كييف فجر اليوم]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: مقتل 9 وإصابة 23 في هجوم روسي بالصواريخ على العاصمة كييف فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تضرر غرفة المحرك في ناقلة نفط بعد…]]></title>
             <link>https://t.me/aljazeeraBrk/229136</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 00:21:02 GMT</pubDate>
             <description><![CDATA[رئيس مجلس السلام في غزة: يجب أن تكون عملية التنفيذ والتحقق حقيقية وأن يسير انسحاب إسرائيل جنبا إلى جنب مع عملية التفكيك]]></description>
             <content:encoded><![CDATA[رئيس مجلس السلام في غزة: يجب أن تكون عملية التنفيذ والتحقق حقيقية وأن يسير انسحاب إسرائيل جنبا إلى جنب مع عملية التفكيك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس مجلس السلام في غزة: توصلنا إلى اتفاق بشأن التخلص من الأسلحة والانتقال إلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/228938</link>
-            <guid isPermaLink="false">cbb5a94c8788120be2c0f2002249ac278ea464633826ad089472882518c832b3</guid>
-            <pubDate>Fri, 31 Jul 2026 00:21:02 GMT</pubDate>
-            <description><![CDATA[رئيس مجلس السلام في غزة: توصلنا إلى اتفاق بشأن التخلص من الأسلحة والانتقال إلى الوضع المدني في غزة]]></description>
-            <content:encoded><![CDATA[رئيس مجلس السلام في غزة: توصلنا إلى اتفاق بشأن التخلص من الأسلحة والانتقال إلى الوضع المدني في غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
