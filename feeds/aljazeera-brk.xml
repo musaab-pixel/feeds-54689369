@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 01 Aug 2026 06:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 06:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: غارة إسرائيلية تدمر مستودع الأدوية والمستلزمات الطبية…]]></title>
+            <link>https://t.me/aljazeeraBrk/229152</link>
+            <guid isPermaLink="false">a60295347e189fd3f379a26412aba3670fec5717f4af031d079fcaaee75acd32</guid>
+            <pubDate>Sat, 01 Aug 2026 06:47:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: غارة إسرائيلية تدمر مستودع الأدوية والمستلزمات الطبية للمستشفى في دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: غارة إسرائيلية تدمر مستودع الأدوية والمستلزمات الطبية للمستشفى في دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة موسكو: الدفاعات الجوية الروسية أسقطت فجر اليوم 4 مسيرات كانت تتجه نحو…]]></title>
             <link>https://t.me/aljazeeraBrk/229151</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 01:15:02 GMT</pubDate>
             <description><![CDATA[مجلس السلام في غزة: تركيزنا ينصب الآن على مرحلة تنفيذ خارطة الطريق]]></description>
             <content:encoded><![CDATA[مجلس السلام في غزة: تركيزنا ينصب الآن على مرحلة تنفيذ خارطة الطريق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجلس السلام في غزة: خارطة الطريق تقضي بتخلي حماس عن كافة أسلحتها وهو ما سيعقبه…]]></title>
-            <link>https://t.me/aljazeeraBrk/228951</link>
-            <guid isPermaLink="false">3452b63d903a5347f0b47126fcbabd94c2358c0456fad89bbbbd216c2826965d</guid>
-            <pubDate>Fri, 31 Jul 2026 01:14:02 GMT</pubDate>
-            <description><![CDATA[مجلس السلام في غزة: خارطة الطريق تقضي بتخلي حماس عن كافة أسلحتها وهو ما سيعقبه انسحاب إسرائيلي من قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجلس السلام في غزة: خارطة الطريق تقضي بتخلي حماس عن كافة أسلحتها وهو ما سيعقبه انسحاب إسرائيلي من قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
