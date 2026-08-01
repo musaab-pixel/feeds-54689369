@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 01 Aug 2026 11:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 11:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر…]]></title>
+            <link>https://t.me/aljazeeraBrk/229207</link>
+            <guid isPermaLink="false">9687186873a3deb905ba5c9ba619fd77f5fb2d40cc9075e4b43fb6f3b719f637</guid>
+            <pubDate>Sat, 01 Aug 2026 11:44:02 GMT</pubDate>
+            <description><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر بجنوب لبنان الليلة الماضية]]></description>
+            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر بجنوب لبنان الليلة الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: إصابة ضابط بجروح متوسطة خلال نشاط عملياتي في جنوب لبنان…]]></title>
             <link>https://t.me/aljazeeraBrk/229206</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 12:02:02 GMT</pubDate>
             <description><![CDATA[مجلس السلام الخاص بغزة: تلتزم إسرائيل باستكمال التزاماتها كاملة بموجب بروتوكول شرم الشيخ دون تأخير]]></description>
             <content:encoded><![CDATA[مجلس السلام الخاص بغزة: تلتزم إسرائيل باستكمال التزاماتها كاملة بموجب بروتوكول شرم الشيخ دون تأخير]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجلس السلام الخاص بغزة: الأطراف تسعى لتهيئة مسار سياسي موثوق يحقق تقرير المصير…]]></title>
-            <link>https://t.me/aljazeeraBrk/229007</link>
-            <guid isPermaLink="false">d937b0f8d8e4b41b4326226dd29be628ac851f04fbd25b1bb9ea9fb844619be9</guid>
-            <pubDate>Fri, 31 Jul 2026 12:01:03 GMT</pubDate>
-            <description><![CDATA[مجلس السلام الخاص بغزة: الأطراف تسعى لتهيئة مسار سياسي موثوق يحقق تقرير المصير وإقامة الدولة الفلسطينية]]></description>
-            <content:encoded><![CDATA[مجلس السلام الخاص بغزة: الأطراف تسعى لتهيئة مسار سياسي موثوق يحقق تقرير المصير وإقامة الدولة الفلسطينية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
