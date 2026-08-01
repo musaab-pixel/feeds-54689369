@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 01 Aug 2026 14:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 15:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: إصابة 3 فلسطينيين جراء اعتداء مستوطنين عليهم بالضرب قرب قرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/229217</link>
+            <guid isPermaLink="false">2d73c5087dccac84b46a8dcfc0f172560bb9d414601ef33c14d71524aa879d1e</guid>
+            <pubDate>Sat, 01 Aug 2026 15:03:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: إصابة 3 فلسطينيين جراء اعتداء مستوطنين عليهم بالضرب قرب قرية المغير في رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: إصابة 3 فلسطينيين جراء اعتداء مستوطنين عليهم بالضرب قرب قرية المغير في رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[واشنطن بوست عن مسؤول إسرائيلي: لن ننسحب من الخط الأصفر قبل نزع سلاح حماس وجعل…]]></title>
             <link>https://t.me/aljazeeraBrk/229216</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 12:16:06 GMT</pubDate>
             <description><![CDATA[حماس: التزام الاحتلال بوقف القتل هو المدخل الأساس للمضي بالتنفيذ ووضع الإطار الزمني لما تم التوافق عليه]]></description>
             <content:encoded><![CDATA[حماس: التزام الاحتلال بوقف القتل هو المدخل الأساس للمضي بالتنفيذ ووضع الإطار الزمني لما تم التوافق عليه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: تعاملنا بمسؤولية وإيجابية مع العملية التفاوضية ومقترحات الوسطاء لاستكمال…]]></title>
-            <link>https://t.me/aljazeeraBrk/229017</link>
-            <guid isPermaLink="false">504071037c1f4fc96ce13522a1d4d323ae04c74a389fbf09bf3d57aa4dad98be</guid>
-            <pubDate>Fri, 31 Jul 2026 12:15:02 GMT</pubDate>
-            <description><![CDATA[حماس: تعاملنا بمسؤولية وإيجابية مع العملية التفاوضية ومقترحات الوسطاء لاستكمال تنفيذ المرحلة 2 من الاتفاق]]></description>
-            <content:encoded><![CDATA[حماس: تعاملنا بمسؤولية وإيجابية مع العملية التفاوضية ومقترحات الوسطاء لاستكمال تنفيذ المرحلة 2 من الاتفاق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
