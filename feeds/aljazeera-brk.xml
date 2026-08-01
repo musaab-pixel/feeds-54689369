@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 01 Aug 2026 09:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 10:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر: حريق في مرافق تخزين وقود يوقف العمليات في مصفاة بجنوب غرب أربيل]]></title>
+            <link>https://t.me/aljazeeraBrk/229185</link>
+            <guid isPermaLink="false">f4d152b3fc2ad8d4037ef4d34fa6f60beb0f1d6a34fdfd579bbee13f8781df40</guid>
+            <pubDate>Sat, 01 Aug 2026 09:59:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر: حريق في مرافق تخزين وقود يوقف العمليات في مصفاة بجنوب غرب أربيل]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر: حريق في مرافق تخزين وقود يوقف العمليات في مصفاة بجنوب غرب أربيل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الكويتية: نؤكد احتفاظ الكويت بحقها المشروع في اتخاذ الإجراءات اللازمة…]]></title>
             <link>https://t.me/aljazeeraBrk/229184</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 09:51:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: نواصل فرض إدارتنا الكاملة لمضيق هرمز وندافع عن مصالح شعبنا]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: نواصل فرض إدارتنا الكاملة لمضيق هرمز وندافع عن مصالح شعبنا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: ادعاءات القيادة المركزية الأمريكية استمرار الملاحة بهرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/228985</link>
-            <guid isPermaLink="false">b71c28e617d41f32b943dc1012602c13d0227a46222406ea66f48ab06aa067b8</guid>
-            <pubDate>Fri, 31 Jul 2026 09:50:03 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: ادعاءات القيادة المركزية الأمريكية استمرار الملاحة بهرمز دون عوائق وتحت مراقبتها كاذبة]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: ادعاءات القيادة المركزية الأمريكية استمرار الملاحة بهرمز دون عوائق وتحت مراقبتها كاذبة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
