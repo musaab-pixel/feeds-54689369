@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 01 Aug 2026 08:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 08:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في مستشفى الشفاء: شهيدان في غارة من مسيرة إسرائيلية على حي الشيخ رضوان…]]></title>
+            <link>https://t.me/aljazeeraBrk/229168</link>
+            <guid isPermaLink="false">f6810cf3ef6a84eb8dbc86c28724970ad69bf65037e03b113b5a4601be075f22</guid>
+            <pubDate>Sat, 01 Aug 2026 08:19:02 GMT</pubDate>
+            <description><![CDATA[مصدر في مستشفى الشفاء: شهيدان في غارة من مسيرة إسرائيلية على حي الشيخ رضوان بمدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في مستشفى الشفاء: شهيدان في غارة من مسيرة إسرائيلية على حي الشيخ رضوان بمدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة في غزة: ندين جريمة قوات الاحتلال باستهدافها المباشر مخازن الأدوية…]]></title>
             <link>https://t.me/aljazeeraBrk/229167</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 08:24:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: وردنا بلاغ عن قيام إسرائيليين بتخريب مقبرة في منطقة نابلس بالضفة الغربية]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: وردنا بلاغ عن قيام إسرائيليين بتخريب مقبرة في منطقة نابلس بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم خلة الحمص بمسافر يطا جنوب الخليل…]]></title>
-            <link>https://t.me/aljazeeraBrk/228968</link>
-            <guid isPermaLink="false">a31843452c3d0698ff5d91b424b36e13fdf6131b027c1192d5dca8ec882429fc</guid>
-            <pubDate>Fri, 31 Jul 2026 07:36:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم خلة الحمص بمسافر يطا جنوب الخليل بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم خلة الحمص بمسافر يطا جنوب الخليل بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
