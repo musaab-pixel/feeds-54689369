@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 13:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 13:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 14 شهيدا بينهم 4 أطفال في غارات إسرائيلية على مناطق عدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229296</link>
+            <guid isPermaLink="false">c3fdba310068684eb1063f519500506201e7a0c4c78ec9519e90c4f93ba5f27c</guid>
+            <pubDate>Sun, 02 Aug 2026 13:50:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 14 شهيدا بينهم 4 أطفال في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 14 شهيدا بينهم 4 أطفال في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة طفلة برصاص قوات الاحتلال في جباليا البلد شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/229295</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 17:05:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد بالاتصال مع خليل الحية ضرورة ضغط المجتمع الدولي على إسرائيل]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد بالاتصال مع خليل الحية ضرورة ضغط المجتمع الدولي على إسرائيل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية رحب باتصال مع رئيس المكتب السياسي…]]></title>
-            <link>https://t.me/aljazeeraBrk/229096</link>
-            <guid isPermaLink="false">60f3f3c94eff4b4a9757a9e8d385d1b9ee298a7c74097869b59b033fcccc28f2</guid>
-            <pubDate>Fri, 31 Jul 2026 17:04:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية رحب باتصال مع رئيس المكتب السياسي لحماس بقبول الحركة خارطة الطريق]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية رحب باتصال مع رئيس المكتب السياسي لحماس بقبول الحركة خارطة الطريق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
