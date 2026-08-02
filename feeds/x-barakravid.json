@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"Barak Ravid — باراك رافيد (X)\" (type: x)",
     "items": [
         {
+            "id": "4ec8449fb0319fb44e5fc89da43a11fc921c6b7b2a96e0c9933d8b6bacc3e4bb",
+            "content_html": "<p>שונא קרבות קרדיט, אבל זה אחד ההזוים שראיתי.<br>\nבשישי בטור של נחום ברנע עוד יש אזכור לפרסום הידיעה, הבוקר בפוש הכל כבר \"נחשף בווינט\"</p>\n<img src=\"https://pbs.twimg.com/media/HOsg7q7WQAA_VKG.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://pbs.twimg.com/media/HOsg7q7XIAA2c_n.jpg\" style=\"max-width:250px;\" />",
+            "url": "https://x.com/Segev_Yuval/status/2083795464151798066",
+            "title": "RT by @BarakRavid: שונא קרבות קרדיט, אבל זה אחד ההזוים שראיתי. בשישי בטור של נחום ברנע עוד יש אזכור לפרסום הידיעה, הבוקר בפוש הכל כבר \"נחשף בווינט\"",
+            "summary": "<p>שונא קרבות קרדיט, אבל זה אחד ההזוים שראיתי.<br>\nבשישי בטור של נחום ברנע עוד יש אזכור לפרסום הידיעה, הבוקר בפוש הכל כבר \"נחשף בווינט\"</p>\n<img src=\"https://pbs.twimg.com/media/HOsg7q7WQAA_VKG.jpg\" style=\"max-width:250px;\" />\n\n<img src=\"https://pbs.twimg.com/media/HOsg7q7XIAA2c_n.jpg\" style=\"max-width:250px;\" />",
+            "image": "https://pbs.twimg.com/media/HOsg7q7WQAA_VKG.jpg",
+            "date_modified": "2026-08-02T06:02:08.000Z",
+            "author": {
+                "name": "@Segev_Yuval"
+            }
+        },
+        {
             "id": "88bd6a2cf65fd320ad4c8a2dcc3bb0a234a424f651a62179ce4795d2c97911e4",
             "content_html": "<p>הרקע לביטול התקיפה שגם מראה מי באמת משפיע על טראמפ בימים אלה</p>\n<hr/>\n<blockquote>\n<b>Barak Ravid (@BarakRavid)</b>\n<p>\n<hr/>\n<b>Article</b><br>\n<a href=\"https://x.com/i/article/2083702488272613421\">\n<img src=\"https://pbs.twimg.com/media/HOrIVK0W4AA7iXL.jpg\" style=\"max-width:250px;\" />\n<br>\n<b>סקופ: יורש העצר הסעודי הביע דאגה בפני טראמפ לגבי תכניתו לבצע מתקפה מאסיבית נגד איראן </b>\n</a>\n<p>יורש העצר הסעודי מוחמד בן סלמאן (MBS) שוחח בשבת עם הנשיא טראמפ והביע דאגה מתוכניתו לפתוח במתקפה רחבת היקף נגד איראן, כך אמרו שני בכירים אמריקנים ומקור נוסף המעורה בפרטי בשיחה.\nלמה זה חשוב:\nהנשיא טראמפ</p>\n\n\n</p>\n<footer>\n— <cite><a href=\"https://x.com/BarakRavid/status/2083702488272613421\">https://nitter.net/BarakRavid/status/2083702488272613421#m</a>\n</footer>\n</blockquote>",
             "url": "https://x.com/BarakRavid/status/2083785437810667947",
@@ -2331,17 +2343,6 @@
             "date_modified": "2026-07-20T17:48:09.000Z",
             "author": {
                 "name": "@ShaharYoffe"
-            }
-        },
-        {
-            "id": "69b85d6e62990a945d873da1ae2650f24ff5c7d8cae388af5b0f192cb9cb882c",
-            "content_html": "<p>🚨טראמפ: בכל פעם שאיראן תהרוג חייל אמריקני, היא תשלם על ההרג הזה פי כמה! הנחיה זו הועברה למזכיר המלחמה, פיט הגסת', ליו\"ר המטות המשולבים, דניאל קיין, ולכל מנהיג בצבא</p>",
-            "url": "https://x.com/BarakRavid/status/2079246981176889837",
-            "title": "🚨טראמפ: בכל פעם שאיראן תהרוג חייל אמריקני, היא תשלם על ההרג הזה פי כמה! הנחיה זו הועברה למזכיר המלחמה, פיט הגסת', ליו\"ר המטות המשולבים, דניאל קיין, ולכל מנהיג בצבא",
-            "summary": "<p>🚨טראמפ: בכל פעם שאיראן תהרוג חייל אמריקני, היא תשלם על ההרג הזה פי כמה! הנחיה זו הועברה למזכיר המלחמה, פיט הגסת', ליו\"ר המטות המשולבים, דניאל קיין, ולכל מנהיג בצבא</p>",
-            "date_modified": "2026-07-20T16:48:05.000Z",
-            "author": {
-                "name": "@BarakRavid"
             }
         }
     ]
