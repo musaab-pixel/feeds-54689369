@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 11:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 12:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: مصاب بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها جنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/229294</link>
+            <guid isPermaLink="false">87ae525473c640633c909127018d2bc87cb5567eadc6733854b78fe3579cb811</guid>
+            <pubDate>Sun, 02 Aug 2026 12:29:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: مصاب بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها جنوبي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: مصاب بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها جنوبي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش اللبناني: الانفجار الذي أدى إلى إصابة 5 عسكريين بجروح طفيفة في قضاء بنت…]]></title>
             <link>https://t.me/aljazeeraBrk/229293</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 16:53:02 GMT</pubDate>
             <description><![CDATA[ترمب: نحاول أن نكون لطيفين بقدر الإمكان في موقف كهذا وإيران تتعرض لضربات ساحقة]]></description>
             <content:encoded><![CDATA[ترمب: نحاول أن نكون لطيفين بقدر الإمكان في موقف كهذا وإيران تتعرض لضربات ساحقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: إيران ستقول في مرحلة ما إنها لم تعد تستطيع تحمل القصف الأمريكي]]></title>
-            <link>https://t.me/aljazeeraBrk/229094</link>
-            <guid isPermaLink="false">f3a6444683c1f37d770f9eab4ac1598bda7516567f7c2783c5512c4e99f29798</guid>
-            <pubDate>Fri, 31 Jul 2026 16:48:02 GMT</pubDate>
-            <description><![CDATA[ترمب: إيران ستقول في مرحلة ما إنها لم تعد تستطيع تحمل القصف الأمريكي]]></description>
-            <content:encoded><![CDATA[ترمب: إيران ستقول في مرحلة ما إنها لم تعد تستطيع تحمل القصف الأمريكي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
