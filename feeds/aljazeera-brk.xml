@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 11:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 11:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: الانفجار الذي أدى إلى إصابة 5 عسكريين بجروح طفيفة في قضاء بنت…]]></title>
+            <link>https://t.me/aljazeeraBrk/229293</link>
+            <guid isPermaLink="false">28c988c845290525b5c739b76a3dbe829f82ff2a93232df7b931a4f1e63d9010</guid>
+            <pubDate>Sun, 02 Aug 2026 11:50:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: الانفجار الذي أدى إلى إصابة 5 عسكريين بجروح طفيفة في قضاء بنت جبيل ناجم عن جسم مشبوه]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: الانفجار الذي أدى إلى إصابة 5 عسكريين بجروح طفيفة في قضاء بنت جبيل ناجم عن جسم مشبوه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة في دير…]]></title>
             <link>https://t.me/aljazeeraBrk/229292</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 16:48:02 GMT</pubDate>
             <description><![CDATA[ترمب: إيران ستقول في مرحلة ما إنها لم تعد تستطيع تحمل القصف الأمريكي]]></description>
             <content:encoded><![CDATA[ترمب: إيران ستقول في مرحلة ما إنها لم تعد تستطيع تحمل القصف الأمريكي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: الاتفاق على نزع سلاح حماس خطوة كبيرة بالنسبة للشرق الأوسط]]></title>
-            <link>https://t.me/aljazeeraBrk/229093</link>
-            <guid isPermaLink="false">8bd83004a2982ed7490d3f3a4ceae403add111d56327e4df4cf3e072221c5954</guid>
-            <pubDate>Fri, 31 Jul 2026 16:44:02 GMT</pubDate>
-            <description><![CDATA[ترمب: الاتفاق على نزع سلاح حماس خطوة كبيرة بالنسبة للشرق الأوسط]]></description>
-            <content:encoded><![CDATA[ترمب: الاتفاق على نزع سلاح حماس خطوة كبيرة بالنسبة للشرق الأوسط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
