@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 11:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 11:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة في دير…]]></title>
+            <link>https://t.me/aljazeeraBrk/229292</link>
+            <guid isPermaLink="false">14f0f467ae25942fc2af07a6ea84a12b15a42ea75bdb1d21ea593d5af63b8bcf</guid>
+            <pubDate>Sun, 02 Aug 2026 11:16:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة في دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة في دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية استهدفت مركبة في دير البلح…]]></title>
             <link>https://t.me/aljazeeraBrk/229291</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 16:44:02 GMT</pubDate>
             <description><![CDATA[ترمب: الاتفاق على نزع سلاح حماس خطوة كبيرة بالنسبة للشرق الأوسط]]></description>
             <content:encoded><![CDATA[ترمب: الاتفاق على نزع سلاح حماس خطوة كبيرة بالنسبة للشرق الأوسط]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: الاتفاق على نزع سلاح حماس اختراق عظيم ولم يسبق لأحد أن اعتقد بإمكانية نزع…]]></title>
-            <link>https://t.me/aljazeeraBrk/229092</link>
-            <guid isPermaLink="false">398511f4f7dd482822e4ea9b171d195ccfe089619f101d7ad1cb619e87f3ebda</guid>
-            <pubDate>Fri, 31 Jul 2026 16:43:02 GMT</pubDate>
-            <description><![CDATA[ترمب: الاتفاق على نزع سلاح حماس اختراق عظيم ولم يسبق لأحد أن اعتقد بإمكانية نزع سلاحها]]></description>
-            <content:encoded><![CDATA[ترمب: الاتفاق على نزع سلاح حماس اختراق عظيم ولم يسبق لأحد أن اعتقد بإمكانية نزع سلاحها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
