@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 13:58:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 14:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قتلنا 3 مسلحين خططوا لتنفيذ هجمات ضد قواتنا في قطاع غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/229297</link>
+            <guid isPermaLink="false">d9ae6297a353d6c0ec41c6ad621dbbc28fafe4354e95850d12b9af0817b31ea4</guid>
+            <pubDate>Sun, 02 Aug 2026 14:11:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قتلنا 3 مسلحين خططوا لتنفيذ هجمات ضد قواتنا في قطاع غزة]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قتلنا 3 مسلحين خططوا لتنفيذ هجمات ضد قواتنا في قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر في مستشفيات غزة: 14 شهيدا بينهم 4 أطفال في غارات إسرائيلية على مناطق عدة…]]></title>
             <link>https://t.me/aljazeeraBrk/229296</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 17:05:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أبدى في الاتصال مع خليل الحية أمله في وضع حد لمعاناة الفلسطينيين]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أبدى في الاتصال مع خليل الحية أمله في وضع حد لمعاناة الفلسطينيين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد بالاتصال مع خليل الحية ضرورة…]]></title>
-            <link>https://t.me/aljazeeraBrk/229098</link>
-            <guid isPermaLink="false">78d9b3450bbf0307eab946417d931e28f217146370f4f43a1960acb667b58b45</guid>
-            <pubDate>Fri, 31 Jul 2026 17:05:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد بالاتصال مع خليل الحية ضرورة ضغط المجتمع الدولي على إسرائيل]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد بالاتصال مع خليل الحية ضرورة ضغط المجتمع الدولي على إسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
