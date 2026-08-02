@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 01:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 01:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي في غزة: 3 شهداء من أسرة واحدة في قصف إسرائيلي على مواصي بلدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229263</link>
+            <guid isPermaLink="false">b5377c78ce04bab885008729f2aa3530184df04620942dc390cf21677a7ee0a0</guid>
+            <pubDate>Sun, 02 Aug 2026 01:36:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي في غزة: 3 شهداء من أسرة واحدة في قصف إسرائيلي على مواصي بلدة القرارة شمال غربي خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي في غزة: 3 شهداء من أسرة واحدة في قصف إسرائيلي على مواصي بلدة القرارة شمال غربي خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[روبيو لفوكس نيوز: سنشهد إعادة تنظيم لتدفقات الطاقة وتقليص الاعتماد على مضيق هرمز]]></title>
             <link>https://t.me/aljazeeraBrk/229262</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 15:21:02 GMT</pubDate>
             <description><![CDATA[الرئيس اللبناني: التفجيرات الإسرائيلية الضخمة بقلعة الشقيف انتهاك للالتزامات وتهديد لمسار اتفاق الإطار]]></description>
             <content:encoded><![CDATA[الرئيس اللبناني: التفجيرات الإسرائيلية الضخمة بقلعة الشقيف انتهاك للالتزامات وتهديد لمسار اتفاق الإطار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سي إن إن عن مسؤول أمريكي رفيع: استئناف المفاوضات مع إيران لا يبدو وشيكا]]></title>
-            <link>https://t.me/aljazeeraBrk/229064</link>
-            <guid isPermaLink="false">456c960c777fd97e0a7c93a86e1872a93cafe9f0f196660ccaa2d173852d5658</guid>
-            <pubDate>Fri, 31 Jul 2026 15:21:02 GMT</pubDate>
-            <description><![CDATA[سي إن إن عن مسؤول أمريكي رفيع: استئناف المفاوضات مع إيران لا يبدو وشيكا]]></description>
-            <content:encoded><![CDATA[سي إن إن عن مسؤول أمريكي رفيع: استئناف المفاوضات مع إيران لا يبدو وشيكا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
