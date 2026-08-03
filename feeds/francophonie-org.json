@@ -5,14 +5,14 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
-            "id": "c6a637c7c6ce812593baf7eac60d8e4621351dc06488fd56e009505617d0f1bc",
-            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">New York : l'OIF et l'OCDE appellent à lever les obstacles à l'accès aux financements climat et biodiversité</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-03T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 03/08/2026 - 15:43</span>\n",
-            "url": "https://www.francophonie.org/new-york-appel-OIF-OCDE-a-lever-obstacles-acces-financements-climat-8610",
-            "title": "New York : l'OIF et l'OCDE appellent à lever les obstacles à l'accès aux financements climat et biodiversité",
-            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">New York : l'OIF et l'OCDE appellent à lever les obstacles à l'accès aux financements climat et biodiversité</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-03T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 03/08/2026 - 15:43</span>\n",
+            "id": "2a9ac44a6d10272706ca1a82c38e13b81055047e8706c6ce38538768f4393979",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">L’OIF conforte son rôle fédérateur au service de la modernisation de l’état civil en Afrique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-03T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 03/08/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/loif-conforte-son-role-federateur-au-service-de-la-modernisation-de-letat-civil-en-afrique-8611",
+            "title": "L’OIF conforte son rôle fédérateur au service de la modernisation de l’état civil en Afrique",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">L’OIF conforte son rôle fédérateur au service de la modernisation de l’état civil en Afrique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-03T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 03/08/2026 - 15:43</span>\n",
             "date_modified": "2026-08-03T15:43:13.000Z",
             "author": {
-                "name": "skanderh"
+                "name": "Montresor"
             }
         },
         {
@@ -88,6 +88,17 @@
             "title": "Clôture des formations technique, linguistique et interculturelle des militaires tchadiens en instance de déploiement en Haïti",
             "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Clôture des formations technique, linguistique et interculturelle des militaires tchadiens en instance de déploiement en Haïti </span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 20/07/2026 - 15:43</span>\n",
             "date_modified": "2026-07-20T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "c6a637c7c6ce812593baf7eac60d8e4621351dc06488fd56e009505617d0f1bc",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">New York : l'OIF et l'OCDE appellent à lever les obstacles à l'accès aux financements climat et biodiversité</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-15T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 15/07/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/new-york-appel-OIF-OCDE-a-lever-obstacles-acces-financements-climat-8610",
+            "title": "New York : l'OIF et l'OCDE appellent à lever les obstacles à l'accès aux financements climat et biodiversité",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">New York : l'OIF et l'OCDE appellent à lever les obstacles à l'accès aux financements climat et biodiversité</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-15T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 15/07/2026 - 15:43</span>\n",
+            "date_modified": "2026-07-15T15:43:13.000Z",
             "author": {
                 "name": "skanderh"
             }
