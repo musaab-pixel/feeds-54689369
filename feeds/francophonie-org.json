@@ -16,6 +16,17 @@
             }
         },
         {
+            "id": "c707eadf1e6363ec91ca8324e344e50e5fb0da9e77663b9763a0b0b969b0c0cf",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Djibouti : L’OIF renforce les compétences de 53 jeunes pour préparer les talents francophones de demain</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">sam 01/08/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/djibouti-loif-renforce-les-competences-de-53-jeunes-pour-preparer-les-talents-francophones-de",
+            "title": "Djibouti : L’OIF renforce les compétences de 53 jeunes pour préparer les talents francophones de demain",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Djibouti : L’OIF renforce les compétences de 53 jeunes pour préparer les talents francophones de demain</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">sam 01/08/2026 - 15:43</span>\n",
+            "date_modified": "2026-08-01T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "d3d9ceba06998caf24920779541fbfd62326a36daac6635ef0317bd5c73d588c",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Haïti : l’OIF salue la publication du calendrier électoral 2026-2027</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 31/07/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/haiti-loif-salue-la-publication-du-calendrier-electoral-2026-2027-8606",

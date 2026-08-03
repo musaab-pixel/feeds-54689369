@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 12:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 13:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -22,6 +22,21 @@
 <span property="schema:dateCreated" content="2026-08-03T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 03/08/2026 - 15:43</span>
 ]]></content:encoded>
             <author>Montresor</author>
+        </item>
+        <item>
+            <title><![CDATA[Djibouti : L’OIF renforce les compétences de 53 jeunes pour préparer les talents francophones de demain]]></title>
+            <link>https://www.francophonie.org/djibouti-loif-renforce-les-competences-de-53-jeunes-pour-preparer-les-talents-francophones-de</link>
+            <guid isPermaLink="false">c707eadf1e6363ec91ca8324e344e50e5fb0da9e77663b9763a0b0b969b0c0cf</guid>
+            <pubDate>Sat, 01 Aug 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Djibouti : L’OIF renforce les compétences de 53 jeunes pour préparer les talents francophones de demain</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-08-01T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">sam 01/08/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Djibouti : L’OIF renforce les compétences de 53 jeunes pour préparer les talents francophones de demain</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-08-01T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">sam 01/08/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
         </item>
         <item>
             <title><![CDATA[Haïti : l’OIF salue la publication du calendrier électoral 2026-2027]]></title>
