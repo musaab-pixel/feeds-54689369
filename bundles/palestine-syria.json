@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "647ebee05dbfbc07261dfb4006a946f186f0d8420cd948e0a66046677f00c882",
+            "content_html": "أكسيوس عن مصدر: الممثل الأعلى لمجلس السلام ومستشار المجلس اجتمعا بنتنياهو اليوم وأبلغاه بوجوب وقف مهاجمة غزة",
+            "url": "https://t.me/aljazeeraBrk/229384",
+            "title": "أكسيوس عن مصدر: الممثل الأعلى لمجلس السلام ومستشار المجلس اجتمعا بنتنياهو اليوم…",
+            "summary": "أكسيوس عن مصدر: الممثل الأعلى لمجلس السلام ومستشار المجلس اجتمعا بنتنياهو اليوم وأبلغاه بوجوب وقف مهاجمة غزة",
+            "date_modified": "2026-08-03T14:00:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "32641b2fedd3ede1f226a7c84238a6d867b5d92b510f2a1be693d10a04b48143",
+            "content_html": "ترمب: على شركات النفط خفض الأسعار للمستهلكين الآن",
+            "url": "https://t.me/aljazeeraBrk/229383",
+            "title": "ترمب: على شركات النفط خفض الأسعار للمستهلكين الآن",
+            "summary": "ترمب: على شركات النفط خفض الأسعار للمستهلكين الآن",
+            "date_modified": "2026-08-03T13:57:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "8cccf11a12e144f9d7395b2a5d55e088bdd1da8cc7a40d29b6f8fd41132fda85",
             "content_html": "الهيئة العامة للطيران المدني: عبور 20315 طائرة للأجواء السورية خلال شهر تموز الفائت<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/139063",
@@ -1597,28 +1619,6 @@
             "date_modified": "2026-08-02T07:24:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2cd8173b15ac7f8f7eb743c7ba8c7a7774ffead057d0c3a2ecb3b08f15307060",
-            "content_html": "مصادر في مستشفيات غزة: 9 شهداء بينهم 3 أطفال في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم",
-            "url": "https://t.me/aljazeeraBrk/229274",
-            "title": "مصادر في مستشفيات غزة: 9 شهداء بينهم 3 أطفال في غارات إسرائيلية على مناطق عدة…",
-            "summary": "مصادر في مستشفيات غزة: 9 شهداء بينهم 3 أطفال في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم",
-            "date_modified": "2026-08-02T07:21:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2ae7322654296fd8de19e86478a0ede8ae0259bfae6ca3df736b191802ac73de",
-            "content_html": "مصادر في مستشفيات غزة: 8 شهداء بنيران الاحتلال منذ فجر اليوم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139004",
-            "title": "مصادر في مستشفيات غزة: 8 شهداء بنيران الاحتلال منذ فجر اليوم لمتابعة أحدث…",
-            "summary": "مصادر في مستشفيات غزة: 8 شهداء بنيران الاحتلال منذ فجر اليوم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-02T07:20:10.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
