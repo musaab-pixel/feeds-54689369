@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Sun, 02 Aug 2026 00:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 07:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -273,6 +273,144 @@
 	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.</li>
 </ul>
 <p>If you have any doubts about your application, please check our <a href="https://gulbenkian.pt/armenian-communities/how-to-apply/faq/">Frequently Asked Questions</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Talks Why the humanities matter today 12 Nov 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/en/agenda/why-the-humanities-matter-today/</link>
+            <guid isPermaLink="false">d53ae4945b572bba0c94573235b35f46cab9913fd58a4ec364a0fb3f2fd1ca26</guid>
+            <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>In the next day David Nirenberg will participate in a public discussion on the place of the humanities in contemporary society.</p>
+<p>The panel, with guests to be announced, will address the continuing relevance of humanistic inquiry in a time of rapid technological, political, and cultural change.</p>
+<p>The Gulbenkian Institute for Advanced Study is an independent institute established in 2025 by the Calouste Gulbenkian Foundation. It supports the work of world-class communities of fellows for limited periods of time, usually between three and eight months, in a congenial intellectual environment, with few regular obligations. Fellows receive a stipend and accommodation.</p>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>In the next day David Nirenberg will participate in a public discussion on the place of the humanities in contemporary society.</p>
+<p>The panel, with guests to be announced, will address the continuing relevance of humanistic inquiry in a time of rapid technological, political, and cultural change.</p>
+<p>The Gulbenkian Institute for Advanced Study is an independent institute established in 2025 by the Calouste Gulbenkian Foundation. It supports the work of world-class communities of fellows for limited periods of time, usually between three and eight months, in a congenial intellectual environment, with few regular obligations. Fellows receive a stipend and accommodation.</p>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/DavidNirenberg_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conference Experimental Forms for Intellectual Life, David Nirenberg 11 Nov 2026 / 18:30]]></title>
+            <link>https://gulbenkian.pt/en/agenda/experimental-forms-for-intellectual-life-david-nirenberg/</link>
+            <guid isPermaLink="false">cb6354b56ac938bda774a4da7404a34017b3e52c43655489dd908295b3e67d9f</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Wednesday, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>David Nirenberg, Director of the Institute for Advanced Study in Princeton, will deliver the inaugural lecture of the Gulbenkian Institute for Advanced Study.</p>
+<p>A historian and medievalist, Nirenberg will reflect on the role of institutes for advanced study as spaces for intellectual experimentation, sustained inquiry, and conversation across disciplines.</p>
+<p>The Gulbenkian Institute for Advanced Study is an independent institute established in 2025 by the Calouste Gulbenkian Foundation. It supports the work of world-class communities of fellows for limited periods of time, usually between three and eight months, in a congenial intellectual environment, with few regular obligations. Fellows receive a stipend and accommodation.</p>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Wednesday, 18:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>David Nirenberg, Director of the Institute for Advanced Study in Princeton, will deliver the inaugural lecture of the Gulbenkian Institute for Advanced Study.</p>
+<p>A historian and medievalist, Nirenberg will reflect on the role of institutes for advanced study as spaces for intellectual experimentation, sustained inquiry, and conversation across disciplines.</p>
+<p>The Gulbenkian Institute for Advanced Study is an independent institute established in 2025 by the Calouste Gulbenkian Foundation. It supports the work of world-class communities of fellows for limited periods of time, usually between three and eight months, in a congenial intellectual environment, with few regular obligations. Fellows receive a stipend and accommodation.</p>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/img110_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Concert Petrouchka 05 Nov 2026 / 20:00]]></title>
