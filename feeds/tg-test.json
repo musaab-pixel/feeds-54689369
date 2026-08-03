@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "a45a095f9ff0fd9401c85ccbe14fb51d6c079248e72dad0b0b95e07711990557",
+            "content_html": "<b>مصادر محلية:</b> وفاة شخصين جراء حادث سير ناجم عن تصادم سيارتين على الطريق الواصل بين بلدتي الشيخ سعد ومساكن جلين بريف درعا الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139057",
+            "title": "مصادر محلية: وفاة شخصين جراء حادث سير ناجم عن تصادم سيارتين على الطريق الواصل…",
+            "summary": "<b>مصادر محلية:</b> وفاة شخصين جراء حادث سير ناجم عن تصادم سيارتين على الطريق الواصل بين بلدتي الشيخ سعد ومساكن جلين بريف درعا الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-03T11:07:52.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "f8410a90627bb25a1dd6ca56ef75a847e4b02825058dc808caedb1624dc206c1",
+            "content_html": "بدء تزفيت الطريق الواصل بين مطار حلب الدولي ودوار الحاووظ ضمن مشروع صفر حفرة أحد مشاريع حملة حلب ست الكل<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139056",
+            "title": "بدء تزفيت الطريق الواصل بين مطار حلب الدولي ودوار الحاووظ ضمن مشروع صفر حفرة…",
+            "summary": "بدء تزفيت الطريق الواصل بين مطار حلب الدولي ودوار الحاووظ ضمن مشروع صفر حفرة أحد مشاريع حملة حلب ست الكل<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/QRs2Pyegl9ey-XHcensMmffP2ivuSEp9-EgJX64HxsgnNfLOKriCtDAXVUSHFPC-BQBF9gCuBrLsQ5DsS_6bLxyO-W3nvBV8EXV70bLUQo2IB55A3ATJAtGL5PsDLvulLry4SUUrMl55cJbovrVw5_JZKSVfiwznM31AsLrbaYONQgwSfpKc_bnDxuNYlRa19HPelcKRXSxqdYdvS0_5tz9Xzn9NtqAIhsZ_AykMtAIrxhfq_sJ_G8pWzK7lw0k-fzxlY7RQVTIhheJfcxL5kLOjnCKfxuFhGTfKRVIVn6dHiaDjPVKqLj07kl-WhsQa1dQtZhhoZ9bkhpx70jOzMg.jpg",
+            "date_modified": "2026-08-03T11:01:04.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "530b23d72e166810f6e83fed48c7c1527425212b5e73e5eda89c6f436530964b",
             "content_html": "الطالب السوري أسامة زعتور يحصل على المرتبة الأولى في كلية الطب بجامعة أتاتورك التركية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/139055",
@@ -2253,28 +2276,6 @@
             "title": "غرفة تجارة #حلب: 📌ترأس رئيس غرفة التجارة محمد سعيد شيخ الكار اجتماع إدارة…",
             "summary": "<b>غرفة تجارة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ترأس رئيس غرفة التجارة محمد سعيد شيخ الكار اجتماع إدارة صندوق تقاعد التجار الذي عُقد في مقر غرفة تجارة حلب ضمن أعمال الجلسة الرابعة عشرة بتاريخ 28 تموز 2026<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شهد الاجتماع مناقشة عدد من البنود المدرجة على جدول الأعمال، حيث اتخذت إدارة الصندوق جملةً من القرارات المهمة، أبرزها:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>إقرار مضاعفة رواتب المتقاعدين من التجار بنسبة 100% اعتبارًا من 1/7/2026 في خطوة تهدف إلى تعزيز الدعم المقدم للمتقاعدين وتحسين أوضاعهم المعيشية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>الاطلاع على طلبات التجار المسجلين لدى غرفة تجارة حلب الراغبين بالإحالة إلى التقاعد ودراسة الطلبات واتخاذ الإجراءات اللازمة بشأنها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>الاطلاع على قرار غرفة تجارة حلب القاضي بافتتاح مراكز خدمية للغرفة في السجل التجاري والمدينة الصناعية بحلب بما يسهم في تسهيل إنجاز معاملات التجار وتوسيع نطاق الخدمات المقدمة لهم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-07-28T11:50:35.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "30fa61bb14229cbfda48b48c01eb0a3cee90f5ffb3f60d1b19aac48a036063b0",
-            "content_html": "العميد عبد العزيز الأحمد قائد الأمن الداخلي في محافظة اللاذقية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>قوى الأمن الداخلي في محافظة اللاذقية تنفّذ عملية أمنية استهدفت المسؤول سابقًا عن زرع العبوات الناسفة التي استهدفت قوى الأمن الداخلي والجيش السوري في ريفي جبلة وطرطوس لصالح ميليشيا ما يُسمى بـ“سرايا الجواد”<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المستهدف هو الرقيب أول بلال عدنان داوود الملقب بـ“أبو يعقوب” قائد محور الهجوم على اللواء 107 في قرية زاما أثناء أحداث الساحل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نصب كمين محكم للمذكور أثناء تنقله في ريف جبلة برفقة المدعو محسن أحمد منصور أحد قادة ميليشيا ما يُسمى بـ“سرايا الكميت” حيث قاما بمقاومة المجموعة الأمنية بالقنابل الهجومية والرصاص الحي مما اضطر المجموعة الأمنية إلى تحييدهما بعد أن طُلب منهما مراراً تسليم نفسيهما<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>استمرت ملاحقة المتورطين معهما إلى أن تم إلقاء القبض على أحد المشتبه بهم بالضلوع في عمليات التفجير السابقة فيما لا تزال التحقيقات جارية معه لتحديد الجهات المرتبطة به<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138847",
-            "title": "العميد عبد العزيز الأحمد قائد الأمن الداخلي في محافظة اللاذقية: 📌قوى الأمن…",
-            "summary": "العميد عبد العزيز الأحمد قائد الأمن الداخلي في محافظة اللاذقية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>قوى الأمن الداخلي في محافظة اللاذقية تنفّذ عملية أمنية استهدفت المسؤول سابقًا عن زرع العبوات الناسفة التي استهدفت قوى الأمن الداخلي والجيش السوري في ريفي جبلة وطرطوس لصالح ميليشيا ما يُسمى بـ“سرايا الجواد”<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المستهدف هو الرقيب أول بلال عدنان داوود الملقب بـ“أبو يعقوب” قائد محور الهجوم على اللواء 107 في قرية زاما أثناء أحداث الساحل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نصب كمين محكم للمذكور أثناء تنقله في ريف جبلة برفقة المدعو محسن أحمد منصور أحد قادة ميليشيا ما يُسمى بـ“سرايا الكميت” حيث قاما بمقاومة المجموعة الأمنية بالقنابل الهجومية والرصاص الحي مما اضطر المجموعة الأمنية إلى تحييدهما بعد أن طُلب منهما مراراً تسليم نفسيهما<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>استمرت ملاحقة المتورطين معهما إلى أن تم إلقاء القبض على أحد المشتبه بهم بالضلوع في عمليات التفجير السابقة فيما لا تزال التحقيقات جارية معه لتحديد الجهات المرتبطة به<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-07-28T11:34:48.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "83ecb5bfa14bd25f98180d06fc4cc6b24c26854ec3a814f3d8834940c14e48d2",
-            "content_html": "الإخبارية: مقتل شخص وإصابة آخرين بانفجار لغم من مخلفات النظام البائد في قرية دوير الأكراد بريف حماة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138846",
-            "title": "الإخبارية: مقتل شخص وإصابة آخرين بانفجار لغم من مخلفات النظام البائد في قرية…",
-            "summary": "الإخبارية: مقتل شخص وإصابة آخرين بانفجار لغم من مخلفات النظام البائد في قرية دوير الأكراد بريف حماة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-07-28T11:04:14.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
