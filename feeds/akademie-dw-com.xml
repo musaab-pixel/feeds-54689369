@@ -4,10 +4,17 @@
         <title>akademie.dw.com</title>
         <link>https://akademie.dw.com/en/</link>
         <description>RSS Factory feed "akademie.dw.com" (type: website)</description>
-        <lastBuildDate>Wed, 29 Jul 2026 10:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 09:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[DW Akademie's podcasting projects, PodCircle community and newsletter for current and aspiring podcasters.]]></title>
+            <link>https://akademie.dw.com/en/podcasting/s-64077987</link>
+            <guid isPermaLink="false">b9ea39286dcae2f58caa0723c9a16f21f721b9edc58bdc598188bb86e0386437</guid>
+            <pubDate>Mon, 03 Aug 2026 09:46:27 GMT</pubDate>
+            <enclosure url="https://static.dw.com/image/70889030_600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A thorough analysis of the latest developments in the field of AI and their impact on information ecosystems]]></title>
             <link>https://akademie.dw.com/en/ai-for-good-media/s-67516846</link>
