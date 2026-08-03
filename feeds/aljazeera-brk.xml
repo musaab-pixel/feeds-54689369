@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 08:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 08:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تاس عن عمدة مدينة غيلينجيك: 3 قتلى و13 مصابا في هجوم بمسيرة أوكرانية…]]></title>
+            <link>https://t.me/aljazeeraBrk/229363</link>
+            <guid isPermaLink="false">891397a36c23102800e7ff0ded88d781c89f16a7f618740c2eae2f759f5aace9</guid>
+            <pubDate>Mon, 03 Aug 2026 08:25:02 GMT</pubDate>
+            <description><![CDATA[وكالة تاس عن عمدة مدينة غيلينجيك: 3 قتلى و13 مصابا في هجوم بمسيرة أوكرانية استهدف المدينة]]></description>
+            <content:encoded><![CDATA[وكالة تاس عن عمدة مدينة غيلينجيك: 3 قتلى و13 مصابا في هجوم بمسيرة أوكرانية استهدف المدينة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم الخارجية الإيرانية: مسار مضيق هرمز الذي يجري نقاشه مع عمان سيكون…]]></title>
             <link>https://t.me/aljazeeraBrk/229362</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 23:16:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: عراقجي قال لنظيره البريطاني إن أمريكا انتهكت تعهداتها في مذكرة التفاهم ومنعت تنفيذها]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي قال لنظيره البريطاني إن أمريكا انتهكت تعهداتها في مذكرة التفاهم ومنعت تنفيذها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الإيرانية: عراقجي أكد هاتفيا لنظيره البريطاني أن مشاركة لندن في…]]></title>
-            <link>https://t.me/aljazeeraBrk/229124</link>
-            <guid isPermaLink="false">c185b92484119cf08e06d7785def07cb43f988667a8767530e877bd1bca560ec</guid>
-            <pubDate>Fri, 31 Jul 2026 23:15:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الإيرانية: عراقجي أكد هاتفيا لنظيره البريطاني أن مشاركة لندن في الحربين الأخيرتين على إيران غير مبررة]]></description>
-            <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي أكد هاتفيا لنظيره البريطاني أن مشاركة لندن في الحربين الأخيرتين على إيران غير مبررة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
