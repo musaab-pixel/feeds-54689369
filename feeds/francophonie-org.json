@@ -38,6 +38,17 @@
             }
         },
         {
+            "id": "7b5ffa8f52c84a30ff4a19fbee0c09607d581ae783a1d52ed3be3f5a4e2df2c6",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Formation au créole et au contexte socio-culturel haïtiens des forces armées de Côte d’Ivoire en amont de leur déploiement</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 31/07/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/formation-au-creole-et-au-contexte-socio-culturel-haitiens-des-forces-armees-de-cote-divoire-en",
+            "title": "Formation au créole et au contexte socio-culturel haïtiens des forces armées de Côte d’Ivoire en amont de leur déploiement",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Formation au créole et au contexte socio-culturel haïtiens des forces armées de Côte d’Ivoire en amont de leur déploiement</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 31/07/2026 - 15:43</span>\n",
+            "date_modified": "2026-07-31T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "80708fd9bc6d6dc9d5a1f9b51f8c72e7bee9aec03af16eec46e98883da91f1a6",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">D-CLIC : 150 jeunes entament une formation aux métiers de la fabrication numérique au Sénégal</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/88\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">Montresor</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-07-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 30/07/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/d-clic-150-jeunes-entament-une-formation-aux-metiers-de-la-fabrication-numerique-au-senegal-8605",
