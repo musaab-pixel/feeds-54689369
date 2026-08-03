@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 08:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 08:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه…]]></title>
+            <link>https://t.me/aljazeeraBrk/229364</link>
+            <guid isPermaLink="false">46efebe8eedb8809cf72b7b0b18279b7a0e5a6eb776c519cb3de6f6304596868</guid>
+            <pubDate>Mon, 03 Aug 2026 08:39:02 GMT</pubDate>
+            <description><![CDATA[الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه جزيرة القرم وحققت إصابات مباشرة]]></description>
+            <content:encoded><![CDATA[الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه جزيرة القرم وحققت إصابات مباشرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تاس عن عمدة مدينة غيلينجيك: 3 قتلى و13 مصابا في هجوم بمسيرة أوكرانية…]]></title>
             <link>https://t.me/aljazeeraBrk/229363</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 23:18:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: عراقجي أوضح لنظيره البريطاني أن الوضع الحالي في المنطقة سببه العدوان الأمريكي الإسرائيلي]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي أوضح لنظيره البريطاني أن الوضع الحالي في المنطقة سببه العدوان الأمريكي الإسرائيلي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الإيرانية: عراقجي قال لنظيره البريطاني إن أمريكا انتهكت تعهداتها في…]]></title>
-            <link>https://t.me/aljazeeraBrk/229125</link>
-            <guid isPermaLink="false">40e4e7f6bc744b74416af618744f81982482e2c301fe6dba3d296cebc3e673cd</guid>
-            <pubDate>Fri, 31 Jul 2026 23:16:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الإيرانية: عراقجي قال لنظيره البريطاني إن أمريكا انتهكت تعهداتها في مذكرة التفاهم ومنعت تنفيذها]]></description>
-            <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي قال لنظيره البريطاني إن أمريكا انتهكت تعهداتها في مذكرة التفاهم ومنعت تنفيذها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "46efebe8eedb8809cf72b7b0b18279b7a0e5a6eb776c519cb3de6f6304596868",
+            "content_html": "الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه جزيرة القرم وحققت إصابات مباشرة",
+            "url": "https://t.me/aljazeeraBrk/229364",
+            "title": "الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه…",
+            "summary": "الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه جزيرة القرم وحققت إصابات مباشرة",
+            "date_modified": "2026-08-03T08:39:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "891397a36c23102800e7ff0ded88d781c89f16a7f618740c2eae2f759f5aace9",
             "content_html": "وكالة تاس عن عمدة مدينة غيلينجيك: 3 قتلى و13 مصابا في هجوم بمسيرة أوكرانية استهدف المدينة",
             "url": "https://t.me/aljazeeraBrk/229363",
@@ -1607,17 +1618,6 @@
             "date_modified": "2026-08-01T20:32:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "f4610a122813dc2c0bbb88d2c55b7a04de711f6da8e6e5375aee29f2bab4adcf",
-            "content_html": "بيان حكومي عراقي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>القوات المسلحة تجدد التزامها بعدم السماح باستخدام العراق منطلقا أو ممرا للاعتداء على الجوار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نؤكد على جاهزية القوات المسلحة لإحباط أي محاولة تستهدف دول الجوار ضمن محيطنا الإقليمي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/138995",
-            "title": "بيان حكومي عراقي: 📌القوات المسلحة تجدد التزامها بعدم السماح باستخدام العراق…",
-            "summary": "بيان حكومي عراقي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>القوات المسلحة تجدد التزامها بعدم السماح باستخدام العراق منطلقا أو ممرا للاعتداء على الجوار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نؤكد على جاهزية القوات المسلحة لإحباط أي محاولة تستهدف دول الجوار ضمن محيطنا الإقليمي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-01T20:29:41.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
