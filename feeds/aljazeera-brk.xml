@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 20:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 21:00:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: مصاب برصاص قوات الاحتلال خلال اقتحامها المنطقة الشرقية…]]></title>
+            <link>https://t.me/aljazeeraBrk/229447</link>
+            <guid isPermaLink="false">5d7dcfac5070afdc215bd8efcb70619183b76fa0804dec95c6bc469aa5ceb8ff</guid>
+            <pubDate>Mon, 03 Aug 2026 20:58:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: مصاب برصاص قوات الاحتلال خلال اقتحامها المنطقة الشرقية بنابلس في الضفة الغربية]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: مصاب برصاص قوات الاحتلال خلال اقتحامها المنطقة الشرقية بنابلس في الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تهدد مسار التهدئة وتزيد من معاناة…]]></title>
             <link>https://t.me/aljazeeraBrk/229446</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 11:24:02 GMT</pubDate>
             <description><![CDATA[واس: وزير الخارجية السعودي يبحث هاتفيا مع نظيره التركي أهمية دعم الجهود الدبلوماسية لخفض التصعيد في المنطقة]]></description>
             <content:encoded><![CDATA[واس: وزير الخارجية السعودي يبحث هاتفيا مع نظيره التركي أهمية دعم الجهود الدبلوماسية لخفض التصعيد في المنطقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الأمين العام لمجلس التعاون الخليجي: اعتداءات إيران على منشآت مدنية كويتية…]]></title>
-            <link>https://t.me/aljazeeraBrk/229204</link>
-            <guid isPermaLink="false">c80fa8379be98f0463a631264a4541c54693546f3b40ceb3970e248085a7a714</guid>
-            <pubDate>Sat, 01 Aug 2026 11:16:02 GMT</pubDate>
-            <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: اعتداءات إيران على منشآت مدنية كويتية استمرار لنهجها العدائي في المنطقة]]></description>
-            <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: اعتداءات إيران على منشآت مدنية كويتية استمرار لنهجها العدائي في المنطقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
