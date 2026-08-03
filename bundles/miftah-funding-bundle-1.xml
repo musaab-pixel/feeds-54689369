@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 1</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 1" (type: bundle)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 09:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 10:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1669,6 +1669,21 @@
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/no-logo-organization.svg" length="0" type="image/svg"/>
         </item>
         <item>
+            <title><![CDATA[Apply for Be Active Wales Fund (United Kingdom)]]></title>
+            <link>https://www.developmentaid.org/grants/view/1693756/apply-for-be-active-wales-fund-united-kingdom</link>
+            <guid isPermaLink="false">d3f15d02162ca3454ca3a9bbdfc9c38fda58058578cfeb63a88c81f61247af51</guid>
+            <pubDate>Fri, 08 Jan 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
+<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
+<p>Website:&nbsp;Multiple.</p>
+<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></description>
+            <content:encoded><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
+<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
+<p>Website:&nbsp;Multiple.</p>
+<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></content:encoded>
+            <enclosure url="https://www.developmentaid.org/files/organizationLogos/no-logo-organization.svg" length="0" type="image/svg"/>
+        </item>
+        <item>
             <title><![CDATA[Submit Applications for Sport and Leisure Defibrillator Grant (UK)]]></title>
             <link>https://www.developmentaid.org/grants/view/1689235/submit-applications-for-sport-and-leisure-defibrillator-grant-uk</link>
             <guid isPermaLink="false">d8bc213e3c471944411157e8ff0a11e03c11e87c73dcde7ec0f43489f24b8cc8</guid>
@@ -3095,21 +3110,6 @@
 <ul><li>ICT systems, software, and digital solutions</li><li>Telecommunications networks and services</li><li>Digitalization, data, and communication tools</li></ul>
 <h2 _ngcontent-ng-c48615967="" class="country-card-title border-bottom mb-4">Locations</h2>
 <h4 _ngcontent-ng-c48615967="" class="country-card-subtitle mt-4 ng-star-inserted"> Canada </h4>]]></content:encoded>
-            <enclosure url="https://www.developmentaid.org/files/organizationLogos/city-of-toronto-385791.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creative Technology Funding Program for Industry Events (Canada)]]></title>
-            <link>https://www.developmentaid.org/grants/view/1648803/creative-technology-funding-program-for-industry-events-canada</link>
-            <guid isPermaLink="false">5fbd98e3bf62e3c6f0f9e4b0e0753f676642b911ebf49f510810d827b25e8696</guid>
-            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></description>
-            <content:encoded><![CDATA[<p><strong>Government Notices</strong> comprise advertisements announcing a contract that is being financed by a government agency.</p>
-<p><strong>Type of projects</strong>: Works, services but mostly supplies, no grants.</p>
-<p>Website:&nbsp;Multiple.</p>
-<p><strong>In order to see&nbsp;Government Notices opportunities on DevelopmentAid, please click <a href="https://www.developmentaid.org/#!/tenders/search?showAdvancedSearch=1&amp;statuses=1,2,3&amp;donors=31">here</a>.</strong></p>]]></content:encoded>
             <enclosure url="https://www.developmentaid.org/files/organizationLogos/city-of-toronto-385791.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>

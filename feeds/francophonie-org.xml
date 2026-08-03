@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 10:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 10:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -97,6 +97,21 @@
 <span property="schema:dateCreated" content="2026-07-27T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 27/07/2026 - 15:43</span>
 ]]></content:encoded>
             <author>Montresor</author>
+        </item>
+        <item>
+            <title><![CDATA[Cuisson propre : atelier international de partage de bonnes pratiques à Abidjan]]></title>
+            <link>https://www.francophonie.org/cuisson-propre-atelier-international-de-partage-de-bonnes-pratiques-abidjan-8614</link>
+            <guid isPermaLink="false">78161cc0fe934c4f6385e1a7e6d030d2ea8e5b2ea6e8afa731346761f6728c93</guid>
+            <pubDate>Fri, 24 Jul 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cuisson propre : atelier international de partage de bonnes pratiques à Abidjan</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-07-24T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 24/07/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cuisson propre : atelier international de partage de bonnes pratiques à Abidjan</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-07-24T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 24/07/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
         </item>
         <item>
             <title><![CDATA[1ère édition du Forum Francophonie 4.0]]></title>
