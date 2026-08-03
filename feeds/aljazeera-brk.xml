@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 11:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 12:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[السلطات الروسية: ارتفاع عدد ضحايا سقوط حطام المسيرة الأوكرانية في غيلينجيك إلى…]]></title>
+            <link>https://t.me/aljazeeraBrk/229376</link>
+            <guid isPermaLink="false">1167e93defae222e26eacce84ef5a694a642effc057b7c56a140071bd1d55fb1</guid>
+            <pubDate>Mon, 03 Aug 2026 12:13:02 GMT</pubDate>
+            <description><![CDATA[السلطات الروسية: ارتفاع عدد ضحايا سقوط حطام المسيرة الأوكرانية في غيلينجيك إلى 6 قتلى ونحو 40 مصابا]]></description>
+            <content:encoded><![CDATA[السلطات الروسية: ارتفاع عدد ضحايا سقوط حطام المسيرة الأوكرانية في غيلينجيك إلى 6 قتلى ونحو 40 مصابا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر قيادي في حماس للجزيرة: أكدنا للوسطاء أن استمرار الاعتداء يعرقل تنفيذ…]]></title>
             <link>https://t.me/aljazeeraBrk/229375</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 05:17:02 GMT</pubDate>
             <description><![CDATA[الرئيس اللبناني: مسؤولية الجيش اللبناني تتضاعف والمرحلة المقبلة تستوجب انتشارا على الحدود الجنوبية]]></description>
             <content:encoded><![CDATA[الرئيس اللبناني: مسؤولية الجيش اللبناني تتضاعف والمرحلة المقبلة تستوجب انتشارا على الحدود الجنوبية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة الطوارئ الأوكرانية: مقتل 9 وإصابة 23 في هجوم روسي بالصواريخ على العاصمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/229137</link>
-            <guid isPermaLink="false">1b24fd9e7f120cd6589fd2395fe0f3918d813d6be17cb7e04f94e5380e3c91bc</guid>
-            <pubDate>Sat, 01 Aug 2026 04:06:02 GMT</pubDate>
-            <description><![CDATA[هيئة الطوارئ الأوكرانية: مقتل 9 وإصابة 23 في هجوم روسي بالصواريخ على العاصمة كييف فجر اليوم]]></description>
-            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: مقتل 9 وإصابة 23 في هجوم روسي بالصواريخ على العاصمة كييف فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
