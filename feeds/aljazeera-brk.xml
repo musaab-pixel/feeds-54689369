@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 13:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 13:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم القيادة المركزية الأمريكية للجزيرة: ساعدنا منذ مطلع مايو أكثر من…]]></title>
+            <link>https://t.me/aljazeeraBrk/229382</link>
+            <guid isPermaLink="false">facad6fafccc9c79d7e954a7fa0705d71afcd22829c9c0921e421b1f2a4da81a</guid>
+            <pubDate>Mon, 03 Aug 2026 13:27:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم القيادة المركزية الأمريكية للجزيرة: ساعدنا منذ مطلع مايو أكثر من ألف سفينة على عبور مضيق هرمز]]></description>
+            <content:encoded><![CDATA[المتحدث باسم القيادة المركزية الأمريكية للجزيرة: ساعدنا منذ مطلع مايو أكثر من ألف سفينة على عبور مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم القيادة المركزية الأمريكية للجزيرة: قواتنا جاهزة لدعم السفن…]]></title>
             <link>https://t.me/aljazeeraBrk/229381</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 06:08:02 GMT</pubDate>
             <description><![CDATA[رئيس وزراء لبنان: لا استعادة لسيادتنا ولا استقرار لوطننا إلا بانتشار جيشنا على كل أراضينا وبسط سلطة الدولة]]></description>
             <content:encoded><![CDATA[رئيس وزراء لبنان: لا استعادة لسيادتنا ولا استقرار لوطننا إلا بانتشار جيشنا على كل أراضينا وبسط سلطة الدولة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن انفجار قرب ناقلة على بعد 21…]]></title>
-            <link>https://t.me/aljazeeraBrk/229143</link>
-            <guid isPermaLink="false">4ac7bba79404119fe8ac916af0d7537666dd29e8557877af44608b9887264c92</guid>
-            <pubDate>Sat, 01 Aug 2026 05:59:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن انفجار قرب ناقلة على بعد 21 ميلا بحريا شمال شرق خصب بعمان]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن انفجار قرب ناقلة على بعد 21 ميلا بحريا شمال شرق خصب بعمان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
