@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "2f44d81a2d9c79bd363837043814b0e6f00e97a741c0094401839c38ddca0e48",
+            "content_html": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
+            "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+            "summary": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-01-2025-WHO-Gaza-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-03T12:00:00.000Z"
+        },
+        {
             "id": "8ae0184e703d7e07d7b23ed9351b37560c4831427c7710a63288690304818000",
             "content_html": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
             "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
