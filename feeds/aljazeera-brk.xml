@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 18:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 19:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة بشارع…]]></title>
+            <link>https://t.me/aljazeeraBrk/229439</link>
+            <guid isPermaLink="false">9a5804eada79738ed8df10868f68a62e1d0a7cf06439064562749b5853a87176</guid>
+            <pubDate>Mon, 03 Aug 2026 19:16:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة بشارع الرشيد الساحلي غربي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة بشارع الرشيد الساحلي غربي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القناة 12 الإسرائيلية: إصابة جندي بجروح طفيفة في حادث عملياتي جنوبي لبنان]]></title>
             <link>https://t.me/aljazeeraBrk/229438</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 10:45:02 GMT</pubDate>
             <description><![CDATA[السفارة الأمريكية في العراق: ننصح مواطنينا في العراق بالحفاظ على الجاهزية والالتزام بتعليمات السلطات المحلية]]></description>
             <content:encoded><![CDATA[السفارة الأمريكية في العراق: ننصح مواطنينا في العراق بالحفاظ على الجاهزية والالتزام بتعليمات السلطات المحلية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عراقجي: نواصل جهودنا لتحقيق مصالح إيران بناء على توجيهات المرشد الأعلى وقرارات…]]></title>
-            <link>https://t.me/aljazeeraBrk/229196</link>
-            <guid isPermaLink="false">54212a8b96191a8351a95832f7542df0e8307086e5df358b88fb868afff89a5f</guid>
-            <pubDate>Sat, 01 Aug 2026 10:36:02 GMT</pubDate>
-            <description><![CDATA[عراقجي: نواصل جهودنا لتحقيق مصالح إيران بناء على توجيهات المرشد الأعلى وقرارات المجلس الأعلى للأمن القومي]]></description>
-            <content:encoded><![CDATA[عراقجي: نواصل جهودنا لتحقيق مصالح إيران بناء على توجيهات المرشد الأعلى وقرارات المجلس الأعلى للأمن القومي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
