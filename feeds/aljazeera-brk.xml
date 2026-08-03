@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 12:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 12:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الإيراني: لا نسعى لتوسيع دائرة التوتر ولكننا سنتحرك بقوة للدفاع عن أمننا…]]></title>
+            <link>https://t.me/aljazeeraBrk/229378</link>
+            <guid isPermaLink="false">7fbe047183e91e34d49fd67eeb02109033f594d107d2faf85aec1beec0910bed</guid>
+            <pubDate>Mon, 03 Aug 2026 12:39:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الإيراني: لا نسعى لتوسيع دائرة التوتر ولكننا سنتحرك بقوة للدفاع عن أمننا ومصالحنا ووحدة أراضينا]]></description>
+            <content:encoded><![CDATA[الرئيس الإيراني: لا نسعى لتوسيع دائرة التوتر ولكننا سنتحرك بقوة للدفاع عن أمننا ومصالحنا ووحدة أراضينا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في مستشفى ناصر: مصاب بنيران قوات الاحتلال خارج مناطق سيطرتها في مواصي خان…]]></title>
             <link>https://t.me/aljazeeraBrk/229377</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 05:19:02 GMT</pubDate>
             <description><![CDATA[الرئيس اللبناني: لا شرعية لأي سلاح خارج شرعية الدولة ولا حماية لهذا الوطن إلا بجيشه الوطني]]></description>
             <content:encoded><![CDATA[الرئيس اللبناني: لا شرعية لأي سلاح خارج شرعية الدولة ولا حماية لهذا الوطن إلا بجيشه الوطني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: التشكيك بالجيش أو محاولة عزله عن حاضنته الشعبية يضعف الدولة…]]></title>
-            <link>https://t.me/aljazeeraBrk/229140</link>
-            <guid isPermaLink="false">cdaa58b5f6d7a18b984e3179222b30a6bf28c6d6746f41c3c773fea3b06dbafd</guid>
-            <pubDate>Sat, 01 Aug 2026 05:19:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: التشكيك بالجيش أو محاولة عزله عن حاضنته الشعبية يضعف الدولة ويهدد مقومات الاستقرار]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: التشكيك بالجيش أو محاولة عزله عن حاضنته الشعبية يضعف الدولة ويهدد مقومات الاستقرار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
