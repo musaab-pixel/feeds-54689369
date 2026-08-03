@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 11:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 11:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حاكم مقاطعة أوديسا: 10 مصابين جروح بعضهم خطيرة في قصف روسي استهدف منشأة نقل…]]></title>
+            <link>https://t.me/aljazeeraBrk/229372</link>
+            <guid isPermaLink="false">693c1a5648057afb86d4719a42349e24f03d21fcb8dd0efde808cec44572af53</guid>
+            <pubDate>Mon, 03 Aug 2026 11:39:02 GMT</pubDate>
+            <description><![CDATA[حاكم مقاطعة أوديسا: 10 مصابين جروح بعضهم خطيرة في قصف روسي استهدف منشأة نقل مدنية]]></description>
+            <content:encoded><![CDATA[حاكم مقاطعة أوديسا: 10 مصابين جروح بعضهم خطيرة في قصف روسي استهدف منشأة نقل مدنية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم مقاطعة دنيبرو بيتروفيسك الأوكرانية: 3 قتلى في هجمات روسية]]></title>
             <link>https://t.me/aljazeeraBrk/229371</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 01:22:02 GMT</pubDate>
             <description><![CDATA[فوكس نيوز عن وزير الخارجية الأمريكي: لا أعتقد أن النظام الإيراني واجه رئيسا مثل ترمب الذي يتخذ إجراءات بالفعل]]></description>
             <content:encoded><![CDATA[فوكس نيوز عن وزير الخارجية الأمريكي: لا أعتقد أن النظام الإيراني واجه رئيسا مثل ترمب الذي يتخذ إجراءات بالفعل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مطار دنفر بولاية كولورادو الأمريكية: زوال التهديد الأمني وسيعاد فتح الطابق…]]></title>
-            <link>https://t.me/aljazeeraBrk/229133</link>
-            <guid isPermaLink="false">86151b1bd795d8e1fc07d697f2ac42e3139694225a1f327de97628b4b1dfda54</guid>
-            <pubDate>Sat, 01 Aug 2026 01:17:01 GMT</pubDate>
-            <description><![CDATA[مطار دنفر بولاية كولورادو الأمريكية: زوال التهديد الأمني وسيعاد فتح الطابق السادس الغربي واستئناف العمليات]]></description>
-            <content:encoded><![CDATA[مطار دنفر بولاية كولورادو الأمريكية: زوال التهديد الأمني وسيعاد فتح الطابق السادس الغربي واستئناف العمليات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
