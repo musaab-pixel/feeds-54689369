@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "cae848d88e7532007eaaf4080a724acfb7a4a3f202623351d6f992a4849445eb",
+            "content_html": "الطالبة السورية ⁠ريان خيرو تحرز المرتبة الثانية في قسم الهندسة الكيميائية في جامعة أتاتورك التركية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139077",
+            "title": "الطالبة السورية ⁠ريان خيرو تحرز المرتبة الثانية في قسم الهندسة الكيميائية في…",
+            "summary": "الطالبة السورية ⁠ريان خيرو تحرز المرتبة الثانية في قسم الهندسة الكيميائية في جامعة أتاتورك التركية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/XNN7GF0AF3ACeS2H1WfZrXl-fAGDTYemjsgDFfSpdrtz2nGaBPNZASqgY4AhP7WYZMF_SiS0T-_kYv1-Hcanw3dILJDbEXCNZRgyhEOAjACsUUJ5rzf8ot0cEUrexar871Bo6UjKb5jofwm12F_-OvW1gI_U_NHD_-H6oHoMnvhzPPOjQoTMMvIG1CbbIHxdHtedkEMa9ci3Qgj74VI_4SkMn9yt6oGptIa23ki1BOYXgeyX_322IK7tV6WSZTwUOTXNHTYyOuUL9afNYmxwV4-gd4PBIhgn4mtI7Wc-3vaI4k1sYpLku0jIol_MyCHA7kuBQPuaXaF3jBkymzpRGQ.jpg",
+            "date_modified": "2026-08-03T19:00:29.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "af6bcc9ea3d80a2d5791da6cfa8c1e9bca93753e3a947d49dfae3968f974df00",
             "content_html": "القناة 12 الإسرائيلية: إصابة جندي بجروح طفيفة في حادث عملياتي جنوبي لبنان",
             "url": "https://t.me/aljazeeraBrk/229438",
@@ -1611,17 +1623,6 @@
             "date_modified": "2026-08-03T00:46:36.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "9b4cd82f345862eaf5138bf3c1fa9143900a4fef161f7b31f363a600d30ebd12",
-            "content_html": "الهلال الأحمر المصري: لم نتلق أي تقارير حتى الآن عن إصابات أو أضرار بعد زلزال شمال شرق شرم الشيخ",
-            "url": "https://t.me/aljazeeraBrk/229346",
-            "title": "الهلال الأحمر المصري: لم نتلق أي تقارير حتى الآن عن إصابات أو أضرار بعد زلزال…",
-            "summary": "الهلال الأحمر المصري: لم نتلق أي تقارير حتى الآن عن إصابات أو أضرار بعد زلزال شمال شرق شرم الشيخ",
-            "date_modified": "2026-08-03T00:46:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
