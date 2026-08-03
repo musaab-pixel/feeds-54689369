@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 08:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 09:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مكتب الأمم المتحدة للشؤون الإنسانية: 67% من سكان غزة يعانون انعدام الأمن…]]></title>
+            <link>https://t.me/aljazeeraBrk/229365</link>
+            <guid isPermaLink="false">df50f330d6c37e66be60ad0302f866a4484c9d6bc380340cd64d5bfd28e00beb</guid>
+            <pubDate>Mon, 03 Aug 2026 09:00:03 GMT</pubDate>
+            <description><![CDATA[مكتب الأمم المتحدة للشؤون الإنسانية: 67% من سكان غزة يعانون انعدام الأمن الغذائي و10% يقتربون من المجاعة]]></description>
+            <content:encoded><![CDATA[مكتب الأمم المتحدة للشؤون الإنسانية: 67% من سكان غزة يعانون انعدام الأمن الغذائي و10% يقتربون من المجاعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الاستخبارات العسكرية الأوكرانية: وحدات خاصة هاجمت منظومات رادار روسية في شبه…]]></title>
             <link>https://t.me/aljazeeraBrk/229364</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 31 Jul 2026 23:20:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: عراقجي أكد أن عرقلة أطراف ثالثة لآليات العبور من مضيق هرمز ستؤدي لتعقيد الوضع القائم]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي أكد أن عرقلة أطراف ثالثة لآليات العبور من مضيق هرمز ستؤدي لتعقيد الوضع القائم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الإيرانية: عراقجي أوضح لنظيره البريطاني أن الوضع الحالي في المنطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/229126</link>
-            <guid isPermaLink="false">23f38440c6b1377e9a4986137b19b0db71459932903c3fdad96684aacc619db4</guid>
-            <pubDate>Fri, 31 Jul 2026 23:18:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الإيرانية: عراقجي أوضح لنظيره البريطاني أن الوضع الحالي في المنطقة سببه العدوان الأمريكي الإسرائيلي]]></description>
-            <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي أوضح لنظيره البريطاني أن الوضع الحالي في المنطقة سببه العدوان الأمريكي الإسرائيلي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
