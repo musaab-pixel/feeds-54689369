@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 05:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 05:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا 4 سفن شحن في ميناءي نيكولايف ويوجني وفي البحر…]]></title>
+            <link>https://t.me/aljazeeraBrk/229454</link>
+            <guid isPermaLink="false">159a18789215604f5a16ad81b82883cf561a2dedc0c613b9baca1c91fa1fea12</guid>
+            <pubDate>Tue, 04 Aug 2026 05:13:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا 4 سفن شحن في ميناءي نيكولايف ويوجني وفي البحر الأسود]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا 4 سفن شحن في ميناءي نيكولايف ويوجني وفي البحر الأسود]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني برصاص قوات الاحتلال خلال اقتحامها منطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/229453</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 14:22:02 GMT</pubDate>
             <description><![CDATA[الخارجية الأمريكية: على الأمريكيين في المنطقة النظر في المغادرة أو الاستعداد لها في حال حدوث تصعيد]]></description>
             <content:encoded><![CDATA[الخارجية الأمريكية: على الأمريكيين في المنطقة النظر في المغادرة أو الاستعداد لها في حال حدوث تصعيد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الأمريكية: على الأمريكيين بالشرق الأوسط الحذر والاستعداد لإغلاق للمجال…]]></title>
-            <link>https://t.me/aljazeeraBrk/229211</link>
-            <guid isPermaLink="false">2e486a39e0cb9ffeaf4f259579127e69291254362d2d0da883db741d5d183038</guid>
-            <pubDate>Sat, 01 Aug 2026 14:21:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الأمريكية: على الأمريكيين بالشرق الأوسط الحذر والاستعداد لإغلاق للمجال الجوي واضطرابات محتملة بالسفر]]></description>
-            <content:encoded><![CDATA[الخارجية الأمريكية: على الأمريكيين بالشرق الأوسط الحذر والاستعداد لإغلاق للمجال الجوي واضطرابات محتملة بالسفر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
