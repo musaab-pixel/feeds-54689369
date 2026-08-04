@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 08:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 09:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر أمنية بحرية: إصابة سفينة بضائع بمقذوف قرب مضيق هرمز ومغادرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229470</link>
+            <guid isPermaLink="false">bb38de5f776a08b83e5b543976a63f8588b13d84169877c2059106093b6fc049</guid>
+            <pubDate>Tue, 04 Aug 2026 09:14:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر أمنية بحرية: إصابة سفينة بضائع بمقذوف قرب مضيق هرمز ومغادرة طاقمها وفقدان أحد البحارة]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر أمنية بحرية: إصابة سفينة بضائع بمقذوف قرب مضيق هرمز ومغادرة طاقمها وفقدان أحد البحارة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: انطلاق جولة المفاوضات اللبنانية الإسرائيلية في روما]]></title>
             <link>https://t.me/aljazeeraBrk/229469</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 16:28:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد ومصابون في غارة إسرائيلية على شارع الثلاثيني بمدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد ومصابون في غارة إسرائيلية على شارع الثلاثيني بمدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف والطوارئ في غزة: غارة جوية إسرائيلية تستهدف وسط مدينة غزة وتسفر عن…]]></title>
-            <link>https://t.me/aljazeeraBrk/229227</link>
-            <guid isPermaLink="false">807d9c258cd50a990d3eb12a143acdf183bd4220595fb2921d14897c321113a4</guid>
-            <pubDate>Sat, 01 Aug 2026 16:25:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف والطوارئ في غزة: غارة جوية إسرائيلية تستهدف وسط مدينة غزة وتسفر عن إصابات]]></description>
-            <content:encoded><![CDATA[الإسعاف والطوارئ في غزة: غارة جوية إسرائيلية تستهدف وسط مدينة غزة وتسفر عن إصابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
