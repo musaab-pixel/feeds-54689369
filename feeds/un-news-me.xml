@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 20:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 13:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Afghanistan hunger crisis intensifies as millions left without food aid]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/08/1168069</link>
+            <guid isPermaLink="false">0766f45e92b452cf988d6264d9b1e161be931e025625665fd757797995c33ea2</guid>
+            <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and dirt-poor parents.]]></description>
+            <content:encoded><![CDATA[Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and dirt-poor parents.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026-UNICEF-Afghanistan-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/08/1168067</link>
