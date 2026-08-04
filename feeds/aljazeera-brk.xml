@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 23:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 00:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: سفينة شحن تعرضت لإصابة بمقذوف مجهول…]]></title>
+            <link>https://t.me/aljazeeraBrk/229449</link>
+            <guid isPermaLink="false">7fdfc58d3a4ba3855c37679899a2711251fea064077ab95bc0d039d15b1fdce8</guid>
+            <pubDate>Mon, 03 Aug 2026 23:51:02 GMT</pubDate>
+            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: سفينة شحن تعرضت لإصابة بمقذوف مجهول شمال شرق الخصب بسلطنة عمان]]></description>
+            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: سفينة شحن تعرضت لإصابة بمقذوف مجهول شمال شرق الخصب بسلطنة عمان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادث على بعد 20 ميلا…]]></title>
             <link>https://t.me/aljazeeraBrk/229448</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 11:44:02 GMT</pubDate>
             <description><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر بجنوب لبنان الليلة الماضية]]></description>
             <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر بجنوب لبنان الليلة الماضية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: إصابة ضابط بجروح متوسطة خلال نشاط عملياتي في جنوب لبنان…]]></title>
-            <link>https://t.me/aljazeeraBrk/229206</link>
-            <guid isPermaLink="false">00ff19c5947d61bc4bb1b1f1308baf8631f76f726b5693116a215228f023eb8e</guid>
-            <pubDate>Sat, 01 Aug 2026 11:29:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: إصابة ضابط بجروح متوسطة خلال نشاط عملياتي في جنوب لبنان الليلة الماضية]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: إصابة ضابط بجروح متوسطة خلال نشاط عملياتي في جنوب لبنان الليلة الماضية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
