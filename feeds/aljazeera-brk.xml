@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 03:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 04:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[تاس عن محافظ موسكو: مقتل 5 أشخاص وإصابة 6 في هجوم بمسيرة على منطقة موسكو]]></title>
+            <link>https://t.me/aljazeeraBrk/229452</link>
+            <guid isPermaLink="false">5ed6e34516a9099132e10219e19033b3df01a1c0e927f967ff93eba342c34755</guid>
+            <pubDate>Tue, 04 Aug 2026 04:18:02 GMT</pubDate>
+            <description><![CDATA[تاس عن محافظ موسكو: مقتل 5 أشخاص وإصابة 6 في هجوم بمسيرة على منطقة موسكو]]></description>
+            <content:encoded><![CDATA[تاس عن محافظ موسكو: مقتل 5 أشخاص وإصابة 6 في هجوم بمسيرة على منطقة موسكو]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في عدد من المنازل والمركبات بعد اقتحام…]]></title>
             <link>https://t.me/aljazeeraBrk/229451</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 12:09:02 GMT</pubDate>
             <description><![CDATA[وزير الطاقة التركي: تركيا والعراق يوقعان اتفاقا مدته عام لاستخدام خط أنابيب النفط المؤدي إلى ميناء جيهان]]></description>
             <content:encoded><![CDATA[وزير الطاقة التركي: تركيا والعراق يوقعان اتفاقا مدته عام لاستخدام خط أنابيب النفط المؤدي إلى ميناء جيهان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: سيطرنا على بلدتي لوبيتسوكي في زابوروجيا وأولغوفكا في…]]></title>
-            <link>https://t.me/aljazeeraBrk/229209</link>
-            <guid isPermaLink="false">0c46dc10584915c9f86d6e0cb03d06c7f738446e7dffad443e2dba6b21c941f3</guid>
-            <pubDate>Sat, 01 Aug 2026 11:51:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: سيطرنا على بلدتي لوبيتسوكي في زابوروجيا وأولغوفكا في خاركيف]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: سيطرنا على بلدتي لوبيتسوكي في زابوروجيا وأولغوفكا في خاركيف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
