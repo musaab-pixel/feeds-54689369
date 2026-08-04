@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 07:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 08:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سلطات مقاطعة بيلغورود الروسية: مقتل شخص وإصابة 24 في هجوم أوكراني على المقاطعة]]></title>
+            <link>https://t.me/aljazeeraBrk/229468</link>
+            <guid isPermaLink="false">0dda3d4d6e3a6df932a8d9a1e7b6088702a486ab509d06b415e757f24312685d</guid>
+            <pubDate>Tue, 04 Aug 2026 07:53:02 GMT</pubDate>
+            <description><![CDATA[سلطات مقاطعة بيلغورود الروسية: مقتل شخص وإصابة 24 في هجوم أوكراني على المقاطعة]]></description>
+            <content:encoded><![CDATA[سلطات مقاطعة بيلغورود الروسية: مقتل شخص وإصابة 24 في هجوم أوكراني على المقاطعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الأمين العام لحزب الله: سوريا المستقرة سند للبنان كما أن لبنان المستقر سند…]]></title>
             <link>https://t.me/aljazeeraBrk/229467</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 16:22:02 GMT</pubDate>
             <description><![CDATA[مصدر في إقليم كردستان العراق للجزيرة: استهداف محيط قرية كيجنه في السليمانية بمسيرتين]]></description>
             <content:encoded><![CDATA[مصدر في إقليم كردستان العراق للجزيرة: استهداف محيط قرية كيجنه في السليمانية بمسيرتين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في المنطقة الشرقية لبلدة إذنا…]]></title>
-            <link>https://t.me/aljazeeraBrk/229225</link>
-            <guid isPermaLink="false">155bbcfa391acc753e6222071af0ed8fb9807dd71c9d3a1d258f3fc4eac851c1</guid>
-            <pubDate>Sat, 01 Aug 2026 16:18:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في المنطقة الشرقية لبلدة إذنا غرب الخليل بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في المنطقة الشرقية لبلدة إذنا غرب الخليل بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
