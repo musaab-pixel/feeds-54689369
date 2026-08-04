@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 08:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 08:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: انطلاق جولة المفاوضات اللبنانية الإسرائيلية في روما]]></title>
+            <link>https://t.me/aljazeeraBrk/229469</link>
+            <guid isPermaLink="false">f14c3bb38299172a4a2550dd45ca7de64251bc432e741116b5aa501bdac88965</guid>
+            <pubDate>Tue, 04 Aug 2026 08:39:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: انطلاق جولة المفاوضات اللبنانية الإسرائيلية في روما]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: انطلاق جولة المفاوضات اللبنانية الإسرائيلية في روما]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سلطات مقاطعة بيلغورود الروسية: مقتل شخص وإصابة 24 في هجوم أوكراني على المقاطعة]]></title>
             <link>https://t.me/aljazeeraBrk/229468</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 16:25:02 GMT</pubDate>
             <description><![CDATA[الإسعاف والطوارئ في غزة: غارة جوية إسرائيلية تستهدف وسط مدينة غزة وتسفر عن إصابات]]></description>
             <content:encoded><![CDATA[الإسعاف والطوارئ في غزة: غارة جوية إسرائيلية تستهدف وسط مدينة غزة وتسفر عن إصابات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في إقليم كردستان العراق للجزيرة: استهداف محيط قرية كيجنه في السليمانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/229226</link>
-            <guid isPermaLink="false">faf01d9b21afaa3fb100344133b377639cdc2e85d902573dfaf08f3f136bb4dd</guid>
-            <pubDate>Sat, 01 Aug 2026 16:22:02 GMT</pubDate>
-            <description><![CDATA[مصدر في إقليم كردستان العراق للجزيرة: استهداف محيط قرية كيجنه في السليمانية بمسيرتين]]></description>
-            <content:encoded><![CDATA[مصدر في إقليم كردستان العراق للجزيرة: استهداف محيط قرية كيجنه في السليمانية بمسيرتين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
