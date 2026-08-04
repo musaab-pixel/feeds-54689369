@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 04:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 05:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني برصاص قوات الاحتلال خلال اقتحامها منطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229453</link>
+            <guid isPermaLink="false">559f4cc60d021e076d1a754b2a671185a51623ce0422715314f1dce19e77543c</guid>
+            <pubDate>Tue, 04 Aug 2026 05:06:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني برصاص قوات الاحتلال خلال اقتحامها منطقة شرق نابلس شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني برصاص قوات الاحتلال خلال اقتحامها منطقة شرق نابلس شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تاس عن محافظ موسكو: مقتل 5 أشخاص وإصابة 6 في هجوم بمسيرة على منطقة موسكو]]></title>
             <link>https://t.me/aljazeeraBrk/229452</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 14:21:02 GMT</pubDate>
             <description><![CDATA[الخارجية الأمريكية: على الأمريكيين بالشرق الأوسط الحذر والاستعداد لإغلاق للمجال الجوي واضطرابات محتملة بالسفر]]></description>
             <content:encoded><![CDATA[الخارجية الأمريكية: على الأمريكيين بالشرق الأوسط الحذر والاستعداد لإغلاق للمجال الجوي واضطرابات محتملة بالسفر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الطاقة التركي: تركيا والعراق يوقعان اتفاقا مدته عام لاستخدام خط أنابيب…]]></title>
-            <link>https://t.me/aljazeeraBrk/229210</link>
-            <guid isPermaLink="false">52422c9963ff1dcf4277b169ca8f8f7e43fecf51e90765e0b3990cd3267ad7ff</guid>
-            <pubDate>Sat, 01 Aug 2026 12:09:02 GMT</pubDate>
-            <description><![CDATA[وزير الطاقة التركي: تركيا والعراق يوقعان اتفاقا مدته عام لاستخدام خط أنابيب النفط المؤدي إلى ميناء جيهان]]></description>
-            <content:encoded><![CDATA[وزير الطاقة التركي: تركيا والعراق يوقعان اتفاقا مدته عام لاستخدام خط أنابيب النفط المؤدي إلى ميناء جيهان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
