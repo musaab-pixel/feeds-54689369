@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 09:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 10:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم الخارجية القطرية: نستطيع التأكيد أن الجهود مستمرة مع الأطراف لخفض…]]></title>
+            <link>https://t.me/aljazeeraBrk/229471</link>
+            <guid isPermaLink="false">37679a2803140523e097a27ffc20573743f7b0f68fecf97a118717818accf0fc</guid>
+            <pubDate>Tue, 04 Aug 2026 10:19:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم الخارجية القطرية: نستطيع التأكيد أن الجهود مستمرة مع الأطراف لخفض التصعيد في المنطقة]]></description>
+            <content:encoded><![CDATA[المتحدث باسم الخارجية القطرية: نستطيع التأكيد أن الجهود مستمرة مع الأطراف لخفض التصعيد في المنطقة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن مصادر أمنية بحرية: إصابة سفينة بضائع بمقذوف قرب مضيق هرمز ومغادرة…]]></title>
             <link>https://t.me/aljazeeraBrk/229470</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 17:21:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان في قصف من مسيرة إسرائيلية على منطقة الصناعة جنوبي مدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان في قصف من مسيرة إسرائيلية على منطقة الصناعة جنوبي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد ومصابون في غارة إسرائيلية على شارع…]]></title>
-            <link>https://t.me/aljazeeraBrk/229228</link>
-            <guid isPermaLink="false">34a2919216a55689dca0e53384ae3b589fcb60ffe698b3cc667e7d09ca337385</guid>
-            <pubDate>Sat, 01 Aug 2026 16:28:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد ومصابون في غارة إسرائيلية على شارع الثلاثيني بمدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد ومصابون في غارة إسرائيلية على شارع الثلاثيني بمدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
