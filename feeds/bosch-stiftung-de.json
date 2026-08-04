@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "00b2cb33daa30a0497c03f501d00f0d3f33bd56fd20870836114da99eadff683",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für das Thema Demokratie (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-04T15:47:08+02:00\" title=\"Dienstag, 4 August 2026 - 15:47\" class=\"datetime\">Di. 4 Aug 2026 - 15:47</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/werkstudent-fuer-das-thema-demokratie-wmdiv",
+            "title": "Werkstudent für das Thema Demokratie (w/m/div.)",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für das Thema Demokratie (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-04T15:47:08+02:00\" title=\"Dienstag, 4 August 2026 - 15:47\" class=\"datetime\">Di. 4 Aug 2026 - 15:47</time>\n</span>\n",
+            "date_modified": "2026-08-04T13:47:08.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "167eb08c3be9663334228ae1cc54d1fbd64d2121e5dc5486da235f1fc09b4585",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Einstufung der Robert Bosch Stiftung als „unerwünschte Organisation“ in Russland</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-28T13:56:02+02:00\" title=\"Dienstag, 28 Juli 2026 - 13:56\" class=\"datetime\">Di. 28 Jul 2026 - 13:56</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/einstufung-der-robert-bosch-stiftung-als-unerwuenschte-organisation-russland",
