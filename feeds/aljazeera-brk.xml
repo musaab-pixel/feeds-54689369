@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 11:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 11:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الخزانة الأمريكي في مقابلة مع سي إن بي سي: قد نتوصل غدا إلى اتفاق مع إيران…]]></title>
+            <link>https://t.me/aljazeeraBrk/229486</link>
+            <guid isPermaLink="false">8ae80c8a4d6555f5a028a7a1427e5c55912e7348a4f93a4684083263da772e04</guid>
+            <pubDate>Tue, 04 Aug 2026 11:55:02 GMT</pubDate>
+            <description><![CDATA[وزير الخزانة الأمريكي في مقابلة مع سي إن بي سي: قد نتوصل غدا إلى اتفاق مع إيران لفتح مضيق هرمز]]></description>
+            <content:encoded><![CDATA[وزير الخزانة الأمريكي في مقابلة مع سي إن بي سي: قد نتوصل غدا إلى اتفاق مع إيران لفتح مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الحكومة اللبنانية: الحوار والوحدة لا يبنيان إلا بتحمل المسؤولية عن خيارات…]]></title>
             <link>https://t.me/aljazeeraBrk/229485</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 20:18:02 GMT</pubDate>
             <description><![CDATA[بيان حكومي عراقي: اجتماع برئاسة القائد العام للقوات المسلحة علي الزيدي يبحث منع أي تهديد للجوار مصدره العراق]]></description>
             <content:encoded><![CDATA[بيان حكومي عراقي: اجتماع برئاسة القائد العام للقوات المسلحة علي الزيدي يبحث منع أي تهديد للجوار مصدره العراق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في الخارجية التركية: فيدان أكد في اتصال مع عراقجي بذل الجهود لإنهاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/229243</link>
-            <guid isPermaLink="false">ae4f9be780415447b217d976a4cab7c5d2b63a5731fb08b8efc69f9645578036</guid>
-            <pubDate>Sat, 01 Aug 2026 20:14:02 GMT</pubDate>
-            <description><![CDATA[مصادر في الخارجية التركية: فيدان أكد في اتصال مع عراقجي بذل الجهود لإنهاء الصراعات وترسيخ السلام الدائم]]></description>
-            <content:encoded><![CDATA[مصادر في الخارجية التركية: فيدان أكد في اتصال مع عراقجي بذل الجهود لإنهاء الصراعات وترسيخ السلام الدائم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
