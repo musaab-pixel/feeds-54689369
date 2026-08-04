@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 16:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 16:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن وزير هندي: سفينة هندية أصيبت بمقذوف قرب المياه اليمنية ما أدى إلى…]]></title>
+            <link>https://t.me/aljazeeraBrk/229512</link>
+            <guid isPermaLink="false">0ee21279cf471da050f0f68ce115fe758e6028be3a0e3b0a497b2d4889d2436f</guid>
+            <pubDate>Tue, 04 Aug 2026 16:52:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن وزير هندي: سفينة هندية أصيبت بمقذوف قرب المياه اليمنية ما أدى إلى غرقها]]></description>
+            <content:encoded><![CDATA[رويترز عن وزير هندي: سفينة هندية أصيبت بمقذوف قرب المياه اليمنية ما أدى إلى غرقها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم الخارجية الإيرانية: نبحث مع عمان مسارات آمنة في هرمز تضمن الحقوق…]]></title>
             <link>https://t.me/aljazeeraBrk/229511</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 02 Aug 2026 02:17:02 GMT</pubDate>
             <description><![CDATA[ترمب: إسرائيل تنضم إلينا في الالتزام بإلغاء الهجوم على إيران بشرط التوصل سريعا إلى اتفاق]]></description>
             <content:encoded><![CDATA[ترمب: إسرائيل تنضم إلينا في الالتزام بإلغاء الهجوم على إيران بشرط التوصل سريعا إلى اتفاق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: وافقت من أجل مستقبل العالم وبقاء إيران على إلغاء الهجوم مقابل إمكانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/229269</link>
-            <guid isPermaLink="false">a4d760094e2ff85806e02cf92dcdfe06f13bb26b1ab258c012d71060b49bdbb6</guid>
-            <pubDate>Sun, 02 Aug 2026 02:15:02 GMT</pubDate>
-            <description><![CDATA[ترمب: وافقت من أجل مستقبل العالم وبقاء إيران على إلغاء الهجوم مقابل إمكانية التوصل سريعا إلى اتفاق]]></description>
-            <content:encoded><![CDATA[ترمب: وافقت من أجل مستقبل العالم وبقاء إيران على إلغاء الهجوم مقابل إمكانية التوصل سريعا إلى اتفاق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
