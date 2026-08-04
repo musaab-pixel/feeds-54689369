@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 04 Aug 2026 00:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 00:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي ينفذ عملية نسف للمباني شرق مخيم البريج داخل…]]></title>
+            <link>https://t.me/aljazeeraBrk/229450</link>
+            <guid isPermaLink="false">945755c147bd50ac5c39d1fbe23aa3b6325bed453feed7d1d20f6832283c2e7b</guid>
+            <pubDate>Tue, 04 Aug 2026 00:43:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي ينفذ عملية نسف للمباني شرق مخيم البريج داخل مناطق سيطرته وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي ينفذ عملية نسف للمباني شرق مخيم البريج داخل مناطق سيطرته وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: سفينة شحن تعرضت لإصابة بمقذوف مجهول…]]></title>
             <link>https://t.me/aljazeeraBrk/229449</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 01 Aug 2026 11:50:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: استهدفنا مواقع إنتاج وتخزين مسيرات ونقاط تمركز لتشكيلات أوكرانية ومرتزقة في 152 منطقة]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا مواقع إنتاج وتخزين مسيرات ونقاط تمركز لتشكيلات أوكرانية ومرتزقة في 152 منطقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر…]]></title>
-            <link>https://t.me/aljazeeraBrk/229207</link>
-            <guid isPermaLink="false">9687186873a3deb905ba5c9ba619fd77f5fb2d40cc9075e4b43fb6f3b719f637</guid>
-            <pubDate>Sat, 01 Aug 2026 11:44:02 GMT</pubDate>
-            <description><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر بجنوب لبنان الليلة الماضية]]></description>
-            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: إصابة ضابط خلال اشتباك مع مسلحين في منطقة علي الطاهر بجنوب لبنان الليلة الماضية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
