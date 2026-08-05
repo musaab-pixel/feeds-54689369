@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "abbfaeacce072af91f2f6b00aeb87a6d9d362f3d68d407e083d96a78d17aebcc",
+            "content_html": "انطلاق المباراة الرابعة من سلسلة نهائي الدوري السوري لكرة السلة بين أهلي حلب والوحدة في صالة الشهباء بحلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139162",
+            "title": "انطلاق المباراة الرابعة من سلسلة نهائي الدوري السوري لكرة السلة بين أهلي حلب…",
+            "summary": "انطلاق المباراة الرابعة من سلسلة نهائي الدوري السوري لكرة السلة بين أهلي حلب والوحدة في صالة الشهباء بحلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-05T18:48:44.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "72828f2258c2649b59d19c4d2ca52d558d0b3c147863102f83eeac38fa161688",
             "content_html": "الرئيس الإيراني: العدو يمارس الضغوط على بلادنا لدفع مواطنينا للاحتجاج",
             "url": "https://t.me/aljazeeraBrk/229670",
@@ -1609,17 +1620,6 @@
             "date_modified": "2026-08-04T17:49:15.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "36a2aafe52ddfd44786c4cdc18460235f910494ae8d0c561f478a1385c0cc52d",
-            "content_html": "نتنياهو: الأمريكيون أرسلوا إلينا مسودة ولم نوافق عليها وأرسلنا ملاحظاتنا عليها",
-            "url": "https://t.me/aljazeeraBrk/229523",
-            "title": "نتنياهو: الأمريكيون أرسلوا إلينا مسودة ولم نوافق عليها وأرسلنا ملاحظاتنا عليها",
-            "summary": "نتنياهو: الأمريكيون أرسلوا إلينا مسودة ولم نوافق عليها وأرسلنا ملاحظاتنا عليها",
-            "date_modified": "2026-08-04T17:41:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
