@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 07:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا سفينة نفط سعودية شمالي البحر…]]></title>
+            <link>https://t.me/aljazeeraBrk/229589</link>
+            <guid isPermaLink="false">da45ee668d7315225772dd4e92c0c155b53da542b071c0421f026a431152609f</guid>
+            <pubDate>Wed, 05 Aug 2026 07:12:02 GMT</pubDate>
+            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا سفينة نفط سعودية شمالي البحر الأحمر أمام ينبع بصواريخ]]></description>
+            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا سفينة نفط سعودية شمالي البحر الأحمر أمام ينبع بصواريخ]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس الأوكراني: القوات الروسية استخدمت 28 صاروخا و115 مسيرة في هجماتها على…]]></title>
             <link>https://t.me/aljazeeraBrk/229588</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 05:37:02 GMT</pubDate>
             <description><![CDATA[القوات الجوية الأوكرانية: دفاعاتنا الجوية أسقطت الليلة الماضية 163 مسيرة روسية]]></description>
             <content:encoded><![CDATA[القوات الجوية الأوكرانية: دفاعاتنا الجوية أسقطت الليلة الماضية 163 مسيرة روسية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[السلطة القضائية الإيرانية: تنفيذ حكم الإعدام بعميلين للموساد الإسرائيلي]]></title>
-            <link>https://t.me/aljazeeraBrk/229349</link>
-            <guid isPermaLink="false">fc7e8950e62460808028ec808cd60034647b726778883566973c18970e52a8ee</guid>
-            <pubDate>Mon, 03 Aug 2026 05:34:02 GMT</pubDate>
-            <description><![CDATA[السلطة القضائية الإيرانية: تنفيذ حكم الإعدام بعميلين للموساد الإسرائيلي]]></description>
-            <content:encoded><![CDATA[السلطة القضائية الإيرانية: تنفيذ حكم الإعدام بعميلين للموساد الإسرائيلي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
