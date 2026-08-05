@@ -4,10 +4,177 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 03 Aug 2026 14:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 04:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Conferência / Conversas Colóquio ao Vivo 20 nov 2026 / 09:30]]></title>
+            <link>https://gulbenkian.pt/agenda/coloquio-ao-vivo/</link>
+            <guid isPermaLink="false">2560dc1022fba40bc8d507b34c59bdf996ea531c61c907f445253ae73a5ff325</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								09:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								09:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sexta, 09:30								</span>
+													</span>
+					</li>
+				</ul>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								10:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								10:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 10:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>O colóquio da <a href="https://gulbenkian.pt/publicacoes/coloquio/" target="_blank" rel="noopener"><em>Coló­quio</em></a> tem como princi­pais intuitos festejar a vida longa da revista e promover a discus­são acerca do exercício da arte da crítica literária tal como tem sido praticado em tempos recentes nas revistas e jor­nais mais relevantes a nível mundial, em edições impressas, digitais ou em <em>podcasts</em> es­pe­cializados.</p>
+<p>Ao longo de dois dias, o programa reunirá vários escri­tores e críticos de refe­rên­cia em mesas-redondas, conversas e nas duas conferências de aber­tura e encer­ra­men­to.</p>
+<p>O programa será anunciado brevemente.</p>
+<h2 class="fcg-section__title" id="publicacoes">
+			<span>Publicações</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Colóquio									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Colóquio – Este Brasil			</h3>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Colóquio									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Colóquio – Camões: novas artes, novo engenho			</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								09:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								09:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sexta, 09:30								</span>
+													</span>
+					</li>
+				</ul>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								10:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								10:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 10:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>O colóquio da <a href="https://gulbenkian.pt/publicacoes/coloquio/" target="_blank" rel="noopener"><em>Coló­quio</em></a> tem como princi­pais intuitos festejar a vida longa da revista e promover a discus­são acerca do exercício da arte da crítica literária tal como tem sido praticado em tempos recentes nas revistas e jor­nais mais relevantes a nível mundial, em edições impressas, digitais ou em <em>podcasts</em> es­pe­cializados.</p>
+<p>Ao longo de dois dias, o programa reunirá vários escri­tores e críticos de refe­rên­cia em mesas-redondas, conversas e nas duas conferências de aber­tura e encer­ra­men­to.</p>
+<p>O programa será anunciado brevemente.</p>
+<h2 class="fcg-section__title" id="publicacoes">
+			<span>Publicações</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Colóquio									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Colóquio – Este Brasil			</h3>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Colóquio									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Colóquio – Camões: novas artes, novo engenho			</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/Kraft_Coloquio_banner_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dança Dzudza, de Idio Chichava 17 nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/agenda/dzudza-de-idio-chichava/</link>
