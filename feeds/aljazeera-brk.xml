@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 09:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 10:00:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: إصابة جنود إسرائيليين في مجدل زون جنوبي لبنان في انفجار…]]></title>
+            <link>https://t.me/aljazeeraBrk/229592</link>
+            <guid isPermaLink="false">da06bb464d9c90f19ec90d4f8db2ee007a7d4432c44db8ac935267e64fd56c51</guid>
+            <pubDate>Wed, 05 Aug 2026 09:54:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: إصابة جنود إسرائيليين في مجدل زون جنوبي لبنان في انفجار لغم ونقلهم للمستشفيات بمروحيات]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: إصابة جنود إسرائيليين في مجدل زون جنوبي لبنان في انفجار لغم ونقلهم للمستشفيات بمروحيات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: دمرنا نفقا جنوبي قطاع غزة وعثرنا فيه على صواريخ]]></title>
             <link>https://t.me/aljazeeraBrk/229591</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 07:00:02 GMT</pubDate>
             <description><![CDATA[مجمع ناصر الطبي: مصابان بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها بمواصي خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مجمع ناصر الطبي: مصابان بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها بمواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تاس: مقتل 3 أشخاص وإصابة 2 في هجوم أوكراني على شبه جزيرة القرم]]></title>
-            <link>https://t.me/aljazeeraBrk/229352</link>
-            <guid isPermaLink="false">f53accbcf64e7048468a5989116363546a5a9a672e47dcd06ecfefff9d32a0da</guid>
-            <pubDate>Mon, 03 Aug 2026 06:32:01 GMT</pubDate>
-            <description><![CDATA[وكالة تاس: مقتل 3 أشخاص وإصابة 2 في هجوم أوكراني على شبه جزيرة القرم]]></description>
-            <content:encoded><![CDATA[وكالة تاس: مقتل 3 أشخاص وإصابة 2 في هجوم أوكراني على شبه جزيرة القرم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
