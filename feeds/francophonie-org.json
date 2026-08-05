@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "66ddfed3c60d2f84b012cfb30d60f5b5c6a9cca5baa9c70614900f763dffbb65",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">L’OIF forme 30 jeunes diplomates à Montevideo</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-05T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 05/08/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/loif-forme-30-jeunes-diplomates-a-montevideo-8623",
+            "title": "L’OIF forme 30 jeunes diplomates à Montevideo",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">L’OIF forme 30 jeunes diplomates à Montevideo</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-05T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 05/08/2026 - 15:43</span>\n",
+            "date_modified": "2026-08-05T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "ba7eb87f0175dfaa36c208109524dbf92789ac1800fbdc8e7b0a4aad6a63b358",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : l'OIF soutient l'engagement des femmes et des jeunes dans le processus de refondation</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-04T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 04/08/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/madagascar-l-oif-soutient-l-engagement-des-femmes-et-des-jeunes-dans-le-processus-de-refondation-8621",

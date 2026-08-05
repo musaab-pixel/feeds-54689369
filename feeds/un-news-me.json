@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "471495b6c616ef43d75e68a952c9df91eefb2404db559300a4da7c6448d997d4",
+            "content_html": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168081",
+            "title": "Sharp spike in executions, death sentences in Iran",
+            "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-03-2026-Unsplash-Iran-Tehran.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-05T12:00:00.000Z"
+        },
+        {
             "id": "0766f45e92b452cf988d6264d9b1e161be931e025625665fd757797995c33ea2",
             "content_html": "Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and dirt-poor parents.",
             "url": "https://news.un.org/feed/view/en/story/2026/08/1168069",
