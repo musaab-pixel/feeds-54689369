@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 07:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 08:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس]]></title>
+            <link>https://t.me/aljazeeraBrk/229590</link>
+            <guid isPermaLink="false">c3301957d27c381654d99309a501aaba2fe88d96adea8a81e12eac619f3bb7d2</guid>
+            <pubDate>Wed, 05 Aug 2026 07:35:02 GMT</pubDate>
+            <description><![CDATA[ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس]]></description>
+            <content:encoded><![CDATA[ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا سفينة نفط سعودية شمالي البحر…]]></title>
             <link>https://t.me/aljazeeraBrk/229589</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 05:38:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: أسقطنا الليلة الماضية 131 مسيرة أوكرانية]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: أسقطنا الليلة الماضية 131 مسيرة أوكرانية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الجوية الأوكرانية: دفاعاتنا الجوية أسقطت الليلة الماضية 163 مسيرة روسية]]></title>
-            <link>https://t.me/aljazeeraBrk/229350</link>
-            <guid isPermaLink="false">d39fccd24870188f1c42d73586d763ac1999488e76fdc16a038d24c5a001084e</guid>
-            <pubDate>Mon, 03 Aug 2026 05:37:02 GMT</pubDate>
-            <description><![CDATA[القوات الجوية الأوكرانية: دفاعاتنا الجوية أسقطت الليلة الماضية 163 مسيرة روسية]]></description>
-            <content:encoded><![CDATA[القوات الجوية الأوكرانية: دفاعاتنا الجوية أسقطت الليلة الماضية 163 مسيرة روسية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
