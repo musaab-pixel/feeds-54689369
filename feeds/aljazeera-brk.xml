@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 08:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 09:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: دمرنا نفقا جنوبي قطاع غزة وعثرنا فيه على صواريخ]]></title>
+            <link>https://t.me/aljazeeraBrk/229591</link>
+            <guid isPermaLink="false">98fff52c4627eee2c9e6eddd684f5006016d7bbac5fab31cb8c78c056f86a9b8</guid>
+            <pubDate>Wed, 05 Aug 2026 09:28:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: دمرنا نفقا جنوبي قطاع غزة وعثرنا فيه على صواريخ]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: دمرنا نفقا جنوبي قطاع غزة وعثرنا فيه على صواريخ]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس]]></title>
             <link>https://t.me/aljazeeraBrk/229590</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 06:32:01 GMT</pubDate>
             <description><![CDATA[وكالة تاس: مقتل 3 أشخاص وإصابة 2 في هجوم أوكراني على شبه جزيرة القرم]]></description>
             <content:encoded><![CDATA[وكالة تاس: مقتل 3 أشخاص وإصابة 2 في هجوم أوكراني على شبه جزيرة القرم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: أسقطنا الليلة الماضية 131 مسيرة أوكرانية]]></title>
-            <link>https://t.me/aljazeeraBrk/229351</link>
-            <guid isPermaLink="false">c4418ee7174e75abd9826d4cbaa0e7e68e7c4560c761ea72440b6cf8c9bb8dbc</guid>
-            <pubDate>Mon, 03 Aug 2026 05:38:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: أسقطنا الليلة الماضية 131 مسيرة أوكرانية]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: أسقطنا الليلة الماضية 131 مسيرة أوكرانية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
