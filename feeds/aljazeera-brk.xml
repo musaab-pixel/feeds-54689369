@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 10:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 11:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: قتلى في صفوف قوة عسكرية إسرائيلية جراء انفجار لغم أرضي…]]></title>
+            <link>https://t.me/aljazeeraBrk/229596</link>
+            <guid isPermaLink="false">5ff93d3f3106ba2d92b6dca00f8df87e51fde022d423fa2a72db504706b9614b</guid>
+            <pubDate>Wed, 05 Aug 2026 11:37:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: قتلى في صفوف قوة عسكرية إسرائيلية جراء انفجار لغم أرضي في مجدل زون جنوبي لبنان]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: قتلى في صفوف قوة عسكرية إسرائيلية جراء انفجار لغم أرضي في مجدل زون جنوبي لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[منسق الحكومة الإسرائيلية بالضفة الغربية: لن نسمح بأن يتحول مخيم قلنديا لبؤرة…]]></title>
             <link>https://t.me/aljazeeraBrk/229595</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 07:25:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية الإيرانية: التوصل إلى اتفاق مع سلطنة عمان لا يكفي لإعادة فتح مضيق هرمز]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: التوصل إلى اتفاق مع سلطنة عمان لا يكفي لإعادة فتح مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: لن يحصل أي تغيير في مضيق هرمز ما دامت واشنطن…]]></title>
-            <link>https://t.me/aljazeeraBrk/229356</link>
-            <guid isPermaLink="false">21240f1416c542ac9ebf6c333c7e76804f9bd8304be4931d6dddfad9a743e6a1</guid>
-            <pubDate>Mon, 03 Aug 2026 07:24:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: لن يحصل أي تغيير في مضيق هرمز ما دامت واشنطن تواصل عدوانها وحصارها البحري]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: لن يحصل أي تغيير في مضيق هرمز ما دامت واشنطن تواصل عدوانها وحصارها البحري]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
