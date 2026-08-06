@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 06 Aug 2026 03:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القناة 14 الإسرائيلية: مقتل جنديين وإصابة 4 أحدهم في حالة خطرة إثر انفجار عبوة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229711</link>
+            <guid isPermaLink="false">acb8d09ae3cd0fa4f97376c389e58ae9e5f729ea89714bc642727ea289184011</guid>
+            <pubDate>Thu, 06 Aug 2026 03:09:02 GMT</pubDate>
+            <description><![CDATA[القناة 14 الإسرائيلية: مقتل جنديين وإصابة 4 أحدهم في حالة خطرة إثر انفجار عبوة ناسفة داخل مبنى في جنوب لبنان]]></description>
+            <content:encoded><![CDATA[القناة 14 الإسرائيلية: مقتل جنديين وإصابة 4 أحدهم في حالة خطرة إثر انفجار عبوة ناسفة داخل مبنى في جنوب لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></title>
             <link>https://t.me/aljazeeraBrk/229710</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 20:12:02 GMT</pubDate>
             <description><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تهدد مسار التهدئة وتزيد من معاناة المدنيين في قطاع غزة]]></description>
             <content:encoded><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تهدد مسار التهدئة وتزيد من معاناة المدنيين في قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تقوض تنفيذ المرحلة 2 خاصة بعد موافقة حماس…]]></title>
-            <link>https://t.me/aljazeeraBrk/229445</link>
-            <guid isPermaLink="false">a54998bd796ff0fc94c8b431ac9d5780474f37cb536e36a3d7b2cf7c7dd4a57b</guid>
-            <pubDate>Mon, 03 Aug 2026 20:11:02 GMT</pubDate>
-            <description><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تقوض تنفيذ المرحلة 2 خاصة بعد موافقة حماس والفصائل على خارطة الطريق]]></description>
-            <content:encoded><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تقوض تنفيذ المرحلة 2 خاصة بعد موافقة حماس والفصائل على خارطة الطريق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
