@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 06 Aug 2026 05:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 05:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجبهة الداخلية الإسرائيلية: صفارات الإنذار تدوي في مستوطنتين قرب رام الله بعد…]]></title>
+            <link>https://t.me/aljazeeraBrk/229721</link>
+            <guid isPermaLink="false">4f2f30254d102c94f895d39c97292bb43a4ecefd12ba6fe6df4fa98f4d28dbc2</guid>
+            <pubDate>Thu, 06 Aug 2026 05:50:04 GMT</pubDate>
+            <description><![CDATA[الجبهة الداخلية الإسرائيلية: صفارات الإنذار تدوي في مستوطنتين قرب رام الله بعد اشتباه بمحاولة تسلل مسلحين]]></description>
+            <content:encoded><![CDATA[الجبهة الداخلية الإسرائيلية: صفارات الإنذار تدوي في مستوطنتين قرب رام الله بعد اشتباه بمحاولة تسلل مسلحين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: قوات الاحتلال تبدأ هدم محال تجارية في محيط حاجز قلنديا العسكري…]]></title>
             <link>https://t.me/aljazeeraBrk/229720</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 04 Aug 2026 05:37:02 GMT</pubDate>
             <description><![CDATA[إذاعة الجيش الإسرائيلي: قيادة المنطقة الوسطى تؤكد عدم وجود ضرورة عملياتية للسيطرة على مخيم آخر في الضفة]]></description>
             <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: قيادة المنطقة الوسطى تؤكد عدم وجود ضرورة عملياتية للسيطرة على مخيم آخر في الضفة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إذاعة الجيش الإسرائيلي: خلاف جديد بين وزير الدفاع وقيادة المنطقة الوسطى بشأن…]]></title>
-            <link>https://t.me/aljazeeraBrk/229455</link>
-            <guid isPermaLink="false">60d5d9a63a646740110c54ddab029748d6afeab5e3b0c86fe65f822bb4534ff7</guid>
-            <pubDate>Tue, 04 Aug 2026 05:35:03 GMT</pubDate>
-            <description><![CDATA[إذاعة الجيش الإسرائيلي: خلاف جديد بين وزير الدفاع وقيادة المنطقة الوسطى بشأن توسيع العمليات في الضفة الغربية]]></description>
-            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: خلاف جديد بين وزير الدفاع وقيادة المنطقة الوسطى بشأن توسيع العمليات في الضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
