@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 04:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 00:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -866,6 +866,490 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apoios Apoio à Internacionalização Apoio à visibilidade internacional de criadores, curadores e programadores portugueses e estrangeiros residentes em Portugal, nas áreas de Artes Performativas, Artes Visuais, Cinema e Cruzamentos Disciplinares. até 31 out 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/apoio-a-circulacao-internacional/</link>
+            <guid isPermaLink="false">c50caa1c5e05cfc2fb4ee0cbbe1c22d4c6afd49cc5ad9a25fcb4d4d96163ae30</guid>
+            <pubDate>Thu, 06 Aug 2026 00:42:08 GMT</pubDate>
+            <description><![CDATA[<p>Este apoio tem como objetivo estimular a realização de projetos que contribuam para criar e fortalecer redes de colaboração internacional com impacto no crescimento profissional dos artistas candidatos, bem como para a visibilidade e reconhecimento do seu trabalho.</p>
+<p>Deslocação de artistas autores/programadores/curadores para a participação em projetos artísticos promovidos por instituições culturais internacionais de referência com atividade regular nas áreas deste Concurso.</p>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>As áreas apoiadas são:</p>
+<ul class="list-format-bar">
+	<li>Artes Performativas: dança, teatro, novo circo;</li>
+	<li>Artes Visuais: desenho, escultura, fotografia, performance, pintura, vídeo;</li>
+	<li>Cinema: realização;</li>
+	<li>Cruzamentos Disciplinares: projetos que integrem, pelo menos, duas disciplinas diferentes, sendo a principal uma das áreas artísticas definidas para o concurso (Artes Performativas, Artes Visuais ou Cinema), não podendo ter como foco os domínios da arquitetura, do design, da edição ou da música.</li>
+</ul>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Podem candidatar-se a este concurso:</p>
+<ul class="list-format-bar">
+	<li>Artistas autores, curadores ou programadores nacionais e estrangeiros, em nome individual ou através de uma instituição sem fins lucrativos com sede em Portugal com a qual estejam a colaborar na execução do projeto objeto da candidatura. Os candidatos estrangeiros devem ter domicílio fiscal em Portugal e fazer parte da sua comunidade artística;</li>
+	<li>Os projetos devem ser submetidos com pelo menos 30 dias de antecedência relativamente à data da sua execução e realizados nos 12 meses seguintes à assinatura do contrato de apoio;</li>
+	<li>Cada entidade candidata pode submeter apenas uma candidatura em cada ano;</li>
+	<li>Só serão aceites candidaturas <em>online </em>e em português.</li>
+</ul>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Faça o seu registo;</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento e Perguntas Frequentes (disponível na zona de Documentos);</li>
+	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o<em> upload</em> da documentação exigida no Regulamento;</li>
+	<li>No final, clicar no botão «submeter candidatura». De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>
+<h2 class="fcg-section__title" id="resultados">
+			<span>Resultados</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-related-documents">
+		<li class="fcg-related-documents__item">
+		<a class="fcg-related-documents__link" href="https://cdn.gulbenkian.pt/wp-content/uploads/2026/01/ACI_Resultados_2025_REF01-1-1.pdf" title="Resultados 2025" target="_blank" rel="nofollow noreferrer">
+		Resultados 2025		</a>
+		 (PDF – 911 KB)
+	</li>
+		<li class="fcg-related-documents__item">
+		<a class="fcg-related-documents__link" href="https://cdn.gulbenkian.pt/wp-content/uploads/2025/01/ACI_Resultados_2024_REF01-1.pdf" title="Resultados 2024" target="_blank" rel="nofollow noreferrer">
+		Resultados 2024		</a>
+		 (PDF – 760 KB)
+	</li>
+		<li class="fcg-related-documents__item">
+		<a class="fcg-related-documents__link" href="https://cdn.gulbenkian.pt/wp-content/uploads/2022/01/FCG_Apoios2023_CirculacaoInternacional_Resultados_REF0321.pdf" title="Resultados 2023" target="_blank" rel="nofollow noreferrer">
+		Resultados 2023		</a>
+		 (PDF – 1.2 MB)
+	</li>
+</ul>
+<h2 class="fcg-section__title" id="perguntas-frequentes">
+			<span>Perguntas Frequentes</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-sao-as-fases-do-concurso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais são as fases do concurso?				</h4>
+<p>As fases do concurso são:</p>
+<ul>
+	<li style="list-style-type: none">
+<ul class="list-format-bar">
+	<li><strong>Candidatura:</strong> Preenchimento do formulário online dentro do prazo indicado no respetivo regulamento (12 de janeiro a a 31 de outubro de 2026, às 16:00).</li>
+	<li><strong>Avaliação e comunicação da decisão:</strong> No prazo de 30 dias.</li>
+	<li><strong>Formalização:</strong> Depois de aprovadas as candidaturas, devem ser submetidos, no prazo de dez dias úteis, através da plataforma de apoio, o Termo de Aceitação assinado e os comprovativos seguintes:
+
+<ol class="list-format-bar" style="margin-top: 10px!important" start="–">
+	<li style="margin-bottom: 4px!important">Cópia do documento de identificação da Entidade e de comprovativo de NIF;</li>
+	<li style="margin-bottom: 4px!important">Certidão de Domicílio Fiscal – apenas obrigatória para candidatos individuais estrangeiros;</li>
+	<li style="margin-bottom: 4px!important">IBAN emitido pela entidade bancária;</li>
+	<li style="margin-bottom: 4px!important">Comprovativos de Não Dívida à Autoridade Tributária e à Segurança Social.</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+<p>No caso das organizações, devem ainda ser entregues a Certidão Permanente ou a Ata de Constituição dos Corpos Sociais e Declaração do Registo Central do Beneficiário Efetivo.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-projetos-sao-elegiveis-para-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de projetos são elegíveis para este apoio?				</h4>
+<ul class="list-format-bar">
+	<li>Projetos de deslocação de artistas autores/programadores/curadores para a participação em iniciativas artísticas promovidas por instituições culturais internacionais de referência com atividade regular nas áreas deste Concurso.</li>
+	<li>Projetos que contribuam para criar e fortalecer redes de colaboração internacional com impacto no crescimento profissional dos candidatos bem como para a visibilidade e reconhecimento do seu trabalho.</li>
+	<li>Projetos com uma apresentação pública ou o registo documentado do trabalho realizado, incluindo a autoavaliação reflexiva e crítica.</li>
+	<li>Projetos que se realizem fora de Portugal.</li>
+</ul>
+<p>Os apoios atribuídos a candidatos individuais para internacionalização não são para formação e, por consequência, não se enquadram na tipologia de formação/bolsas de estudo.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quem-se-pode-candidatar-a-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quem se pode candidatar a este apoio?				</h4>
+<ul class="list-format-bar">
+	<li>Pessoas individuais portuguesas;</li>
+	<li>Pessoas individuais estrangeiras com domicílio fiscal em Portugal;</li>
+	<li>Instituições privadas de produção artística, portuguesas, sem fins lucrativos.</li>
+</ul>
+<p>São aceites candidaturas que envolvam várias entidades (em nome individual ou através de instituições de produção artística), devendo a candidatura ser submetida pela entidade promotora (individual ou instituição), a qual ficará responsável pelo projeto, respondendo à Fundação Gulbenkian pela boa execução do mesmo e pela apresentação do relatório final.</p>
+<p>No caso de haver outras instituições envolvidas no projeto, estas deverão ser identificadas como parceiras no formulário de candidatura.</p>
+<p>Uma Entidade Candidata (individual ou instituição) pode concorrer apenas com um projeto por ano no mesmo concurso.&nbsp;</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-os-documentos-obrigatorios-para-uma-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais os documentos obrigatórios para uma candidatura?				</h4>
+<ul class="list-format-bar">
+	<li>Documento com o orçamento detalhado do projeto (documento criado em Excel, convertido em PDF – pode ser utilizado o modelo de orçamento disponibilizado na página de candidatura);</li>
+	<li>Comprovativos dos apoios existentes ao projeto, logísticos e financeiros, convertidos num único documento em PDF (se aplicável);</li>
+	<li>Acesso a trabalhos anteriores considerados relevantes pela Entidade (nas Artes Visuais, o portfólio pode ser anexado aqui, caso não seja possível criar um link);</li>
+	<li>Outros elementos descritivos que a Entidade (artista autor ou organização privada sem fins lucrativos com a qual colaborem na execução do projeto) considere relevantes para a apreciação do projeto com base nos critérios previstos.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-sao-os-criterios-de-exclusao">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais são os critérios de exclusão?				</h4>
+<ul class="list-format-bar">
+	<li>
+<p>Projetos de natureza comercial;</p>
+</li>
+	<li>
+<p>Projetos com caráter académico, escolar ou amador;</p>
+</li>
+	<li>
+<p>Projetos exclusivamente nos domínios da arquitetura, do design, da edição e da música;</p>
+</li>
+	<li>
+<p>Candidaturas de Entidades (artistas autores e/ou organizações privadas sem fins lucrativos) que se encontrem em situação de incumprimento injustificado perante a Fundação Gulbenkian, designadamente no que respeita à apresentação de relatórios de execução material e/ou financeira, ou devolução de saldos, ou que já beneficiem em simultâneo de outros apoios concedidos pela Fundação Gulbenkian.</p>
+</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="podem-candidatar-se-projetos-apoiados-por-outras-entidades">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Podem candidatar-se projetos apoiados por outras entidades?				</h4>
+<p>Projetos apoiados por outras entidades, públicas ou privadas, podem candidatar-se, desde que identifiquem as despesas apoiadas por cada uma das fontes de receita.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-possivel-candidatar-projetos-em-curso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É possível candidatar projetos em curso?				</h4>
+<p>Não estão excluídos projetos em curso, mas os pedidos devem reportar-se a ações do projeto ainda não realizadas.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-o-prazo-de-execucao-dos-projetos-apoiados">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual o prazo de execução dos projetos apoiados?				</h4>
+<p>Os projetos devem ser submetidos com pelo menos 30 dias de antecedência relativamente à data da sua concretização e devem ser concluídos no prazo de um ano após a data da submissão da candidatura.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-despesas-nao-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que despesas não são elegíveis?				</h4>
+<p>Poderão ser elegíveis todo o tipo de despesas diretamente relacionadas com o projeto de internacionalização, exceto:</p>
+<ul class="list-format-bar">
+	<li>Despesas com efeitos retroativos;</li>
+	<li>Itens do orçamento que já estejam cobertos por comparticipações de outra(s) entidade(s) financiadora(s);</li>
+	<li>Custos fixos e despesas correntes da atividade regular de produção artística ou do seu suporte, tais como honorários fixos, consumos de água, eletricidade, internet, entre outras;</li>
+	<li>Despesas com aluguer de equipamentos e/ou arrendamento de espaços de apresentação, montagens e desmontagens;</li>
+	<li>Despesas com honorários;</li>
+	<li>Despesas com a comunicação dos projetos;</li>
+	<li>Compra de materiais e equipamentos.</li>
+</ul>
+<p>As despesas não elegíveis não são fator de exclusão da candidatura, mas são fator de acerto no montante a atribuir.&nbsp;</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-e-o-montante-maximo-de-financiamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual é o montante máximo de financiamento?				</h4>
+<p>O valor dos apoios a conceder será determinado pela Fundação Gulbenkian tendo como teto de referência 5.000 € e incide maioritariamente nas despesas de viagens, alojamento e refeições das Entidades Beneficiárias.</p>
+<h2 class="fcg-section__title" id="contactos">
+			<span>Contactos</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Caso subsistam dúvidas depois de ler as perguntas frequentes e o regulamento, poderá contactar a Fundação Calouste Gulbenkian através de <a href="/cdn-cgi/l/email-protection#4e3e292d3b223a3b3c2f602f3c3a2b3d0e293b222c2b2025272f20603e3a"><span class="__cf_email__" data-cfemail="80f0e7e3f5ecf4f5f2e1aee1f2f4e5f3c0e7f5ece2e5eeebe9e1eeaef0f4">[email&nbsp;protected]</span></a></p>]]></description>
+            <content:encoded><![CDATA[<p>Este apoio tem como objetivo estimular a realização de projetos que contribuam para criar e fortalecer redes de colaboração internacional com impacto no crescimento profissional dos artistas candidatos, bem como para a visibilidade e reconhecimento do seu trabalho.</p>
+<p>Deslocação de artistas autores/programadores/curadores para a participação em projetos artísticos promovidos por instituições culturais internacionais de referência com atividade regular nas áreas deste Concurso.</p>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>As áreas apoiadas são:</p>
+<ul class="list-format-bar">
+	<li>Artes Performativas: dança, teatro, novo circo;</li>
+	<li>Artes Visuais: desenho, escultura, fotografia, performance, pintura, vídeo;</li>
+	<li>Cinema: realização;</li>
+	<li>Cruzamentos Disciplinares: projetos que integrem, pelo menos, duas disciplinas diferentes, sendo a principal uma das áreas artísticas definidas para o concurso (Artes Performativas, Artes Visuais ou Cinema), não podendo ter como foco os domínios da arquitetura, do design, da edição ou da música.</li>
+</ul>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Podem candidatar-se a este concurso:</p>
+<ul class="list-format-bar">
+	<li>Artistas autores, curadores ou programadores nacionais e estrangeiros, em nome individual ou através de uma instituição sem fins lucrativos com sede em Portugal com a qual estejam a colaborar na execução do projeto objeto da candidatura. Os candidatos estrangeiros devem ter domicílio fiscal em Portugal e fazer parte da sua comunidade artística;</li>
+	<li>Os projetos devem ser submetidos com pelo menos 30 dias de antecedência relativamente à data da sua execução e realizados nos 12 meses seguintes à assinatura do contrato de apoio;</li>
+	<li>Cada entidade candidata pode submeter apenas uma candidatura em cada ano;</li>
+	<li>Só serão aceites candidaturas <em>online </em>e em português.</li>
+</ul>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Faça o seu registo;</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento e Perguntas Frequentes (disponível na zona de Documentos);</li>
+	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o<em> upload</em> da documentação exigida no Regulamento;</li>
+	<li>No final, clicar no botão «submeter candidatura». De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>
+<h2 class="fcg-section__title" id="resultados">
+			<span>Resultados</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-related-documents">
+		<li class="fcg-related-documents__item">
+		<a class="fcg-related-documents__link" href="https://cdn.gulbenkian.pt/wp-content/uploads/2026/01/ACI_Resultados_2025_REF01-1-1.pdf" title="Resultados 2025" target="_blank" rel="nofollow noreferrer">
+		Resultados 2025		</a>
+		 (PDF – 911 KB)
+	</li>
+		<li class="fcg-related-documents__item">
+		<a class="fcg-related-documents__link" href="https://cdn.gulbenkian.pt/wp-content/uploads/2025/01/ACI_Resultados_2024_REF01-1.pdf" title="Resultados 2024" target="_blank" rel="nofollow noreferrer">
+		Resultados 2024		</a>
+		 (PDF – 760 KB)
+	</li>
+		<li class="fcg-related-documents__item">
+		<a class="fcg-related-documents__link" href="https://cdn.gulbenkian.pt/wp-content/uploads/2022/01/FCG_Apoios2023_CirculacaoInternacional_Resultados_REF0321.pdf" title="Resultados 2023" target="_blank" rel="nofollow noreferrer">
+		Resultados 2023		</a>
+		 (PDF – 1.2 MB)
+	</li>
+</ul>
+<h2 class="fcg-section__title" id="perguntas-frequentes">
+			<span>Perguntas Frequentes</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-sao-as-fases-do-concurso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais são as fases do concurso?				</h4>
+<p>As fases do concurso são:</p>
+<ul>
+	<li style="list-style-type: none">
+<ul class="list-format-bar">
+	<li><strong>Candidatura:</strong> Preenchimento do formulário online dentro do prazo indicado no respetivo regulamento (12 de janeiro a a 31 de outubro de 2026, às 16:00).</li>
+	<li><strong>Avaliação e comunicação da decisão:</strong> No prazo de 30 dias.</li>
+	<li><strong>Formalização:</strong> Depois de aprovadas as candidaturas, devem ser submetidos, no prazo de dez dias úteis, através da plataforma de apoio, o Termo de Aceitação assinado e os comprovativos seguintes:
+
+<ol class="list-format-bar" style="margin-top: 10px!important" start="–">
+	<li style="margin-bottom: 4px!important">Cópia do documento de identificação da Entidade e de comprovativo de NIF;</li>
+	<li style="margin-bottom: 4px!important">Certidão de Domicílio Fiscal – apenas obrigatória para candidatos individuais estrangeiros;</li>
+	<li style="margin-bottom: 4px!important">IBAN emitido pela entidade bancária;</li>
+	<li style="margin-bottom: 4px!important">Comprovativos de Não Dívida à Autoridade Tributária e à Segurança Social.</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+<p>No caso das organizações, devem ainda ser entregues a Certidão Permanente ou a Ata de Constituição dos Corpos Sociais e Declaração do Registo Central do Beneficiário Efetivo.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-tipo-de-projetos-sao-elegiveis-para-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que tipo de projetos são elegíveis para este apoio?				</h4>
+<ul class="list-format-bar">
+	<li>Projetos de deslocação de artistas autores/programadores/curadores para a participação em iniciativas artísticas promovidas por instituições culturais internacionais de referência com atividade regular nas áreas deste Concurso.</li>
+	<li>Projetos que contribuam para criar e fortalecer redes de colaboração internacional com impacto no crescimento profissional dos candidatos bem como para a visibilidade e reconhecimento do seu trabalho.</li>
+	<li>Projetos com uma apresentação pública ou o registo documentado do trabalho realizado, incluindo a autoavaliação reflexiva e crítica.</li>
+	<li>Projetos que se realizem fora de Portugal.</li>
+</ul>
+<p>Os apoios atribuídos a candidatos individuais para internacionalização não são para formação e, por consequência, não se enquadram na tipologia de formação/bolsas de estudo.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quem-se-pode-candidatar-a-este-apoio">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quem se pode candidatar a este apoio?				</h4>
+<ul class="list-format-bar">
+	<li>Pessoas individuais portuguesas;</li>
+	<li>Pessoas individuais estrangeiras com domicílio fiscal em Portugal;</li>
+	<li>Instituições privadas de produção artística, portuguesas, sem fins lucrativos.</li>
+</ul>
+<p>São aceites candidaturas que envolvam várias entidades (em nome individual ou através de instituições de produção artística), devendo a candidatura ser submetida pela entidade promotora (individual ou instituição), a qual ficará responsável pelo projeto, respondendo à Fundação Gulbenkian pela boa execução do mesmo e pela apresentação do relatório final.</p>
+<p>No caso de haver outras instituições envolvidas no projeto, estas deverão ser identificadas como parceiras no formulário de candidatura.</p>
+<p>Uma Entidade Candidata (individual ou instituição) pode concorrer apenas com um projeto por ano no mesmo concurso.&nbsp;</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-os-documentos-obrigatorios-para-uma-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais os documentos obrigatórios para uma candidatura?				</h4>
+<ul class="list-format-bar">
+	<li>Documento com o orçamento detalhado do projeto (documento criado em Excel, convertido em PDF – pode ser utilizado o modelo de orçamento disponibilizado na página de candidatura);</li>
+	<li>Comprovativos dos apoios existentes ao projeto, logísticos e financeiros, convertidos num único documento em PDF (se aplicável);</li>
+	<li>Acesso a trabalhos anteriores considerados relevantes pela Entidade (nas Artes Visuais, o portfólio pode ser anexado aqui, caso não seja possível criar um link);</li>
+	<li>Outros elementos descritivos que a Entidade (artista autor ou organização privada sem fins lucrativos com a qual colaborem na execução do projeto) considere relevantes para a apreciação do projeto com base nos critérios previstos.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quais-sao-os-criterios-de-exclusao">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quais são os critérios de exclusão?				</h4>
+<ul class="list-format-bar">
+	<li>
+<p>Projetos de natureza comercial;</p>
+</li>
+	<li>
+<p>Projetos com caráter académico, escolar ou amador;</p>
+</li>
+	<li>
+<p>Projetos exclusivamente nos domínios da arquitetura, do design, da edição e da música;</p>
+</li>
+	<li>
+<p>Candidaturas de Entidades (artistas autores e/ou organizações privadas sem fins lucrativos) que se encontrem em situação de incumprimento injustificado perante a Fundação Gulbenkian, designadamente no que respeita à apresentação de relatórios de execução material e/ou financeira, ou devolução de saldos, ou que já beneficiem em simultâneo de outros apoios concedidos pela Fundação Gulbenkian.</p>
+</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="podem-candidatar-se-projetos-apoiados-por-outras-entidades">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Podem candidatar-se projetos apoiados por outras entidades?				</h4>
+<p>Projetos apoiados por outras entidades, públicas ou privadas, podem candidatar-se, desde que identifiquem as despesas apoiadas por cada uma das fontes de receita.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-possivel-candidatar-projetos-em-curso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É possível candidatar projetos em curso?				</h4>
+<p>Não estão excluídos projetos em curso, mas os pedidos devem reportar-se a ações do projeto ainda não realizadas.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-o-prazo-de-execucao-dos-projetos-apoiados">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual o prazo de execução dos projetos apoiados?				</h4>
+<p>Os projetos devem ser submetidos com pelo menos 30 dias de antecedência relativamente à data da sua concretização e devem ser concluídos no prazo de um ano após a data da submissão da candidatura.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-despesas-nao-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que despesas não são elegíveis?				</h4>
+<p>Poderão ser elegíveis todo o tipo de despesas diretamente relacionadas com o projeto de internacionalização, exceto:</p>
+<ul class="list-format-bar">
+	<li>Despesas com efeitos retroativos;</li>
+	<li>Itens do orçamento que já estejam cobertos por comparticipações de outra(s) entidade(s) financiadora(s);</li>
+	<li>Custos fixos e despesas correntes da atividade regular de produção artística ou do seu suporte, tais como honorários fixos, consumos de água, eletricidade, internet, entre outras;</li>
+	<li>Despesas com aluguer de equipamentos e/ou arrendamento de espaços de apresentação, montagens e desmontagens;</li>
+	<li>Despesas com honorários;</li>
+	<li>Despesas com a comunicação dos projetos;</li>
+	<li>Compra de materiais e equipamentos.</li>
+</ul>
+<p>As despesas não elegíveis não são fator de exclusão da candidatura, mas são fator de acerto no montante a atribuir.&nbsp;</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="qual-e-o-montante-maximo-de-financiamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Qual é o montante máximo de financiamento?				</h4>
+<p>O valor dos apoios a conceder será determinado pela Fundação Gulbenkian tendo como teto de referência 5.000 € e incide maioritariamente nas despesas de viagens, alojamento e refeições das Entidades Beneficiárias.</p>
+<h2 class="fcg-section__title" id="contactos">
+			<span>Contactos</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Caso subsistam dúvidas depois de ler as perguntas frequentes e o regulamento, poderá contactar a Fundação Calouste Gulbenkian através de <a href="/cdn-cgi/l/email-protection#4e3e292d3b223a3b3c2f602f3c3a2b3d0e293b222c2b2025272f20603e3a"><span class="__cf_email__" data-cfemail="80f0e7e3f5ecf4f5f2e1aee1f2f4e5f3c0e7f5ece2e5eeebe9e1eeaef0f4">[email&nbsp;protected]</span></a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Concerto Solistas da Orquestra Gulbenkian 12 out 2026 / 20:00]]></title>
