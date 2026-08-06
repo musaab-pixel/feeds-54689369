@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "56fc504522e20bec33264849f0a90382da663a90200e79fe22c3259e291106be",
+            "content_html": "هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أبلغت عن انفجارين أثناء عبور مضيق هرمز جنوب شرقي سلطنة عمان",
+            "url": "https://t.me/aljazeeraBrk/229702",
+            "title": "هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أبلغت عن انفجارين أثناء عبور…",
+            "summary": "هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أبلغت عن انفجارين أثناء عبور مضيق هرمز جنوب شرقي سلطنة عمان",
+            "date_modified": "2026-08-06T00:30:06.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "76744f2f8c1284a9d12828def42a02a0c8ff2fdd3e4f1d131b2f365f94c090bc",
+            "content_html": "هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادث على  بعد 9 أميال بحرية جنوب شرقي كمزار في عمان",
+            "url": "https://t.me/aljazeeraBrk/229701",
+            "title": "هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادث على بعد 9 أميال…",
+            "summary": "هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادث على  بعد 9 أميال بحرية جنوب شرقي كمزار في عمان",
+            "date_modified": "2026-08-06T00:28:05.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "a7ea60271501c202ac6adf02bc8a72af712bd620563d4698515927dba3b7c711",
             "content_html": "واشنطن بوست عن المتحدث باسم البنتاغون: مزاعم نفاد المخزونات والخلافات الداخلية وموقف هيغسيث من إيران محض خيال",
             "url": "https://t.me/aljazeeraBrk/229700",
@@ -1595,28 +1617,6 @@
             "title": "🛑#عاجل | ترامب: مضيق هرمز قد يفتح اليوم أو غدًا الخميس لمتابعة أحدث الأخبار…",
             "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | ترامب:</b> مضيق هرمز قد يفتح اليوم أو غدًا الخميس<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-08-05T07:43:08.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "c3301957d27c381654d99309a501aaba2fe88d96adea8a81e12eac619f3bb7d2",
-            "content_html": "ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس",
-            "url": "https://t.me/aljazeeraBrk/229590",
-            "title": "ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس",
-            "summary": "ترمب: مضيق هرمز قد يفتح اليوم أو غدا الخميس",
-            "date_modified": "2026-08-05T07:35:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "66962b0c19eb0e2d83a26271263350b8ecdd47b85ee3743a4611be1e19880080",
-            "content_html": "<b>الدفاع المدني:</b> وفاة 3 أشخاص وإصابة 21 آخرين جراء 18 حادث سير في عموم سوريا يوم أمس الثلاثاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139127",
-            "title": "الدفاع المدني: وفاة 3 أشخاص وإصابة 21 آخرين جراء 18 حادث سير في عموم سوريا يوم…",
-            "summary": "<b>الدفاع المدني:</b> وفاة 3 أشخاص وإصابة 21 آخرين جراء 18 حادث سير في عموم سوريا يوم أمس الثلاثاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-05T07:31:57.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
