@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 06 Aug 2026 05:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 06:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سموتريتش: تدمير البنية التحتية للإرهاب وبقاء الجيش الإسرائيلي في منطقة أمنية…]]></title>
+            <link>https://t.me/aljazeeraBrk/229722</link>
+            <guid isPermaLink="false">867dea3fbe45905458a0e0bcdbc60497a3970808482a921399f0b5a16d87ba00</guid>
+            <pubDate>Thu, 06 Aug 2026 06:12:04 GMT</pubDate>
+            <description><![CDATA[سموتريتش: تدمير البنية التحتية للإرهاب وبقاء الجيش الإسرائيلي في منطقة أمنية واسعة ضروري لأمن سكان الشمال]]></description>
+            <content:encoded><![CDATA[سموتريتش: تدمير البنية التحتية للإرهاب وبقاء الجيش الإسرائيلي في منطقة أمنية واسعة ضروري لأمن سكان الشمال]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجبهة الداخلية الإسرائيلية: صفارات الإنذار تدوي في مستوطنتين قرب رام الله بعد…]]></title>
             <link>https://t.me/aljazeeraBrk/229721</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 04 Aug 2026 06:20:02 GMT</pubDate>
             <description><![CDATA[حاكم مقاطعة موسكو: إصابة 10 أشخاص إثر هجوم بالمسيرات استهدف منطقة صناعية في مدينة تشيخوف بالمقاطعة]]></description>
             <content:encoded><![CDATA[حاكم مقاطعة موسكو: إصابة 10 أشخاص إثر هجوم بالمسيرات استهدف منطقة صناعية في مدينة تشيخوف بالمقاطعة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إذاعة الجيش الإسرائيلي: قيادة المنطقة الوسطى تؤكد عدم وجود ضرورة عملياتية…]]></title>
-            <link>https://t.me/aljazeeraBrk/229456</link>
-            <guid isPermaLink="false">fa635a499a01853176171ded52b6a023239359fb94bbfcb0e4fa982afe34f140</guid>
-            <pubDate>Tue, 04 Aug 2026 05:37:02 GMT</pubDate>
-            <description><![CDATA[إذاعة الجيش الإسرائيلي: قيادة المنطقة الوسطى تؤكد عدم وجود ضرورة عملياتية للسيطرة على مخيم آخر في الضفة]]></description>
-            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: قيادة المنطقة الوسطى تؤكد عدم وجود ضرورة عملياتية للسيطرة على مخيم آخر في الضفة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
