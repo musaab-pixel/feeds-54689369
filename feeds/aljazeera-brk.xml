@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 06 Aug 2026 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 06:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: قواتنا استهدفت سفينتين للشحن في البحر الأسود تحملان…]]></title>
+            <link>https://t.me/aljazeeraBrk/229723</link>
+            <guid isPermaLink="false">15438d8c1058b9e63d23399943442cf6adf7753961bf82053827b9017487f46a</guid>
+            <pubDate>Thu, 06 Aug 2026 06:38:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: قواتنا استهدفت سفينتين للشحن في البحر الأسود تحملان إمدادات عسكرية للقوات الأوكرانية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: قواتنا استهدفت سفينتين للشحن في البحر الأسود تحملان إمدادات عسكرية للقوات الأوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سموتريتش: تدمير البنية التحتية للإرهاب وبقاء الجيش الإسرائيلي في منطقة أمنية…]]></title>
             <link>https://t.me/aljazeeraBrk/229722</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 04 Aug 2026 06:45:02 GMT</pubDate>
             <description><![CDATA[سلطات مقاطعة سومي بأوكرانيا: 3 قتلى في قصف روسي استهدف مجمعا سكنيا في المدينة]]></description>
             <content:encoded><![CDATA[سلطات مقاطعة سومي بأوكرانيا: 3 قتلى في قصف روسي استهدف مجمعا سكنيا في المدينة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حاكم مقاطعة موسكو: إصابة 10 أشخاص إثر هجوم بالمسيرات استهدف منطقة صناعية في…]]></title>
-            <link>https://t.me/aljazeeraBrk/229457</link>
-            <guid isPermaLink="false">90781b8884eb6cff4c1c1ec7b76d033915615569223cfdebe1bce63e8e5e091b</guid>
-            <pubDate>Tue, 04 Aug 2026 06:20:02 GMT</pubDate>
-            <description><![CDATA[حاكم مقاطعة موسكو: إصابة 10 أشخاص إثر هجوم بالمسيرات استهدف منطقة صناعية في مدينة تشيخوف بالمقاطعة]]></description>
-            <content:encoded><![CDATA[حاكم مقاطعة موسكو: إصابة 10 أشخاص إثر هجوم بالمسيرات استهدف منطقة صناعية في مدينة تشيخوف بالمقاطعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
