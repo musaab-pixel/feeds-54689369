@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 06 Aug 2026 02:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 03:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></title>
+            <link>https://t.me/aljazeeraBrk/229710</link>
+            <guid isPermaLink="false">1c04841741ca3cbbbd65ddbdfc55a06712eb9925528094bef1e1699a86477064</guid>
+            <pubDate>Thu, 06 Aug 2026 03:07:05 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدثة باسم البيت الأبيض: الرئيس يكن كل التقدير لهيغسيث ويرى أنه يؤدي عملا…]]></title>
             <link>https://t.me/aljazeeraBrk/229709</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 03 Aug 2026 20:11:02 GMT</pubDate>
             <description><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تقوض تنفيذ المرحلة 2 خاصة بعد موافقة حماس والفصائل على خارطة الطريق]]></description>
             <content:encoded><![CDATA[بيان قطري مصري تركي: انتهاكات إسرائيل تقوض تنفيذ المرحلة 2 خاصة بعد موافقة حماس والفصائل على خارطة الطريق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان قطري مصري تركي: ندعو المجتمع الدولي للضغط على إسرائيل للالتزام باتفاق وقف…]]></title>
-            <link>https://t.me/aljazeeraBrk/229444</link>
-            <guid isPermaLink="false">91346f134e8bbdc606ca9dfde83fd31bb5cbd2428516e6abe59fc87175ee394e</guid>
-            <pubDate>Mon, 03 Aug 2026 20:09:02 GMT</pubDate>
-            <description><![CDATA[بيان قطري مصري تركي: ندعو المجتمع الدولي للضغط على إسرائيل للالتزام باتفاق وقف إطلاق النار]]></description>
-            <content:encoded><![CDATA[بيان قطري مصري تركي: ندعو المجتمع الدولي للضغط على إسرائيل للالتزام باتفاق وقف إطلاق النار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

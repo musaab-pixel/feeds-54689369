@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "1c04841741ca3cbbbd65ddbdfc55a06712eb9925528094bef1e1699a86477064",
+            "content_html": "الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان",
+            "url": "https://t.me/aljazeeraBrk/229710",
+            "title": "الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان",
+            "summary": "الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان",
+            "date_modified": "2026-08-06T03:07:05.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "3bdab621f219caf22c676a4cb5b2e29aa15f93bbef644e13e6af000f4812b14b",
             "content_html": "المتحدثة باسم البيت الأبيض: الرئيس يكن كل التقدير لهيغسيث ويرى أنه يؤدي عملا رائعا",
             "url": "https://t.me/aljazeeraBrk/229709",
@@ -1621,13 +1632,6 @@
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
-        },
-        {
-            "id": "c6f2dfbf825e22becb5b4292f655cbd899e67096d4f764d9f2b01ba52b9d6430",
-            "url": "https://actionpal.org.uk/post/128296",
-            "title": "الاختطاف&#8230; أزمة إنسانية تتفاقم وغياب لآليات الحماية",
-            "image": "https://actionpal.org.uk/wp-content/uploads/2026/08/99-1.jpeg",
-            "date_modified": "2026-08-05T08:30:21.831Z"
         }
     ]
 }
