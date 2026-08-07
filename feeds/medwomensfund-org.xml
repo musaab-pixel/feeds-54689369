@@ -4,10 +4,16 @@
         <title>medwomensfund.org</title>
         <link>https://www.medwomensfund.org/</link>
         <description>RSS Factory feed "medwomensfund.org" (type: website)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 08:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[SEE BEYOND (ouvert)]]></title>
+            <link>https://www.medwomensfund.org/appel-projets-cerv/see-beyond.html</link>
+            <guid isPermaLink="false">0ea65af113341dc9d63e0c9ca289c7a23fa303021849884dff6fea41877d666f</guid>
+            <pubDate>Fri, 07 Aug 2026 09:05:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Notre Vision]]></title>
             <link>https://www.medwomensfund.org/nous-connaitre/notre-vision.html</link>

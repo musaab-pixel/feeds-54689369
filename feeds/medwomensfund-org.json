@@ -5,6 +5,12 @@
     "description": "RSS Factory feed \"medwomensfund.org\" (type: website)",
     "items": [
         {
+            "id": "0ea65af113341dc9d63e0c9ca289c7a23fa303021849884dff6fea41877d666f",
+            "url": "https://www.medwomensfund.org/appel-projets-cerv/see-beyond.html",
+            "title": "SEE BEYOND (ouvert)",
+            "date_modified": "2026-08-07T09:05:50.020Z"
+        },
+        {
             "id": "f1c9e43269439d204105e826b9f3a0437c5a3c32e375e1bc33786ec93dc8a262",
             "url": "https://www.medwomensfund.org/nous-connaitre/notre-vision.html",
             "title": "Notre Vision",
