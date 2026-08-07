@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 09:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 10:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ارتفاع أسعار الذهب والأونصة تسجل 4,300 دولار والفضة 65 دولارا]]></title>
+            <link>https://t.me/aljazeeraBrk/229840</link>
+            <guid isPermaLink="false">b6cb37e5bccf61ff1f001438c52929e89c2b4a77d6245a3560c0aa2906c47283</guid>
+            <pubDate>Fri, 07 Aug 2026 10:20:02 GMT</pubDate>
+            <description><![CDATA[ارتفاع أسعار الذهب والأونصة تسجل 4,300 دولار والفضة 65 دولارا]]></description>
+            <content:encoded><![CDATA[ارتفاع أسعار الذهب والأونصة تسجل 4,300 دولار والفضة 65 دولارا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الاتحاد الأوروبي: عقوبات على 5 شخصيات روسية مرتبطة بالمجمع العسكري ردا على…]]></title>
             <link>https://t.me/aljazeeraBrk/229839</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 03:21:03 GMT</pubDate>
             <description><![CDATA[ترمب: إيران لا تريد الاعتراف بإجراء المحادثات]]></description>
             <content:encoded><![CDATA[ترمب: إيران لا تريد الاعتراف بإجراء المحادثات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: إيران تريد التوصل لاتفاق وسنرى ما سيحدث]]></title>
-            <link>https://t.me/aljazeeraBrk/229569</link>
-            <guid isPermaLink="false">5526259a921622c6dc54b135792bc11f5f7fb480852c5cc93fcf8d401a5ac0a8</guid>
-            <pubDate>Wed, 05 Aug 2026 03:21:03 GMT</pubDate>
-            <description><![CDATA[ترمب: إيران تريد التوصل لاتفاق وسنرى ما سيحدث]]></description>
-            <content:encoded><![CDATA[ترمب: إيران تريد التوصل لاتفاق وسنرى ما سيحدث]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
