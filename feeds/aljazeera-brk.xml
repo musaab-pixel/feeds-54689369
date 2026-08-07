@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 08:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 08:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: دوي انفجار كبير في موسكو وضواحيها]]></title>
+            <link>https://t.me/aljazeeraBrk/229837</link>
+            <guid isPermaLink="false">2aca788a47dadc9cabe41440cb82735607a4ddc66c255e0bf43203871458db5b</guid>
+            <pubDate>Fri, 07 Aug 2026 08:46:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: دوي انفجار كبير في موسكو وضواحيها]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجار كبير في موسكو وضواحيها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع الروسية: هجوم بمسيرة وصاروخ إسكندر استهدف قطارا لمعدات عسكرية أوكرانية…]]></title>
             <link>https://t.me/aljazeeraBrk/229836</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 03:20:03 GMT</pubDate>
             <description><![CDATA[ترمب: كنا سنشن أكبر هجوم على إيران منذ الحرب العالمية الثانية لكنها طلبت إجراء المحادثات]]></description>
             <content:encoded><![CDATA[ترمب: كنا سنشن أكبر هجوم على إيران منذ الحرب العالمية الثانية لكنها طلبت إجراء المحادثات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: مضيق هرمز سيفتح قريبا وإلا ستتعرض إيران لضربة قوية]]></title>
-            <link>https://t.me/aljazeeraBrk/229565</link>
-            <guid isPermaLink="false">758e66229af99d4589fcbef6a293f94d8a85f8588d616bca2389b8926dc934d6</guid>
-            <pubDate>Wed, 05 Aug 2026 03:20:02 GMT</pubDate>
-            <description><![CDATA[ترمب: مضيق هرمز سيفتح قريبا وإلا ستتعرض إيران لضربة قوية]]></description>
-            <content:encoded><![CDATA[ترمب: مضيق هرمز سيفتح قريبا وإلا ستتعرض إيران لضربة قوية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
