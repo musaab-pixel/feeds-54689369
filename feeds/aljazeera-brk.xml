@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 11:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 11:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد…]]></title>
+            <link>https://t.me/aljazeeraBrk/229853</link>
+            <guid isPermaLink="false">97a3ebc36f492d967d8f0dc8f64a41a4dd3f3e2283d6a03c6888ef9b6318a3cf</guid>
+            <pubDate>Fri, 07 Aug 2026 11:08:02 GMT</pubDate>
+            <description><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد هجوما عليها جميعا]]></description>
+            <content:encoded><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد هجوما عليها جميعا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية وقع عليها ولي العهد السعودي ورئيس تركيا…]]></title>
             <link>https://t.me/aljazeeraBrk/229852</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 06:04:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: دمرنا أنفاقا لحزب الله تمتد عشرات الأمتار في منطقة صربين جنوبي لبنان]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: دمرنا أنفاقا لحزب الله تمتد عشرات الأمتار في منطقة صربين جنوبي لبنان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تعتقل عددا من الفلسطينيين خلال عملية عسكرية…]]></title>
-            <link>https://t.me/aljazeeraBrk/229581</link>
-            <guid isPermaLink="false">19bd6c6c3bec3e0940106c82218129e6ea978396beef500a62ff8172fc16b002</guid>
-            <pubDate>Wed, 05 Aug 2026 06:03:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تعتقل عددا من الفلسطينيين خلال عملية عسكرية متواصلة بمخيم قلنديا شمال القدس]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تعتقل عددا من الفلسطينيين خلال عملية عسكرية متواصلة بمخيم قلنديا شمال القدس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
