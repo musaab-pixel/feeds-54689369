@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 07:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 08:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام يمنية: انفجار صاروخ في أجواء محافظة مأرب]]></title>
+            <link>https://t.me/aljazeeraBrk/229835</link>
+            <guid isPermaLink="false">6a0d1b2edc59213249860ca154a11a25645c5c7fc94b48d5ce019b45015883cc</guid>
+            <pubDate>Fri, 07 Aug 2026 07:53:03 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام يمنية: انفجار صاروخ في أجواء محافظة مأرب]]></description>
+            <content:encoded><![CDATA[وسائل إعلام يمنية: انفجار صاروخ في أجواء محافظة مأرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام يمنية عن مصدر عسكري: الدفاعات الجوية للقوات الحكومية تسقط مسيرات…]]></title>
             <link>https://t.me/aljazeeraBrk/229834</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 03:19:02 GMT</pubDate>
             <description><![CDATA[ترمب: نجري محادثات جيدة للغاية ونأمل ألا نوجه لإيران ضربة قوية]]></description>
             <content:encoded><![CDATA[ترمب: نجري محادثات جيدة للغاية ونأمل ألا نوجه لإيران ضربة قوية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مصادر: عراقجي وافق مبدئيا على الاتفاق الذي يحتاج موافقة المرشد الأعلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/229563</link>
-            <guid isPermaLink="false">f9b883609d69ab4ccdb6dc7a5f31ce25bde500fab4802d4f959f55fdee4e7a95</guid>
-            <pubDate>Wed, 05 Aug 2026 02:29:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مصادر: عراقجي وافق مبدئيا على الاتفاق الذي يحتاج موافقة المرشد الأعلى ومجلس الأمن القومي]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مصادر: عراقجي وافق مبدئيا على الاتفاق الذي يحتاج موافقة المرشد الأعلى ومجلس الأمن القومي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
