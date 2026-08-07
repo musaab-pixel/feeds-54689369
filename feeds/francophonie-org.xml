@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 05 Aug 2026 17:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Togo : Campagne nationale de rattrapage, 7400 personnes obtiennent un acte de naissance]]></title>
+            <link>https://www.francophonie.org/togo-campagne-rattrapage-7400-personnes-obtiennent-un-acte-de-naissance-8624</link>
+            <guid isPermaLink="false">b92c77d36285edec90605c238d6e2e3b8d92823c95aa95a576a3b5cd12993f0a</guid>
+            <pubDate>Thu, 06 Aug 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Togo : Campagne nationale de rattrapage, 7400 personnes obtiennent un acte de naissance</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-08-06T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 06/08/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Togo : Campagne nationale de rattrapage, 7400 personnes obtiennent un acte de naissance</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-08-06T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 06/08/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[L’OIF forme 30 jeunes diplomates à Montevideo]]></title>
             <link>https://www.francophonie.org/loif-forme-30-jeunes-diplomates-a-montevideo-8623</link>
@@ -33,6 +48,21 @@
 <span property="schema:dateCreated" content="2026-08-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 04/08/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Madagascar : l'OIF soutient l'engagement des femmes et des jeunes dans le processus de refondation</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-08-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 04/08/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Journée africaine de l’état civil 2026 : l’OIF engagée pour une identité juridique au service des droits et du développement]]></title>
+            <link>https://www.francophonie.org/journee-africaine-de-l-etat-civil-2026-8622</link>
+            <guid isPermaLink="false">54e8c41d78cd7bb373923507d9f6a61e20052550a9696d6eb6079eac0ad2927f</guid>
+            <pubDate>Tue, 04 Aug 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Journée africaine de l’état civil 2026 : l’OIF engagée pour une identité juridique au service des droits et du développement</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-08-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 04/08/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Journée africaine de l’état civil 2026 : l’OIF engagée pour une identité juridique au service des droits et du développement</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-08-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 04/08/2026 - 15:43</span>
 ]]></content:encoded>

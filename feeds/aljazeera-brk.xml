@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 08:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229838</link>
+            <guid isPermaLink="false">e433ae0c9be3212bbfb952f2e75d862f843eef2783a4df361b1201275f118038</guid>
+            <pubDate>Fri, 07 Aug 2026 09:22:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة المنصوري جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة المنصوري جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: دوي انفجار كبير في موسكو وضواحيها]]></title>
             <link>https://t.me/aljazeeraBrk/229837</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 03:21:02 GMT</pubDate>
             <description><![CDATA[ترمب: إيران ستتعرض لضربة قوية إذا تراجعت وهي تدرك ذلك]]></description>
             <content:encoded><![CDATA[ترمب: إيران ستتعرض لضربة قوية إذا تراجعت وهي تدرك ذلك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: كنا سنشن أكبر هجوم على إيران منذ الحرب العالمية الثانية لكنها طلبت إجراء…]]></title>
-            <link>https://t.me/aljazeeraBrk/229566</link>
-            <guid isPermaLink="false">b292c88bb3e5142b8b49f5f1cbaba0d58d1a835c3b03eceeecac19c38c05e3a7</guid>
-            <pubDate>Wed, 05 Aug 2026 03:20:03 GMT</pubDate>
-            <description><![CDATA[ترمب: كنا سنشن أكبر هجوم على إيران منذ الحرب العالمية الثانية لكنها طلبت إجراء المحادثات]]></description>
-            <content:encoded><![CDATA[ترمب: كنا سنشن أكبر هجوم على إيران منذ الحرب العالمية الثانية لكنها طلبت إجراء المحادثات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

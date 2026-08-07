@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229838</link>
+            <guid isPermaLink="false">e433ae0c9be3212bbfb952f2e75d862f843eef2783a4df361b1201275f118038</guid>
+            <pubDate>Fri, 07 Aug 2026 09:22:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة المنصوري جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة المنصوري جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[فعالية في دمشق تؤكد أهمية الشراكة مع المجتمع المدني في مسار العدالة الانتقالية]]></title>
             <link>https://actionpal.org.uk/post/999129153</link>
@@ -1698,15 +1707,6 @@
             <pubDate>Thu, 06 Aug 2026 03:09:02 GMT</pubDate>
             <description><![CDATA[القناة 14 الإسرائيلية: مقتل جنديين وإصابة 4 أحدهم في حالة خطرة إثر انفجار عبوة ناسفة داخل مبنى في جنوب لبنان]]></description>
             <content:encoded><![CDATA[القناة 14 الإسرائيلية: مقتل جنديين وإصابة 4 أحدهم في حالة خطرة إثر انفجار عبوة ناسفة داخل مبنى في جنوب لبنان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></title>
-            <link>https://t.me/aljazeeraBrk/229710</link>
-            <guid isPermaLink="false">1c04841741ca3cbbbd65ddbdfc55a06712eb9925528094bef1e1699a86477064</guid>
-            <pubDate>Thu, 06 Aug 2026 03:07:05 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: مقتل جنديين في معارك بجنوب لبنان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
