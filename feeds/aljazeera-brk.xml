@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 09:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 09:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الاتحاد الأوروبي: عقوبات على 5 شخصيات روسية مرتبطة بالمجمع العسكري ردا على…]]></title>
+            <link>https://t.me/aljazeeraBrk/229839</link>
+            <guid isPermaLink="false">0ff01e51f597d13d3ffdc5a20e6a7fbb2b07dedb19c17fe1cf1e968d3a6fec4d</guid>
+            <pubDate>Fri, 07 Aug 2026 09:40:03 GMT</pubDate>
+            <description><![CDATA[الاتحاد الأوروبي: عقوبات على 5 شخصيات روسية مرتبطة بالمجمع العسكري ردا على تصاعد الهجمات ضد المدنيين بأوكرانيا]]></description>
+            <content:encoded><![CDATA[الاتحاد الأوروبي: عقوبات على 5 شخصيات روسية مرتبطة بالمجمع العسكري ردا على تصاعد الهجمات ضد المدنيين بأوكرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش اللبناني: إصابة عسكري نتيجة استهداف إسرائيلي لجرافة تابعة لنا في بلدة…]]></title>
             <link>https://t.me/aljazeeraBrk/229838</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 03:21:03 GMT</pubDate>
             <description><![CDATA[ترمب: إيران تريد التوصل لاتفاق وسنرى ما سيحدث]]></description>
             <content:encoded><![CDATA[ترمب: إيران تريد التوصل لاتفاق وسنرى ما سيحدث]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: إيران ستتعرض لضربة قوية إذا تراجعت وهي تدرك ذلك]]></title>
-            <link>https://t.me/aljazeeraBrk/229567</link>
-            <guid isPermaLink="false">269d054cd8da82b401e700299f147549875867e1958bd2553b5d710d9425e650</guid>
-            <pubDate>Wed, 05 Aug 2026 03:21:02 GMT</pubDate>
-            <description><![CDATA[ترمب: إيران ستتعرض لضربة قوية إذا تراجعت وهي تدرك ذلك]]></description>
-            <content:encoded><![CDATA[ترمب: إيران ستتعرض لضربة قوية إذا تراجعت وهي تدرك ذلك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
