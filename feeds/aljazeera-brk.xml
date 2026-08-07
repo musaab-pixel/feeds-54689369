@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 08:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 08:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع الروسية: هجوم بمسيرة وصاروخ إسكندر استهدف قطارا لمعدات عسكرية أوكرانية…]]></title>
+            <link>https://t.me/aljazeeraBrk/229836</link>
+            <guid isPermaLink="false">49470a67aefab373c46a065586588ccaeabdef83689aae0557731aeac638bea0</guid>
+            <pubDate>Fri, 07 Aug 2026 08:30:02 GMT</pubDate>
+            <description><![CDATA[الدفاع الروسية: هجوم بمسيرة وصاروخ إسكندر استهدف قطارا لمعدات عسكرية أوكرانية في مقاطعة دنيبروبتروفسك]]></description>
+            <content:encoded><![CDATA[الدفاع الروسية: هجوم بمسيرة وصاروخ إسكندر استهدف قطارا لمعدات عسكرية أوكرانية في مقاطعة دنيبروبتروفسك]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام يمنية: انفجار صاروخ في أجواء محافظة مأرب]]></title>
             <link>https://t.me/aljazeeraBrk/229835</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 03:20:02 GMT</pubDate>
             <description><![CDATA[ترمب: مضيق هرمز سيفتح قريبا وإلا ستتعرض إيران لضربة قوية]]></description>
             <content:encoded><![CDATA[ترمب: مضيق هرمز سيفتح قريبا وإلا ستتعرض إيران لضربة قوية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: نجري محادثات جيدة للغاية ونأمل ألا نوجه لإيران ضربة قوية]]></title>
-            <link>https://t.me/aljazeeraBrk/229564</link>
-            <guid isPermaLink="false">932f4e04c33441137ffb17f50631c7db0e506bd03e66706df2fbd22deca35de2</guid>
-            <pubDate>Wed, 05 Aug 2026 03:19:02 GMT</pubDate>
-            <description><![CDATA[ترمب: نجري محادثات جيدة للغاية ونأمل ألا نوجه لإيران ضربة قوية]]></description>
-            <content:encoded><![CDATA[ترمب: نجري محادثات جيدة للغاية ونأمل ألا نوجه لإيران ضربة قوية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
