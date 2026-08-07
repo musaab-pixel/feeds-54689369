@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "693c3bc1f43d9fb83a1ab9b650dff80cd5cc50b2deedea07e0849d14a2b18121",
+            "content_html": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
+            "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+            "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-10-2025-UNICEF-Gaza-07.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-06T12:00:00.000Z"
+        },
+        {
             "id": "471495b6c616ef43d75e68a952c9df91eefb2404db559300a4da7c6448d997d4",
             "content_html": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
             "url": "https://news.un.org/feed/view/en/story/2026/08/1168081",
