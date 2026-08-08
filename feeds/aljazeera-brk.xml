@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 10:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 10:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة أنباء الإمارات: تعرض سفينة تابعة لشركة أدنوك للاستهداف بصاروخ أثناء…]]></title>
+            <link>https://t.me/aljazeeraBrk/229956</link>
+            <guid isPermaLink="false">ee3b10e24a8a5aeb42bbb39cd3fec14fea52d9711db0fbec26d47e1b2ef41918</guid>
+            <pubDate>Sat, 08 Aug 2026 10:29:02 GMT</pubDate>
+            <description><![CDATA[وكالة أنباء الإمارات: تعرض سفينة تابعة لشركة أدنوك للاستهداف بصاروخ أثناء عبورها مضيق هرمز  اليوم]]></description>
+            <content:encoded><![CDATA[وكالة أنباء الإمارات: تعرض سفينة تابعة لشركة أدنوك للاستهداف بصاروخ أثناء عبورها مضيق هرمز  اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم الحرس الثوري: إعادة فتح مضيق هرمز مرهونة بموافقة واشنطن على شروطنا…]]></title>
             <link>https://t.me/aljazeeraBrk/229954</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 20:06:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإيراني: التواصل حاليا مع المرشد الأعلى صعب جدا لكن وجوده يمثل نقطة قوة كبيرة جدا بالنسبة لنا]]></description>
             <content:encoded><![CDATA[الرئيس الإيراني: التواصل حاليا مع المرشد الأعلى صعب جدا لكن وجوده يمثل نقطة قوة كبيرة جدا بالنسبة لنا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: إصابة 3 فلسطينيين في هجوم للمستوطنين في بلدة بيت فوريك شرق نابلس]]></title>
-            <link>https://t.me/aljazeeraBrk/229672</link>
-            <guid isPermaLink="false">d09d30f92bf46d510dde7fd421d0c86a38cdeabf5874f859e954dd9f4f4c3e36</guid>
-            <pubDate>Wed, 05 Aug 2026 19:58:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: إصابة 3 فلسطينيين في هجوم للمستوطنين في بلدة بيت فوريك شرق نابلس]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: إصابة 3 فلسطينيين في هجوم للمستوطنين في بلدة بيت فوريك شرق نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
