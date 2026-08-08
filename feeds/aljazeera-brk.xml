@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 18:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 19:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القيادة المركزية الأمريكية: سمحنا بمرور نحو ٣٠ سفينة عبر منطقة الحصار على إيران…]]></title>
+            <link>https://t.me/aljazeeraBrk/230037</link>
+            <guid isPermaLink="false">5ec8d0c5f24bcc19aa232a7845b63d8832558f5e432e91be4c948e561052f2cd</guid>
+            <pubDate>Sat, 08 Aug 2026 18:59:02 GMT</pubDate>
+            <description><![CDATA[القيادة المركزية الأمريكية: سمحنا بمرور نحو ٣٠ سفينة عبر منطقة الحصار على إيران لنقل المساعدات الإنسانية]]></description>
+            <content:encoded><![CDATA[القيادة المركزية الأمريكية: سمحنا بمرور نحو ٣٠ سفينة عبر منطقة الحصار على إيران لنقل المساعدات الإنسانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 53 سفينة تجارية منذ استئناف الحصار…]]></title>
             <link>https://t.me/aljazeeraBrk/230036</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 06 Aug 2026 10:09:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية التركي: على إسرائيل الانسحاب من قطاع غزة لكنها ما زالت تعرقل تنفيذ خطة السلام]]></description>
             <content:encoded><![CDATA[وزير الخارجية التركي: على إسرائيل الانسحاب من قطاع غزة لكنها ما زالت تعرقل تنفيذ خطة السلام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية السوري: نجدد دعوتنا للعودة إلى اتفاقية 1974 وندعو الدول الصديقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/229753</link>
-            <guid isPermaLink="false">8362992aeff91a7939954dcfc1e9c49b26604c94618d46b45c20f1ae876a616a</guid>
-            <pubDate>Thu, 06 Aug 2026 10:06:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية السوري: نجدد دعوتنا للعودة إلى اتفاقية 1974 وندعو الدول الصديقة والمجتمع الدولي لتحمل مسؤولياتهم]]></description>
-            <content:encoded><![CDATA[وزير الخارجية السوري: نجدد دعوتنا للعودة إلى اتفاقية 1974 وندعو الدول الصديقة والمجتمع الدولي لتحمل مسؤولياتهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
