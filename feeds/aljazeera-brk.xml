@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 17:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 18:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نيويورك تايمز عن مسؤولين أمريكيين: سحب ذخائر مخصصة لآسيا وأوروبا في ظل استنزاف…]]></title>
+            <link>https://t.me/aljazeeraBrk/230029</link>
+            <guid isPermaLink="false">3c86c7fccfbf8475062c9cbb0fd0011aef5752bb45cc22e3feed9c4cb50696f6</guid>
+            <pubDate>Sat, 08 Aug 2026 17:57:02 GMT</pubDate>
+            <description><![CDATA[نيويورك تايمز عن مسؤولين أمريكيين: سحب ذخائر مخصصة لآسيا وأوروبا في ظل استنزاف مقلق للمخزونات بسبب حرب إيران]]></description>
+            <content:encoded><![CDATA[نيويورك تايمز عن مسؤولين أمريكيين: سحب ذخائر مخصصة لآسيا وأوروبا في ظل استنزاف مقلق للمخزونات بسبب حرب إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الخارجية التركي: مصر قد تنضم إلى اتفاقية الدفاع المشترك بمجرد تسوية بعض…]]></title>
             <link>https://t.me/aljazeeraBrk/230028</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 06 Aug 2026 09:52:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية التركي: نؤكد على التعاون في مجال الدفاع ومكافحة الإرهاب مع سوريا]]></description>
             <content:encoded><![CDATA[وزير الخارجية التركي: نؤكد على التعاون في مجال الدفاع ومكافحة الإرهاب مع سوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية التركي: سوريا أصبحت أكثر استقرارا ونعمل على تطوير العلاقات معها…]]></title>
-            <link>https://t.me/aljazeeraBrk/229746</link>
-            <guid isPermaLink="false">400982633fa1bb2f143062bb4bdd7232a45a62f31c82941bbfc2c254b1a715d0</guid>
-            <pubDate>Thu, 06 Aug 2026 09:52:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية التركي: سوريا أصبحت أكثر استقرارا ونعمل على تطوير العلاقات معها على مختلف المستويات]]></description>
-            <content:encoded><![CDATA[وزير الخارجية التركي: سوريا أصبحت أكثر استقرارا ونعمل على تطوير العلاقات معها على مختلف المستويات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
