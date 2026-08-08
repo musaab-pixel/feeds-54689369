@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Fri, 07 Aug 2026 07:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 08:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -474,6 +474,79 @@
 <h3 class="fcg-card__title">
 				Award ceremony for the Salavisa European Dance Award 2026			</h3>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/dzuza-card-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conference / Dance Award ceremony for the Salavisa European Dance Award 2026 17 Nov 2026 / 20:30]]></title>
+            <link>https://gulbenkian.pt/en/agenda/award-ceremony-for-the-salavisa-european-dance-award-2026/</link>
+            <guid isPermaLink="false">abd4899c472e2705afb5820679206123ceda8565b3adff83d9fc4a6d253b5df7</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								20:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								20:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Tuesday, 20:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<p>Calouste Gulbenkian Foundation</p>
+<h4 class="assist">Pricing</h4>
+<p>Two years after the first edition of the <a href="https://gulbenkian.pt/fundacao/premios/salavisa-european-dance-award/">Salavisa European Dance Award (SEDA)</a>, the prize is now attributed to one of the new finalists, among whom are Chiara Bersani (Italy), Dan Daw (Australia), Jefta van Dinther (Netherlands/Sweden), Lukas Avendaño (Mexico) and Mamela Nyamza (South Africa).</p>
+<p>Selected by three independent specialists – llgaz Gurur Ertem, La Ribot and <span class="NormalTextRun SpellingErrorV2Themed SCXW57185496 BCX0">River</span><span class="NormalTextRun SCXW57185496 BCX0">&nbsp;</span><span class="NormalTextRun SpellingErrorV2Themed SCXW57185496 BCX0">Lin </span>–, the winner will be awarded 150 thousand euros and the opportunity to present their work at the Calouste Gulbenkian Foundation and on the stages of the partner institutions: Dansehallerne (Denmark), Fondazione Fabbrica Europa per le arti contemporanee ETS (Italy), Joint Adventures (Germany), KVS (Belgium), Maison de la Danse/Biennale de La Danse (France), Mercat de les Flors (Spain), Sadler’s Wells (United Kingdom) and Tanzquartier Wien (Austria).</p>
+<p class="tw-font-sans">The ceremony is preceded by the performance <a href="https://gulbenkian.pt/agenda/dzudza-de-idio-chichava" target="_blank" rel="noopener"><em>Dzudza</em>, by Idio Chichava</a>, winner of the first edition of the SEDA, along with <a href="https://gulbenkian.pt/agenda/dorothee-munyaneza/" target="_blank" rel="noopener">Dorothée Munyaneza</a>. The show is part of the <a href="https://alkantara.pt/festival/" target="_blank" rel="noopener">Alkantara Festival 2026</a> (tickets available on the page of the event).</p>
+<h3 class="fcg-sponsors__title">Partners</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								20:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								20:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Tuesday, 20:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<p>Calouste Gulbenkian Foundation</p>
+<h4 class="assist">Pricing</h4>
+<p>Two years after the first edition of the <a href="https://gulbenkian.pt/fundacao/premios/salavisa-european-dance-award/">Salavisa European Dance Award (SEDA)</a>, the prize is now attributed to one of the new finalists, among whom are Chiara Bersani (Italy), Dan Daw (Australia), Jefta van Dinther (Netherlands/Sweden), Lukas Avendaño (Mexico) and Mamela Nyamza (South Africa).</p>
+<p>Selected by three independent specialists – llgaz Gurur Ertem, La Ribot and <span class="NormalTextRun SpellingErrorV2Themed SCXW57185496 BCX0">River</span><span class="NormalTextRun SCXW57185496 BCX0">&nbsp;</span><span class="NormalTextRun SpellingErrorV2Themed SCXW57185496 BCX0">Lin </span>–, the winner will be awarded 150 thousand euros and the opportunity to present their work at the Calouste Gulbenkian Foundation and on the stages of the partner institutions: Dansehallerne (Denmark), Fondazione Fabbrica Europa per le arti contemporanee ETS (Italy), Joint Adventures (Germany), KVS (Belgium), Maison de la Danse/Biennale de La Danse (France), Mercat de les Flors (Spain), Sadler’s Wells (United Kingdom) and Tanzquartier Wien (Austria).</p>
+<p class="tw-font-sans">The ceremony is preceded by the performance <a href="https://gulbenkian.pt/agenda/dzudza-de-idio-chichava" target="_blank" rel="noopener"><em>Dzudza</em>, by Idio Chichava</a>, winner of the first edition of the SEDA, along with <a href="https://gulbenkian.pt/agenda/dorothee-munyaneza/" target="_blank" rel="noopener">Dorothée Munyaneza</a>. The show is part of the <a href="https://alkantara.pt/festival/" target="_blank" rel="noopener">Alkantara Festival 2026</a> (tickets available on the page of the event).</p>
+<h3 class="fcg-sponsors__title">Partners</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2024/10/FCG-Salavisa-Web-1200x900-2-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dance Shikama, by Dorothée Munyaneza 14 Nov 2026 / 19:00]]></title>
