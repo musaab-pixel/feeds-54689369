@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 16:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 16:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ.ف.ب: الخارجية البلغارية تستدعي سفيرة أوكرانيا إثر انفجار مسيرة في أراضيها]]></title>
+            <link>https://t.me/aljazeeraBrk/230021</link>
+            <guid isPermaLink="false">5259947e3b6afa8b52d42087c8176fd91e0a8d87b4210bec814c37ff7ab6cc90</guid>
+            <pubDate>Sat, 08 Aug 2026 16:47:02 GMT</pubDate>
+            <description><![CDATA[أ.ف.ب: الخارجية البلغارية تستدعي سفيرة أوكرانيا إثر انفجار مسيرة في أراضيها]]></description>
+            <content:encoded><![CDATA[أ.ف.ب: الخارجية البلغارية تستدعي سفيرة أوكرانيا إثر انفجار مسيرة في أراضيها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني برصاص قوات الاحتلال شرقي مدينة دير البلح…]]></title>
             <link>https://t.me/aljazeeraBrk/230020</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 06 Aug 2026 08:52:02 GMT</pubDate>
             <description><![CDATA[هيومن رايتس ووتش: استمرار إسرائيل بقتل الصحفيين يعكس استعدادا لارتكاب انتهاكات جسيمة دون خشية من المساءلة]]></description>
             <content:encoded><![CDATA[هيومن رايتس ووتش: استمرار إسرائيل بقتل الصحفيين يعكس استعدادا لارتكاب انتهاكات جسيمة دون خشية من المساءلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[العفو الدولية: الهجوم الإسرائيلي على الصحفيتين آمال خليل وزينب فرج يستوجب…]]></title>
-            <link>https://t.me/aljazeeraBrk/229737</link>
-            <guid isPermaLink="false">372a3257bd0423d74ec80ba3ab7fd066130eec4466740778405b7b1005644941</guid>
-            <pubDate>Thu, 06 Aug 2026 08:51:02 GMT</pubDate>
-            <description><![CDATA[العفو الدولية: الهجوم الإسرائيلي على الصحفيتين آمال خليل وزينب فرج يستوجب تحقيقا مستقلا باعتباره جريمة حرب]]></description>
-            <content:encoded><![CDATA[العفو الدولية: الهجوم الإسرائيلي على الصحفيتين آمال خليل وزينب فرج يستوجب تحقيقا مستقلا باعتباره جريمة حرب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
