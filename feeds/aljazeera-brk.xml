@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 09:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 09:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة ريا نوفوستي عن الدفاع الروسية: قواتنا سيطرت على منطقة إيفانيفكا في مقاطعة…]]></title>
+            <link>https://t.me/aljazeeraBrk/229945</link>
+            <guid isPermaLink="false">1fff91ff1d0d0bae34f695d036eb6dbb35d411dcaeb827d49f88771d7cac7e2b</guid>
+            <pubDate>Sat, 08 Aug 2026 09:11:02 GMT</pubDate>
+            <description><![CDATA[وكالة ريا نوفوستي عن الدفاع الروسية: قواتنا سيطرت على منطقة إيفانيفكا في مقاطعة خاركيف]]></description>
+            <content:encoded><![CDATA[وكالة ريا نوفوستي عن الدفاع الروسية: قواتنا سيطرت على منطقة إيفانيفكا في مقاطعة خاركيف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مستشار المرشد الإيراني علي أكبر ولايتي: دول المنطقة قادرة على ضمان أمنها بنفسها…]]></title>
             <link>https://t.me/aljazeeraBrk/229944</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 05 Aug 2026 17:46:02 GMT</pubDate>
             <description><![CDATA[نائب وزير خارجية إيران: باكستان دعت وزير الخارجية ورئيس البرلمان لزيارتها لكن الترتيبات النهائية لم تستكمل بعد]]></description>
             <content:encoded><![CDATA[نائب وزير خارجية إيران: باكستان دعت وزير الخارجية ورئيس البرلمان لزيارتها لكن الترتيبات النهائية لم تستكمل بعد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نائب وزير الخارجية الإيراني: تلقينا رسائل من الولايات المتحدة تفيد باستعدادها…]]></title>
-            <link>https://t.me/aljazeeraBrk/229661</link>
-            <guid isPermaLink="false">2c0a16b4fcaa23a1c02283c5f3c5f243e0dd37213afb8757ab8874667749ba89</guid>
-            <pubDate>Wed, 05 Aug 2026 17:44:02 GMT</pubDate>
-            <description><![CDATA[نائب وزير الخارجية الإيراني: تلقينا رسائل من الولايات المتحدة تفيد باستعدادها للعودة إلى التزاماتها]]></description>
-            <content:encoded><![CDATA[نائب وزير الخارجية الإيراني: تلقينا رسائل من الولايات المتحدة تفيد باستعدادها للعودة إلى التزاماتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
