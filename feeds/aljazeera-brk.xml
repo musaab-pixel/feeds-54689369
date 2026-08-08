@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 15:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 15:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يطلقون الرصاص الحي خلال هجومهم على أطراف قرية أبو فلاح…]]></title>
+            <link>https://t.me/aljazeeraBrk/230018</link>
+            <guid isPermaLink="false">4c398914d7cff15e131891f42e17531eddc123d03df33caaa13d40680f9fe257</guid>
+            <pubDate>Sat, 08 Aug 2026 15:51:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يطلقون الرصاص الحي خلال هجومهم على أطراف قرية أبو فلاح بقضاء رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يطلقون الرصاص الحي خلال هجومهم على أطراف قرية أبو فلاح بقضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش اللبناني: إصابة 3 عسكريين أثناء تفكيك ذخائر غير منفجرة في بلدة زوطر…]]></title>
             <link>https://t.me/aljazeeraBrk/230017</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 06 Aug 2026 08:50:02 GMT</pubDate>
             <description><![CDATA[هيئة الإذاعة اليابانية: الصاروخ الكوري الشمالي سقط خارج المنطقة الاقتصادية الخالصة لليابان]]></description>
             <content:encoded><![CDATA[هيئة الإذاعة اليابانية: الصاروخ الكوري الشمالي سقط خارج المنطقة الاقتصادية الخالصة لليابان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الكوري الجنوبي: كوريا الشمالية تطلق صاروخا باليستيا قصير المدى]]></title>
-            <link>https://t.me/aljazeeraBrk/229734</link>
-            <guid isPermaLink="false">e53fcdf7eaadcf2d46ad556255c36daeb10ae6d4a73922eae73b8801dc424361</guid>
-            <pubDate>Thu, 06 Aug 2026 08:49:02 GMT</pubDate>
-            <description><![CDATA[الجيش الكوري الجنوبي: كوريا الشمالية تطلق صاروخا باليستيا قصير المدى]]></description>
-            <content:encoded><![CDATA[الجيش الكوري الجنوبي: كوريا الشمالية تطلق صاروخا باليستيا قصير المدى]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
