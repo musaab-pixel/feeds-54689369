@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 16:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 16:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني برصاص قوات الاحتلال شرقي مدينة دير البلح…]]></title>
+            <link>https://t.me/aljazeeraBrk/230020</link>
+            <guid isPermaLink="false">af407ca3a090f1e626b2479e02b1ed9d116894218775454b02860a04b1010698</guid>
+            <pubDate>Sat, 08 Aug 2026 16:31:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني برصاص قوات الاحتلال شرقي مدينة دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني برصاص قوات الاحتلال شرقي مدينة دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين ويحطمون مركباتهم في بلدة إذنا غرب…]]></title>
             <link>https://t.me/aljazeeraBrk/230019</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 06 Aug 2026 08:51:02 GMT</pubDate>
             <description><![CDATA[العفو الدولية: الهجوم الإسرائيلي على الصحفيتين آمال خليل وزينب فرج يستوجب تحقيقا مستقلا باعتباره جريمة حرب]]></description>
             <content:encoded><![CDATA[العفو الدولية: الهجوم الإسرائيلي على الصحفيتين آمال خليل وزينب فرج يستوجب تحقيقا مستقلا باعتباره جريمة حرب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نادي الأسير الفلسطيني: الاحتلال يعتقل أكثر من 60 فلسطينيا من مخيم قلنديا شمالي…]]></title>
-            <link>https://t.me/aljazeeraBrk/229736</link>
-            <guid isPermaLink="false">0e6718dc085054c262b801f89e99d7958d72bebee58ae159d1c2c3fb5a776816</guid>
-            <pubDate>Thu, 06 Aug 2026 08:50:03 GMT</pubDate>
-            <description><![CDATA[نادي الأسير الفلسطيني: الاحتلال يعتقل أكثر من 60 فلسطينيا من مخيم قلنديا شمالي القدس ويحقق معهم ميدانيا]]></description>
-            <content:encoded><![CDATA[نادي الأسير الفلسطيني: الاحتلال يعتقل أكثر من 60 فلسطينيا من مخيم قلنديا شمالي القدس ويحقق معهم ميدانيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
