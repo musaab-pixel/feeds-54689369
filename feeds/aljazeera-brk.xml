@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 10 Aug 2026 12:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 13:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها بلدة قصرة في…]]></title>
+            <link>https://t.me/aljazeeraBrk/230203</link>
+            <guid isPermaLink="false">1b450cc604ad213d4930ad6c01e4da2c91478e4beae70c4604b98ba893f25d3c</guid>
+            <pubDate>Mon, 10 Aug 2026 13:04:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها بلدة قصرة في نابلس شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها بلدة قصرة في نابلس شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الجيولوجيا الكولومبية: زلزال بقوة 6.7 على مقياس ريختر يضرب مقاطعة شوكو…]]></title>
             <link>https://t.me/aljazeeraBrk/230202</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 07 Aug 2026 11:08:02 GMT</pubDate>
             <description><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد هجوما عليها جميعا]]></description>
             <content:encoded><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد هجوما عليها جميعا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية وقع عليها ولي العهد السعودي ورئيس تركيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/229852</link>
-            <guid isPermaLink="false">892276ddecf8389b357e38a1caf672d579c6ae18f4f23c907362c4ede005e58b</guid>
-            <pubDate>Fri, 07 Aug 2026 10:55:02 GMT</pubDate>
-            <description><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية وقع عليها ولي العهد السعودي ورئيس تركيا ورئيس وزراء باكستان]]></description>
-            <content:encoded><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية وقع عليها ولي العهد السعودي ورئيس تركيا ورئيس وزراء باكستان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
