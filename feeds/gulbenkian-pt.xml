@@ -4,10 +4,135 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Sun, 09 Aug 2026 00:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 07:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Concerto Danças Ocultas 28 nov 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/agenda/dancas-ocultas/</link>
+            <guid isPermaLink="false">93cf0cacc538fc53681aeb755e40303afaae1efb4fd9462e82ad8b776b944690</guid>
+            <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Danças Ocultas											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Artur Fernandes											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Filipe Cal											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Filipe Ricardo											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Francisco Miguel											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>Flúmen</em></h4>
+<p>Formada em 1989, Danças Ocultas é uma das mais originais formações da música portuguesa. Explora a sonoridade de quatro concertinas, inspirada tanto pela música de câmara quanto pelo <em>nuevo tango</em>. Depois de várias parcerias com outros músicos, em 2025 regressaram ao formato de quarteto no seu décimo álbum, <em>Inspirar</em>. O espetáculo <em>Flúmen</em> incide sobre temas novos e alguns retirados da sua discografia passada, acompanhados pela projeção de paisagens que apontam para a natureza como fonte de inspiração.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Fotografia © Pedro Cláudio</p>
+<h3 class="fcg-sponsors__title">Mecenas Gulbenkian Música</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Danças Ocultas											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Artur Fernandes											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Filipe Cal											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Filipe Ricardo											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Francisco Miguel											</span>
+														<span class="tw-ml-xs tw-text-sm">Concertina</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>Flúmen</em></h4>
+<p>Formada em 1989, Danças Ocultas é uma das mais originais formações da música portuguesa. Explora a sonoridade de quatro concertinas, inspirada tanto pela música de câmara quanto pelo <em>nuevo tango</em>. Depois de várias parcerias com outros músicos, em 2025 regressaram ao formato de quarteto no seu décimo álbum, <em>Inspirar</em>. O espetáculo <em>Flúmen</em> incide sobre temas novos e alguns retirados da sua discografia passada, acompanhados pela projeção de paisagens que apontam para a natureza como fonte de inspiração.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Fotografia © Pedro Cláudio</p>
+<h3 class="fcg-sponsors__title">Mecenas Gulbenkian Música</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/23_Dancas-Ocultas-C-Pedro-Claudio_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Concerto Jeanine De Bique / Apollo’s Fire 26 nov 2026 / 20:00]]></title>
             <link>https://gulbenkian.pt/agenda/jeanine-de-bique-apollos-fire/</link>
@@ -1239,6 +1364,49 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Sinfonia Incompleta 03 dez 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/sinfonia-incompleta/</link>
+            <guid isPermaLink="false">d9e0b4cd0c9bfaa80a20b9ca0674947f813dca798538221b4ebe8cf3a38f431f</guid>
+            <pubDate>Mon, 10 Aug 2026 07:44:34 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Gulbenkian</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif"><p>Em 1962 a Fundação Calouste Gulbenkian decidiu estabelecer um agrupamento orquestral permanente. No início constituído apenas por doze elementos, foi originalmente designado por Orquestra de Câmara Gulbenkian. Ao longo de sessenta anos de atividade, a Orquestra Gulbenkian (denominação adotada desde 1971) foi sendo progressivamente alargada, contando hoje com um efetivo de cerca de sessenta instrumentistas, que pode ser expandido de acordo com as exigências de cada programa. Esta constituição permite à Orquestra Gulbenkian interpretar um amplo repertório, do Barroco até à música contemporânea. Obras pertencentes ao repertório corrente das grandes formações sinfónicas podem também ser interpretadas pela Orquestra Gulbenkian em versões mais próximas dos efetivos orquestrais para que foram originalmente concebidas, no que respeita ao equilíbrio da respetiva arquitetura sonora.</p>
+<p>Em cada temporada, a Orquestra Gulbenkian realiza uma série regular de concertos no Grande Auditório, em Lisboa, em cujo âmbito colabora com os maiores nomes do mundo da música, nomeadamente maestros e solistas. Atua também com regularidade noutros palcos nacionais, cumprindo desta forma uma significativa função descentralizadora. No plano internacional, a Orquestra Gulbenkian foi ampliando gradualmente a sua atividade, tendo efetuado digressões na Europa, na Ásia, em África e nas Américas. No plano discográfico, o nome da Orquestra Gulbenkian encontra-se associado às editoras Philips, Deutsche Grammophon, Hyperion, Teldec, Erato, Adès, Nimbus, Lyrinx, Naïve e Pentatone, entre outras, tendo esta sua atividade sido distinguida, desde muito cedo, com diversos prémios internacionais de grande prestígio. O finlandês <a href="https://gulbenkian.pt/musica/biography/hannu-lintu/">Hannu Lintu</a> é o Maestro Titular da Orquestra Gulbenkian desde 2023.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Gulbenkian</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif"><p>Em 1962 a Fundação Calouste Gulbenkian decidiu estabelecer um agrupamento orquestral permanente. No início constituído apenas por doze elementos, foi originalmente designado por Orquestra de Câmara Gulbenkian. Ao longo de sessenta anos de atividade, a Orquestra Gulbenkian (denominação adotada desde 1971) foi sendo progressivamente alargada, contando hoje com um efetivo de cerca de sessenta instrumentistas, que pode ser expandido de acordo com as exigências de cada programa. Esta constituição permite à Orquestra Gulbenkian interpretar um amplo repertório, do Barroco até à música contemporânea. Obras pertencentes ao repertório corrente das grandes formações sinfónicas podem também ser interpretadas pela Orquestra Gulbenkian em versões mais próximas dos efetivos orquestrais para que foram originalmente concebidas, no que respeita ao equilíbrio da respetiva arquitetura sonora.</p>
+<p>Em cada temporada, a Orquestra Gulbenkian realiza uma série regular de concertos no Grande Auditório, em Lisboa, em cujo âmbito colabora com os maiores nomes do mundo da música, nomeadamente maestros e solistas. Atua também com regularidade noutros palcos nacionais, cumprindo desta forma uma significativa função descentralizadora. No plano internacional, a Orquestra Gulbenkian foi ampliando gradualmente a sua atividade, tendo efetuado digressões na Europa, na Ásia, em África e nas Américas. No plano discográfico, o nome da Orquestra Gulbenkian encontra-se associado às editoras Philips, Deutsche Grammophon, Hyperion, Teldec, Erato, Adès, Nimbus, Lyrinx, Naïve e Pentatone, entre outras, tendo esta sua atividade sido distinguida, desde muito cedo, com diversos prémios internacionais de grande prestígio. O finlandês <a href="https://gulbenkian.pt/musica/biography/hannu-lintu/">Hannu Lintu</a> é o Maestro Titular da Orquestra Gulbenkian desde 2023.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/24_Tabita-Berglund_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bolsas Bolsas de Curta Duração para Conferências e Viagens de Investigação Estas bolsas destinam-se a estudantes de pós-graduação, académicos e investigadores da Arménia, que pretendam participar em seminários e conferências internacionais, cursos de curta duração e viagens de investigação até 04 dez 2026 Candidatura aberta]]></title>

@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Sun, 09 Aug 2026 00:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 07:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -273,6 +273,270 @@
 	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.</li>
 </ul>
 <p>If you have any doubts about your application, please check our <a href="https://gulbenkian.pt/armenian-communities/how-to-apply/faq/">Frequently Asked Questions</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Concert Jeanine De Bique / Apollo’s Fire 26 Nov 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/jeanine-de-bique-apollos-fire/</link>
+            <guid isPermaLink="false">238310ac059c49f792c38df2bf342f79e5579ba2636dea4ab177e5a3881fb29f</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								20:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								20:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 20:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>25% – Under 30<br>
+10% – Over 65</p>
+<p>Cartão Gulbenkian:<br>
+50% – Under 30<br>
+20% – Over 65<br>
+10% – 30 to 65</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Apollo's Fire											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jeannette Sorrell											</span>
+														<span class="tw-ml-xs tw-text-sm">Direction, Harpsichord</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jeanine De Bique											</span>
+														<span class="tw-ml-xs tw-text-sm">Soprano</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>ECHOES Across the Atlantic</em></h4>
+<p>Grammy Award-winning ensemble Apollo’s Fire joins celebrated soprano Jeanine De Bique in an exploration of the historical links between Europe and its Caribbean colonies in the eighteenth century. Conducted by Jeannette Sorrell, praised by Seen &amp; Heard International as ‘a master storyteller’ through music, this programme places works by Händel, Purcell, Marais and Vivaldi in dialogue with the voices of Caribbean poets, conceived as a celebration of our shared humanity.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Photo © Tim Tronckoe</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								20:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								20:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 20:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>25% – Under 30<br>
+10% – Over 65</p>
+<p>Cartão Gulbenkian:<br>
+50% – Under 30<br>
+20% – Over 65<br>
+10% – 30 to 65</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Apollo's Fire											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jeannette Sorrell											</span>
+														<span class="tw-ml-xs tw-text-sm">Direction, Harpsichord</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Jeanine De Bique											</span>
+														<span class="tw-ml-xs tw-text-sm">Soprano</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>ECHOES Across the Atlantic</em></h4>
+<p>Grammy Award-winning ensemble Apollo’s Fire joins celebrated soprano Jeanine De Bique in an exploration of the historical links between Europe and its Caribbean colonies in the eighteenth century. Conducted by Jeannette Sorrell, praised by Seen &amp; Heard International as ‘a master storyteller’ through music, this programme places works by Händel, Purcell, Marais and Vivaldi in dialogue with the voices of Caribbean poets, conceived as a celebration of our shared humanity.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Photo © Tim Tronckoe</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/22_Jeanine-De-Bique_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concert Gulbenkian Orchestra Soloists 23 Nov 2026 / 20:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/gulbenkian-orchestra-soloists-60/</link>
+            <guid isPermaLink="false">fc56b7c228e473e9fe5f14108e94db6bc53d56c94f991a2a2589018e9095d4f9</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Zachary Spontak</h1>
+								<p class="fcg-entry-header__subtitle">Violin</p>
+								<div class="tw-font-serif"><p>Violinist Zachary Spontak is an artist and cultural advocate, building connections between music and people around the world. Zachary is Principal 2nd Violinist of the Orquestra Gulbenkian in Lisbon, Portugal, and travels frequently to perform as violin soloist and chamber musician. Called a “natural leader”, Zachary collaborates with artists such as Itzhak Perlman, Midori, Sir Simon Rattle, and Maxim Vengerov. Zachary won First Prize at the Carnegie Hall GMP International Competition, Pro Artists International Competition, and Fischoff Chamber Music Competition, and was named Young Alaskan Artist of the Year in 2015. He has performed with the London Symphony Orchestra, Houston Symphony, Orquestra do Algarve, and Fairbanks Symphony, among others.</p>
+<p>Zachary is an avid performer of new music, promoting the creation of art to search for beauty in our global society. He works with renowned composers such as Wolfgang Rihm, John Corigliano, Péter Eötvös, and Matthias Pintscher.</p>
+<p>Zachary engages in music outreach, recognizing that many people worldwide do not have access to musical training. From 2016-2018, he worked in Buenos Aires, Argentina, performing and teaching in disadvantaged areas of the city. Zachary has been a teaching artist with Musaid, an organization that connects musicians across the globe through educational exchanges designed to inspire individual and community transformation. Zachary is Director of Education at the Anchorage Chamber Music Festival, which brings artists and students together for intensive learning and performing each summer in Anchorage, Alaska.</p>
+<p>Zachary has a Master of Performance from the Royal College of Music in London, under the mentorship of renowned violinist Detlef Hahn. Other mentors include Paul Kantor, Roland and Almita Vamos, Dr. Gail Johansen, and Jean Krause.</p>
+<p>Zachary lives in Lisbon with his wife Luísa, a classical singer, and son James.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Sara Moreira</h1>
+								<p class="fcg-entry-header__subtitle">Viola</p>
+								<div class="tw-font-serif"><p>Sara Moreira was born in Vila Nova de Famalicão in 1996 and began her musical studies at the age of 13 at the Escola Proﬁssional e Artística do Vale do Ave in the viola class of Professor António Pereira and Teresa Correia. She later obtained a degree from the University of Minho, working with Mateusz Stasto, and a master's degree in interpretation from the Staatliche Hochschule für Musik und Darstellende Kunst Mannheim.She was awarded 3rd prize in the "Paços Premium" Competition (2012) and 2nd prize in the Vila Verde Music Competition (string trio).</p>
+<p>As an orchestra member she had the opportunity to collaborate with the Orquestra Sinfónica do Porto/Casa da Música, Orquestra XXI, Orquestra de Câmara Portuguesa, Jovem Orquestra Portuguesa, Orquestra de Guimarães, Sinfonietta de Braga, Orquestra Clássica do Centro, Orquestra da Costa Atlântica, Orquestra Clássica de Espinho, Deutsches Kammerorchester Berlin, Joven Orquesta Nacional de España, Royal Concertgebouw Orchestra, Orchestre de Picardie, etc.</p>
+<p>In the 2020/2021 academic year she was awarded a scholarship from the Fundação GDA. She was a member of the Nürnberger Symphoniker orchestra between 2021 and 2023 as an academist and later with a temporary contract. She is currently ascending the ﬁrst semester of the postgraduate programme in Orchestra Soloist in Mannheim in the class of Professor Hideko Kobayashi.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Martin Henneken</h1>
+								<p class="fcg-entry-header__subtitle">Cello</p>
+								<div class="tw-font-serif"><p>Martin Henneken received his first cello lessons at the age of six. He studied at the Musikhochschule Lübeck (Germany) with Troels Svane. He later studied with Reinhard Latzko at the Vienna University of Music (Austria) where he completed his Master’s degree with distinction. Musicians such as cellist Lynn Harrell and violinist Walter Levin (LaSalle Quartet) complemented his training. He has won awards several times at the German National Young Musicians Competition. He was a student of the Live Music Now Foundation created by Yehudi Menuhin.</p>
+<p>During his studies, he played regularly with various orchestras, such as the Lübeck Philharmonic, the Volksoper Wien Orchestra, the Vienna Symphony Orchestra and the Symphony Orchestra of India, Mumbai. In 2009 and 2010, he was a member of the Wiener Staatsoper (Vienna Philharmonic) with which he had the opportunity to participate in recordings, international tours and festivals (Salzburg, Lucerne, BBC Proms). Since 2010, he has been 2<sup>nd</sup> Cello Soloist of the Gulbenkian Orchestra.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Pedro Vares de Azevedo</h1>
+								<p class="fcg-entry-header__subtitle">Double Bass</p>
+								<div class="tw-font-serif"><p>Pedro Vares de Azevedo was born in Uruguay, where he began studying double bass with Carlos Weiske. In 1995, he initiated an internship at the Montevideo Philharmonic Orchestra, which he joined as a full member in 1998. He continued his studies with Mirella Vedeva and Franco Petracchi at the Conservatory of Music in Geneva, Switzerland. After graduating, he enriched his musical knowledge with the study of Musicology at the University of Geneva.</p>
+<p>He has worked during his career with a number of instrumental ensembles in Switzerland, including the Orchestre de la Suisse Romande, Lausanne Chamber Orchestra and the Ensemble Contrechamps, directed by internationally renowned masters such as Kurt Masur, Charles Dutoit, Leonard Slatkin, Christoph von Dohnányi and Rafael Frübeck de Burgos. From 2005 to 2014, he was leader of the double-bass section of the Lausanne Sinfonietta. In 2014 he joined the Gulbenkian Orchestra as 1st double bass soloist.</p>
+<p>His interest in early music has led him to collaborate with musicians such as Chiara Banchini, Florence Malgoire, Gaetano Nasilo, Carlos Mena and Leonardo García Alarcón. He also studied viola da gamba with Cecilia Knudtsen. He has taught master classes in Argentina, Estonia, Venezuela and Uruguay.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Zachary-Spontak-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Zachary Spontak</h1>
+								<p class="fcg-entry-header__subtitle">Violin</p>
+								<div class="tw-font-serif"><p>Violinist Zachary Spontak is an artist and cultural advocate, building connections between music and people around the world. Zachary is Principal 2nd Violinist of the Orquestra Gulbenkian in Lisbon, Portugal, and travels frequently to perform as violin soloist and chamber musician. Called a “natural leader”, Zachary collaborates with artists such as Itzhak Perlman, Midori, Sir Simon Rattle, and Maxim Vengerov. Zachary won First Prize at the Carnegie Hall GMP International Competition, Pro Artists International Competition, and Fischoff Chamber Music Competition, and was named Young Alaskan Artist of the Year in 2015. He has performed with the London Symphony Orchestra, Houston Symphony, Orquestra do Algarve, and Fairbanks Symphony, among others.</p>
+<p>Zachary is an avid performer of new music, promoting the creation of art to search for beauty in our global society. He works with renowned composers such as Wolfgang Rihm, John Corigliano, Péter Eötvös, and Matthias Pintscher.</p>
+<p>Zachary engages in music outreach, recognizing that many people worldwide do not have access to musical training. From 2016-2018, he worked in Buenos Aires, Argentina, performing and teaching in disadvantaged areas of the city. Zachary has been a teaching artist with Musaid, an organization that connects musicians across the globe through educational exchanges designed to inspire individual and community transformation. Zachary is Director of Education at the Anchorage Chamber Music Festival, which brings artists and students together for intensive learning and performing each summer in Anchorage, Alaska.</p>
+<p>Zachary has a Master of Performance from the Royal College of Music in London, under the mentorship of renowned violinist Detlef Hahn. Other mentors include Paul Kantor, Roland and Almita Vamos, Dr. Gail Johansen, and Jean Krause.</p>
+<p>Zachary lives in Lisbon with his wife Luísa, a classical singer, and son James.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Sara Moreira</h1>
+								<p class="fcg-entry-header__subtitle">Viola</p>
+								<div class="tw-font-serif"><p>Sara Moreira was born in Vila Nova de Famalicão in 1996 and began her musical studies at the age of 13 at the Escola Proﬁssional e Artística do Vale do Ave in the viola class of Professor António Pereira and Teresa Correia. She later obtained a degree from the University of Minho, working with Mateusz Stasto, and a master's degree in interpretation from the Staatliche Hochschule für Musik und Darstellende Kunst Mannheim.She was awarded 3rd prize in the "Paços Premium" Competition (2012) and 2nd prize in the Vila Verde Music Competition (string trio).</p>
+<p>As an orchestra member she had the opportunity to collaborate with the Orquestra Sinfónica do Porto/Casa da Música, Orquestra XXI, Orquestra de Câmara Portuguesa, Jovem Orquestra Portuguesa, Orquestra de Guimarães, Sinfonietta de Braga, Orquestra Clássica do Centro, Orquestra da Costa Atlântica, Orquestra Clássica de Espinho, Deutsches Kammerorchester Berlin, Joven Orquesta Nacional de España, Royal Concertgebouw Orchestra, Orchestre de Picardie, etc.</p>
+<p>In the 2020/2021 academic year she was awarded a scholarship from the Fundação GDA. She was a member of the Nürnberger Symphoniker orchestra between 2021 and 2023 as an academist and later with a temporary contract. She is currently ascending the ﬁrst semester of the postgraduate programme in Orchestra Soloist in Mannheim in the class of Professor Hideko Kobayashi.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Martin Henneken</h1>
+								<p class="fcg-entry-header__subtitle">Cello</p>
+								<div class="tw-font-serif"><p>Martin Henneken received his first cello lessons at the age of six. He studied at the Musikhochschule Lübeck (Germany) with Troels Svane. He later studied with Reinhard Latzko at the Vienna University of Music (Austria) where he completed his Master’s degree with distinction. Musicians such as cellist Lynn Harrell and violinist Walter Levin (LaSalle Quartet) complemented his training. He has won awards several times at the German National Young Musicians Competition. He was a student of the Live Music Now Foundation created by Yehudi Menuhin.</p>
+<p>During his studies, he played regularly with various orchestras, such as the Lübeck Philharmonic, the Volksoper Wien Orchestra, the Vienna Symphony Orchestra and the Symphony Orchestra of India, Mumbai. In 2009 and 2010, he was a member of the Wiener Staatsoper (Vienna Philharmonic) with which he had the opportunity to participate in recordings, international tours and festivals (Salzburg, Lucerne, BBC Proms). Since 2010, he has been 2<sup>nd</sup> Cello Soloist of the Gulbenkian Orchestra.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-992x744.jpg 992w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-300x225.jpg 300w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-1024x768.jpg 1024w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-768x576.jpg 768w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-1536x1152.jpg 1536w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-288x216.jpg 288w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-576x432.jpg 576w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3-1200x900.jpg 1200w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Pedro-Vares_DSC_2050_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Pedro Vares de Azevedo</h1>
+								<p class="fcg-entry-header__subtitle">Double Bass</p>
+								<div class="tw-font-serif"><p>Pedro Vares de Azevedo was born in Uruguay, where he began studying double bass with Carlos Weiske. In 1995, he initiated an internship at the Montevideo Philharmonic Orchestra, which he joined as a full member in 1998. He continued his studies with Mirella Vedeva and Franco Petracchi at the Conservatory of Music in Geneva, Switzerland. After graduating, he enriched his musical knowledge with the study of Musicology at the University of Geneva.</p>
+<p>He has worked during his career with a number of instrumental ensembles in Switzerland, including the Orchestre de la Suisse Romande, Lausanne Chamber Orchestra and the Ensemble Contrechamps, directed by internationally renowned masters such as Kurt Masur, Charles Dutoit, Leonard Slatkin, Christoph von Dohnányi and Rafael Frübeck de Burgos. From 2005 to 2014, he was leader of the double-bass section of the Lausanne Sinfonietta. In 2014 he joined the Gulbenkian Orchestra as 1st double bass soloist.</p>
+<p>His interest in early music has led him to collaborate with musicians such as Chiara Banchini, Florence Malgoire, Gaetano Nasilo, Carlos Mena and Leonardo García Alarcón. He also studied viola da gamba with Cecilia Knudtsen. He has taught master classes in Argentina, Estonia, Venezuela and Uruguay.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/06/02-23-nov-26_630509_Temporada-2025-2026_-Solistas-da-Orquestra-Gulbenkian-obras-de-Britten_-Debussy-e-Mozart_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Concert Fairy Tales 22 Nov 2026 / 11:00]]></title>
