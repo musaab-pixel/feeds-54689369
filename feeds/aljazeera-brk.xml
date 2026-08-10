@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 10 Aug 2026 13:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 13:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الإيراني: التقيت بالمرشد الأعلى وتحدثنا في شتى القضايا وهو يتمتع بصحة…]]></title>
+            <link>https://t.me/aljazeeraBrk/230204</link>
+            <guid isPermaLink="false">26f0903e0d56fabdba2ef87d353d710098ffb4daa526d046f0f5d430ceb5b59b</guid>
+            <pubDate>Mon, 10 Aug 2026 13:21:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الإيراني: التقيت بالمرشد الأعلى وتحدثنا في شتى القضايا وهو يتمتع بصحة وسلامة جسدية تامة]]></description>
+            <content:encoded><![CDATA[الرئيس الإيراني: التقيت بالمرشد الأعلى وتحدثنا في شتى القضايا وهو يتمتع بصحة وسلامة جسدية تامة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها بلدة قصرة في…]]></title>
             <link>https://t.me/aljazeeraBrk/230203</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 07 Aug 2026 11:12:02 GMT</pubDate>
             <description><![CDATA[بيان سعودي تركي باكستاني: توقيع اتفاقية مكة للدفاع المشترك تعبير عن الالتزام بمواصلة تعزيز الأمن الجماعي]]></description>
             <content:encoded><![CDATA[بيان سعودي تركي باكستاني: توقيع اتفاقية مكة للدفاع المشترك تعبير عن الالتزام بمواصلة تعزيز الأمن الجماعي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد…]]></title>
-            <link>https://t.me/aljazeeraBrk/229853</link>
-            <guid isPermaLink="false">97a3ebc36f492d967d8f0dc8f64a41a4dd3f3e2283d6a03c6888ef9b6318a3cf</guid>
-            <pubDate>Fri, 07 Aug 2026 11:08:02 GMT</pubDate>
-            <description><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد هجوما عليها جميعا]]></description>
-            <content:encoded><![CDATA[الرئاسة التركية: أي هجوم مسلح على أي من الدول تركيا والسعودية وباكستان يعد هجوما عليها جميعا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
