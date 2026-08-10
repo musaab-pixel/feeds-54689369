@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 10 Aug 2026 15:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 15:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية الإيرانية: بسبب استمرار الإجراءات العدائية الأمريكية لن يكون من الممكن…]]></title>
+            <link>https://t.me/aljazeeraBrk/230217</link>
+            <guid isPermaLink="false">a0ce319c318582a12213c1bbc44cc2c0a22c43434e3b8c9655287aa04fa1246e</guid>
+            <pubDate>Mon, 10 Aug 2026 15:08:02 GMT</pubDate>
+            <description><![CDATA[الخارجية الإيرانية: بسبب استمرار الإجراءات العدائية الأمريكية لن يكون من الممكن القول إن المضيق أصبح آمنا]]></description>
+            <content:encoded><![CDATA[الخارجية الإيرانية: بسبب استمرار الإجراءات العدائية الأمريكية لن يكون من الممكن القول إن المضيق أصبح آمنا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: بسبب استمرار الإجراءات العدائية الإمريكية لن يكون من الممكن…]]></title>
             <link>https://t.me/aljazeeraBrk/230216</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 07 Aug 2026 14:03:02 GMT</pubDate>
             <description><![CDATA[وزير الدفاع السعودي: اتفاقية مكة للدفاع المشترك بين السعودية وباكستان وتركيا ترسخ إطارا لشراكة دفاعية طويلة]]></description>
             <content:encoded><![CDATA[وزير الدفاع السعودي: اتفاقية مكة للدفاع المشترك بين السعودية وباكستان وتركيا ترسخ إطارا لشراكة دفاعية طويلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس دائرة الاتصال بالرئاسة التركية: اتفاقية مكة لا تستهدف أي دولة بل ستسهم في…]]></title>
-            <link>https://t.me/aljazeeraBrk/229866</link>
-            <guid isPermaLink="false">08aa446bcd25cf6f8e1f5fbbf94b01111ecc5ed4b1143d632b67d654c408a70e</guid>
-            <pubDate>Fri, 07 Aug 2026 13:05:03 GMT</pubDate>
-            <description><![CDATA[رئيس دائرة الاتصال بالرئاسة التركية: اتفاقية مكة لا تستهدف أي دولة بل ستسهم في تعزيز الأمن والردع الجماعي]]></description>
-            <content:encoded><![CDATA[رئيس دائرة الاتصال بالرئاسة التركية: اتفاقية مكة لا تستهدف أي دولة بل ستسهم في تعزيز الأمن والردع الجماعي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
