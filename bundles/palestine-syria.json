@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "fcdc4dbb754d103f0e8391487c4cecef1e2fd892a2f054c2d63f737caff24e5c",
+            "content_html": "الخارجية الباكستانية: وزير الخارجية تحدث مع نظيره الإيراني وبحثا التطورات وجهود تعزيز السلام والاستقرار",
+            "url": "https://t.me/aljazeeraBrk/230206",
+            "title": "الخارجية الباكستانية: وزير الخارجية تحدث مع نظيره الإيراني وبحثا التطورات وجهود…",
+            "summary": "الخارجية الباكستانية: وزير الخارجية تحدث مع نظيره الإيراني وبحثا التطورات وجهود تعزيز السلام والاستقرار",
+            "date_modified": "2026-08-10T13:54:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "4ae4335c0bcda66ef8ce787da3e792d064f4c5acd44417209c11988b6157b0b3",
+            "content_html": "<b>إدارة مكافحة المخدرات:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلقاء القبض على شخصين، (م.ب) و(ر.م)، متورطين في تجارة كميات كبيرة من المواد المخدرة في بلدة كفركرمين بمنطقة الأتارب غربي حلب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أسفرت العملية عن ضبط نحو 13 كغ من مادة الحشيش و500 حبة كبتاغون و20 صندوق ذخيرة متنوعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139302",
+            "title": "إدارة مكافحة المخدرات: 📌إلقاء القبض على شخصين، (م.ب) و(ر.م)، متورطين في تجارة…",
+            "summary": "<b>إدارة مكافحة المخدرات:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلقاء القبض على شخصين، (م.ب) و(ر.م)، متورطين في تجارة كميات كبيرة من المواد المخدرة في بلدة كفركرمين بمنطقة الأتارب غربي حلب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أسفرت العملية عن ضبط نحو 13 كغ من مادة الحشيش و500 حبة كبتاغون و20 صندوق ذخيرة متنوعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/Im8-BiP-LPuYwVEQpTeV8n2_Rs9IgSR4nexB3Vfi_N-lLJMmhOmCmgIrFrLVapsuFfGRzbz_IzrDbZI5BnVZ8cWx5g6XY81uLifuT6J2kY8WqfC-Ix8lrSGtOujRoDwTd0aO8PeWxgQdYiH7L45uFS9uhGCpl2onNztSzFVUyOkqwX8unxna6yqikvVWCYJrOZW7Vcqur4Vvr9cfDYTx3cos4uE8reCq6M_46i9TUU6wqrvqnEGiqFsD7JeTbFVHp_8Qq9DpFgUK2psWH8UmDJkzEF1lAfQCOi-LVa8DVjoq6HJKK46cwoJkxof_Q9b8RoMfSlMS_osz432bGrM1vQ.jpg",
+            "date_modified": "2026-08-10T13:53:45.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "26d066d7e2ea60da74f8d480b58dff8b0bc06f824eeb66872330eb1164a06058",
             "content_html": "الخارجية الروسية: سنحدد هوية جميع المتورطين في الهجمات الأوكرانية على بيلغورود ونيجنيكامسك",
             "url": "https://t.me/aljazeeraBrk/230205",
@@ -1585,29 +1608,6 @@
             "date_modified": "2026-08-08T15:51:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "05438bde89a259f49cbed11f2544e31437522b40d0e1cfef1479b8011f3224f4",
-            "content_html": "الجيش اللبناني: إصابة 3 عسكريين أثناء تفكيك ذخائر غير منفجرة في بلدة زوطر الغربية جنوبي البلاد",
-            "url": "https://t.me/aljazeeraBrk/230017",
-            "title": "الجيش اللبناني: إصابة 3 عسكريين أثناء تفكيك ذخائر غير منفجرة في بلدة زوطر…",
-            "summary": "الجيش اللبناني: إصابة 3 عسكريين أثناء تفكيك ذخائر غير منفجرة في بلدة زوطر الغربية جنوبي البلاد",
-            "date_modified": "2026-08-08T15:40:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "f99d4ada1a94dc9b9c647b7dc3cfeafd75bd42b5af671ff747a086f539f09e2b",
-            "content_html": "<b>وزارة الطاقة:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تركيب محولة جديدة باستطاعة 30 ميغا فولت أمبير في محطة تحويل \"الحلوينية\" بناحية \"تل الضمان\" بريف حلب الجنوبي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تأتي هذه الخطوة ضمن خطة إعادة تأهيل المحطة المتوقفة منذ عام 2016 بهدف إعادة إدخالها بالخدمة وتعزيز التغذية الكهربائية في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139247",
-            "title": "وزارة الطاقة: 📌تركيب محولة جديدة باستطاعة 30 ميغا فولت أمبير في محطة تحويل…",
-            "summary": "<b>وزارة الطاقة:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تركيب محولة جديدة باستطاعة 30 ميغا فولت أمبير في محطة تحويل \"الحلوينية\" بناحية \"تل الضمان\" بريف حلب الجنوبي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تأتي هذه الخطوة ضمن خطة إعادة تأهيل المحطة المتوقفة منذ عام 2016 بهدف إعادة إدخالها بالخدمة وتعزيز التغذية الكهربائية في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/DwUmoixg8139rXpec1sG_8lCwK0Hjh7STSymUQ71G9YOcAB2-aPlQ0JO213Od0AYk46pGnMM8T7MtHfB61wqUDW22viR5VU1B3T9aVVv3PZQtmkEjkHTSfWTn_NE4biKqx_mfrl-_uTy4HjUwVsiLckJH4DFPEFUZunErltGGp6by37lr-MHp13NAv9MbndqSMR-SFkAzKNbhdTG1iNJNEKQJD9W1UP6JVp-GeQ98_G3XJD7cd4LV159VZ4rZ2iHHfHpF0Fl4eMx0L9p2Ni4Pgo20kj9e3xjomLS51JXvO2WTjqzaPt1rCu9bnbEpvym1HtAOd8-E38nRiuCYBZzLw.jpg",
-            "date_modified": "2026-08-08T15:39:05.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
