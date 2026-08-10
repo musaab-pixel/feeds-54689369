@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 10 Aug 2026 12:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 12:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الجيولوجيا الكولومبية: زلزال بقوة 6.7 على مقياس ريختر يضرب مقاطعة شوكو…]]></title>
+            <link>https://t.me/aljazeeraBrk/230202</link>
+            <guid isPermaLink="false">3a5a79dbc435797987636704b3c3c2ba88165139a97c25f91a649d73dee1f8b8</guid>
+            <pubDate>Mon, 10 Aug 2026 12:53:02 GMT</pubDate>
+            <description><![CDATA[وكالة الجيولوجيا الكولومبية: زلزال بقوة 6.7 على مقياس ريختر يضرب مقاطعة شوكو على الساحل الغربي للبلاد]]></description>
+            <content:encoded><![CDATA[وكالة الجيولوجيا الكولومبية: زلزال بقوة 6.7 على مقياس ريختر يضرب مقاطعة شوكو على الساحل الغربي للبلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[خبراء أمميون: القيود على الحركة في الضفة الغربية تتحول إلى أدوات قاتلة عندما…]]></title>
             <link>https://t.me/aljazeeraBrk/230201</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 07 Aug 2026 10:55:02 GMT</pubDate>
             <description><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية وقع عليها ولي العهد السعودي ورئيس تركيا ورئيس وزراء باكستان]]></description>
             <content:encoded><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية وقع عليها ولي العهد السعودي ورئيس تركيا ورئيس وزراء باكستان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية تعنى بتطوير كافة أوجه التعاون الدفاعي]]></title>
-            <link>https://t.me/aljazeeraBrk/229851</link>
-            <guid isPermaLink="false">515f143404089ddc97800a569a4262bf0b33c85a6fd088aebcdbf8d1d94b5ca7</guid>
-            <pubDate>Fri, 07 Aug 2026 10:54:02 GMT</pubDate>
-            <description><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية تعنى بتطوير كافة أوجه التعاون الدفاعي]]></description>
-            <content:encoded><![CDATA[بيان سعودي تركي باكستاني: الاتفاقية تعنى بتطوير كافة أوجه التعاون الدفاعي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
