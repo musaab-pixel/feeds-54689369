@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 12:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 12:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وول ستريت جورنال: القوات الأمريكية أطلقت النار على سفينة ترفع علم بنما حاولت…]]></title>
+            <link>https://t.me/aljazeeraBrk/230380</link>
+            <guid isPermaLink="false">02f46b7e281e97dd9b9e12a2729ff094061d7916c7ed33fbad4ac946c932dbd7</guid>
+            <pubDate>Tue, 11 Aug 2026 12:26:02 GMT</pubDate>
+            <description><![CDATA[وول ستريت جورنال: القوات الأمريكية أطلقت النار على سفينة ترفع علم بنما حاولت خرق الحصار على موانئ إيران]]></description>
+            <content:encoded><![CDATA[وول ستريت جورنال: القوات الأمريكية أطلقت النار على سفينة ترفع علم بنما حاولت خرق الحصار على موانئ إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الدفاع الباكستاني لبلومبرغ: المؤشرات خلال الأيام الماضية تشير إلى أننا…]]></title>
             <link>https://t.me/aljazeeraBrk/230379</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 14:39:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإيراني: لا تحل القضايا بالحرب وحدها ونسعى إلى المضي في مسار السلام استنادا إلى بنود مذكرة التفاهم]]></description>
             <content:encoded><![CDATA[الرئيس الإيراني: لا تحل القضايا بالحرب وحدها ونسعى إلى المضي في مسار السلام استنادا إلى بنود مذكرة التفاهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإيراني: نسعى إلى ألا تشتد الضغوط على شعبنا كثيرا وندرك أن هناك حاليا…]]></title>
-            <link>https://t.me/aljazeeraBrk/230004</link>
-            <guid isPermaLink="false">c9010f0e4f4d4dfe1a995ce95830b08f6a3b63902ed53938db6ec0a20f9da0fc</guid>
-            <pubDate>Sat, 08 Aug 2026 14:38:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الإيراني: نسعى إلى ألا تشتد الضغوط على شعبنا كثيرا وندرك أن هناك حاليا صعوبات في جميع المجالات]]></description>
-            <content:encoded><![CDATA[الرئيس الإيراني: نسعى إلى ألا تشتد الضغوط على شعبنا كثيرا وندرك أن هناك حاليا صعوبات في جميع المجالات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
