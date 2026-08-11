@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 12:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 12:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الدفاع الباكستاني لبلومبرغ: المؤشرات خلال الأيام الماضية تشير إلى أننا…]]></title>
+            <link>https://t.me/aljazeeraBrk/230379</link>
+            <guid isPermaLink="false">8c8f1ab1041f0301e8c44ff49e6e22799070ba30ca7552aafc177ec4f7cde596</guid>
+            <pubDate>Tue, 11 Aug 2026 12:15:02 GMT</pubDate>
+            <description><![CDATA[وزير الدفاع الباكستاني لبلومبرغ: المؤشرات خلال الأيام الماضية تشير إلى أننا نقترب من اتفاق سلام]]></description>
+            <content:encoded><![CDATA[وزير الدفاع الباكستاني لبلومبرغ: المؤشرات خلال الأيام الماضية تشير إلى أننا نقترب من اتفاق سلام]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الدفاع الباكستاني لبلومبرغ: الولايات المتحدة وإيران تقتربان من التوصل إلى…]]></title>
             <link>https://t.me/aljazeeraBrk/230378</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 14:38:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإيراني: نسعى إلى ألا تشتد الضغوط على شعبنا كثيرا وندرك أن هناك حاليا صعوبات في جميع المجالات]]></description>
             <content:encoded><![CDATA[الرئيس الإيراني: نسعى إلى ألا تشتد الضغوط على شعبنا كثيرا وندرك أن هناك حاليا صعوبات في جميع المجالات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإيراني: على الطرف المقابل الاعتراف بحقوقنا وتأمينها ونحن أيضا لا نطالب…]]></title>
-            <link>https://t.me/aljazeeraBrk/230005</link>
-            <guid isPermaLink="false">795ff0735770bacd9f546502633f1c534a4dc10d86a798c84bd2a4f36a891027</guid>
-            <pubDate>Sat, 08 Aug 2026 14:38:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الإيراني: على الطرف المقابل الاعتراف بحقوقنا وتأمينها ونحن أيضا لا نطالب بشيء سوى حقوق بلدنا وشعبنا]]></description>
-            <content:encoded><![CDATA[الرئيس الإيراني: على الطرف المقابل الاعتراف بحقوقنا وتأمينها ونحن أيضا لا نطالب بشيء سوى حقوق بلدنا وشعبنا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
