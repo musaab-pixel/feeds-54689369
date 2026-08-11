@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 06:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 06:56:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم…]]></title>
+            <link>https://t.me/aljazeeraBrk/230335</link>
+            <guid isPermaLink="false">15307afc35416b97b66d0dcea28d0723205dc15a71c23668b7696c5e56a52de2</guid>
+            <pubDate>Tue, 11 Aug 2026 06:49:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم لتوزيع بضائع ذات استخدام مزدوج]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم لتوزيع بضائع ذات استخدام مزدوج]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز…]]></title>
             <link>https://t.me/aljazeeraBrk/230334</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 11:16:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: نؤكد رفض دولة قطر لاستخدام مضيق هرمز كورقة ضغط ودعوتها إلى إعادة فتحه دون شروط]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: نؤكد رفض دولة قطر لاستخدام مضيق هرمز كورقة ضغط ودعوتها إلى إعادة فتحه دون شروط]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: دولة قطر تدين بشدة استهداف ناقلة إماراتية تابعة لشركة أدنوك…]]></title>
-            <link>https://t.me/aljazeeraBrk/229960</link>
-            <guid isPermaLink="false">625a9e6824c51d5762db8c162c153d71e385619b6f5a5079cea22280305c53be</guid>
-            <pubDate>Sat, 08 Aug 2026 11:15:06 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: دولة قطر تدين بشدة استهداف ناقلة إماراتية تابعة لشركة أدنوك أثناء عبورها مضيق هرمز]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: دولة قطر تدين بشدة استهداف ناقلة إماراتية تابعة لشركة أدنوك أثناء عبورها مضيق هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
