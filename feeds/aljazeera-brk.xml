@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 10:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: هجوم صاروخي يستهدف مخيما للمعارضة الكردية الإيرانية شمال شرق…]]></title>
+            <link>https://t.me/aljazeeraBrk/230370</link>
+            <guid isPermaLink="false">f4b2f1c4abd441f0c6cfdbb00c645388236ef8fc6e48c84beb940a8d643d1750</guid>
+            <pubDate>Tue, 11 Aug 2026 10:53:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: هجوم صاروخي يستهدف مخيما للمعارضة الكردية الإيرانية شمال شرق أربيل]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: هجوم صاروخي يستهدف مخيما للمعارضة الكردية الإيرانية شمال شرق أربيل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم الخارجية القطرية: نواصل جهودنا بالتنسيق مع الولايات المتحدة…]]></title>
             <link>https://t.me/aljazeeraBrk/230369</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 14:09:02 GMT</pubDate>
             <description><![CDATA[أمين مجلس الأمن القومي الإيراني: على أمريكا رفع العقوبات ودفع تعويضات عن الحربين الأخيرتين اللتين شنتهما علينا]]></description>
             <content:encoded><![CDATA[أمين مجلس الأمن القومي الإيراني: على أمريكا رفع العقوبات ودفع تعويضات عن الحربين الأخيرتين اللتين شنتهما علينا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أمين مجلس الأمن القومي الإيراني: على أمريكا الإفراج غير المشروط عن أصولنا…]]></title>
-            <link>https://t.me/aljazeeraBrk/229996</link>
-            <guid isPermaLink="false">3aa78e92e1dca50190fa298dc01862e6d2c227fc8502524e340348424fd7d9b1</guid>
-            <pubDate>Sat, 08 Aug 2026 14:09:02 GMT</pubDate>
-            <description><![CDATA[أمين مجلس الأمن القومي الإيراني: على أمريكا الإفراج غير المشروط عن أصولنا المجمدة]]></description>
-            <content:encoded><![CDATA[أمين مجلس الأمن القومي الإيراني: على أمريكا الإفراج غير المشروط عن أصولنا المجمدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
