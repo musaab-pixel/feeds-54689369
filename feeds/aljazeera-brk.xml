@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 05:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 06:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين…]]></title>
+            <link>https://t.me/aljazeeraBrk/230333</link>
+            <guid isPermaLink="false">4ff884331698b13ba1b4f7aca3f0e91aa90a268977735a76069651b2528cac92</guid>
+            <pubDate>Tue, 11 Aug 2026 06:14:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص المطاطي وقنابل الصوت على الصحفيين…]]></title>
             <link>https://t.me/aljazeeraBrk/230332</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 11:13:03 GMT</pubDate>
             <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة شابين باعتداء مستوطنين عليهما بالضرب ببلدة بيت فوريك في الضفة الغربية]]></description>
             <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة شابين باعتداء مستوطنين عليهما بالضرب ببلدة بيت فوريك في الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الإماراتية: استهداف الملاحة واستخدام هرمز كأداة ضغط أو ابتزاز يعد…]]></title>
-            <link>https://t.me/aljazeeraBrk/229958</link>
-            <guid isPermaLink="false">dec43ef56ecd5e2c4a72f58f38be36fc3cf636d20af5b9bf2f595088cf1336a5</guid>
-            <pubDate>Sat, 08 Aug 2026 10:42:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الإماراتية: استهداف الملاحة واستخدام هرمز كأداة ضغط أو ابتزاز  يعد أعمال قرصنة من قبل الحرس الثوري]]></description>
-            <content:encoded><![CDATA[الخارجية الإماراتية: استهداف الملاحة واستخدام هرمز كأداة ضغط أو ابتزاز  يعد أعمال قرصنة من قبل الحرس الثوري]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
