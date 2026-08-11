@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 13:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 13:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة النقل اليمنية: مقتل 4 بحارة وإصابة 4 في هجوم حوثي استهدف سفينة تجارية في…]]></title>
+            <link>https://t.me/aljazeeraBrk/230385</link>
+            <guid isPermaLink="false">ab52470681c712848254b9ffc42b65304b077c9e4283b44a7dec530af4ac16c0</guid>
+            <pubDate>Tue, 11 Aug 2026 13:12:02 GMT</pubDate>
+            <description><![CDATA[وزارة النقل اليمنية: مقتل 4 بحارة وإصابة 4 في هجوم حوثي استهدف سفينة تجارية في باب المندب]]></description>
+            <content:encoded><![CDATA[وزارة النقل اليمنية: مقتل 4 بحارة وإصابة 4 في هجوم حوثي استهدف سفينة تجارية في باب المندب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أمين المجلس الأعلى للأمن القومي الإيراني: لن نتراجع عن حقوقنا وعن مصالح شعبنا…]]></title>
             <link>https://t.me/aljazeeraBrk/230384</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 14:49:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإيراني: مصممون على اعتماد مذكرة التفاهم كأساس شريطة تخلي أمريكا عن أجواء انعدام الثقة التي أوجدتها]]></description>
             <content:encoded><![CDATA[الرئيس الإيراني: مصممون على اعتماد مذكرة التفاهم كأساس شريطة تخلي أمريكا عن أجواء انعدام الثقة التي أوجدتها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإيراني: الولايات المتحدة غير جديرة بالثقة لكننا نسعى لإحراز بعض التقدم…]]></title>
-            <link>https://t.me/aljazeeraBrk/230011</link>
-            <guid isPermaLink="false">d5d5277c18fe781240c0f31464cf8a9871243f76d6f6a72afa17155c8621de86</guid>
-            <pubDate>Sat, 08 Aug 2026 14:49:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الإيراني: الولايات المتحدة غير جديرة بالثقة لكننا نسعى لإحراز بعض التقدم معها وحل القضايا المطروحة]]></description>
-            <content:encoded><![CDATA[الرئيس الإيراني: الولايات المتحدة غير جديرة بالثقة لكننا نسعى لإحراز بعض التقدم معها وحل القضايا المطروحة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
