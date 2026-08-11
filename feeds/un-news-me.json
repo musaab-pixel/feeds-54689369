@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "020b84e97b95111a3d42d63951260d69dade14ce89e192a2b375deb9cfc51ca0",
+            "content_html": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN's peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168108",
+            "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+            "summary": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN's peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-01-2025-UNIFIL-Lebanon-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-10T12:00:00.000Z"
+        },
+        {
             "id": "fd45f013ff6e8f0a5ca1c144481fb98c3f8223a461a4d1c5bb940aa3dff332ca",
             "content_html": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan's blockbuster retelling of The Odyssey has brought the journey back to big screens worldwide. But, behind the sweeping plot is another character facing an odyssey of its own: the Mediterranean Sea.",
             "url": "https://news.un.org/feed/view/en/story/2026/08/1168084",

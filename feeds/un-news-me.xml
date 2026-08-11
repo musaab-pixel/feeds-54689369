@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Sat, 08 Aug 2026 11:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 05:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/08/1168108</link>
+            <guid isPermaLink="false">020b84e97b95111a3d42d63951260d69dade14ce89e192a2b375deb9cfc51ca0</guid>
+            <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN's peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.]]></description>
+            <content:encoded><![CDATA[Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN's peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-01-2025-UNIFIL-Lebanon-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Mediterranean’s own odyssey: An ecological treasure feels the strain]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/08/1168084</link>
