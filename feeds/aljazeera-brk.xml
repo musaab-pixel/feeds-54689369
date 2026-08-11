@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 06:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز…]]></title>
+            <link>https://t.me/aljazeeraBrk/230334</link>
+            <guid isPermaLink="false">947e6d0d0ec3f27693b7ed5e48d22f717d77c73766599f4b2f5c6e864819c741</guid>
+            <pubDate>Tue, 11 Aug 2026 06:36:01 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز وأسر عدد منهم]]></description>
+            <content:encoded><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز وأسر عدد منهم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين…]]></title>
             <link>https://t.me/aljazeeraBrk/230333</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 11:15:06 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: دولة قطر تدين بشدة استهداف ناقلة إماراتية تابعة لشركة أدنوك أثناء عبورها مضيق هرمز]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: دولة قطر تدين بشدة استهداف ناقلة إماراتية تابعة لشركة أدنوك أثناء عبورها مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة شابين باعتداء مستوطنين عليهما بالضرب ببلدة بيت…]]></title>
-            <link>https://t.me/aljazeeraBrk/229959</link>
-            <guid isPermaLink="false">1298b63f78af2277ebd20e4bb5c6c1936df592e9f8b4c2aced1854f2ee5e8313</guid>
-            <pubDate>Sat, 08 Aug 2026 11:13:03 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة شابين باعتداء مستوطنين عليهما بالضرب ببلدة بيت فوريك في الضفة الغربية]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة شابين باعتداء مستوطنين عليهما بالضرب ببلدة بيت فوريك في الضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
