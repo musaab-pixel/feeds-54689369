@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 11 Aug 2026 10:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 10:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم الخارجية القطرية: المحادثات بين سلطنة عمان وإيران وصلت لمرحلة…]]></title>
+            <link>https://t.me/aljazeeraBrk/230361</link>
+            <guid isPermaLink="false">225e4ba09c08cc204542fd7e38757562144718bc222ea3804890c7aa4d76681f</guid>
+            <pubDate>Tue, 11 Aug 2026 10:25:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم الخارجية القطرية: المحادثات بين سلطنة عمان وإيران وصلت لمرحلة متقدمة]]></description>
+            <content:encoded><![CDATA[المتحدث باسم الخارجية القطرية: المحادثات بين سلطنة عمان وإيران وصلت لمرحلة متقدمة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس اللبناني: لن نسمح لإسرائيل وجنودها بالبقاء ولو على شبر واحد من أرضنا]]></title>
             <link>https://t.me/aljazeeraBrk/230360</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 08 Aug 2026 13:43:02 GMT</pubDate>
             <description><![CDATA[أمين مجلس الأمن القومي الإيراني: لن يفتح مضيق هرمز إلا إذا عدلت أمريكا سلوكها]]></description>
             <content:encoded><![CDATA[أمين مجلس الأمن القومي الإيراني: لن يفتح مضيق هرمز إلا إذا عدلت أمريكا سلوكها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: إصابة فلسطيني برصاص قوات الاحتلال خارج مناطق سيطرتها شمال غربي…]]></title>
-            <link>https://t.me/aljazeeraBrk/229986</link>
-            <guid isPermaLink="false">059b0a879f09c44d7b37d844e4da37cf89083da0af78b2ded1c1857cf1f88c51</guid>
-            <pubDate>Sat, 08 Aug 2026 13:21:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: إصابة فلسطيني برصاص قوات الاحتلال خارج مناطق سيطرتها شمال غربي خان يونس]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: إصابة فلسطيني برصاص قوات الاحتلال خارج مناطق سيطرتها شمال غربي خان يونس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
