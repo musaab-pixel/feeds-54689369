@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 23:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 23:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الأنباء العراقية عن رئيس الوزراء: لن نسمح بأن تكون أراضينا أو أجواؤنا…]]></title>
+            <link>https://t.me/aljazeeraBrk/230567</link>
+            <guid isPermaLink="false">13a0b25d2df90a28740a4c93dcd979e7d5630a58a11af8db77d0795e0913a18f</guid>
+            <pubDate>Wed, 12 Aug 2026 23:25:02 GMT</pubDate>
+            <description><![CDATA[وكالة الأنباء العراقية عن رئيس الوزراء: لن نسمح بأن تكون أراضينا أو أجواؤنا منطلقا لأي اعتداء على دول الجوار]]></description>
+            <content:encoded><![CDATA[وكالة الأنباء العراقية عن رئيس الوزراء: لن نسمح بأن تكون أراضينا أو أجواؤنا منطلقا لأي اعتداء على دول الجوار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إيه بي سي عن مسؤول أمريكي: إخراج ترمب سرا من أنقرة جاء بعد معلومات بتسلل خلية…]]></title>
             <link>https://t.me/aljazeeraBrk/230566</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 07:55:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة اللبنانية: جريحان في غارة من مسيرة إسرائيلية على سيارة في مدينة النبطية جنوبي البلاد]]></description>
             <content:encoded><![CDATA[وزارة الصحة اللبنانية: جريحان في غارة من مسيرة إسرائيلية على سيارة في مدينة النبطية جنوبي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: غارة من مسيرة إسرائيلية على أطراف مدينة النبطية جنوبي لبنان]]></title>
-            <link>https://t.me/aljazeeraBrk/230336</link>
-            <guid isPermaLink="false">b17e85d3252c15f3d211524883ba87e5700ac5bd02fabca99981fc025336ef16</guid>
-            <pubDate>Tue, 11 Aug 2026 07:19:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: غارة من مسيرة إسرائيلية على أطراف مدينة النبطية جنوبي لبنان]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: غارة من مسيرة إسرائيلية على أطراف مدينة النبطية جنوبي لبنان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
