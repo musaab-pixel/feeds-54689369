@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 20:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 20:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ ب عن مسؤول أمريكي: قوات الأمن العراقية والبيشمركة وقوات أمن كردستان العراق…]]></title>
+            <link>https://t.me/aljazeeraBrk/230545</link>
+            <guid isPermaLink="false">100472eafea67edb30b673eca4a2ded7c46a4e7103d457cc45e13e6b16b3bb29</guid>
+            <pubDate>Wed, 12 Aug 2026 20:11:03 GMT</pubDate>
+            <description><![CDATA[أ ب عن مسؤول أمريكي: قوات الأمن العراقية والبيشمركة وقوات أمن كردستان العراق ستقود المعركة ضد الإرهابيين]]></description>
+            <content:encoded><![CDATA[أ ب عن مسؤول أمريكي: قوات الأمن العراقية والبيشمركة وقوات أمن كردستان العراق ستقود المعركة ضد الإرهابيين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30…]]></title>
             <link>https://t.me/aljazeeraBrk/230544</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 05:25:02 GMT</pubDate>
             <description><![CDATA[حركة السلام الآن: حكومة إسرائيل تتجاهل الالتزامات الدولية بهدف فرض السيطرة على مزيد من الأراضي بالضفة الغربية]]></description>
             <content:encoded><![CDATA[حركة السلام الآن: حكومة إسرائيل تتجاهل الالتزامات الدولية بهدف فرض السيطرة على مزيد من الأراضي بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حركة السلام الآن: إسرائيل أقامت خلال عامين ونصف نحو 23 بؤرة استيطانية في مناطق…]]></title>
-            <link>https://t.me/aljazeeraBrk/230315</link>
-            <guid isPermaLink="false">f8e99326151736c2d1c99514a792b851a24c8f414b5069036652bbb03f19f058</guid>
-            <pubDate>Tue, 11 Aug 2026 05:25:02 GMT</pubDate>
-            <description><![CDATA[حركة السلام الآن: إسرائيل أقامت خلال عامين ونصف نحو 23 بؤرة استيطانية في مناطق مصنفة "ب"]]></description>
-            <content:encoded><![CDATA[حركة السلام الآن: إسرائيل أقامت خلال عامين ونصف نحو 23 بؤرة استيطانية في مناطق مصنفة "ب"]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
