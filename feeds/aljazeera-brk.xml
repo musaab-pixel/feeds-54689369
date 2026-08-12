@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 22:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 23:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إيه بي سي عن مسؤول أمريكي: إخراج ترمب سرا من أنقرة جاء بعد معلومات بتسلل خلية…]]></title>
+            <link>https://t.me/aljazeeraBrk/230566</link>
+            <guid isPermaLink="false">f8338eea91c509ea02d061ded1c1ce83bfee6bdda941d90876ce49e0d81b83bf</guid>
+            <pubDate>Wed, 12 Aug 2026 23:11:02 GMT</pubDate>
+            <description><![CDATA[إيه بي سي عن مسؤول أمريكي: إخراج ترمب سرا من أنقرة جاء بعد معلومات بتسلل خلية إيرانية مع صاروخ يطلق من الكتف]]></description>
+            <content:encoded><![CDATA[إيه بي سي عن مسؤول أمريكي: إخراج ترمب سرا من أنقرة جاء بعد معلومات بتسلل خلية إيرانية مع صاروخ يطلق من الكتف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس الكولومبي: ارتفاع عدد ضحايا الزلزال الذي ضرب البلاد إلى 265 قتيلا و496…]]></title>
             <link>https://t.me/aljazeeraBrk/230565</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 07:19:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: غارة من مسيرة إسرائيلية على أطراف مدينة النبطية جنوبي لبنان]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: غارة من مسيرة إسرائيلية على أطراف مدينة النبطية جنوبي لبنان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم…]]></title>
-            <link>https://t.me/aljazeeraBrk/230335</link>
-            <guid isPermaLink="false">15307afc35416b97b66d0dcea28d0723205dc15a71c23668b7696c5e56a52de2</guid>
-            <pubDate>Tue, 11 Aug 2026 06:49:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم لتوزيع بضائع ذات استخدام مزدوج]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم لتوزيع بضائع ذات استخدام مزدوج]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
