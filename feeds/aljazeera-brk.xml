@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 23:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 23:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[واشنطن بوست عن مسؤول أمريكي: التقارير عن تهديدات لحياة ترمب أثناء زيارته تركيا…]]></title>
+            <link>https://t.me/aljazeeraBrk/230568</link>
+            <guid isPermaLink="false">e1f37be647d7165c9281cf7e429e993e0ebc20c92c908546cf56c4a427615f0a</guid>
+            <pubDate>Wed, 12 Aug 2026 23:45:14 GMT</pubDate>
+            <description><![CDATA[واشنطن بوست عن مسؤول أمريكي: التقارير عن تهديدات لحياة ترمب أثناء زيارته تركيا مستمدة من مصادر إسرائيلية]]></description>
+            <content:encoded><![CDATA[واشنطن بوست عن مسؤول أمريكي: التقارير عن تهديدات لحياة ترمب أثناء زيارته تركيا مستمدة من مصادر إسرائيلية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء العراقية عن رئيس الوزراء: لن نسمح بأن تكون أراضينا أو أجواؤنا…]]></title>
             <link>https://t.me/aljazeeraBrk/230567</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 07:57:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة اللبنانية: تضرر سيارة إسعاف في النبطية إثر استهدافها يشكل تجاوزا للقانون الدولي]]></description>
             <content:encoded><![CDATA[وزارة الصحة اللبنانية: تضرر سيارة إسعاف في النبطية إثر استهدافها يشكل تجاوزا للقانون الدولي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الصحة اللبنانية: جريحان في غارة من مسيرة إسرائيلية على سيارة في مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/230337</link>
-            <guid isPermaLink="false">f380b1abd501211b554393dbe9bf721fc65f2289173501026064ce8aac8a8090</guid>
-            <pubDate>Tue, 11 Aug 2026 07:55:02 GMT</pubDate>
-            <description><![CDATA[وزارة الصحة اللبنانية: جريحان في غارة من مسيرة إسرائيلية على سيارة في مدينة النبطية جنوبي البلاد]]></description>
-            <content:encoded><![CDATA[وزارة الصحة اللبنانية: جريحان في غارة من مسيرة إسرائيلية على سيارة في مدينة النبطية جنوبي البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
