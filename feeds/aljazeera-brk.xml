@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 09:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 10:53:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصدر إيراني كبير: لا مناقشات بشأن تمديد وقف إطلاق النار مع الولايات…]]></title>
+            <link>https://t.me/aljazeeraBrk/230484</link>
+            <guid isPermaLink="false">70d6e23cefa6442d0f68ca6134b88337041bee9fb695ed0c144350fc08454a48</guid>
+            <pubDate>Wed, 12 Aug 2026 10:53:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصدر إيراني كبير: لا مناقشات بشأن تمديد وقف إطلاق النار مع الولايات المتحدة]]></description>
+            <content:encoded><![CDATA[رويترز عن مصدر إيراني كبير: لا مناقشات بشأن تمديد وقف إطلاق النار مع الولايات المتحدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مواجهات بين شبان فلسطينيين وقوات الاحتلال إثر اقتحامها مخيم…]]></title>
             <link>https://t.me/aljazeeraBrk/230483</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 10 Aug 2026 09:59:04 GMT</pubDate>
             <description><![CDATA[قيادة الأركان الأوكرانية: استهدفنا مصفاة تانيكو النفطية في جمهورية تترستان الروسية]]></description>
             <content:encoded><![CDATA[قيادة الأركان الأوكرانية: استهدفنا مصفاة تانيكو النفطية في جمهورية تترستان الروسية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام يمنية: الحوثيون يستهدفون بالصواريخ والمسيرات مواقع لقوات دفاع شبوة…]]></title>
-            <link>https://t.me/aljazeeraBrk/230187</link>
-            <guid isPermaLink="false">96e27747e26b1bf6318ac74ea7705f43e643b08292ca4f64afc252eeb85d004d</guid>
-            <pubDate>Mon, 10 Aug 2026 09:07:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام يمنية: الحوثيون يستهدفون بالصواريخ والمسيرات مواقع لقوات دفاع شبوة في بيحان]]></description>
-            <content:encoded><![CDATA[وسائل إعلام يمنية: الحوثيون يستهدفون بالصواريخ والمسيرات مواقع لقوات دفاع شبوة في بيحان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
