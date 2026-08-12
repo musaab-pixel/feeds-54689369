@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 21:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 21:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية الأمريكية للجزيرة: الجيش اللبناني ينفذ حاليا أولى المناطق التجريبية…]]></title>
+            <link>https://t.me/aljazeeraBrk/230561</link>
+            <guid isPermaLink="false">7d1f60246c9710e7f9da6e5f87dc316aad0767619db1f53b57d9b78e266ea91e</guid>
+            <pubDate>Wed, 12 Aug 2026 21:09:03 GMT</pubDate>
+            <description><![CDATA[الخارجية الأمريكية للجزيرة: الجيش اللبناني ينفذ حاليا أولى المناطق التجريبية ونواصل دعم التنفيذ الكامل للعملية]]></description>
+            <content:encoded><![CDATA[الخارجية الأمريكية للجزيرة: الجيش اللبناني ينفذ حاليا أولى المناطق التجريبية ونواصل دعم التنفيذ الكامل للعملية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم الخارجية الإيرانية: كل طرف يستفيد من الملاحة في هرمز عليه معالجة…]]></title>
             <link>https://t.me/aljazeeraBrk/230560</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 05:55:03 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تجبر الصحفيين على الابتعاد عن منطقة سهل قرية المغير الشرقي في رام الله]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تجبر الصحفيين على الابتعاد عن منطقة سهل قرية المغير الشرقي في رام الله]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها قرية المغير…]]></title>
-            <link>https://t.me/aljazeeraBrk/230330</link>
-            <guid isPermaLink="false">eaccba4fac14d9990c11be26fae2e28ae2aa4157533b3215e9746f07f5d07eb5</guid>
-            <pubDate>Tue, 11 Aug 2026 05:53:01 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها قرية المغير في رام الله وإطلاقها الرصاص]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: مواجهات بين فلسطينيين وقوات الاحتلال خلال اقتحامها قرية المغير في رام الله وإطلاقها الرصاص]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
