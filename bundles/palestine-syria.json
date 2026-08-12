@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "84583de9d42581551bd231cfdf99cea67157519a64416a529a3bbf49b9d16573",
+            "content_html": "الداخلية الكويتية: ضبط مواطن ينتمي لداعش قبل تنفيذه المخطط الإرهابي",
+            "url": "https://t.me/aljazeeraBrk/230501",
+            "title": "الداخلية الكويتية: ضبط مواطن ينتمي لداعش قبل تنفيذه المخطط الإرهابي",
+            "summary": "الداخلية الكويتية: ضبط مواطن ينتمي لداعش قبل تنفيذه المخطط الإرهابي",
+            "date_modified": "2026-08-12T13:25:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "11c23b6b94ee4b068be31fe1119c0158cccb181c5caf7a911e1031b1c47f6c5e",
+            "content_html": "الداخلية الكويتية: إحباط مخطط إرهابي كان يستهدف منشأة حيوية في البلاد",
+            "url": "https://t.me/aljazeeraBrk/230500",
+            "title": "الداخلية الكويتية: إحباط مخطط إرهابي كان يستهدف منشأة حيوية في البلاد",
+            "summary": "الداخلية الكويتية: إحباط مخطط إرهابي كان يستهدف منشأة حيوية في البلاد",
+            "date_modified": "2026-08-12T13:24:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "f845d14a60b3a5c13bd731325bf96bc647e106502ae21590b807713f0752f58f",
+            "content_html": "رئيس مجلس السلام في غزة: لن يكون لحماس أي دور في إدارة غزة ولن يكون لها أي وصول إلى الأموال",
+            "url": "https://t.me/aljazeeraBrk/230499",
+            "title": "رئيس مجلس السلام في غزة: لن يكون لحماس أي دور في إدارة غزة ولن يكون لها أي وصول…",
+            "summary": "رئيس مجلس السلام في غزة: لن يكون لحماس أي دور في إدارة غزة ولن يكون لها أي وصول إلى الأموال",
+            "date_modified": "2026-08-12T13:16:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "db7dd9d31144211c4b29df71004da49253967c73dcc1cac31d943310236ac469",
+            "content_html": "رئيس مجلس السلام في غزة: الادعاءات بشأن وجود اتفاق مالي بين مجلس السلام وحماس كاذبة",
+            "url": "https://t.me/aljazeeraBrk/230498",
+            "title": "رئيس مجلس السلام في غزة: الادعاءات بشأن وجود اتفاق مالي بين مجلس السلام وحماس…",
+            "summary": "رئيس مجلس السلام في غزة: الادعاءات بشأن وجود اتفاق مالي بين مجلس السلام وحماس كاذبة",
+            "date_modified": "2026-08-12T13:15:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "5c0c895491479e23a8da09ece333b826b257b54dfb2fff77c321b3e8d04fa34c",
             "content_html": "الطالبة السورية لمى الشّدة تحقق المرتبة الثالثة في قسم الهندسة الغذائية بجامعة أتاتورك التركية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/139381",
@@ -102,6 +146,15 @@
             "author": {
                 "name": "الجزيرة عاجل"
             }
+        },
+        {
+            "id": "96ee05460dc9f3873954d06393ff6a4cf65c847ab4ea81fd6a4a86e65e438546",
+            "content_html": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
+            "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+            "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-07-2023_UNDP_FSO-Safer-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-12T12:00:00.000Z"
         },
         {
             "id": "022f60d90591841e5239dd19dffd8f8b482f37f66cc6b895e7fda2e1350ac130",
@@ -1561,61 +1614,6 @@
             "date_modified": "2026-08-11T13:15:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "94ec2bb11b06c81d4a7b098c3ead0d49291c8955a78b18c4596bb2775a6c1c84",
-            "content_html": "وزارة النقل اليمنية: القتلى نتيجة الهجوم على السفينة بباب المندب هم 3 بحارة باكستانيين وبحار إندونيسي",
-            "url": "https://t.me/aljazeeraBrk/230386",
-            "title": "وزارة النقل اليمنية: القتلى نتيجة الهجوم على السفينة بباب المندب هم 3 بحارة…",
-            "summary": "وزارة النقل اليمنية: القتلى نتيجة الهجوم على السفينة بباب المندب هم 3 بحارة باكستانيين وبحار إندونيسي",
-            "date_modified": "2026-08-11T13:13:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "ab52470681c712848254b9ffc42b65304b077c9e4283b44a7dec530af4ac16c0",
-            "content_html": "وزارة النقل اليمنية: مقتل 4 بحارة وإصابة 4 في هجوم حوثي استهدف سفينة تجارية في باب المندب",
-            "url": "https://t.me/aljazeeraBrk/230385",
-            "title": "وزارة النقل اليمنية: مقتل 4 بحارة وإصابة 4 في هجوم حوثي استهدف سفينة تجارية في…",
-            "summary": "وزارة النقل اليمنية: مقتل 4 بحارة وإصابة 4 في هجوم حوثي استهدف سفينة تجارية في باب المندب",
-            "date_modified": "2026-08-11T13:12:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5ccc6efb14a10bfd021fa32ea856467d9bec1f859fa3d97c961c1ae676d51f0c",
-            "content_html": "أمين المجلس الأعلى للأمن القومي الإيراني: لن نتراجع عن حقوقنا وعن مصالح شعبنا أمام التهديدات",
-            "url": "https://t.me/aljazeeraBrk/230384",
-            "title": "أمين المجلس الأعلى للأمن القومي الإيراني: لن نتراجع عن حقوقنا وعن مصالح شعبنا…",
-            "summary": "أمين المجلس الأعلى للأمن القومي الإيراني: لن نتراجع عن حقوقنا وعن مصالح شعبنا أمام التهديدات",
-            "date_modified": "2026-08-11T12:51:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "244922e7f9f6ee390f1b8161140d62ca2a83a5994c3f6c4d9deb1ba23abdd81e",
-            "content_html": "أمين المجلس الأعلى للأمن القومي الإيراني: نمر بإحدى المراحل الحساسة والمصيرية في تاريخنا المعاصر",
-            "url": "https://t.me/aljazeeraBrk/230383",
-            "title": "أمين المجلس الأعلى للأمن القومي الإيراني: نمر بإحدى المراحل الحساسة والمصيرية…",
-            "summary": "أمين المجلس الأعلى للأمن القومي الإيراني: نمر بإحدى المراحل الحساسة والمصيرية في تاريخنا المعاصر",
-            "date_modified": "2026-08-11T12:50:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "384b8fc5802f92e3d0616d50751f407af3b7c5178380469daa719b12ee62ad32",
-            "content_html": "الخارجية السعودية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ندين اعتراف كولومبيا بسيادة إسرائيل على الجولان السوري المحتل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>اعتراف كولومبيا بسيادة إسرائيل على الجولان يخالف القوانين الأممية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الجولان أرض عربية سورية محتلة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139343",
-            "title": "الخارجية السعودية: 📌ندين اعتراف كولومبيا بسيادة إسرائيل على الجولان السوري…",
-            "summary": "الخارجية السعودية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ندين اعتراف كولومبيا بسيادة إسرائيل على الجولان السوري المحتل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>اعتراف كولومبيا بسيادة إسرائيل على الجولان يخالف القوانين الأممية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الجولان أرض عربية سورية محتلة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-11T12:49:37.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
