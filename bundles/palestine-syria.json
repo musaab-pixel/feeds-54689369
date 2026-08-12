@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "9951725bad5ab9c9104c0cc5e3cc969952697a5058403f983e02386ace42df96",
+            "content_html": "أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30 سبتمبر",
+            "url": "https://t.me/aljazeeraBrk/230544",
+            "title": "أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30…",
+            "summary": "أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30 سبتمبر",
+            "date_modified": "2026-08-12T20:09:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "d13fc53640f96e45d3cd1d7861312d40062c59411249f05aa196ca154fb9ff36",
             "content_html": "مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم بالضفة الغربية",
             "url": "https://t.me/aljazeeraBrk/230543",
@@ -1605,18 +1616,6 @@
             "date_modified": "2026-08-12T05:22:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "4f955629113faa0aea35b5bf5d76040967c01739d59561dc1c941a3663568f64",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i>حالة الطقس في سوريا 12-08-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139366",
-            "title": "☀️حالة الطقس في سوريا 12-08-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i>حالة الطقس في سوريا 12-08-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/RPg2DzqbBlKVJ-CEu5s8A8FvgxuugISpYylffx_JwhI_xpgWvGD35NWzhDx8Jib3qY9JgE43HqWEUFVEIHQy1gnHIWm45vXrbvKSfKtNhDfLC_CT3fLIkSs8VfWYq0fOUdYD56AYv8WaFiY0LmI8bk1Tgd1OM0UmtjCo7bLjEqWKSrH_UDCkweL1nh0z2VQwOcE_SNENm7uBg70CPOZxrfWb6GzSDRvfJ1yrawF1qsop8zFhSiTbhASlCm7rgRRX-w1oK3yCA-sX2wzq8Miofgqbl7RvkC2bLmZHz5v7N7JHJy6ShlVZmLMmxCFYLkqsXURdPhijjM3b92tHds7zCA.jpg",
-            "date_modified": "2026-08-12T05:15:09.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

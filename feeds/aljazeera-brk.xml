@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 19:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 20:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30…]]></title>
+            <link>https://t.me/aljazeeraBrk/230544</link>
+            <guid isPermaLink="false">9951725bad5ab9c9104c0cc5e3cc969952697a5058403f983e02386ace42df96</guid>
+            <pubDate>Wed, 12 Aug 2026 20:09:02 GMT</pubDate>
+            <description><![CDATA[أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30 سبتمبر]]></description>
+            <content:encoded><![CDATA[أ ب عن مسؤول أمريكي: الولايات المتحدة تتوقع إتمام انسحابها من العراق بحلول 30 سبتمبر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم…]]></title>
             <link>https://t.me/aljazeeraBrk/230543</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 05:25:02 GMT</pubDate>
             <description><![CDATA[حركة السلام الآن: إسرائيل أقامت خلال عامين ونصف نحو 23 بؤرة استيطانية في مناطق مصنفة "ب"]]></description>
             <content:encoded><![CDATA[حركة السلام الآن: إسرائيل أقامت خلال عامين ونصف نحو 23 بؤرة استيطانية في مناطق مصنفة "ب"]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حركة السلام الآن: سياسة حكومة إسرائيل في مناطق "أ" و "ب" في الضفة الغربية خرق…]]></title>
-            <link>https://t.me/aljazeeraBrk/230313</link>
-            <guid isPermaLink="false">a193af2793ae07de58b9cfaf27fd20b84cb7fd5762aeebb0818eccbfe800ae93</guid>
-            <pubDate>Tue, 11 Aug 2026 05:24:02 GMT</pubDate>
-            <description><![CDATA[حركة السلام الآن: سياسة حكومة إسرائيل في مناطق "أ" و "ب" في الضفة الغربية خرق للاتفاقات مع السلطة الفلسطينية]]></description>
-            <content:encoded><![CDATA[حركة السلام الآن: سياسة حكومة إسرائيل في مناطق "أ" و "ب" في الضفة الغربية خرق للاتفاقات مع السلطة الفلسطينية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
