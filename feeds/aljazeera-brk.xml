@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 21:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 22:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الأنباء العراقية: الاستخبارات الاتحادية تقبض على 4 أشخاص وتضبط أكثر من 20…]]></title>
+            <link>https://t.me/aljazeeraBrk/230564</link>
+            <guid isPermaLink="false">370e26f8535783171aea3dad9877a15c91b540ce331a7f3a96ce501a39e926bb</guid>
+            <pubDate>Wed, 12 Aug 2026 21:54:04 GMT</pubDate>
+            <description><![CDATA[وكالة الأنباء العراقية: الاستخبارات الاتحادية تقبض على 4 أشخاص وتضبط أكثر من 20 مسيرة محلية الصنع في بغداد]]></description>
+            <content:encoded><![CDATA[وكالة الأنباء العراقية: الاستخبارات الاتحادية تقبض على 4 أشخاص وتضبط أكثر من 20 مسيرة محلية الصنع في بغداد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بلومبرغ عن مسؤول في البيت الأبيض: العقوبات والحصار البحري جعلا إيران مفلسة تماما]]></title>
             <link>https://t.me/aljazeeraBrk/230562</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 06:36:01 GMT</pubDate>
             <description><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز وأسر عدد منهم]]></description>
             <content:encoded><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز وأسر عدد منهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين…]]></title>
-            <link>https://t.me/aljazeeraBrk/230333</link>
-            <guid isPermaLink="false">4ff884331698b13ba1b4f7aca3f0e91aa90a268977735a76069651b2528cac92</guid>
-            <pubDate>Tue, 11 Aug 2026 06:14:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تبدأ عمليات هدم في قرية عنزا جنوب مدينة جنين بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
