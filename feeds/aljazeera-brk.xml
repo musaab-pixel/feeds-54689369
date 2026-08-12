@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 11:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سانا: سوريا تقدم رسالة للأمم المتحدة ومجلس الأمن تحتج فيها وترفض اعتراف…]]></title>
+            <link>https://t.me/aljazeeraBrk/230489</link>
+            <guid isPermaLink="false">598756900e601fc4bc36a5005532b80c6398ff03b7900c45bac71c04f0c97ef4</guid>
+            <pubDate>Wed, 12 Aug 2026 11:19:03 GMT</pubDate>
+            <description><![CDATA[سانا: سوريا تقدم رسالة للأمم المتحدة ومجلس الأمن تحتج فيها وترفض اعتراف كولومبيا بسيادة إسرائيل على الجولان]]></description>
+            <content:encoded><![CDATA[سانا: سوريا تقدم رسالة للأمم المتحدة ومجلس الأمن تحتج فيها وترفض اعتراف كولومبيا بسيادة إسرائيل على الجولان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن رئيس بلدية نوفوروسيسك الروسية: تعليق إمدادات المياه بالمدينة بعد…]]></title>
             <link>https://t.me/aljazeeraBrk/230488</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 10 Aug 2026 10:42:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام يمنية: مقتل جنديين من دفاع شبوة إثر هجوم حوثي بالمسيرات على أطراف مديرية بيحان]]></description>
             <content:encoded><![CDATA[وسائل إعلام يمنية: مقتل جنديين من دفاع شبوة إثر هجوم حوثي بالمسيرات على أطراف مديرية بيحان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: صفارات الإنذار تدوي في العاصمة الأوكرانية كييف وتحذير من هجمات…]]></title>
-            <link>https://t.me/aljazeeraBrk/230192</link>
-            <guid isPermaLink="false">00da20482e400ddad456daf0b421f688b1a79f83ac8c2343455a3dc6d15785e7</guid>
-            <pubDate>Mon, 10 Aug 2026 10:39:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: صفارات الإنذار تدوي في العاصمة الأوكرانية كييف وتحذير من هجمات باليستية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: صفارات الإنذار تدوي في العاصمة الأوكرانية كييف وتحذير من هجمات باليستية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
