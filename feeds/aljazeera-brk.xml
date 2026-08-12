@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 17:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 18:37:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون تجمعا بدويا في بلدة الطيبة بقضاء رام الله]]></title>
+            <link>https://t.me/aljazeeraBrk/230538</link>
+            <guid isPermaLink="false">65aa400707be4c0af7d620454e2f8ca71a92da4e124cf3c122439c02a477e186</guid>
+            <pubDate>Wed, 12 Aug 2026 18:33:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون تجمعا بدويا في بلدة الطيبة بقضاء رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون تجمعا بدويا في بلدة الطيبة بقضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس مجلس القيادة الرئاسي اليمني: الحكومة تؤيد سلاما دائما ومستداما يقوم على…]]></title>
             <link>https://t.me/aljazeeraBrk/230536</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 04:36:01 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تطلق قنابل الغاز على فلسطينيين في سهل قرية المغير برام الله]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تطلق قنابل الغاز على فلسطينيين في سهل قرية المغير برام الله]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب لقناة ريل أمريكا فويس: الإيرانيون يوافقون على أمر ثم يخرجون ليصرحوا لوسائل…]]></title>
-            <link>https://t.me/aljazeeraBrk/230307</link>
-            <guid isPermaLink="false">ab61ea6e6a094baa53596783b97445dc03c5c425aa911f92f65de5f3b5fe91a9</guid>
-            <pubDate>Tue, 11 Aug 2026 04:34:02 GMT</pubDate>
-            <description><![CDATA[ترمب لقناة ريل أمريكا فويس: الإيرانيون يوافقون على أمر ثم يخرجون ليصرحوا لوسائل الإعلام أنهم لم يفعلوا ذلك]]></description>
-            <content:encoded><![CDATA[ترمب لقناة ريل أمريكا فويس: الإيرانيون يوافقون على أمر ثم يخرجون ليصرحوا لوسائل الإعلام أنهم لم يفعلوا ذلك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
