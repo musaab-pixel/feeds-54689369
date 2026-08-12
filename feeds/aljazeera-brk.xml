@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 09:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 09:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مواجهات بين شبان فلسطينيين وقوات الاحتلال إثر اقتحامها مخيم…]]></title>
+            <link>https://t.me/aljazeeraBrk/230483</link>
+            <guid isPermaLink="false">77e08f6995007d4b8eac0ab28477c016c19126625528ac15d40bde502722ec0a</guid>
+            <pubDate>Wed, 12 Aug 2026 09:47:05 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مواجهات بين شبان فلسطينيين وقوات الاحتلال إثر اقتحامها مخيم بلاطة بمدينة نابلس شمالي الضفة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مواجهات بين شبان فلسطينيين وقوات الاحتلال إثر اقتحامها مخيم بلاطة بمدينة نابلس شمالي الضفة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن مصادر: تعليق عمليات معالجة النفط في مصفاة بمنطقة أوريسك جنوب شرقي…]]></title>
             <link>https://t.me/aljazeeraBrk/230482</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 10 Aug 2026 09:07:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام يمنية: الحوثيون يستهدفون بالصواريخ والمسيرات مواقع لقوات دفاع شبوة في بيحان]]></description>
             <content:encoded><![CDATA[وسائل إعلام يمنية: الحوثيون يستهدفون بالصواريخ والمسيرات مواقع لقوات دفاع شبوة في بيحان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المبعوث الأممي الخاص إلى اليمن: هذا التصعيد يجب أن يتوقف وأن تتم حماية المدنيين…]]></title>
-            <link>https://t.me/aljazeeraBrk/230186</link>
-            <guid isPermaLink="false">25a6e24e8ae08bf2aaa3d311d9d8e9ccc822af574e04eede31a3083d7572cce7</guid>
-            <pubDate>Mon, 10 Aug 2026 09:01:02 GMT</pubDate>
-            <description><![CDATA[المبعوث الأممي الخاص إلى اليمن: هذا التصعيد يجب أن يتوقف وأن تتم حماية المدنيين والبنية التحتية المدنية]]></description>
-            <content:encoded><![CDATA[المبعوث الأممي الخاص إلى اليمن: هذا التصعيد يجب أن يتوقف وأن تتم حماية المدنيين والبنية التحتية المدنية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
