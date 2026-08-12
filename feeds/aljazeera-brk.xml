@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 22:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 22:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الكولومبي: ارتفاع عدد ضحايا الزلزال الذي ضرب البلاد إلى 265 قتيلا و496…]]></title>
+            <link>https://t.me/aljazeeraBrk/230565</link>
+            <guid isPermaLink="false">898da6b329a7ada92aa35c677d0e0265f013794b111fa8670a64b6ffd6576430</guid>
+            <pubDate>Wed, 12 Aug 2026 22:26:08 GMT</pubDate>
+            <description><![CDATA[الرئيس الكولومبي: ارتفاع عدد ضحايا الزلزال الذي ضرب البلاد إلى 265 قتيلا و496 في عداد المفقودين]]></description>
+            <content:encoded><![CDATA[الرئيس الكولومبي: ارتفاع عدد ضحايا الزلزال الذي ضرب البلاد إلى 265 قتيلا و496 في عداد المفقودين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء العراقية: الاستخبارات الاتحادية تقبض على 4 أشخاص وتضبط أكثر من 20…]]></title>
             <link>https://t.me/aljazeeraBrk/230564</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 06:49:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم لتوزيع بضائع ذات استخدام مزدوج]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا محطة نوفايا بوشتا في كييف التي كانت تستخدم لتوزيع بضائع ذات استخدام مزدوج]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز…]]></title>
-            <link>https://t.me/aljazeeraBrk/230334</link>
-            <guid isPermaLink="false">947e6d0d0ec3f27693b7ed5e48d22f717d77c73766599f4b2f5c6e864819c741</guid>
-            <pubDate>Tue, 11 Aug 2026 06:36:01 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز وأسر عدد منهم]]></description>
-            <content:encoded><![CDATA[وسائل إعلام حكومية يمنية: إحباط محاولة تسلل للحوثيين في جبهة الكريفات شرق تعز وأسر عدد منهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
