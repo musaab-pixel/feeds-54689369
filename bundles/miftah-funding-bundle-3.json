@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"Miftah Funding Bundle 3\" (type: bundle)",
     "items": [
         {
+            "id": "f68f9fc65d180a6b42d88295d0f4933067a005aac946d7313480f0b01b9952c7",
+            "content_html": "<p class=\"is-large\">Wissenschaft und Innovation sind entscheidend für die Bewältigung der Herausforderungen einer sich wandelnden Welt. Nur durch sie kann Europa im globalen Wettbewerb mithalten und seine Zukunft im Einklang mit seinen Werten und Interessen gestalten. Auf dem Hamburg Science Summit diskutieren führende Köpfe aus Wissenschaft, Politik, Wirtschaft und NGOs die nötigen Rahmenbedingungen für den Forschungs- und Innovationsraum Europa. Die jährliche Veranstaltung wird von der Körber-Stiftung und der Hamburger Wissenschaftsbehörde ausgerichtet.</p>\n<p>Höhepunkt ist die Verleihung des Körber-Preises für die Europäische Wissenschaft am Folgetag des Summits. Mit einem Preisgeld von einer Million Euro ist der Körber-Preis einer der höchstdotierten Wissenschaftspreise weltweit – und der einzige mit einem dezidiert europäischen Fokus. Der Körber-Preis prämiert herausragende wissenschaftliche Leistungen mit globaler Bedeutung.</p>\n<p class=\"readmore_action\"><button @click=\"more=!more\" class=\"button button-tiny\"><span x-html=\"more ? labelsLess : labelsMore\">mehr</span><i class=\"i i-bold i-chevron-down\" :class=\"{&quot;i-chevron-up&quot;:more, &quot;i-chevron-down&quot;:!more, }\"></i></button></p>",
+            "url": "https://koerber-stiftung.de/projekte/hamburg-science-summit/",
+            "title": "Hamburg Science Summit 2025Am 18. September diskutieren auf dem Hamburg Science Summit führende Köpfe darüber, wie durch Wissenschaft und Innovation die Zukunftsfähigkeit Europas gesichert werden kann.",
+            "summary": "<p class=\"is-large\">Wissenschaft und Innovation sind entscheidend für die Bewältigung der Herausforderungen einer sich wandelnden Welt. Nur durch sie kann Europa im globalen Wettbewerb mithalten und seine Zukunft im Einklang mit seinen Werten und Interessen gestalten. Auf dem Hamburg Science Summit diskutieren führende Köpfe aus Wissenschaft, Politik, Wirtschaft und NGOs die nötigen Rahmenbedingungen für den Forschungs- und Innovationsraum Europa. Die jährliche Veranstaltung wird von der Körber-Stiftung und der Hamburger Wissenschaftsbehörde ausgerichtet.</p>\n<p>Höhepunkt ist die Verleihung des Körber-Preises für die Europäische Wissenschaft am Folgetag des Summits. Mit einem Preisgeld von einer Million Euro ist der Körber-Preis einer der höchstdotierten Wissenschaftspreise weltweit – und der einzige mit einem dezidiert europäischen Fokus. Der Körber-Preis prämiert herausragende wissenschaftliche Leistungen mit globaler Bedeutung.</p>\n<p class=\"readmore_action\"><button @click=\"more=!more\" class=\"button button-tiny\"><span x-html=\"more ? labelsLess : labelsMore\">mehr</span><i class=\"i i-bold i-chevron-down\" :class=\"{&quot;i-chevron-up&quot;:more, &quot;i-chevron-down&quot;:!more, }\"></i></button></p>",
+            "image": "https://koerber-stiftung.de/site/assets/files/4297/key_visual_hss_klein.530x371-hidpi.png",
+            "date_modified": "2026-08-12T07:59:55.885Z"
+        },
+        {
             "id": "28d6f3469b5701aa59f0d7a5d66594d961aefa4028f0414a6eae919037574f1f",
             "content_html": "<p>CFI is looking for an international trainer for the project <em>Media Lab Guinea Ecuatorial</em>, funded by the French Ministry for Europe and Foreign Affairs.</p>\n<p>The Service Provider would be responsible for designing and delivering training activities for journalists from Equatoguinean media outlets, in Malabo and Bata: a launch seminar for editorial managers, a training on the fundamental principles of journalism, content production workshops, and individual remote mentoring.<br>The project aims to strengthen the capacities of media outlets, journalists and content producers in Equatorial Guinea, and to develop young people's media and information literacy skills.</p>\n<p>Sent by e-mail to: <a href=\"mailto:sofia.perusso@cfi.fr\" target=\"_blank\">sofia.perusso@cfi.fr</a>, copy: <a href=\"mailto:medialab.gq@cfi.fr\" target=\"_blank\">medialab.gq@cfi.fr</a></p>\n<h2> Newsletter </h2>\n<p>\n                The information gathered in this form is only used to send you the CFI newsletter. The information may be kept for no more than 3 years. In accordance with the Data Protection Act of 6 January 1978 amended in 2004, you have the right to access and correct information relating to you, which you can exercise via the contact form or by emailing <a href=\"mailto:webmaster@cfi.fr\">webmaster@cfi.fr</a> or writing to CFI, Direction générale, 62 rue Camille Desmoulins - F - 92130 Issy-les-Moulineaux.\n              </p>",
             "url": "https://cfi.fr/en/calls-for-application/call-quotations-training-mentoring-and-support-journalists-media-lab-guinea",
@@ -886,17 +895,6 @@
             "date_modified": "2026-07-13T07:56:40.000Z",
             "author": {
                 "name": "ebolta"
-            }
-        },
-        {
-            "id": "cd19b1e689196f7b7a9202297c353a546ccfab3cc34bee5cdafbf74e373736c3",
-            "content_html": "Mit „Ruin“ verwandeln Sung Tieu und Henrike Naumann den Deutschen Pavillon der Biennale di Venezia 2026 in einen Raum, in dem sich Architektur, Erinnerung und gesellschaftliche Spannungen überlagern und deutsche Gegenwart aus unterschiedlichen Perspektiven erfahrbar wird.",
-            "url": "https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/deutscher-pavillon-auf-der-biennale-di-venezia-2026/",
-            "title": "Deutscher Pavillon auf der Biennale di Venezia 2026",
-            "summary": "Mit „Ruin“ verwandeln Sung Tieu und Henrike Naumann den Deutschen Pavillon der Biennale di Venezia 2026 in einen Raum, in dem sich Architektur, Erinnerung und gesellschaftliche Spannungen überlagern und deutsche Gegenwart aus unterschiedlichen Perspektiven erfahrbar wird.",
-            "date_modified": "2026-07-12T12:52:35.000Z",
-            "author": {
-                "name": "Sandra Knocke"
             }
         }
     ]

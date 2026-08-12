@@ -4,10 +4,23 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 04:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 07:59:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Hamburg Science Summit 2025Am 18. September diskutieren auf dem Hamburg Science Summit führende Köpfe darüber, wie durch Wissenschaft und Innovation die Zukunftsfähigkeit Europas gesichert werden kann.]]></title>
+            <link>https://koerber-stiftung.de/projekte/hamburg-science-summit/</link>
+            <guid isPermaLink="false">f68f9fc65d180a6b42d88295d0f4933067a005aac946d7313480f0b01b9952c7</guid>
+            <pubDate>Wed, 12 Aug 2026 07:59:55 GMT</pubDate>
+            <description><![CDATA[<p class="is-large">Wissenschaft und Innovation sind entscheidend für die Bewältigung der Herausforderungen einer sich wandelnden Welt. Nur durch sie kann Europa im globalen Wettbewerb mithalten und seine Zukunft im Einklang mit seinen Werten und Interessen gestalten. Auf dem Hamburg Science Summit diskutieren führende Köpfe aus Wissenschaft, Politik, Wirtschaft und NGOs die nötigen Rahmenbedingungen für den Forschungs- und Innovationsraum Europa. Die jährliche Veranstaltung wird von der Körber-Stiftung und der Hamburger Wissenschaftsbehörde ausgerichtet.</p>
+<p>Höhepunkt ist die Verleihung des Körber-Preises für die Europäische Wissenschaft am Folgetag des Summits. Mit einem Preisgeld von einer Million Euro ist der Körber-Preis einer der höchstdotierten Wissenschaftspreise weltweit – und der einzige mit einem dezidiert europäischen Fokus. Der Körber-Preis prämiert herausragende wissenschaftliche Leistungen mit globaler Bedeutung.</p>
+<p class="readmore_action"><button @click="more=!more" class="button button-tiny"><span x-html="more ? labelsLess : labelsMore">mehr</span><i class="i i-bold i-chevron-down" :class="{&quot;i-chevron-up&quot;:more, &quot;i-chevron-down&quot;:!more, }"></i></button></p>]]></description>
+            <content:encoded><![CDATA[<p class="is-large">Wissenschaft und Innovation sind entscheidend für die Bewältigung der Herausforderungen einer sich wandelnden Welt. Nur durch sie kann Europa im globalen Wettbewerb mithalten und seine Zukunft im Einklang mit seinen Werten und Interessen gestalten. Auf dem Hamburg Science Summit diskutieren führende Köpfe aus Wissenschaft, Politik, Wirtschaft und NGOs die nötigen Rahmenbedingungen für den Forschungs- und Innovationsraum Europa. Die jährliche Veranstaltung wird von der Körber-Stiftung und der Hamburger Wissenschaftsbehörde ausgerichtet.</p>
+<p>Höhepunkt ist die Verleihung des Körber-Preises für die Europäische Wissenschaft am Folgetag des Summits. Mit einem Preisgeld von einer Million Euro ist der Körber-Preis einer der höchstdotierten Wissenschaftspreise weltweit – und der einzige mit einem dezidiert europäischen Fokus. Der Körber-Preis prämiert herausragende wissenschaftliche Leistungen mit globaler Bedeutung.</p>
+<p class="readmore_action"><button @click="more=!more" class="button button-tiny"><span x-html="more ? labelsLess : labelsMore">mehr</span><i class="i i-bold i-chevron-down" :class="{&quot;i-chevron-up&quot;:more, &quot;i-chevron-down&quot;:!more, }"></i></button></p>]]></content:encoded>
+            <enclosure url="https://koerber-stiftung.de/site/assets/files/4297/key_visual_hss_klein.530x371-hidpi.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Call for quotations: Training, mentoring and support for journalists – Media Lab Guinea Ecuatorial]]></title>
             <link>https://cfi.fr/en/calls-for-application/call-quotations-training-mentoring-and-support-journalists-media-lab-guinea</link>
@@ -5787,15 +5800,6 @@ Wat te doen? Er zit niets anders op dan hierover samen als inwoners van Nederlan
 </span>
 ]]></content:encoded>
             <author>ebolta</author>
-        </item>
-        <item>
-            <title><![CDATA[Deutscher Pavillon auf der Biennale di Venezia 2026]]></title>
-            <link>https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/deutscher-pavillon-auf-der-biennale-di-venezia-2026/</link>
-            <guid isPermaLink="false">cd19b1e689196f7b7a9202297c353a546ccfab3cc34bee5cdafbf74e373736c3</guid>
-            <pubDate>Sun, 12 Jul 2026 12:52:35 GMT</pubDate>
-            <description><![CDATA[Mit „Ruin“ verwandeln Sung Tieu und Henrike Naumann den Deutschen Pavillon der Biennale di Venezia 2026 in einen Raum, in dem sich Architektur, Erinnerung und gesellschaftliche Spannungen überlagern und deutsche Gegenwart aus unterschiedlichen Perspektiven erfahrbar wird.]]></description>
-            <content:encoded><![CDATA[Mit „Ruin“ verwandeln Sung Tieu und Henrike Naumann den Deutschen Pavillon der Biennale di Venezia 2026 in einen Raum, in dem sich Architektur, Erinnerung und gesellschaftliche Spannungen überlagern und deutsche Gegenwart aus unterschiedlichen Perspektiven erfahrbar wird.]]></content:encoded>
-            <author>Sandra Knocke</author>
         </item>
     </channel>
 </rss>
