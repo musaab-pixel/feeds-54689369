@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 19:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 19:58:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم…]]></title>
+            <link>https://t.me/aljazeeraBrk/230543</link>
+            <guid isPermaLink="false">d13fc53640f96e45d3cd1d7861312d40062c59411249f05aa196ca154fb9ff36</guid>
+            <pubDate>Wed, 12 Aug 2026 19:55:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم محيط مخيم الدهيشة جنوب بيت لحم…]]></title>
             <link>https://t.me/aljazeeraBrk/230542</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 05:24:02 GMT</pubDate>
             <description><![CDATA[حركة السلام الآن: سياسة حكومة إسرائيل في مناطق "أ" و "ب" في الضفة الغربية خرق للاتفاقات مع السلطة الفلسطينية]]></description>
             <content:encoded><![CDATA[حركة السلام الآن: سياسة حكومة إسرائيل في مناطق "أ" و "ب" في الضفة الغربية خرق للاتفاقات مع السلطة الفلسطينية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قوات الاحتلال تفجر منزل فاروق رمضان بقرية تل جنوب غرب نابلس بدعوى تنفيذه عملية…]]></title>
-            <link>https://t.me/aljazeeraBrk/230312</link>
-            <guid isPermaLink="false">082fa78460e31ecd9ed4b12c2b5a2f02049e8ee1fa636715f77aef089fdd13e4</guid>
-            <pubDate>Tue, 11 Aug 2026 05:23:02 GMT</pubDate>
-            <description><![CDATA[قوات الاحتلال تفجر منزل فاروق رمضان بقرية تل جنوب غرب نابلس بدعوى تنفيذه عملية إطلاق نار شهر يوليو الماضي]]></description>
-            <content:encoded><![CDATA[قوات الاحتلال تفجر منزل فاروق رمضان بقرية تل جنوب غرب نابلس بدعوى تنفيذه عملية إطلاق نار شهر يوليو الماضي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

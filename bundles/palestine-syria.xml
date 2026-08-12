@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 19:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 19:58:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم…]]></title>
+            <link>https://t.me/aljazeeraBrk/230543</link>
+            <guid isPermaLink="false">d13fc53640f96e45d3cd1d7861312d40062c59411249f05aa196ca154fb9ff36</guid>
+            <pubDate>Wed, 12 Aug 2026 19:55:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين في قرية المنيا جنوب شرق بيت لحم بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم محيط مخيم الدهيشة جنوب بيت لحم…]]></title>
             <link>https://t.me/aljazeeraBrk/230542</link>
@@ -1805,15 +1814,6 @@
             <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29880.png')"><b>☀️</b></i>حالة الطقس في سوريا 12-08-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
             <author>Halab Today TV قناة حلب اليوم</author>
             <enclosure url="https://cdn4.telesco.pe/file/RPg2DzqbBlKVJ-CEu5s8A8FvgxuugISpYylffx_JwhI_xpgWvGD35NWzhDx8Jib3qY9JgE43HqWEUFVEIHQy1gnHIWm45vXrbvKSfKtNhDfLC_CT3fLIkSs8VfWYq0fOUdYD56AYv8WaFiY0LmI8bk1Tgd1OM0UmtjCo7bLjEqWKSrH_UDCkweL1nh0z2VQwOcE_SNENm7uBg70CPOZxrfWb6GzSDRvfJ1yrawF1qsop8zFhSiTbhASlCm7rgRRX-w1oK3yCA-sX2wzq8Miofgqbl7RvkC2bLmZHz5v7N7JHJy6ShlVZmLMmxCFYLkqsXURdPhijjM3b92tHds7zCA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تهدم منزلا في منطقة جورة الشمعة جنوب بيت لحم…]]></title>
-            <link>https://t.me/aljazeeraBrk/230442</link>
-            <guid isPermaLink="false">4d15b348eff86ca79e9ee5e4554dc0fecbdf68cadc020a79b2b0fc91256c1e3b</guid>
-            <pubDate>Wed, 12 Aug 2026 04:35:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تهدم منزلا في منطقة جورة الشمعة جنوب بيت لحم بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تهدم منزلا في منطقة جورة الشمعة جنوب بيت لحم بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>
