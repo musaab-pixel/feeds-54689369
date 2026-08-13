@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 07:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 07:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: مستوطنون يؤدون طقوسا تلمودية في الساحة الشرقية المقابلة لقبة…]]></title>
+            <link>https://t.me/aljazeeraBrk/230582</link>
+            <guid isPermaLink="false">70fde324f71a5d5c53f163d3a0bf729fd1587423454270b53ddbc05cffcb3177</guid>
+            <pubDate>Thu, 13 Aug 2026 07:10:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: مستوطنون يؤدون طقوسا تلمودية في الساحة الشرقية المقابلة لقبة الصخرة في المسجد الأقصى]]></description>
+            <content:encoded><![CDATA[محافظة القدس: مستوطنون يؤدون طقوسا تلمودية في الساحة الشرقية المقابلة لقبة الصخرة في المسجد الأقصى]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي يطرد المزارعين من منطقة السهل ببلدة…]]></title>
             <link>https://t.me/aljazeeraBrk/230581</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:43:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام الرئيس المخلوع بشار_الأسد وشقيقه ماهر ورئيس الأمن السياسي السابق بدرعا عاطف نجيب]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام الرئيس المخلوع بشار_الأسد وشقيقه ماهر ورئيس الأمن السياسي السابق بدرعا عاطف نجيب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار ماهر الأسد بجناية القتل العمد…]]></title>
-            <link>https://t.me/aljazeeraBrk/230351</link>
-            <guid isPermaLink="false">3adf6bafddcb6cf0054fe97244f7ca25f0433863486547ffeace6f2e583a56a8</guid>
-            <pubDate>Tue, 11 Aug 2026 08:42:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار ماهر الأسد بجناية القتل العمد والقصد والتعذيب]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار ماهر الأسد بجناية القتل العمد والقصد والتعذيب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
