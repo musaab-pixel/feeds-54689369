@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 09:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: قواتنا سيطرت على بلدة بتروفكا في جمهورية دونيتسك الشعبية]]></title>
+            <link>https://t.me/aljazeeraBrk/230591</link>
+            <guid isPermaLink="false">eef1dd779ee179a066124b8b2a9f560fc418d38b5bef083568e084c91783c389</guid>
+            <pubDate>Thu, 13 Aug 2026 09:33:03 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: قواتنا سيطرت على بلدة بتروفكا في جمهورية دونيتسك الشعبية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: قواتنا سيطرت على بلدة بتروفكا في جمهورية دونيتسك الشعبية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة قلنديا شمالي القدس المحتلة]]></title>
             <link>https://t.me/aljazeeraBrk/230590</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 10:25:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية القطرية: المحادثات بين سلطنة عمان وإيران وصلت لمرحلة متقدمة]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية القطرية: المحادثات بين سلطنة عمان وإيران وصلت لمرحلة متقدمة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: لن نسمح لإسرائيل وجنودها بالبقاء ولو على شبر واحد من أرضنا]]></title>
-            <link>https://t.me/aljazeeraBrk/230360</link>
-            <guid isPermaLink="false">76c32439cbb7a63fc7c2e55b7070eb42f449b3f0a21977689a40f65e932fad72</guid>
-            <pubDate>Tue, 11 Aug 2026 10:13:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: لن نسمح لإسرائيل وجنودها بالبقاء ولو على شبر واحد من أرضنا]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: لن نسمح لإسرائيل وجنودها بالبقاء ولو على شبر واحد من أرضنا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
