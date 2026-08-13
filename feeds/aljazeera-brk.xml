@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 12 Aug 2026 23:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 00:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن السلطات الأوكرانية: اندلاع حرائق في ميناء إزمائيل جنوب غربي البلاد…]]></title>
+            <link>https://t.me/aljazeeraBrk/230570</link>
+            <guid isPermaLink="false">8216e3109b1755c44ceed79bdb0cbd458418f2265ed5785ded3ccce8f8a96b45</guid>
+            <pubDate>Thu, 13 Aug 2026 00:22:03 GMT</pubDate>
+            <description><![CDATA[رويترز عن السلطات الأوكرانية: اندلاع حرائق في ميناء إزمائيل جنوب غربي البلاد إثر هجوم روسي عليه]]></description>
+            <content:encoded><![CDATA[رويترز عن السلطات الأوكرانية: اندلاع حرائق في ميناء إزمائيل جنوب غربي البلاد إثر هجوم روسي عليه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[واشنطن بوست عن مسؤول أمريكي: تقديم إسرائيل معلومات بشأن احتمال استهداف ترمب…]]></title>
             <link>https://t.me/aljazeeraBrk/230569</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:15:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: المتهم عاطف نجيب أقدم على تعذيب العديد من المعتقلين وكان مسؤولا عن مقتل كثيرين منهم]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: المتهم عاطف نجيب أقدم على تعذيب العديد من المعتقلين وكان مسؤولا عن مقتل كثيرين منهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنذر بهدم مدرسة خلة الضبع في مسافر يطا…]]></title>
-            <link>https://t.me/aljazeeraBrk/230339</link>
-            <guid isPermaLink="false">4cf34bdbc7f531902b74bbf62dbb9bd11559489ff04df78d15e9aecbfee27f42</guid>
-            <pubDate>Tue, 11 Aug 2026 08:04:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنذر بهدم مدرسة خلة الضبع في مسافر يطا بالخليل جنوبي الضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنذر بهدم مدرسة خلة الضبع في مسافر يطا بالخليل جنوبي الضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
