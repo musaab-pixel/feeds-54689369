@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 04:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 04:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر عسكري بالجيش السوداني للجزيرة: الدفاعات الجوية تصدت لهجوم بمسيرات شنه…]]></title>
+            <link>https://t.me/aljazeeraBrk/230572</link>
+            <guid isPermaLink="false">4e4187dcf511da5c927e12f87ab021da0d6de9777a54c7f1c644b1f4b200f77f</guid>
+            <pubDate>Thu, 13 Aug 2026 04:41:03 GMT</pubDate>
+            <description><![CDATA[مصدر عسكري بالجيش السوداني للجزيرة: الدفاعات الجوية تصدت لهجوم بمسيرات شنه الدعم السريع غربي أم درمان]]></description>
+            <content:encoded><![CDATA[مصدر عسكري بالجيش السوداني للجزيرة: الدفاعات الجوية تصدت لهجوم بمسيرات شنه الدعم السريع غربي أم درمان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الإدارة العسكرية بمقاطعة زابوروجيا الأوكرانية: قتيل و3 جرحى في هجمات روسية…]]></title>
             <link>https://t.me/aljazeeraBrk/230571</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:18:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: المحكمة قضت بتجريم المتهم الفار بشار_الأسد بتهمة القتل العمد والقصد لأكثر من شخص]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: المحكمة قضت بتجريم المتهم الفار بشار_الأسد بتهمة القتل العمد والقصد لأكثر من شخص]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات في دمشق: المحكمة أنزلت العقوبة الأشد التي يجيزها القانون السوري…]]></title>
-            <link>https://t.me/aljazeeraBrk/230341</link>
-            <guid isPermaLink="false">dfc228e5bc1b93a1513473009ed35d07eedb2b06feab5c10c83203d6b7874a9d</guid>
-            <pubDate>Tue, 11 Aug 2026 08:17:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات في دمشق: المحكمة أنزلت العقوبة الأشد التي يجيزها القانون السوري بحق المتهم عاطف نجيب]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات في دمشق: المحكمة أنزلت العقوبة الأشد التي يجيزها القانون السوري بحق المتهم عاطف نجيب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
