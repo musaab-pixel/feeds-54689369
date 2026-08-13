@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 06:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 07:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي يطرد المزارعين من منطقة السهل ببلدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/230581</link>
+            <guid isPermaLink="false">4031f95bee2c32beb0ac699d8ecf319d2c890603e73adcef7ba54643e28f8f68</guid>
+            <pubDate>Thu, 13 Aug 2026 06:58:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي يطرد المزارعين من منطقة السهل ببلدة حوارة بنابلس]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي يطرد المزارعين من منطقة السهل ببلدة حوارة بنابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس بلدية قصرة للجزيرة: الاحتلال أغلق البلدة بالكامل ومنع الحركة ونشر مئات…]]></title>
             <link>https://t.me/aljazeeraBrk/230580</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:42:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار ماهر الأسد بجناية القتل العمد والقصد والتعذيب]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار ماهر الأسد بجناية القتل العمد والقصد والتعذيب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات في دمشق: المتهمون المحكومون بالإعدام ارتكبوا جرائم ترقى لجرائم…]]></title>
-            <link>https://t.me/aljazeeraBrk/230350</link>
-            <guid isPermaLink="false">5a58ed1e5cc44bab8900d7fe3784f4d987abefa9b2f5442a389aed771db3dee0</guid>
-            <pubDate>Tue, 11 Aug 2026 08:37:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات في دمشق: المتهمون المحكومون بالإعدام ارتكبوا جرائم ترقى لجرائم ضد الإنسانية وجرائم حرب]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات في دمشق: المتهمون المحكومون بالإعدام ارتكبوا جرائم ترقى لجرائم ضد الإنسانية وجرائم حرب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
