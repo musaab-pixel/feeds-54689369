@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 06:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 06:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أمبري للأمن البحري: نشارك في عمليات إنقاذ ناقلة نفط منكوبة قبالة ساحل عمان وسفن…]]></title>
+            <link>https://t.me/aljazeeraBrk/230577</link>
+            <guid isPermaLink="false">302a0d7b88b03570b329e1f2113a24123b27088a2521c6ed4afb0a5de653bb70</guid>
+            <pubDate>Thu, 13 Aug 2026 06:18:02 GMT</pubDate>
+            <description><![CDATA[أمبري للأمن البحري: نشارك في عمليات إنقاذ ناقلة نفط منكوبة قبالة ساحل عمان وسفن الإنقاذ في طريقها إلى الموقع]]></description>
+            <content:encoded><![CDATA[أمبري للأمن البحري: نشارك في عمليات إنقاذ ناقلة نفط منكوبة قبالة ساحل عمان وسفن الإنقاذ في طريقها إلى الموقع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية قصرة بقضاء نابلس]]></title>
             <link>https://t.me/aljazeeraBrk/230576</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:33:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم ماهر الأسد بجناية القتل العمد والقصد والتعذيب]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم ماهر الأسد بجناية القتل العمد والقصد والتعذيب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات بدمشق: الحكم بإعدام رئيس النظام المخلوع بشار_الأسد ورئيس جهاز…]]></title>
-            <link>https://t.me/aljazeeraBrk/230346</link>
-            <guid isPermaLink="false">503f2e9bd54c2d16d9976beff1740d390df86acbe213ee4b884bd1ae3f4c1205</guid>
-            <pubDate>Tue, 11 Aug 2026 08:26:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات بدمشق: الحكم بإعدام رئيس النظام المخلوع بشار_الأسد ورئيس جهاز الأمن السياسي في درعا عاطف نجيب]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات بدمشق: الحكم بإعدام رئيس النظام المخلوع بشار_الأسد ورئيس جهاز الأمن السياسي في درعا عاطف نجيب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
