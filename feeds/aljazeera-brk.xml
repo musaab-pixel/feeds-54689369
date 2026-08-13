@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 05:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 05:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت 362 مسيرة أوكرانية فوق مناطق عدة من…]]></title>
+            <link>https://t.me/aljazeeraBrk/230575</link>
+            <guid isPermaLink="false">6b6c6b6035b297742704bdd09e998b7185a16d137a7362772a30fb44ed60d1c7</guid>
+            <pubDate>Thu, 13 Aug 2026 05:48:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت 362 مسيرة أوكرانية فوق مناطق عدة من البلاد الليلة الماضية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت 362 مسيرة أوكرانية فوق مناطق عدة من البلاد الليلة الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الجوية الأوكرانية: إسقاط 111 مسيرة روسية من أصل 133 استهدفت مناطق عدة من…]]></title>
             <link>https://t.me/aljazeeraBrk/230574</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:23:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار بشار_الأسد بتهمة القتل العمد]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار بشار_الأسد بتهمة القتل العمد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم عاطف نجيب بتهمة القتل العمد والقصد…]]></title>
-            <link>https://t.me/aljazeeraBrk/230344</link>
-            <guid isPermaLink="false">f10bfb3c2fd1c7af0106bb4db7276b9350296f0caf88437cd3e4684904410a03</guid>
-            <pubDate>Tue, 11 Aug 2026 08:20:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم عاطف نجيب بتهمة القتل العمد والقصد والتعذيب]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم عاطف نجيب بتهمة القتل العمد والقصد والتعذيب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
