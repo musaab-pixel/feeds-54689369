@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 04:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 04:56:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مسؤول روسي: اندلاع حريق في منطقة صناعية بباشكورتوستان جنوب غرب روسيا…]]></title>
+            <link>https://t.me/aljazeeraBrk/230573</link>
+            <guid isPermaLink="false">c4dcca384d519291849678aea341af0b0d6f4b337c34f5abe0a5d5b6c1e86f00</guid>
+            <pubDate>Thu, 13 Aug 2026 04:53:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مسؤول روسي: اندلاع حريق في منطقة صناعية بباشكورتوستان جنوب غرب روسيا إثر هجوم أوكراني بالمسيرات]]></description>
+            <content:encoded><![CDATA[رويترز عن مسؤول روسي: اندلاع حريق في منطقة صناعية بباشكورتوستان جنوب غرب روسيا إثر هجوم أوكراني بالمسيرات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر عسكري بالجيش السوداني للجزيرة: الدفاعات الجوية تصدت لهجوم بمسيرات شنه…]]></title>
             <link>https://t.me/aljazeeraBrk/230572</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 08:19:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار بشار_الأسد بتهمة القتل العمد والقصد]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في دمشق: الحكم بإعدام المتهم الفار بشار_الأسد بتهمة القتل العمد والقصد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات في دمشق: المحكمة قضت بتجريم المتهم الفار بشار_الأسد بتهمة القتل…]]></title>
-            <link>https://t.me/aljazeeraBrk/230342</link>
-            <guid isPermaLink="false">eec5d3363eef1e7984656f6fd6b0bcc93f4601e0a80acb1610cc0659bb8aa223</guid>
-            <pubDate>Tue, 11 Aug 2026 08:18:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات في دمشق: المحكمة قضت بتجريم المتهم الفار بشار_الأسد بتهمة القتل العمد والقصد لأكثر من شخص]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات في دمشق: المحكمة قضت بتجريم المتهم الفار بشار_الأسد بتهمة القتل العمد والقصد لأكثر من شخص]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
