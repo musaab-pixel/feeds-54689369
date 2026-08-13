@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 13 Aug 2026 08:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 09:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة قلنديا شمالي القدس المحتلة]]></title>
+            <link>https://t.me/aljazeeraBrk/230590</link>
+            <guid isPermaLink="false">832206c1d08dbf08ab7ca25f2c855c39ffeb7c3b7a890b17c3065c5758861762</guid>
+            <pubDate>Thu, 13 Aug 2026 09:17:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة قلنديا شمالي القدس المحتلة]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة قلنديا شمالي القدس المحتلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس الأوكراني: هناك حاجة لمزيد من الدعم للدفاع الجوي والضغط على روسيا إذا…]]></title>
             <link>https://t.me/aljazeeraBrk/230589</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 11 Aug 2026 10:13:02 GMT</pubDate>
             <description><![CDATA[الرئيس اللبناني: لن نسمح لإسرائيل وجنودها بالبقاء ولو على شبر واحد من أرضنا]]></description>
             <content:encoded><![CDATA[الرئيس اللبناني: لن نسمح لإسرائيل وجنودها بالبقاء ولو على شبر واحد من أرضنا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: حجم الاعتداءات الإسرائيلية على بلدنا انحسر بعد توقيع صيغة…]]></title>
-            <link>https://t.me/aljazeeraBrk/230359</link>
-            <guid isPermaLink="false">4a18eb44f98878cf8412e17d5ffeb3d7f4bb6771635cd3d913e96d0e8f8887d9</guid>
-            <pubDate>Tue, 11 Aug 2026 10:12:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: حجم الاعتداءات الإسرائيلية على بلدنا انحسر بعد توقيع صيغة الإطار]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: حجم الاعتداءات الإسرائيلية على بلدنا انحسر بعد توقيع صيغة الإطار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
