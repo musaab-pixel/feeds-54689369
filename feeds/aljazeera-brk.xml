@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 16 Aug 2026 17:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 17:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القناة 12 الإسرائيلية عن مصدر أمني: الجيش يستعد لاحتمال التصعيد في لبنان إثر…]]></title>
+            <link>https://t.me/aljazeeraBrk/231000</link>
+            <guid isPermaLink="false">88b3941a4340cc45cb2d2ebe29aa452cc29bb6fc6603cd1fc4dcda01587b2843</guid>
+            <pubDate>Sun, 16 Aug 2026 17:28:03 GMT</pubDate>
+            <description><![CDATA[القناة 12 الإسرائيلية عن مصدر أمني: الجيش يستعد لاحتمال التصعيد في لبنان إثر الأحداث في مرتفعات علي الطاهر]]></description>
+            <content:encoded><![CDATA[القناة 12 الإسرائيلية عن مصدر أمني: الجيش يستعد لاحتمال التصعيد في لبنان إثر الأحداث في مرتفعات علي الطاهر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[النائب الأول للرئيس الإيراني: غلاء الأسعار بلغ حدا مزعجا واستراتيجية العدو…]]></title>
             <link>https://t.me/aljazeeraBrk/230999</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 09:39:02 GMT</pubDate>
             <description><![CDATA[خارجية باكستان: وزير الخارجية أكد خلال لقائه سفير إيران أن الحوار والدبلوماسية السبيل الوحيد لتحقيق السلام]]></description>
             <content:encoded><![CDATA[خارجية باكستان: وزير الخارجية أكد خلال لقائه سفير إيران أن الحوار والدبلوماسية السبيل الوحيد لتحقيق السلام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش اللبناني: قائد الجيش والجنرال الأمريكي كليرفيلد بحثا ترتيبات اتفاق الإطار…]]></title>
-            <link>https://t.me/aljazeeraBrk/230480</link>
-            <guid isPermaLink="false">6183143e66d565179ad010c8488b075c01868e964facd6eb870a99277241fee5</guid>
-            <pubDate>Wed, 12 Aug 2026 09:38:02 GMT</pubDate>
-            <description><![CDATA[الجيش اللبناني: قائد الجيش والجنرال الأمريكي كليرفيلد بحثا ترتيبات اتفاق الإطار والصعوبات إثر اعتداءات إسرائيل]]></description>
-            <content:encoded><![CDATA[الجيش اللبناني: قائد الجيش والجنرال الأمريكي كليرفيلد بحثا ترتيبات اتفاق الإطار والصعوبات إثر اعتداءات إسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
