@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 16 Aug 2026 19:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 19:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حماس: وفد الحركة ثمن دور الرئيس ترمب وعبر عن الأمل في مواصلة جهوده لإنهاء…]]></title>
+            <link>https://t.me/aljazeeraBrk/231022</link>
+            <guid isPermaLink="false">18636f90557c7d544618061f28622be3487171b97b4048d390b7af2a2ef81326</guid>
+            <pubDate>Sun, 16 Aug 2026 19:18:02 GMT</pubDate>
+            <description><![CDATA[حماس: وفد الحركة ثمن دور الرئيس ترمب وعبر عن الأمل في مواصلة جهوده لإنهاء معاناة شعبنا وتحقيق الأمن للمنطقة]]></description>
+            <content:encoded><![CDATA[حماس: وفد الحركة ثمن دور الرئيس ترمب وعبر عن الأمل في مواصلة جهوده لإنهاء معاناة شعبنا وتحقيق الأمن للمنطقة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حماس: الحركة دعت الوسطاء ومجلس السلام للقيام بمسؤولياتهم وإلزام الاحتلال بتطبيق…]]></title>
             <link>https://t.me/aljazeeraBrk/231021</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 14:06:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الفرنسي: الاتحاد الأوروبي و26 دولة تندد في بيان مشترك بإعدام إيران لمحتجين]]></description>
             <content:encoded><![CDATA[وزير الخارجية الفرنسي: الاتحاد الأوروبي و26 دولة تندد في بيان مشترك بإعدام إيران لمحتجين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات المسلحة اليمنية: مقتل عناصر من مليشيا الحوثي في قصف مدفعي للقوات المسلحة…]]></title>
-            <link>https://t.me/aljazeeraBrk/230502</link>
-            <guid isPermaLink="false">2bfc5e2204a1f98893e39aa0471ffa6651556809cacba04579756963fd09aa1e</guid>
-            <pubDate>Wed, 12 Aug 2026 14:04:02 GMT</pubDate>
-            <description><![CDATA[القوات المسلحة اليمنية: مقتل عناصر من مليشيا الحوثي في قصف مدفعي للقوات المسلحة غربي قعطبة بمحافظة الضالع]]></description>
-            <content:encoded><![CDATA[القوات المسلحة اليمنية: مقتل عناصر من مليشيا الحوثي في قصف مدفعي للقوات المسلحة غربي قعطبة بمحافظة الضالع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
