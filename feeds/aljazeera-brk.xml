@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 16 Aug 2026 18:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 18:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر فلسطيني للجزيرة: كوشنر أكد لوفد حماس أن دمج الحركة في العمل السياسي لن…]]></title>
+            <link>https://t.me/aljazeeraBrk/231010</link>
+            <guid isPermaLink="false">642066a5e9273fe4bd9044322a2b61862673c99ea0bbd71b3aa558ede867bc73</guid>
+            <pubDate>Sun, 16 Aug 2026 18:21:03 GMT</pubDate>
+            <description><![CDATA[مصدر فلسطيني للجزيرة: كوشنر أكد لوفد حماس أن دمج الحركة في العمل السياسي لن يكون قبل نزع السلاح كاملا من غزة]]></description>
+            <content:encoded><![CDATA[مصدر فلسطيني للجزيرة: كوشنر أكد لوفد حماس أن دمج الحركة في العمل السياسي لن يكون قبل نزع السلاح كاملا من غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر فلسطيني للجزيرة: كوشنر أبلغ وفد حماس أن واشنطن ستمضي في مسار سياسي لا…]]></title>
             <link>https://t.me/aljazeeraBrk/231009</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 11:53:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم مخيم قلنديا شمالي القدس]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم مخيم قلنديا شمالي القدس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عمدة مدينة نوفوروسيسك الروسية: إعلان حالة الطوارئ في المدينة بعد هجوم أوكراني…]]></title>
-            <link>https://t.me/aljazeeraBrk/230490</link>
-            <guid isPermaLink="false">a369572d94ad5dcecef410c9c3dc66a4c41006d18e75747766bf2d345422f8d5</guid>
-            <pubDate>Wed, 12 Aug 2026 11:42:02 GMT</pubDate>
-            <description><![CDATA[عمدة مدينة نوفوروسيسك الروسية: إعلان حالة الطوارئ في المدينة بعد هجوم أوكراني بالمسيرات]]></description>
-            <content:encoded><![CDATA[عمدة مدينة نوفوروسيسك الروسية: إعلان حالة الطوارئ في المدينة بعد هجوم أوكراني بالمسيرات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
