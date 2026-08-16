@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 16 Aug 2026 19:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 20:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس البرلمان الإيراني: يجب أن نصل إلى مستوى من الردع بحيث لا نقع في دوامة…]]></title>
+            <link>https://t.me/aljazeeraBrk/231023</link>
+            <guid isPermaLink="false">d884fcd9f7f340123ee245a833f1881ec30d5ca00ebcb834ecee4020f4c9dc8e</guid>
+            <pubDate>Sun, 16 Aug 2026 20:04:02 GMT</pubDate>
+            <description><![CDATA[رئيس البرلمان الإيراني: يجب أن نصل إلى مستوى من الردع بحيث لا نقع في دوامة الحرب ثم السلام ثم استنزاف الحرب]]></description>
+            <content:encoded><![CDATA[رئيس البرلمان الإيراني: يجب أن نصل إلى مستوى من الردع بحيث لا نقع في دوامة الحرب ثم السلام ثم استنزاف الحرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حماس: وفد الحركة ثمن دور الرئيس ترمب وعبر عن الأمل في مواصلة جهوده لإنهاء…]]></title>
             <link>https://t.me/aljazeeraBrk/231022</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 14:14:04 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الإسرائيلي: الجيش سيبقى في المنطقة الأمنية في لبنان وسوريا وغزة للدفاع عن إسرائيل كلها]]></description>
             <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: الجيش سيبقى في المنطقة الأمنية في لبنان وسوريا وغزة للدفاع عن إسرائيل كلها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الفرنسي: الاتحاد الأوروبي و26 دولة تندد في بيان مشترك بإعدام…]]></title>
-            <link>https://t.me/aljazeeraBrk/230503</link>
-            <guid isPermaLink="false">d9fed07946a595d1fdf89780d98a7b545e0d2025c28e18215b2e9ae15e587f8a</guid>
-            <pubDate>Wed, 12 Aug 2026 14:06:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الفرنسي: الاتحاد الأوروبي و26 دولة تندد في بيان مشترك بإعدام إيران لمحتجين]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الفرنسي: الاتحاد الأوروبي و26 دولة تندد في بيان مشترك بإعدام إيران لمحتجين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
