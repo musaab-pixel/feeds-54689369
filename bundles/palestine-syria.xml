@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 16 Aug 2026 21:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 22:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوة كبيرة من جيش الاحتلال الإسرائيلي تقتحم قرية المغير بقضاء…]]></title>
+            <link>https://t.me/aljazeeraBrk/231031</link>
+            <guid isPermaLink="false">70d140bf606865cb19c390452db13f0ae1ff0f4379d30c1a11b18c842fc6fff0</guid>
+            <pubDate>Sun, 16 Aug 2026 22:27:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوة كبيرة من جيش الاحتلال الإسرائيلي تقتحم قرية المغير بقضاء رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوة كبيرة من جيش الاحتلال الإسرائيلي تقتحم قرية المغير بقضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الداخلية المهندس أنس خطاب يشكّل لجنة للتحقيق في ملابسات وفاة محمد غميرة…]]></title>
             <link>https://t.me/HalabTodayTV/139518</link>
@@ -2382,16 +2391,6 @@
             <description><![CDATA[هيئة الأركان الأوكرانية: أسقطنا 127 مسيرة من أصل 157 أطلقتها روسيا باتجاه مقاطعات مختلفة]]></description>
             <content:encoded><![CDATA[هيئة الأركان الأوكرانية: أسقطنا 127 مسيرة من أصل 157 أطلقتها روسيا باتجاه مقاطعات مختلفة]]></content:encoded>
             <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مديرية الطوارئ في اللاذقية: فرق الدفاع المدني تنتشل جثمان طفل توفي غرقًا أثناء…]]></title>
-            <link>https://t.me/HalabTodayTV/139459</link>
-            <guid isPermaLink="false">f7bfb1048e81ddc6f788afd0038e48956c8525d5f75426616ca63f6950c9e02f</guid>
-            <pubDate>Sat, 15 Aug 2026 06:26:46 GMT</pubDate>
-            <description><![CDATA[مديرية الطوارئ في اللاذقية: فرق الدفاع المدني تنتشل جثمان طفل توفي غرقًا أثناء السباحة في شاطئ الكرنك بمنطقة الشاطئ الأزرق وذلك بعد هطول أمطار غزيرة في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[مديرية الطوارئ في اللاذقية: فرق الدفاع المدني تنتشل جثمان طفل توفي غرقًا أثناء السباحة في شاطئ الكرنك بمنطقة الشاطئ الأزرق وذلك بعد هطول أمطار غزيرة في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
-            <enclosure url="https://cdn4.telesco.pe/file/l9xlD892UI1A1UOuTjs1PcPHDCrDnyoIlhTaNwtuAQlW26joff-2HB51XAYG-Cl5JZ7-oyQ-xCCKxNAjn3StfROG13FQ02HW4TkfNXl1MvrYpm7JHlKo3r0EHDvpYiTye_zKZGrY2H6_iqyoEb8NHZYjkgzUSkcmNwQDtd11VA2oJHlhr7BY39cA1F7VMirkuBmpqkraUijcZKU6eEtuKMNStW42B5h-G4JlM07pwO-tY59dcOALAgik3WV6pLjHDiAM1q7Ff2lo_XrOG9ebkvfbXv_dFUwjRlnR8TEs6lPWlC-d6QWZxWt3zLvEkubMcewB7Q8qogdnDzSwMq6ySg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

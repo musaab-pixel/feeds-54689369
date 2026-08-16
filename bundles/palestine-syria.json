@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "70d140bf606865cb19c390452db13f0ae1ff0f4379d30c1a11b18c842fc6fff0",
+            "content_html": "مراسلة الجزيرة: قوة كبيرة من جيش الاحتلال الإسرائيلي تقتحم قرية المغير بقضاء رام الله",
+            "url": "https://t.me/aljazeeraBrk/231031",
+            "title": "مراسلة الجزيرة: قوة كبيرة من جيش الاحتلال الإسرائيلي تقتحم قرية المغير بقضاء…",
+            "summary": "مراسلة الجزيرة: قوة كبيرة من جيش الاحتلال الإسرائيلي تقتحم قرية المغير بقضاء رام الله",
+            "date_modified": "2026-08-16T22:27:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "3ff79fb1489f7839f993e5f48836e55e2091ee5d48f704d6934646706683a089",
             "content_html": "وزير الداخلية المهندس أنس خطاب يشكّل لجنة للتحقيق في ملابسات وفاة محمد غميرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/139518",
@@ -1559,18 +1570,6 @@
             "date_modified": "2026-08-15T07:22:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "f7bfb1048e81ddc6f788afd0038e48956c8525d5f75426616ca63f6950c9e02f",
-            "content_html": "مديرية الطوارئ في اللاذقية: فرق الدفاع المدني تنتشل جثمان طفل توفي غرقًا أثناء السباحة في شاطئ الكرنك بمنطقة الشاطئ الأزرق وذلك بعد هطول أمطار غزيرة في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139459",
-            "title": "مديرية الطوارئ في اللاذقية: فرق الدفاع المدني تنتشل جثمان طفل توفي غرقًا أثناء…",
-            "summary": "مديرية الطوارئ في اللاذقية: فرق الدفاع المدني تنتشل جثمان طفل توفي غرقًا أثناء السباحة في شاطئ الكرنك بمنطقة الشاطئ الأزرق وذلك بعد هطول أمطار غزيرة في المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/l9xlD892UI1A1UOuTjs1PcPHDCrDnyoIlhTaNwtuAQlW26joff-2HB51XAYG-Cl5JZ7-oyQ-xCCKxNAjn3StfROG13FQ02HW4TkfNXl1MvrYpm7JHlKo3r0EHDvpYiTye_zKZGrY2H6_iqyoEb8NHZYjkgzUSkcmNwQDtd11VA2oJHlhr7BY39cA1F7VMirkuBmpqkraUijcZKU6eEtuKMNStW42B5h-G4JlM07pwO-tY59dcOALAgik3WV6pLjHDiAM1q7Ff2lo_XrOG9ebkvfbXv_dFUwjRlnR8TEs6lPWlC-d6QWZxWt3zLvEkubMcewB7Q8qogdnDzSwMq6ySg.jpg",
-            "date_modified": "2026-08-15T06:26:46.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
