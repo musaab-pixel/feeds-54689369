@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 12:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 13:54:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1210,6 +1210,23 @@ Mi, 2. Sep 2026 18:59 Uhr </time> </span></p>]]></content:encoded>
 <i class="i i-navigation"></i></a></p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/55643/imago299266189.530x371-hidpi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Politik mal selber machen: Einblicke in einen Bürgerrat]]></title>
+            <link>https://bosch-stiftung.de/politik-mal-selber-machen-einblicke-einen-buergerrat</link>
+            <guid isPermaLink="false">54cea752e777b75539c99dff5ba128f44eed51a0ec2119fad8537c73fdd1a2ec</guid>
+            <pubDate>Mon, 17 Aug 2026 13:31:46 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Politik mal selber machen: Einblicke in einen Bürgerrat</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Politik mal selber machen: Einblicke in einen Bürgerrat</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
         </item>
         <item>
             <title><![CDATA[Nieuwe verhalen: van pesticiden tot radiatorfolie]]></title>
@@ -6576,13 +6593,6 @@ Podcast </span> <span class="mediateaser_media_control_duration">
             <guid isPermaLink="false">04109d5444f5a114f3f4c5022063564ab90e0424d82515f3b9cdb5957f5aaa49</guid>
             <pubDate>Fri, 24 Jul 2026 09:42:38 GMT</pubDate>
             <enclosure url="https://static.dw.com/image/77346821_600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Find the contact persons for DW Akademie's various areas of work here.]]></title>
-            <link>https://akademie.dw.com/en/contact/s-12141</link>
-            <guid isPermaLink="false">c58730c10d7f766830ee747e0a515cdb8d1577ce684f52577ed50e2421239ab5</guid>
-            <pubDate>Fri, 24 Jul 2026 09:42:38 GMT</pubDate>
-            <enclosure url="https://static.dw.com/image/69066881_600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

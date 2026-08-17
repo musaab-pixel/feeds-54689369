@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "54cea752e777b75539c99dff5ba128f44eed51a0ec2119fad8537c73fdd1a2ec",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Politik mal selber machen: Einblicke in einen Bürgerrat</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T15:31:46+02:00\" title=\"Montag, 17 August 2026 - 15:31\" class=\"datetime\">Mo. 17 Aug 2026 - 15:31</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/politik-mal-selber-machen-einblicke-einen-buergerrat",
+            "title": "Politik mal selber machen: Einblicke in einen Bürgerrat",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Politik mal selber machen: Einblicke in einen Bürgerrat</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T15:31:46+02:00\" title=\"Montag, 17 August 2026 - 15:31\" class=\"datetime\">Mo. 17 Aug 2026 - 15:31</time>\n</span>\n",
+            "date_modified": "2026-08-17T13:31:46.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "00b2cb33daa30a0497c03f501d00f0d3f33bd56fd20870836114da99eadff683",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für das Thema Demokratie (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-04T15:47:08+02:00\" title=\"Dienstag, 4 August 2026 - 15:47\" class=\"datetime\">Di. 4 Aug 2026 - 15:47</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/werkstudent-fuer-das-thema-demokratie-wmdiv",
