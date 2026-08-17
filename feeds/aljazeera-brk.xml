@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 05:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 06:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس وزراء باكستان: سنواصل بالتعاون مع السعودية وتركيا القيام بدور بناء في ضمان…]]></title>
+            <link>https://t.me/aljazeeraBrk/231041</link>
+            <guid isPermaLink="false">21b05b4c4da114b08a54a8e44ffd985e0993bfc65aca0454cbac000e82a1185f</guid>
+            <pubDate>Mon, 17 Aug 2026 05:54:02 GMT</pubDate>
+            <description><![CDATA[رئيس وزراء باكستان: سنواصل بالتعاون مع السعودية وتركيا القيام بدور بناء في ضمان الدفاع عن بلادنا وعن المنطقة]]></description>
+            <content:encoded><![CDATA[رئيس وزراء باكستان: سنواصل بالتعاون مع السعودية وتركيا القيام بدور بناء في ضمان الدفاع عن بلادنا وعن المنطقة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تجبر عائلة فلسطينية في قرية قلنديا شمالي القدس…]]></title>
             <link>https://t.me/aljazeeraBrk/231040</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 15:14:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الحكومة العراقية للجزيرة: ماضون بإتمام حصر السلاح والقرار للحكومة في تطبيق القانون بعد 30 سبتمبر]]></description>
             <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية للجزيرة: ماضون بإتمام حصر السلاح والقرار للحكومة في تطبيق القانون بعد 30 سبتمبر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس وزراء العراق: قرار انتهاء مهمة التحالف الدولي في العراق في 30 سبتمبر…]]></title>
-            <link>https://t.me/aljazeeraBrk/230521</link>
-            <guid isPermaLink="false">af33a82711231806c95519beab85b96a144f9110c874df1acb7c4e0c2c616e9c</guid>
-            <pubDate>Wed, 12 Aug 2026 15:06:02 GMT</pubDate>
-            <description><![CDATA[رئيس وزراء العراق: قرار انتهاء مهمة التحالف الدولي في العراق في 30 سبتمبر المقبل توقيت نهائي لا عودة عنه]]></description>
-            <content:encoded><![CDATA[رئيس وزراء العراق: قرار انتهاء مهمة التحالف الدولي في العراق في 30 سبتمبر المقبل توقيت نهائي لا عودة عنه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
