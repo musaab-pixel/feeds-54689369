@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 15:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 15:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سموتريتش: هدف القضاء على حماس لا ينسجم مع إجراء مفاوضات مع قادتها الذين يفترض…]]></title>
+            <link>https://t.me/aljazeeraBrk/231148</link>
+            <guid isPermaLink="false">7161c4920c5e343168c55f714dd5c8e051fa31601d2b46b23ce2816c5527b5bd</guid>
+            <pubDate>Mon, 17 Aug 2026 15:07:02 GMT</pubDate>
+            <description><![CDATA[سموتريتش: هدف القضاء على حماس لا ينسجم مع إجراء مفاوضات مع قادتها الذين يفترض أن لا يكونوا على قيد الحياة]]></description>
+            <content:encoded><![CDATA[سموتريتش: هدف القضاء على حماس لا ينسجم مع إجراء مفاوضات مع قادتها الذين يفترض أن لا يكونوا على قيد الحياة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سموتريتش: القضاء الكامل على حماس لن يتحقق دون احتلال قطاع غزة والسيطرة عليه…]]></title>
             <link>https://t.me/aljazeeraBrk/231147</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 14 Aug 2026 06:49:02 GMT</pubDate>
             <description><![CDATA[القناة 12 الإسرائيلية: مستوطنون يقيمون مجددا خيمة في بلدة قصرة بقضاء نابلس رغم دفع الجيش بكتيبة إضافية للمنطقة]]></description>
             <content:encoded><![CDATA[القناة 12 الإسرائيلية: مستوطنون يقيمون مجددا خيمة في بلدة قصرة بقضاء نابلس رغم دفع الجيش بكتيبة إضافية للمنطقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع الإسرائيلي: أمرت الجيش بنقل صلاحيات إنفاذ القانون في القضايا…]]></title>
-            <link>https://t.me/aljazeeraBrk/230686</link>
-            <guid isPermaLink="false">1a69db54e3832e9dfc403f3fddb2c78992cbb47e2401e776c92d5adb00858457</guid>
-            <pubDate>Fri, 14 Aug 2026 06:40:02 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع الإسرائيلي: أمرت الجيش بنقل صلاحيات إنفاذ القانون في القضايا المدنية بمستوطنات الضفة إلى الشرطة]]></description>
-            <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: أمرت الجيش بنقل صلاحيات إنفاذ القانون في القضايا المدنية بمستوطنات الضفة إلى الشرطة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
