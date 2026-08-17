@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 04:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 05:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تجبر عائلة فلسطينية في قرية قلنديا شمالي القدس…]]></title>
+            <link>https://t.me/aljazeeraBrk/231040</link>
+            <guid isPermaLink="false">71d5771103971be8ea814389b03963ff05625cdee37381ed4bc2f8376bd24bda</guid>
+            <pubDate>Mon, 17 Aug 2026 05:49:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تجبر عائلة فلسطينية في قرية قلنديا شمالي القدس على إخلاء منزلها تمهيدا لهدمه]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تجبر عائلة فلسطينية في قرية قلنديا شمالي القدس على إخلاء منزلها تمهيدا لهدمه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع الروسية: الدفاعات الجوية تعترض 205 مسيرات أوكرانية الليلة الماضية…]]></title>
             <link>https://t.me/aljazeeraBrk/231039</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 15:06:02 GMT</pubDate>
             <description><![CDATA[رئيس وزراء العراق: قرار انتهاء مهمة التحالف الدولي في العراق في 30 سبتمبر المقبل توقيت نهائي لا عودة عنه]]></description>
             <content:encoded><![CDATA[رئيس وزراء العراق: قرار انتهاء مهمة التحالف الدولي في العراق في 30 سبتمبر المقبل توقيت نهائي لا عودة عنه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سي إن إن عن مصادر: الخارجية الأمريكية طلبت من سفاراتها بالشرق الأوسط خططا…]]></title>
-            <link>https://t.me/aljazeeraBrk/230520</link>
-            <guid isPermaLink="false">29cda742793836dc7cd6affd0aba6cbb008b3ab516b7108958dae13f685bc2a8</guid>
-            <pubDate>Wed, 12 Aug 2026 14:53:03 GMT</pubDate>
-            <description><![CDATA[سي إن إن عن مصادر: الخارجية الأمريكية طلبت من سفاراتها بالشرق الأوسط خططا لمواصلة العمل بعدد محدود من الموظفين]]></description>
-            <content:encoded><![CDATA[سي إن إن عن مصادر: الخارجية الأمريكية طلبت من سفاراتها بالشرق الأوسط خططا لمواصلة العمل بعدد محدود من الموظفين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
