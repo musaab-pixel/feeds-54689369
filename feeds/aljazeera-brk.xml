@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 09:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 10:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: بدء اجتماع نتنياهو مع كوشنر ومسؤولي مجلس السلام في القدس]]></title>
+            <link>https://t.me/aljazeeraBrk/231086</link>
+            <guid isPermaLink="false">f0497aac2f74b943811183be7d1fde0e5fa72b8ede4993e8c79938e660b715ac</guid>
+            <pubDate>Mon, 17 Aug 2026 10:00:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: بدء اجتماع نتنياهو مع كوشنر ومسؤولي مجلس السلام في القدس]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: بدء اجتماع نتنياهو مع كوشنر ومسؤولي مجلس السلام في القدس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس بلدية قصرة في الضفة الغربية للجزيرة: مستوطنون وقوات الاحتلال يحكمون الحصار…]]></title>
             <link>https://t.me/aljazeeraBrk/231085</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 21:03:03 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية الإيرانية: أدلة أولية على أن مصدر التلوث النفطي في سواحل جزيرة قشم كان سفينة أجنبية]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: أدلة أولية على أن مصدر التلوث النفطي في سواحل جزيرة قشم كان سفينة أجنبية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الأمريكية للجزيرة: الولايات المتحدة تدعم بشكل كامل سلامة الأراضي…]]></title>
-            <link>https://t.me/aljazeeraBrk/230557</link>
-            <guid isPermaLink="false">986e01d24263985ab061ed63b4fffa7ad3015f0cf924f0c4cdf83c5d7aa78fe4</guid>
-            <pubDate>Wed, 12 Aug 2026 20:59:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الأمريكية للجزيرة: الولايات المتحدة تدعم بشكل كامل سلامة الأراضي اللبنانية وسيادتها]]></description>
-            <content:encoded><![CDATA[الخارجية الأمريكية للجزيرة: الولايات المتحدة تدعم بشكل كامل سلامة الأراضي اللبنانية وسيادتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
