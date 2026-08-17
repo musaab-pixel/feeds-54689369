@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 10:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 10:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام يمنية حكومية: صاروخان جديدان يستهدفان مدينة المخا أحدهما سقط في…]]></title>
+            <link>https://t.me/aljazeeraBrk/231087</link>
+            <guid isPermaLink="false">009d24684293e38cb4c53b50f16723cce610fa717d60bdd53495ce6763149571</guid>
+            <pubDate>Mon, 17 Aug 2026 10:14:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام يمنية حكومية: صاروخان جديدان يستهدفان مدينة المخا أحدهما سقط في منطقة الميناء]]></description>
+            <content:encoded><![CDATA[وسائل إعلام يمنية حكومية: صاروخان جديدان يستهدفان مدينة المخا أحدهما سقط في منطقة الميناء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام إسرائيلية: بدء اجتماع نتنياهو مع كوشنر ومسؤولي مجلس السلام في القدس]]></title>
             <link>https://t.me/aljazeeraBrk/231086</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 12 Aug 2026 21:04:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن لإيران أن تبقى غير مبالية تجاه التلوث البيئي في سواحلها]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: لا يمكن لإيران أن تبقى غير مبالية تجاه التلوث البيئي في سواحلها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: أدلة أولية على أن مصدر التلوث النفطي في سواحل…]]></title>
-            <link>https://t.me/aljazeeraBrk/230558</link>
-            <guid isPermaLink="false">ae628bdc8e48faa11ddf567e6c539febcfcae8d5015d9d351e6b93c26e96b935</guid>
-            <pubDate>Wed, 12 Aug 2026 21:03:03 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: أدلة أولية على أن مصدر التلوث النفطي في سواحل جزيرة قشم كان سفينة أجنبية]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: أدلة أولية على أن مصدر التلوث النفطي في سواحل جزيرة قشم كان سفينة أجنبية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
