@@ -4,7 +4,7 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 13:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -19,6 +19,23 @@
 </span>
 ]]></description>
             <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Politik mal selber machen: Einblicke in einen Bürgerrat</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
+        </item>
+        <item>
+            <title><![CDATA[Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat]]></title>
+            <link>https://bosch-stiftung.de/alles-andere-als-stammtischniveau-einblicke-einen-buergerrat</link>
+            <guid isPermaLink="false">7d981412bbb4aabf78b1e2ed2bb211622146eeae62bd4a6016539bcf73ad9942</guid>
+            <pubDate>Mon, 17 Aug 2026 13:31:46 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>
 <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
 </span>
