@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 17 Aug 2026 11:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: قائد الجيش بحث مع الجنرال الأمريكي كليرفيلد الصعوبات التي…]]></title>
+            <link>https://t.me/aljazeeraBrk/231098</link>
+            <guid isPermaLink="false">a5aa2d5a5dc66d09caa57e45c15a10e47d77f20755914f6286b01b3541fb1099</guid>
+            <pubDate>Mon, 17 Aug 2026 11:25:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: قائد الجيش بحث مع الجنرال الأمريكي كليرفيلد الصعوبات التي يواجهها الجيش بسبب اعتداءات إسرائيل]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: قائد الجيش بحث مع الجنرال الأمريكي كليرفيلد الصعوبات التي يواجهها الجيش بسبب اعتداءات إسرائيل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[الجيش اللبناني: قائد الجيش بحث مع رئيس مجموعة التنسيق الخاصة بلبنان الترتيبات…]]></title>
+            <link>https://t.me/aljazeeraBrk/231097</link>
+            <guid isPermaLink="false">15a6a87eb46bbdc45fc4221e6ed1f5035e45f947af2e033ecb3e5597bcc67ab1</guid>
+            <pubDate>Mon, 17 Aug 2026 11:24:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: قائد الجيش بحث مع رئيس مجموعة التنسيق الخاصة بلبنان الترتيبات الأمنية المتعلقة باتفاق الإطار]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: قائد الجيش بحث مع رئيس مجموعة التنسيق الخاصة بلبنان الترتيبات الأمنية المتعلقة باتفاق الإطار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تقصف بالمدفعية تل الأحمر الشرقي في…]]></title>
             <link>https://t.me/aljazeeraBrk/231096</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Thu, 13 Aug 2026 00:22:03 GMT</pubDate>
             <description><![CDATA[رويترز عن السلطات الأوكرانية: اندلاع حرائق في ميناء إزمائيل جنوب غربي البلاد إثر هجوم روسي عليه]]></description>
             <content:encoded><![CDATA[رويترز عن السلطات الأوكرانية: اندلاع حرائق في ميناء إزمائيل جنوب غربي البلاد إثر هجوم روسي عليه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[واشنطن بوست عن مسؤول أمريكي: تقديم إسرائيل معلومات بشأن احتمال استهداف ترمب…]]></title>
-            <link>https://t.me/aljazeeraBrk/230569</link>
-            <guid isPermaLink="false">bea6ff5082eda5b39e212d65896f9afac6aa22c0b9795652fc892dcd6f171a65</guid>
-            <pubDate>Wed, 12 Aug 2026 23:49:05 GMT</pubDate>
-            <description><![CDATA[واشنطن بوست عن مسؤول أمريكي: تقديم إسرائيل معلومات بشأن احتمال استهداف ترمب ربما كان يهدف للتأثير في قراراته]]></description>
-            <content:encoded><![CDATA[واشنطن بوست عن مسؤول أمريكي: تقديم إسرائيل معلومات بشأن احتمال استهداف ترمب ربما كان يهدف للتأثير في قراراته]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[واشنطن بوست عن مسؤول أمريكي: التقارير عن تهديدات لحياة ترمب أثناء زيارته تركيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/230568</link>
-            <guid isPermaLink="false">e1f37be647d7165c9281cf7e429e993e0ebc20c92c908546cf56c4a427615f0a</guid>
-            <pubDate>Wed, 12 Aug 2026 23:45:14 GMT</pubDate>
-            <description><![CDATA[واشنطن بوست عن مسؤول أمريكي: التقارير عن تهديدات لحياة ترمب أثناء زيارته تركيا مستمدة من مصادر إسرائيلية]]></description>
-            <content:encoded><![CDATA[واشنطن بوست عن مسؤول أمريكي: التقارير عن تهديدات لحياة ترمب أثناء زيارته تركيا مستمدة من مصادر إسرائيلية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
