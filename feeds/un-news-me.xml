@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 05:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Gaza: Only three per cent of cropland available to grow food]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/08/1168160</link>
+            <guid isPermaLink="false">c8af25472475ef4a6d3b329834f09456a36542ac42025df23bc500f7dac5e7c4</guid>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.]]></description>
+            <content:encoded><![CDATA[Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-05-2026-IOM-Gaza-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/08/1168155</link>

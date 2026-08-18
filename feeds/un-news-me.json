@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "c8af25472475ef4a6d3b329834f09456a36542ac42025df23bc500f7dac5e7c4",
+            "content_html": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168160",
+            "title": "Gaza: Only three per cent of cropland available to grow food",
+            "summary": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-05-2026-IOM-Gaza-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-18T12:00:00.000Z"
+        },
+        {
             "id": "7846015d489cace671e6029b9b723cd4bb30304b842fb4b1213a994fe9714192",
             "content_html": "Humanitarian workers have reached Palestinian families who had been trapped for days by Israeli settlers in Qusra village in the northern West Bank, the UN said on Monday, as officials warned that the standoff must not become \"the new normal.\"",
             "url": "https://news.un.org/feed/view/en/story/2026/08/1168155",
