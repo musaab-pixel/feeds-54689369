@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "b882fb942fe2c726e390c93555b4539fb6d6ef8761ac6921622c8ad98b1d9721",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/second-culture-helps-solidarity-call-for-project-grants/\">Second Culture Helps Solidarity Call For Project Grants</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/second-culture-helps-solidarity-call-for-project-grants/",
+            "title": "Second Culture Helps Solidarity Call For Project Grants",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/second-culture-helps-solidarity-call-for-project-grants/\">Second Culture Helps Solidarity Call For Project Grants</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-08-18T14:19:38.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "e8a0bd704b39be200a76da1c7e93192e98d1d0c30844bfaa160762a3bafdf3a9",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/what-once-felt-impossible-became-inevitable-a-big-europe-interview-with-ivan-krastev/\">&#8220;What once felt impossible became inevitable.&#8221; A BIG Europe Interview with Ivan Krastev</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/what-once-felt-impossible-became-inevitable-a-big-europe-interview-with-ivan-krastev/",
