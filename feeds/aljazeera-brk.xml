@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 06:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 06:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز: زلزال بقوة 6.1 درجة يضرب جزيرة سومطرة غربي إندونيسيا]]></title>
+            <link>https://t.me/aljazeeraBrk/231247</link>
+            <guid isPermaLink="false">56082b4fa5b98d1a76b52d35f4b22aa9da3b43359c6ef7b7ad1d4e845b7eaa0f</guid>
+            <pubDate>Tue, 18 Aug 2026 06:27:02 GMT</pubDate>
+            <description><![CDATA[رويترز: زلزال بقوة 6.1 درجة يضرب جزيرة سومطرة غربي إندونيسيا]]></description>
+            <content:encoded><![CDATA[رويترز: زلزال بقوة 6.1 درجة يضرب جزيرة سومطرة غربي إندونيسيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة موسكو: منظومات الدفاع الجوي صدت 620 مسيرة متوجهة نحو موسكو وضواحيها منذ…]]></title>
             <link>https://t.me/aljazeeraBrk/231246</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 16 Aug 2026 12:48:02 GMT</pubDate>
             <description><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يقرر لقاء قيادة حماس بالقاهرة قبل توجهه إلى تل أبيب للقاء رئيس الوزراء الإسرائيلي]]></description>
             <content:encoded><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يقرر لقاء قيادة حماس بالقاهرة قبل توجهه إلى تل أبيب للقاء رئيس الوزراء الإسرائيلي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يلتقي بعد قليل قيادة حماس في القاهرة بحضور مسؤولين…]]></title>
-            <link>https://t.me/aljazeeraBrk/230968</link>
-            <guid isPermaLink="false">66a4b9d8f5aa28a584c1080c22c5ac38f6c66edbd934e6ee99540999737d9e35</guid>
-            <pubDate>Sun, 16 Aug 2026 12:47:02 GMT</pubDate>
-            <description><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يلتقي بعد قليل قيادة حماس في القاهرة بحضور مسؤولين قطريين ومصريين وأتراك]]></description>
-            <content:encoded><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يلتقي بعد قليل قيادة حماس في القاهرة بحضور مسؤولين قطريين ومصريين وأتراك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
