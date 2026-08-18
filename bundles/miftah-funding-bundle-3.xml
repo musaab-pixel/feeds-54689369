@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 09:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:57:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1360,6 +1360,23 @@ Mi, 2. Sep 2026 18:59 Uhr </time> </span></p>]]></content:encoded>
             <title><![CDATA[Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat]]></title>
             <link>https://bosch-stiftung.de/alles-andere-als-stammtischniveau-einblicke-einen-buergerrat</link>
             <guid isPermaLink="false">7d981412bbb4aabf78b1e2ed2bb211622146eeae62bd4a6016539bcf73ad9942</guid>
+            <pubDate>Mon, 17 Aug 2026 13:31:46 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T15:31:46+02:00" title="Montag, 17 August 2026 - 15:31" class="datetime">Mo. 17 Aug 2026 - 15:31</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
+        </item>
+        <item>
+            <title><![CDATA[Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat]]></title>
+            <link>https://bosch-stiftung.de/story/alles-andere-als-stammtischniveau-einblicke-einen-buergerrat</link>
+            <guid isPermaLink="false">620b34ba46d1c826dede34ff4213206ad89c3e12dfd98e7c058855efaca75605</guid>
             <pubDate>Mon, 17 Aug 2026 13:31:46 GMT</pubDate>
             <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>
 <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
@@ -6818,13 +6835,6 @@ Podcast </span> <span class="mediateaser_media_control_duration">
             <guid isPermaLink="false">e2e4acaa2a80dc7bde7f626333055038742535054aac5c7850e12b51f081cef9</guid>
             <pubDate>Fri, 24 Jul 2026 09:42:38 GMT</pubDate>
             <enclosure url="https://static.dw.com/image/65381395_600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DW Akademie works equal access to information and freedom of expression for women and girls.]]></title>
-            <link>https://akademie.dw.com/en/women-and-media/s-56744976</link>
-            <guid isPermaLink="false">3b03dc7aedd39a88fff63465138ff192311c89f12fa0f74740837039d0699c46</guid>
-            <pubDate>Fri, 24 Jul 2026 09:42:38 GMT</pubDate>
-            <enclosure url="https://static.dw.com/image/61394566_600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

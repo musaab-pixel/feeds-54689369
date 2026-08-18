@@ -27,6 +27,17 @@
             }
         },
         {
+            "id": "620b34ba46d1c826dede34ff4213206ad89c3e12dfd98e7c058855efaca75605",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T15:31:46+02:00\" title=\"Montag, 17 August 2026 - 15:31\" class=\"datetime\">Mo. 17 Aug 2026 - 15:31</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/alles-andere-als-stammtischniveau-einblicke-einen-buergerrat",
+            "title": "Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Alles andere als Stammtischniveau: Einblicke in einen Bürgerrat</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T15:31:46+02:00\" title=\"Montag, 17 August 2026 - 15:31\" class=\"datetime\">Mo. 17 Aug 2026 - 15:31</time>\n</span>\n",
+            "date_modified": "2026-08-17T13:31:46.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "00b2cb33daa30a0497c03f501d00f0d3f33bd56fd20870836114da99eadff683",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für das Thema Demokratie (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-04T15:47:08+02:00\" title=\"Dienstag, 4 August 2026 - 15:47\" class=\"datetime\">Di. 4 Aug 2026 - 15:47</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/werkstudent-fuer-das-thema-demokratie-wmdiv",
@@ -63,6 +74,17 @@
             "id": "e3394c8a49e8df643278ebeef563daa1e044d3b1b280b372b3b006f0acbb619c",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/mythen-ueber-ki",
+            "title": "Mythen über KI",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
+            "date_modified": "2026-07-22T10:41:01.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
+            "id": "e445655d224fbfd04e0cf7e7012705a582cbe9e50ef6cb0149d4ef7d63287d13",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/mythen-ueber-ki",
             "title": "Mythen über KI",
             "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mythen über KI</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-22T12:41:01+02:00\" title=\"Mittwoch, 22 Juli 2026 - 12:41\" class=\"datetime\">Mi. 22 Jul 2026 - 12:41</time>\n</span>\n",
             "date_modified": "2026-07-22T10:41:01.000Z",
