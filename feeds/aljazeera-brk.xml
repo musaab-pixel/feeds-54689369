@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 09:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 09:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين ويحرقون أراضي زراعية في أبو نجيم جنوب…]]></title>
+            <link>https://t.me/aljazeeraBrk/231282</link>
+            <guid isPermaLink="false">17501ef9faa28be9d5fc5f2ca8de063777ea20c43a83f613ad91f678d0e36914</guid>
+            <pubDate>Tue, 18 Aug 2026 09:34:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين ويحرقون أراضي زراعية في أبو نجيم جنوب بيت لحم بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين ويحرقون أراضي زراعية في أبو نجيم جنوب بيت لحم بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس اللبناني: إعادة الإعمار ستتولاها الدولة بعد انسحاب القوات الإسرائيلية…]]></title>
             <link>https://t.me/aljazeeraBrk/231281</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 16 Aug 2026 17:28:03 GMT</pubDate>
             <description><![CDATA[القناة 12 الإسرائيلية عن مصدر أمني: الجيش يستعد لاحتمال التصعيد في لبنان إثر الأحداث في مرتفعات علي الطاهر]]></description>
             <content:encoded><![CDATA[القناة 12 الإسرائيلية عن مصدر أمني: الجيش يستعد لاحتمال التصعيد في لبنان إثر الأحداث في مرتفعات علي الطاهر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[النائب الأول للرئيس الإيراني: غلاء الأسعار بلغ حدا مزعجا واستراتيجية العدو…]]></title>
-            <link>https://t.me/aljazeeraBrk/230999</link>
-            <guid isPermaLink="false">4a006cd68f1052ad8923f8cfd79329e8116320b28b10385539cf0c5eafc32281</guid>
-            <pubDate>Sun, 16 Aug 2026 17:08:02 GMT</pubDate>
-            <description><![CDATA[النائب الأول للرئيس الإيراني: غلاء الأسعار بلغ حدا مزعجا واستراتيجية العدو تتمثل في استغلال ذلك]]></description>
-            <content:encoded><![CDATA[النائب الأول للرئيس الإيراني: غلاء الأسعار بلغ حدا مزعجا واستراتيجية العدو تتمثل في استغلال ذلك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
