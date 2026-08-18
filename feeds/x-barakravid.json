@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"Barak Ravid — باراك رافيد (X)\" (type: x)",
     "items": [
         {
+            "id": "f31112772af0e3539830818c836f324bbb5860a5b13f11559a69550fddb30a0b",
+            "content_html": "<p>Ambassador Mike Huckabee doubles down on his condemnation of extremist settler violence in Qusra — and underscores that an American citizen’s home and family were among those targeted:</p>\n<a href=\"https://x.com/LeviYonit/status/2089766453582909461\">\n<br>Video<br>\n  <img src=\"https://pbs.twimg.com/amplify_video_thumb/2089766338310885376/img/EqKc42oCPfBn5XY2.jpg\" style=\"max-width:250px;\" />\n</a>",
+            "url": "https://x.com/LeviYonit/status/2089766453582909461",
+            "title": "RT by @BarakRavid: Ambassador Mike Huckabee doubles down on his condemnation of extremist settler violence in Qusra — and underscores that an American citizen’s home and family were among those targeted:",
+            "summary": "<p>Ambassador Mike Huckabee doubles down on his condemnation of extremist settler violence in Qusra — and underscores that an American citizen’s home and family were among those targeted:</p>\n<a href=\"https://x.com/LeviYonit/status/2089766453582909461\">\n<br>Video<br>\n  <img src=\"https://pbs.twimg.com/amplify_video_thumb/2089766338310885376/img/EqKc42oCPfBn5XY2.jpg\" style=\"max-width:250px;\" />\n</a>",
+            "image": "https://pbs.twimg.com/amplify_video_thumb/2089766338310885376/img/EqKc42oCPfBn5XY2.jpg",
+            "date_modified": "2026-08-18T17:28:43.000Z",
+            "author": {
+                "name": "@LeviYonit"
+            }
+        },
+        {
             "id": "476cb392d5f823130d459910d5504a880838964e4c39b57d1687b5afc27cbd0d",
             "content_html": "<p>🚨🇮🇱🇹🇷🇸🇾An Israeli official claimed the strike on the Syrian airbase near Idlib was aimed at preventing Turkish military build up<br>\n🚨🇹🇷🇮🇱🇸🇾A Turkish official told me: “There was no Turkish presence at the airbase. Israel is inventing pretexts to bomb neighboring countries and destabilize the region.”</p>",
             "url": "https://x.com/BarakRavid/status/2089751225877041322",
@@ -2325,18 +2337,6 @@
             "date_modified": "2026-07-31T09:44:42.000Z",
             "author": {
                 "name": "@ShalomLipner"
-            }
-        },
-        {
-            "id": "c3fd06681e499c0add56a87697836b1c6ea0f95833bf14b7f3639374657a87fe",
-            "content_html": "<p>לא היתה ולא תהיה הנאה כמו שקיימת בזמן הצפייה במלטדאון המטורף של קלמן ליבסקינד.<br>\nכבר אבדו כל הברקסים, כבר אין שום חשיבות לתעודת העיתונאי.<br>\nליבסקינד הוא בעצם מאיר רובין, ובקרוב גם הוא יתחיל לכתוב על ארנבות.<br>\nתודה לך על זה קלמן.</p>\n<img src=\"https://pbs.twimg.com/media/HOi1GW7XUAAEsNJ.jpg\" style=\"max-width:250px;\" />",
-            "url": "https://x.com/moshe_tsach/status/2083113956621627800",
-            "title": "RT by @BarakRavid: לא היתה ולא תהיה הנאה כמו שקיימת בזמן הצפייה במלטדאון המטורף של קלמן ליבסקינד. כבר אבדו כל הברקסים, כבר אין שום חשיבות לתעודת העיתונאי. ליבסקינד הוא בעצם מאיר רובין, ובקרוב גם הוא יתחיל לכתוב על ארנבות. תודה לך על זה קלמן.",
-            "summary": "<p>לא היתה ולא תהיה הנאה כמו שקיימת בזמן הצפייה במלטדאון המטורף של קלמן ליבסקינד.<br>\nכבר אבדו כל הברקסים, כבר אין שום חשיבות לתעודת העיתונאי.<br>\nליבסקינד הוא בעצם מאיר רובין, ובקרוב גם הוא יתחיל לכתוב על ארנבות.<br>\nתודה לך על זה קלמן.</p>\n<img src=\"https://pbs.twimg.com/media/HOi1GW7XUAAEsNJ.jpg\" style=\"max-width:250px;\" />",
-            "image": "https://pbs.twimg.com/media/HOi1GW7XUAAEsNJ.jpg",
-            "date_modified": "2026-07-31T08:54:04.000Z",
-            "author": {
-                "name": "@moshe_tsach"
             }
         }
     ]
