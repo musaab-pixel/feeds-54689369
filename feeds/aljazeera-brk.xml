@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 17:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: هاجمنا في غزة قادة كتيبة من النخبة أثناء اجتماعهم بينهم قائد…]]></title>
+            <link>https://t.me/aljazeeraBrk/231391</link>
+            <guid isPermaLink="false">49eae49fd42870035837ad2dd2ab5f42dfe6272c75a9f5b6c3587ec8d30f5b7b</guid>
+            <pubDate>Tue, 18 Aug 2026 17:39:03 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: هاجمنا في غزة قادة كتيبة من النخبة أثناء اجتماعهم بينهم قائد سرية و3 قادة فصائل]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: هاجمنا في غزة قادة كتيبة من النخبة أثناء اجتماعهم بينهم قائد سرية و3 قادة فصائل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن تعرض سفينة شحن قبالة…]]></title>
             <link>https://t.me/aljazeeraBrk/231390</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 17 Aug 2026 12:25:03 GMT</pubDate>
             <description><![CDATA[حماس: تصريحات الرئيس ترمب تؤكد التزامه بمسار وقف إطلاق النار]]></description>
             <content:encoded><![CDATA[حماس: تصريحات الرئيس ترمب تؤكد التزامه بمسار وقف إطلاق النار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: نرحب بتصريحات الرئيس ترمب التي دعت إسرائيل لوقف هجماتها على غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/231116</link>
-            <guid isPermaLink="false">2fd74648e7ce1626b0fd7ef998d72c0ed6cc8ce5f5a338c34c7a4b49c5e779a8</guid>
-            <pubDate>Mon, 17 Aug 2026 12:24:03 GMT</pubDate>
-            <description><![CDATA[حماس: نرحب بتصريحات الرئيس ترمب التي دعت إسرائيل لوقف هجماتها على غزة]]></description>
-            <content:encoded><![CDATA[حماس: نرحب بتصريحات الرئيس ترمب التي دعت إسرائيل لوقف هجماتها على غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
