@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 17:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن تعرض سفينة شحن قبالة…]]></title>
+            <link>https://t.me/aljazeeraBrk/231390</link>
+            <guid isPermaLink="false">b43ed255217b7486ab63d03854cf69ae99f6f9c5a93f20877156d8cc577a6a97</guid>
+            <pubDate>Tue, 18 Aug 2026 17:27:02 GMT</pubDate>
+            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن تعرض سفينة شحن قبالة المخا لضربات بمقذوفات مجهولة]]></description>
+            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن تعرض سفينة شحن قبالة المخا لضربات بمقذوفات مجهولة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: قطر أدت إلى جانب باكستان دورا بالغ الأهمية ودخلت في الوساطة وعلاقتنا…]]></title>
             <link>https://t.me/aljazeeraBrk/231389</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 17 Aug 2026 12:24:03 GMT</pubDate>
             <description><![CDATA[حماس: نرحب بتصريحات الرئيس ترمب التي دعت إسرائيل لوقف هجماتها على غزة]]></description>
             <content:encoded><![CDATA[حماس: نرحب بتصريحات الرئيس ترمب التي دعت إسرائيل لوقف هجماتها على غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: ما استخدمناه من مخزونات الأسلحة حتى الآن لا يذكر]]></title>
-            <link>https://t.me/aljazeeraBrk/231115</link>
-            <guid isPermaLink="false">2def20cf29d081bef21b0f6dcfb696a136059c2745c8e130e4806a635da22cef</guid>
-            <pubDate>Mon, 17 Aug 2026 11:57:02 GMT</pubDate>
-            <description><![CDATA[ترمب: ما استخدمناه من مخزونات الأسلحة حتى الآن لا يذكر]]></description>
-            <content:encoded><![CDATA[ترمب: ما استخدمناه من مخزونات الأسلحة حتى الآن لا يذكر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
