@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 14:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 14:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إنترفاكس عن وزارة الدفاع الروسية: قواتنا استهدفت سفينة شحن في البحر الأسود]]></title>
+            <link>https://t.me/aljazeeraBrk/231352</link>
+            <guid isPermaLink="false">ac1485a67aafd0fe7809262888fbd1286dcb5f24a3a90c2d9321f9f34e204eb3</guid>
+            <pubDate>Tue, 18 Aug 2026 14:51:02 GMT</pubDate>
+            <description><![CDATA[إنترفاكس عن وزارة الدفاع الروسية: قواتنا استهدفت سفينة شحن في البحر الأسود]]></description>
+            <content:encoded><![CDATA[إنترفاكس عن وزارة الدفاع الروسية: قواتنا استهدفت سفينة شحن في البحر الأسود]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص الحي خلال اقتحامها مخيم الأمعري في…]]></title>
             <link>https://t.me/aljazeeraBrk/231351</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 17 Aug 2026 09:10:03 GMT</pubDate>
             <description><![CDATA[الرئيس اللبناني: خيارنا الأول التمديد لليونيفيل وإلا فاعتماد صيغة نكون جزءا منها وتضمن استمرار وجود قوات دولية]]></description>
             <content:encoded><![CDATA[الرئيس اللبناني: خيارنا الأول التمديد لليونيفيل وإلا فاعتماد صيغة نكون جزءا منها وتضمن استمرار وجود قوات دولية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: خيارنا الأول التمديد لليونيفيل وإلا فاعتماد صيغة تضمن استمرار…]]></title>
-            <link>https://t.me/aljazeeraBrk/231078</link>
-            <guid isPermaLink="false">231fae1bbcce5d77de599ef375793ae6cc0eb46744e84cb6303996423a2cb9e4</guid>
-            <pubDate>Mon, 17 Aug 2026 09:09:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: خيارنا الأول التمديد لليونيفيل وإلا فاعتماد صيغة تضمن استمرار وجود قوات دولية نكون جزءا منها]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: خيارنا الأول التمديد لليونيفيل وإلا فاعتماد صيغة تضمن استمرار وجود قوات دولية نكون جزءا منها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
