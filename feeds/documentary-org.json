@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"documentary.org\" (type: native)",
     "items": [
         {
+            "id": "26c85fa734059d2abdab0f5f5539427b2508ba2f0fda4cbeb73b121572ac5926",
+            "content_html": "    IDA Member Spotlight: Alysa Nahmias\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/users/admin\" class=\"username\">ida-admin</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T14:39:54-07:00\" title=\"Monday, August 17, 2026 - 14:39\" class=\"datetime\">Mon, 08/17/2026 - 14:39</time>\n</span>\n\n\n",
+            "url": "https://www.documentary.org/blog/ida-member-spotlight-alysa-nahmias",
+            "title": "IDA Member Spotlight: Alysa Nahmias",
+            "summary": "    IDA Member Spotlight: Alysa Nahmias\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/users/admin\" class=\"username\">ida-admin</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T14:39:54-07:00\" title=\"Monday, August 17, 2026 - 14:39\" class=\"datetime\">Mon, 08/17/2026 - 14:39</time>\n</span>\n\n\n",
+            "date_modified": "2026-08-17T21:39:54.000Z",
+            "author": {
+                "name": "ida-admin"
+            }
+        },
+        {
             "id": "7129fc074059af9965463e99f0b04bf275b10307ea8d4fc9d0ed329bbd9f1c8e",
             "content_html": "    IDA Member Spotlight: Rémi Grellety\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/ida-staff\" class=\"username\">idastaff</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-07-15T15:08:24-07:00\" title=\"Wednesday, July 15, 2026 - 15:08\" class=\"datetime\">Wed, 07/15/2026 - 15:08</time>\n</span>\n\n\n",
             "url": "https://www.documentary.org/blog/ida-member-spotlight-Remi-Grellety",

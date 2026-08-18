@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 14:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 22:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IDA Member Spotlight: Alysa Nahmias]]></title>
+            <link>https://www.documentary.org/blog/ida-member-spotlight-alysa-nahmias</link>
+            <guid isPermaLink="false">26c85fa734059d2abdab0f5f5539427b2508ba2f0fda4cbeb73b121572ac5926</guid>
+            <pubDate>Mon, 17 Aug 2026 21:39:54 GMT</pubDate>
+            <description><![CDATA[    IDA Member Spotlight: Alysa Nahmias
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T14:39:54-07:00" title="Monday, August 17, 2026 - 14:39" class="datetime">Mon, 08/17/2026 - 14:39</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    IDA Member Spotlight: Alysa Nahmias
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-17T14:39:54-07:00" title="Monday, August 17, 2026 - 14:39" class="datetime">Mon, 08/17/2026 - 14:39</time>
+</span>
+
+
+]]></content:encoded>
+            <author>ida-admin</author>
+        </item>
         <item>
             <title><![CDATA[IDA Member Spotlight: Rémi Grellety]]></title>
             <link>https://www.documentary.org/blog/ida-member-spotlight-Remi-Grellety</link>
