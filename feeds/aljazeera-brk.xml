@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 06:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 06:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عمدة موسكو: منظومات الدفاع الجوي صدت 620 مسيرة متوجهة نحو موسكو وضواحيها منذ…]]></title>
+            <link>https://t.me/aljazeeraBrk/231246</link>
+            <guid isPermaLink="false">22235d8f62e8df6d3c7265bf55eba7b0b951c0081b8133b66d5274946f84cfdf</guid>
+            <pubDate>Tue, 18 Aug 2026 06:15:02 GMT</pubDate>
+            <description><![CDATA[عمدة موسكو: منظومات الدفاع الجوي صدت 620 مسيرة متوجهة نحو موسكو وضواحيها منذ مساء أمس]]></description>
+            <content:encoded><![CDATA[عمدة موسكو: منظومات الدفاع الجوي صدت 620 مسيرة متوجهة نحو موسكو وضواحيها منذ مساء أمس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الخارجية الإيراني: إسرائيل بذلت جهدها لمنع التوصل لمذكرة التفاهم وعدم…]]></title>
             <link>https://t.me/aljazeeraBrk/231245</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 16 Aug 2026 12:47:02 GMT</pubDate>
             <description><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يلتقي بعد قليل قيادة حماس في القاهرة بحضور مسؤولين قطريين ومصريين وأتراك]]></description>
             <content:encoded><![CDATA[مصدر فلسطيني للجزيرة: كوشنر يلتقي بعد قليل قيادة حماس في القاهرة بحضور مسؤولين قطريين ومصريين وأتراك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قصف إسرائيلي لشقة سكنية في منطقة المخيم الجديد بالنصيرات وسط…]]></title>
-            <link>https://t.me/aljazeeraBrk/230967</link>
-            <guid isPermaLink="false">728e0d5a0c178b44d63c0290493e8a06a4f0f1cedca03afc6ddff09735fe3d0f</guid>
-            <pubDate>Sun, 16 Aug 2026 12:44:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قصف إسرائيلي لشقة سكنية في منطقة المخيم الجديد بالنصيرات وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قصف إسرائيلي لشقة سكنية في منطقة المخيم الجديد بالنصيرات وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
