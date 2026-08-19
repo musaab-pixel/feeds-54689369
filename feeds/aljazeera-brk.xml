@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 16:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 16:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قتلنا أمس في منطقة الشاطئ قائد سرية و3 قادة فصائل بقوة النخبة…]]></title>
+            <link>https://t.me/aljazeeraBrk/231547</link>
+            <guid isPermaLink="false">950603d4f6ea5003c735614c508bfb5c8cf41b93c240cef2eb28dac0c3cf4376</guid>
+            <pubDate>Wed, 19 Aug 2026 16:17:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قتلنا أمس في منطقة الشاطئ قائد سرية و3  قادة فصائل بقوة النخبة في كتيبة بيت لاهيا بحماس]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قتلنا أمس في منطقة الشاطئ قائد سرية و3  قادة فصائل بقوة النخبة في كتيبة بيت لاهيا بحماس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة : قوات الاحتلال تقتحم مناطق عدة في محيط جبل صبيح ببلدة بيتا جنوب…]]></title>
             <link>https://t.me/aljazeeraBrk/231546</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 13:33:03 GMT</pubDate>
             <description><![CDATA[ترمب: لا توجد محادثات أو مناقشات جارية أو مقررة مع إيران]]></description>
             <content:encoded><![CDATA[ترمب: لا توجد محادثات أو مناقشات جارية أو مقررة مع إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: الحصار البحري مستمر بقوة وفعالية ومضيق هرمز مفتوح والعمل فيه مستمر]]></title>
-            <link>https://t.me/aljazeeraBrk/231338</link>
-            <guid isPermaLink="false">581e7ccabdbe266bda82b981aee8f3416b1a88b47e9106a172f0c97e7a9a8762</guid>
-            <pubDate>Tue, 18 Aug 2026 13:33:03 GMT</pubDate>
-            <description><![CDATA[ترمب: الحصار البحري مستمر بقوة وفعالية ومضيق هرمز مفتوح والعمل فيه مستمر]]></description>
-            <content:encoded><![CDATA[ترمب: الحصار البحري مستمر بقوة وفعالية ومضيق هرمز مفتوح والعمل فيه مستمر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
