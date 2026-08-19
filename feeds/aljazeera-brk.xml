@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 11:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 11:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهداء ومصابون في غارة من مسيرة إسرائيلية على وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/231499</link>
+            <guid isPermaLink="false">2ee6576ccc58b044c61ec11ec8574ef1163e44ccf227583026fe5fcadc880772</guid>
+            <pubDate>Wed, 19 Aug 2026 11:41:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهداء ومصابون في غارة من مسيرة إسرائيلية على وسط مدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهداء ومصابون في غارة من مسيرة إسرائيلية على وسط مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: مصابان بنيران قوات الاحتلال في مدينة بيت لاهيا شمالي…]]></title>
+            <link>https://t.me/aljazeeraBrk/231498</link>
+            <guid isPermaLink="false">bae71a91e82795aeb55ba70dbe3876ba0902f738315f1f0355f510d9453437c3</guid>
+            <pubDate>Wed, 19 Aug 2026 11:33:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: مصابان بنيران قوات الاحتلال في مدينة بيت لاهيا شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: مصابان بنيران قوات الاحتلال في مدينة بيت لاهيا شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على وسط مدينة غزة]]></title>
             <link>https://t.me/aljazeeraBrk/231497</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 10:24:02 GMT</pubDate>
             <description><![CDATA[الخارجية السورية: ندين بأشد العبارات الغارات الجوية الإسرائيلية التي استهدفت مطار أبو الظهور العسكري في إدلب]]></description>
             <content:encoded><![CDATA[الخارجية السورية: ندين بأشد العبارات الغارات الجوية الإسرائيلية التي استهدفت مطار أبو الظهور العسكري في إدلب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية القطرية: سلمنا الجانب الإيراني رفات أحد الطيارين اللذين…]]></title>
-            <link>https://t.me/aljazeeraBrk/231288</link>
-            <guid isPermaLink="false">8fa1d9268f72cfac07fa3259c8538f173e0d4b1f3fd5d4c0b63a0bcf64ccbadb</guid>
-            <pubDate>Tue, 18 Aug 2026 10:23:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية القطرية: سلمنا الجانب الإيراني رفات أحد الطيارين اللذين اخترقا الأجواء القطرية]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية القطرية: سلمنا الجانب الإيراني رفات أحد الطيارين اللذين اخترقا الأجواء القطرية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية القطرية: الجانب الإيراني لم يستجب لدعوتنا بإرسال فريق فني…]]></title>
-            <link>https://t.me/aljazeeraBrk/231289</link>
-            <guid isPermaLink="false">3a417b301d014252dd62c6d77c5c3cabcf3fa669658b42413442e758a522ac80</guid>
-            <pubDate>Tue, 18 Aug 2026 10:23:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية القطرية: الجانب الإيراني لم يستجب لدعوتنا بإرسال فريق فني للاطلاع على عمليات البحث]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية القطرية: الجانب الإيراني لم يستجب لدعوتنا بإرسال فريق فني للاطلاع على عمليات البحث]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
