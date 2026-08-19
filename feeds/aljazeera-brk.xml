@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 09:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استعادة 103 عسكريين من الأسر في أوكرانيا مقابل إعادة 103…]]></title>
+            <link>https://t.me/aljazeeraBrk/231485</link>
+            <guid isPermaLink="false">4421ffc38fde1e414ddfb0a96bcce6b60fbbb75c795a9dfdee6131bd1d1ed624</guid>
+            <pubDate>Wed, 19 Aug 2026 09:32:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استعادة 103 عسكريين من الأسر في أوكرانيا مقابل إعادة 103 أسرى من الجيش الأوكراني لكييف]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استعادة 103 عسكريين من الأسر في أوكرانيا مقابل إعادة 103 أسرى من الجيش الأوكراني لكييف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع…]]></title>
             <link>https://t.me/aljazeeraBrk/231484</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 08:25:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات السورية: وسيم الأسد استغل صلة القرابة التي تجمعه ببشار الأسد وأطلق النار على مدنيين]]></description>
             <content:encoded><![CDATA[محكمة الجنايات السورية: وسيم الأسد استغل صلة القرابة التي تجمعه ببشار الأسد وأطلق النار على مدنيين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات السورية: وسيم الأسد قام بتشكيل مجموعات مسلحة مقابل رواتب مالية…]]></title>
-            <link>https://t.me/aljazeeraBrk/231275</link>
-            <guid isPermaLink="false">6c6fb59c4f39ebd4d11ac1065343aefdb9a6f90610a073efad2c6d031eb48c60</guid>
-            <pubDate>Tue, 18 Aug 2026 08:23:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات السورية: وسيم الأسد قام بتشكيل مجموعات مسلحة مقابل رواتب مالية وتأمين السلاح والمال لها]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات السورية: وسيم الأسد قام بتشكيل مجموعات مسلحة مقابل رواتب مالية وتأمين السلاح والمال لها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
