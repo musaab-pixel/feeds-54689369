@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 17:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 17:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نتنياهو: أوضحنا أننا لن نتسامح مع وجود عسكري تركي بسوريا ويبدو أنهم لم يسمعونا…]]></title>
+            <link>https://t.me/aljazeeraBrk/231554</link>
+            <guid isPermaLink="false">4d9298674a03a9102978399d25a073f1ab7cad9ef8c63bfd2465143a5249178f</guid>
+            <pubDate>Wed, 19 Aug 2026 17:30:02 GMT</pubDate>
+            <description><![CDATA[نتنياهو: أوضحنا أننا لن نتسامح مع وجود عسكري تركي بسوريا ويبدو أنهم لم يسمعونا جيدا فحرصنا أن يفهموا بشكل أفضل]]></description>
+            <content:encoded><![CDATA[نتنياهو: أوضحنا أننا لن نتسامح مع وجود عسكري تركي بسوريا ويبدو أنهم لم يسمعونا جيدا فحرصنا أن يفهموا بشكل أفضل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نتنياهو: لن نتسامح مع وجود عسكري تركي في سوريا يهدد إسرائيل]]></title>
             <link>https://t.me/aljazeeraBrk/231553</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 14:12:02 GMT</pubDate>
             <description><![CDATA[الخارجية التركية: ندعو المجتمع الدولي إلى ضمان المساءلة عن الأعمال الإسرائيلية التي تنتهك القانون الدولي]]></description>
             <content:encoded><![CDATA[الخارجية التركية: ندعو المجتمع الدولي إلى ضمان المساءلة عن الأعمال الإسرائيلية التي تنتهك القانون الدولي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية التركية: ندين بشدة الغارات الإسرائيلية على مطار أبو الظهور في سوريا]]></title>
-            <link>https://t.me/aljazeeraBrk/231344</link>
-            <guid isPermaLink="false">6d7ff74b6694a3765fa0acbdd7cff89ec05dd98d9ddd13391cccbe6bb2321aa0</guid>
-            <pubDate>Tue, 18 Aug 2026 14:11:03 GMT</pubDate>
-            <description><![CDATA[الخارجية التركية: ندين بشدة الغارات الإسرائيلية على مطار أبو الظهور في سوريا]]></description>
-            <content:encoded><![CDATA[الخارجية التركية: ندين بشدة الغارات الإسرائيلية على مطار أبو الظهور في سوريا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
