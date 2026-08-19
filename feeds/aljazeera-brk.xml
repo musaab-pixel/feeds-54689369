@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 09:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع…]]></title>
+            <link>https://t.me/aljazeeraBrk/231484</link>
+            <guid isPermaLink="false">acacab00e0b6613c7ff5cb0740f6f18f4df4206196a44555440ad238bb05292e</guid>
+            <pubDate>Wed, 19 Aug 2026 09:17:02 GMT</pubDate>
+            <description><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع خلال الساعات الـ24 الماضية]]></description>
+            <content:encoded><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع خلال الساعات الـ24 الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الجيش السوداني: مجموعة من قوات الدعم السريع تنشق وتسلم نفسها للجيش في…]]></title>
             <link>https://t.me/aljazeeraBrk/231483</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 08:23:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات السورية: وسيم الأسد قام بتشكيل مجموعات مسلحة مقابل رواتب مالية وتأمين السلاح والمال لها]]></description>
             <content:encoded><![CDATA[محكمة الجنايات السورية: وسيم الأسد قام بتشكيل مجموعات مسلحة مقابل رواتب مالية وتأمين السلاح والمال لها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات السورية: المجموعات المسلحة التي شكلها وسيم الأسد قتلت مدنيين على…]]></title>
-            <link>https://t.me/aljazeeraBrk/231274</link>
-            <guid isPermaLink="false">9f7f4a13a894125017e589a56011983eaeebdac68599b2146a352ad6b1cd998b</guid>
-            <pubDate>Tue, 18 Aug 2026 08:21:03 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات السورية: المجموعات المسلحة التي شكلها وسيم الأسد قتلت مدنيين على أساس الهوية الدينية]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات السورية: المجموعات المسلحة التي شكلها وسيم الأسد قتلت مدنيين على أساس الهوية الدينية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
