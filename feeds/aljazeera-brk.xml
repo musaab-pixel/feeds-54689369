@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 05:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 06:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: أسقطنا 453 مسيرة أوكرانية الليلة الماضية]]></title>
+            <link>https://t.me/aljazeeraBrk/231463</link>
+            <guid isPermaLink="false">36f20f6b4f6abf91cd1f598f13285fa8b22f34da55da425fbbe1b5259c317424</guid>
+            <pubDate>Wed, 19 Aug 2026 06:03:03 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: أسقطنا 453 مسيرة أوكرانية الليلة الماضية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: أسقطنا 453 مسيرة أوكرانية الليلة الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر: إصابة فلسطيني إثر اعتداء قوات الاحتلال عليه بالضرب في رأس العين…]]></title>
             <link>https://t.me/aljazeeraBrk/231462</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 07:13:03 GMT</pubDate>
             <description><![CDATA[اتحاد بلديات غزة: نحذر من عطش جماعي سيطال كل سكان القطاع وستتأثر به كافة المرافق الحيوية]]></description>
             <content:encoded><![CDATA[اتحاد بلديات غزة: نحذر من عطش جماعي سيطال كل سكان القطاع وستتأثر به كافة المرافق الحيوية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[اتحاد بلديات غزة: نحذر من عطش جماعي سيطال كل سكان القطاع وستتأثر به كل المرافق…]]></title>
-            <link>https://t.me/aljazeeraBrk/231253</link>
-            <guid isPermaLink="false">3982190718fe77b0127d33f9b57b318ed1c4a9992520c2e2ba873cfab951ee99</guid>
-            <pubDate>Tue, 18 Aug 2026 07:13:02 GMT</pubDate>
-            <description><![CDATA[اتحاد بلديات غزة: نحذر من عطش جماعي سيطال كل سكان القطاع وستتأثر به كل المرافق الحيوية]]></description>
-            <content:encoded><![CDATA[اتحاد بلديات غزة: نحذر من عطش جماعي سيطال كل سكان القطاع وستتأثر به كل المرافق الحيوية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
