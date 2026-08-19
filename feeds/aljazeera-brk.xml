@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 20:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 21:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: سلسلة انفجارات تهز العاصمة الأوكرانية كييف والسلطات تقول إن…]]></title>
+            <link>https://t.me/aljazeeraBrk/231590</link>
+            <guid isPermaLink="false">e70dd254331ece9c812d0eb86eac07c9cc332ed4aa2f092ffd5cb9d227b69b5e</guid>
+            <pubDate>Wed, 19 Aug 2026 21:06:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: سلسلة انفجارات تهز العاصمة الأوكرانية كييف والسلطات تقول إن العاصمة تتعرض لهجوم صاروخي]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: سلسلة انفجارات تهز العاصمة الأوكرانية كييف والسلطات تقول إن العاصمة تتعرض لهجوم صاروخي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخزانة الأمريكية: الدين العام الأمريكي يتجاوز رسميا حاجز 40 تريليون دولار…]]></title>
             <link>https://t.me/aljazeeraBrk/231589</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 17:10:03 GMT</pubDate>
             <description><![CDATA[حماس: مجزرة شاطئ غزة استهتار من الاحتلال بدعوات وقف إطلاق النار التي صدرت من الوسطاء والضامنين والرئيس ترمب]]></description>
             <content:encoded><![CDATA[حماس: مجزرة شاطئ غزة استهتار من الاحتلال بدعوات وقف إطلاق النار التي صدرت من الوسطاء والضامنين والرئيس ترمب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الخزانة الأمريكية: فرضنا عقوبات جديدة على رئيسة المحكمة الجنائية الدولة]]></title>
-            <link>https://t.me/aljazeeraBrk/231380</link>
-            <guid isPermaLink="false">16b4c18a74efa7d3b36658a04a29e8dc2a20489df57c6bfebaf1bf1772b307f0</guid>
-            <pubDate>Tue, 18 Aug 2026 17:09:02 GMT</pubDate>
-            <description><![CDATA[وزارة الخزانة الأمريكية: فرضنا عقوبات جديدة على رئيسة المحكمة الجنائية الدولة]]></description>
-            <content:encoded><![CDATA[وزارة الخزانة الأمريكية: فرضنا عقوبات جديدة على رئيسة المحكمة الجنائية الدولة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
