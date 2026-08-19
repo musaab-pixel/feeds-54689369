@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 08:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الجيش السوداني: مجموعة من قوات الدعم السريع تنشق وتسلم نفسها للجيش في…]]></title>
+            <link>https://t.me/aljazeeraBrk/231483</link>
+            <guid isPermaLink="false">92fb7d553678688df08ea7c80e53854de6e52ef04e4677efdc7357effc1c0386</guid>
+            <pubDate>Wed, 19 Aug 2026 08:50:03 GMT</pubDate>
+            <description><![CDATA[مصدر في الجيش السوداني: مجموعة من قوات الدعم السريع تنشق وتسلم نفسها للجيش في أم درمان]]></description>
+            <content:encoded><![CDATA[مصدر في الجيش السوداني: مجموعة من قوات الدعم السريع تنشق وتسلم نفسها للجيش في أم درمان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القناة 15 الإسرائيلية عن توم براك: قصف إسرائيل لمطار أبو الظهور ينذر بمواجهة…]]></title>
             <link>https://t.me/aljazeeraBrk/231482</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 08:21:03 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات السورية: المجموعات المسلحة التي شكلها وسيم الأسد قتلت مدنيين على أساس الهوية الدينية]]></description>
             <content:encoded><![CDATA[محكمة الجنايات السورية: المجموعات المسلحة التي شكلها وسيم الأسد قتلت مدنيين على أساس الهوية الدينية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات السورية: وسيم الأسد شارك مع أفراد في الفرقة الرابعة بتعذيب وقتل…]]></title>
-            <link>https://t.me/aljazeeraBrk/231273</link>
-            <guid isPermaLink="false">8134d343c91c25438030e6fcc2a612372dfd74d865d77a6332d49aa1e3851146</guid>
-            <pubDate>Tue, 18 Aug 2026 08:21:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات السورية: وسيم الأسد شارك مع أفراد في الفرقة الرابعة بتعذيب وقتل مدنيين بين عامي 2012 و2014]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات السورية: وسيم الأسد شارك مع أفراد في الفرقة الرابعة بتعذيب وقتل مدنيين بين عامي 2012 و2014]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
