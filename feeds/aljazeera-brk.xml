@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 16:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 17:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نتنياهو: لن نتسامح مع وجود عسكري تركي في سوريا يهدد إسرائيل]]></title>
+            <link>https://t.me/aljazeeraBrk/231553</link>
+            <guid isPermaLink="false">6fa714a783b242c4463a1786afa53c9c8989ea7e04a02cf737f987acdc50b187</guid>
+            <pubDate>Wed, 19 Aug 2026 17:26:03 GMT</pubDate>
+            <description><![CDATA[نتنياهو: لن نتسامح مع وجود عسكري تركي في سوريا يهدد إسرائيل]]></description>
+            <content:encoded><![CDATA[نتنياهو: لن نتسامح مع وجود عسكري تركي في سوريا يهدد إسرائيل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية ووزير الخارجية السعودي دانا رفض…]]></title>
             <link>https://t.me/aljazeeraBrk/231552</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 14:11:03 GMT</pubDate>
             <description><![CDATA[الخارجية التركية: ندين بشدة الغارات الإسرائيلية على مطار أبو الظهور في سوريا]]></description>
             <content:encoded><![CDATA[الخارجية التركية: ندين بشدة الغارات الإسرائيلية على مطار أبو الظهور في سوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: الحصار البحري على إيران لا يزال قائما]]></title>
-            <link>https://t.me/aljazeeraBrk/231342</link>
-            <guid isPermaLink="false">e74b33ab888ff2929e04a12fc40bbb95d45d6c413159e4eca1e7b99c18a876bf</guid>
-            <pubDate>Tue, 18 Aug 2026 13:38:03 GMT</pubDate>
-            <description><![CDATA[ترمب: الحصار البحري على إيران لا يزال قائما]]></description>
-            <content:encoded><![CDATA[ترمب: الحصار البحري على إيران لا يزال قائما]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
