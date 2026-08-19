@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 18:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 18:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظ البنك المركزي الإيراني: الولايات المتحدة لم تفرج عن أي من أموالنا المجمدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/231562</link>
+            <guid isPermaLink="false">b33a3f3f7fab359d456969ce9c225e08f8f65f8ad71d22931ed688dfb4221523</guid>
+            <pubDate>Wed, 19 Aug 2026 18:48:02 GMT</pubDate>
+            <description><![CDATA[محافظ البنك المركزي الإيراني: الولايات المتحدة لم تفرج عن أي من أموالنا المجمدة بموجب مذكرة التفاهم]]></description>
+            <content:encoded><![CDATA[محافظ البنك المركزي الإيراني: الولايات المتحدة لم تفرج عن أي من أموالنا المجمدة بموجب مذكرة التفاهم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القناة 13 الإسرائيلية عن مصدر عسكري: آخر ما نحتاجه حرب مفتوحة مع تركيا فلدينا…]]></title>
             <link>https://t.me/aljazeeraBrk/231561</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 15:01:02 GMT</pubDate>
             <description><![CDATA[الهيئة الوطنية الإماراتية لإدارة الطوارئ والأزمات والكوارث: أنظمة الدفاع الجوي الإماراتية رصدت تهديدا صاروخيا]]></description>
             <content:encoded><![CDATA[الهيئة الوطنية الإماراتية لإدارة الطوارئ والأزمات والكوارث: أنظمة الدفاع الجوي الإماراتية رصدت تهديدا صاروخيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إنترفاكس عن وزارة الدفاع الروسية: قواتنا استهدفت سفينة شحن في البحر الأسود]]></title>
-            <link>https://t.me/aljazeeraBrk/231352</link>
-            <guid isPermaLink="false">ac1485a67aafd0fe7809262888fbd1286dcb5f24a3a90c2d9321f9f34e204eb3</guid>
-            <pubDate>Tue, 18 Aug 2026 14:51:02 GMT</pubDate>
-            <description><![CDATA[إنترفاكس عن وزارة الدفاع الروسية: قواتنا استهدفت سفينة شحن في البحر الأسود]]></description>
-            <content:encoded><![CDATA[إنترفاكس عن وزارة الدفاع الروسية: قواتنا استهدفت سفينة شحن في البحر الأسود]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
