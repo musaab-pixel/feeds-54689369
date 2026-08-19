@@ -4,7 +4,7 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 18 Aug 2026 17:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 13:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -16,6 +16,15 @@
             <description><![CDATA[Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.]]></description>
             <content:encoded><![CDATA[Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-05-2026-IOM-Gaza-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/08/1168163</link>
+            <guid isPermaLink="false">d74faf8c99bbd1387610b6bc9cb1f0b8fa044034c3c74b9ce419cf85fb792f2c</guid>
+            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are “far from over,” the UN warned on Tuesday.]]></description>
+            <content:encoded><![CDATA[Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and humanitarian crisis are “far from over,” the UN warned on Tuesday.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/18-08-2026-Gaza-Tyre-UNHCR-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza]]></title>
