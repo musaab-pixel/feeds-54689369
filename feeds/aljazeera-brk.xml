@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 09:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 09:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مسؤول في النيتو: الحلف مستعد للدفاع عن كل الدول الأعضاء ضد أي تهديد…]]></title>
+            <link>https://t.me/aljazeeraBrk/231486</link>
+            <guid isPermaLink="false">c13e19885180f1c133ac0a1457003892b3af940d55724b0433a2acb1a88b05fc</guid>
+            <pubDate>Wed, 19 Aug 2026 09:42:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مسؤول في النيتو: الحلف مستعد للدفاع عن كل الدول الأعضاء ضد أي تهديد إيراني]]></description>
+            <content:encoded><![CDATA[رويترز عن مسؤول في النيتو: الحلف مستعد للدفاع عن كل الدول الأعضاء ضد أي تهديد إيراني]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع الروسية: استعادة 103 عسكريين من الأسر في أوكرانيا مقابل إعادة 103…]]></title>
             <link>https://t.me/aljazeeraBrk/231485</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 08:27:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات السورية: وسيم الأسد شارك مع القائد بالفرقة الرابعة غياث دلة في تشكيل وتمويل مجموعات من القتلة]]></description>
             <content:encoded><![CDATA[محكمة الجنايات السورية: وسيم الأسد شارك مع القائد بالفرقة الرابعة غياث دلة في تشكيل وتمويل مجموعات من القتلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات السورية: وسيم الأسد استغل صلة القرابة التي تجمعه ببشار الأسد…]]></title>
-            <link>https://t.me/aljazeeraBrk/231276</link>
-            <guid isPermaLink="false">fd75a48d0e02d1fee9f4b64c04e30a6bf085358279ce200cef0a68d5d8eb3667</guid>
-            <pubDate>Tue, 18 Aug 2026 08:25:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات السورية: وسيم الأسد استغل صلة القرابة التي تجمعه ببشار الأسد وأطلق النار على مدنيين]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات السورية: وسيم الأسد استغل صلة القرابة التي تجمعه ببشار الأسد وأطلق النار على مدنيين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
