@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 20:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 20:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أكسيوس عن مسؤولين أمريكيين: قواتنا أنشأت ممرا للدخول إلى مضيق هرمز والخروج منه…]]></title>
+            <link>https://t.me/aljazeeraBrk/231587</link>
+            <guid isPermaLink="false">70dc5ba04d7946a774966f942ec9c52da0e32501a414ffd5503fc238161f5b7b</guid>
+            <pubDate>Wed, 19 Aug 2026 20:28:16 GMT</pubDate>
+            <description><![CDATA[أكسيوس عن مسؤولين أمريكيين: قواتنا أنشأت ممرا للدخول إلى مضيق هرمز والخروج منه لنقل ملايين براميل النفط يوميا]]></description>
+            <content:encoded><![CDATA[أكسيوس عن مسؤولين أمريكيين: قواتنا أنشأت ممرا للدخول إلى مضيق هرمز والخروج منه لنقل ملايين براميل النفط يوميا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[متحدث باسم الخارجية الأمريكية للجزيرة: ترمب طرح رؤيته لشرق أوسط مزدهر وسوريا…]]></title>
             <link>https://t.me/aljazeeraBrk/231586</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 17:06:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: استعدنا رفات جندي سلاح المدرعات يهودا كاتس في إطار جهود استخبارية استمرت لأكثر من 4 عقود]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: استعدنا رفات جندي سلاح المدرعات يهودا كاتس في إطار جهود استخبارية استمرت لأكثر من 4 عقود]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع الإسرائيلي: سياستنا بغزة واضحة وهي إزالة التهديدات والقضاء على…]]></title>
-            <link>https://t.me/aljazeeraBrk/231378</link>
-            <guid isPermaLink="false">f68a54f6e503a28b6bce4bf9550be92d53b8ac00da41defdb5063dc068c293a5</guid>
-            <pubDate>Tue, 18 Aug 2026 17:04:03 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع الإسرائيلي: سياستنا بغزة واضحة وهي إزالة التهديدات والقضاء على المسلحين ممن شارك في هجوم 7 أكتوبر]]></description>
-            <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: سياستنا بغزة واضحة وهي إزالة التهديدات والقضاء على المسلحين ممن شارك في هجوم 7 أكتوبر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

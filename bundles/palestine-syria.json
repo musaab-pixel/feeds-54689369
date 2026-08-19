@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "70dc5ba04d7946a774966f942ec9c52da0e32501a414ffd5503fc238161f5b7b",
+            "content_html": "أكسيوس عن مسؤولين أمريكيين: قواتنا أنشأت ممرا للدخول إلى مضيق هرمز والخروج منه لنقل ملايين براميل النفط يوميا",
+            "url": "https://t.me/aljazeeraBrk/231587",
+            "title": "أكسيوس عن مسؤولين أمريكيين: قواتنا أنشأت ممرا للدخول إلى مضيق هرمز والخروج منه…",
+            "summary": "أكسيوس عن مسؤولين أمريكيين: قواتنا أنشأت ممرا للدخول إلى مضيق هرمز والخروج منه لنقل ملايين براميل النفط يوميا",
+            "date_modified": "2026-08-19T20:28:16.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "1cd50ba213baa782b94b75ee9d16ea332652274201d7a71b6dd591c6f36120bf",
             "content_html": "متحدث باسم الخارجية الأمريكية للجزيرة: ترمب طرح رؤيته لشرق أوسط مزدهر وسوريا مستقرة تعيش بسلام مع جيرانها",
             "url": "https://t.me/aljazeeraBrk/231586",
@@ -1624,17 +1635,6 @@
             "date_modified": "2026-08-19T07:54:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "9d812045b1c22954047c3727233d79f7f0052c3d7a3ebbb5d8791fbafc4c1695",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi-wNBVV95cUxOOV90Wmx4R0NOakc4LWJMN1JSeFJtTTA4R2hUd3hISVJRbTNtNWVtbGY1eXlNZ05MSVNQMFFvWkZQdWZxQ2lmMWljVnA5em9oZDEyOWlmS19rcGctU21jTHM4eW9yZXVjYlRwQ3BZR2pCRnpzOUNqaWN6UGhsbkJxZm43MFlEaGtGa2hXbG45V2JEUEFUUnc1d3U1THlwZG1DaTAycWZFRXZETEJiRVNnLTdScGtWU3hwNUUxeWtMYXdMYnlnVDU4R2xSOHBKNjJYWVBRQjBOdk5XeVlfM3hXM3dicVZBa3lTS3dlSVVRVDlYcXhRZzY4YlZ5Tm5lM0JaOG1HMnJqOG5lVHdJUUNMaVplLW85bHAzUlhFUWtRZDJZVzMzMEJTWlYzX0VRS1RBQy1Sd01EVTR3c2hLQjNfZERQVU5EcmNUcUlkS1YtMC1zOXFqNXNHbks4b0ZkUHVtTjV3WFRxbnE1Z0xDem9SQzlQUTZtVWtkQlRYbFNaeW5OQzNOdzZPRHhlQVlEMHJEU0hIWTNQN2ZTdEdsOXYzVEtaY3NuRHFsNHpZMkdpWFlJbnA5RnVYcXA4aHpMNURXby1BNzFMLXpJXzBPbjN1LUU4RWk0S2t1VFJVY0c2YnhTck14VURLNzUzU0JlNUdKaUFKUjFOaGNYTzg?oc=5\" target=\"_blank\">الأردن يواصل حشد الدعم السياسي والمالي لـ«الأونروا»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alghad.tv</font>",
-            "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxOOV90Wmx4R0NOakc4LWJMN1JSeFJtTTA4R2hUd3hISVJRbTNtNWVtbGY1eXlNZ05MSVNQMFFvWkZQdWZxQ2lmMWljVnA5em9oZDEyOWlmS19rcGctU21jTHM4eW9yZXVjYlRwQ3BZR2pCRnpzOUNqaWN6UGhsbkJxZm43MFlEaGtGa2hXbG45V2JEUEFUUnc1d3U1THlwZG1DaTAycWZFRXZETEJiRVNnLTdScGtWU3hwNUUxeWtMYXdMYnlnVDU4R2xSOHBKNjJYWVBRQjBOdk5XeVlfM3hXM3dicVZBa3lTS3dlSVVRVDlYcXhRZzY4YlZ5Tm5lM0JaOG1HMnJqOG5lVHdJUUNMaVplLW85bHAzUlhFUWtRZDJZVzMzMEJTWlYzX0VRS1RBQy1Sd01EVTR3c2hLQjNfZERQVU5EcmNUcUlkS1YtMC1zOXFqNXNHbks4b0ZkUHVtTjV3WFRxbnE1Z0xDem9SQzlQUTZtVWtkQlRYbFNaeW5OQzNOdzZPRHhlQVlEMHJEU0hIWTNQN2ZTdEdsOXYzVEtaY3NuRHFsNHpZMkdpWFlJbnA5RnVYcXA4aHpMNURXby1BNzFMLXpJXzBPbjN1LUU4RWk0S2t1VFJVY0c2YnhTck14VURLNzUzU0JlNUdKaUFKUjFOaGNYTzg?oc=5",
-            "title": "الأردن يواصل حشد الدعم السياسي والمالي لـ«الأونروا» - alghad.tv",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wNBVV95cUxOOV90Wmx4R0NOakc4LWJMN1JSeFJtTTA4R2hUd3hISVJRbTNtNWVtbGY1eXlNZ05MSVNQMFFvWkZQdWZxQ2lmMWljVnA5em9oZDEyOWlmS19rcGctU21jTHM4eW9yZXVjYlRwQ3BZR2pCRnpzOUNqaWN6UGhsbkJxZm43MFlEaGtGa2hXbG45V2JEUEFUUnc1d3U1THlwZG1DaTAycWZFRXZETEJiRVNnLTdScGtWU3hwNUUxeWtMYXdMYnlnVDU4R2xSOHBKNjJYWVBRQjBOdk5XeVlfM3hXM3dicVZBa3lTS3dlSVVRVDlYcXhRZzY4YlZ5Tm5lM0JaOG1HMnJqOG5lVHdJUUNMaVplLW85bHAzUlhFUWtRZDJZVzMzMEJTWlYzX0VRS1RBQy1Sd01EVTR3c2hLQjNfZERQVU5EcmNUcUlkS1YtMC1zOXFqNXNHbks4b0ZkUHVtTjV3WFRxbnE1Z0xDem9SQzlQUTZtVWtkQlRYbFNaeW5OQzNOdzZPRHhlQVlEMHJEU0hIWTNQN2ZTdEdsOXYzVEtaY3NuRHFsNHpZMkdpWFlJbnA5RnVYcXA4aHpMNURXby1BNzFMLXpJXzBPbjN1LUU4RWk0S2t1VFJVY0c2YnhTck14VURLNzUzU0JlNUdKaUFKUjFOaGNYTzg?oc=5\" target=\"_blank\">الأردن يواصل حشد الدعم السياسي والمالي لـ«الأونروا»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">alghad.tv</font>",
-            "date_modified": "2026-08-19T07:54:00.000Z",
-            "author": {
-                "name": "alghad.tv"
             }
         }
     ]
