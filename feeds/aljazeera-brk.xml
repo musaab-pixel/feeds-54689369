@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 20 Aug 2026 06:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 06:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[السلطة القضائية الإيرانية: تنفيذ حكم الإعدام بحق مواطن أجنبي أدين بالمشاركة في…]]></title>
+            <link>https://t.me/aljazeeraBrk/231640</link>
+            <guid isPermaLink="false">c8080ac021097ded77428656b5ffbf26eb7783261d9182a70cdde83a6e4f68de</guid>
+            <pubDate>Thu, 20 Aug 2026 06:36:02 GMT</pubDate>
+            <description><![CDATA[السلطة القضائية الإيرانية: تنفيذ حكم الإعدام بحق مواطن أجنبي أدين بالمشاركة في هجوم على الشرطة في يناير الماضي]]></description>
+            <content:encoded><![CDATA[السلطة القضائية الإيرانية: تنفيذ حكم الإعدام بحق مواطن أجنبي أدين بالمشاركة في هجوم على الشرطة في يناير الماضي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: الإصرار على مواصلة السياسات الفاشلة لن يؤدي إلا إلى مزيد من الإخفاقات…]]></title>
             <link>https://t.me/aljazeeraBrk/231639</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 18 Aug 2026 20:27:02 GMT</pubDate>
             <description><![CDATA[مكتب نتنياهو: سوريا اختارت تجاهل تحذيرات إسرائيل بشأن هذا الانتشار]]></description>
             <content:encoded><![CDATA[مكتب نتنياهو: سوريا اختارت تجاهل تحذيرات إسرائيل بشأن هذا الانتشار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مكتب نتنياهو: إسرائيل لن تتسامح مع التهديدات التي تمس أمنها]]></title>
-            <link>https://t.me/aljazeeraBrk/231417</link>
-            <guid isPermaLink="false">92b75b966f70e9c47c0db8df71260772c4fec44e700cebe1ea4b872d06a44853</guid>
-            <pubDate>Tue, 18 Aug 2026 20:27:02 GMT</pubDate>
-            <description><![CDATA[مكتب نتنياهو: إسرائيل لن تتسامح مع التهديدات التي تمس أمنها]]></description>
-            <content:encoded><![CDATA[مكتب نتنياهو: إسرائيل لن تتسامح مع التهديدات التي تمس أمنها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
