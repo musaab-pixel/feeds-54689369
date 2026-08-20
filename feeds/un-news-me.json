@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "cec5d44259f9ceded530e7727652f18f63f36b634a3e345097ee80c2c4f99c2b",
+            "content_html": "Reports of new illegal Israeli outposts in the occupied West Bank raised alarms at UN Headquarters on Wednesday while the UN rights office called on Israel to condemn its national security minister’s words that incite “violence amounting to atrocity crimes” against Palestinians.",
+            "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
+            "title": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
+            "summary": "Reports of new illegal Israeli outposts in the occupied West Bank raised alarms at UN Headquarters on Wednesday while the UN rights office called on Israel to condemn its national security minister’s words that incite “violence amounting to atrocity crimes” against Palestinians.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-08-2024-UNRWA-West-Bank-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-08-19T12:00:00.000Z"
+        },
+        {
             "id": "c8af25472475ef4a6d3b329834f09456a36542ac42025df23bc500f7dac5e7c4",
             "content_html": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
             "url": "https://news.un.org/feed/view/en/story/2026/08/1168160",
