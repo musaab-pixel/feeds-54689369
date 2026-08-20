@@ -49,23 +49,12 @@
             }
         },
         {
-            "id": "55ae56486a21f2257e467f29996016d926d2716b8c19f3bdffe8d2b50cf6290f",
-            "content_html": "In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.",
-            "url": "https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/umbrueche/",
-            "title": "Umbrüche",
-            "summary": "In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.",
-            "date_modified": "2026-07-12T09:34:58.000Z",
-            "author": {
-                "name": "Sandra Knocke"
-            }
-        },
-        {
             "id": "6c31e600f303bb299ff0dbbd01ad46de595b52d53457493598e5580c6787c836",
             "content_html": "Wie innovative Konzertformate in der Praxis aussehen können, zeigt das Ensemble Resonanz seit vielen Jahren mit seiner experimentellen Reihe urban string, in der es Kammermusik und Clubkultur fusioniert. Das international renommierte Kammerorchester verbindet hohe künstlerische Qualität mit der konsequenten Arbeit an neuen Aufführungsformen.",
             "url": "https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/urban-string/",
             "title": "urban string",
             "summary": "Wie innovative Konzertformate in der Praxis aussehen können, zeigt das Ensemble Resonanz seit vielen Jahren mit seiner experimentellen Reihe urban string, in der es Kammermusik und Clubkultur fusioniert. Das international renommierte Kammerorchester verbindet hohe künstlerische Qualität mit der konsequenten Arbeit an neuen Aufführungsformen.",
-            "date_modified": "2026-07-11T08:50:17.000Z",
+            "date_modified": "2026-07-12T08:50:17.000Z",
             "author": {
                 "name": "Lina Krivoshieva"
             }
@@ -93,12 +82,34 @@
             }
         },
         {
+            "id": "f21d7f7901326664d9b4041e2b7a7459194b19d68b1a47d33fe780549553a3f9",
+            "content_html": "Nicht nur zuhören, sondern mitgestalten: Bei TONALi entwickeln junge Menschen, Musiker*innen und Publikum gemeinsam neue Konzertformate. Die Initiative bringt klassische Musik in den Stadtraum, eröffnet neue Zugänge und schafft Räume für Begegnung und Teilhabe.",
+            "url": "https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/tonali/",
+            "title": "TONALi",
+            "summary": "Nicht nur zuhören, sondern mitgestalten: Bei TONALi entwickeln junge Menschen, Musiker*innen und Publikum gemeinsam neue Konzertformate. Die Initiative bringt klassische Musik in den Stadtraum, eröffnet neue Zugänge und schafft Räume für Begegnung und Teilhabe.",
+            "date_modified": "2026-07-09T14:10:18.000Z",
+            "author": {
+                "name": "Nina Cerezo"
+            }
+        },
+        {
             "id": "f487c146501a47ca0d4115b0419bfd15c06aac16aa7fb313a7a33db2eb9ee768",
             "content_html": "Mit Jugendstil erhalten junge migrantische Menschen in Ostdeutschland die Möglichkeit, eigene Ideen umzusetzen und gesellschaftliches Engagement mitzugestalten. Der partizipative Ideenfonds verbindet Förderung, Beratung und Vernetzung und überträgt Förderentscheidungen an eine Jugendjury aus der Community.",
             "url": "https://rudolf-augstein-stiftung.de/foerderbereich-soziales-projekte/jugendstil/",
             "title": "Jugendstil*",
             "summary": "Mit Jugendstil erhalten junge migrantische Menschen in Ostdeutschland die Möglichkeit, eigene Ideen umzusetzen und gesellschaftliches Engagement mitzugestalten. Der partizipative Ideenfonds verbindet Förderung, Beratung und Vernetzung und überträgt Förderentscheidungen an eine Jugendjury aus der Community.",
             "date_modified": "2026-07-09T12:23:49.000Z",
+            "author": {
+                "name": "Sandra Knocke"
+            }
+        },
+        {
+            "id": "55ae56486a21f2257e467f29996016d926d2716b8c19f3bdffe8d2b50cf6290f",
+            "content_html": "In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.",
+            "url": "https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/umbrueche/",
+            "title": "Umbrüche",
+            "summary": "In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.",
+            "date_modified": "2026-07-08T09:34:58.000Z",
             "author": {
                 "name": "Sandra Knocke"
             }

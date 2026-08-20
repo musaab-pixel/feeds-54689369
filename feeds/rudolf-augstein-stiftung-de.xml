@@ -4,7 +4,7 @@
         <title>rudolf-augstein-stiftung.de</title>
         <link>https://rudolf-augstein-stiftung.de/feed/</link>
         <description>RSS Factory feed "rudolf-augstein-stiftung.de" (type: native)</description>
-        <lastBuildDate>Fri, 24 Jul 2026 10:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -45,19 +45,10 @@
             <author>Marina Contu</author>
         </item>
         <item>
-            <title><![CDATA[Umbrüche]]></title>
-            <link>https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/umbrueche/</link>
-            <guid isPermaLink="false">55ae56486a21f2257e467f29996016d926d2716b8c19f3bdffe8d2b50cf6290f</guid>
-            <pubDate>Sun, 12 Jul 2026 09:34:58 GMT</pubDate>
-            <description><![CDATA[In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.]]></description>
-            <content:encoded><![CDATA[In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.]]></content:encoded>
-            <author>Sandra Knocke</author>
-        </item>
-        <item>
             <title><![CDATA[urban string]]></title>
             <link>https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/urban-string/</link>
             <guid isPermaLink="false">6c31e600f303bb299ff0dbbd01ad46de595b52d53457493598e5580c6787c836</guid>
-            <pubDate>Sat, 11 Jul 2026 08:50:17 GMT</pubDate>
+            <pubDate>Sun, 12 Jul 2026 08:50:17 GMT</pubDate>
             <description><![CDATA[Wie innovative Konzertformate in der Praxis aussehen können, zeigt das Ensemble Resonanz seit vielen Jahren mit seiner experimentellen Reihe urban string, in der es Kammermusik und Clubkultur fusioniert. Das international renommierte Kammerorchester verbindet hohe künstlerische Qualität mit der konsequenten Arbeit an neuen Aufführungsformen.]]></description>
             <content:encoded><![CDATA[Wie innovative Konzertformate in der Praxis aussehen können, zeigt das Ensemble Resonanz seit vielen Jahren mit seiner experimentellen Reihe urban string, in der es Kammermusik und Clubkultur fusioniert. Das international renommierte Kammerorchester verbindet hohe künstlerische Qualität mit der konsequenten Arbeit an neuen Aufführungsformen.]]></content:encoded>
             <author>Lina Krivoshieva</author>
@@ -81,12 +72,30 @@
             <author>Sandra Knocke</author>
         </item>
         <item>
+            <title><![CDATA[TONALi]]></title>
+            <link>https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/tonali/</link>
+            <guid isPermaLink="false">f21d7f7901326664d9b4041e2b7a7459194b19d68b1a47d33fe780549553a3f9</guid>
+            <pubDate>Thu, 09 Jul 2026 14:10:18 GMT</pubDate>
+            <description><![CDATA[Nicht nur zuhören, sondern mitgestalten: Bei TONALi entwickeln junge Menschen, Musiker*innen und Publikum gemeinsam neue Konzertformate. Die Initiative bringt klassische Musik in den Stadtraum, eröffnet neue Zugänge und schafft Räume für Begegnung und Teilhabe.]]></description>
+            <content:encoded><![CDATA[Nicht nur zuhören, sondern mitgestalten: Bei TONALi entwickeln junge Menschen, Musiker*innen und Publikum gemeinsam neue Konzertformate. Die Initiative bringt klassische Musik in den Stadtraum, eröffnet neue Zugänge und schafft Räume für Begegnung und Teilhabe.]]></content:encoded>
+            <author>Nina Cerezo</author>
+        </item>
+        <item>
             <title><![CDATA[Jugendstil*]]></title>
             <link>https://rudolf-augstein-stiftung.de/foerderbereich-soziales-projekte/jugendstil/</link>
             <guid isPermaLink="false">f487c146501a47ca0d4115b0419bfd15c06aac16aa7fb313a7a33db2eb9ee768</guid>
             <pubDate>Thu, 09 Jul 2026 12:23:49 GMT</pubDate>
             <description><![CDATA[Mit Jugendstil erhalten junge migrantische Menschen in Ostdeutschland die Möglichkeit, eigene Ideen umzusetzen und gesellschaftliches Engagement mitzugestalten. Der partizipative Ideenfonds verbindet Förderung, Beratung und Vernetzung und überträgt Förderentscheidungen an eine Jugendjury aus der Community.]]></description>
             <content:encoded><![CDATA[Mit Jugendstil erhalten junge migrantische Menschen in Ostdeutschland die Möglichkeit, eigene Ideen umzusetzen und gesellschaftliches Engagement mitzugestalten. Der partizipative Ideenfonds verbindet Förderung, Beratung und Vernetzung und überträgt Förderentscheidungen an eine Jugendjury aus der Community.]]></content:encoded>
+            <author>Sandra Knocke</author>
+        </item>
+        <item>
+            <title><![CDATA[Umbrüche]]></title>
+            <link>https://rudolf-augstein-stiftung.de/foerderbereich-kunst-projekte/umbrueche/</link>
+            <guid isPermaLink="false">55ae56486a21f2257e467f29996016d926d2716b8c19f3bdffe8d2b50cf6290f</guid>
+            <pubDate>Wed, 08 Jul 2026 09:34:58 GMT</pubDate>
+            <description><![CDATA[In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.]]></description>
+            <content:encoded><![CDATA[In der Literaturreihe Umbrüche laden Deniz Utlu und Sasha Marianna Salzmann internationale und deutschsprachige Autor*innen ins Nachtasyl des Thalia Theaters ein. Gemeinsam mit dem Publikum fragen sie danach, wie Literatur gesellschaftliche Veränderungen sichtbar machen und sprachlich fassen kann.]]></content:encoded>
             <author>Sandra Knocke</author>
         </item>
         <item>
