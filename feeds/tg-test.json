@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "57310b8d149a5c8807a26a4e6c948b3b4b4e17182361710b06346d76ba32b66e",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8CA4.png')\"><b>🌤</b></i>حالة الطقس في سوريا 20-08-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139649",
+            "title": "🌤حالة الطقس في سوريا 20-08-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8CA4.png')\"><b>🌤</b></i>حالة الطقس في سوريا 20-08-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/TmfDGd_Wmaq3alXIE5GlGiTxCX-oiMcsLELeHg_oAdXdHJfRka7e9kX9NC9ZSx5HY6_y-nu0JU44DtJQWg5IVo2kBOf0YvcWABTXeQyu4agzciRPhLsqtrcZWbl3Kd_tP_09iF5-x8PuGAck7X-jO9LiZuWgUds5LHg-I9xunUviusVoEFEfyYOHySPdMA5rY4N41i2RixqvKM8R-nSXyywQ_pv1O_hR0YinWtlgcJcDBA-RV8Pzmje2AinFdSrQQKGf7fSJtRHn_n--IrPJAePOKkc_ForNq8PkPLkzTzOhY7F9CkjkHRumhjqXkNdVIYo7gpUSTSFADDkwwu9mSA.jpg",
+            "date_modified": "2026-08-20T04:38:50.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "1330d765a11f284389833d5f486b6b2f495c44260e1c163d17b828ead583f066",
             "content_html": "قوى الأمن الداخلي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تسلّمت اليوم السلطات السّورية من السلطات اللبنانية الضابط السابق في جيش النّظام البائد اللواء عادل عيسى القائد السابق للفرقة 17 وقائد القوات البرّية في دير الزور حتى عام 2016م<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تمّ توقيف عادل عيسى من قبل القضاء اللبناني بموجب مذكرة توقيف وجاهية صادرة عن مدعي عام التمييز في لبنان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرى التنسيق لاسترداده بناءً على طلبٍ من النّائب العام للجمهورية لوجود مذكرة توقيف غيابية صادرة بحق المذكور عن قاضي التحقيق السابع لارتكاب جرائم القتل العمد وتسهيل ارتكاب جناية والقتل قصدًا لأكثر من شخصين وجرم التعذيب المفضي إلى الموت وجرائم الاعتداء الذي يستهدف إثارة الحرب الأهلية والاقتتال الطّائفي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>القضية منظورة أمام قاضي الإحالة الرابع بدمشق تمهيدا للبتّ بإحالته إلى محكمة الجنايات بدمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/139648",
@@ -2284,18 +2296,6 @@
             "title": "قيادة الأمن الداخلي في #الحسكة: 📌شهدت منطقة رأس العين خلال الفترة الأخيرة…",
             "summary": "<b>قيادة الأمن الداخلي في </b><a href=\"https://t.me/?q=%23%D8%A7%D9%84%D8%AD%D8%B3%D9%83%D8%A9\"><b>#الحسكة</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شهدت منطقة رأس العين خلال الفترة الأخيرة عرقلة عودة بعض العائلات إلى منازلها ترافقت مع اعتداءات عليها وعلى ممتلكاتها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شهدت مدينتا الحسكة والقامشلي حوادث تضمنت الإساءة إلى العلم السوري والاعتداء على الممتلكات العامة وإثارة الفوضى والتعرض لعناصر الأمن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرى توقيف كل من ثبتت مشاركته في هذه الأفعال تمهيدًا لإحالته إلى القضاء وفق الأصول القانونية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-08-12T15:34:43.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "365d23b620e864babb9d710e0e1c043bfc853e59d8d4a48308e8728cbe69cb99",
-            "content_html": "برعاية وزارة الأوقاف وبحضور مفتي الجمهورية الشيخ أسامة الرفاعي.. افتتاح مركز \"أولو الألباب\"  لتحفيظ القرآن للمكفوفين والصم والبكم في العاصمة دمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139386",
-            "title": "برعاية وزارة الأوقاف وبحضور مفتي الجمهورية الشيخ أسامة الرفاعي.. افتتاح مركز…",
-            "summary": "برعاية وزارة الأوقاف وبحضور مفتي الجمهورية الشيخ أسامة الرفاعي.. افتتاح مركز \"أولو الألباب\"  لتحفيظ القرآن للمكفوفين والصم والبكم في العاصمة دمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/CzL6GojrZkvnWJi4QiFPuzOrmlYJ91gJRX26sXcvSPbqko8axkOzjxxyCC97uzx4w8cFJNjGqnrIhZEfIFWOnF1ILSyYLLhlog3IRsgat_l-YvyctERnSn66PBumUWe8I9xlx2TU8JhG_kTPnqmtvyxhPcNRut2AjrIqzerT4rQC1pv3s69Bbr43EUcy8JePRE9Cu7QzaNq9xcehJ2qfbK7moZoH4nRV1RyZuPvNLneaNk68zjY-iqP6mlGteVfRwIFhf_wEZY4bXgCvypNWBtsqTshQK77WZtA3q58HrLt4HcTYbwYrcBGgqP9txeN-PCPUXzPZZnmkKL5Fg_QAwg.jpg",
-            "date_modified": "2026-08-12T14:42:56.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
