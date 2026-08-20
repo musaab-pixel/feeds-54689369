@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 20 Aug 2026 12:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 12:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: نقل 6 مصابين فلسطينيين إلى المستشفى إثر اعتداء…]]></title>
+            <link>https://t.me/aljazeeraBrk/231716</link>
+            <guid isPermaLink="false">482262d22b52472e0d70cc3449884501b93d5ca8cf9e176e0261ca935fea2420</guid>
+            <pubDate>Thu, 20 Aug 2026 12:46:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: نقل 6 مصابين فلسطينيين إلى المستشفى إثر اعتداء مستوطنين في قرية المغير شمال رام الله]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: نقل 6 مصابين فلسطينيين إلى المستشفى إثر اعتداء مستوطنين في قرية المغير شمال رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: نقل 6 مصابين للمستشفى إثر اعتداء مستوطنين على…]]></title>
             <link>https://t.me/aljazeeraBrk/231715</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 19 Aug 2026 09:32:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: استعادة 103 عسكريين من الأسر في أوكرانيا مقابل إعادة 103 أسرى من الجيش الأوكراني لكييف]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: استعادة 103 عسكريين من الأسر في أوكرانيا مقابل إعادة 103 أسرى من الجيش الأوكراني لكييف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/231484</link>
-            <guid isPermaLink="false">acacab00e0b6613c7ff5cb0740f6f18f4df4206196a44555440ad238bb05292e</guid>
-            <pubDate>Wed, 19 Aug 2026 09:17:02 GMT</pubDate>
-            <description><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع خلال الساعات الـ24 الماضية]]></description>
-            <content:encoded><![CDATA[وزارة الصحة في غزة: 7 شهداء و24 مصابا بنيران قوات الاحتلال الإسرائيلي في القطاع خلال الساعات الـ24 الماضية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
