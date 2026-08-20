@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 20 Aug 2026 13:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[اليونيفيل: نحث جميع الأطراف على تجديد التزامها بالقرار 1701 ووقف انتهاكه وعدم…]]></title>
+            <link>https://t.me/aljazeeraBrk/231721</link>
+            <guid isPermaLink="false">1556d56dd7d921f0689230d27b3348890b4614b2b6b80fa31b1d9971113e326d</guid>
+            <pubDate>Thu, 20 Aug 2026 13:55:02 GMT</pubDate>
+            <description><![CDATA[اليونيفيل: نحث جميع الأطراف على تجديد التزامها بالقرار 1701 ووقف انتهاكه وعدم الاستقرار ليس في مصلحة أحد]]></description>
+            <content:encoded><![CDATA[اليونيفيل: نحث جميع الأطراف على تجديد التزامها بالقرار 1701 ووقف انتهاكه وعدم الاستقرار ليس في مصلحة أحد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[اليونيفيل: ملتزمون بولايتنا وبالحفاظ على حضور ميداني واضح في مختلف أنحاء جنوب…]]></title>
             <link>https://t.me/aljazeeraBrk/231720</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 19 Aug 2026 10:33:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: الجيش الإسرائيلي يحتجز شبانا خلال اقتحامه بلدة سلواد بقضاء رام الله وسط الضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: الجيش الإسرائيلي يحتجز شبانا خلال اقتحامه بلدة سلواد بقضاء رام الله وسط الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: التحدي الأكبر هو إعادة الإعمار بعد انسحاب إسرائيل وانتشار…]]></title>
-            <link>https://t.me/aljazeeraBrk/231488</link>
-            <guid isPermaLink="false">43bf7e51d945e5e1ba9e9ece4ac000d9179555a6e5596ae6804d5f522f1d5e42</guid>
-            <pubDate>Wed, 19 Aug 2026 10:11:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: التحدي الأكبر هو إعادة الإعمار بعد انسحاب إسرائيل وانتشار الجيش حتى الحدود]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: التحدي الأكبر هو إعادة الإعمار بعد انسحاب إسرائيل وانتشار الجيش حتى الحدود]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
