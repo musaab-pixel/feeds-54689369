@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "018be6721aa557f7aed72252b1b9a269f67117299b3aec83ce9f2f96c626ec9f",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">„Wir schaffen das!“– Zehn Jahre später</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-20T11:04:26+02:00\" title=\"Donnerstag, 20 August 2026 - 11:04\" class=\"datetime\">Do. 20 Aug 2026 - 11:04</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/wir-schaffen-das-zehn-jahre-spaeter",
+            "title": "„Wir schaffen das!“– Zehn Jahre später",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">„Wir schaffen das!“– Zehn Jahre später</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-20T11:04:26+02:00\" title=\"Donnerstag, 20 August 2026 - 11:04\" class=\"datetime\">Do. 20 Aug 2026 - 11:04</time>\n</span>\n",
+            "date_modified": "2026-08-20T09:04:26.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "54cea752e777b75539c99dff5ba128f44eed51a0ec2119fad8537c73fdd1a2ec",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Politik mal selber machen: Einblicke in einen Bürgerrat</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-17T15:31:46+02:00\" title=\"Montag, 17 August 2026 - 15:31\" class=\"datetime\">Mo. 17 Aug 2026 - 15:31</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/politik-mal-selber-machen-einblicke-einen-buergerrat",

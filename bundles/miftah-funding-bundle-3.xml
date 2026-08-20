@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Wed, 19 Aug 2026 13:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1210,6 +1210,23 @@ Mi, 2. Sep 2026 18:59 Uhr </time> </span></p>]]></content:encoded>
 <i class="i i-navigation"></i></a></p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/55643/imago299266189.530x371-hidpi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[„Wir schaffen das!“– Zehn Jahre später]]></title>
+            <link>https://bosch-stiftung.de/story/wir-schaffen-das-zehn-jahre-spaeter</link>
+            <guid isPermaLink="false">018be6721aa557f7aed72252b1b9a269f67117299b3aec83ce9f2f96c626ec9f</guid>
+            <pubDate>Thu, 20 Aug 2026 09:04:26 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">„Wir schaffen das!“– Zehn Jahre später</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-20T11:04:26+02:00" title="Donnerstag, 20 August 2026 - 11:04" class="datetime">Do. 20 Aug 2026 - 11:04</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">„Wir schaffen das!“– Zehn Jahre später</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-20T11:04:26+02:00" title="Donnerstag, 20 August 2026 - 11:04" class="datetime">Do. 20 Aug 2026 - 11:04</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
         </item>
         <item>
             <title><![CDATA[„Für Studierende sind Mentoring-Projekte Brücken in das Berufsleben“: Dr. Marielle Liebert über unsere Initiative WEICHENSTELLUNG]]></title>
@@ -6906,13 +6923,6 @@ Podcast </span> <span class="mediateaser_media_control_duration">
 <p>Open Briefing identified key areas of concern and clearly set out the actions that we can take now and in the longer term. Their work went beyond digital security to incorporate travel security and our team’s wellbeing – all through a gender perspective. This really highlights the benefits of their holistic approach.</p>
 <p style="text-align: right;"><strong><small>Women’s Link Worldwide</small></strong></p>
 </blockquote>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[The Media Development Think Tank: Insights, analysis and a global exchange of ideas]]></title>
-            <link>https://akademie.dw.com/en/dw-freedom/s-101469</link>
-            <guid isPermaLink="false">b9f5ac62f811aefb5eb87afe30bfaf54fa65fd447e1dbeb9e5a850f371d1c7d5</guid>
-            <pubDate>Fri, 24 Jul 2026 09:42:38 GMT</pubDate>
-            <enclosure url="https://static.dw.com/image/70946544_600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
