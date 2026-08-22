@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 11:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 12:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إذاعة الجيش الإسرائيلي عن مصدر: الشخص المستهدف في سوريا كان يخطط لتفجير عبوة…]]></title>
+            <link>https://t.me/aljazeeraBrk/231965</link>
+            <guid isPermaLink="false">a2212d399c662e25e5a3660b11b68931be5e373973e0a72ea26bac0ce3759e81</guid>
+            <pubDate>Sat, 22 Aug 2026 11:53:02 GMT</pubDate>
+            <description><![CDATA[إذاعة الجيش الإسرائيلي عن مصدر: الشخص المستهدف في سوريا كان يخطط لتفجير عبوة ناسفة بالقوات الإسرائيلية]]></description>
+            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي عن مصدر: الشخص المستهدف في سوريا كان يخطط لتفجير عبوة ناسفة بالقوات الإسرائيلية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: قواتنا أطلقت النار في جنوب سوريا على إرهابي شكل تهديدا مباشرا…]]></title>
             <link>https://t.me/aljazeeraBrk/231964</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 20 Aug 2026 10:05:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية المصري: أمن قطر ودول الخليج الشقيقة جزء لا يتجزأ من الأمن القومي المصري والأمن القومي العربي]]></description>
             <content:encoded><![CDATA[وزير الخارجية المصري: أمن قطر ودول الخليج الشقيقة جزء لا يتجزأ من الأمن القومي المصري والأمن القومي العربي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أرسلت استغاثة باقتراب سفينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/231668</link>
-            <guid isPermaLink="false">203b0e98ac3385189ae90759a8fb263d7b75b7bd3d8d9853265d210861f1a6c4</guid>
-            <pubDate>Thu, 20 Aug 2026 09:56:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أرسلت استغاثة باقتراب سفينة منها أثناء إبحارها في خليج عدن]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أرسلت استغاثة باقتراب سفينة منها أثناء إبحارها في خليج عدن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
