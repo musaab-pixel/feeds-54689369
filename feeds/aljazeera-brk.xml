@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 13:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 14:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قواتنا قتلت اليوم قائد سرية في الذراع العسكري لحماس في غارة…]]></title>
+            <link>https://t.me/aljazeeraBrk/231978</link>
+            <guid isPermaLink="false">cef7ae02d7d7c2ac424632b69900c3b724315b36ce91197a32da864f1012264e</guid>
+            <pubDate>Sat, 22 Aug 2026 14:28:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قواتنا قتلت اليوم قائد سرية في الذراع العسكري لحماس في غارة على دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قواتنا قتلت اليوم قائد سرية في الذراع العسكري لحماس في غارة على دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أكسيوس عن مسؤولين أمريكيين: نحو 16 مليون برميل من النفط خرجت من مضيق هرمز عبر…]]></title>
             <link>https://t.me/aljazeeraBrk/231977</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 20 Aug 2026 10:18:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء وزير الخارجية القطري: تصرفات إسرائيل تزعزع الاستقرار وهي ترفض يوما بعد يوم اليد الممدودة]]></description>
             <content:encoded><![CDATA[رئيس الوزراء وزير الخارجية القطري: تصرفات إسرائيل تزعزع الاستقرار وهي ترفض يوما بعد يوم اليد الممدودة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الوزراء وزير الخارجية القطري: الجانب الإسرائيلي لم ينفذ الالتزامات الواردة…]]></title>
-            <link>https://t.me/aljazeeraBrk/231681</link>
-            <guid isPermaLink="false">f041df219f0642669fbcde541598831dade0abfc5271f2e3c64daae6a1dd498a</guid>
-            <pubDate>Thu, 20 Aug 2026 10:17:02 GMT</pubDate>
-            <description><![CDATA[رئيس الوزراء وزير الخارجية القطري: الجانب الإسرائيلي لم ينفذ الالتزامات الواردة بالمرحلة الأولى من اتفاق غزة]]></description>
-            <content:encoded><![CDATA[رئيس الوزراء وزير الخارجية القطري: الجانب الإسرائيلي لم ينفذ الالتزامات الواردة بالمرحلة الأولى من اتفاق غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
