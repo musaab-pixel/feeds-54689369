@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "e7ce70b9d982c9a6d93daa9ce345ef7566a6cbbff8de6bfafd96bca24ca579cc",
+            "content_html": "عاجل | الإخبارية: مقتل شخص وإصابة 3 آخرين بجروح متفاوتة جراء تعرض حافلة تقل طلاباً ومعلمين تابعين لمعهد لتحفيظ القرآن الكريم لإطلاق نار قرب قرية كفر ناها بريف حلب الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139729",
+            "title": "عاجل | الإخبارية: مقتل شخص وإصابة 3 آخرين بجروح متفاوتة جراء تعرض حافلة تقل…",
+            "summary": "عاجل | الإخبارية: مقتل شخص وإصابة 3 آخرين بجروح متفاوتة جراء تعرض حافلة تقل طلاباً ومعلمين تابعين لمعهد لتحفيظ القرآن الكريم لإطلاق نار قرب قرية كفر ناها بريف حلب الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-22T10:40:38.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "0a22dc9fbf4f575c6d9608d67aa141268ec526e2d0dc5b441d2be5ce289ae950",
             "content_html": "منطقة عفرين:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الكشف عن مجموعة من القطع الأثرية شملت نُصُباً جنائزية ومسلة أثرية في إحدى قرى ناحية بلبل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرى توثيق القطع ونقلها إلى متحف حلب الوطني وحفظها ضمن السجلات والمقتنيات الأثرية الرسمية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/139728",
@@ -2278,17 +2289,6 @@
             "title": "🛑#عاجل | وفاة الشاب محمد غميرة المصاب بمرض الناعور بعد تدهور حالته الصحية عقب…",
             "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\">#عاجل</a> | وفاة الشاب محمد غميرة المصاب بمرض الناعور بعد تدهور حالته الصحية عقب احتجازه في مخفر الحفّة بريف اللاذقية على خلفية شكوى مالية وفق ما أفاد ناشطون نقلًا عن عائلته<br><br>وكان الناشط أيمن الحداد قد أفاد في منشور قبل يومين نقلًا عن عائلة الشاب، بتدهور حالته الصحية بعد دخوله مخفر الحفّة بحالة مستقرة، قبل نقله إلى مستشفى الحفّة ثم إلى مستشفى اللاذقية، حيث أظهرت الفحوصات -بحسب رواية العائلة- إصابته بنزيف دماغي \"رغم إبلاغ المسؤولين في المخفر عن إصابته بالناعور\" بحسب المنشور<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-08-16T14:39:09.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "8dfab3aead12b62f20866a338db4db4827b0c9e92833735435c13d3e4d14cef5",
-            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية:</b> استشهاد أحد عناصر وزارة الداخلية وإصابة آخرين جراء حادث سير لحافلة تقلهم بالقرب من ناحية \"الجلبية\" في محيط منطقة عين العرب كوباني بريف حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139506",
-            "title": "🛑#عاجل | الإخبارية: استشهاد أحد عناصر وزارة الداخلية وإصابة آخرين جراء حادث…",
-            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية:</b> استشهاد أحد عناصر وزارة الداخلية وإصابة آخرين جراء حادث سير لحافلة تقلهم بالقرب من ناحية \"الجلبية\" في محيط منطقة عين العرب كوباني بريف حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-16T14:36:48.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
