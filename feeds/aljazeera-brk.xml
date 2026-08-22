@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 11:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 11:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قواتنا أطلقت النار في جنوب سوريا على إرهابي شكل تهديدا مباشرا…]]></title>
+            <link>https://t.me/aljazeeraBrk/231964</link>
+            <guid isPermaLink="false">831d194e23b04ac58cec3075b18502628138e7239c13c73098d8b5c41c31afd4</guid>
+            <pubDate>Sat, 22 Aug 2026 11:44:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قواتنا أطلقت النار في جنوب سوريا على إرهابي شكل تهديدا مباشرا لها]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قواتنا أطلقت النار في جنوب سوريا على إرهابي شكل تهديدا مباشرا لها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر…]]></title>
             <link>https://t.me/aljazeeraBrk/231963</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 20 Aug 2026 09:56:02 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أرسلت استغاثة باقتراب سفينة منها أثناء إبحارها في خليج عدن]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: ناقلة نفط أرسلت استغاثة باقتراب سفينة منها أثناء إبحارها في خليج عدن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادثة على بعد 136 ميلا…]]></title>
-            <link>https://t.me/aljazeeraBrk/231667</link>
-            <guid isPermaLink="false">b489bd35facf16e87ce92ee2b525c2ddefbcdb9f169e81fba8bc99c1013b4ef6</guid>
-            <pubDate>Thu, 20 Aug 2026 09:54:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادثة على بعد 136 ميلا شرقي المكلا في اليمن]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادثة على بعد 136 ميلا شرقي المكلا في اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
