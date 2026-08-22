@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 16:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 16:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة البث عن مصدر: إسرائيل أعربت لواشنطن عن مخاوف من نشر تركيا منظومات دفاع جوي…]]></title>
+            <link>https://t.me/aljazeeraBrk/231992</link>
+            <guid isPermaLink="false">8663146bbc391f94ddfff04809f898ea3e2c3932fc9e61bd6ce8544f79f0521a</guid>
+            <pubDate>Sat, 22 Aug 2026 16:16:03 GMT</pubDate>
+            <description><![CDATA[هيئة البث عن مصدر: إسرائيل أعربت لواشنطن عن مخاوف من نشر تركيا منظومات دفاع جوي بمطار أبو الظهور في سوريا]]></description>
+            <content:encoded><![CDATA[هيئة البث عن مصدر: إسرائيل أعربت لواشنطن عن مخاوف من نشر تركيا منظومات دفاع جوي بمطار أبو الظهور في سوريا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون السوري عن مصدر أمني: مصابون جراء انفجار عبوة ناسفة بحافلة لقوى الأمن…]]></title>
             <link>https://t.me/aljazeeraBrk/231991</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 20 Aug 2026 10:50:02 GMT</pubDate>
             <description><![CDATA[الكرملين: لا توجد أسباب تدعو للتفاؤل بشأن التوصل إلى تسوية سلمية في أوكرانيا بسبب موقف كييف]]></description>
             <content:encoded><![CDATA[الكرملين: لا توجد أسباب تدعو للتفاؤل بشأن التوصل إلى تسوية سلمية في أوكرانيا بسبب موقف كييف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: دول أوروبية بينها بريطانيا تعمل على مواصلة تأجيج الصراع في أوكرانيا]]></title>
-            <link>https://t.me/aljazeeraBrk/231696</link>
-            <guid isPermaLink="false">cbb0ee0b509415f9b768bb5d0831137e206d2cfd8e649da8092e86965d287fe4</guid>
-            <pubDate>Thu, 20 Aug 2026 10:50:02 GMT</pubDate>
-            <description><![CDATA[الكرملين: دول أوروبية بينها بريطانيا تعمل على مواصلة تأجيج الصراع في أوكرانيا]]></description>
-            <content:encoded><![CDATA[الكرملين: دول أوروبية بينها بريطانيا تعمل على مواصلة تأجيج الصراع في أوكرانيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
