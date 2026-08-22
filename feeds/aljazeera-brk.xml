@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 15:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 16:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري عن مصدر أمني: مصابون جراء انفجار عبوة ناسفة بحافلة لقوى الأمن…]]></title>
+            <link>https://t.me/aljazeeraBrk/231991</link>
+            <guid isPermaLink="false">81ac3b50bc28e17e7463c99e32947cd7723cac7ebd23a86f7a4ea59ef448aa35</guid>
+            <pubDate>Sat, 22 Aug 2026 16:04:03 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري عن مصدر أمني: مصابون جراء انفجار عبوة ناسفة بحافلة لقوى الأمن الداخلي في ريف دمشق]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري عن مصدر أمني: مصابون جراء انفجار عبوة ناسفة بحافلة لقوى الأمن الداخلي في ريف دمشق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: استمرار إسرائيل في انتهاك سيادة دول المنطقة يشكل نهجا خطيرا…]]></title>
             <link>https://t.me/aljazeeraBrk/231990</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 20 Aug 2026 10:50:02 GMT</pubDate>
             <description><![CDATA[الكرملين: دول أوروبية بينها بريطانيا تعمل على مواصلة تأجيج الصراع في أوكرانيا]]></description>
             <content:encoded><![CDATA[الكرملين: دول أوروبية بينها بريطانيا تعمل على مواصلة تأجيج الصراع في أوكرانيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الوزراء وزير الخارجية القطري: سنبذل جهودا لخلق ضغط دولي على إسرائيل للوفاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/231694</link>
-            <guid isPermaLink="false">2bfe55abea12016e626cf1666c3bd79d9bae5d404df2cc7abb667de3cc3b4567</guid>
-            <pubDate>Thu, 20 Aug 2026 10:40:02 GMT</pubDate>
-            <description><![CDATA[رئيس الوزراء وزير الخارجية القطري: سنبذل جهودا لخلق ضغط دولي على إسرائيل للوفاء بالتزاماتها]]></description>
-            <content:encoded><![CDATA[رئيس الوزراء وزير الخارجية القطري: سنبذل جهودا لخلق ضغط دولي على إسرائيل للوفاء بالتزاماتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
