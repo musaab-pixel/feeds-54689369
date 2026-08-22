@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 10:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 11:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر…]]></title>
+            <link>https://t.me/aljazeeraBrk/231963</link>
+            <guid isPermaLink="false">db6cf092573f5f9112c896c0320fb5c4feb1af209638c25c907f7707d837f9fe</guid>
+            <pubDate>Sat, 22 Aug 2026 10:59:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر يطا جنوب الخليل]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر يطا جنوب الخليل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة شخصين في اعتداء الاحتلال عليهما بالضرب في بلدة…]]></title>
             <link>https://t.me/aljazeeraBrk/231962</link>
@@ -2083,15 +2092,6 @@
             <pubDate>Fri, 21 Aug 2026 08:52:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين خلال هجومهم على خربة حمروش في سعير شمال الخليل بالضفة]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين خلال هجومهم على خربة حمروش في سعير شمال الخليل بالضفة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الوزراء العراقي: وجود سلاح خارج إطار الدولة يشكل بيئة طاردة للاستثمار وهذا…]]></title>
-            <link>https://t.me/aljazeeraBrk/231832</link>
-            <guid isPermaLink="false">aefcdf7da878b83bf822ff815ee2de8b37293e0631c7be685dfc6de93f42e7f5</guid>
-            <pubDate>Fri, 21 Aug 2026 08:51:02 GMT</pubDate>
-            <description><![CDATA[رئيس الوزراء العراقي: وجود سلاح خارج إطار الدولة يشكل بيئة طاردة للاستثمار وهذا مرفوض]]></description>
-            <content:encoded><![CDATA[رئيس الوزراء العراقي: وجود سلاح خارج إطار الدولة يشكل بيئة طاردة للاستثمار وهذا مرفوض]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

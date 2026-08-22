@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 22 Aug 2026 10:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 11:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر…]]></title>
+            <link>https://t.me/aljazeeraBrk/231963</link>
+            <guid isPermaLink="false">db6cf092573f5f9112c896c0320fb5c4feb1af209638c25c907f7707d837f9fe</guid>
+            <pubDate>Sat, 22 Aug 2026 10:59:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر يطا جنوب الخليل]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر يطا جنوب الخليل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة شخصين في اعتداء الاحتلال عليهما بالضرب في بلدة…]]></title>
             <link>https://t.me/aljazeeraBrk/231962</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 20 Aug 2026 09:54:02 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادثة على بعد 136 ميلا شرقي المكلا في اليمن]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن حادثة على بعد 136 ميلا شرقي المكلا في اليمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ارتفاع سعر خام برنت بنحو ٣%؜ إلى 93.9 دولار والخام الأمريكي إلى 87.7 دولار]]></title>
-            <link>https://t.me/aljazeeraBrk/231666</link>
-            <guid isPermaLink="false">d35349ea3615fbd71f5f17b1d064ab40cd9910cc6ff79912a5c73f48b639a595</guid>
-            <pubDate>Thu, 20 Aug 2026 09:44:02 GMT</pubDate>
-            <description><![CDATA[ارتفاع سعر خام برنت بنحو ٣%؜ إلى 93.9 دولار والخام الأمريكي إلى 87.7 دولار]]></description>
-            <content:encoded><![CDATA[ارتفاع سعر خام برنت بنحو ٣%؜ إلى 93.9 دولار والخام الأمريكي إلى 87.7 دولار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
