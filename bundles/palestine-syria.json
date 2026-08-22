@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "01060984e94a166aba4a5bc19c5a2f87fcdbd08f54f59ebffa21eb52cbe7534e",
+            "content_html": "القنصل التركي في حلب معمر هاكان جنكيز في لقاء خاص على حلب اليوم:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>السوريون الذين تقدموا بطلبات للحصول على الجنسية في تركيا يمكنهم بعد عودتهم إلى سوريا تتبع الطلب باستخدام رقم الطلب المعطى لهم من خلال موقع مديرية نفوس الولاية التي تقدموا فيها بطلباتهم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نحن في القنصلية لا نستطيع رؤية معلومات الطلبات ولا يمكننا متابعتها<br><br>لمشاهدة المقابلة كاملة: <a href=\"https://youtu.be/DdpZbaMeprA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://youtu.be/DdpZbaMeprA</a><br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/139730",
+            "title": "القنصل التركي في حلب معمر هاكان جنكيز في لقاء خاص على حلب اليوم: 📌السوريون…",
+            "summary": "القنصل التركي في حلب معمر هاكان جنكيز في لقاء خاص على حلب اليوم:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>السوريون الذين تقدموا بطلبات للحصول على الجنسية في تركيا يمكنهم بعد عودتهم إلى سوريا تتبع الطلب باستخدام رقم الطلب المعطى لهم من خلال موقع مديرية نفوس الولاية التي تقدموا فيها بطلباتهم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نحن في القنصلية لا نستطيع رؤية معلومات الطلبات ولا يمكننا متابعتها<br><br>لمشاهدة المقابلة كاملة: <a href=\"https://youtu.be/DdpZbaMeprA\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://youtu.be/DdpZbaMeprA</a><br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-22T11:12:26.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "db6cf092573f5f9112c896c0320fb5c4feb1af209638c25c907f7707d837f9fe",
             "content_html": "مراسل الجزيرة: إصابة مسن فلسطيني إثر هجوم مستوطنين عليه في قرية الركيز بمسافر يطا جنوب الخليل",
             "url": "https://t.me/aljazeeraBrk/231963",
@@ -1595,17 +1606,6 @@
             "title": "محافظة القدس: إصابة شاب بحروق في وجهه بعد اعتداء مستوطن عليه ورشه بالغاز قرب…",
             "summary": "محافظة القدس: إصابة شاب بحروق في وجهه بعد اعتداء مستوطن عليه ورشه بالغاز قرب بلدة شعفاط بقضاء القدس المحتلة",
             "date_modified": "2026-08-21T08:53:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e0dafb99c8bf60330f1dfaab4d93d8da8d389c82b9fbcc765f49e52e49a7a258",
-            "content_html": "مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين خلال هجومهم على خربة حمروش في سعير شمال الخليل بالضفة",
-            "url": "https://t.me/aljazeeraBrk/231833",
-            "title": "مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين خلال هجومهم على خربة حمروش في سعير…",
-            "summary": "مراسل الجزيرة: إصابة فلسطيني برصاص مستوطنين خلال هجومهم على خربة حمروش في سعير شمال الخليل بالضفة",
-            "date_modified": "2026-08-21T08:52:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
