@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 23 Aug 2026 14:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 14:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: 7 مصابين بينهم طفل إصابته خطيرة في قصف من مسيرة إسرائيلية على…]]></title>
+            <link>https://t.me/aljazeeraBrk/232070</link>
+            <guid isPermaLink="false">1b87766fa7f9504da30ec83b947b4ece34b9acfc54f88319ff62e1895813d399</guid>
+            <pubDate>Sun, 23 Aug 2026 14:33:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: 7 مصابين بينهم طفل إصابته خطيرة في قصف من مسيرة إسرائيلية على فلسطينيين غربي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: 7 مصابين بينهم طفل إصابته خطيرة في قصف من مسيرة إسرائيلية على فلسطينيين غربي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تغلق عددا من الحواجز العسكرية شمال وشرق رام الله]]></title>
             <link>https://t.me/aljazeeraBrk/232069</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 21 Aug 2026 08:39:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء العراقي: العراق تحول من ساحة صراع إلى جسر للتفاهم ولن نكون ساحة للتصفية]]></description>
             <content:encoded><![CDATA[رئيس الوزراء العراقي: العراق تحول من ساحة صراع إلى جسر للتفاهم ولن نكون ساحة للتصفية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الوزراء العراقي: بدائل تصدير النفط العراقي ترقيعية وخجولة وحجم صادراتنا…]]></title>
-            <link>https://t.me/aljazeeraBrk/231829</link>
-            <guid isPermaLink="false">f7771c94ceaf1c45b9ef7e824ef421284531eb0a0604e89791539f62578af1e6</guid>
-            <pubDate>Fri, 21 Aug 2026 08:34:02 GMT</pubDate>
-            <description><![CDATA[رئيس الوزراء العراقي: بدائل تصدير النفط العراقي ترقيعية وخجولة وحجم صادراتنا اليوم نحو 10% من الطبيعي]]></description>
-            <content:encoded><![CDATA[رئيس الوزراء العراقي: بدائل تصدير النفط العراقي ترقيعية وخجولة وحجم صادراتنا اليوم نحو 10% من الطبيعي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
