@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 24 Aug 2026 07:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 07:56:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: إصابة ناقلة نفط بمقذوف مجهول غرب ينبع…]]></title>
+            <link>https://t.me/aljazeeraBrk/232149</link>
+            <guid isPermaLink="false">b651e2259f466cbca70fb11046617834e6c0c87aa43052ec5737c28c79a79989</guid>
+            <pubDate>Mon, 24 Aug 2026 07:48:02 GMT</pubDate>
+            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: إصابة ناقلة نفط بمقذوف مجهول غرب ينبع أسفر عن حريق دون إصابات بطاقمها]]></description>
+            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: إصابة ناقلة نفط بمقذوف مجهول غرب ينبع أسفر عن حريق دون إصابات بطاقمها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن واقعة على بعد 63 ميلا بحريا غرب…]]></title>
             <link>https://t.me/aljazeeraBrk/232148</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 22 Aug 2026 02:17:02 GMT</pubDate>
             <description><![CDATA[وزير الطاقة الأمريكي: الجيش الأمريكي ساعد يوم الثلاثاء في نقل أكثر من 15 مليون برميل من النفط عبر مضيق هرمز]]></description>
             <content:encoded><![CDATA[وزير الطاقة الأمريكي: الجيش الأمريكي ساعد يوم الثلاثاء في نقل أكثر من 15 مليون برميل من النفط عبر مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: جيشنا أقوى مما كان عليه في أي وقت مضى]]></title>
-            <link>https://t.me/aljazeeraBrk/231924</link>
-            <guid isPermaLink="false">8fd97674aa729e793da1b52e363ad812007ff770592a6bc76ed80c4594150fcc</guid>
-            <pubDate>Sat, 22 Aug 2026 00:28:02 GMT</pubDate>
-            <description><![CDATA[ترمب: جيشنا أقوى مما كان عليه في أي وقت مضى]]></description>
-            <content:encoded><![CDATA[ترمب: جيشنا أقوى مما كان عليه في أي وقت مضى]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
