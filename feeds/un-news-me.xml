@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Fri, 21 Aug 2026 20:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 13:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Gaza: Children still at risk despite drop in acute hunger]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/08/1168193</link>
+            <guid isPermaLink="false">53518afad48c4c0c705b8e42fbd834c30b136cad460d092d237b6a43d0710bb6</guid>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Among tent cities pitched on the rubble of destroyed homes in Gaza, children are, by one measure, finally getting enough to eat. By another, however, many of them may never fully recover, according to a new study by the UN Children’s Fund (UNICEF) released on Monday.]]></description>
+            <content:encoded><![CDATA[Among tent cities pitched on the rubble of destroyed homes in Gaza, children are, by one measure, finally getting enough to eat. By another, however, many of them may never fully recover, according to a new study by the UN Children’s Fund (UNICEF) released on Monday.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-05-2026-IOM-Gaza-04.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/08/1168180</link>
