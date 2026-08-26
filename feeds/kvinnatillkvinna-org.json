@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"kvinnatillkvinna.org\" (type: native)",
     "items": [
         {
+            "id": "e60c48bf43eec5203698f1d40aff891b4a584e9d53870c079cedb8478d121d71",
+            "url": "https://kvinnatillkvinna.org/2026/08/26/when-i-became-pregnant-i-was-forced-to-leave-school/",
+            "title": "“When I became pregnant, I was forced to leave school”",
+            "date_modified": "2026-08-26T13:35:32.000Z",
+            "author": {
+                "name": "Hanna"
+            }
+        },
+        {
             "id": "dfa22993567cf929e331567cb55eb3baaec07b7844049c2a2be372be84695cd0",
             "url": "https://kvinnatillkvinna.org/2026/08/24/girls-struggle-to-stay-in-school-in-dr-congo/",
             "title": "Girls struggle to stay in school in DR Congo",

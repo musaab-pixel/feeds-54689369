@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "5b6c949057acba30ebf81e4c9143ba23a605e44a9cfc3bf50b56aeb7bec36ae5",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) im Thema Wirkung - Monitoring, Evaluation, Adaptation und Lernen in Stuttgart oder Berlin</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-26T14:21:14+02:00\" title=\"Mittwoch, 26 August 2026 - 14:21\" class=\"datetime\">Mi. 26 Aug 2026 - 14:21</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-im-thema-wirkung-monitoring-evaluation-adaptation-und-lernen-stuttgart-oder",
+            "title": "Referent (m/w/div.) im Thema Wirkung - Monitoring, Evaluation, Adaptation und Lernen in Stuttgart oder Berlin",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) im Thema Wirkung - Monitoring, Evaluation, Adaptation und Lernen in Stuttgart oder Berlin</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-26T14:21:14+02:00\" title=\"Mittwoch, 26 August 2026 - 14:21\" class=\"datetime\">Mi. 26 Aug 2026 - 14:21</time>\n</span>\n",
+            "date_modified": "2026-08-26T12:21:14.000Z",
+            "author": {
+                "name": "ebolta"
+            }
+        },
+        {
             "id": "018be6721aa557f7aed72252b1b9a269f67117299b3aec83ce9f2f96c626ec9f",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">„Wir schaffen das!“– Zehn Jahre später</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-20T11:04:26+02:00\" title=\"Donnerstag, 20 August 2026 - 11:04\" class=\"datetime\">Do. 20 Aug 2026 - 11:04</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/wir-schaffen-das-zehn-jahre-spaeter",
