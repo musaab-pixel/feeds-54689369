@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Tue, 25 Aug 2026 13:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 17:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -6002,6 +6002,67 @@ Enter your email to get reminders about upcoming deadlines for Visegrad–Taiwan
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/08/DSC5062-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Talks A Dreamed Conversation 19 Sep 2026 / 17:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/a-dreamed-conversation/</link>
+            <guid isPermaLink="false">72bd994f6b39f671ec6f8b4e8b04487250c42a504b027f77bdc25a494dc8503e</guid>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>During this conversation, Mathieu Copeland, curator of <em>The Exhibition of a Dream</em>, and FM Einheit, who composed and performed the songs based on the dreams of sixteen artists, will revisit the exhibition’s second incarnation since its premiere in Paris in 2017 and reflect on FM Einheit’s artistic trajectory and body of work.</p>
+<p>Conceived as a record, <em>The Exhibition of a Dream</em> comprises sixteen dreams interpreted as songs, performed within otherwise empty galleries and following the temporary, evolving forms of mandalas. Drawing direct inspiration from the dreams of filmmakers, playwrights, poets and writers, these sonic compositions unfold over time, tracing patterns that are both fleeting and deliberately constructed.</p>
+<p>FM Einheit was invited to take hold of this body of dreams and set it to music. Following initial demos sketched in his Steinschlag studio in Bavaria, FM Einheit collaborated with musicians Volker Kamp, Robert Poss, Susan Stenger, Erika Stucky, Saskia von Klitzing, and the singers of the Gulbenkian Choir. The dream interpretations were recorded live in 2017, both publicly and privately, in the Gulbenkian Foundation’s two amphitheatres in Lisbon: the Open-Air Amphitheatre and the Grand Auditorium. Underscoring the complex beauty inherent in the genesis of a dream, an experience shared within our inner worlds, the exhibition explores what it means to create mental images in the minds of those experiencing these dreams, opening them to new interpretations.</p>
+<p>This conversation will be conducted in English, with simultaneous interpretation into Brazilian Portuguese. The session will also include interpretation in Portuguese Sign Language.</p>
+<h2 class="fcg-section__title" id="speakers">
+			<span>Speakers</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6a90791628553" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">FM Einheit</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6a90791628553" data-index="1" class="button-link tw-normal-case tw-text-lg tw-font-light">Mathieu Copeland</button>	</li>
+</ul>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<p>During this conversation, Mathieu Copeland, curator of <em>The Exhibition of a Dream</em>, and FM Einheit, who composed and performed the songs based on the dreams of sixteen artists, will revisit the exhibition’s second incarnation since its premiere in Paris in 2017 and reflect on FM Einheit’s artistic trajectory and body of work.</p>
+<p>Conceived as a record, <em>The Exhibition of a Dream</em> comprises sixteen dreams interpreted as songs, performed within otherwise empty galleries and following the temporary, evolving forms of mandalas. Drawing direct inspiration from the dreams of filmmakers, playwrights, poets and writers, these sonic compositions unfold over time, tracing patterns that are both fleeting and deliberately constructed.</p>
+<p>FM Einheit was invited to take hold of this body of dreams and set it to music. Following initial demos sketched in his Steinschlag studio in Bavaria, FM Einheit collaborated with musicians Volker Kamp, Robert Poss, Susan Stenger, Erika Stucky, Saskia von Klitzing, and the singers of the Gulbenkian Choir. The dream interpretations were recorded live in 2017, both publicly and privately, in the Gulbenkian Foundation’s two amphitheatres in Lisbon: the Open-Air Amphitheatre and the Grand Auditorium. Underscoring the complex beauty inherent in the genesis of a dream, an experience shared within our inner worlds, the exhibition explores what it means to create mental images in the minds of those experiencing these dreams, opening them to new interpretations.</p>
+<p>This conversation will be conducted in English, with simultaneous interpretation into Brazilian Portuguese. The session will also include interpretation in Portuguese Sign Language.</p>
+<h2 class="fcg-section__title" id="speakers">
+			<span>Speakers</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6a90791628553" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">FM Einheit</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6a90791628553" data-index="1" class="button-link tw-normal-case tw-text-lg tw-font-light">Mathieu Copeland</button>	</li>
+</ul>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/08/Conversa-Copeland_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Grants Gulbenkian Energy Communities Supporting renewable energy community projects in Portugal that empower citizens to play an active role in the energy transition. closes 16 Sep 2026 Open call]]></title>
             <link>https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/</link>
             <guid isPermaLink="false">e621a08bafd3ad9239c852e3dc01f773f38fec3ed1ef7658a2460e701026e4ec</guid>
@@ -7666,6 +7727,17 @@ Enter your email to get reminders about upcoming deadlines for Scholarship at th
 	<li>Applications can only be submitted once all the mandatory fields of the form have been completed and the documentation required by the Call Conditions has been uploaded;</li>
 	<li>After filling the form, click on the ‘submit application’ button. In order to prevent difficulties in submitting applications, avoid submitting your application in the last few days of the deadline.</li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The debate about public vs private markets impact investing]]></title>
+            <link>https://friendsprovidentfoundation.org/public-vs-private-market-impact-investing/</link>
+            <guid isPermaLink="false">1aa731cfc44c22a58c11db61cc3515e87658e7cf10bd56676b0b463b1359ad0c</guid>
+            <pubDate>Thu, 27 Aug 2026 16:00:49 GMT</pubDate>
+            <description><![CDATA[<p>The post <a href="https://friendsprovidentfoundation.org/public-vs-private-market-impact-investing/">The debate about public vs private markets impact investing</a> appeared first on <a href="https://friendsprovidentfoundation.org">Friends Provident Foundation</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>The post <a href="https://friendsprovidentfoundation.org/public-vs-private-market-impact-investing/">The debate about public vs private markets impact investing</a> appeared first on <a href="https://friendsprovidentfoundation.org">Friends Provident Foundation</a>.</p>
+]]></content:encoded>
+            <author>Sarah Heathwood</author>
         </item>
         <item>
             <title><![CDATA[Meer lezen]]></title>
@@ -14799,404 +14871,6 @@ Enter your email to get reminders about upcoming deadlines for Scholarship at th
       </h3>
 <p>
         Incarcerated women in Colombia face poor treatment behind bars—and steep obstacles to success once they are released. Inside the drive to protect their rights and increase opportunity.
-      </p>
-<h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
-<p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Middle East and North Africa The Open Society Foundations’ work in the Middle East and North Africa seeks to promote democratic governance and to protect human rights amid entrenched regional conflicts and political restrictions.]]></title>
-            <link>https://www.opensocietyfoundations.org/what-we-do/regions/middle-east-and-north-africa</link>
-            <guid isPermaLink="false">0754e401f38b95392d71c712ca8bdc878d811107e35ee322edb9475b62e0ca16</guid>
-            <pubDate>Fri, 24 Jul 2026 12:06:49 GMT</pubDate>
-            <description><![CDATA[<p id="overview">
-        The Open Society Foundations’ work in the Middle East and North Africa seeks to promote democratic governance and to protect human rights amid entrenched regional conflicts and political restrictions.
-      </p>
-<ul class="a-linkList no-list xsmall-hide medium-show">
-          <li><a class="a-linkList__item" href="#overview" data-behavior="scrollToLink">Overview</a></li>
-
-                                    <li><a class="a-linkList__item" href="#our-work" data-behavior="scrollToLink">Our Work</a></li>
-                          <li><a class="a-linkList__item" href="#our-history" data-behavior="scrollToLink">Our History</a></li>
-                      
-        </ul>
-<h2 class="sectionTitle sectionTitle--small">Offices</h2>
-<h3>Amman, Jordan</h3>
-<p>The Amman office supports a diverse group of local civil society organizations, research centers, universities, and media organizations across Egypt, Morocco, Palestine, Tunisia, and Syria.</p>
-<ol data-map-legend="">
-
-                            <li>
-              <a href="#mapContainer" data-map-hotspot-id="43-amman-jordan">Amman, Jordan</a>
-            </li>
-                    
-      </ol>
-<h2 class="sectionTitle sectionTitle--small">By the Numbers</h2>
-<h2 class="sectionTitle sectionTitle--small">Expenditures by Year</h2>
-<h2 class="o-contentLayout__sidebarTitle" id="our-work">Our Work</h2>
-<p class="intro">
-      Open Society–Middle East and North Africa works to defend human rights and promote democratic governance across the region.
-    </p>
-<h3 class="m-textBlock__title">Culture and Ideas</h3>
-<p>Open Society’s work has always been grounded in the free exchange of ideas—either in the world of policy, or in the world of art and culture. Across the Middle East and North Africa region, we support the development of institutions and think tanks that can incubate ideas for positive change. We also support independent cultural institutions that use art to ask questions and to challenge boundaries that may be otherwise tightly controlled. <br></p>
-<h3 class="m-textBlock__title">Human Rights and Political Freedoms</h3>
-<p>We are among the numerous international supporters of human rights and law groups across the region that defend freedom of expression, challenge discrimination, and call for accountability for government abuses. Our efforts to push back against authoritarianism include supporting groups abroad that speak out for freedoms denied them in their home countries.</p>
-<h3 class="m-textBlock__title">Digital Rights and Freedoms</h3>
-<p>Online civic space remains constrained across much of the region by government censorship and surveillance, while flows of sometimes toxic disinformation are largely unchecked. In addition, there is a deficit of regional capacity to address pressing issues that will shape the region’s digital future. We are working to build regional capacity to strengthen the ability of independent groups to advocate for an internet protected from the excesses of state and corporate power. <br></p>
-<h3 class="m-textBlock__title">International Justice</h3>
-<p>We have worked closely with the Open Society Justice Initiative to support regional and national groups pushing for accountability for atrocity crimes in the region, including those committed in Syria and Yemen, as well as the ongoing work by the International Criminal Court prosecutor on situations in Iraq/United Kingdom, Libya, and the Occupied Palestinian Territories.<strong><br></strong></p>
-<h2 class="o-contentLayout__sidebarTitle" id="our-history">Our History</h2>
-<p class="intro">
-      The Open Society Foundations gave our first grants in the Middle East to groups in Israel and Palestine in 2002, as George Soros expanded his philanthropic efforts into the region. In 2006, our first regional office opened in the Jordanian capital, Amman.
-    </p>
-<h3 class="a-timelinePreview__title">
-      <span>Promoting Justice and Peace in Israel-Palestine</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Creating Space for Civil Society After the Arab Uprisings</span>
-    </h3>
-<h2 class="m-articleList__title">Read more</h2>
-<h4 class="a-articleLink__subtitle">
-        Independent Journalism
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Forever No More: From Destruction to Rebirth, the Critical Need for Supporting Syrian Journalism</span>
-      </h3>
-<p>
-        As Syria rebuilds after the overthrow of its dictator Bashar al-Assad, an independent journalism outlet has been helping to build the public sphere to ensure Syrians are guaranteed the rights and freedoms they deserve.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Pursuing Justice for Syria
-
-        
-        
-                                <figure class="a-articleLink__subtitle__icon">
-              <svg class="">
-                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon--picto-video-voices"></use>
-              </svg>
-            </figure>
-          
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>An Unprecedented Chance to Confront Russian Attacks on Hospitals in Syria</span>
-      </h3>
-<p>
-        Russia’s President Putin sent fighter jets to bombard opposition-held areas of Syria—including hundreds of attacks on hospitals and medical facilities. Now Syrians have turned to the UN Human Rights Committee for justice.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Food Security
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>This Store in Lebanon Sells Hope</span>
-      </h3>
-<p>
-        According to the UN, nearly two million people in Lebanon face food insecurity. A local grocery shop is pioneering a new model of social assistance to help engage the community, feed the hungry, and make shopping more affordable and accessible for all.
-      </p>
-<h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
-<p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></description>
-            <content:encoded><![CDATA[<p id="overview">
-        The Open Society Foundations’ work in the Middle East and North Africa seeks to promote democratic governance and to protect human rights amid entrenched regional conflicts and political restrictions.
-      </p>
-<ul class="a-linkList no-list xsmall-hide medium-show">
-          <li><a class="a-linkList__item" href="#overview" data-behavior="scrollToLink">Overview</a></li>
-
-                                    <li><a class="a-linkList__item" href="#our-work" data-behavior="scrollToLink">Our Work</a></li>
-                          <li><a class="a-linkList__item" href="#our-history" data-behavior="scrollToLink">Our History</a></li>
-                      
-        </ul>
-<h2 class="sectionTitle sectionTitle--small">Offices</h2>
-<h3>Amman, Jordan</h3>
-<p>The Amman office supports a diverse group of local civil society organizations, research centers, universities, and media organizations across Egypt, Morocco, Palestine, Tunisia, and Syria.</p>
-<ol data-map-legend="">
-
-                            <li>
-              <a href="#mapContainer" data-map-hotspot-id="43-amman-jordan">Amman, Jordan</a>
-            </li>
-                    
-      </ol>
-<h2 class="sectionTitle sectionTitle--small">By the Numbers</h2>
-<h2 class="sectionTitle sectionTitle--small">Expenditures by Year</h2>
-<h2 class="o-contentLayout__sidebarTitle" id="our-work">Our Work</h2>
-<p class="intro">
-      Open Society–Middle East and North Africa works to defend human rights and promote democratic governance across the region.
-    </p>
-<h3 class="m-textBlock__title">Culture and Ideas</h3>
-<p>Open Society’s work has always been grounded in the free exchange of ideas—either in the world of policy, or in the world of art and culture. Across the Middle East and North Africa region, we support the development of institutions and think tanks that can incubate ideas for positive change. We also support independent cultural institutions that use art to ask questions and to challenge boundaries that may be otherwise tightly controlled. <br></p>
-<h3 class="m-textBlock__title">Human Rights and Political Freedoms</h3>
-<p>We are among the numerous international supporters of human rights and law groups across the region that defend freedom of expression, challenge discrimination, and call for accountability for government abuses. Our efforts to push back against authoritarianism include supporting groups abroad that speak out for freedoms denied them in their home countries.</p>
-<h3 class="m-textBlock__title">Digital Rights and Freedoms</h3>
-<p>Online civic space remains constrained across much of the region by government censorship and surveillance, while flows of sometimes toxic disinformation are largely unchecked. In addition, there is a deficit of regional capacity to address pressing issues that will shape the region’s digital future. We are working to build regional capacity to strengthen the ability of independent groups to advocate for an internet protected from the excesses of state and corporate power. <br></p>
-<h3 class="m-textBlock__title">International Justice</h3>
-<p>We have worked closely with the Open Society Justice Initiative to support regional and national groups pushing for accountability for atrocity crimes in the region, including those committed in Syria and Yemen, as well as the ongoing work by the International Criminal Court prosecutor on situations in Iraq/United Kingdom, Libya, and the Occupied Palestinian Territories.<strong><br></strong></p>
-<h2 class="o-contentLayout__sidebarTitle" id="our-history">Our History</h2>
-<p class="intro">
-      The Open Society Foundations gave our first grants in the Middle East to groups in Israel and Palestine in 2002, as George Soros expanded his philanthropic efforts into the region. In 2006, our first regional office opened in the Jordanian capital, Amman.
-    </p>
-<h3 class="a-timelinePreview__title">
-      <span>Promoting Justice and Peace in Israel-Palestine</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Creating Space for Civil Society After the Arab Uprisings</span>
-    </h3>
-<h2 class="m-articleList__title">Read more</h2>
-<h4 class="a-articleLink__subtitle">
-        Independent Journalism
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Forever No More: From Destruction to Rebirth, the Critical Need for Supporting Syrian Journalism</span>
-      </h3>
-<p>
-        As Syria rebuilds after the overthrow of its dictator Bashar al-Assad, an independent journalism outlet has been helping to build the public sphere to ensure Syrians are guaranteed the rights and freedoms they deserve.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Pursuing Justice for Syria
-
-        
-        
-                                <figure class="a-articleLink__subtitle__icon">
-              <svg class="">
-                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon--picto-video-voices"></use>
-              </svg>
-            </figure>
-          
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>An Unprecedented Chance to Confront Russian Attacks on Hospitals in Syria</span>
-      </h3>
-<p>
-        Russia’s President Putin sent fighter jets to bombard opposition-held areas of Syria—including hundreds of attacks on hospitals and medical facilities. Now Syrians have turned to the UN Human Rights Committee for justice.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Food Security
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>This Store in Lebanon Sells Hope</span>
-      </h3>
-<p>
-        According to the UN, nearly two million people in Lebanon face food insecurity. A local grocery shop is pioneering a new model of social assistance to help engage the community, feed the hungry, and make shopping more affordable and accessible for all.
-      </p>
-<h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
-<p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[United States The Open Society Foundations champion efforts across the United States to advance justice, protect rights, and increase democratic participation.]]></title>
-            <link>https://www.opensocietyfoundations.org/what-we-do/regions/united-states</link>
-            <guid isPermaLink="false">40fa63597aa597906881dd71026e954b89733eb8f8c0fe76d48e309d2cf8f3ad</guid>
-            <pubDate>Fri, 24 Jul 2026 12:06:49 GMT</pubDate>
-            <description><![CDATA[<p id="overview">
-        The Open Society Foundations champion efforts across the United States to advance justice, protect rights, and increase democratic participation.
-      </p>
-<ul class="a-linkList no-list xsmall-hide medium-show">
-          <li><a class="a-linkList__item" href="#overview" data-behavior="scrollToLink">Overview</a></li>
-
-                                    <li><a class="a-linkList__item" href="#our-work" data-behavior="scrollToLink">Our Work</a></li>
-                          <li><a class="a-linkList__item" href="#our-history" data-behavior="scrollToLink">Our History</a></li>
-                      
-        </ul>
-<h2 class="sectionTitle sectionTitle--small">Offices</h2>
-<h3>New York, United States</h3>
-<p>The New York office is Open Society’s main grant-giving center, as well as the base for many global initiatives and thematic and regional programs.</p>
-<h3>Washington, United States</h3>
-<p>The Washington, D.C., office engages in advocacy aimed at influencing U.S. government policy on domestic and international issues such as civil liberties, criminal justice reform, human rights, transparency, and accountability.</p>
-<ol data-map-legend="">
-
-                            <li>
-              <a href="#mapContainer" data-map-hotspot-id="20-new-york-united-states">New York, United States</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="10-washington-united-states">Washington, United States</a>
-            </li>
-                    
-      </ol>
-<h2 class="sectionTitle sectionTitle--small">By the Numbers</h2>
-<h2 class="sectionTitle sectionTitle--small">Expenditures by Year</h2>
-<h2 class="o-contentLayout__sidebarTitle" id="our-work">Our Work</h2>
-<p class="intro">
-      The Open Society Foundations work to advance rights, freedom, and justice, and to defend democracy. We pursue these goals in the United States by supporting groups that strengthen rights while improving American’s economic well-being; bolster democratic participation; and encourage the U.S. to play a principled, values-driven role in the world.
-    </p>
-<h3 class="m-textBlock__title">Standing Up for Rights, Freedom, Justice, and the Rule of Law</h3>
-<p>We support organizations working to safeguard American democracy at a time when fundamental rights are under attack. This includes work that defends against further erosions of civil liberties and the rule of law including—but not only—through strategic litigation that protects civil society from attack, and that exposes corruption and holds government accountable.&nbsp;</p>
-<p>We believe that existing legal protections against discrimination must be enforced and that anti-discrimination laws must be expanded to cover communities that have historically faced gaps in coverage such as LGBTQ+ Americans and those facing generational poverty. Every American deserves the right to live safely and securely and free from discrimination, participate in our democracy, and have equal access to economic opportunity including through a good job, affordable health care, childcare, and housing.&nbsp;<br class="softbreak"></p>
-<p>This work builds on past work. We’ve addressed serious erosions of rights in recent years, perhaps most significantly, supporting efforts to restore and protect reproductive rights for millions of people in states like Kansas, Michigan, Montana, Missouri, Arizona, and Nevada, following the Supreme Court’s 2022 decision to overturn <em>Roe v. Wade</em>. We will continue to defend the right to make decisions about one’s own health and future.</p>
-<h3 class="a-featureBlock__title">
-      <span>Saving Lives, Supporting Communities, and Strengthening Democracy</span>
-    </h3>
-<h3 class="m-textBlock__title">Advancing Economic Freedom and Opportunity</h3>
-<p>At Open Society, we believe every person deserves the opportunity to determine their future and live with dignity. This includes the freedom to earn a living wage, change jobs, start a business, and form a union.&nbsp;</p>
-<p>We are making significant investments to improve Americans’ economic well-being and develop an affirmative agenda that addresses rising costs for families. We champion organizations protecting workers’ rights and advocating for policies to help families thrive, such as improving pay and protections for caregivers, affordable childcare, home care, prescription drugs, and health care, especially for low-income Americans. We have supported successful efforts to expand paid leave in Nebraska and increase the minimum wage in Missouri. We also back efforts that challenge the growing consolidation of corporate power that stifles competition and economic mobility.&nbsp;&nbsp;</p>
-<p>Advancing racial justice is central to our work to create economic opportunity and agency for all Americans. Economic exclusion and racial exclusion in the United States have always been deeply intertwined. We believe an agenda that focuses on both rights and economic renewal is the most impactful way to improve people’s lives.&nbsp;</p>
-<h3 class="m-textBlock__title">Responding to the Overdose Crisis</h3>
-<p>Through a dedicated and longstanding initiative, Open&nbsp;Society has supported efforts to hold the pharmaceutical industry accountable for its role in the overdose crisis. We have&nbsp;advocated for state governments to use the billions of dollars won&nbsp;in lawsuits with opioid manufacturers and distributors for impactful public health programs. We have invested in solutions that save lives and decreased drug overdoses, including by increasing access to naloxone, drug checking, medications for opioid use disorder, overdose prevention centers, and supporting&nbsp;health-based solutions that are effective alternatives to incarceration.</p>
-<h3 class="m-textBlock__title">Reimagining Immigration</h3>
-<p>America’s immigration system is broken—failing communities, newcomers, and the national interest alike. In response, we are working to help build a system that puts communities in the driver’s seat: one where legal pathways replace chaos; where states, cities, and ordinary Americans have a say in who comes and how many; and where immigrants arrive with jobs, sponsors, and support. We fund organizations defending immigrant rights and family unity at a time when communities are being torn apart and people's constitutional protections and rights are being violated, while also investing in the policy architecture and cross-partisan coalitions needed to build an immigration system Americans can believe in and one that provides refuge for people fleeing persecution and seeking a better life for their families.</p>
-<p>We believe the United States should remain a refuge for people fleeing persecution and seeking a better life for their families. We support orderly and planned immigration, including by working with communities to welcome newcomers. We also fund a range of organizations that provide frontline legal advice to individuals seeking asylum or facing deportation.</p>
-<h3 class="m-textBlock__title">Promoting a Principled Role in the World</h3>
-<p>We believe the United States has a responsibility to be a force for good in the world. We work with partners who advocate for diplomacy to prevent conflict and resolve it justly. We support U.S. leadership in advancing democracy, human rights, and justice—and in engaging actively with multilateral institutions and standing up for international law. We fund organizations that strengthen civil society around the world and advocate for robust U.S. support for humanitarian and development aid. We back efforts to ensure all Americans have a voice in shaping foreign policy.</p>
-<h2 class="o-contentLayout__sidebarTitle" id="our-history">Our History</h2>
-<p>George Soros’s giving in the United States began in the 1980s with a focus on just two issues—improving the quality of palliative care and reforming punitive drug policies that largely targeted Black Americans. During the 1990s, our racial justice work broadened to fight bias in schools, in policing, in voting, and in the justice system, while we expanded support for those advocating for greater levels of government accountability and the protection of civil and political rights for all.&nbsp;We have offices in New York and Washington, D.C.</p>
-<h2>Highlights of Our Work in the United States</h2>
-<h3 class="a-timelinePreview__title">
-      <span>Focusing on Threats to the Open Society in the United States</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Celebrating Marriage Equality in the United States</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Helping Puerto Rico Rebuild after Hurricane Maria</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Building Black Power</span>
-    </h3>
-<h2 class="m-articleList__title">Read more</h2>
-<h4 class="a-articleLink__subtitle">
-        Press release
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Open Society Foundations Launch $300 Million Initiative to Advance Economic Security and Defend Civil Liberties in the United States</span>
-      </h3>
-<p>
-        The initiative aims to improve the daily lives of Americans and stand up for the rule of law while strengthening rights and freedoms under attack across the United States.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Countering Hate
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>The Attack on the San Diego Mosque Is Not an Isolated Incident</span>
-      </h3>
-<p>
-        In the wake of an attack on a mosque in San Diego, Laleh Ispahani writes on why solidarity is critical to countering hate—and foundational to creating the democracy that we all deserve.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Press release
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Open Society Foundations Announce $30 Million Investment to Counter Antisemitism and Anti-Muslim Hate</span>
-      </h3>
-<p>
-        The Open Society Foundations announce a new initiative to support organizations working to address an alarming surge of antisemitism and anti-Muslim hate in the United States and around the world.
-      </p>
-<h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
-<p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></description>
-            <content:encoded><![CDATA[<p id="overview">
-        The Open Society Foundations champion efforts across the United States to advance justice, protect rights, and increase democratic participation.
-      </p>
-<ul class="a-linkList no-list xsmall-hide medium-show">
-          <li><a class="a-linkList__item" href="#overview" data-behavior="scrollToLink">Overview</a></li>
-
-                                    <li><a class="a-linkList__item" href="#our-work" data-behavior="scrollToLink">Our Work</a></li>
-                          <li><a class="a-linkList__item" href="#our-history" data-behavior="scrollToLink">Our History</a></li>
-                      
-        </ul>
-<h2 class="sectionTitle sectionTitle--small">Offices</h2>
-<h3>New York, United States</h3>
-<p>The New York office is Open Society’s main grant-giving center, as well as the base for many global initiatives and thematic and regional programs.</p>
-<h3>Washington, United States</h3>
-<p>The Washington, D.C., office engages in advocacy aimed at influencing U.S. government policy on domestic and international issues such as civil liberties, criminal justice reform, human rights, transparency, and accountability.</p>
-<ol data-map-legend="">
-
-                            <li>
-              <a href="#mapContainer" data-map-hotspot-id="20-new-york-united-states">New York, United States</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="10-washington-united-states">Washington, United States</a>
-            </li>
-                    
-      </ol>
-<h2 class="sectionTitle sectionTitle--small">By the Numbers</h2>
-<h2 class="sectionTitle sectionTitle--small">Expenditures by Year</h2>
-<h2 class="o-contentLayout__sidebarTitle" id="our-work">Our Work</h2>
-<p class="intro">
-      The Open Society Foundations work to advance rights, freedom, and justice, and to defend democracy. We pursue these goals in the United States by supporting groups that strengthen rights while improving American’s economic well-being; bolster democratic participation; and encourage the U.S. to play a principled, values-driven role in the world.
-    </p>
-<h3 class="m-textBlock__title">Standing Up for Rights, Freedom, Justice, and the Rule of Law</h3>
-<p>We support organizations working to safeguard American democracy at a time when fundamental rights are under attack. This includes work that defends against further erosions of civil liberties and the rule of law including—but not only—through strategic litigation that protects civil society from attack, and that exposes corruption and holds government accountable.&nbsp;</p>
-<p>We believe that existing legal protections against discrimination must be enforced and that anti-discrimination laws must be expanded to cover communities that have historically faced gaps in coverage such as LGBTQ+ Americans and those facing generational poverty. Every American deserves the right to live safely and securely and free from discrimination, participate in our democracy, and have equal access to economic opportunity including through a good job, affordable health care, childcare, and housing.&nbsp;<br class="softbreak"></p>
-<p>This work builds on past work. We’ve addressed serious erosions of rights in recent years, perhaps most significantly, supporting efforts to restore and protect reproductive rights for millions of people in states like Kansas, Michigan, Montana, Missouri, Arizona, and Nevada, following the Supreme Court’s 2022 decision to overturn <em>Roe v. Wade</em>. We will continue to defend the right to make decisions about one’s own health and future.</p>
-<h3 class="a-featureBlock__title">
-      <span>Saving Lives, Supporting Communities, and Strengthening Democracy</span>
-    </h3>
-<h3 class="m-textBlock__title">Advancing Economic Freedom and Opportunity</h3>
-<p>At Open Society, we believe every person deserves the opportunity to determine their future and live with dignity. This includes the freedom to earn a living wage, change jobs, start a business, and form a union.&nbsp;</p>
-<p>We are making significant investments to improve Americans’ economic well-being and develop an affirmative agenda that addresses rising costs for families. We champion organizations protecting workers’ rights and advocating for policies to help families thrive, such as improving pay and protections for caregivers, affordable childcare, home care, prescription drugs, and health care, especially for low-income Americans. We have supported successful efforts to expand paid leave in Nebraska and increase the minimum wage in Missouri. We also back efforts that challenge the growing consolidation of corporate power that stifles competition and economic mobility.&nbsp;&nbsp;</p>
-<p>Advancing racial justice is central to our work to create economic opportunity and agency for all Americans. Economic exclusion and racial exclusion in the United States have always been deeply intertwined. We believe an agenda that focuses on both rights and economic renewal is the most impactful way to improve people’s lives.&nbsp;</p>
-<h3 class="m-textBlock__title">Responding to the Overdose Crisis</h3>
-<p>Through a dedicated and longstanding initiative, Open&nbsp;Society has supported efforts to hold the pharmaceutical industry accountable for its role in the overdose crisis. We have&nbsp;advocated for state governments to use the billions of dollars won&nbsp;in lawsuits with opioid manufacturers and distributors for impactful public health programs. We have invested in solutions that save lives and decreased drug overdoses, including by increasing access to naloxone, drug checking, medications for opioid use disorder, overdose prevention centers, and supporting&nbsp;health-based solutions that are effective alternatives to incarceration.</p>
-<h3 class="m-textBlock__title">Reimagining Immigration</h3>
-<p>America’s immigration system is broken—failing communities, newcomers, and the national interest alike. In response, we are working to help build a system that puts communities in the driver’s seat: one where legal pathways replace chaos; where states, cities, and ordinary Americans have a say in who comes and how many; and where immigrants arrive with jobs, sponsors, and support. We fund organizations defending immigrant rights and family unity at a time when communities are being torn apart and people's constitutional protections and rights are being violated, while also investing in the policy architecture and cross-partisan coalitions needed to build an immigration system Americans can believe in and one that provides refuge for people fleeing persecution and seeking a better life for their families.</p>
-<p>We believe the United States should remain a refuge for people fleeing persecution and seeking a better life for their families. We support orderly and planned immigration, including by working with communities to welcome newcomers. We also fund a range of organizations that provide frontline legal advice to individuals seeking asylum or facing deportation.</p>
-<h3 class="m-textBlock__title">Promoting a Principled Role in the World</h3>
-<p>We believe the United States has a responsibility to be a force for good in the world. We work with partners who advocate for diplomacy to prevent conflict and resolve it justly. We support U.S. leadership in advancing democracy, human rights, and justice—and in engaging actively with multilateral institutions and standing up for international law. We fund organizations that strengthen civil society around the world and advocate for robust U.S. support for humanitarian and development aid. We back efforts to ensure all Americans have a voice in shaping foreign policy.</p>
-<h2 class="o-contentLayout__sidebarTitle" id="our-history">Our History</h2>
-<p>George Soros’s giving in the United States began in the 1980s with a focus on just two issues—improving the quality of palliative care and reforming punitive drug policies that largely targeted Black Americans. During the 1990s, our racial justice work broadened to fight bias in schools, in policing, in voting, and in the justice system, while we expanded support for those advocating for greater levels of government accountability and the protection of civil and political rights for all.&nbsp;We have offices in New York and Washington, D.C.</p>
-<h2>Highlights of Our Work in the United States</h2>
-<h3 class="a-timelinePreview__title">
-      <span>Focusing on Threats to the Open Society in the United States</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Celebrating Marriage Equality in the United States</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Helping Puerto Rico Rebuild after Hurricane Maria</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Building Black Power</span>
-    </h3>
-<h2 class="m-articleList__title">Read more</h2>
-<h4 class="a-articleLink__subtitle">
-        Press release
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Open Society Foundations Launch $300 Million Initiative to Advance Economic Security and Defend Civil Liberties in the United States</span>
-      </h3>
-<p>
-        The initiative aims to improve the daily lives of Americans and stand up for the rule of law while strengthening rights and freedoms under attack across the United States.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Countering Hate
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>The Attack on the San Diego Mosque Is Not an Isolated Incident</span>
-      </h3>
-<p>
-        In the wake of an attack on a mosque in San Diego, Laleh Ispahani writes on why solidarity is critical to countering hate—and foundational to creating the democracy that we all deserve.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Press release
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Open Society Foundations Announce $30 Million Investment to Counter Antisemitism and Anti-Muslim Hate</span>
-      </h3>
-<p>
-        The Open Society Foundations announce a new initiative to support organizations working to address an alarming surge of antisemitism and anti-Muslim hate in the United States and around the world.
       </p>
 <h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
 <p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></content:encoded>
