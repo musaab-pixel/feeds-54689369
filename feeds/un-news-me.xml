@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 25 Aug 2026 13:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 01:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Security Council LIVE: Rising tensions in Gaza, West Bank]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/08/1168204</link>
+            <guid isPermaLink="false">f3a10e5ec4c9854a88d4702016b536f04157a5dc250e60375d6565bfeaf2f220</guid>
+            <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Amid illegal Israeli settlement surges, continued attacks in Gaza and the West Bank alongside tensions throughout Occupied Palestinian Territory, the Security Council discussed the latest developments on Wednesday, with the UN Special Envoy stressing that “human dignity must be at the centre of all efforts” to overcome the current fragile ceasefire and continued suffering. UN News app users can follow here.]]></description>
+            <content:encoded><![CDATA[Amid illegal Israeli settlement surges, continued attacks in Gaza and the West Bank alongside tensions throughout Occupied Palestinian Territory, the Security Council discussed the latest developments on Wednesday, with the UN Special Envoy stressing that “human dignity must be at the centre of all efforts” to overcome the current fragile ceasefire and continued suffering. UN News app users can follow here.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gaza: Children still at risk despite drop in acute hunger]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/08/1168193</link>
