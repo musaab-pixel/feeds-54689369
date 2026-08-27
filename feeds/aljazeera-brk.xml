@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 27 Aug 2026 07:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 07:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: انفجارات جديدة في العاصمة الأوكرانية كييف والسلطات تقول إنها…]]></title>
+            <link>https://t.me/aljazeeraBrk/232618</link>
+            <guid isPermaLink="false">775449b0d44bd2e6c2a904abfd8fb815bcd61f227dcf15693879823f43e3bf78</guid>
+            <pubDate>Thu, 27 Aug 2026 07:22:01 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: انفجارات جديدة في العاصمة الأوكرانية كييف والسلطات تقول إنها تتعامل مع أهداف معادية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: انفجارات جديدة في العاصمة الأوكرانية كييف والسلطات تقول إنها تتعامل مع أهداف معادية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: قوات الاحتلال تسلم إخطارات بهدم منازل ومنشآت بمنطقة وعر البيك…]]></title>
             <link>https://t.me/aljazeeraBrk/232617</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 22 Aug 2026 18:18:03 GMT</pubDate>
             <description><![CDATA[مالك عقار للجزيرة: أي تسوية سياسية ستعقبها حكومة انتقالية تمهد لإجراء انتخابات في السودان]]></description>
             <content:encoded><![CDATA[مالك عقار للجزيرة: أي تسوية سياسية ستعقبها حكومة انتقالية تمهد لإجراء انتخابات في السودان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مالك عقار للجزيرة: لدينا شكوك تجاه المبادرة الأمريكية ونخشى أن تثبت واقعا قد…]]></title>
-            <link>https://t.me/aljazeeraBrk/232004</link>
-            <guid isPermaLink="false">962056fff3b3b8b374ee4d9c51420e4f212adf8c6f84982eca3784dc4b29fbfd</guid>
-            <pubDate>Sat, 22 Aug 2026 18:18:02 GMT</pubDate>
-            <description><![CDATA[مالك عقار للجزيرة: لدينا شكوك تجاه المبادرة الأمريكية ونخشى أن تثبت واقعا قد يؤدي إلى انقسام السودان]]></description>
-            <content:encoded><![CDATA[مالك عقار للجزيرة: لدينا شكوك تجاه المبادرة الأمريكية ونخشى أن تثبت واقعا قد يؤدي إلى انقسام السودان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
