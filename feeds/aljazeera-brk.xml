@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 27 Aug 2026 14:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 15:01:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: اغتلنا أمس قائدا بالجناح العسكري لحماس بهجوم على منطقة خان…]]></title>
+            <link>https://t.me/aljazeeraBrk/232703</link>
+            <guid isPermaLink="false">00476bd60aa77a46f5773b48724f1a33ee71b42558336b18d6f8a1403a051835</guid>
+            <pubDate>Thu, 27 Aug 2026 14:59:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: اغتلنا أمس قائدا بالجناح العسكري لحماس بهجوم على منطقة خان يونس]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: اغتلنا أمس قائدا بالجناح العسكري لحماس بهجوم على منطقة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة اللبنانية: شهيدة و6 مصابين في الغارة الإسرائيلية على بلدة عربصاليم…]]></title>
             <link>https://t.me/aljazeeraBrk/232702</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 23 Aug 2026 16:39:02 GMT</pubDate>
             <description><![CDATA[نتنياهو: لن نعود لواقع ما قبل 7 أكتوبر ولن نسمح لأي جهة في غزة بتهديد التجمعات الإسرائيلية وتقويض الأمن]]></description>
             <content:encoded><![CDATA[نتنياهو: لن نعود لواقع ما قبل 7 أكتوبر ولن نسمح لأي جهة في غزة بتهديد التجمعات الإسرائيلية وتقويض الأمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى المعمداني: 3 مصابين بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها…]]></title>
-            <link>https://t.me/aljazeeraBrk/232074</link>
-            <guid isPermaLink="false">6daa2e20cf33243e8f687c059b914adee933183e213a09985fbc34d3288b8ae2</guid>
-            <pubDate>Sun, 23 Aug 2026 16:34:02 GMT</pubDate>
-            <description><![CDATA[مستشفى المعمداني: 3 مصابين بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شرقي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مستشفى المعمداني: 3 مصابين بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شرقي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
