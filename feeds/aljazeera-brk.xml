@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 27 Aug 2026 15:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 15:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارات إسرائيلية على بلدات المنصوري وبرعشيت والنبطية الفوقا جنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/232707</link>
+            <guid isPermaLink="false">4c8d3c9bfe9c4e54a0c07497194fdd9ae1d5731814ce27ea62d0e6b5ba8867af</guid>
+            <pubDate>Thu, 27 Aug 2026 15:28:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارات إسرائيلية على بلدات المنصوري وبرعشيت والنبطية الفوقا جنوبي لبنان]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارات إسرائيلية على بلدات المنصوري وبرعشيت والنبطية الفوقا جنوبي لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة برعشيت في قضاء بنت جبيل جنوبي لبنان]]></title>
             <link>https://t.me/aljazeeraBrk/232706</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 23 Aug 2026 17:04:02 GMT</pubDate>
             <description><![CDATA[المستشفى المعمداني: إصابة 3 فلسطينيين بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شرقي مدينة غزة]]></description>
             <content:encoded><![CDATA[المستشفى المعمداني: إصابة 3 فلسطينيين بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شرقي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مكتب نتنياهو: سنقوم بإخلاء المناطق التي تطلق منها البالونات والطائرات المسيرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/232078</link>
-            <guid isPermaLink="false">f2444f8b8b565456663e0052a9325e3502584df4b84c76586e9d44a9dfe8eab4</guid>
-            <pubDate>Sun, 23 Aug 2026 16:50:02 GMT</pubDate>
-            <description><![CDATA[مكتب نتنياهو: سنقوم بإخلاء المناطق التي تطلق منها البالونات والطائرات المسيرة والورقية من قطاع غزة]]></description>
-            <content:encoded><![CDATA[مكتب نتنياهو: سنقوم بإخلاء المناطق التي تطلق منها البالونات والطائرات المسيرة والورقية من قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
