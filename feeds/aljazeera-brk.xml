@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 27 Aug 2026 15:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 15:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة برعشيت في قضاء بنت جبيل جنوبي لبنان]]></title>
+            <link>https://t.me/aljazeeraBrk/232706</link>
+            <guid isPermaLink="false">e67e6b0cb6dcdced48658a98e75d5016df1555487bbae4fe46eaec62ad81cfe2</guid>
+            <pubDate>Thu, 27 Aug 2026 15:22:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة برعشيت في قضاء بنت جبيل جنوبي لبنان]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة برعشيت في قضاء بنت جبيل جنوبي لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مكتب رئيس البرلمان الإيراني: قاليباف أكد لرئيس وزراء قطر أن على أمريكا تنفيذ…]]></title>
             <link>https://t.me/aljazeeraBrk/232705</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 23 Aug 2026 16:50:02 GMT</pubDate>
             <description><![CDATA[مكتب نتنياهو: سنقوم بإخلاء المناطق التي تطلق منها البالونات والطائرات المسيرة والورقية من قطاع غزة]]></description>
             <content:encoded><![CDATA[مكتب نتنياهو: سنقوم بإخلاء المناطق التي تطلق منها البالونات والطائرات المسيرة والورقية من قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مكتب نتنياهو: إذا لم توقف حماس إطلاق الطائرات الورقية والمسيرات فورا فسنكثف…]]></title>
-            <link>https://t.me/aljazeeraBrk/232077</link>
-            <guid isPermaLink="false">b3e5f376caaf0527556a097fd827873efcc7fc8429c989d474d492607ee07ccf</guid>
-            <pubDate>Sun, 23 Aug 2026 16:45:02 GMT</pubDate>
-            <description><![CDATA[مكتب نتنياهو: إذا لم توقف حماس إطلاق الطائرات الورقية والمسيرات فورا فسنكثف استهداف المسؤولين عن ذلك]]></description>
-            <content:encoded><![CDATA[مكتب نتنياهو: إذا لم توقف حماس إطلاق الطائرات الورقية والمسيرات فورا فسنكثف استهداف المسؤولين عن ذلك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
