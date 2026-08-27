@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "18cd725b31b35e79797cfec69494892f81f92893933b723ebffcd76c28b509f9",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/europe-culture-back-to-the-future/\">Europe &#038; Culture: Back to the Future.</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/europe-culture-back-to-the-future/",
+            "title": "Europe & Culture: Back to the Future.",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/europe-culture-back-to-the-future/\">Europe &#038; Culture: Back to the Future.</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-08-27T12:07:26.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "b882fb942fe2c726e390c93555b4539fb6d6ef8761ac6921622c8ad98b1d9721",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/second-culture-helps-solidarity-call-for-project-grants/\">Second Culture Helps Solidarity Call For Project Grants</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/second-culture-helps-solidarity-call-for-project-grants/",
