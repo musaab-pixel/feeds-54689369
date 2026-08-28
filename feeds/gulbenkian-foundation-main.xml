@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Thu, 27 Aug 2026 17:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 22:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -6710,6 +6710,81 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/02_Marisol-Montalvo-e-Ava-Bahari_4x3-2-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Events Webinar Pioneering Renewable Energy Communities in Portugal 09 Sep 2026 / 17:30]]></title>
+            <link>https://gulbenkian.pt/en/agenda/webinar-pioneering-renewable-energy-communities-in-portugal/</link>
+            <guid isPermaLink="false">de0a05a94a6fccfccfd555cced04f336efd52b00425e384a9c2ffc4625c6ab62</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Wednesday, 17:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>This follow-up session to the webinar held on 21 July will showcase concrete experiences of creating and developing Renewable Energy Communities in Portugal, through the insights and experiences of some of the people involved.</p>
+<p>Representatives of the Telheiras/Lumiar Renewable Energy Community, the Culatra Renewable Energy Community and Coopérnico will share the main challenges, lessons learned and impacts of these initiatives in a moderated conversation, followed by a Q&amp;A session. The event will provide an opportunity to clarify questions and explore the potential of energy communities to foster citizen participation in the energy transition.</p>
+<p>Launched by the Calouste Gulbenkian Foundation in partnership with Coopérnico, the <a href="https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/">Gulbenkian Energy Communities</a> call supports civil society organisations seeking to develop community renewable energy projects in collaboration with local authorities or other local partners, promoting active citizen participation in the energy transition.</p>
+<p>Selected projects may receive funding of up to €30,000.</p>
+<p>The deadline for applications is 16 September 2026.</p>
+<h3 class="fcg-sponsors__title">Partner entity</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Wednesday, 17:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>This follow-up session to the webinar held on 21 July will showcase concrete experiences of creating and developing Renewable Energy Communities in Portugal, through the insights and experiences of some of the people involved.</p>
+<p>Representatives of the Telheiras/Lumiar Renewable Energy Community, the Culatra Renewable Energy Community and Coopérnico will share the main challenges, lessons learned and impacts of these initiatives in a moderated conversation, followed by a Q&amp;A session. The event will provide an opportunity to clarify questions and explore the potential of energy communities to foster citizen participation in the energy transition.</p>
+<p>Launched by the Calouste Gulbenkian Foundation in partnership with Coopérnico, the <a href="https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/">Gulbenkian Energy Communities</a> call supports civil society organisations seeking to develop community renewable energy projects in collaboration with local authorities or other local partners, promoting active citizen participation in the energy transition.</p>
+<p>Selected projects may receive funding of up to €30,000.</p>
+<p>The deadline for applications is 16 September 2026.</p>
+<h3 class="fcg-sponsors__title">Partner entity</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/07/CEG_1200x900px-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grants Core Funding for Environmental Organisations Strengthening the capacity of organisations working to conserve nature and biodiversity. closes 07 Sep 2026 Open call]]></title>

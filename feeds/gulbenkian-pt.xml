@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Thu, 27 Aug 2026 15:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 21:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1364,6 +1364,81 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Outros Eventos Webinar Comunidades de Energia Renovável Pioneiras em Portugal 09 set 2026 / 17:30]]></title>
+            <link>https://gulbenkian.pt/agenda/webinar-comunidades-de-energia-renovavel-pioneiras-em-portugal/</link>
+            <guid isPermaLink="false">ef08b19366dbe391ed7a7e9b7b608d4b0c9f68be05b80afa3846c59b1e9bd62d</guid>
+            <pubDate>Fri, 28 Aug 2026 21:41:18 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 17:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>Esta sessão de <em>follow-up</em> do webinar realizado a 21 de julho pretende dar a conhecer experiências concretas de criação e desenvolvimento de Comunidades de Energia Renovável em Portugal, através do testemunho de alguns dos seus protagonistas.</p>
+<p>Representantes da Comunidade de Energia Renovável de Telheiras/Lumiar, da Comunidade de Energia Renovável da Culatra e da Coopérnico vão partilhar os principais desafios, aprendizagens e impactos destas iniciativas, numa conversa moderada que será seguida de um espaço para perguntas e respostas. O encontro será, por isso, uma oportunidade para esclarecer dúvidas e conhecer melhor o potencial das comunidades de energia para promover a participação cidadã na transição energética.</p>
+<p>Lançado pela Fundação Calouste Gulbenkian, em parceria com a Coopérnico, o concurso <a href="https://gulbenkian.pt/apoios-lista/comunidades-de-energia-gulbenkian/">Comunidades de Energia Gulbenkian</a> apoia organizações da sociedade civil que pretendam desenvolver projetos comunitários de energia renovável em colaboração com autarquias ou outros parceiros locais, promovendo participação ativa dos cidadãos na transição energética.</p>
+<p>Os projetos selecionados poderão beneficiar de um apoio de até 30.000 euros.</p>
+<p>O prazo para apresentação de candidaturas termina no dia 16 de setembro de 2026.</p>
+<h3 class="fcg-sponsors__title">Entidade parceira</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 17:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>Esta sessão de <em>follow-up</em> do webinar realizado a 21 de julho pretende dar a conhecer experiências concretas de criação e desenvolvimento de Comunidades de Energia Renovável em Portugal, através do testemunho de alguns dos seus protagonistas.</p>
+<p>Representantes da Comunidade de Energia Renovável de Telheiras/Lumiar, da Comunidade de Energia Renovável da Culatra e da Coopérnico vão partilhar os principais desafios, aprendizagens e impactos destas iniciativas, numa conversa moderada que será seguida de um espaço para perguntas e respostas. O encontro será, por isso, uma oportunidade para esclarecer dúvidas e conhecer melhor o potencial das comunidades de energia para promover a participação cidadã na transição energética.</p>
+<p>Lançado pela Fundação Calouste Gulbenkian, em parceria com a Coopérnico, o concurso <a href="https://gulbenkian.pt/apoios-lista/comunidades-de-energia-gulbenkian/">Comunidades de Energia Gulbenkian</a> apoia organizações da sociedade civil que pretendam desenvolver projetos comunitários de energia renovável em colaboração com autarquias ou outros parceiros locais, promovendo participação ativa dos cidadãos na transição energética.</p>
+<p>Os projetos selecionados poderão beneficiar de um apoio de até 30.000 euros.</p>
+<p>O prazo para apresentação de candidaturas termina no dia 16 de setembro de 2026.</p>
+<h3 class="fcg-sponsors__title">Entidade parceira</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/07/CEG_1200x900px-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Conversas Uma Conversa Sonhada 19 set 2026 / 17:00]]></title>

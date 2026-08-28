@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Fri, 28 Aug 2026 14:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 22:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -7114,6 +7114,81 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/02_Marisol-Montalvo-e-Ava-Bahari_4x3-2-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Events Webinar Pioneering Renewable Energy Communities in Portugal 09 Sep 2026 / 17:30]]></title>
+            <link>https://gulbenkian.pt/en/agenda/webinar-pioneering-renewable-energy-communities-in-portugal/</link>
+            <guid isPermaLink="false">de0a05a94a6fccfccfd555cced04f336efd52b00425e384a9c2ffc4625c6ab62</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Wednesday, 17:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>This follow-up session to the webinar held on 21 July will showcase concrete experiences of creating and developing Renewable Energy Communities in Portugal, through the insights and experiences of some of the people involved.</p>
+<p>Representatives of the Telheiras/Lumiar Renewable Energy Community, the Culatra Renewable Energy Community and Coopérnico will share the main challenges, lessons learned and impacts of these initiatives in a moderated conversation, followed by a Q&amp;A session. The event will provide an opportunity to clarify questions and explore the potential of energy communities to foster citizen participation in the energy transition.</p>
+<p>Launched by the Calouste Gulbenkian Foundation in partnership with Coopérnico, the <a href="https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/">Gulbenkian Energy Communities</a> call supports civil society organisations seeking to develop community renewable energy projects in collaboration with local authorities or other local partners, promoting active citizen participation in the energy transition.</p>
+<p>Selected projects may receive funding of up to €30,000.</p>
+<p>The deadline for applications is 16 September 2026.</p>
+<h3 class="fcg-sponsors__title">Partner entity</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Wednesday, 17:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>This follow-up session to the webinar held on 21 July will showcase concrete experiences of creating and developing Renewable Energy Communities in Portugal, through the insights and experiences of some of the people involved.</p>
+<p>Representatives of the Telheiras/Lumiar Renewable Energy Community, the Culatra Renewable Energy Community and Coopérnico will share the main challenges, lessons learned and impacts of these initiatives in a moderated conversation, followed by a Q&amp;A session. The event will provide an opportunity to clarify questions and explore the potential of energy communities to foster citizen participation in the energy transition.</p>
+<p>Launched by the Calouste Gulbenkian Foundation in partnership with Coopérnico, the <a href="https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/">Gulbenkian Energy Communities</a> call supports civil society organisations seeking to develop community renewable energy projects in collaboration with local authorities or other local partners, promoting active citizen participation in the energy transition.</p>
+<p>Selected projects may receive funding of up to €30,000.</p>
+<p>The deadline for applications is 16 September 2026.</p>
+<h3 class="fcg-sponsors__title">Partner entity</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/07/CEG_1200x900px-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grants Core Funding for Environmental Organisations Strengthening the capacity of organisations working to conserve nature and biodiversity. closes 07 Sep 2026 Open call]]></title>
@@ -14734,294 +14809,6 @@ Enter your email to get reminders about upcoming deadlines for Scholarship at th
       </h3>
 <p>
         A whistleblower complaint to the SEC argues that the social media giant Meta misrepresented its role in fueling violence against Myanmar’s Rohingya—highlighting the need for more platform accountability for online hate.
-      </p>
-<h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
-<p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Europe and Central Asia Against the background of the regional upheaval caused by Russia’s war of aggression against Ukraine, Open Society continues to support open and inclusive societies and to invest in those who seek to reinvent and revitalize democracy.]]></title>
-            <link>https://www.opensocietyfoundations.org/what-we-do/regions/europe-and-central-asia</link>
-            <guid isPermaLink="false">5318a6c892da115cb09869dcb5285183b0c3ec7b7ccc78e8bd433a61d6709d60</guid>
-            <pubDate>Fri, 24 Jul 2026 12:06:49 GMT</pubDate>
-            <description><![CDATA[<p id="overview">
-        Against the background of the regional upheaval caused by Russia’s war of aggression against Ukraine, Open Society continues to support open and inclusive societies and to invest in those who seek to reinvent and revitalize democracy.
-      </p>
-<ul class="a-linkList no-list xsmall-hide medium-show">
-          <li><a class="a-linkList__item" href="#overview" data-behavior="scrollToLink">Overview</a></li>
-
-                                    <li><a class="a-linkList__item" href="#our-work" data-behavior="scrollToLink">Our Work</a></li>
-                          <li><a class="a-linkList__item" href="#our-history" data-behavior="scrollToLink">Our History</a></li>
-                      
-        </ul>
-<h2 class="sectionTitle sectionTitle--small">Offices</h2>
-<h3>Tirana, Albania</h3>
-<h3>Brussels, Belgium</h3>
-<p>The Brussels office focuses on ensuring that EU policy, laws, and funding uphold human rights and reflect open society values.</p>
-<h3>Sarajevo, Bosnia and Herzegovina</h3>
-<h3>Berlin, Germany</h3>
-<p>In 2018, in response to the increasingly oppressive political environment in Hungary, the Open Society Foundations transferred operations and roughly 100 staff from Budapest to a new regional headquarters in Berlin, Germany.</p>
-<h3>Skopje, North Macedonia</h3>
-<h3>Chisinau, Moldova</h3>
-<h3>Belgrade, Serbia</h3>
-<h3>Kyiv, Ukraine</h3>
-<h3>London, United Kingdom</h3>
-<p>The London office is a base for both regional and global work on issues ranging from education to investigative journalism to economic advancement.</p>
-<h3>Pristina, Kosovo</h3>
-<ol data-map-legend="">
-
-                            <li>
-              <a href="#mapContainer" data-map-hotspot-id="28-tirana-albania">Tirana, Albania</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="50-brussels-belgium">Brussels, Belgium</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="32-sarajevo-bosnia-and-herzegovina">Sarajevo, Bosnia and Herzegovina</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="33-berlin-germany">Berlin, Germany</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="37-skopje-north-macedonia">Skopje, North Macedonia</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="25-chisinau-moldova">Chisinau, Moldova</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="38-belgrade-serbia">Belgrade, Serbia</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="27-kyiv-ukraine">Kyiv, Ukraine</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="29-london-united-kingdom">London, United Kingdom</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="34-pristina-kosovo">Pristina, Kosovo</a>
-            </li>
-                    
-      </ol>
-<h2 class="sectionTitle sectionTitle--small">By the Numbers</h2>
-<h2 class="sectionTitle sectionTitle--small">Expenditures by Year</h2>
-<h2 class="o-contentLayout__sidebarTitle" id="our-work">Our Work</h2>
-<p class="intro">
-      Open Society-Europe and Central Asia works in a diverse range of countries that encompass some of the most mature democracies in the world as well as aggressive authoritarian regimes.
-    </p>
-<h3 class="m-textBlock__title">War in Ukraine</h3>
-<p>Building on more than three decades of work in Ukraine, our Europe and Central Asia region is at the forefront of Open Society’s response to the conflict.&nbsp;</p>
-<p>In addition to supporting the continuing work of our Ukraine-based International Renaissance Foundation, Open Society has launched the Ukraine Democracy Fund, to support human rights organizations, independent journalists, and other civil society groups in the country. Together with other private foundations and funders, the fund has raised over $45 million since its launch.</p>
-<h3 class="m-textBlock__title">Strengthening Europe’s Global Role</h3>
-<p>With our research and advocacy, Open Society supports efforts by the European Union and likeminded European countries to play a stronger role globally—standing their ground in the face of sharpening conflict between authoritarianism and democracy, as well as uncertainties about Washington’s role in the world. We support European policy groups and think tanks that help policymakers assess their options and envisage new possibilities. Drawing on Open Society’s global network, we also seek to connect the Global South to Brussels and Strasbourg as we seek to engage Europe’s political leaders and legislators with their global responsibilities.</p>
-<h3 class="m-textBlock__title">Building a Democratic, Inclusive European Future</h3>
-<p>Healthy democracies involve citizens in decisions that affect them at all levels—not just during national elections. In Brussels, Open Society works to ensure that open society values lie at the heart of what the European Union does, both inside and outside EU borders. Across the region, we support civil society initiatives that strengthen citizen engagement in government. Outside the EU, we have worked closely with governments in the Western Balkans and elsewhere to support their efforts to move toward EU membership, while promoting the EU’s role. <br></p>
-<h3 class="m-textBlock__title">Promoting Economic Equity</h3>
-<p>Wealth inequality in Europe has increased dramatically across Europe over the past 30 years from Italy to France to Germany to Poland. We support innovation and activism to address a range of key issues affecting how Europeans live, including digital exclusion, the social impacts of climate change, migration, and declining and aging populations.</p>
-<h3 class="m-textBlock__title">Information and Expression</h3>
-<p>The free flow of information and the right to privacy are fundamental elements of any open society. Our work in Europe and Central Asia includes supporting independent journalism and media outlets, particularly in countries where media is largely controlled by government interests, together with support for journalists’ right to report freely without threat or harassment. In addition, we support groups working to increase access to internet services and information, together with counterbalancing efforts to protect individual privacy and to ensure accountability of digital platforms.</p>
-<h3 class="m-textBlock__title">Migration</h3>
-<p>Since 2015, the Open Society Foundations have increased our support for groups in Europe that work to ensure the safety of newly arrived migrants and refugees, and to ease the challenges of integration.</p>
-<p>Our work has included supporting aid efforts by local groups in Greece, Italy, and the Balkans, as well as human rights groups that ensure that migrants and asylum seekers are treated fairly and with dignity.</p>
-<h2 class="o-contentLayout__sidebarTitle" id="our-history">Our History</h2>
-<p>Our work in Europe and Central Asia builds on the visionary investments of founder George Soros, who opened his first foundation in Communist Hungary in 1984 and expanded his efforts to support democratic development and civil society following the fall of the Soviet Union. Our work across this region is tailored to national contexts but shares a common focus: ensuring that everyone should have a voice in the decisions affecting them, in a society based on the rule of law and grounded in human rights.&nbsp;We have offices in Berlin, Brussels, and London, and national foundations in the Western Balkans, Ukraine, and Moldova.&nbsp;</p>
-<h2>Highlights of Our Work in the Europe and Central Asia</h2>
-<h3 class="a-timelinePreview__title">
-      <span>Fostering Open Societies in the Former Soviet Bloc</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Standing with Europe’s Roma</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Engagement with the European Union</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Helping Refugees and Migrants Fleeing War and Poverty</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Supporting a Free and Democratic Ukraine</span>
-    </h3>
-<h2 class="m-articleList__title">Read more</h2>
-<h4 class="a-articleLink__subtitle">
-        Ukrainian Resiliency
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Beyond the War, Ukraine Must Win the Peace and Recover</span>
-      </h3>
-<p>
-        Three years ago, Russia launched a full-scale invasion of Ukraine. But the country remains resilient, bolstered by a civil society striving to ensure that it will be Ukrainians who shape the nation’s future.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Racial Discrimination
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>A Community Rallies Against Racial Discrimination in Denmark</span>
-      </h3>
-<p>
-        When Denmark’s housing policies used racial discrimination to upend their community, local residents looked to the law to fight back. Now their six-year legal challenge is before the European Union’s top court in Luxembourg.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Rights and Dignity in Exile
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Under Russian Occupation, Crimean Tatars Face a Campaign of Erasure</span>
-      </h3>
-<p>
-        Half of the Crimean Tatar people died during Soviet deportations; now, Moscow’s decade-long occupation of Crimea is making their homeland uninhabitable.
-      </p>
-<h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
-<p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></description>
-            <content:encoded><![CDATA[<p id="overview">
-        Against the background of the regional upheaval caused by Russia’s war of aggression against Ukraine, Open Society continues to support open and inclusive societies and to invest in those who seek to reinvent and revitalize democracy.
-      </p>
-<ul class="a-linkList no-list xsmall-hide medium-show">
-          <li><a class="a-linkList__item" href="#overview" data-behavior="scrollToLink">Overview</a></li>
-
-                                    <li><a class="a-linkList__item" href="#our-work" data-behavior="scrollToLink">Our Work</a></li>
-                          <li><a class="a-linkList__item" href="#our-history" data-behavior="scrollToLink">Our History</a></li>
-                      
-        </ul>
-<h2 class="sectionTitle sectionTitle--small">Offices</h2>
-<h3>Tirana, Albania</h3>
-<h3>Brussels, Belgium</h3>
-<p>The Brussels office focuses on ensuring that EU policy, laws, and funding uphold human rights and reflect open society values.</p>
-<h3>Sarajevo, Bosnia and Herzegovina</h3>
-<h3>Berlin, Germany</h3>
-<p>In 2018, in response to the increasingly oppressive political environment in Hungary, the Open Society Foundations transferred operations and roughly 100 staff from Budapest to a new regional headquarters in Berlin, Germany.</p>
-<h3>Skopje, North Macedonia</h3>
-<h3>Chisinau, Moldova</h3>
-<h3>Belgrade, Serbia</h3>
-<h3>Kyiv, Ukraine</h3>
-<h3>London, United Kingdom</h3>
-<p>The London office is a base for both regional and global work on issues ranging from education to investigative journalism to economic advancement.</p>
-<h3>Pristina, Kosovo</h3>
-<ol data-map-legend="">
-
-                            <li>
-              <a href="#mapContainer" data-map-hotspot-id="28-tirana-albania">Tirana, Albania</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="50-brussels-belgium">Brussels, Belgium</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="32-sarajevo-bosnia-and-herzegovina">Sarajevo, Bosnia and Herzegovina</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="33-berlin-germany">Berlin, Germany</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="37-skopje-north-macedonia">Skopje, North Macedonia</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="25-chisinau-moldova">Chisinau, Moldova</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="38-belgrade-serbia">Belgrade, Serbia</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="27-kyiv-ukraine">Kyiv, Ukraine</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="29-london-united-kingdom">London, United Kingdom</a>
-            </li>
-                                <li>
-              <a href="#mapContainer" data-map-hotspot-id="34-pristina-kosovo">Pristina, Kosovo</a>
-            </li>
-                    
-      </ol>
-<h2 class="sectionTitle sectionTitle--small">By the Numbers</h2>
-<h2 class="sectionTitle sectionTitle--small">Expenditures by Year</h2>
-<h2 class="o-contentLayout__sidebarTitle" id="our-work">Our Work</h2>
-<p class="intro">
-      Open Society-Europe and Central Asia works in a diverse range of countries that encompass some of the most mature democracies in the world as well as aggressive authoritarian regimes.
-    </p>
-<h3 class="m-textBlock__title">War in Ukraine</h3>
-<p>Building on more than three decades of work in Ukraine, our Europe and Central Asia region is at the forefront of Open Society’s response to the conflict.&nbsp;</p>
-<p>In addition to supporting the continuing work of our Ukraine-based International Renaissance Foundation, Open Society has launched the Ukraine Democracy Fund, to support human rights organizations, independent journalists, and other civil society groups in the country. Together with other private foundations and funders, the fund has raised over $45 million since its launch.</p>
-<h3 class="m-textBlock__title">Strengthening Europe’s Global Role</h3>
-<p>With our research and advocacy, Open Society supports efforts by the European Union and likeminded European countries to play a stronger role globally—standing their ground in the face of sharpening conflict between authoritarianism and democracy, as well as uncertainties about Washington’s role in the world. We support European policy groups and think tanks that help policymakers assess their options and envisage new possibilities. Drawing on Open Society’s global network, we also seek to connect the Global South to Brussels and Strasbourg as we seek to engage Europe’s political leaders and legislators with their global responsibilities.</p>
-<h3 class="m-textBlock__title">Building a Democratic, Inclusive European Future</h3>
-<p>Healthy democracies involve citizens in decisions that affect them at all levels—not just during national elections. In Brussels, Open Society works to ensure that open society values lie at the heart of what the European Union does, both inside and outside EU borders. Across the region, we support civil society initiatives that strengthen citizen engagement in government. Outside the EU, we have worked closely with governments in the Western Balkans and elsewhere to support their efforts to move toward EU membership, while promoting the EU’s role. <br></p>
-<h3 class="m-textBlock__title">Promoting Economic Equity</h3>
-<p>Wealth inequality in Europe has increased dramatically across Europe over the past 30 years from Italy to France to Germany to Poland. We support innovation and activism to address a range of key issues affecting how Europeans live, including digital exclusion, the social impacts of climate change, migration, and declining and aging populations.</p>
-<h3 class="m-textBlock__title">Information and Expression</h3>
-<p>The free flow of information and the right to privacy are fundamental elements of any open society. Our work in Europe and Central Asia includes supporting independent journalism and media outlets, particularly in countries where media is largely controlled by government interests, together with support for journalists’ right to report freely without threat or harassment. In addition, we support groups working to increase access to internet services and information, together with counterbalancing efforts to protect individual privacy and to ensure accountability of digital platforms.</p>
-<h3 class="m-textBlock__title">Migration</h3>
-<p>Since 2015, the Open Society Foundations have increased our support for groups in Europe that work to ensure the safety of newly arrived migrants and refugees, and to ease the challenges of integration.</p>
-<p>Our work has included supporting aid efforts by local groups in Greece, Italy, and the Balkans, as well as human rights groups that ensure that migrants and asylum seekers are treated fairly and with dignity.</p>
-<h2 class="o-contentLayout__sidebarTitle" id="our-history">Our History</h2>
-<p>Our work in Europe and Central Asia builds on the visionary investments of founder George Soros, who opened his first foundation in Communist Hungary in 1984 and expanded his efforts to support democratic development and civil society following the fall of the Soviet Union. Our work across this region is tailored to national contexts but shares a common focus: ensuring that everyone should have a voice in the decisions affecting them, in a society based on the rule of law and grounded in human rights.&nbsp;We have offices in Berlin, Brussels, and London, and national foundations in the Western Balkans, Ukraine, and Moldova.&nbsp;</p>
-<h2>Highlights of Our Work in the Europe and Central Asia</h2>
-<h3 class="a-timelinePreview__title">
-      <span>Fostering Open Societies in the Former Soviet Bloc</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Standing with Europe’s Roma</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Engagement with the European Union</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Helping Refugees and Migrants Fleeing War and Poverty</span>
-    </h3>
-<h3 class="a-timelinePreview__title">
-      <span>Supporting a Free and Democratic Ukraine</span>
-    </h3>
-<h2 class="m-articleList__title">Read more</h2>
-<h4 class="a-articleLink__subtitle">
-        Ukrainian Resiliency
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Beyond the War, Ukraine Must Win the Peace and Recover</span>
-      </h3>
-<p>
-        Three years ago, Russia launched a full-scale invasion of Ukraine. But the country remains resilient, bolstered by a civil society striving to ensure that it will be Ukrainians who shape the nation’s future.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Racial Discrimination
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>A Community Rallies Against Racial Discrimination in Denmark</span>
-      </h3>
-<p>
-        When Denmark’s housing policies used racial discrimination to upend their community, local residents looked to the law to fight back. Now their six-year legal challenge is before the European Union’s top court in Luxembourg.
-      </p>
-<h4 class="a-articleLink__subtitle">
-        Rights and Dignity in Exile
-
-        
-        
-                    
-        
-      </h4>
-<h3 class="a-articleLink__title">
-        <span>Under Russian Occupation, Crimean Tatars Face a Campaign of Erasure</span>
-      </h3>
-<p>
-        Half of the Crimean Tatar people died during Soviet deportations; now, Moscow’s decade-long occupation of Crimea is making their homeland uninhabitable.
       </p>
 <h2 class="g-newsletterCta__title">Subscribe to updates about Open Society’s work around the world</h2>
 <p>By entering your email address and clicking “Submit,” you agree to receive updates from the Open Society Foundations about our work. To learn more about how we use and protect your personal data, please view our <a href="/policies/privacy">privacy policy</a>.</p>]]></content:encoded>
