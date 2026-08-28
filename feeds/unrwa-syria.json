@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "ff5032555ce8dceda831378b9f78b7df3578753b23af7c596cfb45064b2abe2c",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zd05mamN6ZkQ1U3ZnYlR1X2pTY3NaRzlvc3A2MWxYZ3Z1WVZHd3pRSzFXYk5nRkNBY3Z3YWV3Z0xxeXZMUFoyY3pLYnVxUDA?oc=5\" target=\"_blank\">الكويت تدين اقتحام الاحتلال الإسرائيلي لمركز تدريب تابع للأونروا بالقدس المحتلة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zd05mamN6ZkQ1U3ZnYlR1X2pTY3NaRzlvc3A2MWxYZ3Z1WVZHd3pRSzFXYk5nRkNBY3Z3YWV3Z0xxeXZMUFoyY3pLYnVxUDA?oc=5",
+            "title": "الكويت تدين اقتحام الاحتلال الإسرائيلي لمركز تدريب تابع للأونروا بالقدس المحتلة - سانا",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zd05mamN6ZkQ1U3ZnYlR1X2pTY3NaRzlvc3A2MWxYZ3Z1WVZHd3pRSzFXYk5nRkNBY3Z3YWV3Z0xxeXZMUFoyY3pLYnVxUDA?oc=5\" target=\"_blank\">الكويت تدين اقتحام الاحتلال الإسرائيلي لمركز تدريب تابع للأونروا بالقدس المحتلة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
+            "date_modified": "2026-08-27T19:31:05.000Z",
+            "author": {
+                "name": "سانا"
+            }
+        },
+        {
             "id": "a3fe2530ad6567ca8c6bb9e8a5784a4340f1ddc32f596aa97266669174ec7bf0",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiyANBVV95cUxPek9YcERSbi1LclNicmFPT2V2aENaYTVHaGZRUUFmcjQ0RTV0V3lUMVdfdkJRN2N2OEx2OXAxVWRiMk8wVjJ1ZVI4V2MzcmdQaGVZWGpHM2RqUEZ5NEFKM09rZ1I4ZGZtMnNKTDRocWtNeV9MMUd2OV95a2dwdnlORWlzUm1QbFRpd2wyY25KWkN4WE5xX1FGVlAzT1J4TE5NVVlGWm5qb01GLTM5b0tyTk1mMEdZdDR5Yk1hX3lVSEZGbmREU3RwOXB0ODNIVGZ4RnplX0g0dFgzeHhLWVZJQTJFZTNFZjFmSDg0M3psRURjRENkRW5rRDdPMmNFV2lSLVBaMk1aMHFEWGM5eDI0eHhtSng1WlNxUXg2YWJOblBWWUZsSGlSZ3cwQy1XTkdraVRiVnMxZWxnVFd0Sy1SNGJXTlVEMlZGTTVKNmtyT1IySXRhZ0d2SW9OT2d5YVpuZTQ5U085OXlwTHZaS3hWdE9aZXduWGY5NHhqOUxUTWZwMGx6LXlMRWxCcHZ6Vk04Mk9qekpDUmZYRFp1MVpjSGU3STI3OXVURGp4SVA1MU4yOERFUmU1cmg4ckdBV0N0QUN4N24wRlU?oc=5\" target=\"_blank\">الأونروا تدعو الى حماية اللاجئين الفلسطينيين بسوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة الانباء الاردنية</font>",
             "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPek9YcERSbi1LclNicmFPT2V2aENaYTVHaGZRUUFmcjQ0RTV0V3lUMVdfdkJRN2N2OEx2OXAxVWRiMk8wVjJ1ZVI4V2MzcmdQaGVZWGpHM2RqUEZ5NEFKM09rZ1I4ZGZtMnNKTDRocWtNeV9MMUd2OV95a2dwdnlORWlzUm1QbFRpd2wyY25KWkN4WE5xX1FGVlAzT1J4TE5NVVlGWm5qb01GLTM5b0tyTk1mMEdZdDR5Yk1hX3lVSEZGbmREU3RwOXB0ODNIVGZ4RnplX0g0dFgzeHhLWVZJQTJFZTNFZjFmSDg0M3psRURjRENkRW5rRDdPMmNFV2lSLVBaMk1aMHFEWGM5eDI0eHhtSng1WlNxUXg2YWJOblBWWUZsSGlSZ3cwQy1XTkdraVRiVnMxZWxnVFd0Sy1SNGJXTlVEMlZGTTVKNmtyT1IySXRhZ0d2SW9OT2d5YVpuZTQ5U085OXlwTHZaS3hWdE9aZXduWGY5NHhqOUxUTWZwMGx6LXlMRWxCcHZ6Vk04Mk9qekpDUmZYRFp1MVpjSGU3STI3OXVURGp4SVA1MU4yOERFUmU1cmg4ckdBV0N0QUN4N24wRlU?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2024-11-04T08:00:00.000Z",
             "author": {
                 "name": "UNRWA"
-            }
-        },
-        {
-            "id": "0cc44465d8113b5a8385d07f67eb4e03d7dac70b3063bd82d0e51a7e5f6a1efe",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxPX2FoWEFDLUNHeUdPd2NXdTItY0pISlNsX2Q0SmFfTmhidjdIOTVTZ295TkYtZFJ6bkE5Z3JuOXdVdVlQdURyM1UydU8wMnBfdndLd2stM0hvQWdjRHFzVmdPUkM1c19OTk1jRkd2R1g3YTE4T3dBSWROTmhHbXgwc2FtSEZCenFkOEZRRVZkZHFLOHFKOHVlak1NOHRNN1loWXBSREwxVTUtcVVIZTRNNUFQNVZsWWVVMm5IYlNEZEllbGFjbEk5elJNMXo1cmMwSjZKelI3WGlDUzd0Z2dLWDVGeGZNWDlWSzF4ZVZ3bGM3dWM3eTBwb3VlSHNDYWNzTXpSNUJ1amJLR1pWc05zWDlMS1RuTTM2dFdHbW9idHViM2NuTmZqWmlSaGhjbGFwZEF6c3JFdllRbFlka1A4b0l3N2Jjb25GUk9CQlduZ0dsNGV1VGVOSlpBRVp6RUJUNkNuVnduVl8tTUlWcE5MMTZnTEx4VThHcmo4bFdTaWNOR0JOenFOR0p1YThXclp1V3FnUFRHS2RPNDFjM0JSSE5xbzJWZ0FiNWJGeDV0c3FVZ3N1Y1U5aUZFX19kcGk3S0RMWjdHRFhzWTRITnVFbFB6ODJLbnRSMlphRWNR?oc=5\" target=\"_blank\">مجلس الأمن الدولي يحذر من محاولات \"حل أو تقليص\" الأونروا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
-            "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPX2FoWEFDLUNHeUdPd2NXdTItY0pISlNsX2Q0SmFfTmhidjdIOTVTZ295TkYtZFJ6bkE5Z3JuOXdVdVlQdURyM1UydU8wMnBfdndLd2stM0hvQWdjRHFzVmdPUkM1c19OTk1jRkd2R1g3YTE4T3dBSWROTmhHbXgwc2FtSEZCenFkOEZRRVZkZHFLOHFKOHVlak1NOHRNN1loWXBSREwxVTUtcVVIZTRNNUFQNVZsWWVVMm5IYlNEZEllbGFjbEk5elJNMXo1cmMwSjZKelI3WGlDUzd0Z2dLWDVGeGZNWDlWSzF4ZVZ3bGM3dWM3eTBwb3VlSHNDYWNzTXpSNUJ1amJLR1pWc05zWDlMS1RuTTM2dFdHbW9idHViM2NuTmZqWmlSaGhjbGFwZEF6c3JFdllRbFlka1A4b0l3N2Jjb25GUk9CQlduZ0dsNGV1VGVOSlpBRVp6RUJUNkNuVnduVl8tTUlWcE5MMTZnTEx4VThHcmo4bFdTaWNOR0JOenFOR0p1YThXclp1V3FnUFRHS2RPNDFjM0JSSE5xbzJWZ0FiNWJGeDV0c3FVZ3N1Y1U5aUZFX19kcGk3S0RMWjdHRFhzWTRITnVFbFB6ODJLbnRSMlphRWNR?oc=5",
-            "title": "مجلس الأمن الدولي يحذر من محاولات \"حل أو تقليص\" الأونروا - Anadolu Ajansı",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxPX2FoWEFDLUNHeUdPd2NXdTItY0pISlNsX2Q0SmFfTmhidjdIOTVTZ295TkYtZFJ6bkE5Z3JuOXdVdVlQdURyM1UydU8wMnBfdndLd2stM0hvQWdjRHFzVmdPUkM1c19OTk1jRkd2R1g3YTE4T3dBSWROTmhHbXgwc2FtSEZCenFkOEZRRVZkZHFLOHFKOHVlak1NOHRNN1loWXBSREwxVTUtcVVIZTRNNUFQNVZsWWVVMm5IYlNEZEllbGFjbEk5elJNMXo1cmMwSjZKelI3WGlDUzd0Z2dLWDVGeGZNWDlWSzF4ZVZ3bGM3dWM3eTBwb3VlSHNDYWNzTXpSNUJ1amJLR1pWc05zWDlMS1RuTTM2dFdHbW9idHViM2NuTmZqWmlSaGhjbGFwZEF6c3JFdllRbFlka1A4b0l3N2Jjb25GUk9CQlduZ0dsNGV1VGVOSlpBRVp6RUJUNkNuVnduVl8tTUlWcE5MMTZnTEx4VThHcmo4bFdTaWNOR0JOenFOR0p1YThXclp1V3FnUFRHS2RPNDFjM0JSSE5xbzJWZ0FiNWJGeDV0c3FVZ3N1Y1U5aUZFX19kcGk3S0RMWjdHRFhzWTRITnVFbFB6ODJLbnRSMlphRWNR?oc=5\" target=\"_blank\">مجلس الأمن الدولي يحذر من محاولات \"حل أو تقليص\" الأونروا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
-            "date_modified": "2024-10-30T07:00:00.000Z",
-            "author": {
-                "name": "Anadolu Ajansı"
             }
         }
     ]
