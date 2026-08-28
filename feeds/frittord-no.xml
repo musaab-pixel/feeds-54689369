@@ -4,10 +4,25 @@
         <title>frittord.no</title>
         <link>https://frittord.no/nb/pages.rss</link>
         <description>RSS Factory feed "frittord.no" (type: native)</description>
-        <lastBuildDate>Tue, 25 Aug 2026 13:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 10:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Takk, Kong Harald]]></title>
+            <link>https://frittord.no/nb/aktuelt/takk-kong-harald</link>
+            <guid isPermaLink="false">90d22afdf32e4516e3f81fbba569a417daa99d9d9fc409883c77f2dbcac0fc3d</guid>
+            <pubDate>Fri, 28 Aug 2026 10:27:12 GMT</pubDate>
+            <description><![CDATA[
+        <p>“Landet vårt er bygget på at alle mennesker er like mye verdt. Det er bygget på ytringsfrihet. Det er bygget på at vi tåler uenighet og søker oss frem til kompromisser.”</p>
+<p>Tale ved tiårsmarkeringen for terroren 22. juli 2011</p>
+      ]]></description>
+            <content:encoded><![CDATA[
+        <p>“Landet vårt er bygget på at alle mennesker er like mye verdt. Det er bygget på ytringsfrihet. Det er bygget på at vi tåler uenighet og søker oss frem til kompromisser.”</p>
+<p>Tale ved tiårsmarkeringen for terroren 22. juli 2011</p>
+      ]]></content:encoded>
+            <enclosure url="https://frittord.no/dynamic_images/d0f140404e7934ccbef492d65de396a567e52ebb/4951x3301/5594-20260828102849107311.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[«Flophouse America» vant Amandaprisen for beste dokumentarfilm]]></title>
             <link>https://frittord.no/nb/aktuelt/flophouse-america-vant-amandaprisen-for-beste-dokumentarfilm</link>
