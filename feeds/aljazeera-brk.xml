@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 28 Aug 2026 08:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 08:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الاستخبارات العسكرية الأوكرانية: استهدفنا في عملية مشتركة مصفاة ياروسلافل…]]></title>
+            <link>https://t.me/aljazeeraBrk/232801</link>
+            <guid isPermaLink="false">4d7c65d47fc1b922993202e6fd1c061a102985955c0e06a2e90c7aed5a9abbe7</guid>
+            <pubDate>Fri, 28 Aug 2026 08:39:02 GMT</pubDate>
+            <description><![CDATA[الاستخبارات العسكرية الأوكرانية: استهدفنا في عملية مشتركة مصفاة ياروسلافل النفطية في روسيا]]></description>
+            <content:encoded><![CDATA[الاستخبارات العسكرية الأوكرانية: استهدفنا في عملية مشتركة مصفاة ياروسلافل النفطية في روسيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة عن مصدر حكومي: مقتل شخصين بانفجار قنبلة قرب القصر العدلي في مدينة…]]></title>
             <link>https://t.me/aljazeeraBrk/232800</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 25 Aug 2026 11:14:02 GMT</pubDate>
             <description><![CDATA[ترمب: هناك أزمة إنسانية ضخمة في إيران ويجب وضع حد لها فورا]]></description>
             <content:encoded><![CDATA[ترمب: هناك أزمة إنسانية ضخمة في إيران ويجب وضع حد لها فورا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الغاز في محيط مخيم قلنديا ومعهد…]]></title>
-            <link>https://t.me/aljazeeraBrk/232358</link>
-            <guid isPermaLink="false">35eca5a6b0c9942fad858e205d6d301709336819c9d36d873b74e690edcf7519</guid>
-            <pubDate>Tue, 25 Aug 2026 10:58:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الغاز في محيط مخيم قلنديا ومعهد التدريب التابع للأونروا في القدس]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق قنابل الغاز في محيط مخيم قلنديا ومعهد التدريب التابع للأونروا في القدس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
