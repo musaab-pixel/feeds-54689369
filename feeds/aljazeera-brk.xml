@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 28 Aug 2026 07:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 08:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: 3 شهداء من عائلة واحدة في قصف من مسيرة إسرائيلية شمالي مدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/232797</link>
+            <guid isPermaLink="false">d1997acd1e783a1fb5e8a5a1eff48239b11050f6455b6a2ed4f3dfdf9e26a9de</guid>
+            <pubDate>Fri, 28 Aug 2026 08:03:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: 3 شهداء من عائلة واحدة في قصف من مسيرة إسرائيلية شمالي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: 3 شهداء من عائلة واحدة في قصف من مسيرة إسرائيلية شمالي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير خارجية أوكرانيا: من العدل استخدام الأصول الروسية لتغطية التكاليف اللازمة…]]></title>
             <link>https://t.me/aljazeeraBrk/232796</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 24 Aug 2026 07:48:02 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: إصابة ناقلة نفط بمقذوف مجهول غرب ينبع أسفر عن حريق دون إصابات بطاقمها]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: إصابة ناقلة نفط بمقذوف مجهول غرب ينبع أسفر عن حريق دون إصابات بطاقمها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن واقعة على بعد 63 ميلا بحريا غرب…]]></title>
-            <link>https://t.me/aljazeeraBrk/232148</link>
-            <guid isPermaLink="false">b3fd058b05ed474708999335a61f27afcf1dc89869b58cf25f9a95b1becd6051</guid>
-            <pubDate>Mon, 24 Aug 2026 07:45:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن واقعة على بعد 63 ميلا بحريا غرب مدينة ينبع السعودية]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن واقعة على بعد 63 ميلا بحريا غرب مدينة ينبع السعودية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
