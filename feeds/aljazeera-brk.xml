@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 14:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 15:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص وقنابل الغاز بعد تصدي فلسطينيين…]]></title>
+            <link>https://t.me/aljazeeraBrk/232994</link>
+            <guid isPermaLink="false">8999562a3a45a5ac732c42b34005f4efd31fc93b5fa585b8bda0e6a270f1cf7d</guid>
+            <pubDate>Sat, 29 Aug 2026 15:04:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص وقنابل الغاز بعد تصدي فلسطينيين لمستوطنين في قرية المغير برام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص وقنابل الغاز بعد تصدي فلسطينيين لمستوطنين في قرية المغير برام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: شهيد وعدد من المصابين في غارة من مسيرة إسرائيلية…]]></title>
             <link>https://t.me/aljazeeraBrk/232993</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 14:17:02 GMT</pubDate>
             <description><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 75 سفينة تجارية وعطلنا 3 وتم الصعود على 2 منذ استئناف الحصار على إيران]]></description>
             <content:encoded><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 75 سفينة تجارية وعطلنا 3 وتم الصعود على 2 منذ استئناف الحصار على إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية على منطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/232699</link>
-            <guid isPermaLink="false">0634ddbb1274a052219b57947658d8b900c3e0145391c3aa649bd8bcc4f32bba</guid>
-            <pubDate>Thu, 27 Aug 2026 14:14:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية على منطقة الصناعة بمدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية على منطقة الصناعة بمدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
