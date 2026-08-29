@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 10:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 10:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سلطات كييف: مقتل طفلة وإصابة 3 مدنيين إثر سقوط مسيرة روسية على حي أبولون وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/232966</link>
+            <guid isPermaLink="false">d055757f49b85d7128895224c8d62b1795756be06e733055f0f8839ae938e894</guid>
+            <pubDate>Sat, 29 Aug 2026 10:51:02 GMT</pubDate>
+            <description><![CDATA[سلطات كييف: مقتل طفلة وإصابة 3 مدنيين إثر سقوط مسيرة روسية على حي أبولون وسط العاصمة الأوكرانية]]></description>
+            <content:encoded><![CDATA[سلطات كييف: مقتل طفلة وإصابة 3 مدنيين إثر سقوط مسيرة روسية على حي أبولون وسط العاصمة الأوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مواجهات عقب هجوم مستوطنين على منازل العائلات الفلسطينية المحاصرة…]]></title>
             <link>https://t.me/aljazeeraBrk/232965</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 12:35:02 GMT</pubDate>
             <description><![CDATA[المتحدثة باسم البيت الأبيض: عملية الغضب الملحمي حققت نجاحا هائلا في إضعاف القوة العسكرية للنظام الإيراني]]></description>
             <content:encoded><![CDATA[المتحدثة باسم البيت الأبيض: عملية الغضب الملحمي حققت نجاحا هائلا في إضعاف القوة العسكرية للنظام الإيراني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدثة باسم البيت الأبيض: إيران في وضع ضعيف للغاية ووزير الخزانة يواصل…]]></title>
-            <link>https://t.me/aljazeeraBrk/232671</link>
-            <guid isPermaLink="false">9918a73c4931d67667248bb8b31287a5aa0596236fd9104f232cb7567c8263ff</guid>
-            <pubDate>Thu, 27 Aug 2026 12:34:02 GMT</pubDate>
-            <description><![CDATA[المتحدثة باسم البيت الأبيض: إيران في وضع ضعيف للغاية ووزير الخزانة يواصل استخدام كل أداة اقتصادية ضدها]]></description>
-            <content:encoded><![CDATA[المتحدثة باسم البيت الأبيض: إيران في وضع ضعيف للغاية ووزير الخزانة يواصل استخدام كل أداة اقتصادية ضدها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
