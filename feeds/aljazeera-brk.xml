@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 10:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 10:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مواجهات عقب هجوم مستوطنين على منازل العائلات الفلسطينية المحاصرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/232965</link>
+            <guid isPermaLink="false">74ab7b5048f0609b3cb7cb26e377dfb6469f911f5f6fb27d6e5b5788bd0ab51c</guid>
+            <pubDate>Sat, 29 Aug 2026 10:11:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مواجهات عقب هجوم مستوطنين على منازل العائلات الفلسطينية المحاصرة بقرية قصرة جنوب نابلس]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مواجهات عقب هجوم مستوطنين على منازل العائلات الفلسطينية المحاصرة بقرية قصرة جنوب نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القناة 14 الإسرائيلية: محاولة دهس قرب قاعدة عسكرية للتدريب في الأغوار بالضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/232964</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 12:34:02 GMT</pubDate>
             <description><![CDATA[المتحدثة باسم البيت الأبيض: إيران في وضع ضعيف للغاية ووزير الخزانة يواصل استخدام كل أداة اقتصادية ضدها]]></description>
             <content:encoded><![CDATA[المتحدثة باسم البيت الأبيض: إيران في وضع ضعيف للغاية ووزير الخزانة يواصل استخدام كل أداة اقتصادية ضدها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في مستشفى الشفاء: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على…]]></title>
-            <link>https://t.me/aljazeeraBrk/232670</link>
-            <guid isPermaLink="false">3cda16e3690d24e5f51323930603e81998b2c568ecde3021f4c861dbe6c993fd</guid>
-            <pubDate>Thu, 27 Aug 2026 12:32:02 GMT</pubDate>
-            <description><![CDATA[مصدر في مستشفى الشفاء: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مخيم الشاطئ بغزة صباح اليوم]]></description>
-            <content:encoded><![CDATA[مصدر في مستشفى الشفاء: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مخيم الشاطئ بغزة صباح اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
