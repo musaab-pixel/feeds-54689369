@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 12:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 12:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس بلدية عرابة في جنين للجزيرة: إصابة فلسطينيين إثر اعتداء مستوطنين عليهما…]]></title>
+            <link>https://t.me/aljazeeraBrk/232983</link>
+            <guid isPermaLink="false">3cd6088682f7df1a79e9712e12d6ed5e954b901285b78763e90face4474a8557</guid>
+            <pubDate>Sat, 29 Aug 2026 12:08:02 GMT</pubDate>
+            <description><![CDATA[رئيس بلدية عرابة في جنين للجزيرة: إصابة فلسطينيين إثر اعتداء مستوطنين عليهما بالضرب قرب مستوطنة عيمك دوتان]]></description>
+            <content:encoded><![CDATA[رئيس بلدية عرابة في جنين للجزيرة: إصابة فلسطينيين إثر اعتداء مستوطنين عليهما بالضرب قرب مستوطنة عيمك دوتان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس مجلس قرية المغير بقضاء رام الله للجزيرة: نواجه اعتداءات متصاعدة من…]]></title>
             <link>https://t.me/aljazeeraBrk/232982</link>
@@ -142,7 +151,7 @@
             <author>الجزيرة عاجل</author>
         </item>
         <item>
-            <title><![CDATA[مخيم خان دنــون: مضخة جديدة لمعالجة تفاوت وصول المياه إلى أطراف المخيم]]></title>
+            <title><![CDATA[مضخة لمعالجة تفاوت وصول المياه إلى أطراف مخيم خان دنون]]></title>
             <link>https://actionpal.org.uk/post/999130895</link>
             <guid isPermaLink="false">0c24f210a712e07cf5eaa486a3266d3a22f0976a1d1adc46c66eb3f218b55126</guid>
             <pubDate>Sat, 29 Aug 2026 11:20:25 GMT</pubDate>
@@ -1757,15 +1766,6 @@
             <pubDate>Fri, 28 Aug 2026 12:25:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد في قصف إسرائيلي استهدف دراجة نارية في حي الصبرة بمدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد في قصف إسرائيلي استهدف دراجة نارية في حي الصبرة بمدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ملادينوف للجزيرة: توصلنا لاتفاق مع المغرب للمشاركة في قوة الاستقرار الدولية في…]]></title>
-            <link>https://t.me/aljazeeraBrk/232852</link>
-            <guid isPermaLink="false">14de8814e75bd95989618bcb14df9fb8eeca486ad21f026c7509cc4243174e27</guid>
-            <pubDate>Fri, 28 Aug 2026 12:13:02 GMT</pubDate>
-            <description><![CDATA[ملادينوف للجزيرة: توصلنا لاتفاق مع المغرب للمشاركة في قوة الاستقرار الدولية في غزة ولن تشارك تركيا فيها]]></description>
-            <content:encoded><![CDATA[ملادينوف للجزيرة: توصلنا لاتفاق مع المغرب للمشاركة في قوة الاستقرار الدولية في غزة ولن تشارك تركيا فيها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

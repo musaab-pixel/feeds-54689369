@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 12:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 12:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس بلدية عرابة في جنين للجزيرة: إصابة فلسطينيين إثر اعتداء مستوطنين عليهما…]]></title>
+            <link>https://t.me/aljazeeraBrk/232983</link>
+            <guid isPermaLink="false">3cd6088682f7df1a79e9712e12d6ed5e954b901285b78763e90face4474a8557</guid>
+            <pubDate>Sat, 29 Aug 2026 12:08:02 GMT</pubDate>
+            <description><![CDATA[رئيس بلدية عرابة في جنين للجزيرة: إصابة فلسطينيين إثر اعتداء مستوطنين عليهما بالضرب قرب مستوطنة عيمك دوتان]]></description>
+            <content:encoded><![CDATA[رئيس بلدية عرابة في جنين للجزيرة: إصابة فلسطينيين إثر اعتداء مستوطنين عليهما بالضرب قرب مستوطنة عيمك دوتان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس مجلس قرية المغير بقضاء رام الله للجزيرة: نواجه اعتداءات متصاعدة من…]]></title>
             <link>https://t.me/aljazeeraBrk/232982</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 13:39:02 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الإسرائيلي: الجيش سيعمل بتوجيهات مني ومن نتنياهو ضد الإطلاق من غزة بما يشمل إجلاء السكان]]></description>
             <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: الجيش سيعمل بتوجيهات مني ومن نتنياهو ضد الإطلاق من غزة بما يشمل إجلاء السكان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع الإسرائيلي: كل إطلاق من غزة باتجاه البلدات والجنود يعد عملا إرهابيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/232688</link>
-            <guid isPermaLink="false">cf5940b410d0a392fb60db95f88abc6d454fce49821d248ade333f3ba2ae4887</guid>
-            <pubDate>Thu, 27 Aug 2026 13:37:02 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع الإسرائيلي: كل إطلاق من غزة باتجاه البلدات والجنود يعد عملا إرهابيا وسنتعامل معه على هذا الأساس]]></description>
-            <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: كل إطلاق من غزة باتجاه البلدات والجنود يعد عملا إرهابيا وسنتعامل معه على هذا الأساس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
