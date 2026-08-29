@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 15:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 15:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في قرية برقة شرق رام الله وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/232995</link>
+            <guid isPermaLink="false">c6a1c995f88619a97040148f7370ef67da893e9cfd1764a0e954451c51f9a31f</guid>
+            <pubDate>Sat, 29 Aug 2026 15:10:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في قرية برقة شرق رام الله وسط الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في قرية برقة شرق رام الله وسط الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطلق الرصاص وقنابل الغاز بعد تصدي فلسطينيين…]]></title>
             <link>https://t.me/aljazeeraBrk/232994</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 14:18:02 GMT</pubDate>
             <description><![CDATA[الرئاسة الإيرانية: الرئيس بزشكيان أجرى في طهران محادثات مع رئيس الوزراء وزير الخارجية القطري]]></description>
             <content:encoded><![CDATA[الرئاسة الإيرانية: الرئيس بزشكيان أجرى في طهران محادثات مع رئيس الوزراء وزير الخارجية القطري]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 75 سفينة تجارية وعطلنا 3 وتم الصعود على…]]></title>
-            <link>https://t.me/aljazeeraBrk/232700</link>
-            <guid isPermaLink="false">4fb89528d988cd454292e1065483cb3e6c310c2bd56a225ae1a6655c8783879e</guid>
-            <pubDate>Thu, 27 Aug 2026 14:17:02 GMT</pubDate>
-            <description><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 75 سفينة تجارية وعطلنا 3 وتم الصعود على 2 منذ استئناف الحصار على إيران]]></description>
-            <content:encoded><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 75 سفينة تجارية وعطلنا 3 وتم الصعود على 2 منذ استئناف الحصار على إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
