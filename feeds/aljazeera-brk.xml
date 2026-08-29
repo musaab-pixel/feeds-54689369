@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 11:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 11:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على محيط مستشفى شهداء الأقصى في دير…]]></title>
+            <link>https://t.me/aljazeeraBrk/232977</link>
+            <guid isPermaLink="false">0fe6d7bc234991df12dad1a9298e24eb87d342d5b5409f5e5c89f9229c683fc9</guid>
+            <pubDate>Sat, 29 Aug 2026 11:38:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على محيط مستشفى شهداء الأقصى في دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على محيط مستشفى شهداء الأقصى في دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة الطوارئ الأوكرانية: ارتفاع عدد القتلى في الهجوم على بوتشا إلى 37 والسلطات…]]></title>
             <link>https://t.me/aljazeeraBrk/232976</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 13:10:02 GMT</pubDate>
             <description><![CDATA[بيان لنتنياهو وكاتس: لن يكون هناك إعمار بغزة قبل تجريد حماس من سلاحها وتفكيك جميع السلاح في غزة]]></description>
             <content:encoded><![CDATA[بيان لنتنياهو وكاتس: لن يكون هناك إعمار بغزة قبل تجريد حماس من سلاحها وتفكيك جميع السلاح في غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نائب وزير النفط الإيراني: عودة 40% من الطاقة الإنتاجية المتضررة في حقل بارس…]]></title>
-            <link>https://t.me/aljazeeraBrk/232683</link>
-            <guid isPermaLink="false">1adb1d27c37d603a4068ea1306f5666fb8982258d41099cd0d456aa3f29d8dd2</guid>
-            <pubDate>Thu, 27 Aug 2026 13:10:02 GMT</pubDate>
-            <description><![CDATA[نائب وزير النفط الإيراني: عودة 40% من الطاقة الإنتاجية المتضررة في حقل بارس الجنوبي إلى دائرة الإنتاج]]></description>
-            <content:encoded><![CDATA[نائب وزير النفط الإيراني: عودة 40% من الطاقة الإنتاجية المتضررة في حقل بارس الجنوبي إلى دائرة الإنتاج]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
