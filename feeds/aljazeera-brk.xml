@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 07:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 08:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا مركزا لوجستيا قرب كييف استخدم لتخزين مكونات…]]></title>
+            <link>https://t.me/aljazeeraBrk/232957</link>
+            <guid isPermaLink="false">bcbad1fbbdb280c132416f90ef92ea662add874db119e40a750d37263c96c703</guid>
+            <pubDate>Sat, 29 Aug 2026 07:50:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا مركزا لوجستيا قرب كييف استخدم لتخزين مكونات صواريخ أوكرانية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا مركزا لوجستيا قرب كييف استخدم لتخزين مكونات صواريخ أوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع الروسية: استهدفنا مركزا لوجستيا استخدم لتوزيع شحنات ذات طابع عسكري…]]></title>
             <link>https://t.me/aljazeeraBrk/232956</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 11:34:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية استعرض مع وزير خارجية إيران جهود خفض التصعيد وتهيئة الظروف للحوار]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية استعرض مع وزير خارجية إيران جهود خفض التصعيد وتهيئة الظروف للحوار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إذاعة الجيش الإسرائيلي: 5 مسيرات انتحارية أطلقت باتجاه قواتنا في تلة علي طاهر…]]></title>
-            <link>https://t.me/aljazeeraBrk/232657</link>
-            <guid isPermaLink="false">ab9d809ad026eeb5ab14bf32fbe4ab47a44502e8b5fa2a9163da627f254e4757</guid>
-            <pubDate>Thu, 27 Aug 2026 11:31:03 GMT</pubDate>
-            <description><![CDATA[إذاعة الجيش الإسرائيلي: 5 مسيرات انتحارية أطلقت باتجاه قواتنا في تلة علي طاهر جنوبي لبنان الشهر الأخير]]></description>
-            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: 5 مسيرات انتحارية أطلقت باتجاه قواتنا في تلة علي طاهر جنوبي لبنان الشهر الأخير]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
