@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 09:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 10:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القناة 14 الإسرائيلية: محاولة دهس قرب قاعدة عسكرية للتدريب في الأغوار بالضفة…]]></title>
+            <link>https://t.me/aljazeeraBrk/232964</link>
+            <guid isPermaLink="false">de6e7cd78d3ed1866e92a16246259d2b80a1509221460ca3960ca8b8cd39e5ed</guid>
+            <pubDate>Sat, 29 Aug 2026 09:58:02 GMT</pubDate>
+            <description><![CDATA[القناة 14 الإسرائيلية: محاولة دهس قرب قاعدة عسكرية للتدريب في الأغوار بالضفة دون إصابات والجيش يغلق الموقع]]></description>
+            <content:encoded><![CDATA[القناة 14 الإسرائيلية: محاولة دهس قرب قاعدة عسكرية للتدريب في الأغوار بالضفة دون إصابات والجيش يغلق الموقع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أ.ف.ب عن مصدر أمني في النيجر: الحرس الجمهوري تصدى لمتمردين في محيط القصر…]]></title>
             <link>https://t.me/aljazeeraBrk/232963</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 12:32:02 GMT</pubDate>
             <description><![CDATA[مصدر في مستشفى الشفاء: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مخيم الشاطئ بغزة صباح اليوم]]></description>
             <content:encoded><![CDATA[مصدر في مستشفى الشفاء: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مخيم الشاطئ بغزة صباح اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدثة باسم البيت الأبيض لفوكس نيوز: مضيق هرمز لا يزال مفتوحا]]></title>
-            <link>https://t.me/aljazeeraBrk/232669</link>
-            <guid isPermaLink="false">f1408344c7707a0eeb2641508879dc412de6785766eaf73debd8a0d5ea775644</guid>
-            <pubDate>Thu, 27 Aug 2026 12:30:03 GMT</pubDate>
-            <description><![CDATA[المتحدثة باسم البيت الأبيض لفوكس نيوز: مضيق هرمز لا يزال مفتوحا]]></description>
-            <content:encoded><![CDATA[المتحدثة باسم البيت الأبيض لفوكس نيوز: مضيق هرمز لا يزال مفتوحا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
