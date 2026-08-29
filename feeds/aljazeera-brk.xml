@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 29 Aug 2026 15:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 15:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[قاليباف: وزير الخزانة الأمريكي يكذب بحديثه عن إخراجهم ١٣٠ مليون برميل نفط من…]]></title>
+            <link>https://t.me/aljazeeraBrk/232996</link>
+            <guid isPermaLink="false">27324f30fb65386a2ece2dba02abc0264437db3798f4fcd378275653857e42bb</guid>
+            <pubDate>Sat, 29 Aug 2026 15:46:02 GMT</pubDate>
+            <description><![CDATA[قاليباف: وزير الخزانة الأمريكي يكذب بحديثه عن إخراجهم ١٣٠ مليون برميل نفط من مضيق هرمز بآخر ١٤ يوما]]></description>
+            <content:encoded><![CDATA[قاليباف: وزير الخزانة الأمريكي يكذب بحديثه عن إخراجهم ١٣٠ مليون برميل نفط من مضيق هرمز بآخر ١٤ يوما]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في قرية برقة شرق رام الله وسط…]]></title>
             <link>https://t.me/aljazeeraBrk/232995</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 27 Aug 2026 14:26:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة اللبنانية: شهيدة و6 مصابين في الغارة الإسرائيلية على بلدة عربصاليم جنوبي البلاد]]></description>
             <content:encoded><![CDATA[وزارة الصحة اللبنانية: شهيدة و6 مصابين في الغارة الإسرائيلية على بلدة عربصاليم جنوبي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئاسة الإيرانية: الرئيس بزشكيان أجرى في طهران محادثات مع رئيس الوزراء وزير…]]></title>
-            <link>https://t.me/aljazeeraBrk/232701</link>
-            <guid isPermaLink="false">50ce876ed1793e4e0d870b50ca8f5684f91f8e860b109e88796800a7086bf839</guid>
-            <pubDate>Thu, 27 Aug 2026 14:18:02 GMT</pubDate>
-            <description><![CDATA[الرئاسة الإيرانية: الرئيس بزشكيان أجرى في طهران محادثات مع رئيس الوزراء وزير الخارجية القطري]]></description>
-            <content:encoded><![CDATA[الرئاسة الإيرانية: الرئيس بزشكيان أجرى في طهران محادثات مع رئيس الوزراء وزير الخارجية القطري]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
