@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 17:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 17:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات المسلحة اليمنية: دمرنا زورقا مسيرا للحوثيين قبل مهاجمة السفن في البحر…]]></title>
+            <link>https://t.me/aljazeeraBrk/233103</link>
+            <guid isPermaLink="false">cdbdd640d781c9e67f2d2ec2d2290a7ef8bd2052ee49fba7432b9f47ecde6740</guid>
+            <pubDate>Sun, 30 Aug 2026 17:04:02 GMT</pubDate>
+            <description><![CDATA[القوات المسلحة اليمنية: دمرنا زورقا مسيرا للحوثيين قبل مهاجمة السفن في البحر الأحمر]]></description>
+            <content:encoded><![CDATA[القوات المسلحة اليمنية: دمرنا زورقا مسيرا للحوثيين قبل مهاجمة السفن في البحر الأحمر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس مجلس قرية المغير في رام الله: إصابة 4 فلسطينيين على الأقل برصاص قوات…]]></title>
             <link>https://t.me/aljazeeraBrk/233102</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 10:19:02 GMT</pubDate>
             <description><![CDATA[مصدر لبناني مسؤول للجزيرة: وقف مسار المفاوضات من قبلنا هو احتمال بعيد]]></description>
             <content:encoded><![CDATA[مصدر لبناني مسؤول للجزيرة: وقف مسار المفاوضات من قبلنا هو احتمال بعيد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر لبناني مسؤول للجزيرة: الحديث الإسرائيلي عن فشل المناطق التجريبية هو تسويف…]]></title>
-            <link>https://t.me/aljazeeraBrk/232825</link>
-            <guid isPermaLink="false">c46b886bd98abcfa2bfb645e4a78a752258135e0b70227b825bbf802d57adfd6</guid>
-            <pubDate>Fri, 28 Aug 2026 10:18:02 GMT</pubDate>
-            <description><![CDATA[مصدر لبناني مسؤول للجزيرة: الحديث الإسرائيلي عن فشل المناطق التجريبية هو تسويف لكسب الوقت]]></description>
-            <content:encoded><![CDATA[مصدر لبناني مسؤول للجزيرة: الحديث الإسرائيلي عن فشل المناطق التجريبية هو تسويف لكسب الوقت]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
