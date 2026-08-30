@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 21:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 22:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ. ب عن وزير الخزانة الأمريكي: سنفرض عقوبات على بنك آخر هذا الأسبوع في إطار…]]></title>
+            <link>https://t.me/aljazeeraBrk/233130</link>
+            <guid isPermaLink="false">99ff4664b86cc2370428b94da5185c0dcf8b5e6fa548c53ae684e211b7781c89</guid>
+            <pubDate>Sun, 30 Aug 2026 22:07:02 GMT</pubDate>
+            <description><![CDATA[أ. ب عن وزير الخزانة الأمريكي: سنفرض عقوبات على بنك آخر هذا الأسبوع في إطار مساعي تشديد الخناق على إيران]]></description>
+            <content:encoded><![CDATA[أ. ب عن وزير الخزانة الأمريكي: سنفرض عقوبات على بنك آخر هذا الأسبوع في إطار مساعي تشديد الخناق على إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: دوي انفجارات في مدينة سيريك جنوب البلاد قد تكون مرتبطة…]]></title>
             <link>https://t.me/aljazeeraBrk/233129</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 13:56:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية على منطقة النفق بمدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية على منطقة النفق بمدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: قوات الاحتلال الإسرائيلي تحتجز طاقمنا بعد وصوله لموقع…]]></title>
-            <link>https://t.me/aljazeeraBrk/232862</link>
-            <guid isPermaLink="false">c280cffbc5f5ba5d0223e7e57b23da5474a9e769a0471ab872e6bb646210eae4</guid>
-            <pubDate>Fri, 28 Aug 2026 13:48:03 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: قوات الاحتلال الإسرائيلي تحتجز طاقمنا بعد وصوله لموقع المنزل المستهدف في جنين]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: قوات الاحتلال الإسرائيلي تحتجز طاقمنا بعد وصوله لموقع المنزل المستهدف في جنين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
