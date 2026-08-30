@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 10:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 10:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري: الاحتلال الإسرائيلي يتوغل في محيط بلدة جباتا الخشب بريف…]]></title>
+            <link>https://t.me/aljazeeraBrk/233070</link>
+            <guid isPermaLink="false">f0d64e3ef1a10658fdf8f494e15f82d586a1d41c2ec0f3a03d21193083861aa1</guid>
+            <pubDate>Sun, 30 Aug 2026 10:26:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري: الاحتلال الإسرائيلي يتوغل في محيط بلدة جباتا الخشب بريف القنيطرة الشمالي]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري: الاحتلال الإسرائيلي يتوغل في محيط بلدة جباتا الخشب بريف القنيطرة الشمالي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر في مستشفيات غزة: 3 شهداء في غارات إسرائيلية على مدينتي دير البلح وخان…]]></title>
             <link>https://t.me/aljazeeraBrk/233069</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 06:58:02 GMT</pubDate>
             <description><![CDATA[الدفاع الروسية: استهدفنا 6 مرافق تخزين معدات عسكرية في ميناء أوديسا ومستودعا لمكونات الصواريخ في كييف]]></description>
             <content:encoded><![CDATA[الدفاع الروسية: استهدفنا 6 مرافق تخزين معدات عسكرية في ميناء أوديسا ومستودعا لمكونات الصواريخ في كييف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عراقجي: على الولايات المتحدة بناء الثقة والتحدث باحترام والاعتراف بحقوقنا…]]></title>
-            <link>https://t.me/aljazeeraBrk/232792</link>
-            <guid isPermaLink="false">1692afe1711f2c27eeefc01a772240cd610d71f1b93f188769d756e94c9f8dfe</guid>
-            <pubDate>Fri, 28 Aug 2026 06:47:01 GMT</pubDate>
-            <description><![CDATA[عراقجي: على الولايات المتحدة بناء الثقة والتحدث باحترام والاعتراف بحقوقنا والوفاء بالتزاماتها]]></description>
-            <content:encoded><![CDATA[عراقجي: على الولايات المتحدة بناء الثقة والتحدث باحترام والاعتراف بحقوقنا والوفاء بالتزاماتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
