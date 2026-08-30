@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 22:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 22:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أكسيوس عن مسؤول أمريكي: إيران أطلقت صواريخ باليستية على قاعدة أمريكية في الأردن…]]></title>
+            <link>https://t.me/aljazeeraBrk/233137</link>
+            <guid isPermaLink="false">4bf83cac5227a86bf7b7a7c8e8923cab26341577653a1c7e8a43d863033ab821</guid>
+            <pubDate>Sun, 30 Aug 2026 22:39:02 GMT</pubDate>
+            <description><![CDATA[أكسيوس عن مسؤول أمريكي: إيران أطلقت صواريخ باليستية على قاعدة أمريكية في الأردن ردا على الضربة في مضيق هرمز]]></description>
+            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: إيران أطلقت صواريخ باليستية على قاعدة أمريكية في الأردن ردا على الضربة في مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أكسيوس عن مصدر أمريكي: قواتنا استهدفت مواقع عسكرية إيرانية لمنع نشر ألغام بحرية…]]></title>
             <link>https://t.me/aljazeeraBrk/233136</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 14:22:03 GMT</pubDate>
             <description><![CDATA[الهلال الأحمر الفلسطيني: الاحتلال أفرج عن طواقمنا بعد مصادرة معدات طبية وطلب مغادرتنا دون السماح بنقل مصابين]]></description>
             <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: الاحتلال أفرج عن طواقمنا بعد مصادرة معدات طبية وطلب مغادرتنا دون السماح بنقل مصابين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[اليونيفيل: التزام الأطراف بالقرار 1701 ضروري لخفض التوتر واستعادة الاستقرار بين…]]></title>
-            <link>https://t.me/aljazeeraBrk/232869</link>
-            <guid isPermaLink="false">db5f36208cb93515ce5543a5f4548c1a140bedd2926b8330f1aea7dccd4f00ff</guid>
-            <pubDate>Fri, 28 Aug 2026 14:22:02 GMT</pubDate>
-            <description><![CDATA[اليونيفيل: التزام الأطراف بالقرار 1701 ضروري لخفض التوتر واستعادة الاستقرار بين لبنان وإسرائيل]]></description>
-            <content:encoded><![CDATA[اليونيفيل: التزام الأطراف بالقرار 1701 ضروري لخفض التوتر واستعادة الاستقرار بين لبنان وإسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
