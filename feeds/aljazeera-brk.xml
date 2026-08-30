@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 21:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 21:35:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار ٨٣ سفينة وعطلنا ٣ وفتشنا 2 منذ استئناف…]]></title>
+            <link>https://t.me/aljazeeraBrk/233128</link>
+            <guid isPermaLink="false">2fe050d805442e0650be0520d92747d71111f6a61d7c20351026e6fb7565f11e</guid>
+            <pubDate>Sun, 30 Aug 2026 21:25:02 GMT</pubDate>
+            <description><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار ٨٣ سفينة وعطلنا ٣ وفتشنا 2 منذ استئناف الحصار البحري على إيران]]></description>
+            <content:encoded><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار ٨٣ سفينة وعطلنا ٣ وفتشنا 2 منذ استئناف الحصار البحري على إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تمنع طاقم الإسعاف من الوصول إلى مصابين داخل مركبة…]]></title>
             <link>https://t.me/aljazeeraBrk/233127</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 13:48:02 GMT</pubDate>
             <description><![CDATA[يديعوت أحرونوت: الجيش الإسرائيلي استخدم مسيرة لتنفيذ الغارة في جنين]]></description>
             <content:encoded><![CDATA[يديعوت أحرونوت: الجيش الإسرائيلي استخدم مسيرة لتنفيذ الغارة في جنين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تفرض طوقا أمنيا حول المنطقة المستهدفة…]]></title>
-            <link>https://t.me/aljazeeraBrk/232860</link>
-            <guid isPermaLink="false">2d47de3ca025f92dab90b465ecae877614fe2b75fe36cdaaa3a307b18df1f28a</guid>
-            <pubDate>Fri, 28 Aug 2026 13:46:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تفرض طوقا أمنيا حول المنطقة المستهدفة في جنين]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تفرض طوقا أمنيا حول المنطقة المستهدفة في جنين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
