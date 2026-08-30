@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 21:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 21:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تمنع طاقم الإسعاف من الوصول إلى مصابين داخل مركبة…]]></title>
+            <link>https://t.me/aljazeeraBrk/233127</link>
+            <guid isPermaLink="false">cd042d933b5c0df4fb716e6a5233a22e14087175ac009942598ef6c9df22ca01</guid>
+            <pubDate>Sun, 30 Aug 2026 21:24:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تمنع طاقم الإسعاف من الوصول إلى مصابين داخل مركبة بعد محاصرتها في نابلس]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تمنع طاقم الإسعاف من الوصول إلى مصابين داخل مركبة بعد محاصرتها في نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات خاصة من جيش الاحتلال تطلق النار على مركبة فلسطينية في…]]></title>
+            <link>https://t.me/aljazeeraBrk/233126</link>
+            <guid isPermaLink="false">9cfcc6be5c0874b0e74c3fb49f20c67ea05b635d19685f3ad3c31509cb073b4d</guid>
+            <pubDate>Sun, 30 Aug 2026 21:22:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات خاصة من جيش الاحتلال تطلق النار على مركبة فلسطينية في مدينة نابلس]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات خاصة من جيش الاحتلال تطلق النار على مركبة فلسطينية في مدينة نابلس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: هجوم العدو على لارك جاء لعجزه عن حل مشكلاته الداخلية…]]></title>
             <link>https://t.me/aljazeeraBrk/233125</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 13:46:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تفرض طوقا أمنيا حول المنطقة المستهدفة في جنين]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تفرض طوقا أمنيا حول المنطقة المستهدفة في جنين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابان برصاص قوات الاحتلال في منطقة مواصي خان يونس…]]></title>
-            <link>https://t.me/aljazeeraBrk/232859</link>
-            <guid isPermaLink="false">7e286e41dd1f3888d590a8255f3b5dd92c759d99449a1fc4824b503b100d2c48</guid>
-            <pubDate>Fri, 28 Aug 2026 13:43:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابان برصاص قوات الاحتلال في منطقة مواصي خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابان برصاص قوات الاحتلال في منطقة مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تدفع بتعزيزات عسكرية للموقع المستهدف في جنين شمال…]]></title>
-            <link>https://t.me/aljazeeraBrk/232858</link>
-            <guid isPermaLink="false">51c1b70da910ed3ef0081ce07e591eb40508814db62c1f36bdb538576177a035</guid>
-            <pubDate>Fri, 28 Aug 2026 13:33:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تدفع بتعزيزات عسكرية للموقع المستهدف في جنين شمال الضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تدفع بتعزيزات عسكرية للموقع المستهدف في جنين شمال الضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
