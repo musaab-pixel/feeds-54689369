@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "34ff50181fc0fae2140cdda254f0ffae5fc1bf9928b25ca435e6c6c6a0bfa013",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> فيديو | مخرجات زيارة الشيباني إلى ليبيا.. افتتاح السفارة في طرابلس بعد 14 عامًا على إغلاقها<br><br><a href=\"https://www.facebook.com/reel/1073363985088199\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://www.facebook.com/reel/1073363985088199</a>",
+            "url": "https://t.me/HalabTodayTV/140058",
+            "title": "🎥 فيديو | مخرجات زيارة الشيباني إلى ليبيا.. افتتاح السفارة في طرابلس بعد 14…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> فيديو | مخرجات زيارة الشيباني إلى ليبيا.. افتتاح السفارة في طرابلس بعد 14 عامًا على إغلاقها<br><br><a href=\"https://www.facebook.com/reel/1073363985088199\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://www.facebook.com/reel/1073363985088199</a>",
+            "date_modified": "2026-08-30T20:56:51.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "633c53d2562d5c019df611920f548a8ca25622472110fc15364c87fb7a70601a",
+            "content_html": "وكالة فارس: دوي انفجارات قرب جزيرة لارك جنوبي إيران<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140057",
+            "title": "وكالة فارس: دوي انفجارات قرب جزيرة لارك جنوبي إيران لمتابعة أحدث الأخبار…",
+            "summary": "وكالة فارس: دوي انفجارات قرب جزيرة لارك جنوبي إيران<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-30T20:55:14.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "3ccd7898a3d0b5ec825c3e66a17bc31bc581f7b1c741d6ac32087e2d472b5be2",
             "content_html": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المحافظ عزام الغريب يعلن من مدرسة أبي فراس الحمداني افتتاح 134 مدرسة في عموم المحافظة بعد استكمال أعمال تأهيلها وترميمها وتجهيزها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المدارس ستعود إلى الخدمة التعليمية وتستقبل أكثر من 65 ألف طالب وطالبة خلال العام الدراسي 2026–2027<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أكد المحافظ أن إعادة المدارس إلى الخدمة تمثل أولوية لدعم العملية التعليمية مشيراً إلى استمرار العمل على تأهيل مزيد من المدارس وتحسين البيئة التعليمية في مختلف مناطق المحافظة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140056",
@@ -2260,28 +2282,6 @@
             "title": "وزارة الخارجية: 📌سوريا ترحب بقرار الولايات المتحدة الأمريكية المصادقة على قرار…",
             "summary": "وزارة الخارجية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سوريا ترحب بقرار الولايات المتحدة الأمريكية المصادقة على قرار إلغاء تصنيف سوريا من قائمة الدول الراعية للإرهاب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سوريا تعبّر عن تقديرها لهذه الخطوة التي تمثل تحولًا مهمًا يفتح صفحة جديدة في العلاقات الدولية مع سوريا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>هذا القرار يسهم في دعم جهود التعافي الاقتصادي وتهيئة الظروف الملائمة لإعادة الإعمار وتعزيز الاستقرار والأمن في سوريا والمنطقة بما ينعكس إيجابًا على الشعب السوري ودول الجوار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تتقدم سوريا بالشكر والتقدير إلى الولايات المتحدة وإدارة الرئيس ترامب على هذه الخطوة المهمة وما أبدته من إرادة سياسية أسهمت في الوصول إلى هذا القرار معربةً عن أملها في أن تتبعها خطوات إضافية تسهم في رفع ما تبقى من القيود التي تعيق تعافي سوريا وتدعم عودتها إلى دورها الطبيعي والفاعل في محيطها العربي والدولي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نتطلع إلى تعميق الشراكات الاستراتيجية وتوسيع آفاق التعاون مع الولايات المتحدة الأمريكية والمجتمع الدولي بما يخدم المصالح المشتركة ويدعم الاستقرار والتنمية والتعاون الاقتصادي في سوريا<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-08-24T21:08:29.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "b81a1207e699993dd3d2d5a5689a87cfee513a96f12ac330c598ae3bda9ffe2d",
-            "content_html": "وزير المالية محمد يسر برنية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نجاح كبير وتاريخي للدبلوماسية السورية بشطب سوريا من قائمة الدول الراعية للإرهاب وإلغاء هذا التصنيف<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>باب كبير وأخير يُفتح لتعزيز ربط سوريا بالنظام الاقتصادي والمالي العالمي واستقطاب الاستثمارات والتقنيات الحديثة ودعم فرص التنمية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>في المقابل يضعنا هذا أمام تحدي المضي بثقة وعزم في مسيرة التعافي والإصلاح الاقتصادي والمالي واستكمال بناء المؤسسات وترسيخ النزاهة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139817",
-            "title": "وزير المالية محمد يسر برنية: 📌نجاح كبير وتاريخي للدبلوماسية السورية بشطب سوريا…",
-            "summary": "وزير المالية محمد يسر برنية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نجاح كبير وتاريخي للدبلوماسية السورية بشطب سوريا من قائمة الدول الراعية للإرهاب وإلغاء هذا التصنيف<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>باب كبير وأخير يُفتح لتعزيز ربط سوريا بالنظام الاقتصادي والمالي العالمي واستقطاب الاستثمارات والتقنيات الحديثة ودعم فرص التنمية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>في المقابل يضعنا هذا أمام تحدي المضي بثقة وعزم في مسيرة التعافي والإصلاح الاقتصادي والمالي واستكمال بناء المؤسسات وترسيخ النزاهة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-24T20:23:21.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "fe0346ebe74061471b260f8d88c92c8fc9eb6011c80bae66caabec837e46bb38",
-            "content_html": "وزير الخارجية الأمريكي ماركو روبيو:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أذنتُ اليوم رسميًا بإلغاء تصنيف سوريا كدولة راعية للإرهاب وذلك عقب انتهاء مهلة إخطار الكونغرس الإلزامية البالغة 45 يومًا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رفعتُ أيضًا تصنيف \"هيئة تحرير الشام\" من قائمة الكيانات المصنّفة \"إرهابية عالمية بموجب تصنيف خاص\"<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تمثّل هذه الإجراءات خطوة تاريخية جديدة يتخذها الرئيس دونالد ترامب لفتح الطريق أمام الشعب السوري نحو الازدهار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلغاء تصنيف سوريا كدولة راعية للإرهاب ورفع تصنيف \"هيئة تحرير الشام\" ككيان إرهابي يزيلان آخر العوائق الرئيسية أمام استثمارات القطاع الخاص في سوريا ويدعمان تعافي الاقتصاد السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/139816",
-            "title": "وزير الخارجية الأمريكي ماركو روبيو: 📌أذنتُ اليوم رسميًا بإلغاء تصنيف سوريا…",
-            "summary": "وزير الخارجية الأمريكي ماركو روبيو:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أذنتُ اليوم رسميًا بإلغاء تصنيف سوريا كدولة راعية للإرهاب وذلك عقب انتهاء مهلة إخطار الكونغرس الإلزامية البالغة 45 يومًا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رفعتُ أيضًا تصنيف \"هيئة تحرير الشام\" من قائمة الكيانات المصنّفة \"إرهابية عالمية بموجب تصنيف خاص\"<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تمثّل هذه الإجراءات خطوة تاريخية جديدة يتخذها الرئيس دونالد ترامب لفتح الطريق أمام الشعب السوري نحو الازدهار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلغاء تصنيف سوريا كدولة راعية للإرهاب ورفع تصنيف \"هيئة تحرير الشام\" ككيان إرهابي يزيلان آخر العوائق الرئيسية أمام استثمارات القطاع الخاص في سوريا ويدعمان تعافي الاقتصاد السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-24T19:12:33.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
