@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 20:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 20:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إيران: قصف على لارك]]></title>
+            <link>https://t.me/aljazeeraBrk/233120</link>
+            <guid isPermaLink="false">4d74fc631418995d0135ed3b68a4f221f4bc4a6c3f07c89b41c8dfb8aab24dab</guid>
+            <pubDate>Sun, 30 Aug 2026 20:16:02 GMT</pubDate>
+            <description><![CDATA[إيران: قصف على لارك]]></description>
+            <content:encoded><![CDATA[إيران: قصف على لارك]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: هجوم العدو على جزيرة لارك جاء لعجزه عن حل مشكلاته…]]></title>
             <link>https://t.me/aljazeeraBrk/233119</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 12:25:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد في قصف إسرائيلي استهدف دراجة نارية في حي الصبرة بمدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد في قصف إسرائيلي استهدف دراجة نارية في حي الصبرة بمدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ملادينوف للجزيرة: توصلنا لاتفاق مع المغرب للمشاركة في قوة الاستقرار الدولية في…]]></title>
-            <link>https://t.me/aljazeeraBrk/232852</link>
-            <guid isPermaLink="false">14de8814e75bd95989618bcb14df9fb8eeca486ad21f026c7509cc4243174e27</guid>
-            <pubDate>Fri, 28 Aug 2026 12:13:02 GMT</pubDate>
-            <description><![CDATA[ملادينوف للجزيرة: توصلنا لاتفاق مع المغرب للمشاركة في قوة الاستقرار الدولية في غزة ولن تشارك تركيا فيها]]></description>
-            <content:encoded><![CDATA[ملادينوف للجزيرة: توصلنا لاتفاق مع المغرب للمشاركة في قوة الاستقرار الدولية في غزة ولن تشارك تركيا فيها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
