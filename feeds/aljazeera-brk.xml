@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 19:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 19:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تسنيم: العدو شن قبل ساعة هجوما بطائرة مسيرة على جزيرة لارك في محافظة…]]></title>
+            <link>https://t.me/aljazeeraBrk/233116</link>
+            <guid isPermaLink="false">f5118d6f49de729ae1f68163701644d8f64a68c1cbd96c18c96a3431f46ad881</guid>
+            <pubDate>Sun, 30 Aug 2026 19:45:03 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم: العدو شن قبل ساعة هجوما بطائرة مسيرة على جزيرة لارك في محافظة هرمزغان جنوبي إيران]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم: العدو شن قبل ساعة هجوما بطائرة مسيرة على جزيرة لارك في محافظة هرمزغان جنوبي إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة فارس: دوي انفجارات قرب جزيرة لارك جنوبي إيران]]></title>
             <link>https://t.me/aljazeeraBrk/233115</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 11:38:02 GMT</pubDate>
             <description><![CDATA[سي بي إس عن الأمين العام للمنظمة البحرية الدولية: نحو 6 آلاف بحار على متن 400 سفينة ما زالوا عالقين بمضيق هرمز]]></description>
             <content:encoded><![CDATA[سي بي إس عن الأمين العام للمنظمة البحرية الدولية: نحو 6 آلاف بحار على متن 400 سفينة ما زالوا عالقين بمضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنفذ عملية نسف واسعة داخل مناطق سيطرتها…]]></title>
-            <link>https://t.me/aljazeeraBrk/232838</link>
-            <guid isPermaLink="false">9bb03a7cc283b6e4d3d9d885ec6f7fd462820cf6e14fd59425a8ebb200b6cfb2</guid>
-            <pubDate>Fri, 28 Aug 2026 11:34:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنفذ عملية نسف واسعة داخل مناطق سيطرتها جنوب شرقي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنفذ عملية نسف واسعة داخل مناطق سيطرتها جنوب شرقي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
