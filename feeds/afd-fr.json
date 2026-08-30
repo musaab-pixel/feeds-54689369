@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"afd.fr\" (type: native)",
     "items": [
         {
+            "id": "9e05490e790b5f944b9855302ac33b8f9f2c2b03c0668e460efe09aa30a7b77e",
+            "content_html": "LEBEGUE_Quentin_20260830_signée\n<span><span>constantv@afd.fr</span></span>\n<time datetime=\"2026-08-30T13:08:29+02:00\" title=\"Dimanche 30 août 2026 - 13:08\">dim 30/08/2026 - 13:08</time>\n    <time datetime=\"2026-08-30T12:00:00Z\">30 août 2026</time>\n    0    Délégations de signature – Décisions DG    \n\n      \n        \n  \n  \n  \n\n\n\n\n\n  \n<a href=\"https://www.afd.fr/sites/default/files/2026-08/lebegue_quentin_20260830_signee.pdf\" type=\"application/pdf\" class=\"file file--mime-application-pdf file--application-pdf fr-link--download fr-link\" data-component-id=\"dsfr4drupal:link\" data-component-variant=\"download\">    lebegue_quentin_20260830_signee.pdf <span class=\"fr-link__detail\">87.57 Ko</span>\n  </a>\n\n\n\n    <time datetime=\"2026-08-30T12:00:00Z\">dim 30/08/2026 - 12:00</time>\n",
+            "url": "https://www.afd.fr/fr/node/15152",
+            "title": "LEBEGUE_Quentin_20260830_signée",
+            "summary": "LEBEGUE_Quentin_20260830_signée\n<span><span>constantv@afd.fr</span></span>\n<time datetime=\"2026-08-30T13:08:29+02:00\" title=\"Dimanche 30 août 2026 - 13:08\">dim 30/08/2026 - 13:08</time>\n    <time datetime=\"2026-08-30T12:00:00Z\">30 août 2026</time>\n    0    Délégations de signature – Décisions DG    \n\n      \n        \n  \n  \n  \n\n\n\n\n\n  \n<a href=\"https://www.afd.fr/sites/default/files/2026-08/lebegue_quentin_20260830_signee.pdf\" type=\"application/pdf\" class=\"file file--mime-application-pdf file--application-pdf fr-link--download fr-link\" data-component-id=\"dsfr4drupal:link\" data-component-variant=\"download\">    lebegue_quentin_20260830_signee.pdf <span class=\"fr-link__detail\">87.57 Ko</span>\n  </a>\n\n\n\n    <time datetime=\"2026-08-30T12:00:00Z\">dim 30/08/2026 - 12:00</time>\n",
+            "date_modified": "2026-08-30T11:08:29.000Z",
+            "author": {
+                "name": "constantv@afd.fr"
+            }
+        },
+        {
             "id": "6fe078655e7e4f541fdb3e4d10d5d2f67dd4f4b424cef289c17c905eb9be5ab0",
             "content_html": "MASSON_Gaëlle_20260830_signée\n<span><span>constantv@afd.fr</span></span>\n<time datetime=\"2026-08-30T12:59:57+02:00\" title=\"Dimanche 30 août 2026 - 12:59\">dim 30/08/2026 - 12:59</time>\n    <time datetime=\"2026-08-30T12:00:00Z\">30 août 2026</time>\n    0    Délégations de signature – Décisions DG    \n\n      \n        \n  \n  \n  \n\n\n\n\n\n  \n<a href=\"https://www.afd.fr/sites/default/files/2026-08/masson_gaelle_20260830_signee.pdf\" type=\"application/pdf\" class=\"file file--mime-application-pdf file--application-pdf fr-link--download fr-link\" data-component-id=\"dsfr4drupal:link\" data-component-variant=\"download\">    masson_gaelle_20260830_signee.pdf <span class=\"fr-link__detail\">87.52 Ko</span>\n  </a>\n\n\n\n    <time datetime=\"2026-08-30T12:00:00Z\">dim 30/08/2026 - 12:00</time>\n",
             "url": "https://www.afd.fr/fr/node/15151",
