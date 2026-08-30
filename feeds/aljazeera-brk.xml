@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 30 Aug 2026 11:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 11:57:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة مهر عن مصدر: القوات المسلحة الإيرانية منعت 30 سفينة مخالفة من عبور مضيق…]]></title>
+            <link>https://t.me/aljazeeraBrk/233080</link>
+            <guid isPermaLink="false">0901520c90b92f2374a351aed2ef51232dda9771660dbc0e752f458e000a1711</guid>
+            <pubDate>Sun, 30 Aug 2026 11:57:01 GMT</pubDate>
+            <description><![CDATA[وكالة مهر عن مصدر: القوات المسلحة الإيرانية منعت 30 سفينة مخالفة من عبور مضيق هرمز خلال الأسبوع الماضي]]></description>
+            <content:encoded><![CDATA[وكالة مهر عن مصدر: القوات المسلحة الإيرانية منعت 30 سفينة مخالفة من عبور مضيق هرمز خلال الأسبوع الماضي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم إقليم النيل الأزرق للجزيرة: المعارك في الكرمك وقيسان أدت إلى أزمة إنسانية…]]></title>
             <link>https://t.me/aljazeeraBrk/233079</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 28 Aug 2026 08:44:02 GMT</pubDate>
             <description><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني بجروح خطيرة برصاص قوات الاحتلال شرق دير البلح وسط قطاع غزة]]></description>
             <content:encoded><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني بجروح خطيرة برصاص قوات الاحتلال شرق دير البلح وسط قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التلفزيون السوري: قوى الأمن الداخلي تفرض طوقا حول القصر العدلي بالحسكة وتبدأ…]]></title>
-            <link>https://t.me/aljazeeraBrk/232802</link>
-            <guid isPermaLink="false">e8650fe2f61fea6715220012f5b05e1443066af3140c6002826356cc5072efea</guid>
-            <pubDate>Fri, 28 Aug 2026 08:43:02 GMT</pubDate>
-            <description><![CDATA[التلفزيون السوري: قوى الأمن الداخلي تفرض طوقا حول القصر العدلي بالحسكة وتبدأ التحقيق في ملابسات الانفجار]]></description>
-            <content:encoded><![CDATA[التلفزيون السوري: قوى الأمن الداخلي تفرض طوقا حول القصر العدلي بالحسكة وتبدأ التحقيق في ملابسات الانفجار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
