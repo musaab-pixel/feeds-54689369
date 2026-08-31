@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a2c4841a8f3ee8d460975913aec61b6a73fcc35b323ff87ecaee15e328d261bf",
+            "content_html": "<b>منظمة الصحة العالمية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تلقّت منظمة الصحة العالمية 12 مليون يورو من المساعدات الإنسانية للاتحاد الأوروبي لدعم الخدمات الصحية الأساسية في جميع أنحاء سوريا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سيوفر التمويل أدوية للأمراض غير المعدية والرعاية الطارئة وحالات الصحة النفسية والمعدات اللازمة لغسل الكلى<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140079",
+            "title": "منظمة الصحة العالمية: 📌تلقّت منظمة الصحة العالمية 12 مليون يورو من المساعدات…",
+            "summary": "<b>منظمة الصحة العالمية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تلقّت منظمة الصحة العالمية 12 مليون يورو من المساعدات الإنسانية للاتحاد الأوروبي لدعم الخدمات الصحية الأساسية في جميع أنحاء سوريا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سيوفر التمويل أدوية للأمراض غير المعدية والرعاية الطارئة وحالات الصحة النفسية والمعدات اللازمة لغسل الكلى<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-31T09:17:56.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "829de0b49146eb525df02588f1b34d392e99812b507441a95e26fe156e8acfa5",
             "content_html": "الخارجية الإماراتية: الإمارات تدين بشدة الهجوم الإيراني العدواني باستخدام طائرة مسيرة على الدولة",
             "url": "https://t.me/aljazeeraBrk/233211",
@@ -1642,17 +1653,6 @@
             "title": "محافظة القدس: قوات الاحتلال تقتحم معهد قلنديا التابع للأونروا شمالي القدس",
             "summary": "محافظة القدس: قوات الاحتلال تقتحم معهد قلنديا التابع للأونروا شمالي القدس",
             "date_modified": "2026-08-30T10:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "831ad140aff1a4b15302e0865d50f8203574d5f9d0885d4b101c58897e519f10",
-            "content_html": "مراسل الجزيرة: قصف من مسيرة إسرائيلية على محيط بلدة النبطية الفوقا جنوبي لبنان",
-            "url": "https://t.me/aljazeeraBrk/233074",
-            "title": "مراسل الجزيرة: قصف من مسيرة إسرائيلية على محيط بلدة النبطية الفوقا جنوبي لبنان",
-            "summary": "مراسل الجزيرة: قصف من مسيرة إسرائيلية على محيط بلدة النبطية الفوقا جنوبي لبنان",
-            "date_modified": "2026-08-30T10:53:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
