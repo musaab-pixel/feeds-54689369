@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "73d0b55c674b8e2cc7ef7810301fa72b397280551ab3c16bb57441331449a28f",
+            "content_html": "حاكم قشم جنوبي إيران: قتيلان ومصابون في الهجوم الأمريكي على جزيرة لارك الليلة الماضية",
+            "url": "https://t.me/aljazeeraBrk/233214",
+            "title": "حاكم قشم جنوبي إيران: قتيلان ومصابون في الهجوم الأمريكي على جزيرة لارك الليلة…",
+            "summary": "حاكم قشم جنوبي إيران: قتيلان ومصابون في الهجوم الأمريكي على جزيرة لارك الليلة الماضية",
+            "date_modified": "2026-08-31T11:26:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "4a7358ae6b8ea35783dea80d911113584d17c903cb2ccc884e590d8a17f734b6",
             "content_html": "<b>وزير الزراعة باسل السويدان للإخبارية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سنصدر قرارًا خلال ساعات بالسماح باستيراد الفروج الحي لتلبية حاجة السوق المحلية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تصدير الأغنام يهدف إلى حماية المربين واستمرار الإنتاج<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>يمكن وقف تصدير الأغنام عند ارتفاع الأسعار<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140083",
@@ -1644,17 +1655,6 @@
             "date_modified": "2026-08-30T11:38:29.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "c432aa71dc79b0074ec56a611299628a924fd32100fbbf8c0999427dc85df2af",
-            "content_html": "حاكم إقليم النيل الأزرق للجزيرة: المعارك في الكرمك وقيسان أدت إلى أزمة إنسانية وموجة نزوح",
-            "url": "https://t.me/aljazeeraBrk/233079",
-            "title": "حاكم إقليم النيل الأزرق للجزيرة: المعارك في الكرمك وقيسان أدت إلى أزمة إنسانية…",
-            "summary": "حاكم إقليم النيل الأزرق للجزيرة: المعارك في الكرمك وقيسان أدت إلى أزمة إنسانية وموجة نزوح",
-            "date_modified": "2026-08-30T11:28:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
