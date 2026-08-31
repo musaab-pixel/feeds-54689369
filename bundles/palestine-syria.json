@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "fbc23d4c6815f68e9dcd417b9ab1d45210b250a7bcfe92b01cc7eb648d2833af",
+            "content_html": "<b>الجيش اللبناني:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>توقيف 12 سوريًا بينهم 3 نساء في منطقة البوار - كسروان لتجوّلهم داخل الأراضي اللبنانية دون أوراق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>خلال التحقيقات الأولية تبيّن أنّ الموقوفين يشكلون عصابتَين تنشطان في أعمال تهريب الأشخاص إضافةً إلى تورُّط النساء بأعمال تخل بالآداب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بوشر التحقيق مع الموقوفين بإشراف القضاء المختص<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140080",
+            "title": "الجيش اللبناني: 📌توقيف 12 سوريًا بينهم 3 نساء في منطقة البوار - كسروان…",
+            "summary": "<b>الجيش اللبناني:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>توقيف 12 سوريًا بينهم 3 نساء في منطقة البوار - كسروان لتجوّلهم داخل الأراضي اللبنانية دون أوراق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>خلال التحقيقات الأولية تبيّن أنّ الموقوفين يشكلون عصابتَين تنشطان في أعمال تهريب الأشخاص إضافةً إلى تورُّط النساء بأعمال تخل بالآداب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بوشر التحقيق مع الموقوفين بإشراف القضاء المختص<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-08-31T09:48:30.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "a2c4841a8f3ee8d460975913aec61b6a73fcc35b323ff87ecaee15e328d261bf",
             "content_html": "<b>منظمة الصحة العالمية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تلقّت منظمة الصحة العالمية 12 مليون يورو من المساعدات الإنسانية للاتحاد الأوروبي لدعم الخدمات الصحية الأساسية في جميع أنحاء سوريا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سيوفر التمويل أدوية للأمراض غير المعدية والرعاية الطارئة وحالات الصحة النفسية والمعدات اللازمة لغسل الكلى<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140079",
@@ -1644,17 +1655,6 @@
             "date_modified": "2026-08-30T11:13:36.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "fb5c0c274dc1b7f1eadf8329fadb4620bf56c79ec35c910d96db95c9e7290196",
-            "content_html": "محافظة القدس: قوات الاحتلال تقتحم معهد قلنديا التابع للأونروا شمالي القدس",
-            "url": "https://t.me/aljazeeraBrk/233075",
-            "title": "محافظة القدس: قوات الاحتلال تقتحم معهد قلنديا التابع للأونروا شمالي القدس",
-            "summary": "محافظة القدس: قوات الاحتلال تقتحم معهد قلنديا التابع للأونروا شمالي القدس",
-            "date_modified": "2026-08-30T10:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
