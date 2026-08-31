@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Wed, 26 Aug 2026 14:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 18:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung]]></title>
+            <link>https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-mwdiv-fuer-den-bereich-bildung</link>
+            <guid isPermaLink="false">b9ebded03cdbc4be641dc4a6ee1743339d69da5d088f8725338b3775e663f63b</guid>
+            <pubDate>Mon, 31 Aug 2026 13:20:50 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-31T15:20:50+02:00" title="Montag, 31 August 2026 - 15:20" class="datetime">Mo. 31 Aug 2026 - 15:20</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-31T15:20:50+02:00" title="Montag, 31 August 2026 - 15:20" class="datetime">Mo. 31 Aug 2026 - 15:20</time>
+</span>
+]]></content:encoded>
+            <author>Claudia Hagen</author>
+        </item>
         <item>
             <title><![CDATA[Referent (m/w/div.) im Thema Wirkung - Monitoring, Evaluation, Adaptation und Lernen in Stuttgart oder Berlin]]></title>
             <link>https://bosch-stiftung.de/karriere/referent-mwdiv-im-thema-wirkung-monitoring-evaluation-adaptation-und-lernen-stuttgart-oder</link>

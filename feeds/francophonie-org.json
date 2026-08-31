@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "41044c66f9ddccc2f1b806780e3bb26ffc3c6dbb3210d86d89ac89db825070ea",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">EFTP : l’OIF partenaire engagé de l’Union africaine</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 31/08/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/eftp-loif-partenaire-engage-de-l-union-africaine-8636",
+            "title": "EFTP : l’OIF partenaire engagé de l’Union africaine",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">EFTP : l’OIF partenaire engagé de l’Union africaine</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 31/08/2026 - 15:43</span>\n",
+            "date_modified": "2026-08-31T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "795f2c6c4905297da50cfb00953c0f7aa563e0f34283c064b2f06dbcc5b79781",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Moldavie : Camp d’été francophone «Ensemble pour la paix»</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 31/08/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/moldavie-camp-d-ete-francophone-ensemble-pour-la-paix-8635",
+            "title": "Moldavie : Camp d’été francophone «Ensemble pour la paix»",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Moldavie : Camp d’été francophone «Ensemble pour la paix»</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-31T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 31/08/2026 - 15:43</span>\n",
+            "date_modified": "2026-08-31T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "d2ca7f06f89ec19c1266714133e9f8f4e0841e29710d15a7b3aaf3c1bd60f723",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">L’OIF devient un partenaire majeur de MTL connecte 2026</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-08-26T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 26/08/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/loif-devient-un-partenaire-majeur-de-mtl-connecte-2026-8634",

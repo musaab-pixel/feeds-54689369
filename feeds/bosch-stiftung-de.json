@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "b9ebded03cdbc4be641dc4a6ee1743339d69da5d088f8725338b3775e663f63b",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-31T15:20:50+02:00\" title=\"Montag, 31 August 2026 - 15:20\" class=\"datetime\">Mo. 31 Aug 2026 - 15:20</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-mwdiv-fuer-den-bereich-bildung",
+            "title": "Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-31T15:20:50+02:00\" title=\"Montag, 31 August 2026 - 15:20\" class=\"datetime\">Mo. 31 Aug 2026 - 15:20</time>\n</span>\n",
+            "date_modified": "2026-08-31T13:20:50.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "5b6c949057acba30ebf81e4c9143ba23a605e44a9cfc3bf50b56aeb7bec36ae5",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) im Thema Wirkung - Monitoring, Evaluation, Adaptation und Lernen in Stuttgart oder Berlin</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-26T14:21:14+02:00\" title=\"Mittwoch, 26 August 2026 - 14:21\" class=\"datetime\">Mi. 26 Aug 2026 - 14:21</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-im-thema-wirkung-monitoring-evaluation-adaptation-und-lernen-stuttgart-oder",
