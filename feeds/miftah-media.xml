@@ -4,10 +4,429 @@
         <title>Miftah Media</title>
         <link>https://miftah.media/feed/</link>
         <description>RSS Factory feed "Miftah Media" (type: native)</description>
-        <lastBuildDate>Sun, 23 Aug 2026 14:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 10:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نقص حاد في المياه يفاقم الأعباء المعيشية على سكان حي الجاعونة في مخيم اليرموك]]></title>
+            <link>https://miftah.media/%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d8%ad%d9%8a-%d8%a7%d9%84%d8%ac%d8%a7%d8%b9%d9%88%d9%86%d8%a9-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/</link>
+            <guid isPermaLink="false">2b1ce709ba4631bbd50458873e273989c8d327101c90d0f2e83b0b135f06f906</guid>
+            <pubDate>Tue, 01 Sep 2026 10:20:45 GMT</pubDate>
+            <description><![CDATA[
+<style>
+.art-body .mf-kicker{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 18px;}
+.art-body .mf-kicker .mf-eyebrow{font-family:var(--f-display);font-weight:600;font-size:var(--t-xs);line-height:1.72;letter-spacing:.04em;text-transform:none;color:var(--pine-2);}
+.art-body .mf-kicker .mf-place{font-family:var(--f-display);font-weight:400;font-size:var(--t-xs);line-height:1.72;letter-spacing:normal;color:var(--ink-3);white-space:nowrap;}
+.art-body .mf-kicker .mf-dot{width:4px;height:4px;border-radius:50%;background:var(--line-2);flex:none;}
+</style>
+<div class="mf-kicker"><span class="mf-eyebrow">تقرير مصوّر</span><span class="mf-dot"></span><span class="mf-place">مخيم اليرموك — جنوب دمشق</span></div>
+
+
+
+<div style="padding-top:clamp(24px,4vw,40px)">
+<div class="mf-facts" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden">
+          <div style="background:var(--card);padding:18px clamp(14px,2.4vw,20px);display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:var(--f-display);font-size:.72rem;font-weight:600;color:var(--crimson)">كلفة التعبئة</span>
+            <span style="font-family:var(--f-display);font-weight:700;font-size:clamp(1.3rem,3.4vw,1.7rem);color:var(--ink)">١٠٠ ألف ل.س</span>
+            <span style="font-family:var(--f-body);font-size:.82rem;line-height:1.6;color:var(--ink-3)">تقديرات بعض الأهالي لتأمين مياه الشرب والاستخدامات المنزلية</span>
+          </div>
+          <div style="background:var(--card);padding:18px clamp(14px,2.4vw,20px);display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:var(--f-display);font-size:.72rem;font-weight:600;color:var(--crimson)">سبب الانقطاع</span>
+            <span style="font-family:var(--f-display);font-weight:700;font-size:clamp(1.3rem,3.4vw,1.7rem);color:var(--ink)">خط تحت الركام</span>
+            <span style="font-family:var(--f-body);font-size:.82rem;line-height:1.6;color:var(--ink-3)">الخط المتضرر يقع تحت ركام أحد الأبنية، ما يصعّب الوصول إليه وصيانته</span>
+            <span style="font-family:var(--f-display);font-size:.72rem;color:var(--ink-3);opacity:.85">بحسب أيمن المغاربة، عضو لجنة مخيم اليرموك</span>
+          </div>
+          <div style="background:var(--card);padding:18px clamp(14px,2.4vw,20px);display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:var(--f-display);font-size:.72rem;font-weight:600;color:var(--crimson)">المطلب</span>
+            <span style="font-family:var(--f-display);font-weight:700;font-size:clamp(1.3rem,3.4vw,1.7rem);color:var(--ink)">حل مستدام</span>
+            <span style="font-family:var(--f-body);font-size:.82rem;line-height:1.6;color:var(--ink-3)">تأهيل خط المياه المتضرر وضمان وصول المياه إلى المنازل بصورة منتظمة</span>
+          </div>
+        </div>
+</div>
+
+
+
+<style>
+.art-body .abody-p.lead-para{font-size:1.16em;line-height:1.7;color:var(--ink);}
+.art-body .pq footer{font-weight:400;}
+</style>
+
+
+
+<p class="abody-p lead-para wp-block-paragraph">يعاني سكان حي الجاعونة في مخيم اليرموك، جنوب دمشق، من نقص حاد في مياه الشرب والاستخدامات اليومية، نتيجة عطل في خط المياه المغذي للحي، ما دفع الأهالي إلى الاعتماد على شراء المياه وتعبئتها على نفقتهم الخاصة لتأمين احتياجاتهم الأساسية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وتقدر كلفة تعبئة المياه لدى بعض الأهالي بنحو 100 ألف ليرة سورية، تشمل احتياجات الشرب والغسيل والاستخدامات المنزلية اليومية، في وقت يواجه فيه سكان المخيم أوضاعاً معيشية واقتصادية صعبة.</p>
+
+
+
+<h2 class="wp-block-heading">سبب انقطاع المياه: خط مغذٍّ تحت الركام</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">وقال أيمن المغاربة عضو لجنة مخيم اليرموك، إن خط المياه المتضرر يقع تحت ركام أحد الأبنية، الأمر الذي يصعّب الوصول إليه وإجراء أعمال الصيانة اللازمة. وأضاف أن لجنة الحي تحاول، بشكل طارئ، تدارك المشكلة وتأمين المياه للسكان إلى حين معالجة العطل.</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow" style="margin:2.2em 0;text-align:center"><p style="max-width:30ch;margin-inline:auto">خط المياه المتضرر يقع تحت ركام أحد الأبنية، الأمر الذي يصعّب الوصول إليه وإجراء أعمال الصيانة.</p>
+          <footer style="margin-top:.7em;font-family:var(--f-display);font-size:.85rem;color:var(--ink-3)">أيمن المغاربة — عضو لجنة مخيم اليرموك</footer></blockquote>
+
+
+
+<h2 class="wp-block-heading">كلفة شراء المياه في مخيم اليرموك</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">ويشكل الاعتماد على شراء المياه عبئاً اقتصادياً إضافياً على سكان المخيم، إذ تضطر العائلات إلى تخصيص جزء من مصروفها اليومي لتأمين المياه، إلى جانب <a href="https://miftah.media/%d8%ba%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%8a%d8%af%d9%81%d8%b9-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d8%a9-%d8%a5%d9%84/">تكاليف المعيشة الأساسية الأخرى</a>.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">ولا تزال مشكلة المياه من أبرز التحديات التي تواجه سكان مخيم اليرموك، في ظل <a href="https://miftah.media/%d9%88%d8%b1%d8%b4%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%af%d9%85-%d9%81%d9%8a-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83-%d8%aa%d8%b2%d9%8a%d9%84-%d8%a2%d8%ab%d8%a7%d8%b1-%d8%a7/">الأضرار التي لحقت بشبكات البنية التحتية</a> داخل المخيم، والحاجة إلى أعمال صيانة وتأهيل مستمرة لضمان وصول الخدمات الأساسية إلى الأحياء السكنية.</p>
+
+
+
+<h2 class="wp-block-heading">مطالب أهالي حي الجاعونة</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">ويطالب سكان حي الجاعونة بإيجاد حل سريع ومستدام لمشكلة انقطاع المياه، وتأهيل خط المياه المتضرر، بما يخفف عنهم كلفة شراء المياه ويضمن وصولها إلى المنازل بصورة منتظمة.</p>
+
+
+
+<style>
+.art-body .mf-videoband{--pw:calc(100vw - 16px);width:var(--pw);max-width:none;margin-inline:calc(50% - var(--pw) / 2);margin-top:clamp(28px,5vw,48px);background:var(--pine);color:var(--paper-fixed);background-image:radial-gradient(120% 80% at 82% -15%,rgba(185,138,62,.16),transparent 58%);border-block:1px solid rgba(0,0,0,.25);}
+.art-body .mf-videoband .mf-vb-wrap{width:var(--col);margin-inline:auto;padding-inline:var(--gut);padding-block:clamp(28px,5vw,50px);}
+.art-body .mf-videoband .mf-vb-col{width:min(880px,100%);margin-inline:auto;display:flex;flex-direction:column;gap:clamp(14px,2.4vw,20px);}
+.art-body .mf-videoband .mf-vb-h{font-family:var(--f-display);font-weight:600;font-size:var(--t-xs);line-height:1.72;letter-spacing:.04em;text-transform:none;color:var(--gold);margin:0;}
+.art-body .mf-videoband .mf-vb-rule{width:26px;height:1px;background:rgba(185,138,62,.6);flex:none;}
+.art-body .mf-videoband .mf-vb-frame{background:#000;border:1px solid rgba(255,255,255,.14);border-radius:var(--radius);overflow:hidden;}
+.art-body .mf-videoband .mf-vb-ar{position:relative;width:100%;aspect-ratio:16/9;}
+.art-body .mf-videoband iframe{position:absolute;inset:0;width:100%;height:100%;border:0;display:block;}
+.art-body .mf-videoband .mf-vb-foot{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;}
+.art-body .mf-videoband .mf-vb-src{font-family:var(--f-display);font-weight:400;font-size:.82rem;line-height:1.72;color:rgba(255,255,255,.55);margin:0;}
+.art-body .mf-videoband .mf-vb-link{display:inline-flex;align-items:center;gap:7px;font-family:var(--f-display);font-weight:600;font-size:.82rem;line-height:1.72;color:var(--gold);}
+@media print{.art-body .mf-videoband{width:100%;margin-inline:0;background:none;color:var(--ink);}}
+</style>
+<section class="mf-videoband">
+  <div class="mf-vb-wrap">
+    <div class="mf-vb-col">
+      <div style="display:flex;align-items:center;gap:13px">
+        <span class="mf-vb-rule"></span>
+        <h2 class="mf-vb-h">شاهد التقرير المصوّر</h2>
+      </div>
+      <div class="mf-vb-frame">
+        <div class="mf-vb-ar">
+          <iframe id="report-video" src="https://www.youtube-nocookie.com/embed/FVr21vS7TUQ?rel=0" title="نقص المياه في حي الجاعونة — مخيم اليرموك" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="mf-vb-foot">
+        <span class="mf-vb-src">تقرير ميداني · حي الجاعونة، مخيم اليرموك — جنوب دمشق</span>
+        <a class="mf-vb-link" href="https://youtu.be/FVr21vS7TUQ" target="_blank" rel="noopener">مشاهدة على يوتيوب
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 5h5v5M19 5l-8 8M17 14v5H5V7h5"></path></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<h2 class="wp-block-heading">أسئلة شائعة عن أزمة المياه في حي الجاعونة</h2>
+
+
+
+<h3 class="wp-block-heading">ما سبب انقطاع المياه عن حي الجاعونة في مخيم اليرموك؟</h3>
+
+
+
+<p class="wp-block-paragraph">عطل في خط المياه المغذّي للحي. والخط المتضرر يقع تحت ركام أحد الأبنية، ما يصعّب الوصول إليه وإجراء أعمال الصيانة اللازمة، بحسب أيمن المغاربة عضو لجنة مخيم اليرموك.</p>
+
+
+
+<h3 class="wp-block-heading">كم تبلغ كلفة تعبئة المياه على العائلات في المخيم؟</h3>
+
+
+
+<p class="wp-block-paragraph">يقدّر بعض الأهالي الكلفة بنحو 100 ألف ليرة سورية، تشمل احتياجات الشرب والغسيل والاستخدامات المنزلية اليومية.</p>
+
+
+
+<h3 class="wp-block-heading">ماذا يطالب سكان حي الجاعونة؟</h3>
+
+
+
+<p class="wp-block-paragraph">يطالبون بحل سريع ومستدام لمشكلة انقطاع المياه وتأهيل خط المياه المتضرر، بما يضمن وصول المياه إلى المنازل بصورة منتظمة ويخفف عنهم كلفة الشراء.</p>
+
+
+
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "VideoObject",
+   "name": "تقرير مصوّر: نقص المياه في حي الجاعونة بمخيم اليرموك",
+   "description": "تقرير ميداني من حي الجاعونة في مخيم اليرموك جنوب دمشق حول انقطاع المياه بسبب عطل في خط مغذٍّ يقع تحت الركام، وكلفة شراء المياه على الأهالي.",
+   "thumbnailUrl": [
+    "https://i.ytimg.com/vi/FVr21vS7TUQ/maxresdefault.jpg"
+   ],
+   "uploadDate": "2026-09-01T13:08:45",
+   "embedUrl": "https://www.youtube.com/embed/FVr21vS7TUQ",
+   "url": "https://youtu.be/FVr21vS7TUQ",
+   "inLanguage": "ar",
+   "contentLocation": {
+    "@type": "Place",
+    "name": "حي الجاعونة، مخيم اليرموك، جنوب دمشق، سوريا"
+   },
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "مفتاح ميديا",
+    "url": "https://miftah.media/"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "inLanguage": "ar",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "ما سبب انقطاع المياه عن حي الجاعونة في مخيم اليرموك؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "عطل في خط المياه المغذّي للحي. والخط المتضرر يقع تحت ركام أحد الأبنية، ما يصعّب الوصول إليه وإجراء أعمال الصيانة اللازمة، بحسب أيمن المغاربة عضو لجنة مخيم اليرموك."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "كم تبلغ كلفة تعبئة المياه على العائلات في المخيم؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "يقدّر بعض الأهالي الكلفة بنحو 100 ألف ليرة سورية، تشمل احتياجات الشرب والغسيل والاستخدامات المنزلية اليومية."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "ماذا يطالب سكان حي الجاعونة؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "يطالبون بحل سريع ومستدام لمشكلة انقطاع المياه وتأهيل خط المياه المتضرر، بما يضمن وصول المياه إلى المنازل بصورة منتظمة ويخفف عنهم كلفة الشراء."
+     }
+    }
+   ]
+  }
+ ]
+}</script>
+<p>The post <a href="https://miftah.media/%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d8%ad%d9%8a-%d8%a7%d9%84%d8%ac%d8%a7%d8%b9%d9%88%d9%86%d8%a9-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/">نقص حاد في المياه يفاقم الأعباء المعيشية على سكان حي الجاعونة في مخيم اليرموك</a> appeared first on <a href="https://miftah.media">مفتاح ميديا</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[
+<style>
+.art-body .mf-kicker{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 18px;}
+.art-body .mf-kicker .mf-eyebrow{font-family:var(--f-display);font-weight:600;font-size:var(--t-xs);line-height:1.72;letter-spacing:.04em;text-transform:none;color:var(--pine-2);}
+.art-body .mf-kicker .mf-place{font-family:var(--f-display);font-weight:400;font-size:var(--t-xs);line-height:1.72;letter-spacing:normal;color:var(--ink-3);white-space:nowrap;}
+.art-body .mf-kicker .mf-dot{width:4px;height:4px;border-radius:50%;background:var(--line-2);flex:none;}
+</style>
+<div class="mf-kicker"><span class="mf-eyebrow">تقرير مصوّر</span><span class="mf-dot"></span><span class="mf-place">مخيم اليرموك — جنوب دمشق</span></div>
+
+
+
+<div style="padding-top:clamp(24px,4vw,40px)">
+<div class="mf-facts" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden">
+          <div style="background:var(--card);padding:18px clamp(14px,2.4vw,20px);display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:var(--f-display);font-size:.72rem;font-weight:600;color:var(--crimson)">كلفة التعبئة</span>
+            <span style="font-family:var(--f-display);font-weight:700;font-size:clamp(1.3rem,3.4vw,1.7rem);color:var(--ink)">١٠٠ ألف ل.س</span>
+            <span style="font-family:var(--f-body);font-size:.82rem;line-height:1.6;color:var(--ink-3)">تقديرات بعض الأهالي لتأمين مياه الشرب والاستخدامات المنزلية</span>
+          </div>
+          <div style="background:var(--card);padding:18px clamp(14px,2.4vw,20px);display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:var(--f-display);font-size:.72rem;font-weight:600;color:var(--crimson)">سبب الانقطاع</span>
+            <span style="font-family:var(--f-display);font-weight:700;font-size:clamp(1.3rem,3.4vw,1.7rem);color:var(--ink)">خط تحت الركام</span>
+            <span style="font-family:var(--f-body);font-size:.82rem;line-height:1.6;color:var(--ink-3)">الخط المتضرر يقع تحت ركام أحد الأبنية، ما يصعّب الوصول إليه وصيانته</span>
+            <span style="font-family:var(--f-display);font-size:.72rem;color:var(--ink-3);opacity:.85">بحسب أيمن المغاربة، عضو لجنة مخيم اليرموك</span>
+          </div>
+          <div style="background:var(--card);padding:18px clamp(14px,2.4vw,20px);display:flex;flex-direction:column;gap:6px">
+            <span style="font-family:var(--f-display);font-size:.72rem;font-weight:600;color:var(--crimson)">المطلب</span>
+            <span style="font-family:var(--f-display);font-weight:700;font-size:clamp(1.3rem,3.4vw,1.7rem);color:var(--ink)">حل مستدام</span>
+            <span style="font-family:var(--f-body);font-size:.82rem;line-height:1.6;color:var(--ink-3)">تأهيل خط المياه المتضرر وضمان وصول المياه إلى المنازل بصورة منتظمة</span>
+          </div>
+        </div>
+</div>
+
+
+
+<style>
+.art-body .abody-p.lead-para{font-size:1.16em;line-height:1.7;color:var(--ink);}
+.art-body .pq footer{font-weight:400;}
+</style>
+
+
+
+<p class="abody-p lead-para wp-block-paragraph">يعاني سكان حي الجاعونة في مخيم اليرموك، جنوب دمشق، من نقص حاد في مياه الشرب والاستخدامات اليومية، نتيجة عطل في خط المياه المغذي للحي، ما دفع الأهالي إلى الاعتماد على شراء المياه وتعبئتها على نفقتهم الخاصة لتأمين احتياجاتهم الأساسية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وتقدر كلفة تعبئة المياه لدى بعض الأهالي بنحو 100 ألف ليرة سورية، تشمل احتياجات الشرب والغسيل والاستخدامات المنزلية اليومية، في وقت يواجه فيه سكان المخيم أوضاعاً معيشية واقتصادية صعبة.</p>
+
+
+
+<h2 class="wp-block-heading">سبب انقطاع المياه: خط مغذٍّ تحت الركام</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">وقال أيمن المغاربة عضو لجنة مخيم اليرموك، إن خط المياه المتضرر يقع تحت ركام أحد الأبنية، الأمر الذي يصعّب الوصول إليه وإجراء أعمال الصيانة اللازمة. وأضاف أن لجنة الحي تحاول، بشكل طارئ، تدارك المشكلة وتأمين المياه للسكان إلى حين معالجة العطل.</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow" style="margin:2.2em 0;text-align:center"><p style="max-width:30ch;margin-inline:auto">خط المياه المتضرر يقع تحت ركام أحد الأبنية، الأمر الذي يصعّب الوصول إليه وإجراء أعمال الصيانة.</p>
+          <footer style="margin-top:.7em;font-family:var(--f-display);font-size:.85rem;color:var(--ink-3)">أيمن المغاربة — عضو لجنة مخيم اليرموك</footer></blockquote>
+
+
+
+<h2 class="wp-block-heading">كلفة شراء المياه في مخيم اليرموك</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">ويشكل الاعتماد على شراء المياه عبئاً اقتصادياً إضافياً على سكان المخيم، إذ تضطر العائلات إلى تخصيص جزء من مصروفها اليومي لتأمين المياه، إلى جانب <a href="https://miftah.media/%d8%ba%d9%84%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1%d8%a7%d8%aa-%d9%8a%d8%af%d9%81%d8%b9-%d8%b9%d8%a7%d8%a6%d9%84%d8%a9-%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d8%a9-%d8%a5%d9%84/">تكاليف المعيشة الأساسية الأخرى</a>.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">ولا تزال مشكلة المياه من أبرز التحديات التي تواجه سكان مخيم اليرموك، في ظل <a href="https://miftah.media/%d9%88%d8%b1%d8%b4%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%af%d9%85-%d9%81%d9%8a-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83-%d8%aa%d8%b2%d9%8a%d9%84-%d8%a2%d8%ab%d8%a7%d8%b1-%d8%a7/">الأضرار التي لحقت بشبكات البنية التحتية</a> داخل المخيم، والحاجة إلى أعمال صيانة وتأهيل مستمرة لضمان وصول الخدمات الأساسية إلى الأحياء السكنية.</p>
+
+
+
+<h2 class="wp-block-heading">مطالب أهالي حي الجاعونة</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">ويطالب سكان حي الجاعونة بإيجاد حل سريع ومستدام لمشكلة انقطاع المياه، وتأهيل خط المياه المتضرر، بما يخفف عنهم كلفة شراء المياه ويضمن وصولها إلى المنازل بصورة منتظمة.</p>
+
+
+
+<style>
+.art-body .mf-videoband{--pw:calc(100vw - 16px);width:var(--pw);max-width:none;margin-inline:calc(50% - var(--pw) / 2);margin-top:clamp(28px,5vw,48px);background:var(--pine);color:var(--paper-fixed);background-image:radial-gradient(120% 80% at 82% -15%,rgba(185,138,62,.16),transparent 58%);border-block:1px solid rgba(0,0,0,.25);}
+.art-body .mf-videoband .mf-vb-wrap{width:var(--col);margin-inline:auto;padding-inline:var(--gut);padding-block:clamp(28px,5vw,50px);}
+.art-body .mf-videoband .mf-vb-col{width:min(880px,100%);margin-inline:auto;display:flex;flex-direction:column;gap:clamp(14px,2.4vw,20px);}
+.art-body .mf-videoband .mf-vb-h{font-family:var(--f-display);font-weight:600;font-size:var(--t-xs);line-height:1.72;letter-spacing:.04em;text-transform:none;color:var(--gold);margin:0;}
+.art-body .mf-videoband .mf-vb-rule{width:26px;height:1px;background:rgba(185,138,62,.6);flex:none;}
+.art-body .mf-videoband .mf-vb-frame{background:#000;border:1px solid rgba(255,255,255,.14);border-radius:var(--radius);overflow:hidden;}
+.art-body .mf-videoband .mf-vb-ar{position:relative;width:100%;aspect-ratio:16/9;}
+.art-body .mf-videoband iframe{position:absolute;inset:0;width:100%;height:100%;border:0;display:block;}
+.art-body .mf-videoband .mf-vb-foot{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;}
+.art-body .mf-videoband .mf-vb-src{font-family:var(--f-display);font-weight:400;font-size:.82rem;line-height:1.72;color:rgba(255,255,255,.55);margin:0;}
+.art-body .mf-videoband .mf-vb-link{display:inline-flex;align-items:center;gap:7px;font-family:var(--f-display);font-weight:600;font-size:.82rem;line-height:1.72;color:var(--gold);}
+@media print{.art-body .mf-videoband{width:100%;margin-inline:0;background:none;color:var(--ink);}}
+</style>
+<section class="mf-videoband">
+  <div class="mf-vb-wrap">
+    <div class="mf-vb-col">
+      <div style="display:flex;align-items:center;gap:13px">
+        <span class="mf-vb-rule"></span>
+        <h2 class="mf-vb-h">شاهد التقرير المصوّر</h2>
+      </div>
+      <div class="mf-vb-frame">
+        <div class="mf-vb-ar">
+          <iframe id="report-video" src="https://www.youtube-nocookie.com/embed/FVr21vS7TUQ?rel=0" title="نقص المياه في حي الجاعونة — مخيم اليرموك" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      <div class="mf-vb-foot">
+        <span class="mf-vb-src">تقرير ميداني · حي الجاعونة، مخيم اليرموك — جنوب دمشق</span>
+        <a class="mf-vb-link" href="https://youtu.be/FVr21vS7TUQ" target="_blank" rel="noopener">مشاهدة على يوتيوب
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 5h5v5M19 5l-8 8M17 14v5H5V7h5"></path></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<h2 class="wp-block-heading">أسئلة شائعة عن أزمة المياه في حي الجاعونة</h2>
+
+
+
+<h3 class="wp-block-heading">ما سبب انقطاع المياه عن حي الجاعونة في مخيم اليرموك؟</h3>
+
+
+
+<p class="wp-block-paragraph">عطل في خط المياه المغذّي للحي. والخط المتضرر يقع تحت ركام أحد الأبنية، ما يصعّب الوصول إليه وإجراء أعمال الصيانة اللازمة، بحسب أيمن المغاربة عضو لجنة مخيم اليرموك.</p>
+
+
+
+<h3 class="wp-block-heading">كم تبلغ كلفة تعبئة المياه على العائلات في المخيم؟</h3>
+
+
+
+<p class="wp-block-paragraph">يقدّر بعض الأهالي الكلفة بنحو 100 ألف ليرة سورية، تشمل احتياجات الشرب والغسيل والاستخدامات المنزلية اليومية.</p>
+
+
+
+<h3 class="wp-block-heading">ماذا يطالب سكان حي الجاعونة؟</h3>
+
+
+
+<p class="wp-block-paragraph">يطالبون بحل سريع ومستدام لمشكلة انقطاع المياه وتأهيل خط المياه المتضرر، بما يضمن وصول المياه إلى المنازل بصورة منتظمة ويخفف عنهم كلفة الشراء.</p>
+
+
+
+<script type="application/ld+json">{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "VideoObject",
+   "name": "تقرير مصوّر: نقص المياه في حي الجاعونة بمخيم اليرموك",
+   "description": "تقرير ميداني من حي الجاعونة في مخيم اليرموك جنوب دمشق حول انقطاع المياه بسبب عطل في خط مغذٍّ يقع تحت الركام، وكلفة شراء المياه على الأهالي.",
+   "thumbnailUrl": [
+    "https://i.ytimg.com/vi/FVr21vS7TUQ/maxresdefault.jpg"
+   ],
+   "uploadDate": "2026-09-01T13:08:45",
+   "embedUrl": "https://www.youtube.com/embed/FVr21vS7TUQ",
+   "url": "https://youtu.be/FVr21vS7TUQ",
+   "inLanguage": "ar",
+   "contentLocation": {
+    "@type": "Place",
+    "name": "حي الجاعونة، مخيم اليرموك، جنوب دمشق، سوريا"
+   },
+   "publisher": {
+    "@type": "NewsMediaOrganization",
+    "name": "مفتاح ميديا",
+    "url": "https://miftah.media/"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "inLanguage": "ar",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "ما سبب انقطاع المياه عن حي الجاعونة في مخيم اليرموك؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "عطل في خط المياه المغذّي للحي. والخط المتضرر يقع تحت ركام أحد الأبنية، ما يصعّب الوصول إليه وإجراء أعمال الصيانة اللازمة، بحسب أيمن المغاربة عضو لجنة مخيم اليرموك."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "كم تبلغ كلفة تعبئة المياه على العائلات في المخيم؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "يقدّر بعض الأهالي الكلفة بنحو 100 ألف ليرة سورية، تشمل احتياجات الشرب والغسيل والاستخدامات المنزلية اليومية."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "ماذا يطالب سكان حي الجاعونة؟",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "يطالبون بحل سريع ومستدام لمشكلة انقطاع المياه وتأهيل خط المياه المتضرر، بما يضمن وصول المياه إلى المنازل بصورة منتظمة ويخفف عنهم كلفة الشراء."
+     }
+    }
+   ]
+  }
+ ]
+}</script>
+<p>The post <a href="https://miftah.media/%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d8%ad%d9%8a-%d8%a7%d9%84%d8%ac%d8%a7%d8%b9%d9%88%d9%86%d8%a9-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/">نقص حاد في المياه يفاقم الأعباء المعيشية على سكان حي الجاعونة في مخيم اليرموك</a> appeared first on <a href="https://miftah.media">مفتاح ميديا</a>.</p>
+]]></content:encoded>
+            <author>admin_miftah</author>
+        </item>
         <item>
             <title><![CDATA[الأيام التي لا تُؤرشف: أصوات يوم عادي في مخيم السيدة زينب]]></title>
             <link>https://miftah.media/%d8%a3%d8%b5%d9%88%d8%a7%d8%aa-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%b2%d9%8a%d9%86%d8%a8/</link>
