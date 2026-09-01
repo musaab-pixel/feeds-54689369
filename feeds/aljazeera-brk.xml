@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 13:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 13:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الاستخبارات العسكرية الأوكرانية: أوكرانيا استهدفت مجمع نوفاتيك النفطي في منطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/233348</link>
+            <guid isPermaLink="false">a47fe613ec8d8b120155615c015f28b2a82efb25c4b2bd1a08ea67dad4afb8b5</guid>
+            <pubDate>Tue, 01 Sep 2026 13:42:02 GMT</pubDate>
+            <description><![CDATA[الاستخبارات العسكرية الأوكرانية: أوكرانيا استهدفت مجمع نوفاتيك النفطي في منطقة لينينغراد الروسية]]></description>
+            <content:encoded><![CDATA[الاستخبارات العسكرية الأوكرانية: أوكرانيا استهدفت مجمع نوفاتيك النفطي في منطقة لينينغراد الروسية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[برنامج الأغذية العالمي: تقليص المساعدات الغذائية بالضفة الغربية للنصف بدءا من…]]></title>
             <link>https://t.me/aljazeeraBrk/233347</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 30 Aug 2026 16:29:03 GMT</pubDate>
             <description><![CDATA[هيئة العمليات البحرية البريطانية: الناقلة أصيبت بمقذوف مجهول أثناء إبحارها باتجاه الخليج عبر مضيق هرمز]]></description>
             <content:encoded><![CDATA[هيئة العمليات البحرية البريطانية: الناقلة أصيبت بمقذوف مجهول أثناء إبحارها باتجاه الخليج عبر مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة العمليات البحرية البريطانية: استهداف ناقلة نفط أمس بمقذوف على بعد 12 ميلا…]]></title>
-            <link>https://t.me/aljazeeraBrk/233100</link>
-            <guid isPermaLink="false">a597aa660a854a8a4e829a79fc08a39d3410e985651e018f06be31a225a19ba1</guid>
-            <pubDate>Sun, 30 Aug 2026 16:29:02 GMT</pubDate>
-            <description><![CDATA[هيئة العمليات البحرية البريطانية: استهداف ناقلة نفط أمس بمقذوف على بعد 12 ميلا بحريا شمال خصب في عمان]]></description>
-            <content:encoded><![CDATA[هيئة العمليات البحرية البريطانية: استهداف ناقلة نفط أمس بمقذوف على بعد 12 ميلا بحريا شمال خصب في عمان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
