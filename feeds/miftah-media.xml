@@ -4,10 +4,241 @@
         <title>Miftah Media</title>
         <link>https://miftah.media/feed/</link>
         <description>RSS Factory feed "Miftah Media" (type: native)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 10:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 16:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحارة الأخيرة]]></title>
+            <link>https://miftah.media/%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/</link>
+            <guid isPermaLink="false">9ccd88b4884adb3fa211f778dbdc83e56aebee76c7b6af24d0f0e8629b154446</guid>
+            <pubDate>Tue, 01 Sep 2026 16:22:44 GMT</pubDate>
+            <description><![CDATA[
+<style>
+.art-body .art-kicker{margin:0 0 4px;font-family:var(--f-display);font-weight:600;
+  font-size:var(--t-xs);line-height:1.5;letter-spacing:.04em;color:var(--crimson);}
+.art-body .art-standfirst{margin:0 0 30px;font-family:var(--f-display);font-size:1.05rem;line-height:1.75;color:var(--ink-2);font-weight:600;}
+.art-body .art-credit{margin:0 0 26px;font-family:var(--f-display);font-size:var(--t-xs);
+  line-height:1.5;letter-spacing:.02em;color:var(--ink-2);}
+</style>
+<p class="art-kicker">قصة مصوّرة</p>
+<p class="art-credit">تصوير: محمد نجم</p>
+<p class="art-standfirst">مخيم اليرموك، جنوب دمشق: بين أبنية مقصوفة ومساحات عامة مفقودة، يصنع الأطفال ملعبهم من الركام.</p>
+
+
+
+<style>
+.art-body .pstory{--pw:min(1100px,calc(100vw - 32px));width:var(--pw);max-width:none;
+  margin-inline:calc(50% - var(--pw) / 2);}
+.art-body .pstory .abody-cap{font-family:var(--f-display);font-size:.82rem;line-height:1.5;
+  color:var(--ink-3);margin-top:8px;}
+.art-body .pstory .keyline h2{font-family:var(--f-display);font-weight:700;font-size:14px;
+  line-height:1.72;letter-spacing:.06em;color:var(--crimson);margin:0;}
+@media (max-width:760px){.art-body .pstory .pgrid{grid-template-columns:1fr!important;gap:20px!important;}}
+@media print{.art-body .pstory{width:100%;margin-inline:0;}
+  .art-body .pstory .pgrid{grid-template-columns:1fr!important;}}
+</style>
+<div class="pstory"><div style="width:min(640px,100%);margin:34px auto 0;padding-inline:40px">
+    
+    <p style="font-family:var(--f-display);font-weight:500;font-size:clamp(21px,2.6vw,27px);line-height:1.6;color:var(--ink);margin:0">حاول في البداية ألّا يسقط. لكنه سقط، سقط الطفل ذو الثماني سنوات من فوق حجر كبير على طرف بناء مقصوف. ضحكت أخته في البداية، لكن ضحكتها ارتدّت قبل أن تركض نحوه وترفعه عن الأرض.</p>
+  </div>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img fetchpriority="high" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-01.jpg" width="2000" height="1333" alt="طفل يقف على طرف سقف بناء مقصوف وآخران يتسلّقان العمود أسفله" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">على طرف بناءٍ مقصوف: طبقةٌ مكشوفة صارت ممرّاً، وعمودٌ صار سلّماً.</figcaption>
+  </figure>
+
+  <div style="width:min(640px,100%);margin:34px auto 0;padding-inline:40px">
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">إنّ المخيم كله، بتاريخه وأهله، هو اليوم حارة في عيون أطفاله.</p>
+  </div>
+
+  <div class="pgrid" style="display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center;margin:52px 0 0;padding-inline:40px">
+    <div>
+      <div class="keyline" style="margin-bottom:18px"><h2>١ · ما هي الحارة</h2></div>
+      <p style="font-size:var(--t-body);line-height:1.9;margin:0">الحارة في المعجم هي المحلّة أو الطريق الضيق الذي يجمع مجموعة من المنازل. ومهما بدا المعجم دقيقاً، فإنّ الحارة في تصورنا الشعبي اليومي كانت وما زالت هي مساحة اللعب الأولى، لا تنتجها الظروف وحدها، بل نمط علاقتنا مع أنفسنا ومع المكان.</p>
+      <p style="font-size:var(--t-body);line-height:1.9;margin:1.2em 0 0">لكن أي حارة هذه التي يلعب فيها الأطفال اليوم؟</p>
+    </div>
+    <figure style="margin:0">
+      <img decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-02.jpg" width="2000" height="1333" alt="ثلاثة أطفال على دراجاتهم في زقاق ضيق" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+      <figcaption class="abody-cap">الحارة كما في التصوّر الشعبي: طريقٌ ضيّق ودراجات.</figcaption>
+    </figure>
+  </div>
+
+  <div class="pgrid" style="display:grid;grid-template-columns:.85fr 1.15fr;gap:36px;align-items:center;margin:56px 0 0;padding-inline:40px">
+    <figure style="margin:0">
+      <img decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-03.jpg" width="1333" height="2000" alt="بناء مهدّم تتدلّى منه الطبقات وحديد التسليح" style="display:block;width:100%;height:auto;aspect-ratio:1333/2000">
+      <figcaption class="abody-cap">طبقاتٌ مكشوفة وحديدٌ متدلٍّ: <a href="https://www.unrwa.org/ar/newsroom/features/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%8A%D8%B1%D9%85%D9%88%D9%83%D8%8C-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7" target="_blank" rel="noopener">٧٢٪ من منازل المخيم تضررت</a>.</figcaption>
+    </figure>
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">أما الذين اختفوا خلف الجدران، فلم يسقطوا كالحجر أمام أعين إخوتهم كي تُرفع أجسادهم عن الأرض؛ ففي مجزرة «شارع الشهيد علي الوحش» وحدها، <a href="https://actionpal.org.uk/wp-content/uploads/2025/08/death_road.pdf" target="_blank" rel="noopener">وُثّق سقوط ١٠٣٣ ضحية بالاسم</a> من أصل قرابة ألفي معتقل غُيّبوا قسراً في مخيم اليرموك والبلدات المجاورة، بينهم ٤٥ طفلاً و١٥ امرأة، إحداهن رضيعة لم تتجاوز العام، و١٨ مسناً.</p>
+  </div>
+
+  <div style="width:min(640px,100%);margin:48px auto 0;padding-inline:40px">
+    <div class="keyline" style="margin-bottom:18px"><h2>٢ · الخطر الحاضر</h2></div>
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">واليوم، لا يقتصر الخطر على الذاكرة وحدها. حذّر سكان المخيم من أجزاء إنشائية مهددة بالانهيار، بينها أجزاء فوق أحد المحال في شارع المدارس، مع اقتراب العام الدراسي. وطالب الأهالي بكشوفات هندسية وإزالة مصادر الخطر، خصوصاً مع ازدياد حركة الأطفال والطلاب في شوارع المخيم.</p>
+  </div>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-04.jpg" width="2000" height="1333" alt="شارع في المخيم تحت شرفات مهدّمة، وطفل يجلس على الركام" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">شرفةٌ معلّقة فوق ممرّ يوميّ: الحياة تمرّ تحت ما يمكن أن يسقط.</figcaption>
+  </figure>
+
+  <div style="width:min(640px,100%);margin:48px auto 0;padding-inline:40px">
+    <div class="keyline" style="margin-bottom:18px"><h2>٣ · الحارة بوصفها ملعباً</h2></div>
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">يستعيد أطفال مخيم اليرموك اليوم مفهوم الحارة بوصفها مساحة للعب في أصعب الظروف، ضمن هوامش مضطربة غير مكتملة لحياة مختزلة. يكتشف الأطفال فيها قدرتهم على اختبار الأشياء من حولهم، ويجرّبون أدواراً ويتبادلونها في سعيهم المحموم لتجنب الهزيمة.</p>
+  </div>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-05.jpg" width="2000" height="1333" alt="طفلان على مرجوحة معدنية أمام أبنية مدمّرة" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">مرجوحةٌ معدنية وسط الخراب: الملعب كما بقي.</figcaption>
+  </figure>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-06.jpg" width="2000" height="1333" alt="طفل يقود دراجته فوق ألواح خشبية في شارع مدمّر" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">ألواحٌ خشبية صارت منحدراً: أدواتُ اللعب هي ما يمكن العثور عليه.</figcaption>
+  </figure>
+
+  <div class="pgrid" style="display:grid;grid-template-columns:1fr .8fr;gap:36px;align-items:center;margin:48px 0 0;padding-inline:40px">
+    <div>
+      <div class="keyline" style="margin-bottom:18px"><h2>٤ · حدود الجسد</h2></div>
+      <p style="font-size:var(--t-body);line-height:1.9;margin:0">إنهم يكتشفون حدود أجسادهم ويختبرون مشاعرهم ضمن مخيم خسر مساحاته العامة وبنيته التحتية.</p>
+    </div>
+    <figure style="margin:0">
+      <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-07.jpg" width="1333" height="2000" alt="طفل وطفلة يضحكان على المرجوحة" style="display:block;width:100%;height:auto;aspect-ratio:1333/2000;object-fit:cover">
+      <figcaption class="abody-cap">اللحظة نفسها من قريب.</figcaption>
+    </figure>
+  </div>
+
+  <div style="height:52px"></div>
+
+  <div style="position:relative;background:var(--ink)">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-08.jpg" width="2000" height="1333" alt="طفل يتعلّق بعارضة مرمى خلف الشبك وخلفه أبنية مثقوبة" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <div style="position:absolute;inset:0;pointer-events:none;background:linear-gradient(to top,rgba(18,14,12,.9) 0%,rgba(18,14,12,.25) 52%,transparent 78%)"></div>
+    <div style="position:absolute;inset-inline:0;bottom:0;padding:0 40px 44px;pointer-events:none">
+      <p style="font-family:var(--f-quote);font-size:clamp(24px,3.4vw,38px);line-height:1.5;color:#fff;margin:0;max-width:30ch">اللعب ما يزال ممكناً، لا كبطولة بل كضرورة.</p>
+    </div>
+  </div>
+  <p class="abody-cap" style="margin:0;padding:10px 40px 0">طفل يتعلّق بعارضة مرمى خلف الشبك، وخلفه أبنية مثقوبة.</p>
+
+  <div style="width:min(640px,100%);margin:32px auto 0;padding:0 40px 48px">
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">ما تحاول أن تقوله هذه الصورة هو أن اللعب ما يزال ممكناً، لا كبطولة بل كضرورة. إنه جزء من الإيهام والمشاعر والتخيل، محاولة مستمرة لصياغة الواقع من جديد داخل عالم يحاول الأطفال التحكم فيه والسيطرة على أدواته.</p>
+    
+  </div></div>
+<p>The post <a href="https://miftah.media/%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/">الحارة الأخيرة</a> appeared first on <a href="https://miftah.media">مفتاح ميديا</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[
+<style>
+.art-body .art-kicker{margin:0 0 4px;font-family:var(--f-display);font-weight:600;
+  font-size:var(--t-xs);line-height:1.5;letter-spacing:.04em;color:var(--crimson);}
+.art-body .art-standfirst{margin:0 0 30px;font-family:var(--f-display);font-size:1.05rem;line-height:1.75;color:var(--ink-2);font-weight:600;}
+.art-body .art-credit{margin:0 0 26px;font-family:var(--f-display);font-size:var(--t-xs);
+  line-height:1.5;letter-spacing:.02em;color:var(--ink-2);}
+</style>
+<p class="art-kicker">قصة مصوّرة</p>
+<p class="art-credit">تصوير: محمد نجم</p>
+<p class="art-standfirst">مخيم اليرموك، جنوب دمشق: بين أبنية مقصوفة ومساحات عامة مفقودة، يصنع الأطفال ملعبهم من الركام.</p>
+
+
+
+<style>
+.art-body .pstory{--pw:min(1100px,calc(100vw - 32px));width:var(--pw);max-width:none;
+  margin-inline:calc(50% - var(--pw) / 2);}
+.art-body .pstory .abody-cap{font-family:var(--f-display);font-size:.82rem;line-height:1.5;
+  color:var(--ink-3);margin-top:8px;}
+.art-body .pstory .keyline h2{font-family:var(--f-display);font-weight:700;font-size:14px;
+  line-height:1.72;letter-spacing:.06em;color:var(--crimson);margin:0;}
+@media (max-width:760px){.art-body .pstory .pgrid{grid-template-columns:1fr!important;gap:20px!important;}}
+@media print{.art-body .pstory{width:100%;margin-inline:0;}
+  .art-body .pstory .pgrid{grid-template-columns:1fr!important;}}
+</style>
+<div class="pstory"><div style="width:min(640px,100%);margin:34px auto 0;padding-inline:40px">
+    
+    <p style="font-family:var(--f-display);font-weight:500;font-size:clamp(21px,2.6vw,27px);line-height:1.6;color:var(--ink);margin:0">حاول في البداية ألّا يسقط. لكنه سقط، سقط الطفل ذو الثماني سنوات من فوق حجر كبير على طرف بناء مقصوف. ضحكت أخته في البداية، لكن ضحكتها ارتدّت قبل أن تركض نحوه وترفعه عن الأرض.</p>
+  </div>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img fetchpriority="high" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-01.jpg" width="2000" height="1333" alt="طفل يقف على طرف سقف بناء مقصوف وآخران يتسلّقان العمود أسفله" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">على طرف بناءٍ مقصوف: طبقةٌ مكشوفة صارت ممرّاً، وعمودٌ صار سلّماً.</figcaption>
+  </figure>
+
+  <div style="width:min(640px,100%);margin:34px auto 0;padding-inline:40px">
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">إنّ المخيم كله، بتاريخه وأهله، هو اليوم حارة في عيون أطفاله.</p>
+  </div>
+
+  <div class="pgrid" style="display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center;margin:52px 0 0;padding-inline:40px">
+    <div>
+      <div class="keyline" style="margin-bottom:18px"><h2>١ · ما هي الحارة</h2></div>
+      <p style="font-size:var(--t-body);line-height:1.9;margin:0">الحارة في المعجم هي المحلّة أو الطريق الضيق الذي يجمع مجموعة من المنازل. ومهما بدا المعجم دقيقاً، فإنّ الحارة في تصورنا الشعبي اليومي كانت وما زالت هي مساحة اللعب الأولى، لا تنتجها الظروف وحدها، بل نمط علاقتنا مع أنفسنا ومع المكان.</p>
+      <p style="font-size:var(--t-body);line-height:1.9;margin:1.2em 0 0">لكن أي حارة هذه التي يلعب فيها الأطفال اليوم؟</p>
+    </div>
+    <figure style="margin:0">
+      <img decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-02.jpg" width="2000" height="1333" alt="ثلاثة أطفال على دراجاتهم في زقاق ضيق" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+      <figcaption class="abody-cap">الحارة كما في التصوّر الشعبي: طريقٌ ضيّق ودراجات.</figcaption>
+    </figure>
+  </div>
+
+  <div class="pgrid" style="display:grid;grid-template-columns:.85fr 1.15fr;gap:36px;align-items:center;margin:56px 0 0;padding-inline:40px">
+    <figure style="margin:0">
+      <img decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-03.jpg" width="1333" height="2000" alt="بناء مهدّم تتدلّى منه الطبقات وحديد التسليح" style="display:block;width:100%;height:auto;aspect-ratio:1333/2000">
+      <figcaption class="abody-cap">طبقاتٌ مكشوفة وحديدٌ متدلٍّ: <a href="https://www.unrwa.org/ar/newsroom/features/%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%8A%D8%B1%D9%85%D9%88%D9%83%D8%8C-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7" target="_blank" rel="noopener">٧٢٪ من منازل المخيم تضررت</a>.</figcaption>
+    </figure>
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">أما الذين اختفوا خلف الجدران، فلم يسقطوا كالحجر أمام أعين إخوتهم كي تُرفع أجسادهم عن الأرض؛ ففي مجزرة «شارع الشهيد علي الوحش» وحدها، <a href="https://actionpal.org.uk/wp-content/uploads/2025/08/death_road.pdf" target="_blank" rel="noopener">وُثّق سقوط ١٠٣٣ ضحية بالاسم</a> من أصل قرابة ألفي معتقل غُيّبوا قسراً في مخيم اليرموك والبلدات المجاورة، بينهم ٤٥ طفلاً و١٥ امرأة، إحداهن رضيعة لم تتجاوز العام، و١٨ مسناً.</p>
+  </div>
+
+  <div style="width:min(640px,100%);margin:48px auto 0;padding-inline:40px">
+    <div class="keyline" style="margin-bottom:18px"><h2>٢ · الخطر الحاضر</h2></div>
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">واليوم، لا يقتصر الخطر على الذاكرة وحدها. حذّر سكان المخيم من أجزاء إنشائية مهددة بالانهيار، بينها أجزاء فوق أحد المحال في شارع المدارس، مع اقتراب العام الدراسي. وطالب الأهالي بكشوفات هندسية وإزالة مصادر الخطر، خصوصاً مع ازدياد حركة الأطفال والطلاب في شوارع المخيم.</p>
+  </div>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-04.jpg" width="2000" height="1333" alt="شارع في المخيم تحت شرفات مهدّمة، وطفل يجلس على الركام" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">شرفةٌ معلّقة فوق ممرّ يوميّ: الحياة تمرّ تحت ما يمكن أن يسقط.</figcaption>
+  </figure>
+
+  <div style="width:min(640px,100%);margin:48px auto 0;padding-inline:40px">
+    <div class="keyline" style="margin-bottom:18px"><h2>٣ · الحارة بوصفها ملعباً</h2></div>
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">يستعيد أطفال مخيم اليرموك اليوم مفهوم الحارة بوصفها مساحة للعب في أصعب الظروف، ضمن هوامش مضطربة غير مكتملة لحياة مختزلة. يكتشف الأطفال فيها قدرتهم على اختبار الأشياء من حولهم، ويجرّبون أدواراً ويتبادلونها في سعيهم المحموم لتجنب الهزيمة.</p>
+  </div>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-05.jpg" width="2000" height="1333" alt="طفلان على مرجوحة معدنية أمام أبنية مدمّرة" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">مرجوحةٌ معدنية وسط الخراب: الملعب كما بقي.</figcaption>
+  </figure>
+
+  <figure style="margin:44px 0 0;padding-inline:40px">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-06.jpg" width="2000" height="1333" alt="طفل يقود دراجته فوق ألواح خشبية في شارع مدمّر" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <figcaption class="abody-cap">ألواحٌ خشبية صارت منحدراً: أدواتُ اللعب هي ما يمكن العثور عليه.</figcaption>
+  </figure>
+
+  <div class="pgrid" style="display:grid;grid-template-columns:1fr .8fr;gap:36px;align-items:center;margin:48px 0 0;padding-inline:40px">
+    <div>
+      <div class="keyline" style="margin-bottom:18px"><h2>٤ · حدود الجسد</h2></div>
+      <p style="font-size:var(--t-body);line-height:1.9;margin:0">إنهم يكتشفون حدود أجسادهم ويختبرون مشاعرهم ضمن مخيم خسر مساحاته العامة وبنيته التحتية.</p>
+    </div>
+    <figure style="margin:0">
+      <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-07.jpg" width="1333" height="2000" alt="طفل وطفلة يضحكان على المرجوحة" style="display:block;width:100%;height:auto;aspect-ratio:1333/2000;object-fit:cover">
+      <figcaption class="abody-cap">اللحظة نفسها من قريب.</figcaption>
+    </figure>
+  </div>
+
+  <div style="height:52px"></div>
+
+  <div style="position:relative;background:var(--ink)">
+    <img loading="lazy" decoding="async" src="https://miftah.media/wp-content/uploads/2026/09/yarmouk-hara-akhira-08.jpg" width="2000" height="1333" alt="طفل يتعلّق بعارضة مرمى خلف الشبك وخلفه أبنية مثقوبة" style="display:block;width:100%;height:auto;aspect-ratio:2000/1333">
+    <div style="position:absolute;inset:0;pointer-events:none;background:linear-gradient(to top,rgba(18,14,12,.9) 0%,rgba(18,14,12,.25) 52%,transparent 78%)"></div>
+    <div style="position:absolute;inset-inline:0;bottom:0;padding:0 40px 44px;pointer-events:none">
+      <p style="font-family:var(--f-quote);font-size:clamp(24px,3.4vw,38px);line-height:1.5;color:#fff;margin:0;max-width:30ch">اللعب ما يزال ممكناً، لا كبطولة بل كضرورة.</p>
+    </div>
+  </div>
+  <p class="abody-cap" style="margin:0;padding:10px 40px 0">طفل يتعلّق بعارضة مرمى خلف الشبك، وخلفه أبنية مثقوبة.</p>
+
+  <div style="width:min(640px,100%);margin:32px auto 0;padding:0 40px 48px">
+    <p style="font-size:var(--t-body);line-height:1.9;margin:0">ما تحاول أن تقوله هذه الصورة هو أن اللعب ما يزال ممكناً، لا كبطولة بل كضرورة. إنه جزء من الإيهام والمشاعر والتخيل، محاولة مستمرة لصياغة الواقع من جديد داخل عالم يحاول الأطفال التحكم فيه والسيطرة على أدواته.</p>
+    
+  </div></div>
+<p>The post <a href="https://miftah.media/%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/">الحارة الأخيرة</a> appeared first on <a href="https://miftah.media">مفتاح ميديا</a>.</p>
+]]></content:encoded>
+            <author>admin_miftah</author>
+        </item>
         <item>
             <title><![CDATA[نقص حاد في المياه يفاقم الأعباء المعيشية على سكان حي الجاعونة في مخيم اليرموك]]></title>
             <link>https://miftah.media/%d9%86%d9%82%d8%b5-%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87-%d8%ad%d9%8a-%d8%a7%d9%84%d8%ac%d8%a7%d8%b9%d9%88%d9%86%d8%a9-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/</link>
