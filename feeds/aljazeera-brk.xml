@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 09:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 09:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في مستشفى الشفاء: 3 شهداء هم طفلان وسيدة و8 مصابين بنيران مسيرات إسرائيلية…]]></title>
+            <link>https://t.me/aljazeeraBrk/233305</link>
+            <guid isPermaLink="false">8aaaef29529b68dcbd77266323dfca4a8eae8597331d98abce894c25e30afb56</guid>
+            <pubDate>Tue, 01 Sep 2026 09:15:02 GMT</pubDate>
+            <description><![CDATA[مصدر في مستشفى الشفاء: 3 شهداء هم طفلان وسيدة و8 مصابين بنيران مسيرات إسرائيلية في منطقة الكتيبة غربي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في مستشفى الشفاء: 3 شهداء هم طفلان وسيدة و8 مصابين بنيران مسيرات إسرائيلية في منطقة الكتيبة غربي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في مستشفى الشفاء: 3 شهداء بينهم طفل و8 مصابين بنيران مسيرات إسرائيلية في…]]></title>
             <link>https://t.me/aljazeeraBrk/233304</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 30 Aug 2026 07:19:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: وفد يضم ممثل الاتحاد الأوروبي لعملية السلام في الشرق الأوسط يصل إلى بلدة قصرة جنوبي نابلس]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: وفد يضم ممثل الاتحاد الأوروبي لعملية السلام في الشرق الأوسط يصل إلى بلدة قصرة جنوبي نابلس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نادي الأسير الفلسطيني للجزيرة: مئات الشهادات الموثقة تكشف عن ممارسات بالغة…]]></title>
-            <link>https://t.me/aljazeeraBrk/233057</link>
-            <guid isPermaLink="false">8a6b5f3c8f4ece3b103ddf9843953297b7fe710b31e1d889ca058d6e0e81677f</guid>
-            <pubDate>Sun, 30 Aug 2026 07:11:02 GMT</pubDate>
-            <description><![CDATA[نادي الأسير الفلسطيني للجزيرة: مئات الشهادات الموثقة تكشف عن ممارسات بالغة الخطورة داخل سجون ومعسكرات الاحتلال]]></description>
-            <content:encoded><![CDATA[نادي الأسير الفلسطيني للجزيرة: مئات الشهادات الموثقة تكشف عن ممارسات بالغة الخطورة داخل سجون ومعسكرات الاحتلال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
