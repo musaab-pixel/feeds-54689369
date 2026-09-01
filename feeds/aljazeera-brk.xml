@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 07:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 07:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: 3 مصابين بينهم طفلة برصاص قوات الاحتلال خارج مناطق سيطرتها…]]></title>
+            <link>https://t.me/aljazeeraBrk/233292</link>
+            <guid isPermaLink="false">d1c298ad9d1e3ebec9979e58ec8457d3fe3389dfb990e0a555469cb61b61eccc</guid>
+            <pubDate>Tue, 01 Sep 2026 07:42:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: 3 مصابين بينهم طفلة برصاص قوات الاحتلال خارج مناطق سيطرتها في دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: 3 مصابين بينهم طفلة برصاص قوات الاحتلال خارج مناطق سيطرتها في دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الروسية: موسكو ستتخذ تدابير مضادة في حال نشر أسلحة أمريكية في اليابان]]></title>
             <link>https://t.me/aljazeeraBrk/233291</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 30 Aug 2026 04:15:02 GMT</pubDate>
             <description><![CDATA[يسرائيل هيوم عن مصادر بالجيش الإسرائيلي: لن ندعم أي خطوات في الضفة الغربية لا تفرضها الوقائع على الأرض]]></description>
             <content:encoded><![CDATA[يسرائيل هيوم عن مصادر بالجيش الإسرائيلي: لن ندعم أي خطوات في الضفة الغربية لا تفرضها الوقائع على الأرض]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[يسرائيل هيوم عن مصادر بالجيش الإسرائيلي: مخاوف من أن أطرافا بالحكومة معنية…]]></title>
-            <link>https://t.me/aljazeeraBrk/233044</link>
-            <guid isPermaLink="false">6a73be405f107800402d37a47910566252ab135ebde7f7e3e6be6e923c849e39</guid>
-            <pubDate>Sun, 30 Aug 2026 04:14:02 GMT</pubDate>
-            <description><![CDATA[يسرائيل هيوم عن مصادر بالجيش الإسرائيلي: مخاوف من أن أطرافا بالحكومة معنية بالتصعيد بالضفة لاعتبارات سياسية]]></description>
-            <content:encoded><![CDATA[يسرائيل هيوم عن مصادر بالجيش الإسرائيلي: مخاوف من أن أطرافا بالحكومة معنية بالتصعيد بالضفة لاعتبارات سياسية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
