@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 06:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 06:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[زيلنسكي: مقتل 12 شخصا بينهم مواطن هندي في هجمات روسية على مدن عدة في أوكرانيا]]></title>
+            <link>https://t.me/aljazeeraBrk/233283</link>
+            <guid isPermaLink="false">c645c7ad9fc128fcf661926c4add20ac2c0e34760c4836451de1cdb52248d29f</guid>
+            <pubDate>Tue, 01 Sep 2026 06:35:02 GMT</pubDate>
+            <description><![CDATA[زيلنسكي: مقتل 12 شخصا بينهم مواطن هندي في هجمات روسية على مدن عدة في أوكرانيا]]></description>
+            <content:encoded><![CDATA[زيلنسكي: مقتل 12 شخصا بينهم مواطن هندي في هجمات روسية على مدن عدة في أوكرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في مسجد ويخطون شعارات عنصرية على جدرانه في…]]></title>
             <link>https://t.me/aljazeeraBrk/233282</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 30 Aug 2026 02:03:02 GMT</pubDate>
             <description><![CDATA[الرئيسة الانتقالية في فنزويلا: سنحتفظ بالسيادة على مواردنا الطبيعية]]></description>
             <content:encoded><![CDATA[الرئيسة الانتقالية في فنزويلا: سنحتفظ بالسيادة على مواردنا الطبيعية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيسة الانتقالية في فنزويلا: الاتفاق مع الولايات المتحدة يهدف لزيادة الإنتاج…]]></title>
-            <link>https://t.me/aljazeeraBrk/233035</link>
-            <guid isPermaLink="false">2fc5bc6695e16393966a45caafce391273ac6205d2d815f496c61180371c3439</guid>
-            <pubDate>Sun, 30 Aug 2026 02:00:02 GMT</pubDate>
-            <description><![CDATA[الرئيسة الانتقالية في فنزويلا: الاتفاق مع الولايات المتحدة يهدف لزيادة الإنتاج إلى 1.5 مليون برميل يوميا]]></description>
-            <content:encoded><![CDATA[الرئيسة الانتقالية في فنزويلا: الاتفاق مع الولايات المتحدة يهدف لزيادة الإنتاج إلى 1.5 مليون برميل يوميا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

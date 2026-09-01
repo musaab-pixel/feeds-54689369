@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 06:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 06:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[زيلنسكي: مقتل 12 شخصا بينهم مواطن هندي في هجمات روسية على مدن عدة في أوكرانيا]]></title>
+            <link>https://t.me/aljazeeraBrk/233283</link>
+            <guid isPermaLink="false">c645c7ad9fc128fcf661926c4add20ac2c0e34760c4836451de1cdb52248d29f</guid>
+            <pubDate>Tue, 01 Sep 2026 06:35:02 GMT</pubDate>
+            <description><![CDATA[زيلنسكي: مقتل 12 شخصا بينهم مواطن هندي في هجمات روسية على مدن عدة في أوكرانيا]]></description>
+            <content:encoded><![CDATA[زيلنسكي: مقتل 12 شخصا بينهم مواطن هندي في هجمات روسية على مدن عدة في أوكرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الإدارة المحلية والبيئة محمد عنجراني: اليوم نخطو خطوة جديدة في مسار التحول…]]></title>
             <link>https://t.me/HalabTodayTV/140110</link>
@@ -1811,15 +1820,6 @@
             <pubDate>Mon, 31 Aug 2026 04:20:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: العامل الوحيد الذي جعل الممر الملاحي في المنطقة غير آمن هو الممارسات العدوانية للولايات المتحدة والكيان الصهيوني]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: العامل الوحيد الذي جعل الممر الملاحي في المنطقة غير آمن هو الممارسات العدوانية للولايات المتحدة والكيان الصهيوني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الإيرانية: قواتنا استهدفت قواعد عسكرية أمريكية في الأردن كانت منطلقا…]]></title>
-            <link>https://t.me/aljazeeraBrk/233181</link>
-            <guid isPermaLink="false">2853718a35d8eb14fae83f25ceeca27fc054e4c109db85fe1e46126697d4e591</guid>
-            <pubDate>Mon, 31 Aug 2026 04:19:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الإيرانية: قواتنا استهدفت قواعد عسكرية أمريكية في الأردن كانت منطلقا للعدوان العسكري الأمريكي على بلادنا]]></description>
-            <content:encoded><![CDATA[الخارجية الإيرانية: قواتنا استهدفت قواعد عسكرية أمريكية في الأردن كانت منطلقا للعدوان العسكري الأمريكي على بلادنا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
