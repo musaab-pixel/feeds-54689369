@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 06:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 07:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الاحتلال يجرف أراضي ويقتلع أشجار زيتون بين بلدتي عرابة ويعبد…]]></title>
+            <link>https://t.me/aljazeeraBrk/233287</link>
+            <guid isPermaLink="false">75b021625206a5234adfe00584cdb5ad0bcd054e61915542a0951e5b249b7c6f</guid>
+            <pubDate>Tue, 01 Sep 2026 06:59:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الاحتلال يجرف أراضي ويقتلع أشجار زيتون بين بلدتي عرابة ويعبد شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الاحتلال يجرف أراضي ويقتلع أشجار زيتون بين بلدتي عرابة ويعبد شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مسؤولة السياسة الخارجية في الاتحاد الأوروبي: ثمة اقتراحات أوروبية لوقف التجارة…]]></title>
             <link>https://t.me/aljazeeraBrk/233286</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 30 Aug 2026 03:19:02 GMT</pubDate>
             <description><![CDATA[معاريف عن مصادر: الجيش الإسرائيلي يدرس نقل جزء من قواته المنتشرة حاليا في لبنان وغزة إلى الضفة الغربية]]></description>
             <content:encoded><![CDATA[معاريف عن مصادر: الجيش الإسرائيلي يدرس نقل جزء من قواته المنتشرة حاليا في لبنان وغزة إلى الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وول ستريت جورنال عن مسؤولين غربيين: روسيا استولت على مسيرات أوكرانية يمكن…]]></title>
-            <link>https://t.me/aljazeeraBrk/233039</link>
-            <guid isPermaLink="false">e6f8e2d619ead193e83c2954962fa595d06960324d46c92c3bc865b5ec01d1a5</guid>
-            <pubDate>Sun, 30 Aug 2026 03:09:02 GMT</pubDate>
-            <description><![CDATA[وول ستريت جورنال عن مسؤولين غربيين: روسيا استولت على مسيرات أوكرانية يمكن استخدامها في هجمات ضد دول النيتو]]></description>
-            <content:encoded><![CDATA[وول ستريت جورنال عن مسؤولين غربيين: روسيا استولت على مسيرات أوكرانية يمكن استخدامها في هجمات ضد دول النيتو]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
