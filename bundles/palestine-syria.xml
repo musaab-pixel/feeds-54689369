@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Tue, 01 Sep 2026 09:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 10:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ عملية نسف واسعة داخل مناطق سيطرته في مدينة دير…]]></title>
+            <link>https://t.me/aljazeeraBrk/233316</link>
+            <guid isPermaLink="false">d5252d7cec469336882df98bcb9fea43c9233c9434dc81e021fc86891a7accd4</guid>
+            <pubDate>Tue, 01 Sep 2026 10:07:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ عملية نسف واسعة داخل مناطق سيطرته في مدينة دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ عملية نسف واسعة داخل مناطق سيطرته في مدينة دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القناة 12 الإسرائيلية عن مصادر: اعتقال رئيس جهاز الأمن العام التابع لحركة حماس…]]></title>
             <link>https://t.me/aljazeeraBrk/233315</link>
@@ -1756,15 +1765,6 @@
 <p style="text-align: justify;">وارتفعت حصيلة الإبادة الجماعية على قطاع غزة منذ السابع من أكتوبر/تشرين الأول 2023 إلى 73,454 شهيداً و174,486 مصاباً.</p>
 <p style="text-align: justify;">كما بلغت حصيلة الشهداء منذ بدء وقف إطلاق النار في أكتوبر/تشرين الأول الماضي 1,318 شهيداً، فيما وصل عدد المصابين إلى 4,375، إضافة إلى 815 جثماناً جرى انتشالها خلال الفترة نفسها، في ظل استمرار خروقات قوات الاحتلال لاتفاق وقف إطلاق النار.</p>]]></content:encoded>
             <enclosure url="https://refugeesps.net/thumb/408x250/uploads/images/2026/08/q9ZOU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة من مسيرة إسرائيلية على وسط…]]></title>
-            <link>https://t.me/aljazeeraBrk/233210</link>
-            <guid isPermaLink="false">9171535721c7a5d71d1c5d46a184086978ecc96735183ed71df238a77c8f488a</guid>
-            <pubDate>Mon, 31 Aug 2026 08:58:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة من مسيرة إسرائيلية على وسط مدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة من مسيرة إسرائيلية على وسط مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>
