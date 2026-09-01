@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"afd.fr\" (type: native)",
     "items": [
         {
+            "id": "cee58270bf5fbb709656774c0514ecbf7fb9b896ec298497541ed641a34316e2",
+            "content_html": "DE FREMONT_Karine_20260901_signée\n<span><span>constantv@afd.fr</span></span>\n<time datetime=\"2026-09-01T20:32:21+02:00\" title=\"Mardi 1 septembre 2026 - 20:32\">mar 01/09/2026 - 20:32</time>\n    <time datetime=\"2026-09-01T12:00:00Z\">1 septembre 2026</time>\n    0    Délégations de signature – Décisions DG    \n\n      \n        \n  \n  \n  \n\n\n\n\n\n  \n<a href=\"https://www.afd.fr/sites/default/files/2026-09/de-fremont_karine_20260901_signee.pdf\" type=\"application/pdf\" class=\"file file--mime-application-pdf file--application-pdf fr-link--download fr-link\" data-component-id=\"dsfr4drupal:link\" data-component-variant=\"download\">    de-fremont_karine_20260901_signee.pdf <span class=\"fr-link__detail\">129.67 Ko</span>\n  </a>\n\n\n\n    <time datetime=\"2026-09-01T12:00:00Z\">mar 01/09/2026 - 12:00</time>\n",
+            "url": "https://www.afd.fr/fr/node/15176",
+            "title": "DE FREMONT_Karine_20260901_signée",
+            "summary": "DE FREMONT_Karine_20260901_signée\n<span><span>constantv@afd.fr</span></span>\n<time datetime=\"2026-09-01T20:32:21+02:00\" title=\"Mardi 1 septembre 2026 - 20:32\">mar 01/09/2026 - 20:32</time>\n    <time datetime=\"2026-09-01T12:00:00Z\">1 septembre 2026</time>\n    0    Délégations de signature – Décisions DG    \n\n      \n        \n  \n  \n  \n\n\n\n\n\n  \n<a href=\"https://www.afd.fr/sites/default/files/2026-09/de-fremont_karine_20260901_signee.pdf\" type=\"application/pdf\" class=\"file file--mime-application-pdf file--application-pdf fr-link--download fr-link\" data-component-id=\"dsfr4drupal:link\" data-component-variant=\"download\">    de-fremont_karine_20260901_signee.pdf <span class=\"fr-link__detail\">129.67 Ko</span>\n  </a>\n\n\n\n    <time datetime=\"2026-09-01T12:00:00Z\">mar 01/09/2026 - 12:00</time>\n",
+            "date_modified": "2026-09-01T18:32:21.000Z",
+            "author": {
+                "name": "constantv@afd.fr"
+            }
+        },
+        {
             "id": "6ada28bd4f32da2b61fde0c81670b9a90ee9e6feff39947275b7244f1bf7bd04",
             "content_html": "MOULINOU_Mathilde_20260901_signée\n<span><span>constantv@afd.fr</span></span>\n<time datetime=\"2026-09-01T16:29:09+02:00\" title=\"Mardi 1 septembre 2026 - 16:29\">mar 01/09/2026 - 16:29</time>\n    <time datetime=\"2026-09-01T12:00:00Z\">1 septembre 2026</time>\n    0    Délégations de signature – Décisions DG    \n\n      \n        \n  \n  \n  \n\n\n\n\n\n  \n<a href=\"https://www.afd.fr/sites/default/files/2026-09/moulinou_mathilde_20260901_signee.pdf\" type=\"application/pdf\" class=\"file file--mime-application-pdf file--application-pdf fr-link--download fr-link\" data-component-id=\"dsfr4drupal:link\" data-component-variant=\"download\">    moulinou_mathilde_20260901_signee.pdf <span class=\"fr-link__detail\">158.48 Ko</span>\n  </a>\n\n\n\n    <time datetime=\"2026-09-01T12:00:00Z\">mar 01/09/2026 - 12:00</time>\n",
             "url": "https://www.afd.fr/fr/node/15175",
