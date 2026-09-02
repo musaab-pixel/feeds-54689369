@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 19:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 20:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الصحة الفلسطينية: استشهاد شاب وفتى برصاص قوات الاحتلال في بلدة المغير…]]></title>
+            <link>https://t.me/aljazeeraBrk/233597</link>
+            <guid isPermaLink="false">99e0ed16a96a8d728a9c1a5b62e954a3e62e7d56e1cda665207714794bb39aff</guid>
+            <pubDate>Wed, 02 Sep 2026 19:58:02 GMT</pubDate>
+            <description><![CDATA[وزارة الصحة الفلسطينية: استشهاد شاب وفتى برصاص قوات الاحتلال في بلدة المغير شرقي رام الله]]></description>
+            <content:encoded><![CDATA[وزارة الصحة الفلسطينية: استشهاد شاب وفتى برصاص قوات الاحتلال في بلدة المغير شرقي رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني ثان بجراح خطيرة في هجوم شنه مستوطنون…]]></title>
             <link>https://t.me/aljazeeraBrk/233596</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 11:05:02 GMT</pubDate>
             <description><![CDATA[مصدر أمني في غزة للجزيرة: الاحتلال استخدم غطاء ناريا للانسحاب بعد اشتباك عناصر المقاومة مع القوة الخاصة]]></description>
             <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: الاحتلال استخدم غطاء ناريا للانسحاب بعد اشتباك عناصر المقاومة مع القوة الخاصة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر أمني في غزة للجزيرة: قوة إسرائيلية خاصة اختطفت أحد ضباط جهاز الأمن الداخلي…]]></title>
-            <link>https://t.me/aljazeeraBrk/233327</link>
-            <guid isPermaLink="false">504e5c9e08bee2b2f4b0e116dcebf8ce51e23f83e5af62e9a30e84a059823a89</guid>
-            <pubDate>Tue, 01 Sep 2026 11:04:02 GMT</pubDate>
-            <description><![CDATA[مصدر أمني في غزة للجزيرة: قوة إسرائيلية خاصة اختطفت أحد ضباط جهاز الأمن الداخلي بعد قصف مسكنه واستشهاد زوجته]]></description>
-            <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: قوة إسرائيلية خاصة اختطفت أحد ضباط جهاز الأمن الداخلي بعد قصف مسكنه واستشهاد زوجته]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
