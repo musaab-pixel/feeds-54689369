@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 18:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 19:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني ثان بجراح خطيرة في هجوم شنه مستوطنون…]]></title>
+            <link>https://t.me/aljazeeraBrk/233596</link>
+            <guid isPermaLink="false">62ecee1bc045b7131e5f86e7f903163cc88cbf6601e2f4a66a4f08a02065f0c0</guid>
+            <pubDate>Wed, 02 Sep 2026 18:57:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني ثان بجراح خطيرة في هجوم شنه مستوطنون ببلدة المغير شرقي رام الله]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني ثان بجراح خطيرة في هجوم شنه مستوطنون ببلدة المغير شرقي رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني بالرصاص في قرية المغير خلال هجوم…]]></title>
             <link>https://t.me/aljazeeraBrk/233595</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 11:04:02 GMT</pubDate>
             <description><![CDATA[مصدر أمني في غزة للجزيرة: قوة إسرائيلية خاصة اختطفت أحد ضباط جهاز الأمن الداخلي بعد قصف مسكنه واستشهاد زوجته]]></description>
             <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: قوة إسرائيلية خاصة اختطفت أحد ضباط جهاز الأمن الداخلي بعد قصف مسكنه واستشهاد زوجته]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر أمني في غزة للجزيرة: ننفي اعتقال مدير جهاز الأمن الداخلي في القطاع]]></title>
-            <link>https://t.me/aljazeeraBrk/233326</link>
-            <guid isPermaLink="false">7a80739861157b46acb89565f72d6408581294bb4ee5aa156530becbb6477b58</guid>
-            <pubDate>Tue, 01 Sep 2026 11:03:02 GMT</pubDate>
-            <description><![CDATA[مصدر أمني في غزة للجزيرة: ننفي اعتقال مدير جهاز الأمن الداخلي في القطاع]]></description>
-            <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: ننفي اعتقال مدير جهاز الأمن الداخلي في القطاع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
