@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 16:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 16:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة المغير شرقي رام الله]]></title>
+            <link>https://t.me/aljazeeraBrk/233568</link>
+            <guid isPermaLink="false">2cced23cb3b1a23d143fde5cf0489818cf47957b038ad6f8b516a468888cb5c7</guid>
+            <pubDate>Wed, 02 Sep 2026 16:12:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة المغير شرقي رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تقتحم بلدة المغير شرقي رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وام: الإمارات تدين بشدة الهجمات الإيرانية العدوانية على البحرين والكويت والأردن…]]></title>
             <link>https://t.me/aljazeeraBrk/233567</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 08:21:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام إسرائيلية: تبادل إطلاق نار كثيف في غزة بعد تسلل قوة إسرائيلية خاصة إلى منطقة المستشفى الأمريكي غربي المدينة]]></description>
             <content:encoded><![CDATA[وسائل إعلام إسرائيلية: تبادل إطلاق نار كثيف في غزة بعد تسلل قوة إسرائيلية خاصة إلى منطقة المستشفى الأمريكي غربي المدينة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مسيرات الاحتلال تلقي عددا كبيرا من القذائف على منطقة الكتيبة…]]></title>
-            <link>https://t.me/aljazeeraBrk/233298</link>
-            <guid isPermaLink="false">daf77cc6eb7a724775ce3b7def29162e1d2c312e962c25257b72702ec213de5b</guid>
-            <pubDate>Tue, 01 Sep 2026 08:01:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مسيرات الاحتلال تلقي عددا كبيرا من القذائف على منطقة الكتيبة غربي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مسيرات الاحتلال تلقي عددا كبيرا من القذائف على منطقة الكتيبة غربي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
