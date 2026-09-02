@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 17:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 17:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[روبيو: مذكرة التفاهم انقضت وسيبقى نظام إيران تحت الضغط لمنعه من الوصول للأموال…]]></title>
+            <link>https://t.me/aljazeeraBrk/233576</link>
+            <guid isPermaLink="false">5ccc216df7973e9007f0c07073c3f06e8632f7fc29a61265e924a73bc28c94e0</guid>
+            <pubDate>Wed, 02 Sep 2026 17:16:02 GMT</pubDate>
+            <description><![CDATA[روبيو: مذكرة التفاهم انقضت وسيبقى نظام إيران تحت الضغط لمنعه من الوصول للأموال التي يستخدمها لتمويل الإرهاب]]></description>
+            <content:encoded><![CDATA[روبيو: مذكرة التفاهم انقضت وسيبقى نظام إيران تحت الضغط لمنعه من الوصول للأموال التي يستخدمها لتمويل الإرهاب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[روبيو: سنستهدف كل ما يهدد قواتنا والملاحة العالمية في مضيق هرمز والمضيق سيبقى…]]></title>
             <link>https://t.me/aljazeeraBrk/233575</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 09:34:02 GMT</pubDate>
             <description><![CDATA[مصدر أمني فلسطيني للجزيرة: القوة الخاصة انسحبت من منطقة الكتيبة بغزة على دراجات نارية تحت غطاء إسرائيلي]]></description>
             <content:encoded><![CDATA[مصدر أمني فلسطيني للجزيرة: القوة الخاصة انسحبت من منطقة الكتيبة بغزة على دراجات نارية تحت غطاء إسرائيلي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر أمني فلسطيني للجزيرة: فشل عملية إسرائيلية خاصة غربي مدينة غزة ونجاة مسؤول…]]></title>
-            <link>https://t.me/aljazeeraBrk/233306</link>
-            <guid isPermaLink="false">7a657a1e1730f9df24bab2940555ac5ffb76a966b5090fa0e712d7d27c3136df</guid>
-            <pubDate>Tue, 01 Sep 2026 09:32:02 GMT</pubDate>
-            <description><![CDATA[مصدر أمني فلسطيني للجزيرة: فشل عملية إسرائيلية خاصة غربي مدينة غزة ونجاة مسؤول أمني فلسطيني من محاولة اغتيال]]></description>
-            <content:encoded><![CDATA[مصدر أمني فلسطيني للجزيرة: فشل عملية إسرائيلية خاصة غربي مدينة غزة ونجاة مسؤول أمني فلسطيني من محاولة اغتيال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
