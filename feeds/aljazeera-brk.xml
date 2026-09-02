@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 18:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 18:55:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني بالرصاص في قرية المغير خلال هجوم…]]></title>
+            <link>https://t.me/aljazeeraBrk/233595</link>
+            <guid isPermaLink="false">0ac55ddb21d776ac9a7cf998bfc4339aade4a4083c52c93893bddb6a1ce0b819</guid>
+            <pubDate>Wed, 02 Sep 2026 18:50:02 GMT</pubDate>
+            <description><![CDATA[﻿الهلال الأحمر الفلسطيني: إصابة فلسطيني بالرصاص في قرية المغير خلال هجوم للمستوطنين وقوات الاحتلال]]></description>
+            <content:encoded><![CDATA[﻿الهلال الأحمر الفلسطيني: إصابة فلسطيني بالرصاص في قرية المغير خلال هجوم للمستوطنين وقوات الاحتلال]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: الأمر بسيط جدا إيران لا يمكنها أن تمتلك سلاحا نوويا]]></title>
             <link>https://t.me/aljazeeraBrk/233594</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 11:03:02 GMT</pubDate>
             <description><![CDATA[مصدر أمني في غزة للجزيرة: ننفي اعتقال مدير جهاز الأمن الداخلي في القطاع]]></description>
             <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: ننفي اعتقال مدير جهاز الأمن الداخلي في القطاع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة مقاومة الجدار والاستيطان: اعتداءات المستوطنين في الضفة الغربية ألحقت…]]></title>
-            <link>https://t.me/aljazeeraBrk/233325</link>
-            <guid isPermaLink="false">a6db0fc9e3ce5ff0f05be44817644152d5ab62907a9edeeba67371f9c2968149</guid>
-            <pubDate>Tue, 01 Sep 2026 11:00:02 GMT</pubDate>
-            <description><![CDATA[هيئة مقاومة الجدار والاستيطان: اعتداءات المستوطنين في الضفة الغربية ألحقت أضرارا مباشرة بـ164 فلسطينيا]]></description>
-            <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: اعتداءات المستوطنين في الضفة الغربية ألحقت أضرارا مباشرة بـ164 فلسطينيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
