@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 16:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 17:01:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب لهيئة البث الإسرائيلية: لا ينبغي لإسرائيل أن تقلق من تجدد الحرب مع إيران]]></title>
+            <link>https://t.me/aljazeeraBrk/233570</link>
+            <guid isPermaLink="false">cd51466d82139d686d77c84ea16588bd6e38279ed95b949eeee7a7ffded7d9da</guid>
+            <pubDate>Wed, 02 Sep 2026 17:01:02 GMT</pubDate>
+            <description><![CDATA[ترمب لهيئة البث الإسرائيلية: لا ينبغي لإسرائيل أن تقلق من تجدد الحرب مع إيران]]></description>
+            <content:encoded><![CDATA[ترمب لهيئة البث الإسرائيلية: لا ينبغي لإسرائيل أن تقلق من تجدد الحرب مع إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية البحرينية: ندين ونستنكر الهجوم الإيراني الآثم الذي استهدف ناقلة نفط…]]></title>
             <link>https://t.me/aljazeeraBrk/233569</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 08:42:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مسيرات الاحتلال ألقت عددا كبيرا من القنابل على منطقة الكتيبة غربي مدينة غزة]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مسيرات الاحتلال ألقت عددا كبيرا من القنابل على منطقة الكتيبة غربي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة البث الإسرائيلية: موجة استثنائية من الغارات الجوية على قطاع غزة خلال دعم…]]></title>
-            <link>https://t.me/aljazeeraBrk/233300</link>
-            <guid isPermaLink="false">9abfd987994e4fc2609f42344b9a5083990a925ccb5a8c5ed49a0ccd83c804b1</guid>
-            <pubDate>Tue, 01 Sep 2026 08:34:02 GMT</pubDate>
-            <description><![CDATA[هيئة البث الإسرائيلية: موجة استثنائية من الغارات الجوية على قطاع غزة خلال دعم أنشطة مليشيات مدعومة من إسرائيل]]></description>
-            <content:encoded><![CDATA[هيئة البث الإسرائيلية: موجة استثنائية من الغارات الجوية على قطاع غزة خلال دعم أنشطة مليشيات مدعومة من إسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
