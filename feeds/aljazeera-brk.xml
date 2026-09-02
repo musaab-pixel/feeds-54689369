@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 02 Sep 2026 20:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 20:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[واللا عن مصادر: رئيس أركان الجيش الإسرائيلي إيال زامير أصدر تعليماته برفع حالة…]]></title>
+            <link>https://t.me/aljazeeraBrk/233599</link>
+            <guid isPermaLink="false">dd7f11470fb508dd1e3e4a183a059d567a8f5ad5d3ab760afa1028f426bba00a</guid>
+            <pubDate>Wed, 02 Sep 2026 20:16:02 GMT</pubDate>
+            <description><![CDATA[واللا عن مصادر: رئيس أركان الجيش الإسرائيلي إيال زامير أصدر تعليماته برفع حالة التأهب في الضفة الغربية]]></description>
+            <content:encoded><![CDATA[واللا عن مصادر: رئيس أركان الجيش الإسرائيلي إيال زامير أصدر تعليماته برفع حالة التأهب في الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[محافظة القدس: قوات الاحتلال تقتحم بلدة الرام شمال القدس المحتلة]]></title>
+            <link>https://t.me/aljazeeraBrk/233598</link>
+            <guid isPermaLink="false">12c7d6cd45777f7d1b1b8f779275c8a48539ecac76cbb24d694c9f7c5e7b7b77</guid>
+            <pubDate>Wed, 02 Sep 2026 20:15:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: قوات الاحتلال تقتحم بلدة الرام شمال القدس المحتلة]]></description>
+            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تقتحم بلدة الرام شمال القدس المحتلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة الفلسطينية: استشهاد شاب وفتى برصاص قوات الاحتلال في بلدة المغير…]]></title>
             <link>https://t.me/aljazeeraBrk/233597</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 11:16:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية شمالي مدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية شمالي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر أمني في غزة للجزيرة: الاشتباك مع القوة الإسرائيلية أدى إلى وقوع شهداء…]]></title>
-            <link>https://t.me/aljazeeraBrk/233329</link>
-            <guid isPermaLink="false">8290636079c6cec36fcb908dad2e3934132d6d51abbd673ee96bfb8b736ae90f</guid>
-            <pubDate>Tue, 01 Sep 2026 11:06:02 GMT</pubDate>
-            <description><![CDATA[مصدر أمني في غزة للجزيرة: الاشتباك مع القوة الإسرائيلية أدى إلى وقوع شهداء وجرحى من المواطنين]]></description>
-            <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: الاشتباك مع القوة الإسرائيلية أدى إلى وقوع شهداء وجرحى من المواطنين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر أمني في غزة للجزيرة: الاحتلال استخدم غطاء ناريا للانسحاب بعد اشتباك عناصر…]]></title>
-            <link>https://t.me/aljazeeraBrk/233328</link>
-            <guid isPermaLink="false">d46d9064421e151dcf6bd35842093d4561fa26e123718fd4dab5ab157edc2033</guid>
-            <pubDate>Tue, 01 Sep 2026 11:05:02 GMT</pubDate>
-            <description><![CDATA[مصدر أمني في غزة للجزيرة: الاحتلال استخدم غطاء ناريا للانسحاب بعد اشتباك عناصر المقاومة مع القوة الخاصة]]></description>
-            <content:encoded><![CDATA[مصدر أمني في غزة للجزيرة: الاحتلال استخدم غطاء ناريا للانسحاب بعد اشتباك عناصر المقاومة مع القوة الخاصة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
