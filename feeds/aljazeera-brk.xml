@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 05:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 06:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 416 مسيرة أوكرانية…]]></title>
+            <link>https://t.me/aljazeeraBrk/233609</link>
+            <guid isPermaLink="false">3004f6df56bec8af9983a95670e2c7fb68b3f249d0197843b180cb767d2a3dfe</guid>
+            <pubDate>Thu, 03 Sep 2026 06:02:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 416 مسيرة أوكرانية فوق أراضي البلاد]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 416 مسيرة أوكرانية فوق أراضي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة…]]></title>
             <link>https://t.me/aljazeeraBrk/233608</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 12:09:02 GMT</pubDate>
             <description><![CDATA[بوتين: روسيا تحاول تقديم المساعدة لإيران وتزويدها بالسلع الضرورية في الوضع الصعب الذي تعيشه]]></description>
             <content:encoded><![CDATA[بوتين: روسيا تحاول تقديم المساعدة لإيران وتزويدها بالسلع الضرورية في الوضع الصعب الذي تعيشه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بوتين: الشعب الروسي متضامن مع الشعب الإيراني الذي يدافع عن مصالحه]]></title>
-            <link>https://t.me/aljazeeraBrk/233339</link>
-            <guid isPermaLink="false">00dfd1cdba2cf69d24e20190058da684f4c7f66cfec7d8ca09a51b7eb5bfc018</guid>
-            <pubDate>Tue, 01 Sep 2026 12:05:02 GMT</pubDate>
-            <description><![CDATA[بوتين: الشعب الروسي متضامن مع الشعب الإيراني الذي يدافع عن مصالحه]]></description>
-            <content:encoded><![CDATA[بوتين: الشعب الروسي متضامن مع الشعب الإيراني الذي يدافع عن مصالحه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
