@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 01:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 02:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وول ستريت جورنال عن مصادر مطلعة: وزير الحرب الأمريكي يمدد انتشار القوات…]]></title>
+            <link>https://t.me/aljazeeraBrk/233602</link>
+            <guid isPermaLink="false">83caf1d757ad72013b913189ea8d3222492765520b85dee5eb4244a6524ff913</guid>
+            <pubDate>Thu, 03 Sep 2026 01:57:02 GMT</pubDate>
+            <description><![CDATA[وول ستريت جورنال عن مصادر مطلعة: وزير الحرب الأمريكي يمدد انتشار القوات الأمريكية في الشرق الأوسط إلى عام 2027]]></description>
+            <content:encoded><![CDATA[وول ستريت جورنال عن مصادر مطلعة: وزير الحرب الأمريكي يمدد انتشار القوات الأمريكية في الشرق الأوسط إلى عام 2027]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الكويتي: الدفاعات الجوية تتصدى حاليا لهجمات صاروخية وطائرات مسيرة معادية…]]></title>
             <link>https://t.me/aljazeeraBrk/233601</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 11:31:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الخارجية الإيرانية: العقوبات الاقتصادية تؤثر على جوانب مختلفة في البلاد]]></description>
             <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: العقوبات الاقتصادية تؤثر على جوانب مختلفة في البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: جهود الوساطة من باكستان ودول أخرى مستمرة]]></title>
-            <link>https://t.me/aljazeeraBrk/233332</link>
-            <guid isPermaLink="false">122e57b0362a1cc674e17f5b5a8d281d293624a6e0e6f2cb3358a5673a407efd</guid>
-            <pubDate>Tue, 01 Sep 2026 11:24:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: جهود الوساطة من باكستان ودول أخرى مستمرة]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: جهود الوساطة من باكستان ودول أخرى مستمرة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
