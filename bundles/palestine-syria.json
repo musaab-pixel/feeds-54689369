@@ -5,6 +5,72 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "d25275c17fd18b2a4dcd82f9d9612924d8c427ce8ef6150e8889d9dc8ccf6885",
+            "content_html": "نتنياهو: مرتفعات علي الطاهر بجنوب لبنان لم تعد تشكل تهديدا لنا وقضينا على أعداد كبيرة من المسلحين",
+            "url": "https://t.me/aljazeeraBrk/233711",
+            "title": "نتنياهو: مرتفعات علي الطاهر بجنوب لبنان لم تعد تشكل تهديدا لنا وقضينا على أعداد…",
+            "summary": "نتنياهو: مرتفعات علي الطاهر بجنوب لبنان لم تعد تشكل تهديدا لنا وقضينا على أعداد كبيرة من المسلحين",
+            "date_modified": "2026-09-03T18:52:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7748a581863a29a12bcf9fb62ac2c0b6386d7b2897fa60d133221d1a0f950139",
+            "content_html": "سموتريتش للقناة 14 الإسرائيلية: سنضطر لخوض حرب في الضفة الغربية لتجريد الفلسطينيين من أسلحتهم",
+            "url": "https://t.me/aljazeeraBrk/233710",
+            "title": "سموتريتش للقناة 14 الإسرائيلية: سنضطر لخوض حرب في الضفة الغربية لتجريد…",
+            "summary": "سموتريتش للقناة 14 الإسرائيلية: سنضطر لخوض حرب في الضفة الغربية لتجريد الفلسطينيين من أسلحتهم",
+            "date_modified": "2026-09-03T18:48:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "9d7482c8758e9af4a39276620c27f5fabc41a6a36d55e0d4c2aae5ad730c58a5",
+            "content_html": "رئيسة البعثة الأممية في ليبيا للجزيرة: لم يصلنا رد من المجلس الأعلى رغم معارضة رئيسه للاتفاق",
+            "url": "https://t.me/aljazeeraBrk/233709",
+            "title": "رئيسة البعثة الأممية في ليبيا للجزيرة: لم يصلنا رد من المجلس الأعلى رغم معارضة…",
+            "summary": "رئيسة البعثة الأممية في ليبيا للجزيرة: لم يصلنا رد من المجلس الأعلى رغم معارضة رئيسه للاتفاق",
+            "date_modified": "2026-09-03T18:45:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "9b1a38e14e8bf1c045179f327c7b9ce7a9a4d369c7759c82510045527a2fce37",
+            "content_html": "رئيسة البعثة الأممية في ليبيا للجزيرة: إذا فشل الموقعون في تنفيذ اتفاق لجنة 4+4 فسنحتاج إلى آليات بديلة",
+            "url": "https://t.me/aljazeeraBrk/233708",
+            "title": "رئيسة البعثة الأممية في ليبيا للجزيرة: إذا فشل الموقعون في تنفيذ اتفاق لجنة 4+4…",
+            "summary": "رئيسة البعثة الأممية في ليبيا للجزيرة: إذا فشل الموقعون في تنفيذ اتفاق لجنة 4+4 فسنحتاج إلى آليات بديلة",
+            "date_modified": "2026-09-03T18:44:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "5f3d27ba88190a78948d735a5efd958d9bf66eb58dba82543ffff32adcc29fc4",
+            "content_html": "رئيسة البعثة الأممية في ليبيا للجزيرة: أطراف سياسية عديدة تجاوبت مع اتفاق 4+4 واعتبرته إيجابيا",
+            "url": "https://t.me/aljazeeraBrk/233707",
+            "title": "رئيسة البعثة الأممية في ليبيا للجزيرة: أطراف سياسية عديدة تجاوبت مع اتفاق 4+4…",
+            "summary": "رئيسة البعثة الأممية في ليبيا للجزيرة: أطراف سياسية عديدة تجاوبت مع اتفاق 4+4 واعتبرته إيجابيا",
+            "date_modified": "2026-09-03T18:42:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "bbdae20b86ffc36a457132f44a0143d6a40a41aac4270ce26c120c4596459cdb",
+            "content_html": "فانس: رغم خلافاتنا السياسية مع الصين إلا أنها مستعدة للتعاون معنا للضغط على الإيرانيين",
+            "url": "https://t.me/aljazeeraBrk/233706",
+            "title": "فانس: رغم خلافاتنا السياسية مع الصين إلا أنها مستعدة للتعاون معنا للضغط على…",
+            "summary": "فانس: رغم خلافاتنا السياسية مع الصين إلا أنها مستعدة للتعاون معنا للضغط على الإيرانيين",
+            "date_modified": "2026-09-03T18:42:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "218e00c72418dcb7d4bec60561367a8a02f54183a8849ff02ef8ab3077a8e29c",
             "content_html": "\"صُنّفت في قائمة المدارس المتميزة على مستوى المنافسة\".. الثانوية الشرعية الأولى للبنات بحلب تتأهل إلى تصفيات منافسات \"تحدي القراءة العربي\"  المقامة في دبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140195",
@@ -1560,73 +1626,6 @@
             "date_modified": "2026-09-03T06:15:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "b25974813d21e3d4e38a2c35b9abca99e0ccaf941b9985dbeb28a6ec920a7426",
-            "content_html": "<b>الإخبارية:</b> الأمن الداخلي يفرض حظر تجوّل في مدينة الشيخ مسكين بريف درعا عقب مشاجرة أدت لمقتل مدني على أن يستمر الحظر حتى الصباح<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140167",
-            "title": "الإخبارية: الأمن الداخلي يفرض حظر تجوّل في مدينة الشيخ مسكين بريف درعا عقب…",
-            "summary": "<b>الإخبارية:</b> الأمن الداخلي يفرض حظر تجوّل في مدينة الشيخ مسكين بريف درعا عقب مشاجرة أدت لمقتل مدني على أن يستمر الحظر حتى الصباح<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-03T06:06:12.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "3004f6df56bec8af9983a95670e2c7fb68b3f249d0197843b180cb767d2a3dfe",
-            "content_html": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 416 مسيرة أوكرانية فوق أراضي البلاد",
-            "url": "https://t.me/aljazeeraBrk/233609",
-            "title": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 416 مسيرة أوكرانية…",
-            "summary": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 416 مسيرة أوكرانية فوق أراضي البلاد",
-            "date_modified": "2026-09-03T06:02:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "de5b6efbea438e7aa144d03da6c238ff83b0e7ac36844d0c07f3b5770c8d1907",
-            "content_html": "القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة في البلاد",
-            "url": "https://t.me/aljazeeraBrk/233608",
-            "title": "القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة…",
-            "summary": "القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة في البلاد",
-            "date_modified": "2026-09-03T05:44:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7b0d32130e51091a1b226f171cf24c9e9fa91307343cef7361ca8aa7d23d6f9e",
-            "content_html": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إغلاق 14 معملًا وورشة مخالِفة لإعادة تدوير مخلفات البطاريات وصهر الرصاص في حي الشيخ سعيد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نؤكد استمرار الحملات الرقابية للحد من التلوث والأضرار الصحية والبيئية وحماية الصحة العامة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140166",
-            "title": "محافظة #حلب: 📌إغلاق 14 معملًا وورشة مخالِفة لإعادة تدوير مخلفات البطاريات وصهر…",
-            "summary": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إغلاق 14 معملًا وورشة مخالِفة لإعادة تدوير مخلفات البطاريات وصهر الرصاص في حي الشيخ سعيد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نؤكد استمرار الحملات الرقابية للحد من التلوث والأضرار الصحية والبيئية وحماية الصحة العامة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-03T05:18:24.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "1274274ff573181cd0741f4301aa6ea553e3c50f666fefc6707d8a1e2135e4e8",
-            "content_html": "القوات الحكومية اليمنية: نخوض مواجهات عنيفة مع جماعة_الحوثي في جبهة الكدحة غرب تعز",
-            "url": "https://t.me/aljazeeraBrk/233607",
-            "title": "القوات الحكومية اليمنية: نخوض مواجهات عنيفة مع جماعة_الحوثي في جبهة الكدحة غرب…",
-            "summary": "القوات الحكومية اليمنية: نخوض مواجهات عنيفة مع جماعة_الحوثي في جبهة الكدحة غرب تعز",
-            "date_modified": "2026-09-03T04:48:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "c601ec6726201f568b35921a84c6f31273094947b199c1d68b4dde6990add72d",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 03-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140165",
-            "title": "☀️ حالة الطقس في سوريا 03-09-2026 لمتابعة أحدث الأخبار والتطورات في سوريا…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 03-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/JLwv91Eg6xQwRDl7UeiZGHLQtB0mUKQFoQd0x6LoYKI-8uM0GZE3QdseC-bWTR1bIYTTOgImypQmK2rS2aZl1CnUumRggEjpNhTBUUZhqkSg24xfgijLcFHG9NO6unTEcmrhawklh_ryqLn_2-jpytQ-tQrRyR8uxrpBsIz-4bYLZ8OwAecthSOBm0lpsmKv7PvJLd7ZAS_G8GEPdKuCYbJY7DGU4MVF4auPJbUFxhKQsn9lYlCKCNI6x4eCoJoKqFxaSZTGLpqxvEanA4peYeuDu03NMUSnXBd7NQORM_lSZ6omFizq62aZKJDUpQ8u1YpZiuMnmZkLmW0NPYThPA.jpg",
-            "date_modified": "2026-09-03T04:37:17.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
