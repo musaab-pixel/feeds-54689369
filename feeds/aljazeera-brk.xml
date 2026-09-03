@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 11:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 11:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الجيش اللبناني تسلم عبر الصليب الأحمر مواطنا كان محتجزا لدى…]]></title>
+            <link>https://t.me/aljazeeraBrk/233640</link>
+            <guid isPermaLink="false">72dab3573ca74a767d5865cbd3b0316fb21fd94fb45ee83372ddf77951c6a6c9</guid>
+            <pubDate>Thu, 03 Sep 2026 11:18:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الجيش اللبناني تسلم عبر الصليب الأحمر مواطنا كان محتجزا لدى القوات الإسرائيلية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الجيش اللبناني تسلم عبر الصليب الأحمر مواطنا كان محتجزا لدى القوات الإسرائيلية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: قوات الاحتلال اعتقلت عددا من موظفي بلدية حزما شمالي القدس المحتلة…]]></title>
             <link>https://t.me/aljazeeraBrk/233639</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 15:43:03 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الروماني للجزيرة: لا نتحدث عن التمويل فقط بل عن سرعة إنتاج الأسلحة]]></description>
             <content:encoded><![CDATA[وزير الدفاع الروماني للجزيرة: لا نتحدث عن التمويل فقط بل عن سرعة إنتاج الأسلحة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع الروماني للجزيرة: سيتم تخصيص ميزانية جديدة لشراء ما تحتاج إليه…]]></title>
-            <link>https://t.me/aljazeeraBrk/233372</link>
-            <guid isPermaLink="false">2b218355a9e2b35ad8806825788430d9bc545cd89f1d9e30684a10f50b611ce5</guid>
-            <pubDate>Tue, 01 Sep 2026 15:43:02 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع الروماني للجزيرة: سيتم تخصيص ميزانية جديدة لشراء ما تحتاج إليه أوكرانيا]]></description>
-            <content:encoded><![CDATA[وزير الدفاع الروماني للجزيرة: سيتم تخصيص ميزانية جديدة لشراء ما تحتاج إليه أوكرانيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
