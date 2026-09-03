@@ -4,7 +4,7 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 21:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 21:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1015,6 +1015,15 @@
             <description><![CDATA[Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.]]></description>
             <content:encoded><![CDATA[Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/05-01-2021-UNHCR-Aleppo-Syria.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon–Israel tensions escalate as Gaza sees major aid delivery]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168275</link>
+            <guid isPermaLink="false">69d1e71576d25411e0243f6c6856350926116aa576dab7ed5caf7467972ab12e</guid>
+            <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.]]></description>
+            <content:encoded><![CDATA[Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/01-06-2026-UNIFIL-Lebanon.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[وزارة الخارجية: وزير الخارجية أسعد الشيباني يستقبل سفير أوزبكستان لدى سوريا…]]></title>
@@ -2069,15 +2078,6 @@
             <pubDate>Thu, 03 Sep 2026 07:15:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: قواتنا تستهدف سفينتي شحن أوكرانيتين في البحر الأسود]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: قواتنا تستهدف سفينتي شحن أوكرانيتين في البحر الأسود]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: لن نبادر إلى خفض مستوى العلاقات الدبلوماسية مع ألمانيا ولا حديث عن…]]></title>
-            <link>https://t.me/aljazeeraBrk/233613</link>
-            <guid isPermaLink="false">13bac0f83ed0cdc72d8b2d8fc73e3dad4be70f9c738dd07e1303a46ee1de4bbd</guid>
-            <pubDate>Thu, 03 Sep 2026 06:54:02 GMT</pubDate>
-            <description><![CDATA[الكرملين: لن نبادر إلى خفض مستوى العلاقات الدبلوماسية مع ألمانيا ولا حديث عن ذلك حاليا في برلين]]></description>
-            <content:encoded><![CDATA[الكرملين: لن نبادر إلى خفض مستوى العلاقات الدبلوماسية مع ألمانيا ولا حديث عن ذلك حاليا في برلين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
