@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 06:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 06:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حاكم زابوروجيا: مقتل شخص وإصابة آخر في هجوم بمسيرة روسية استهدف سيارة مدنية]]></title>
+            <link>https://t.me/aljazeeraBrk/233611</link>
+            <guid isPermaLink="false">6dba5e405fa849a1793832413368035ab841de85a7c5897bb9facb97f9ab8564</guid>
+            <pubDate>Thu, 03 Sep 2026 06:21:02 GMT</pubDate>
+            <description><![CDATA[حاكم زابوروجيا: مقتل شخص وإصابة آخر في هجوم بمسيرة روسية استهدف سيارة مدنية]]></description>
+            <content:encoded><![CDATA[حاكم زابوروجيا: مقتل شخص وإصابة آخر في هجوم بمسيرة روسية استهدف سيارة مدنية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تاس عن وزارة الخارجية الروسية: مصادرة النرويج سفينة روسية تعتبر قرصنة]]></title>
             <link>https://t.me/aljazeeraBrk/233610</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 12:24:02 GMT</pubDate>
             <description><![CDATA[وكالة الأنباء السعودية: ولي العهد بحث في جدة مع سلطان عمان التطورات بالمنطقة وجهود الحفاظ على أمنها واستقرارها]]></description>
             <content:encoded><![CDATA[وكالة الأنباء السعودية: ولي العهد بحث في جدة مع سلطان عمان التطورات بالمنطقة وجهود الحفاظ على أمنها واستقرارها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على منطقة الفالوجا…]]></title>
-            <link>https://t.me/aljazeeraBrk/233341</link>
-            <guid isPermaLink="false">b4469a01c559c13d6e9100f7ac6c7dc267b7128edc3ef17a17aa1746de7c2d4f</guid>
-            <pubDate>Tue, 01 Sep 2026 12:14:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على منطقة الفالوجا شمالي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على منطقة الفالوجا شمالي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
