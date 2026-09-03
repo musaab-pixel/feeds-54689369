@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 04:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 05:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/233608</link>
+            <guid isPermaLink="false">de5b6efbea438e7aa144d03da6c238ff83b0e7ac36844d0c07f3b5770c8d1907</guid>
+            <pubDate>Thu, 03 Sep 2026 05:44:02 GMT</pubDate>
+            <description><![CDATA[القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة في البلاد]]></description>
+            <content:encoded><![CDATA[القوات الجوية الأوكرانية: أسقطنا 135 مسيرة روسية الليلة الماضية فوق مناطق عدة في البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات عنيفة مع جماعة_الحوثي في جبهة الكدحة غرب…]]></title>
             <link>https://t.me/aljazeeraBrk/233607</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 12:05:02 GMT</pubDate>
             <description><![CDATA[بوتين: الشعب الروسي متضامن مع الشعب الإيراني الذي يدافع عن مصالحه]]></description>
             <content:encoded><![CDATA[بوتين: الشعب الروسي متضامن مع الشعب الإيراني الذي يدافع عن مصالحه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بوتين خلال لقائه بزشكيان: روسيا وإيران تحافظان على علاقاتهما الاقتصادية رغم…]]></title>
-            <link>https://t.me/aljazeeraBrk/233338</link>
-            <guid isPermaLink="false">01a7dad154ab5b23a0da162ea36fdce229696daca8219a3ac523c8cb4df42459</guid>
-            <pubDate>Tue, 01 Sep 2026 12:04:02 GMT</pubDate>
-            <description><![CDATA[بوتين خلال لقائه بزشكيان: روسيا وإيران تحافظان على علاقاتهما الاقتصادية رغم الظروف العسكرية والسياسية الراهنة]]></description>
-            <content:encoded><![CDATA[بوتين خلال لقائه بزشكيان: روسيا وإيران تحافظان على علاقاتهما الاقتصادية رغم الظروف العسكرية والسياسية الراهنة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
