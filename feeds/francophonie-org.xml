@@ -4,10 +4,328 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 10:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 10:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Synthèse des recrutements ouverts en 2025]]></title>
+            <link>https://www.francophonie.org/node/8645</link>
+            <guid isPermaLink="false">b23eb6651279750fbbf1de8f86efd323350a62a637de9f457a65c6cd10b928e2</guid>
+            <pubDate>Thu, 03 Sep 2026 10:49:53 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Synthèse des recrutements ouverts en 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:49</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Synthese_recrutements_2025.pdf" type="application/pdf; length=192703">Synthese_recrutements_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/496" hreflang="fr">Recrutements</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Synthèse des recrutements ouverts en 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:49</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Synthese_recrutements_2025.pdf" type="application/pdf; length=192703">Synthese_recrutements_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/496" hreflang="fr">Recrutements</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Synthèse des financements extrabudgétaires 2025]]></title>
+            <link>https://www.francophonie.org/node/8644</link>
+            <guid isPermaLink="false">709cf7d1d65150f5f77e51b0919142afd0d08eca1ff6d5576ff98cb758fc3f29</guid>
+            <pubDate>Thu, 03 Sep 2026 10:48:53 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Synthèse des financements extrabudgétaires 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:48</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Synthese_contributions_extrabudgetaires_2025.pdf" type="application/pdf; length=241684">Synthese_contributions_extrabudgetaires_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/433" hreflang="fr">Fonds extrabudgétaires</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Synthèse des financements extrabudgétaires 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:48</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Synthese_contributions_extrabudgetaires_2025.pdf" type="application/pdf; length=241684">Synthese_contributions_extrabudgetaires_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/433" hreflang="fr">Fonds extrabudgétaires</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Synthèse du compte rendu d'exécution de la programmation 2025]]></title>
+            <link>https://www.francophonie.org/node/8643</link>
+            <guid isPermaLink="false">ba20aa1131f613c05878052583cc0003ea042d3d6bc9ae288803d12f2b0e8eee</guid>
+            <pubDate>Thu, 03 Sep 2026 10:46:59 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Synthèse du compte rendu d'exécution de la programmation 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:46</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Synthese_compte-rendu_execution_programmation_2025.pdf" type="application/pdf; length=1442420">Synthese_compte-rendu_execution_programmation_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/420" hreflang="fr">Comptes-rendus d'exécution</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Synthèse du compte rendu d'exécution de la programmation 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:46</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Synthese_compte-rendu_execution_programmation_2025.pdf" type="application/pdf; length=1442420">Synthese_compte-rendu_execution_programmation_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/420" hreflang="fr">Comptes-rendus d'exécution</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Compte rendu d'exécution de la programmation 2025]]></title>
+            <link>https://www.francophonie.org/node/8642</link>
+            <guid isPermaLink="false">3dbd8f9a925ea49e0008f4446cb6c47a3cfa5f9116b0e1be1c4ccb1a2cefca4b</guid>
+            <pubDate>Thu, 03 Sep 2026 10:45:43 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Compte rendu d'exécution de la programmation 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:45</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Compte-rendu_execution_programmation_2025.pdf" type="application/pdf; length=8420612">Compte-rendu_execution_programmation_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/420" hreflang="fr">Comptes-rendus d'exécution</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Compte rendu d'exécution de la programmation 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:45</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Compte-rendu_execution_programmation_2025.pdf" type="application/pdf; length=8420612">Compte-rendu_execution_programmation_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/420" hreflang="fr">Comptes-rendus d'exécution</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Directive - Déplacements professionnels]]></title>
+            <link>https://www.francophonie.org/node/8641</link>
+            <guid isPermaLink="false">52fbbd6207e3073fb929cac11b6493dd0747db7c49dbdd1cc1daf57b29ccdf23</guid>
+            <pubDate>Thu, 03 Sep 2026 10:41:56 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Directive - Déplacements professionnels</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:41</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Directive_deplacements_professionnels.pdf" type="application/pdf; length=579176">Directive_deplacements_professionnels.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/64" hreflang="fr">Règlement et directives financiers</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Directive - Déplacements professionnels</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:41</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Directive_deplacements_professionnels.pdf" type="application/pdf; length=579176">Directive_deplacements_professionnels.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/64" hreflang="fr">Règlement et directives financiers</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Rapport du comité d'audit 2025]]></title>
+            <link>https://www.francophonie.org/node/8640</link>
+            <guid isPermaLink="false">c6fbd20b2ca871412986639fd67eaf53963dede693475563559e312dc6f001c8</guid>
+            <pubDate>Thu, 03 Sep 2026 10:40:18 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Rapport du comité d'audit 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:40</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Rapport_Comite_audit_2025.pdf" type="application/pdf; length=3042453">Rapport_Comite_audit_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/508" hreflang="fr">Audit interne</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Rapport du comité d'audit 2025</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 03/09/2026 - 10:40</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Rapport_Comite_audit_2025.pdf" type="application/pdf; length=3042453">Rapport_Comite_audit_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/508" hreflang="fr">Audit interne</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Charte du Comité d’audit et d'éthique]]></title>
             <link>https://www.francophonie.org/node/8639</link>
