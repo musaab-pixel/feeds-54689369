@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "c601ec6726201f568b35921a84c6f31273094947b199c1d68b4dde6990add72d",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 03-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140165",
+            "title": "☀️ حالة الطقس في سوريا 03-09-2026 لمتابعة أحدث الأخبار والتطورات في سوريا…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 03-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/JLwv91Eg6xQwRDl7UeiZGHLQtB0mUKQFoQd0x6LoYKI-8uM0GZE3QdseC-bWTR1bIYTTOgImypQmK2rS2aZl1CnUumRggEjpNhTBUUZhqkSg24xfgijLcFHG9NO6unTEcmrhawklh_ryqLn_2-jpytQ-tQrRyR8uxrpBsIz-4bYLZ8OwAecthSOBm0lpsmKv7PvJLd7ZAS_G8GEPdKuCYbJY7DGU4MVF4auPJbUFxhKQsn9lYlCKCNI6x4eCoJoKqFxaSZTGLpqxvEanA4peYeuDu03NMUSnXBd7NQORM_lSZ6omFizq62aZKJDUpQ8u1YpZiuMnmZkLmW0NPYThPA.jpg",
+            "date_modified": "2026-09-03T04:37:17.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "5e3217a1551e66bde5f0b05eca984fd5b3a4b2959b985d1e83ea783b79b9f2f2",
             "content_html": "القوات الحكومية اليمنية: القوات المسلحة أخمدت مصادر النيران والتهديدات الحوثية في الكدحة غربي تعز وسط اشتباكات",
             "url": "https://t.me/aljazeeraBrk/233606",
@@ -1623,17 +1635,6 @@
             "title": "القوات الجوية الأوكرانية: إسقاط 141 مسيرة روسية فوق مناطق عدة بالبلاد الليلة…",
             "summary": "القوات الجوية الأوكرانية: إسقاط 141 مسيرة روسية فوق مناطق عدة بالبلاد الليلة الماضية",
             "date_modified": "2026-09-02T06:05:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "d4e1f30abf2de5a03e92b6d998ad4172f2a47c23bb8eb48c48d1dadd17291514",
-            "content_html": "﻿الإطفاء الكويتي: السيطرة على حريق اندلع في مجمع سكني بإحدى مناطق العاصمة بعد استهدافه بمسيرة إيرانية",
-            "url": "https://t.me/aljazeeraBrk/233496",
-            "title": "الإطفاء الكويتي: السيطرة على حريق اندلع في مجمع سكني بإحدى مناطق العاصمة بعد…",
-            "summary": "﻿الإطفاء الكويتي: السيطرة على حريق اندلع في مجمع سكني بإحدى مناطق العاصمة بعد استهدافه بمسيرة إيرانية",
-            "date_modified": "2026-09-02T06:00:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
