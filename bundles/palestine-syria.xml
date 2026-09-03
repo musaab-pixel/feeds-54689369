@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 22:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 22:54:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارتان إسرائيليتان على مناطق سيطرة الاحتلال في حي التفاح شرقي…]]></title>
+            <link>https://t.me/aljazeeraBrk/233723</link>
+            <guid isPermaLink="false">fc2031472dd517b27ab496a703ac2ec77549a4023f1ea170a6832cfe46ce98bb</guid>
+            <pubDate>Thu, 03 Sep 2026 22:47:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارتان إسرائيليتان على مناطق سيطرة الاحتلال في حي التفاح شرقي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارتان إسرائيليتان على مناطق سيطرة الاحتلال في حي التفاح شرقي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: تعيين مساعد وزير الجيش آدم تيل وزيرا للجيش بالوكالة]]></title>
             <link>https://t.me/aljazeeraBrk/233722</link>
@@ -2081,15 +2090,6 @@
             <pubDate>Thu, 03 Sep 2026 07:50:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء الإسباني: استدعينا السفير المغربي في مدريد احتجاجا على تصريحات وزيرين مغربيين بشأن سبتة ومليلية]]></description>
             <content:encoded><![CDATA[رئيس الوزراء الإسباني: استدعينا السفير المغربي في مدريد احتجاجا على تصريحات وزيرين مغربيين بشأن سبتة ومليلية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الكويتية: اعتداءات إيران تعكس نهجا عدائيا يهدد أمن المنطقة ونحتفظ…]]></title>
-            <link>https://t.me/aljazeeraBrk/233619</link>
-            <guid isPermaLink="false">42d2e4f578b1f6ba31a5c69ba0cbe79a9d88230456d486d3c33f9d088509f750</guid>
-            <pubDate>Thu, 03 Sep 2026 07:43:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الكويتية: اعتداءات إيران تعكس نهجا عدائيا يهدد أمن المنطقة ونحتفظ بحقنا في اتخاذ إجراءات ضد أي تهديد]]></description>
-            <content:encoded><![CDATA[الخارجية الكويتية: اعتداءات إيران تعكس نهجا عدائيا يهدد أمن المنطقة ونحتفظ بحقنا في اتخاذ إجراءات ضد أي تهديد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
