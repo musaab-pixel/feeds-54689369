@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 21:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 22:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام يمنية: اشتباكات بين القوات الحكومية اليمنية والحوثيين في جنوب…]]></title>
+            <link>https://t.me/aljazeeraBrk/233719</link>
+            <guid isPermaLink="false">e115cf6ad68b12248e6f03713a862fa1f02ca34a7a3f9f060c4f085430a49829</guid>
+            <pubDate>Thu, 03 Sep 2026 22:04:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام يمنية: اشتباكات بين القوات الحكومية اليمنية والحوثيين في جنوب محافظة الحديدة]]></description>
+            <content:encoded><![CDATA[وسائل إعلام يمنية: اشتباكات بين القوات الحكومية اليمنية والحوثيين في جنوب محافظة الحديدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[جيروزاليم بوست عن السفير الأمريكي بإسرائيل: ستكون هناك عواقب وخيمة لأعمال العنف…]]></title>
             <link>https://t.me/aljazeeraBrk/233718</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 02 Sep 2026 07:40:02 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الإسرائيلي: إيران قد تهاجمنا خلال الأعياد اليهودية ونحن نراقبها يوميا ومستعدون للرد على أي هجوم]]></description>
             <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: إيران قد تهاجمنا خلال الأعياد اليهودية ونحن نراقبها يوميا ومستعدون للرد على أي هجوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في مستشفى الشفاء: مصاب برصاص قوات الاحتلال في مخيم جباليا شمالي قطاع غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/233509</link>
-            <guid isPermaLink="false">8e09d062e72e821f4ff610e512efd91afc144d60410fbc34c1785b5b228bb8cd</guid>
-            <pubDate>Wed, 02 Sep 2026 07:35:02 GMT</pubDate>
-            <description><![CDATA[مصدر في مستشفى الشفاء: مصاب برصاص قوات الاحتلال في مخيم جباليا شمالي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في مستشفى الشفاء: مصاب برصاص قوات الاحتلال في مخيم جباليا شمالي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
