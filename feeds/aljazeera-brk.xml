@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 15:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 15:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر أمني لبناني: لبنان سيتسلم غدا الجمعة ٤ محتجزين لدى إسرائيل بواسطة الصليب…]]></title>
+            <link>https://t.me/aljazeeraBrk/233667</link>
+            <guid isPermaLink="false">d81845687672b3465460fa125d8a566425d5638f085e5f2a28995ffc9b610429</guid>
+            <pubDate>Thu, 03 Sep 2026 15:21:02 GMT</pubDate>
+            <description><![CDATA[مصدر أمني لبناني: لبنان سيتسلم غدا الجمعة ٤ محتجزين لدى إسرائيل بواسطة الصليب الأحمر الدولي]]></description>
+            <content:encoded><![CDATA[مصدر أمني لبناني: لبنان سيتسلم غدا الجمعة ٤ محتجزين لدى إسرائيل بواسطة الصليب الأحمر الدولي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: الذين يروجون لفكرة أننا لا نملك ذخيرة يفضلون خسارتنا في حرب ننتصر فيها…]]></title>
             <link>https://t.me/aljazeeraBrk/233666</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 18:07:02 GMT</pubDate>
             <description><![CDATA[ترمب لفوكس نيوز: ضربة اليوم لإيران كبيرة جدا وإن تكرر الأمر ستمحى كليا]]></description>
             <content:encoded><![CDATA[ترمب لفوكس نيوز: ضربة اليوم لإيران كبيرة جدا وإن تكرر الأمر ستمحى كليا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب لفوكس نيوز: الاتفاق مع الإيرانيين لا يساوي الورق الذي كتب عليه ومنحناهم…]]></title>
-            <link>https://t.me/aljazeeraBrk/233415</link>
-            <guid isPermaLink="false">103fbf19aa3fec3a27ba214f867ac09572d87edc6dc6c3010a0b1b6cc74cedb0</guid>
-            <pubDate>Tue, 01 Sep 2026 18:07:02 GMT</pubDate>
-            <description><![CDATA[ترمب لفوكس نيوز: الاتفاق مع الإيرانيين لا يساوي الورق الذي كتب عليه ومنحناهم فرصا كثيرة]]></description>
-            <content:encoded><![CDATA[ترمب لفوكس نيوز: الاتفاق مع الإيرانيين لا يساوي الورق الذي كتب عليه ومنحناهم فرصا كثيرة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
