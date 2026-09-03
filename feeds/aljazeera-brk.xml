@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 10:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 11:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر أمني لبناني للجزيرة: الجيش سيتسلم عبر الصليب الأحمر مواطنا لبنانيا كان…]]></title>
+            <link>https://t.me/aljazeeraBrk/233637</link>
+            <guid isPermaLink="false">86ae0baf6afd74aa7ca6c11a99cc6b86973c53768725ca60dd9a74b2eb6c5915</guid>
+            <pubDate>Thu, 03 Sep 2026 11:04:02 GMT</pubDate>
+            <description><![CDATA[مصدر أمني لبناني للجزيرة: الجيش سيتسلم عبر الصليب الأحمر مواطنا لبنانيا كان محتجزا لدى القوات الإسرائيلية]]></description>
+            <content:encoded><![CDATA[مصدر أمني لبناني للجزيرة: الجيش سيتسلم عبر الصليب الأحمر مواطنا لبنانيا كان محتجزا لدى القوات الإسرائيلية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء اليمنية: الجيش أسقط 3 مسيرات حوثية بمديرية جبل حبشي في تعز]]></title>
             <link>https://t.me/aljazeeraBrk/233636</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 15:25:02 GMT</pubDate>
             <description><![CDATA[حماس: قيادة الحركة أجرت اتصالات مع الوسطاء ومع السيد نيكولاي ملادينوف استنكرت فيها عملية الاحتلال بغزة]]></description>
             <content:encoded><![CDATA[حماس: قيادة الحركة أجرت اتصالات مع الوسطاء ومع السيد نيكولاي ملادينوف استنكرت فيها عملية الاحتلال بغزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: الحركة شددت على أن استمرار الاعتداءات يضع الوسطاء والضامنين أمام مسؤولية…]]></title>
-            <link>https://t.me/aljazeeraBrk/233369</link>
-            <guid isPermaLink="false">05bcbffe5788d5ab53f114c3e787a64dfb155fdc1edb2d9b58f97bce68776b95</guid>
-            <pubDate>Tue, 01 Sep 2026 15:24:01 GMT</pubDate>
-            <description><![CDATA[حماس: الحركة شددت على أن استمرار الاعتداءات يضع الوسطاء والضامنين أمام مسؤولية عاجلة للتحرك لوقف العدوان]]></description>
-            <content:encoded><![CDATA[حماس: الحركة شددت على أن استمرار الاعتداءات يضع الوسطاء والضامنين أمام مسؤولية عاجلة للتحرك لوقف العدوان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
