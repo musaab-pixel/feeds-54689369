@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "7b0d32130e51091a1b226f171cf24c9e9fa91307343cef7361ca8aa7d23d6f9e",
+            "content_html": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إغلاق 14 معملًا وورشة مخالِفة لإعادة تدوير مخلفات البطاريات وصهر الرصاص في حي الشيخ سعيد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نؤكد استمرار الحملات الرقابية للحد من التلوث والأضرار الصحية والبيئية وحماية الصحة العامة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140166",
+            "title": "محافظة #حلب: 📌إغلاق 14 معملًا وورشة مخالِفة لإعادة تدوير مخلفات البطاريات وصهر…",
+            "summary": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إغلاق 14 معملًا وورشة مخالِفة لإعادة تدوير مخلفات البطاريات وصهر الرصاص في حي الشيخ سعيد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نؤكد استمرار الحملات الرقابية للحد من التلوث والأضرار الصحية والبيئية وحماية الصحة العامة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-03T05:18:24.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "1274274ff573181cd0741f4301aa6ea553e3c50f666fefc6707d8a1e2135e4e8",
             "content_html": "القوات الحكومية اليمنية: نخوض مواجهات عنيفة مع جماعة_الحوثي في جبهة الكدحة غرب تعز",
             "url": "https://t.me/aljazeeraBrk/233607",
@@ -1624,17 +1635,6 @@
             "title": "الخارجية القطرية: قطر تدين بأشد العبارات تجدد الاعتداءات الإيرانية على أراضي…",
             "summary": "الخارجية القطرية: قطر تدين بأشد العبارات تجدد الاعتداءات الإيرانية على أراضي عدد من الدول الشقيقة",
             "date_modified": "2026-09-02T06:31:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "43ed10d6045533ec4d50fc52e1bd17be0258415320fe7b8e24bd089b6f8957e4",
-            "content_html": "حاكم زابوروجيا: مقتل شخصين وإصابة 11 آخرين في هجمات للقوات الروسية على المدينة ومحيطها",
-            "url": "https://t.me/aljazeeraBrk/233498",
-            "title": "حاكم زابوروجيا: مقتل شخصين وإصابة 11 آخرين في هجمات للقوات الروسية على المدينة…",
-            "summary": "حاكم زابوروجيا: مقتل شخصين وإصابة 11 آخرين في هجمات للقوات الروسية على المدينة ومحيطها",
-            "date_modified": "2026-09-02T06:22:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
