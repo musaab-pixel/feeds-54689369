@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 21:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 21:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[جيروزاليم بوست عن السفير الأمريكي بإسرائيل: ستكون هناك عواقب وخيمة لأعمال العنف…]]></title>
+            <link>https://t.me/aljazeeraBrk/233718</link>
+            <guid isPermaLink="false">a6bfc327bca79d21f42ac89227a09720be4375223030f4260d2641e3592102fd</guid>
+            <pubDate>Thu, 03 Sep 2026 21:44:02 GMT</pubDate>
+            <description><![CDATA[جيروزاليم بوست عن السفير الأمريكي بإسرائيل: ستكون هناك عواقب وخيمة لأعمال العنف التي يرتكبها إسرائيليون بالضفة]]></description>
+            <content:encoded><![CDATA[جيروزاليم بوست عن السفير الأمريكي بإسرائيل: ستكون هناك عواقب وخيمة لأعمال العنف التي يرتكبها إسرائيليون بالضفة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الحكومي اليمني: وصول قوات من العمالقة ودرع الوطن لدعم جبهتي تعز…]]></title>
             <link>https://t.me/aljazeeraBrk/233717</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 02 Sep 2026 07:35:02 GMT</pubDate>
             <description><![CDATA[مصدر في مستشفى الشفاء: مصاب برصاص قوات الاحتلال في مخيم جباليا شمالي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في مستشفى الشفاء: مصاب برصاص قوات الاحتلال في مخيم جباليا شمالي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس بلدية بيت ريما شمال رام الله للجزيرة: إصابة 3 فلسطينيين برصاص قوات…]]></title>
-            <link>https://t.me/aljazeeraBrk/233508</link>
-            <guid isPermaLink="false">effc544fcea80a836d185193d46e172170b6c1df6bd31393a320a3dac0c76f7c</guid>
-            <pubDate>Wed, 02 Sep 2026 07:32:02 GMT</pubDate>
-            <description><![CDATA[رئيس بلدية بيت ريما شمال رام الله للجزيرة: إصابة 3 فلسطينيين برصاص قوات الاحتلال خلال مداهمتها القرية]]></description>
-            <content:encoded><![CDATA[رئيس بلدية بيت ريما شمال رام الله للجزيرة: إصابة 3 فلسطينيين برصاص قوات الاحتلال خلال مداهمتها القرية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
