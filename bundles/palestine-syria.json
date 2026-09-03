@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "9dc9c3643fa258c15c782aff977d01417c5c75f6e1bc6a3a1e9a5672d1890a66",
+            "content_html": "متحدث باسم الخارجية الأمريكية للجزيرة: إسرائيل ولبنان أجريا في محادثات روما مباحثات مباشرة بشأن قضايا مدنية",
+            "url": "https://t.me/aljazeeraBrk/233684",
+            "title": "متحدث باسم الخارجية الأمريكية للجزيرة: إسرائيل ولبنان أجريا في محادثات روما…",
+            "summary": "متحدث باسم الخارجية الأمريكية للجزيرة: إسرائيل ولبنان أجريا في محادثات روما مباحثات مباشرة بشأن قضايا مدنية",
+            "date_modified": "2026-09-03T17:20:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "1eae9855f3b47ea5df14d701de8f16687fbbf1b7c8072aa02a37c5edeef23037",
+            "content_html": "متحدث باسم الخارجية الأمريكية للجزيرة: إسرائيل تفرج عن معتقلين ولبنان يساعدها لاستعادة رفات مفقودة بوساطتنا",
+            "url": "https://t.me/aljazeeraBrk/233683",
+            "title": "متحدث باسم الخارجية الأمريكية للجزيرة: إسرائيل تفرج عن معتقلين ولبنان يساعدها…",
+            "summary": "متحدث باسم الخارجية الأمريكية للجزيرة: إسرائيل تفرج عن معتقلين ولبنان يساعدها لاستعادة رفات مفقودة بوساطتنا",
+            "date_modified": "2026-09-03T17:17:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "8a666544fa05c32798378b22a8298be00646dae19dbf75ba5ead372350895725",
+            "content_html": "متحدث باسم الخارجية الأمريكية للجزيرة: حزب الله تسبب عام 2006 بدمار جنوب لبنان إثر  محاولته اختطاف إسرائيليين",
+            "url": "https://t.me/aljazeeraBrk/233682",
+            "title": "متحدث باسم الخارجية الأمريكية للجزيرة: حزب الله تسبب عام 2006 بدمار جنوب لبنان…",
+            "summary": "متحدث باسم الخارجية الأمريكية للجزيرة: حزب الله تسبب عام 2006 بدمار جنوب لبنان إثر  محاولته اختطاف إسرائيليين",
+            "date_modified": "2026-09-03T17:15:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "57a1a2ca04d1822e6b56127574ca677f1dbee434740bf2a7bdfcb73da4d4ddbe",
             "content_html": "سموتريتش: تدشين مستوطنة معاليه عروغوت التي تربط بين شرق غوش عتصيون وغربها وتمنع تواصل الإرهاب الفلسطيني",
             "url": "https://t.me/aljazeeraBrk/233681",
@@ -634,6 +667,15 @@
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
+        },
+        {
+            "id": "88281f7050bd27651822c3e9840d8296a96eb12d8449b722e00081a54de23434",
+            "content_html": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council meets Thursday at 10am (local time) to be briefed on latest developments and discuss the way ahead.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+            "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+            "summary": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council meets Thursday at 10am (local time) to be briefed on latest developments and discuss the way ahead.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/05-01-2021-UNHCR-Aleppo-Syria.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-03T12:00:00.000Z"
         },
         {
             "id": "f5dbeac3c036f3227b642304a89d49889339cbcddd19083322969ba2b3eef7f5",
@@ -1570,50 +1612,6 @@
             "title": "ترمب: الأمر بسيط جدا إيران لا يمكنها أن تمتلك سلاحا نوويا",
             "summary": "ترمب: الأمر بسيط جدا إيران لا يمكنها أن تمتلك سلاحا نوويا",
             "date_modified": "2026-09-02T18:27:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "118f656be0eb437707c04be78cb7b1902022005320c7d2c1d62105f502b0d523",
-            "content_html": "ترمب: نخرج يوميا العديد من السفن محملة بملايين براميل النفط عبر هرمز ونقوم بذلك من دون مشاكل في معظم الحالات",
-            "url": "https://t.me/aljazeeraBrk/233593",
-            "title": "ترمب: نخرج يوميا العديد من السفن محملة بملايين براميل النفط عبر هرمز ونقوم بذلك…",
-            "summary": "ترمب: نخرج يوميا العديد من السفن محملة بملايين براميل النفط عبر هرمز ونقوم بذلك من دون مشاكل في معظم الحالات",
-            "date_modified": "2026-09-02T18:26:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "95435ad57ac0b1baf7bc001ea49de21f204de87602ac75199cede536f141689a",
-            "content_html": "ترمب: هجوم الليلة الماضية كان عنيفا جدا ومستعدون لتنفيذ هجوم آخر في أي وقت نريد",
-            "url": "https://t.me/aljazeeraBrk/233592",
-            "title": "ترمب: هجوم الليلة الماضية كان عنيفا جدا ومستعدون لتنفيذ هجوم آخر في أي وقت نريد",
-            "summary": "ترمب: هجوم الليلة الماضية كان عنيفا جدا ومستعدون لتنفيذ هجوم آخر في أي وقت نريد",
-            "date_modified": "2026-09-02T18:25:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "58fa0a4a77cea41dd9deb7eb3613aec4d9b1b524e99b09bc93e878384e95c8ac",
-            "content_html": "ترمب: إيران كانت تحاول بناء صاروخ يسقط ألغاما وقد دمرناه",
-            "url": "https://t.me/aljazeeraBrk/233589",
-            "title": "ترمب: إيران كانت تحاول بناء صاروخ يسقط ألغاما وقد دمرناه",
-            "summary": "ترمب: إيران كانت تحاول بناء صاروخ يسقط ألغاما وقد دمرناه",
-            "date_modified": "2026-09-02T18:24:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2cb87d1008cce9f50fd106c10943ad70181a50b858a11ddffcdcb2df025f4bc2",
-            "content_html": "ترمب: مستعدون لشن هجوم آخر على إيران",
-            "url": "https://t.me/aljazeeraBrk/233590",
-            "title": "ترمب: مستعدون لشن هجوم آخر على إيران",
-            "summary": "ترمب: مستعدون لشن هجوم آخر على إيران",
-            "date_modified": "2026-09-02T18:24:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
