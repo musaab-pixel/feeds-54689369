@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 11:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 11:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية البريطانية: استدعاء القائم بالأعمال الروسي في لندن للاحتجاج على الهجوم…]]></title>
+            <link>https://t.me/aljazeeraBrk/233641</link>
+            <guid isPermaLink="false">67c5b4b9e102dc36525d44e2514060b482bb8269606da5aa24ca30af669b1c86</guid>
+            <pubDate>Thu, 03 Sep 2026 11:38:03 GMT</pubDate>
+            <description><![CDATA[الخارجية البريطانية: استدعاء القائم بالأعمال الروسي في لندن للاحتجاج على الهجوم على مطار لايبزيغ]]></description>
+            <content:encoded><![CDATA[الخارجية البريطانية: استدعاء القائم بالأعمال الروسي في لندن للاحتجاج على الهجوم على مطار لايبزيغ]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: الجيش اللبناني تسلم عبر الصليب الأحمر مواطنا كان محتجزا لدى…]]></title>
             <link>https://t.me/aljazeeraBrk/233640</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 01 Sep 2026 15:46:02 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الروماني للجزيرة: ما يحصل في الشرق الأوسط يؤثر على جميع الدول ما دام النزاع دائرا]]></description>
             <content:encoded><![CDATA[وزير الدفاع الروماني للجزيرة: ما يحصل في الشرق الأوسط يؤثر على جميع الدول ما دام النزاع دائرا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع الروماني للجزيرة: لا نتحدث عن التمويل فقط بل عن سرعة إنتاج الأسلحة]]></title>
-            <link>https://t.me/aljazeeraBrk/233373</link>
-            <guid isPermaLink="false">41742c3fd9d46367ff0fd1ee17011ae37a3f210b5d4abb27c43ed14ebd80888a</guid>
-            <pubDate>Tue, 01 Sep 2026 15:43:03 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع الروماني للجزيرة: لا نتحدث عن التمويل فقط بل عن سرعة إنتاج الأسلحة]]></description>
-            <content:encoded><![CDATA[وزير الدفاع الروماني للجزيرة: لا نتحدث عن التمويل فقط بل عن سرعة إنتاج الأسلحة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
