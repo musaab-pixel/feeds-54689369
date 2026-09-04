@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "3c13c37faae2b4f3a6eff9b286d34f033b6188d4973c634f9fa332c968085b2e",
+            "content_html": "<b>سانا:</b> تأهل فريق سوريا الذي يضم أبناء الجالية السورية في ألمانيا إلى دور الـ 16 من بطولة كأس العالم لكرة القدم للملاعب السداسية بعد فوزه على فريق جورجيا  (4-0)<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140204",
+            "title": "سانا: تأهل فريق سوريا الذي يضم أبناء الجالية السورية في ألمانيا إلى دور الـ 16…",
+            "summary": "<b>سانا:</b> تأهل فريق سوريا الذي يضم أبناء الجالية السورية في ألمانيا إلى دور الـ 16 من بطولة كأس العالم لكرة القدم للملاعب السداسية بعد فوزه على فريق جورجيا  (4-0)<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-04T07:36:57.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "2ebeb61e74df555d5e6eedd6e232e5d8e883b98d860a907cd9b2dbda551b564d",
             "content_html": "<b>صحيفة الثورة السورية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>القبض على سنال إبراهيم الخضر المسؤولة الإعلامية في النظام المخلوع وعدد من الأشخاص العاملين معها في عملية أمنية بمنطقة المليحة بريف دمشق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شغلت الخضر مهام مراسلة حربية ورئيسة فرع الإعلام الحربي في ميليشيا \"الدفاع الوطني\" إضافة إلى مسؤولية العلاقات العامة في رئاسة مجلس الوزراء خلال فترة النظام المخلوع<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140203",
@@ -1634,15 +1645,6 @@
             "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
             "summary": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.",
             "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/05-01-2021-UNHCR-Aleppo-Syria.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-09-03T12:00:00.000Z"
-        },
-        {
-            "id": "69d1e71576d25411e0243f6c6856350926116aa576dab7ed5caf7467972ab12e",
-            "content_html": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
-            "url": "https://news.un.org/feed/view/en/story/2026/09/1168275",
-            "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-            "summary": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/01-06-2026-UNIFIL-Lebanon.jpg/image560x340cropped.jpg",
             "date_modified": "2026-09-03T12:00:00.000Z"
         }
     ]
