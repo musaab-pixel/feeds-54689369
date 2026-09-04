@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 04 Sep 2026 08:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 08:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الصليب الأحمر: دورنا في هذه العملية إنساني بحت وانخرطنا فيها كوسيط محايد بين…]]></title>
+            <link>https://t.me/aljazeeraBrk/233776</link>
+            <guid isPermaLink="false">d0cac09423d2b6c550e23c64c99d9904bc6e4b152402f605d7b58f1068947cb7</guid>
+            <pubDate>Fri, 04 Sep 2026 08:38:02 GMT</pubDate>
+            <description><![CDATA[الصليب الأحمر: دورنا في هذه العملية إنساني بحت وانخرطنا فيها كوسيط محايد بين إسرائيل ولبنان]]></description>
+            <content:encoded><![CDATA[الصليب الأحمر: دورنا في هذه العملية إنساني بحت وانخرطنا فيها كوسيط محايد بين إسرائيل ولبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الصليب الأحمر: سهلنا بطلب من الأطراف المعنية نقل 5 أفراد من إسرائيل للبنان 4…]]></title>
             <link>https://t.me/aljazeeraBrk/233775</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 02 Sep 2026 16:04:02 GMT</pubDate>
             <description><![CDATA[وام: الإمارات تدين بشدة الهجمات الإيرانية العدوانية على البحرين والكويت والأردن وكردستان العراق]]></description>
             <content:encoded><![CDATA[وام: الإمارات تدين بشدة الهجمات الإيرانية العدوانية على البحرين والكويت والأردن وكردستان العراق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: مستوطنون بحماية قوات الاحتلال يهاجمون أطراف بلدة المغير شرقي…]]></title>
-            <link>https://t.me/aljazeeraBrk/233566</link>
-            <guid isPermaLink="false">c4631b404b75b299210d8a0865594c0514d2f7afbfa901f7eee093e581cfe114</guid>
-            <pubDate>Wed, 02 Sep 2026 15:41:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: مستوطنون بحماية قوات الاحتلال يهاجمون أطراف بلدة المغير شرقي رام الله]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون بحماية قوات الاحتلال يهاجمون أطراف بلدة المغير شرقي رام الله]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
