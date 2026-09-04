@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 04 Sep 2026 09:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 09:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية غرب خان يونس…]]></title>
+            <link>https://t.me/aljazeeraBrk/233782</link>
+            <guid isPermaLink="false">38e663d382689c2aa2a103de3d1a4bdcc4cd7599e98088e464c042abb074d7d8</guid>
+            <pubDate>Fri, 04 Sep 2026 09:19:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية غرب خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة من مسيرة إسرائيلية غرب خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: لبنان تسلم من الصليب الأحمر الدولي 4 أشخاص كانوا محتجزين في…]]></title>
             <link>https://t.me/aljazeeraBrk/233781</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 02 Sep 2026 17:10:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الأمريكي: إيران واصلت قصف السفن خاصة التجارية في مضيق هرمز وقد فقدت السيطرة على المضيق]]></description>
             <content:encoded><![CDATA[وزير الخارجية الأمريكي: إيران واصلت قصف السفن خاصة التجارية في مضيق هرمز وقد فقدت السيطرة على المضيق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نتنياهو للقناة 15 الإسرائيلية: يمكننا مهاجمة إيران في أي لحظة]]></title>
-            <link>https://t.me/aljazeeraBrk/233572</link>
-            <guid isPermaLink="false">76e0490b001a6931c3a6c209871294919584d2666e7e3d4af3cc9975850a1b1f</guid>
-            <pubDate>Wed, 02 Sep 2026 17:08:02 GMT</pubDate>
-            <description><![CDATA[نتنياهو للقناة 15 الإسرائيلية: يمكننا مهاجمة إيران في أي لحظة]]></description>
-            <content:encoded><![CDATA[نتنياهو للقناة 15 الإسرائيلية: يمكننا مهاجمة إيران في أي لحظة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
