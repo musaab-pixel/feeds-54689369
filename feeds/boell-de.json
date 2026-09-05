@@ -5,6 +5,20 @@
     "description": "RSS Factory feed \"boell.de\" (type: website)",
     "items": [
         {
+            "id": "b3d2dcc6c47ba4bbdb22ad1a6915353b07ca327302be0652e6f2f12bb0456987",
+            "url": "https://www.boell.de/en/anne-klein-womens-award-2025-darya-afanasyeva-irina-alkhovka-and-julia-mickiewicz-belarus",
+            "title": "Anne Klein Women’s Award 2025 to Darya Afanasyeva, Irina Alkhovka and Julia Mickiewicz from Belarus Honor The Anne Klein Women's Prize 2025 goes to three Belarusian feminists. The women's and human rights defender Irina Alkhovka, the feminist blogger Darya Afanasyeva and the feminist activist and politician Julia Mickiewicz - they are all targets of state persecution and repression and are currently forced to continue their work from exile in Europe.",
+            "image": "https://www.boell.de/sites/default/files/styles/3d2_medium/public/2024-12/akf2025_preistragerinnen_collage_3zu2.jpg.webp?h=4362216e&itok=c1ODzGU5",
+            "date_modified": "2026-09-05T07:25:47.451Z"
+        },
+        {
+            "id": "1af2462dc92d42ec789b652974a33e55b7bdf633a81852df5552e3792076ec9b",
+            "url": "https://www.boell.de/en/us-elections-2024",
+            "title": "The US elections 2024 Dossier The election result in the USA will have far-reaching, international consequences. What will the result mean for transatlantic relations, Europe's security architecture, and international efforts on climate action? The Heinrich Böll Foundation delves into these critical questions from a Green and European perspective, offering analyses and insights into the challenges and opportunities of the post-election landscape.",
+            "image": "https://www.boell.de/sites/default/files/styles/3d2_medium/public/2024-09/240913_web_dossierus-wahl_3zu2.png.webp?h=052d1e5a&itok=-jxrEtLG",
+            "date_modified": "2026-09-05T07:25:47.451Z"
+        },
+        {
             "id": "d41724ff3a6b6990afaef5c0f6443544c86eeec386992609b246ade9e0b0655a",
             "content_html": "<h3 class=\"grid-titlebox--overline\">Dossier</h3>\n<p>As we confront an era riddled with misinformation and polarised views, the urge to unite and have meaningful conversations and understanding has never been stronger.</p>\n<p>This dossier features the <strong>stories of resistance and young feminists’ perceptions</strong> of the world and dives deep into topics that some may find controversial. Within this collection of content from across the globe, we emphasise the personal aspects, creativity, and resilient nature of the people who are making choices that do not conform to laws or customs - or whose views have long been disregarded.</p>",
             "url": "https://www.boell.de/en/voices-of-resistance",
