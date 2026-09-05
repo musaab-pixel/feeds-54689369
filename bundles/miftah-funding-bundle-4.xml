@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Thu, 03 Sep 2026 11:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 05:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -7773,6 +7773,115 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/03_Corinna-Niemeyer-C-Simon-Pauly_4x3-2-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Conference Amadeo de Souza-Cardoso 10 Sep 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/amadeo-de-souza-cardoso-2/</link>
+            <guid isPermaLink="false">ec0e0f4185b4faa9066dc6ee34daf65147824257acc23bcdd088ae470227af35</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>CAM is hosting the public presentation session of the commemorative coin dedicated to <a href="https://gulbenkian.pt/cam/en/artist/amadeo-de-souza-cardoso-2/">Amadeo de Souza-Cardoso</a> (1887–1918), created by jeweller Teresa Milheiro. The «Amadeo de Souza-Cardoso» coin forms part of the collector coin series ‘Artistas Plásticos Portugueses Contemporâneos’ (Contemporary Portuguese Visual Artists) from Imprensa Nacional Casa da Moeda (INCM), curated by Manuel da Costa Cabral.</p>
+<p>The coin presentation session brings together contributions from Sérgio Mah, director of CAM, Afonso Reis Cabral, executive director of INCM, Manuel Costa Cabral, curator of the series, Teresa Milheiro, designer of the coin, and Raquel Henriques da Silva, art historian and INCM collaborator.</p>
+<p>CAM has played a central role in the preservation, study and promotion of the work of Amadeo de Souza-Cardoso, with 200 of the artist’s works represented in its Collection, across painting and drawing. CAM has produced landmark exhibitions and publications for the study of the artist, offering the public direct contact with his work, among which we would highlight the exhibition and catalogue ‘Amadeo de Souza-Cardoso. Diálogo de Vanguardas’, the ‘Catalogue Raisonné Pintura Amadeo de Souza-Cardoso’ and the artist’s Photobiography.</p>
+<h2 class="fcg-section__title" id="programme">
+			<span>Programme</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">18:00 / Welcome</h4>
+<h4 class="fcg-programme__title">18:05 / Presentation of the coin </h4>
+<h4 class="fcg-programme__title">18:30 / Talk</h4>
+<h4 class="fcg-programme__title">19:15 / Audience questions to the panel (Q&amp;A)</h4>
+<h4 class="fcg-programme__title">19:30 / Closing</h4>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>CAM is hosting the public presentation session of the commemorative coin dedicated to <a href="https://gulbenkian.pt/cam/en/artist/amadeo-de-souza-cardoso-2/">Amadeo de Souza-Cardoso</a> (1887–1918), created by jeweller Teresa Milheiro. The «Amadeo de Souza-Cardoso» coin forms part of the collector coin series ‘Artistas Plásticos Portugueses Contemporâneos’ (Contemporary Portuguese Visual Artists) from Imprensa Nacional Casa da Moeda (INCM), curated by Manuel da Costa Cabral.</p>
+<p>The coin presentation session brings together contributions from Sérgio Mah, director of CAM, Afonso Reis Cabral, executive director of INCM, Manuel Costa Cabral, curator of the series, Teresa Milheiro, designer of the coin, and Raquel Henriques da Silva, art historian and INCM collaborator.</p>
+<p>CAM has played a central role in the preservation, study and promotion of the work of Amadeo de Souza-Cardoso, with 200 of the artist’s works represented in its Collection, across painting and drawing. CAM has produced landmark exhibitions and publications for the study of the artist, offering the public direct contact with his work, among which we would highlight the exhibition and catalogue ‘Amadeo de Souza-Cardoso. Diálogo de Vanguardas’, the ‘Catalogue Raisonné Pintura Amadeo de Souza-Cardoso’ and the artist’s Photobiography.</p>
+<h2 class="fcg-section__title" id="programme">
+			<span>Programme</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">18:00 / Welcome</h4>
+<h4 class="fcg-programme__title">18:05 / Presentation of the coin </h4>
+<h4 class="fcg-programme__title">18:30 / Talk</h4>
+<h4 class="fcg-programme__title">19:15 / Audience questions to the panel (Q&amp;A)</h4>
+<h4 class="fcg-programme__title">19:30 / Closing</h4>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/09/Casa-da-Moeda-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Concert Kafka-Fragmente 09 Sep 2026 / 20:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/kafka-fragmente/</link>
             <guid isPermaLink="false">056e58704681e91742f88bd125baaf38f70d18f48d5e6a753ba4c2587a9b821d</guid>
@@ -13433,20 +13542,6 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/Orq-Geracao_gbk@Jafuno-245_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[military families and vets]]></title>
-            <link>https://craignewmarkphilanthropies.org/about-us/veterans-and-military-families</link>
-            <guid isPermaLink="false">f3d76a9a41e1a2a56eb3839fa0af98b540f38f742f44245b37ce7812eabb2ef1</guid>
-            <pubDate>Fri, 24 Jul 2026 12:12:01 GMT</pubDate>
-            <description><![CDATA[<p>As the son of a World War II veteran and as a teenager who grew up during Vietnam, Craig saw up close how badly returning vets were treated. It’s stayed with him throughout his life.</p>
-<p>Craig believes we need to protect the people who protect our country. That means supporting servicemembers on our frontlines -- and their families at home. It also means helping these men and women after they retire from their service.</p>
-<p>Those who wear the uniform too often can’t financially afford to continue their service as long as they’d like. It pisses Craig off that many of these families need help finding affordable housing, and that some even need occasional food assistance just to survive. Craig knows that these failures make our country less secure. And that they’re not fair.</p>
-<p>Craig has donated more than $100 million to veteran groups nationally and in local communities. Through <a href="https://bluestarfam.org/">Blue Star Families</a> and the <a href="https://bobwoodrufffoundation.org/">Bob Woodruff Foundation</a>, Craig has helped thousands of active-duty servicemembers, veterans and their families get the support they need during and after their service.</p>]]></description>
-            <content:encoded><![CDATA[<p>As the son of a World War II veteran and as a teenager who grew up during Vietnam, Craig saw up close how badly returning vets were treated. It’s stayed with him throughout his life.</p>
-<p>Craig believes we need to protect the people who protect our country. That means supporting servicemembers on our frontlines -- and their families at home. It also means helping these men and women after they retire from their service.</p>
-<p>Those who wear the uniform too often can’t financially afford to continue their service as long as they’d like. It pisses Craig off that many of these families need help finding affordable housing, and that some even need occasional food assistance just to survive. Craig knows that these failures make our country less secure. And that they’re not fair.</p>
-<p>Craig has donated more than $100 million to veteran groups nationally and in local communities. Through <a href="https://bluestarfam.org/">Blue Star Families</a> and the <a href="https://bobwoodrufffoundation.org/">Bob Woodruff Foundation</a>, Craig has helped thousands of active-duty servicemembers, veterans and their families get the support they need during and after their service.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
