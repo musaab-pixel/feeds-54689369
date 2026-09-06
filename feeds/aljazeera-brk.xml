@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 07:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 07:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: سنجري غدا مناورة لقوات الأمن في إيلات ووادي عربة ستشمل تحركا…]]></title>
+            <link>https://t.me/aljazeeraBrk/233981</link>
+            <guid isPermaLink="false">b55c50b505e7104c0d2add500c40beef7b6e0de0998e053e3a09afbaecd2a8bc</guid>
+            <pubDate>Sun, 06 Sep 2026 07:34:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: سنجري غدا مناورة لقوات الأمن في إيلات ووادي عربة ستشمل تحركا لقوات الأمن وقطع بحرية وطائرات]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: سنجري غدا مناورة لقوات الأمن في إيلات ووادي عربة ستشمل تحركا لقوات الأمن وقطع بحرية وطائرات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت…]]></title>
             <link>https://t.me/aljazeeraBrk/233980</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 16:40:03 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تستهدف بـ4 قذائف محيط تلة باط الوردة قرب بلدة بيت جن في ريف دمشق]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تستهدف بـ4 قذائف محيط تلة باط الوردة قرب بلدة بيت جن في ريف دمشق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير النفط الإيراني: للحصار البحري تأثير على نقل النفط وتسليمه للعملاء لكننا…]]></title>
-            <link>https://t.me/aljazeeraBrk/233678</link>
-            <guid isPermaLink="false">510d7c37ea977e20333012753ba2390e5fc774618198047e46bb6dd66ea2e1ef</guid>
-            <pubDate>Thu, 03 Sep 2026 16:39:02 GMT</pubDate>
-            <description><![CDATA[وزير النفط الإيراني: للحصار البحري تأثير على نقل النفط وتسليمه للعملاء لكننا نتخذ تدابير للالتفاف الكامل عليه]]></description>
-            <content:encoded><![CDATA[وزير النفط الإيراني: للحصار البحري تأثير على نقل النفط وتسليمه للعملاء لكننا نتخذ تدابير للالتفاف الكامل عليه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
