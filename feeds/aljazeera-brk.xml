@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 10:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 10:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وصول المبعوثين الأمريكيين ويتكوف وكوشنر للعاصمة الأوكرانية كييف قادمين من موسكو…]]></title>
+            <link>https://t.me/aljazeeraBrk/234004</link>
+            <guid isPermaLink="false">005df66a60bb3991bc2f9d81ca9de8973e0da32139e04793a642512a5c9909c8</guid>
+            <pubDate>Sun, 06 Sep 2026 10:26:02 GMT</pubDate>
+            <description><![CDATA[وصول المبعوثين الأمريكيين ويتكوف وكوشنر للعاصمة الأوكرانية كييف قادمين من موسكو ضمن مساعيهما لإنهاء الحرب]]></description>
+            <content:encoded><![CDATA[وصول المبعوثين الأمريكيين ويتكوف وكوشنر للعاصمة الأوكرانية كييف قادمين من موسكو ضمن مساعيهما لإنهاء الحرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: هاجمنا مسلحين وبنى تحتية تابعة لحزب الله في جنوب لبنان]]></title>
             <link>https://t.me/aljazeeraBrk/234003</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 18:20:02 GMT</pubDate>
             <description><![CDATA[فانس: إذا لم نقم بحماية الملاحة في مضيق هرمز فلن يقوم أي طرف آخر به وسنواجه أزمة طاقة عالمية كارثية]]></description>
             <content:encoded><![CDATA[فانس: إذا لم نقم بحماية الملاحة في مضيق هرمز فلن يقوم أي طرف آخر به وسنواجه أزمة طاقة عالمية كارثية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نائب الرئيس الأمريكي: لدينا أدوات إضافية كثيرة تحت تصرفنا وسيستخدم الرئيس بعضها…]]></title>
-            <link>https://t.me/aljazeeraBrk/233701</link>
-            <guid isPermaLink="false">d3c8cdd6c22ee8b1e8f51b7e24c20b395ad4be88e8a2a290c6467b1a275536dd</guid>
-            <pubDate>Thu, 03 Sep 2026 18:17:02 GMT</pubDate>
-            <description><![CDATA[نائب الرئيس الأمريكي: لدينا أدوات إضافية كثيرة تحت تصرفنا وسيستخدم الرئيس بعضها ضد إيران]]></description>
-            <content:encoded><![CDATA[نائب الرئيس الأمريكي: لدينا أدوات إضافية كثيرة تحت تصرفنا وسيستخدم الرئيس بعضها ضد إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
