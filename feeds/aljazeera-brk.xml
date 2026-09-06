@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 07:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 07:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت…]]></title>
+            <link>https://t.me/aljazeeraBrk/233980</link>
+            <guid isPermaLink="false">f6d902800eb1d8284cac90850a7f207620e5db0cd2726076d00bd25d04e056c4</guid>
+            <pubDate>Sun, 06 Sep 2026 07:20:02 GMT</pubDate>
+            <description><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت مناطق في جنوب البلاد اليوم]]></description>
+            <content:encoded><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت مناطق في جنوب البلاد اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسم تشييع 100 شهيد بعد انتشال جثامينهم من تحت أنقاض مبان مدمرة في حي الزيتون…]]></title>
             <link>https://t.me/aljazeeraBrk/233979</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 16:39:02 GMT</pubDate>
             <description><![CDATA[وزير النفط الإيراني: للحصار البحري تأثير على نقل النفط وتسليمه للعملاء لكننا نتخذ تدابير للالتفاف الكامل عليه]]></description>
             <content:encoded><![CDATA[وزير النفط الإيراني: للحصار البحري تأثير على نقل النفط وتسليمه للعملاء لكننا نتخذ تدابير للالتفاف الكامل عليه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف والطوارئ: إصابة طفلة بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها…]]></title>
-            <link>https://t.me/aljazeeraBrk/233676</link>
-            <guid isPermaLink="false">b9f3b0c689ebae0ad0d6e6e229b055cdd0e985a2dd97ff9cf6997c72d7a0728c</guid>
-            <pubDate>Thu, 03 Sep 2026 16:31:03 GMT</pubDate>
-            <description><![CDATA[الإسعاف والطوارئ: إصابة طفلة بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شمالي مدينة خان يونس]]></description>
-            <content:encoded><![CDATA[الإسعاف والطوارئ: إصابة طفلة بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شمالي مدينة خان يونس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
