@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 14:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 14:56:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد…]]></title>
+            <link>https://t.me/aljazeeraBrk/234028</link>
+            <guid isPermaLink="false">e852c5b98af0810feae8f9242c870bf3d444a903adc3d055ed3070a5af9ee0ae</guid>
+            <pubDate>Sun, 06 Sep 2026 14:48:02 GMT</pubDate>
+            <description><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد منذ 2 مارس الماضي]]></description>
+            <content:encoded><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد منذ 2 مارس الماضي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تاس: القوات الروسية استهدفت سفينة شحن أوكرانية في البحر الأسود]]></title>
             <link>https://t.me/aljazeeraBrk/234027</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 23:18:02 GMT</pubDate>
             <description><![CDATA[رويترز عن مسؤول أمريكي: نحقق في أسباب مقتل مدنيين بحفل زفاف في بلدة كوهستك بإيران بعد قصف الجيش برج اتصالات]]></description>
             <content:encoded><![CDATA[رويترز عن مسؤول أمريكي: نحقق في أسباب مقتل مدنيين بحفل زفاف في بلدة كوهستك بإيران بعد قصف الجيش برج اتصالات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تركز على تنفيذ مهمة تضمن سلامة الملاحة بهرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/233725</link>
-            <guid isPermaLink="false">a8fbf3987d9dbc28a6e369b7b3d87e2b1545943154167d4afdf977e5421fe8c0</guid>
-            <pubDate>Thu, 03 Sep 2026 22:57:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تركز على تنفيذ مهمة تضمن سلامة الملاحة بهرمز بدلا من الانخراط في عمل قتالي]]></description>
-            <content:encoded><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تركز على تنفيذ مهمة تضمن سلامة الملاحة بهرمز بدلا من الانخراط في عمل قتالي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

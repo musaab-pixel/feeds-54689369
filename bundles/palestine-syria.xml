@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 14:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 14:56:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد…]]></title>
+            <link>https://t.me/aljazeeraBrk/234028</link>
+            <guid isPermaLink="false">e852c5b98af0810feae8f9242c870bf3d444a903adc3d055ed3070a5af9ee0ae</guid>
+            <pubDate>Sun, 06 Sep 2026 14:48:02 GMT</pubDate>
+            <description><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد منذ 2 مارس الماضي]]></description>
+            <content:encoded><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد منذ 2 مارس الماضي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تاس: القوات الروسية استهدفت سفينة شحن أوكرانية في البحر الأسود]]></title>
             <link>https://t.me/aljazeeraBrk/234027</link>
@@ -2073,15 +2082,6 @@
             <pubDate>Sat, 05 Sep 2026 08:40:02 GMT</pubDate>
             <description><![CDATA[وكالة تسنيم: الحادث لم يسفر عن خسائر بشرية وأفراد طاقم الناقلة يجرون حاليا عملية إخلاء للسفينة]]></description>
             <content:encoded><![CDATA[وكالة تسنيم: الحادث لم يسفر عن خسائر بشرية وأفراد طاقم الناقلة يجرون حاليا عملية إخلاء للسفينة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تسنيم: الناقلة أصيبت بأربعة مقذوفات أطلقتها قوات أمريكية أثناء وجودها في…]]></title>
-            <link>https://t.me/aljazeeraBrk/233886</link>
-            <guid isPermaLink="false">23a38541a6b70e443de4c6b1ad95caefb93b293a1ace03daafca4b440d02c35f</guid>
-            <pubDate>Sat, 05 Sep 2026 08:39:02 GMT</pubDate>
-            <description><![CDATA[وكالة تسنيم: الناقلة أصيبت بأربعة مقذوفات أطلقتها قوات أمريكية أثناء وجودها في منطقة مرسى جزيرة خارك]]></description>
-            <content:encoded><![CDATA[وكالة تسنيم: الناقلة أصيبت بأربعة مقذوفات أطلقتها قوات أمريكية أثناء وجودها في منطقة مرسى جزيرة خارك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
