@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 06:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 06:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الاحتلال يقتحم مدرستين في نابلس في اليوم الأول من العام الدراسي…]]></title>
+            <link>https://t.me/aljazeeraBrk/233977</link>
+            <guid isPermaLink="false">c94e1a56213d15408e1fa4d4c626c49b3952f47b8ff641cb792a9a7f99054d0d</guid>
+            <pubDate>Sun, 06 Sep 2026 06:12:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الاحتلال يقتحم مدرستين في نابلس في اليوم الأول من العام الدراسي الجديد]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الاحتلال يقتحم مدرستين في نابلس في اليوم الأول من العام الدراسي الجديد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم خاركيف: مقتل 4 أشخاص وإصابة 8 في هجمات للقوات الروسية على 14 منطقة في…]]></title>
             <link>https://t.me/aljazeeraBrk/233976</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 16:11:02 GMT</pubDate>
             <description><![CDATA[نتنياهو: مقتنع بقدرتنا على إسقاط النظام الإيراني مرة واحدة وإلى الأبد]]></description>
             <content:encoded><![CDATA[نتنياهو: مقتنع بقدرتنا على إسقاط النظام الإيراني مرة واحدة وإلى الأبد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤول بالخارجية الأمريكية: ما زلنا ملتزمين بالتنفيذ الكامل لاتفاق…]]></title>
-            <link>https://t.me/aljazeeraBrk/233674</link>
-            <guid isPermaLink="false">8877c367104f7bc61e603f742f2d5144276e6c3772252610dc920d1b08f016d5</guid>
-            <pubDate>Thu, 03 Sep 2026 16:10:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤول بالخارجية الأمريكية: ما زلنا ملتزمين بالتنفيذ الكامل لاتفاق الإطار الثلاثي بين لبنان وإسرائيل]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤول بالخارجية الأمريكية: ما زلنا ملتزمين بالتنفيذ الكامل لاتفاق الإطار الثلاثي بين لبنان وإسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
