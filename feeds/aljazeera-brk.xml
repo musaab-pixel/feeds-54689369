@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 14:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 15:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[زيلنسكي: الجولة المقبلة من المحادثات ستعقد بالاشتراك مع الولايات المتحدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/234029</link>
+            <guid isPermaLink="false">06ef73103376b55ed46cfbaaead53c6cdc1b31cdb3be57cc0c8f85b2361cfd24</guid>
+            <pubDate>Sun, 06 Sep 2026 15:30:02 GMT</pubDate>
+            <description><![CDATA[زيلنسكي: الجولة المقبلة من المحادثات ستعقد بالاشتراك مع الولايات المتحدة وبريطانيا وفرنسا وألمانيا]]></description>
+            <content:encoded><![CDATA[زيلنسكي: الجولة المقبلة من المحادثات ستعقد بالاشتراك مع الولايات المتحدة وبريطانيا وفرنسا وألمانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة اللبنانية: 4362 شهيدا و12378 مصابا في العدوان الإسرائيلي على البلاد…]]></title>
             <link>https://t.me/aljazeeraBrk/234028</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 23:21:02 GMT</pubDate>
             <description><![CDATA[رويترز عن مسؤول أمريكي: ندرس احتمالات في كوهستك بينها قصف أمريكي مباشر أو ارتداد صاروخ دفاع جوي إيراني]]></description>
             <content:encoded><![CDATA[رويترز عن مسؤول أمريكي: ندرس احتمالات في كوهستك بينها قصف أمريكي مباشر أو ارتداد صاروخ دفاع جوي إيراني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن مسؤول أمريكي: نحقق في أسباب مقتل مدنيين بحفل زفاف في بلدة كوهستك…]]></title>
-            <link>https://t.me/aljazeeraBrk/233726</link>
-            <guid isPermaLink="false">ab843a4cdc7a0e75750d458bb811924f9881754e9e0d571fb6749de527bb460b</guid>
-            <pubDate>Thu, 03 Sep 2026 23:18:02 GMT</pubDate>
-            <description><![CDATA[رويترز عن مسؤول أمريكي: نحقق في أسباب مقتل مدنيين بحفل زفاف في بلدة كوهستك بإيران بعد قصف الجيش برج اتصالات]]></description>
-            <content:encoded><![CDATA[رويترز عن مسؤول أمريكي: نحقق في أسباب مقتل مدنيين بحفل زفاف في بلدة كوهستك بإيران بعد قصف الجيش برج اتصالات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
