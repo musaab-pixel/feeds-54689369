@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 12:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 13:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحرس الثوري الإيراني: اعتقال خلية مسلحة مرتبطة بالتيار الملكي مكونة من 8 عناصر…]]></title>
+            <link>https://t.me/aljazeeraBrk/234016</link>
+            <guid isPermaLink="false">a89e120169953cfd0dc0fd377f70ee8f7b043e4490918fc8dc2358ff0b237cb7</guid>
+            <pubDate>Sun, 06 Sep 2026 12:59:02 GMT</pubDate>
+            <description><![CDATA[الحرس الثوري الإيراني: اعتقال خلية مسلحة مرتبطة بالتيار الملكي مكونة من 8 عناصر في محافظة فارس جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[الحرس الثوري الإيراني: اعتقال خلية مسلحة مرتبطة بالتيار الملكي مكونة من 8 عناصر في محافظة فارس جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الوزراء اللبناني: اعتداءات إسرائيل لن تثني الحكومة عن التمسك بدعم عودة…]]></title>
             <link>https://t.me/aljazeeraBrk/234015</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 20:03:03 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: البنية التحتية في مرتفعات علي الطاهر أنشئت على مدى نحو عقدين]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: البنية التحتية في مرتفعات علي الطاهر أنشئت على مدى نحو عقدين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نتنياهو: لم تكن منطقة علي الطاهر مصدر تهديد لكريات شمونة والمطلة فقط بل كانت…]]></title>
-            <link>https://t.me/aljazeeraBrk/233713</link>
-            <guid isPermaLink="false">7644dab26b39bcc50f9d13a636e90e175f09a384669efac50702c9110a1ab074</guid>
-            <pubDate>Thu, 03 Sep 2026 20:02:03 GMT</pubDate>
-            <description><![CDATA[نتنياهو: لم تكن منطقة علي الطاهر مصدر تهديد لكريات شمونة والمطلة فقط بل كانت تهدد بغزو الجليل]]></description>
-            <content:encoded><![CDATA[نتنياهو: لم تكن منطقة علي الطاهر مصدر تهديد لكريات شمونة والمطلة فقط بل كانت تهدد بغزو الجليل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
