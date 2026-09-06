@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 06 Sep 2026 14:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 14:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تاس: القوات الروسية استهدفت سفينة شحن أوكرانية في البحر الأسود]]></title>
+            <link>https://t.me/aljazeeraBrk/234027</link>
+            <guid isPermaLink="false">9d982be9567ccbc391c35ca54d800244b8cbe09499bd43b0b4cc207a7f79a4e3</guid>
+            <pubDate>Sun, 06 Sep 2026 14:33:02 GMT</pubDate>
+            <description><![CDATA[وكالة تاس: القوات الروسية استهدفت سفينة شحن أوكرانية في البحر الأسود]]></description>
+            <content:encoded><![CDATA[وكالة تاس: القوات الروسية استهدفت سفينة شحن أوكرانية في البحر الأسود]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[مصدر بمستشفى الشفاء: شهيدان أحدهما طفل وعدد من المصابين في الغارة الإسرائيلية…]]></title>
+            <link>https://t.me/aljazeeraBrk/234026</link>
+            <guid isPermaLink="false">210e9a71d31afc603208f8c1d51be520a0d944f9b1c95a6ae5068d4358f49492</guid>
+            <pubDate>Sun, 06 Sep 2026 14:32:02 GMT</pubDate>
+            <description><![CDATA[مصدر بمستشفى الشفاء: شهيدان أحدهما طفل وعدد من المصابين في الغارة الإسرائيلية على غرب مدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر بمستشفى الشفاء: شهيدان أحدهما طفل وعدد من المصابين في الغارة الإسرائيلية على غرب مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ في غزة: استشهاد طفل وإصابة آخرين في غارة من مسيرة…]]></title>
             <link>https://t.me/aljazeeraBrk/234025</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Thu, 03 Sep 2026 22:57:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تركز على تنفيذ مهمة تضمن سلامة الملاحة بهرمز بدلا من الانخراط في عمل قتالي]]></description>
             <content:encoded><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تركز على تنفيذ مهمة تضمن سلامة الملاحة بهرمز بدلا من الانخراط في عمل قتالي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تدرس نشر أصول غير قتالية في مضيق هرمز]]></title>
-            <link>https://t.me/aljazeeraBrk/233724</link>
-            <guid isPermaLink="false">9b5f975303efb6c4587bc42c21e4b1f9b1a5441865513d50ee9975c7a51d1378</guid>
-            <pubDate>Thu, 03 Sep 2026 22:56:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تدرس نشر أصول غير قتالية في مضيق هرمز]]></description>
-            <content:encoded><![CDATA[وسائل إعلام كورية جنوبية: الحكومة تدرس نشر أصول غير قتالية في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: غارتان إسرائيليتان على مناطق سيطرة الاحتلال في حي التفاح شرقي…]]></title>
-            <link>https://t.me/aljazeeraBrk/233723</link>
-            <guid isPermaLink="false">fc2031472dd517b27ab496a703ac2ec77549a4023f1ea170a6832cfe46ce98bb</guid>
-            <pubDate>Thu, 03 Sep 2026 22:47:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: غارتان إسرائيليتان على مناطق سيطرة الاحتلال في حي التفاح شرقي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: غارتان إسرائيليتان على مناطق سيطرة الاحتلال في حي التفاح شرقي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
