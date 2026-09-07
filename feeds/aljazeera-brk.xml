@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 21:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 21:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: بدء عملية واسعة النطاق في مخيم شعفاط وبلدة عناتا شرقي القدس]]></title>
+            <link>https://t.me/aljazeeraBrk/234183</link>
+            <guid isPermaLink="false">fe7462c3bc2bc4c09070838cae4bb12b2ad2752dddc760684060bd7e944bb3fb</guid>
+            <pubDate>Mon, 07 Sep 2026 21:27:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: بدء عملية واسعة النطاق في مخيم شعفاط وبلدة عناتا شرقي القدس]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: بدء عملية واسعة النطاق في مخيم شعفاط وبلدة عناتا شرقي القدس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي…]]></title>
             <link>https://t.me/aljazeeraBrk/234182</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 05 Sep 2026 08:09:02 GMT</pubDate>
             <description><![CDATA[الهلال الأحمر الفلسطيني: مصابان برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شمالي مدينة غزة]]></description>
             <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: مصابان برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شمالي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: سلاح الجو استهدف مستودعات أسلحة كانت مخصصة للتخطيط لهجمات ضد…]]></title>
-            <link>https://t.me/aljazeeraBrk/233883</link>
-            <guid isPermaLink="false">26b9822d87789b7d2542af5bf865a82f58f7b2414aeba262a3669e6ecc42b08e</guid>
-            <pubDate>Sat, 05 Sep 2026 07:50:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: سلاح الجو استهدف مستودعات أسلحة كانت مخصصة للتخطيط لهجمات ضد قواتنا وإسرائيليين مساء أمس]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: سلاح الجو استهدف مستودعات أسلحة كانت مخصصة للتخطيط لهجمات ضد قواتنا وإسرائيليين مساء أمس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
