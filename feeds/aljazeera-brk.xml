@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 21:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 21:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مدينة دورا جنوب الخليل وتنفذ حملة…]]></title>
+            <link>https://t.me/aljazeeraBrk/234184</link>
+            <guid isPermaLink="false">000dfc8fb8d3e22271df52cc0af23eeddae57749b89d5a49ae5661d8c155f287</guid>
+            <pubDate>Mon, 07 Sep 2026 21:48:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مدينة دورا جنوب الخليل وتنفذ حملة مداهمات واعتقالات]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مدينة دورا جنوب الخليل وتنفذ حملة مداهمات واعتقالات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: بدء عملية واسعة النطاق في مخيم شعفاط وبلدة عناتا شرقي القدس]]></title>
             <link>https://t.me/aljazeeraBrk/234183</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 05 Sep 2026 08:38:02 GMT</pubDate>
             <description><![CDATA[وكالة تسنيم: قوات أمريكية استهدفت بصواريخ ناقلة نفط إيرانية على بعد ٦ أميال بحرية من جزيرة خارك]]></description>
             <content:encoded><![CDATA[وكالة تسنيم: قوات أمريكية استهدفت بصواريخ ناقلة نفط إيرانية على بعد ٦ أميال بحرية من جزيرة خارك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: مصابان برصاص قوات الاحتلال الإسرائيلي خارج مناطق…]]></title>
-            <link>https://t.me/aljazeeraBrk/233884</link>
-            <guid isPermaLink="false">fa57535522280ab4b3d6f58eec9683127bbde91c862676a93debb6a1d3e8220d</guid>
-            <pubDate>Sat, 05 Sep 2026 08:09:02 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: مصابان برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شمالي مدينة غزة]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: مصابان برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شمالي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
