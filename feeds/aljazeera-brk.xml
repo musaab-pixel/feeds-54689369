@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 10:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 10:57:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير خارجية لبنان: نحتاج إلى حضور دولي تحت راية الأمم المتحدة ونواصل مشاوراتنا…]]></title>
+            <link>https://t.me/aljazeeraBrk/234103</link>
+            <guid isPermaLink="false">bcc26386ec927988653d16f0d93707915db9307187eb28647e6639fdcc676d23</guid>
+            <pubDate>Mon, 07 Sep 2026 10:46:02 GMT</pubDate>
+            <description><![CDATA[وزير خارجية لبنان: نحتاج إلى حضور دولي تحت راية الأمم المتحدة ونواصل مشاوراتنا لإنشاء آلية دولية معززة]]></description>
+            <content:encoded><![CDATA[وزير خارجية لبنان: نحتاج إلى حضور دولي تحت راية الأمم المتحدة ونواصل مشاوراتنا لإنشاء آلية دولية معززة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير خارجية لبنان: ندين اعتداءات إسرائيل على بلادنا وانتهاكاتها للقانون الدولي]]></title>
             <link>https://t.me/aljazeeraBrk/234102</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 04 Sep 2026 13:34:02 GMT</pubDate>
             <description><![CDATA[زيلنسكي: مسيرة روسية أصابت مقر جهاز الأمن الأوكراني وسط كييف وأمرت بالرد على هذه الضربة بشكل متناسب وكبير]]></description>
             <content:encoded><![CDATA[زيلنسكي: مسيرة روسية أصابت مقر جهاز الأمن الأوكراني وسط كييف وأمرت بالرد على هذه الضربة بشكل متناسب وكبير]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[زيلنسكي: هجوم روسي يستهدف مقر جهاز الأمن الأوكراني في كييف]]></title>
-            <link>https://t.me/aljazeeraBrk/233798</link>
-            <guid isPermaLink="false">44b2a08eec5174150306862b3ceb2b4f89fa8be553adcf0baefa50328f15dd81</guid>
-            <pubDate>Fri, 04 Sep 2026 13:23:02 GMT</pubDate>
-            <description><![CDATA[زيلنسكي: هجوم روسي يستهدف مقر جهاز الأمن الأوكراني في كييف]]></description>
-            <content:encoded><![CDATA[زيلنسكي: هجوم روسي يستهدف مقر جهاز الأمن الأوكراني في كييف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
