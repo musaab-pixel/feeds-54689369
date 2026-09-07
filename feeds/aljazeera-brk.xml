@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 08:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 08:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على خان يونس جنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/234083</link>
+            <guid isPermaLink="false">300f5088259c45b480132490fe59db81b7580573812e1c6b7416e52672987f34</guid>
+            <pubDate>Mon, 07 Sep 2026 08:41:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مفوض الأمم المتحدة لحقوق الإنسان: إسرائيل تواصل تقييد دخول المساعدات إلى قطاع…]]></title>
             <link>https://t.me/aljazeeraBrk/234082</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 04 Sep 2026 08:57:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: لبنان تسلم من الصليب الأحمر الدولي ٤ أشخاص كانوا محتجزين في إسرائيل]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: لبنان تسلم من الصليب الأحمر الدولي ٤ أشخاص كانوا محتجزين في إسرائيل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: نشكر جهود الولايات المتحدة والصليب الأحمر الدولي لتحرير الدفعة…]]></title>
-            <link>https://t.me/aljazeeraBrk/233777</link>
-            <guid isPermaLink="false">e62931c1c49322808cc83e6c359ba9acc723f4d825e8acb559893ee84c7dede0</guid>
-            <pubDate>Fri, 04 Sep 2026 08:54:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: نشكر جهود الولايات المتحدة والصليب الأحمر الدولي لتحرير الدفعة الأولى من المحتجزين في إسرائيل]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: نشكر جهود الولايات المتحدة والصليب الأحمر الدولي لتحرير الدفعة الأولى من المحتجزين في إسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
