@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "18e52f5645c2bf1bdbb275de16592113ec51edba5b1783ab51ab8f48845905b4",
+            "content_html": "الهيئة العامة للطيران المدني: وفد من الهيئة يجري زيارةً ميدانية إلى مطار القامشلي الدولي للاطلاع على سير أعمال إعادة التأهيل والتي وصلت إلى مراحلها الأخيرة تمهيدًا لاستكمال متطلبات الجاهزية وعودة المطار إلى الخدمة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140315",
+            "title": "الهيئة العامة للطيران المدني: وفد من الهيئة يجري زيارةً ميدانية إلى مطار…",
+            "summary": "الهيئة العامة للطيران المدني: وفد من الهيئة يجري زيارةً ميدانية إلى مطار القامشلي الدولي للاطلاع على سير أعمال إعادة التأهيل والتي وصلت إلى مراحلها الأخيرة تمهيدًا لاستكمال متطلبات الجاهزية وعودة المطار إلى الخدمة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/dCnOV7c_DhLJwLuspj8qMd5e3wwt7MpJ_w9uOxaKQN-AaBzTGh07YRMIN15Fia_Ue_ZPCm97omYjywsWD2LAr-ur2oNgA7paBfbreYOg_zk4QBk0yx95gFI_Im9m7rSMMRMIzNLksRstOEtP9dcVBTdbOydYKFVCb1gYF4gCSAupyw_LDbN8thsWIgwVbBjDFoJ9eoI4WvUpnnZ0ZcipjyOpi5pE02n-KRMTjVt6tirHpie1IvdarCR5pggwYufSrYqiE1z_Mlqwpfb9ZT5PQ1OQ6heIEFhqccs5b6urOmTmZTaRCs0x6FUr9cV-FTaNOPD2MLqqUEbutWj4Ca27fA.jpg",
+            "date_modified": "2026-09-07T19:57:20.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "11e43fac296992adbfbc262b63d15a78bbe8457f5bf2609fdce5c344acbae994",
             "content_html": "محافظة طرطوس: مديرية أمن طرطوس تلقي القبض على شخص عقب إقدامه على إطلاق النار بقصد القتل العمد على أحد الأشخاص بالقرب من كراجات القدموس وفراره من المكان<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140314",
@@ -2276,17 +2288,6 @@
             "summary": "القبض على \"صلاح أبو راسم\" أحد قادة \"اللجان الشعبية\" في ميسلون والحميدية بمدينة حلب في عهد النظام البائد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الموقوف يتهم بالمشاركة بقمع المظاهرات في بداية الثورة والتسبب باعتقال عدد من الثوار والمشاركة بعدد من المعارك ضد الثوار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>كما يُتهم بالاستيلاء على أملاك عدد من الثوار والمدنيين بعد نزوحهم من مدينة حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/jXEp28dqbgnYT3IpXng7Q14p6VEukqugJNCOwmrtJXhxNacY_Y8gsdpc8ksTQWP2JAxmPr35TMjyMzO-VS86iAyg0RhXK-OH54EuihdaclTL-lUVO0N0M0cnYvIRowynLdQl_geKiCnNt6SdvSsoC9uoDucJZ8crg2QzqAUlAdPJcrxorEphsIigBwHMijdQgb4_0Rtv3xsY6i0xsdgBGASoLRuxUMx0sLTuu-vWDF8P9fNxoj_JZ297mDu3KNZzEUykac5pfmP0233kIUYt0Pbc0UFsqW6ljSNWyl-jrSvfcv_g0OyN1bzyTNpAofpe3Du7Qj2p79BujxAkq1HA4Q.jpg",
             "date_modified": "2026-08-31T21:39:42.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "090b151d637239411c44b9fd35a1994c4ecb9d5d08fb798cdc532bd7afd06e5c",
-            "content_html": "الجمعية العامة للأمم المتحدة تعتمد مشروع القرار الذي تقدمت به سوريا لإعلان 19 كانون الأول من كل عام يوماً دولياً لتكريم النساء الباحثات عن المفقودين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140105",
-            "title": "الجمعية العامة للأمم المتحدة تعتمد مشروع القرار الذي تقدمت به سوريا لإعلان 19…",
-            "summary": "الجمعية العامة للأمم المتحدة تعتمد مشروع القرار الذي تقدمت به سوريا لإعلان 19 كانون الأول من كل عام يوماً دولياً لتكريم النساء الباحثات عن المفقودين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-08-31T21:06:25.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
