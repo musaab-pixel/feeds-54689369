@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 21:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 23:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة : قوات الاحتلال تنفذ حملة اعتقالات واسعة في بلدة حجة شرق قلقيلية…]]></title>
+            <link>https://t.me/aljazeeraBrk/234185</link>
+            <guid isPermaLink="false">3a084ab394d4e20beab3eb1d9f6192741cd16287600a527330170e326a3f652d</guid>
+            <pubDate>Mon, 07 Sep 2026 23:15:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة : قوات الاحتلال تنفذ حملة اعتقالات واسعة في بلدة حجة شرق قلقيلية شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة : قوات الاحتلال تنفذ حملة اعتقالات واسعة في بلدة حجة شرق قلقيلية شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم مدينة دورا جنوب الخليل وتنفذ حملة…]]></title>
             <link>https://t.me/aljazeeraBrk/234184</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 05 Sep 2026 08:39:02 GMT</pubDate>
             <description><![CDATA[وكالة تسنيم: الناقلة أصيبت بأربعة مقذوفات أطلقتها قوات أمريكية أثناء وجودها في منطقة مرسى جزيرة خارك]]></description>
             <content:encoded><![CDATA[وكالة تسنيم: الناقلة أصيبت بأربعة مقذوفات أطلقتها قوات أمريكية أثناء وجودها في منطقة مرسى جزيرة خارك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تسنيم: قوات أمريكية استهدفت بصواريخ ناقلة نفط إيرانية على بعد ٦ أميال…]]></title>
-            <link>https://t.me/aljazeeraBrk/233885</link>
-            <guid isPermaLink="false">6dd11b4d8789afaacb152722e0092afa2e5fab09e2e74a0cd7956bcea3f23c11</guid>
-            <pubDate>Sat, 05 Sep 2026 08:38:02 GMT</pubDate>
-            <description><![CDATA[وكالة تسنيم: قوات أمريكية استهدفت بصواريخ ناقلة نفط إيرانية على بعد ٦ أميال بحرية من جزيرة خارك]]></description>
-            <content:encoded><![CDATA[وكالة تسنيم: قوات أمريكية استهدفت بصواريخ ناقلة نفط إيرانية على بعد ٦ أميال بحرية من جزيرة خارك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
