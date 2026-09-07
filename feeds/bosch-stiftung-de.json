@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "051fc193ed55291b7ef8e0bd29ca887ebefc7030614064bbbe10f0d82d3feb33",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für den Bereich Bildung (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-07T14:50:58+02:00\" title=\"Montag, 7 September 2026 - 14:50\" class=\"datetime\">Mo. 7 Sep 2026 - 14:50</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/werkstudent-fuer-den-bereich-bildung-wmdiv",
+            "title": "Werkstudent für den Bereich Bildung (w/m/div.)",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für den Bereich Bildung (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-07T14:50:58+02:00\" title=\"Montag, 7 September 2026 - 14:50\" class=\"datetime\">Mo. 7 Sep 2026 - 14:50</time>\n</span>\n",
+            "date_modified": "2026-09-07T12:50:58.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "b9ebded03cdbc4be641dc4a6ee1743339d69da5d088f8725338b3775e663f63b",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-08-31T15:20:50+02:00\" title=\"Montag, 31 August 2026 - 15:20\" class=\"datetime\">Mo. 31 Aug 2026 - 15:20</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-mwdiv-fuer-den-bereich-bildung",

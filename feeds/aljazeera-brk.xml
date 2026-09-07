@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 12:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 12:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الصحة اللبنانية: ارتفاع عدد ضحايا الاستهدافات الإسرائيلية خلال 3 أيام إلى…]]></title>
+            <link>https://t.me/aljazeeraBrk/234115</link>
+            <guid isPermaLink="false">3dd0b60895e44dd72266ce27713b209430ed3b30741c2d2a740b37f5cd6568ef</guid>
+            <pubDate>Mon, 07 Sep 2026 12:47:02 GMT</pubDate>
+            <description><![CDATA[وزارة الصحة اللبنانية: ارتفاع عدد ضحايا الاستهدافات الإسرائيلية خلال 3 أيام إلى 27 شهيدا و69 مصابا]]></description>
+            <content:encoded><![CDATA[وزارة الصحة اللبنانية: ارتفاع عدد ضحايا الاستهدافات الإسرائيلية خلال 3 أيام إلى 27 شهيدا و69 مصابا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة اللبنانية: 12 شهيدا و10 مصابين في غارتين إسرائيليتين فجر اليوم على…]]></title>
             <link>https://t.me/aljazeeraBrk/234114</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 04 Sep 2026 20:42:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة اللبنانية: 3 شهداء و23 جريحا في حصيلة أولية للغارات الإسرائيلية على جنوب وشرق لبنان مساء اليوم]]></description>
             <content:encoded><![CDATA[وزارة الصحة اللبنانية: 3 شهداء و23 جريحا في حصيلة أولية للغارات الإسرائيلية على جنوب وشرق لبنان مساء اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: قواتنا ستواصل العمل بقوة في مواجهة المحاولات المتكررة لحزب…]]></title>
-            <link>https://t.me/aljazeeraBrk/233850</link>
-            <guid isPermaLink="false">4fac4553a21e85d92e37251eac7b409beadb07b5e45be20040c8f85f18117bb5</guid>
-            <pubDate>Fri, 04 Sep 2026 20:20:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: قواتنا ستواصل العمل بقوة في مواجهة المحاولات المتكررة لحزب الله للمساس بها]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: قواتنا ستواصل العمل بقوة في مواجهة المحاولات المتكررة لحزب الله للمساس بها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
