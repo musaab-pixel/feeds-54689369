@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 09:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 09:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قضينا على منفذ عملية طعن مستوطن قرب نابلس شمالي الضفة الغربية]]></title>
+            <link>https://t.me/aljazeeraBrk/234096</link>
+            <guid isPermaLink="false">45f434297a58f019e2732ac0064a3e17a96ed41359e83ac3cf1ab4039ac823c3</guid>
+            <pubDate>Mon, 07 Sep 2026 09:36:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قضينا على منفذ عملية طعن مستوطن قرب نابلس شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قضينا على منفذ عملية طعن مستوطن قرب نابلس شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نتنياهو: سنواصل القضاء على المخربين وملاحقة من يرسلهم وتدمير البنية التحتية…]]></title>
             <link>https://t.me/aljazeeraBrk/234095</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 04 Sep 2026 11:35:02 GMT</pubDate>
             <description><![CDATA[وكالة فارس: مقتل عنصر من حرس الحدود الإيراني في اشتباك مع مسلحين في مدينة باوه بمحافظة كرمانشاه غربي البلاد]]></description>
             <content:encoded><![CDATA[وكالة فارس: مقتل عنصر من حرس الحدود الإيراني في اشتباك مع مسلحين في مدينة باوه بمحافظة كرمانشاه غربي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: نرفض اتهامات ألمانيا لروسيا بمزاعم التورط في حادثة الطائرة المسيرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/233791</link>
-            <guid isPermaLink="false">cc06c3577e8a23859b6f5427ae6c35bb77a089e9e5e93a22ffa7c15234bee166</guid>
-            <pubDate>Fri, 04 Sep 2026 10:27:02 GMT</pubDate>
-            <description><![CDATA[الكرملين: نرفض اتهامات ألمانيا لروسيا بمزاعم التورط في حادثة الطائرة المسيرة بمطار لايبزيغ]]></description>
-            <content:encoded><![CDATA[الكرملين: نرفض اتهامات ألمانيا لروسيا بمزاعم التورط في حادثة الطائرة المسيرة بمطار لايبزيغ]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
