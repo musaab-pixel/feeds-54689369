@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 20:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 21:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي…]]></title>
+            <link>https://t.me/aljazeeraBrk/234182</link>
+            <guid isPermaLink="false">67dd9ade692f0d9a6dc082dc8876eb0eba16248e396e47613fe92f959edd809d</guid>
+            <pubDate>Mon, 07 Sep 2026 21:00:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي القدس المحتلة]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي القدس المحتلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: حاملة الطائرات جورج بوش تواصل دعم تنفيذ الحصار…]]></title>
             <link>https://t.me/aljazeeraBrk/234181</link>
@@ -2046,15 +2055,6 @@
             <pubDate>Sun, 06 Sep 2026 23:50:02 GMT</pubDate>
             <description><![CDATA[شركة كبلر لتتبع السفن: تراجع حركة الملاحة بمضيق هرمز خلال الأيام الـ10 الماضية لأدنى مستوى لها منذ مايو الماضي]]></description>
             <content:encoded><![CDATA[شركة كبلر لتتبع السفن: تراجع حركة الملاحة بمضيق هرمز خلال الأيام الـ10 الماضية لأدنى مستوى لها منذ مايو الماضي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: إنذار لسكان مبنى في دير الزهراني جنوبي لبنان والمباني…]]></title>
-            <link>https://t.me/aljazeeraBrk/234055</link>
-            <guid isPermaLink="false">5e3797525e18f44d6b7a6857e86bb0c5fb7e4909577b240a5e835549c018e635</guid>
-            <pubDate>Sun, 06 Sep 2026 23:31:01 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: إنذار لسكان مبنى في دير الزهراني جنوبي لبنان والمباني المجاورة له بضرورة الإخلاء الفوري]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: إنذار لسكان مبنى في دير الزهراني جنوبي لبنان والمباني المجاورة له بضرورة الإخلاء الفوري]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

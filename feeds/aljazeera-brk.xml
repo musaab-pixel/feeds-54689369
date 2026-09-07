@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 20:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 21:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي…]]></title>
+            <link>https://t.me/aljazeeraBrk/234182</link>
+            <guid isPermaLink="false">67dd9ade692f0d9a6dc082dc8876eb0eba16248e396e47613fe92f959edd809d</guid>
+            <pubDate>Mon, 07 Sep 2026 21:00:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي القدس المحتلة]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي القدس المحتلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: حاملة الطائرات جورج بوش تواصل دعم تنفيذ الحصار…]]></title>
             <link>https://t.me/aljazeeraBrk/234181</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 05 Sep 2026 07:50:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: سلاح الجو استهدف مستودعات أسلحة كانت مخصصة للتخطيط لهجمات ضد قواتنا وإسرائيليين مساء أمس]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: سلاح الجو استهدف مستودعات أسلحة كانت مخصصة للتخطيط لهجمات ضد قواتنا وإسرائيليين مساء أمس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: هاجمنا عناصر وبنى تحتية لحزب الله في جنوب لبنان ردا على إطلاق…]]></title>
-            <link>https://t.me/aljazeeraBrk/233882</link>
-            <guid isPermaLink="false">07d4f0354f2ce3d92daa40f527a9cda1d3da854a75b281cc8712d0b445f0eecf</guid>
-            <pubDate>Sat, 05 Sep 2026 07:46:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: هاجمنا عناصر وبنى تحتية لحزب الله في جنوب لبنان ردا على إطلاق مسيرة باتجاه قواتنا مساء أمس]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: هاجمنا عناصر وبنى تحتية لحزب الله في جنوب لبنان ردا على إطلاق مسيرة باتجاه قواتنا مساء أمس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
