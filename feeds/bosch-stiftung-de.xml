@@ -4,7 +4,7 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 12:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 11:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -24,6 +24,23 @@
 </span>
 ]]></content:encoded>
             <author>Claudia Hagen</author>
+        </item>
+        <item>
+            <title><![CDATA[Neuer Report über die EU-Außengrenze: Die Kartografierung der „Todeszone“]]></title>
+            <link>https://bosch-stiftung.de/story/neuer-report-ueber-die-eu-aussengrenze-die-kartografierung-der-todeszone</link>
+            <guid isPermaLink="false">ee71e5327cdc541e9da9595978a0f55561f38152171ca6daf0ffe0c141c3953a</guid>
+            <pubDate>Fri, 04 Sep 2026 09:01:24 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Neuer Report über die EU-Außengrenze: Die Kartografierung der „Todeszone“ </span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-04T11:01:24+02:00" title="Freitag, 4 September 2026 - 11:01" class="datetime">Fr. 4 Sep 2026 - 11:01</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Neuer Report über die EU-Außengrenze: Die Kartografierung der „Todeszone“ </span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-04T11:01:24+02:00" title="Freitag, 4 September 2026 - 11:01" class="datetime">Fr. 4 Sep 2026 - 11:01</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
         </item>
         <item>
             <title><![CDATA[Freiwilliges Praktikum für Absolventen (m/w/div.) für den Bereich Bildung]]></title>

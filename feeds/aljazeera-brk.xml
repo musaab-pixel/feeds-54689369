@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 11:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 11:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تسنيم: مقتل قيادي من الباسيج في هجوم إرهابي بمدينة راسك في محافظة سيستان…]]></title>
+            <link>https://t.me/aljazeeraBrk/234268</link>
+            <guid isPermaLink="false">525b9595179d5e2f6f1d0a033d82f2b772c29d9b1b07fdcc0face42d8dda00c2</guid>
+            <pubDate>Tue, 08 Sep 2026 11:34:02 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم: مقتل قيادي من الباسيج في هجوم إرهابي بمدينة راسك في محافظة سيستان وبلوشستان جنوب شرقي إيران]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم: مقتل قيادي من الباسيج في هجوم إرهابي بمدينة راسك في محافظة سيستان وبلوشستان جنوب شرقي إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطن يدهس طفلا فلسطينيا في قرية أبو نجيم جنوب شرق بيت لحم…]]></title>
             <link>https://t.me/aljazeeraBrk/234267</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 06 Sep 2026 14:24:02 GMT</pubDate>
             <description><![CDATA[الرئيس الأوكراني: انتهاء الجولة الأولى من المحادثات مع المفاوضين الأمريكيين]]></description>
             <content:encoded><![CDATA[الرئيس الأوكراني: انتهاء الجولة الأولى من المحادثات مع المفاوضين الأمريكيين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على شارع الشفاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/234022</link>
-            <guid isPermaLink="false">8f87d99ad2294cde4fc97d26f5782bdc83392c4429e0661818639f86a7d9d389</guid>
-            <pubDate>Sun, 06 Sep 2026 14:22:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على شارع الشفاء غربي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على شارع الشفاء غربي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
