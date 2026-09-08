@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 13:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 14:01:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة إسرائيلية على منزل في مدينة غزة بعد أمر بإخلائه]]></title>
+            <link>https://t.me/aljazeeraBrk/234294</link>
+            <guid isPermaLink="false">6870fdcdc77b93480f9d16a9214f292b043ff7a99d77a6e4a03e296dbd3a34c4</guid>
+            <pubDate>Tue, 08 Sep 2026 13:51:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة إسرائيلية على منزل في مدينة غزة بعد أمر بإخلائه]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة إسرائيلية على منزل في مدينة غزة بعد أمر بإخلائه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الدفاع الألماني: سنسلم أوكرانيا صواريخ اعتراضية طراز باك 2 المخصصة لمنظومة…]]></title>
             <link>https://t.me/aljazeeraBrk/234293</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 07 Sep 2026 05:04:02 GMT</pubDate>
             <description><![CDATA[الدفاع الروسية: استهدفنا بمسيرات هجومية سفينة شحن عسكرية في ميناء تشيرنومورسك الأوكراني]]></description>
             <content:encoded><![CDATA[الدفاع الروسية: استهدفنا بمسيرات هجومية سفينة شحن عسكرية في ميناء تشيرنومورسك الأوكراني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: دمرنا غرفة القيادة والسيطرة واستهدفنا تجمعات للحوثيين…]]></title>
-            <link>https://t.me/aljazeeraBrk/234059</link>
-            <guid isPermaLink="false">832027c399ec4ab6301016699e1d1ed9831d4dafc3b505ecd4533bbb8a1b4118</guid>
-            <pubDate>Mon, 07 Sep 2026 00:49:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: دمرنا غرفة القيادة والسيطرة واستهدفنا تجمعات للحوثيين بجبهة مريس في محافظة الضالع]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: دمرنا غرفة القيادة والسيطرة واستهدفنا تجمعات للحوثيين بجبهة مريس في محافظة الضالع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
