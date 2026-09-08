@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "7e59a67f688838a244727f440cad082f7d1123801256e552c99bb980705a8f6e",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 08-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140318",
+            "title": "☀️ حالة الطقس في سوريا 08-09-2026 لمتابعة أحدث الأخبار والتطورات في سوريا…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 08-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/W6G_m-rKgH3HUv73aidsjS8ecHadPMhROFcRmUr2gm4BE9SyaAMQe2RlNIhIOSpto9UKQnIyxY1Sz8gHI6FuBaBjfZqwIFX4NcY919X3HI-CMgBXKRswPy-CFlHCQTmssG10_qaF_YrXHajc29_S8-v_VGqQC-TFjmNgMl2aVwjquU0J77m3s5zKdWEFAxOArenkoWj9fMyQKp8NmmFjDLUMAA46j5haYIXRADn2dN6B1l7krO6tXQwAwGlTjobnc6GZlN5x1cBl8m0KCtIicCgCRYZoT_4GNj5i_lkvW5fQmmOLJLX61mgUzoAXBCjaNUwUPVGZ4nQmDBmApbFaPw.jpg",
+            "date_modified": "2026-09-08T05:20:39.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "bc0a8723ebcce5876f8eba8c4e59fb972f39ea329f40313dd878d9a733551b53",
+            "content_html": "مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا شمالي القطاع",
+            "url": "https://t.me/aljazeeraBrk/234204",
+            "title": "مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا…",
+            "summary": "مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا شمالي القطاع",
+            "date_modified": "2026-09-08T05:19:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "70b66adf28163f146373a00f7e0e045791c3def414e62ecf300d5b850d0ce201",
             "content_html": "مراسل الجزيرة: اندلاع اشتباكات بين فلسطينيين وقوات الاحتلال عقب حصار منزل في بلدة عقربا جنوبي نابلس",
             "url": "https://t.me/aljazeeraBrk/234203",
@@ -1597,28 +1620,6 @@
             "title": "وسائل إعلام إسرائيلية: إصابة شخص بجروح خطيرة في عملية طعن قرب قرية أوصرين جنوب…",
             "summary": "وسائل إعلام إسرائيلية: إصابة شخص بجروح خطيرة في عملية طعن قرب قرية أوصرين جنوب نابلس",
             "date_modified": "2026-09-07T07:52:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "786353b81e804243dc39c4b90ad2224abaddf00b9a36888d781d1b9c94720422",
-            "content_html": "تاس: رئيسا وزراء روسيا وكوريا الشمالية يفتتحان جسرا على حدود البلدين",
-            "url": "https://t.me/aljazeeraBrk/234071",
-            "title": "تاس: رئيسا وزراء روسيا وكوريا الشمالية يفتتحان جسرا على حدود البلدين",
-            "summary": "تاس: رئيسا وزراء روسيا وكوريا الشمالية يفتتحان جسرا على حدود البلدين",
-            "date_modified": "2026-09-07T07:51:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "dd8e05a53622a749984c72bc3c733fd3c6682ba132fa0e780a22f96271b6702c",
-            "content_html": "الخارجية الإيرانية: مسودة القرار الأمريكي الأوروبي ضدنا بوكالة الطاقة الذرية تستند لتقرير مسيس لمدير الوكالة",
-            "url": "https://t.me/aljazeeraBrk/234070",
-            "title": "الخارجية الإيرانية: مسودة القرار الأمريكي الأوروبي ضدنا بوكالة الطاقة الذرية…",
-            "summary": "الخارجية الإيرانية: مسودة القرار الأمريكي الأوروبي ضدنا بوكالة الطاقة الذرية تستند لتقرير مسيس لمدير الوكالة",
-            "date_modified": "2026-09-07T07:48:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }

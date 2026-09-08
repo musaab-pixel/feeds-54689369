@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 04:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 05:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا…]]></title>
+            <link>https://t.me/aljazeeraBrk/234204</link>
+            <guid isPermaLink="false">bc0a8723ebcce5876f8eba8c4e59fb972f39ea329f40313dd878d9a733551b53</guid>
+            <pubDate>Tue, 08 Sep 2026 05:19:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا شمالي القطاع]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا شمالي القطاع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: اندلاع اشتباكات بين فلسطينيين وقوات الاحتلال عقب حصار منزل في…]]></title>
             <link>https://t.me/aljazeeraBrk/234203</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 06 Sep 2026 02:45:02 GMT</pubDate>
             <description><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي بالعاصمة الإندونيسية جاكرتا عقب ثوران بركاني]]></description>
             <content:encoded><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي بالعاصمة الإندونيسية جاكرتا عقب ثوران بركاني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي في إندونيسيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/233958</link>
-            <guid isPermaLink="false">f8e3578500851c8ca2d22dc62e4b1086f9171c88a5c8bcceaf6431250b198b99</guid>
-            <pubDate>Sun, 06 Sep 2026 02:42:02 GMT</pubDate>
-            <description><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي في إندونيسيا عقب ثوران بركاني]]></description>
-            <content:encoded><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي في إندونيسيا عقب ثوران بركاني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
