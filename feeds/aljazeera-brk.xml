@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 17:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 17:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: وحداتنا منتشرة في جميع المناطق التي لا وجود فيها للاحتلال…]]></title>
+            <link>https://t.me/aljazeeraBrk/234325</link>
+            <guid isPermaLink="false">7cdd2c4aa75e5b30b11366d62d8ceaf76eb93d2fb290eecb85b8b3225fa03cc6</guid>
+            <pubDate>Tue, 08 Sep 2026 17:23:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: وحداتنا منتشرة في جميع المناطق التي لا وجود فيها للاحتلال الإسرائيلي خاصة منطقة النبطية]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: وحداتنا منتشرة في جميع المناطق التي لا وجود فيها للاحتلال الإسرائيلي خاصة منطقة النبطية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: استهدفنا بالطائرات الحربية تجمعا ومركز قيادة لجماعة…]]></title>
+            <link>https://t.me/aljazeeraBrk/234324</link>
+            <guid isPermaLink="false">5574fc9e4108c6219e10659614f31c1775f7edf2438dd6c308b110a76ffe9554</guid>
+            <pubDate>Tue, 08 Sep 2026 17:19:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: استهدفنا بالطائرات الحربية تجمعا ومركز قيادة لجماعة الحوثي بجبهة جبل حبشي غربي تعز]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: استهدفنا بالطائرات الحربية تجمعا ومركز قيادة لجماعة الحوثي بجبهة جبل حبشي غربي تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن منطقتي جازان ونجران ومدينة أبها]]></title>
             <link>https://t.me/aljazeeraBrk/234323</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Mon, 07 Sep 2026 09:10:02 GMT</pubDate>
             <description><![CDATA[كاتس: لن نسمح بانتفاضة في الضفة الغربية تستمر سنوات وسنعمل على حسم المواجهة سريعا وبشكل كامل]]></description>
             <content:encoded><![CDATA[كاتس: لن نسمح بانتفاضة في الضفة الغربية تستمر سنوات وسنعمل على حسم المواجهة سريعا وبشكل كامل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة البث الإسرائيلية عن كاتس: سنبدأ حربا شاملة ضد السلطة الفلسطينية إذا تأكد…]]></title>
-            <link>https://t.me/aljazeeraBrk/234090</link>
-            <guid isPermaLink="false">df72e8f36f9395ace971102fa6ad3662e9a0d846f8bd29975c44c316963896f3</guid>
-            <pubDate>Mon, 07 Sep 2026 09:09:02 GMT</pubDate>
-            <description><![CDATA[هيئة البث الإسرائيلية عن كاتس: سنبدأ حربا شاملة ضد السلطة الفلسطينية إذا تأكد استعدادها لهجوم مثل 7 أكتوبر]]></description>
-            <content:encoded><![CDATA[هيئة البث الإسرائيلية عن كاتس: سنبدأ حربا شاملة ضد السلطة الفلسطينية إذا تأكد استعدادها لهجوم مثل 7 أكتوبر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة البث الإسرائيلية عن وزير الدفاع: أصدرت مع نتنياهو تعليمات للجيش للاستعداد…]]></title>
-            <link>https://t.me/aljazeeraBrk/234089</link>
-            <guid isPermaLink="false">1662c20b21f22273b3c4dc53d750b0d38239ad101b89db04a4e7b0a82d16ffa9</guid>
-            <pubDate>Mon, 07 Sep 2026 09:06:02 GMT</pubDate>
-            <description><![CDATA[هيئة البث الإسرائيلية عن وزير الدفاع: أصدرت مع نتنياهو تعليمات للجيش للاستعداد لحرب شاملة ضد الإرهاب في الضفة]]></description>
-            <content:encoded><![CDATA[هيئة البث الإسرائيلية عن وزير الدفاع: أصدرت مع نتنياهو تعليمات للجيش للاستعداد لحرب شاملة ضد الإرهاب في الضفة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
