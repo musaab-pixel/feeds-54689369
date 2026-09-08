@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 05:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 05:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: إصابة مسن برصاص قوات الاحتلال الإسرائيلي خارج مناطق انتشارها…]]></title>
+            <link>https://t.me/aljazeeraBrk/234205</link>
+            <guid isPermaLink="false">ce091d00af38644567ec325e3f0f6b0636f9181391440cb3a9d6ff9e9443c414</guid>
+            <pubDate>Tue, 08 Sep 2026 05:35:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: إصابة مسن برصاص قوات الاحتلال الإسرائيلي خارج مناطق انتشارها جنوبي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: إصابة مسن برصاص قوات الاحتلال الإسرائيلي خارج مناطق انتشارها جنوبي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: مصاب بنيران مسيرة إسرائيلية في منطقة الفالوجا…]]></title>
             <link>https://t.me/aljazeeraBrk/234204</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 06 Sep 2026 02:52:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: انطلاق تمرين مفاجئ على مستوى هيئة الأركان لفحص الجاهزية لحدث واسع ومتعدد الجبهات]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: انطلاق تمرين مفاجئ على مستوى هيئة الأركان لفحص الجاهزية لحدث واسع ومتعدد الجبهات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي بالعاصمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/233959</link>
-            <guid isPermaLink="false">6acaaea7cdaf99b501fde52690fef2f47513a87a2b6da9fd22d0e0b822c541a1</guid>
-            <pubDate>Sun, 06 Sep 2026 02:45:02 GMT</pubDate>
-            <description><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي بالعاصمة الإندونيسية جاكرتا عقب ثوران بركاني]]></description>
-            <content:encoded><![CDATA[أ.ف.ب نقلا عن مصدر حكومي: تعليق الرحلات الجوية في المطار الرئيسي بالعاصمة الإندونيسية جاكرتا عقب ثوران بركاني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
