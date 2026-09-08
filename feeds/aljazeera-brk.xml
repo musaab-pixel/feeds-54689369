@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 07:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 07:38:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[خام برنت يرتفع ليقترب من 99 دولارا للبرميل والخام الأمريكي يتجاوز 94 دولارا…]]></title>
+            <link>https://t.me/aljazeeraBrk/234229</link>
+            <guid isPermaLink="false">25f38f017bb1826a305e0a12361f5cc960b23f477d07e023794bbad5f6ad6484</guid>
+            <pubDate>Tue, 08 Sep 2026 07:30:02 GMT</pubDate>
+            <description><![CDATA[خام برنت يرتفع ليقترب من 99 دولارا للبرميل والخام الأمريكي يتجاوز 94 دولارا لأول مرة منذ ٣ أشهر]]></description>
+            <content:encoded><![CDATA[خام برنت يرتفع ليقترب من 99 دولارا للبرميل والخام الأمريكي يتجاوز 94 دولارا لأول مرة منذ ٣ أشهر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس المجلس القروي بمسافر يطا للجزيرة: هدم خربة التبان سابقا والفخيت اليوم ينذر…]]></title>
             <link>https://t.me/aljazeeraBrk/234228</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 06 Sep 2026 07:58:02 GMT</pubDate>
             <description><![CDATA[مواقع اقتصادية إيرانية: هبوط قياسي جديد للريال وسعر صرف الدولار يسجل 2.229 مليون ريال في السوق الموازية]]></description>
             <content:encoded><![CDATA[مواقع اقتصادية إيرانية: هبوط قياسي جديد للريال وسعر صرف الدولار يسجل 2.229 مليون ريال في السوق الموازية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ عملية نسف واسعة داخل مناطق سيطرته جنوب شرقي…]]></title>
-            <link>https://t.me/aljazeeraBrk/233983</link>
-            <guid isPermaLink="false">3164cfc9c0fc01c5cd16c616e8906ebaa31a8a48b8ace8d7f26046cb5f82e023</guid>
-            <pubDate>Sun, 06 Sep 2026 07:46:01 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ عملية نسف واسعة داخل مناطق سيطرته جنوب شرقي مدينة دير البلح وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ عملية نسف واسعة داخل مناطق سيطرته جنوب شرقي مدينة دير البلح وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
