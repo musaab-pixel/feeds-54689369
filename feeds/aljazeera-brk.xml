@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 20:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 20:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: الجيش الأمريكي هاجم ناقلة نفط إيرانية ثانية بالقرب من سواحل…]]></title>
+            <link>https://t.me/aljazeeraBrk/234353</link>
+            <guid isPermaLink="false">7543af28e260bbf334dc3c7f50da5ea7cf71e1c0e458eb71c41e2617ebd7a55d</guid>
+            <pubDate>Tue, 08 Sep 2026 20:20:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: الجيش الأمريكي هاجم ناقلة نفط إيرانية ثانية بالقرب من سواحل جاسك جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: الجيش الأمريكي هاجم ناقلة نفط إيرانية ثانية بالقرب من سواحل جاسك جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: دوي انفجار مجهول في مدينة جاسك بمحافظة هرمزغان جنوبي البلاد]]></title>
             <link>https://t.me/aljazeeraBrk/234352</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 07 Sep 2026 13:09:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: استهدفنا مخازن أسلحة ومقار قيادة وبنى تحتية لحزب الله في منطقة الشقيف جنوبي لبنان]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: استهدفنا مخازن أسلحة ومقار قيادة وبنى تحتية لحزب الله في منطقة الشقيف جنوبي لبنان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: إصابة جنديين بجروح طفيفة خلال الاشتباك في منطقة الشقيف وتم…]]></title>
-            <link>https://t.me/aljazeeraBrk/234118</link>
-            <guid isPermaLink="false">d9a8433bf801d7452deea603a993c96299ec2c6b69c5435814ca5d47001f7587</guid>
-            <pubDate>Mon, 07 Sep 2026 13:08:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: إصابة جنديين بجروح طفيفة خلال الاشتباك في منطقة الشقيف وتم نقلهما إلى المستشفى]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: إصابة جنديين بجروح طفيفة خلال الاشتباك في منطقة الشقيف وتم نقلهما إلى المستشفى]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
