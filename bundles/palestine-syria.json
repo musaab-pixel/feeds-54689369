@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "bff1891956f15277b5fbca45f1c5f91c1b8563eaf1ddfbec5a1f0f02679ec4af",
+            "content_html": "وزير الخارجية السعودي: المملكة لن تتردد في حماية مصالحها وأداء واجباتها بما يحقق الأمن في اليمن والمنطقة",
+            "url": "https://t.me/aljazeeraBrk/234262",
+            "title": "وزير الخارجية السعودي: المملكة لن تتردد في حماية مصالحها وأداء واجباتها بما…",
+            "summary": "وزير الخارجية السعودي: المملكة لن تتردد في حماية مصالحها وأداء واجباتها بما يحقق الأمن في اليمن والمنطقة",
+            "date_modified": "2026-09-08T10:59:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "1450c46039e53a30f3545fea4533a057be5012219a8cbbb1ecb1ceffa778d899",
+            "content_html": "وزير الخارجية السعودي: الحوثيون يختارون تقديم مصالحهم الضيقة على مصالح اليمن ويلجأون إلى العنف",
+            "url": "https://t.me/aljazeeraBrk/234261",
+            "title": "وزير الخارجية السعودي: الحوثيون يختارون تقديم مصالحهم الضيقة على مصالح اليمن…",
+            "summary": "وزير الخارجية السعودي: الحوثيون يختارون تقديم مصالحهم الضيقة على مصالح اليمن ويلجأون إلى العنف",
+            "date_modified": "2026-09-08T10:56:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "966c7ff1a0d5515145431a355f2fe4800dfa8ac1419663c0f19350dbde8d1553",
             "content_html": "لافروف: الاتحاد الأوروبي يواصل منع التحول للحوار والسلام المستدام وإزالة الأسباب الجذرية للأزمة الأوكرانية",
             "url": "https://t.me/aljazeeraBrk/234260",
@@ -209,13 +231,13 @@
         },
         {
             "id": "ac04f8ed88730016bf875ed5eff18558bee4add2e6b4fc350a3f5b0c00323293",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxPR2dJbWRwREY1am5vLUlxQzIyZEFmRFMwSXlEREhMd2xlT3l1OEJ0b192RWVaY0M0N0J5ODJOQkpET1NDalRfSHU2YzR3cFVLTlFrM0lYZUtjT0FfWVk3ZE9URTlXVkkxaVRiQkh4bTdCb1k0aDFocndMUndmS0dsZ1JNZmNnM0xvUDFSQlVqTTZZRllnbmJ4eWZVeFlzUmhrTjRjcF85TjFZSDJHOXZaYUpCbndJQ1pIeEx0a1F1c3R2dDBUZTBJOTNIa0taUWZ6Q3MweUcyWnZZT3RjUGVNZHYxRUxHWHBkVnd4VVJCcWFKT3NXWGI0N0xGb2lfT2FmeEstZzJCTGNJeG45dU1Kejl1VmpjZzFMUWZWb1BWSlZSTEZBNWVIZkd5TXg0QVZiYmxOLU5kR2hTSE9ZSGVSZllqY2tKR002Tms0Zk9QMkEwQk9vb1NuMVQzNHVjMnc4MlFLbWhoTHljbUZNTDg1LU9qcE1nSXF3cm9vOUdzMWV5SndJa1loVFBXckplQ2R4SVVQLUdUc0gzUGpqd3pib2R6QVpvQ0xNNjlOU1pLdFR4bmNkMjh6OGx0cUpRR0hTQkJ4UTFCN2VsblJJY0VGUk5WOVkwZS1OcmdONFlhWHNrZ041RTdvdF92cjk3THRTZkZmSW5tRXNXYi1sdmoyZmNIZ19VY3paRkJhNDZfZVloS0pUOFRwVlk4bDFMNkE?oc=5\" target=\"_blank\">القاب جديدة لفلسطينيين في سوريا في بطولات المواي تاي والكيك بوكسينغ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">refugeesps.net</font>",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxPR2dJbWRwREY1am5vLUlxQzIyZEFmRFMwSXlEREhMd2xlT3l1OEJ0b192RWVaY0M0N0J5ODJOQkpET1NDalRfSHU2YzR3cFVLTlFrM0lYZUtjT0FfWVk3ZE9URTlXVkkxaVRiQkh4bTdCb1k0aDFocndMUndmS0dsZ1JNZmNnM0xvUDFSQlVqTTZZRllnbmJ4eWZVeFlzUmhrTjRjcF85TjFZSDJHOXZaYUpCbndJQ1pIeEx0a1F1c3R2dDBUZTBJOTNIa0taUWZ6Q3MweUcyWnZZT3RjUGVNZHYxRUxHWHBkVnd4VVJCcWFKT3NXWGI0N0xGb2lfT2FmeEstZzJCTGNJeG45dU1Kejl1VmpjZzFMUWZWb1BWSlZSTEZBNWVIZkd5TXg0QVZiYmxOLU5kR2hTSE9ZSGVSZllqY2tKR002Tms0Zk9QMkEwQk9vb1NuMVQzNHVjMnc4MlFLbWhoTHljbUZNTDg1LU9qcE1nSXF3cm9vOUdzMWV5SndJa1loVFBXckplQ2R4SVVQLUdUc0gzUGpqd3pib2R6QVpvQ0xNNjlOU1pLdFR4bmNkMjh6OGx0cUpRR0hTQkJ4UTFCN2VsblJJY0VGUk5WOVkwZS1OcmdONFlhWHNrZ041RTdvdF92cjk3THRTZkZmSW5tRXNXYi1sdmoyZmNIZ19VY3paRkJhNDZfZVloS0pUOFRwVlk4bDFMNkE?oc=5\" target=\"_blank\">القاب جديدة لفلسطينيين في سوريا في بطولات المواي تاي والكيك بوكسينغ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPR2dJbWRwREY1am5vLUlxQzIyZEFmRFMwSXlEREhMd2xlT3l1OEJ0b192RWVaY0M0N0J5ODJOQkpET1NDalRfSHU2YzR3cFVLTlFrM0lYZUtjT0FfWVk3ZE9URTlXVkkxaVRiQkh4bTdCb1k0aDFocndMUndmS0dsZ1JNZmNnM0xvUDFSQlVqTTZZRllnbmJ4eWZVeFlzUmhrTjRjcF85TjFZSDJHOXZaYUpCbndJQ1pIeEx0a1F1c3R2dDBUZTBJOTNIa0taUWZ6Q3MweUcyWnZZT3RjUGVNZHYxRUxHWHBkVnd4VVJCcWFKT3NXWGI0N0xGb2lfT2FmeEstZzJCTGNJeG45dU1Kejl1VmpjZzFMUWZWb1BWSlZSTEZBNWVIZkd5TXg0QVZiYmxOLU5kR2hTSE9ZSGVSZllqY2tKR002Tms0Zk9QMkEwQk9vb1NuMVQzNHVjMnc4MlFLbWhoTHljbUZNTDg1LU9qcE1nSXF3cm9vOUdzMWV5SndJa1loVFBXckplQ2R4SVVQLUdUc0gzUGpqd3pib2R6QVpvQ0xNNjlOU1pLdFR4bmNkMjh6OGx0cUpRR0hTQkJ4UTFCN2VsblJJY0VGUk5WOVkwZS1OcmdONFlhWHNrZ041RTdvdF92cjk3THRTZkZmSW5tRXNXYi1sdmoyZmNIZ19VY3paRkJhNDZfZVloS0pUOFRwVlk4bDFMNkE?oc=5",
-            "title": "القاب جديدة لفلسطينيين في سوريا في بطولات المواي تاي والكيك بوكسينغ - refugeesps.net",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxPR2dJbWRwREY1am5vLUlxQzIyZEFmRFMwSXlEREhMd2xlT3l1OEJ0b192RWVaY0M0N0J5ODJOQkpET1NDalRfSHU2YzR3cFVLTlFrM0lYZUtjT0FfWVk3ZE9URTlXVkkxaVRiQkh4bTdCb1k0aDFocndMUndmS0dsZ1JNZmNnM0xvUDFSQlVqTTZZRllnbmJ4eWZVeFlzUmhrTjRjcF85TjFZSDJHOXZaYUpCbndJQ1pIeEx0a1F1c3R2dDBUZTBJOTNIa0taUWZ6Q3MweUcyWnZZT3RjUGVNZHYxRUxHWHBkVnd4VVJCcWFKT3NXWGI0N0xGb2lfT2FmeEstZzJCTGNJeG45dU1Kejl1VmpjZzFMUWZWb1BWSlZSTEZBNWVIZkd5TXg0QVZiYmxOLU5kR2hTSE9ZSGVSZllqY2tKR002Tms0Zk9QMkEwQk9vb1NuMVQzNHVjMnc4MlFLbWhoTHljbUZNTDg1LU9qcE1nSXF3cm9vOUdzMWV5SndJa1loVFBXckplQ2R4SVVQLUdUc0gzUGpqd3pib2R6QVpvQ0xNNjlOU1pLdFR4bmNkMjh6OGx0cUpRR0hTQkJ4UTFCN2VsblJJY0VGUk5WOVkwZS1OcmdONFlhWHNrZ041RTdvdF92cjk3THRTZkZmSW5tRXNXYi1sdmoyZmNIZ19VY3paRkJhNDZfZVloS0pUOFRwVlk4bDFMNkE?oc=5\" target=\"_blank\">القاب جديدة لفلسطينيين في سوريا في بطولات المواي تاي والكيك بوكسينغ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">refugeesps.net</font>",
+            "title": "القاب جديدة لفلسطينيين في سوريا في بطولات المواي تاي والكيك بوكسينغ - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwRBVV95cUxPR2dJbWRwREY1am5vLUlxQzIyZEFmRFMwSXlEREhMd2xlT3l1OEJ0b192RWVaY0M0N0J5ODJOQkpET1NDalRfSHU2YzR3cFVLTlFrM0lYZUtjT0FfWVk3ZE9URTlXVkkxaVRiQkh4bTdCb1k0aDFocndMUndmS0dsZ1JNZmNnM0xvUDFSQlVqTTZZRllnbmJ4eWZVeFlzUmhrTjRjcF85TjFZSDJHOXZaYUpCbndJQ1pIeEx0a1F1c3R2dDBUZTBJOTNIa0taUWZ6Q3MweUcyWnZZT3RjUGVNZHYxRUxHWHBkVnd4VVJCcWFKT3NXWGI0N0xGb2lfT2FmeEstZzJCTGNJeG45dU1Kejl1VmpjZzFMUWZWb1BWSlZSTEZBNWVIZkd5TXg0QVZiYmxOLU5kR2hTSE9ZSGVSZllqY2tKR002Tms0Zk9QMkEwQk9vb1NuMVQzNHVjMnc4MlFLbWhoTHljbUZNTDg1LU9qcE1nSXF3cm9vOUdzMWV5SndJa1loVFBXckplQ2R4SVVQLUdUc0gzUGpqd3pib2R6QVpvQ0xNNjlOU1pLdFR4bmNkMjh6OGx0cUpRR0hTQkJ4UTFCN2VsblJJY0VGUk5WOVkwZS1OcmdONFlhWHNrZ041RTdvdF92cjk3THRTZkZmSW5tRXNXYi1sdmoyZmNIZ19VY3paRkJhNDZfZVloS0pUOFRwVlk4bDFMNkE?oc=5\" target=\"_blank\">القاب جديدة لفلسطينيين في سوريا في بطولات المواي تاي والكيك بوكسينغ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "date_modified": "2026-09-08T09:59:00.000Z",
             "author": {
-                "name": "refugeesps.net"
+                "name": "بوابة اللاجئين الفلسطينيين"
             }
         },
         {
@@ -1603,29 +1625,6 @@
             "summary": "وزارة الخارجية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>وزير الخارجية أسعد الشيباني يلتقي وزيرة الخارجية اليمنية أفراح الزوبة على هامش أعمال مجلس جامعة الدول العربية على المستوى الوزاري<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرى خلال اللقاء بحث سبل تعزيز العلاقات الثنائية بين البلدين وتطويرها في مختلف المجالات إلى جانب تبادل وجهات النظر حول عدد من القضايا ذات الاهتمام المشترك<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/YQZci3JBPIrfi7F8-V9FBQLbsn0XjdIrJmE7YioVwTO1SI20pugHfRWahcN-ejqoGunDLmuJYL57QIZpP4_3SbH2a7mpZAHwMUQBJSQX0qJhKk7e7HtSsl7eotXNhBcLGhykeMeLfWpiaOmy95uBnw15KmVVSmRyzvrIG0SCbO-03daFnKE_6vcqQaAcHja1VQQfCU3bsaRf34o8MsGTYnRzeX-JH8mnSE2-sOS6ozNYjHfEEL8ld41lMo2QJbhXySsI2G0UkKnT1XZs35L09bWKOGCmSxQflNBe5ZJENSUlRV_a7DYn68wiktCleeGYJdzyQBBguYg72iLJJlNakA.jpg",
             "date_modified": "2026-09-07T14:47:43.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "48953911796d028166c07f7844c667c9231b1e97c04e67b3dbc950ca3f597adc",
-            "content_html": "الخارجية الروسية: إغلاق القنصلية الألمانية في مدينة سانت بطرسبورغ",
-            "url": "https://t.me/aljazeeraBrk/234123",
-            "title": "الخارجية الروسية: إغلاق القنصلية الألمانية في مدينة سانت بطرسبورغ",
-            "summary": "الخارجية الروسية: إغلاق القنصلية الألمانية في مدينة سانت بطرسبورغ",
-            "date_modified": "2026-09-07T13:50:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "391cabc37565bd46d0b3665b7949f329de2f5f91c09210131b23f809cfdc707b",
-            "content_html": "إدارة مكافحة المخدرات:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إحباط محاولة تهريب كميات كبيرة من المواد المخدرة من قبل العصابات الخارجة عن القانون بريف السويداء كانت في طريقها إلى الأردن بواسطة البالونات الموجهة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أسفرت العملية عن ضبط 44 كيلوغراماً من مادة الحشيش المخدر و218 ألف حبة كبتاغون بالإضافة إلى أجهزة تحديد المواقع (Gps)<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140303",
-            "title": "إدارة مكافحة المخدرات: 📌إحباط محاولة تهريب كميات كبيرة من المواد المخدرة من…",
-            "summary": "إدارة مكافحة المخدرات:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إحباط محاولة تهريب كميات كبيرة من المواد المخدرة من قبل العصابات الخارجة عن القانون بريف السويداء كانت في طريقها إلى الأردن بواسطة البالونات الموجهة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أسفرت العملية عن ضبط 44 كيلوغراماً من مادة الحشيش المخدر و218 ألف حبة كبتاغون بالإضافة إلى أجهزة تحديد المواقع (Gps)<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/aDk1BatDgB-iVuGCAHFKoXt5HfS-uTbk18Pq9OvuGaqb_9CLSxIjGyaRQi_sEsxpC0UUH87wCNCxFnMAtB74kjKbnbbceD3xSNLQW4YDSsm2McBE73-2Wwrm6a7rshpMtTF2buJvpgVFtwqCf3zydbpIDSObCLLx3nP1rUs7_Fn5OtKnlKSczXC4FbIozjGSLbsclAZXo0Ad83_LJfCmBCRHyr9XuTDwa8nK_MY1Oca-2SIBlFf-nFC0MKT-abWxvVIjmG8ZeDDWf7qvtRLrWp4YRQmJ48wHaxOeHfUdsEOzQJQjypvoO3s5rqluseJdemJg7PBN7D5JjnC7EhDluQ.jpg",
-            "date_modified": "2026-09-07T13:47:59.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
