@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 03:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 04:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المنظمة الدولية للهجرة: نزوح نحو 18500 شخص خلال 3 أيام جراء تصاعد القتال على…]]></title>
+            <link>https://t.me/aljazeeraBrk/234201</link>
+            <guid isPermaLink="false">61468d83828d6a9b623f53ecf527a2dbfc6883607046b8c4f800c1308c63e67a</guid>
+            <pubDate>Tue, 08 Sep 2026 03:53:02 GMT</pubDate>
+            <description><![CDATA[المنظمة الدولية للهجرة: نزوح نحو 18500 شخص خلال 3 أيام جراء تصاعد القتال على الساحل الغربي لليمن]]></description>
+            <content:encoded><![CDATA[المنظمة الدولية للهجرة: نزوح نحو 18500 شخص خلال 3 أيام جراء تصاعد القتال على الساحل الغربي لليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم قوات التحالف: سنتخذ جميع التدابير والإجراءات اللازمة للرد على…]]></title>
             <link>https://t.me/aljazeeraBrk/234200</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 05 Sep 2026 11:56:02 GMT</pubDate>
             <description><![CDATA[القوات المسلحة اليمنية: الدفاعات الجوية أسقطت مسيرة رجوم تابعة للحوثيين شرق مدينة الحزم مركز محافظة الجوف]]></description>
             <content:encoded><![CDATA[القوات المسلحة اليمنية: الدفاعات الجوية أسقطت مسيرة رجوم تابعة للحوثيين شرق مدينة الحزم مركز محافظة الجوف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: بوتين يصدر أمرا بعدم شن أي ضربات على كييف لـ3 أيام في إطار…]]></title>
-            <link>https://t.me/aljazeeraBrk/233901</link>
-            <guid isPermaLink="false">8461172751e6ee2b909c72d5e0c2adc4ce332c2df7d4c104224167f660b6c274</guid>
-            <pubDate>Sat, 05 Sep 2026 11:49:01 GMT</pubDate>
-            <description><![CDATA[الكرملين: بوتين يصدر أمرا بعدم شن أي ضربات على كييف لـ3 أيام في إطار الاستعدادات لاستقبال الوفد الأمريكي]]></description>
-            <content:encoded><![CDATA[الكرملين: بوتين يصدر أمرا بعدم شن أي ضربات على كييف لـ3 أيام في إطار الاستعدادات لاستقبال الوفد الأمريكي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
