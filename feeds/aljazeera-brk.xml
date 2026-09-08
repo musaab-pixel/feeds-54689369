@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 19:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 19:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[فوكس نيوز عن مسؤولين أمريكيين: الضربات الحالية لا تمثل بداية مرحلة جديدة بل هي…]]></title>
+            <link>https://t.me/aljazeeraBrk/234341</link>
+            <guid isPermaLink="false">5cd2a70507c7b0ca68f9beb605b35538a49e1f589144983bff48c99dfc989fdc</guid>
+            <pubDate>Tue, 08 Sep 2026 19:51:02 GMT</pubDate>
+            <description><![CDATA[فوكس نيوز عن مسؤولين أمريكيين: الضربات الحالية لا تمثل بداية مرحلة جديدة بل هي جزء من الجهود الجارية لخنق اقتصاد إيران]]></description>
+            <content:encoded><![CDATA[فوكس نيوز عن مسؤولين أمريكيين: الضربات الحالية لا تمثل بداية مرحلة جديدة بل هي جزء من الجهود الجارية لخنق اقتصاد إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[فوكس نيوز عن مسؤولين أمريكيين: الجيش الأمريكي استهدف ناقلات نفط إيرانية قرب…]]></title>
             <link>https://t.me/aljazeeraBrk/234340</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 07 Sep 2026 11:07:02 GMT</pubDate>
             <description><![CDATA[الرئيس اللبناني: نحن مع التجديد للقوات الدولية ونسعى مع الرئيس الفرنسي لتسهيل الأمر]]></description>
             <content:encoded><![CDATA[الرئيس اللبناني: نحن مع التجديد للقوات الدولية ونسعى مع الرئيس الفرنسي لتسهيل الأمر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس اللبناني: نرحب بالمبادرة الفرنسية والإيطالية لتشكيل قوة أوروبية تملأ…]]></title>
-            <link>https://t.me/aljazeeraBrk/234106</link>
-            <guid isPermaLink="false">f28444356d3459b7df5c5e05b1a4edea9d72808f17b4964ee6eb343217d5803c</guid>
-            <pubDate>Mon, 07 Sep 2026 11:06:02 GMT</pubDate>
-            <description><![CDATA[الرئيس اللبناني: نرحب بالمبادرة الفرنسية والإيطالية لتشكيل قوة أوروبية تملأ الفراغ بعد انسحاب اليونيفيل]]></description>
-            <content:encoded><![CDATA[الرئيس اللبناني: نرحب بالمبادرة الفرنسية والإيطالية لتشكيل قوة أوروبية تملأ الفراغ بعد انسحاب اليونيفيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
