@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 09:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 09:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: هجوم بالمسيرات على العاصمة الأوكرانية كييف وتفعيل المضادات الجوية]]></title>
+            <link>https://t.me/aljazeeraBrk/234245</link>
+            <guid isPermaLink="false">91b4212ed7e488460e533609128af0681a7c82b2229c413cff17f810355469a5</guid>
+            <pubDate>Tue, 08 Sep 2026 09:29:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: هجوم بالمسيرات على العاصمة الأوكرانية كييف وتفعيل المضادات الجوية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: هجوم بالمسيرات على العاصمة الأوكرانية كييف وتفعيل المضادات الجوية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: تحرير منطقة اليتمة في محافظة الجوف من الجماعة الحوثية…]]></title>
             <link>https://t.me/aljazeeraBrk/234244</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 06 Sep 2026 10:05:02 GMT</pubDate>
             <description><![CDATA[رئيس البرلمان الإيراني: أي اعتداء على مصالحنا سيواجه برد قوي وسريع]]></description>
             <content:encoded><![CDATA[رئيس البرلمان الإيراني: أي اعتداء على مصالحنا سيواجه برد قوي وسريع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس البرلمان الإيراني: قواتنا المسلحة وجهت ضربات قوية للقواعد الأمريكية]]></title>
-            <link>https://t.me/aljazeeraBrk/233999</link>
-            <guid isPermaLink="false">14ca55d656358f2318e84311b119961669b85aa4575a7223139bd9d572c0e78b</guid>
-            <pubDate>Sun, 06 Sep 2026 10:04:01 GMT</pubDate>
-            <description><![CDATA[رئيس البرلمان الإيراني: قواتنا المسلحة وجهت ضربات قوية للقواعد الأمريكية]]></description>
-            <content:encoded><![CDATA[رئيس البرلمان الإيراني: قواتنا المسلحة وجهت ضربات قوية للقواعد الأمريكية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
