@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 08 Sep 2026 07:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 07:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تبدأ هدم مساكن في خربة الفخيت بمسافر…]]></title>
+            <link>https://t.me/aljazeeraBrk/234226</link>
+            <guid isPermaLink="false">600bbf2f58c209914c7f8bbe1a5ec8f00a0163ec04cadd7cce472a959db685bb</guid>
+            <pubDate>Tue, 08 Sep 2026 07:05:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تبدأ هدم مساكن في خربة الفخيت بمسافر يطا جنوب الخليل بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تبدأ هدم مساكن في خربة الفخيت بمسافر يطا جنوب الخليل بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[لافروف: محاولات فرض هدنة روسية أوكرانية في البحر الأسود غير واقعية وغير مقبولة]]></title>
             <link>https://t.me/aljazeeraBrk/234225</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 06 Sep 2026 07:34:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: سنجري غدا مناورة لقوات الأمن في إيلات ووادي عربة ستشمل تحركا لقوات الأمن وقطع بحرية وطائرات]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: سنجري غدا مناورة لقوات الأمن في إيلات ووادي عربة ستشمل تحركا لقوات الأمن وقطع بحرية وطائرات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت…]]></title>
-            <link>https://t.me/aljazeeraBrk/233980</link>
-            <guid isPermaLink="false">f6d902800eb1d8284cac90850a7f207620e5db0cd2726076d00bd25d04e056c4</guid>
-            <pubDate>Sun, 06 Sep 2026 07:20:02 GMT</pubDate>
-            <description><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت مناطق في جنوب البلاد اليوم]]></description>
-            <content:encoded><![CDATA[وزارة الصحة اللبنانية: 4 شهداء و20 جريحا في الغارات الإسرائيلية التي استهدفت مناطق في جنوب البلاد اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
