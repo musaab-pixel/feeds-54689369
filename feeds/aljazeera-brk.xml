@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 23:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 00:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز: دوي انفجارات في العاصمة الأوكرانية كييف وتفعيل الدفاعات الجوية]]></title>
+            <link>https://t.me/aljazeeraBrk/234188</link>
+            <guid isPermaLink="false">8aafa7f51fa8ec5e33641fef260dceb871ec71e74b38348c9c65589a74a88357</guid>
+            <pubDate>Tue, 08 Sep 2026 00:49:02 GMT</pubDate>
+            <description><![CDATA[رويترز: دوي انفجارات في العاصمة الأوكرانية كييف وتفعيل الدفاعات الجوية]]></description>
+            <content:encoded><![CDATA[رويترز: دوي انفجارات في العاصمة الأوكرانية كييف وتفعيل الدفاعات الجوية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: ما يجري في عناتا استمرار للحملة العسكرية الإسرائيلية لفرض حصار…]]></title>
             <link>https://t.me/aljazeeraBrk/234187</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 05 Sep 2026 08:51:02 GMT</pubDate>
             <description><![CDATA[السفير الأمريكي لدى إسرائيل: زيارتي لبلدة ترمسعيا بالضفة الغربية هي من أجل فهم الوضع على الأرض]]></description>
             <content:encoded><![CDATA[السفير الأمريكي لدى إسرائيل: زيارتي لبلدة ترمسعيا بالضفة الغربية هي من أجل فهم الوضع على الأرض]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مبعوثا الرئيس الأمريكي ويتكوف وكوشنر يصلان إلى موسكو]]></title>
-            <link>https://t.me/aljazeeraBrk/233888</link>
-            <guid isPermaLink="false">00cdcdcf465507df8e47aa4aef9431ceda14d89fbe2a03eb42836343eae57e33</guid>
-            <pubDate>Sat, 05 Sep 2026 08:40:03 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مبعوثا الرئيس الأمريكي ويتكوف وكوشنر يصلان إلى موسكو]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مبعوثا الرئيس الأمريكي ويتكوف وكوشنر يصلان إلى موسكو]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
