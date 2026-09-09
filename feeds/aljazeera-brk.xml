@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 09 Sep 2026 04:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 05:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مسؤول إسرائيلي: إبلاغ قنصلية بريطانيا في القدس الشرقية بأن…]]></title>
+            <link>https://t.me/aljazeeraBrk/234391</link>
+            <guid isPermaLink="false">8e465181567019b9063e661a2ad1ab560684fa1b7a5c6b560868a6bf9958bc67</guid>
+            <pubDate>Wed, 09 Sep 2026 05:44:03 GMT</pubDate>
+            <description><![CDATA[رويترز عن مسؤول إسرائيلي: إبلاغ قنصلية بريطانيا في القدس الشرقية بأن دبلوماسييها سيفقدون اعتمادهم خلال 30 يوما]]></description>
+            <content:encoded><![CDATA[رويترز عن مسؤول إسرائيلي: إبلاغ قنصلية بريطانيا في القدس الشرقية بأن دبلوماسييها سيفقدون اعتمادهم خلال 30 يوما]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيانات شركة كبلر: مرور 6 سفن سلع عبر مضيق هرمز الثلاثاء وهو تراجع عن معدله خلال…]]></title>
             <link>https://t.me/aljazeeraBrk/234390</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 07 Sep 2026 21:00:03 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي القدس المحتلة]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات كبيرة من جيش الاحتلال تقتحم بلدة عناتا ومخيم شعفاط شرقي القدس المحتلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القيادة المركزية الأمريكية: حاملة الطائرات جورج بوش تواصل دعم تنفيذ الحصار…]]></title>
-            <link>https://t.me/aljazeeraBrk/234181</link>
-            <guid isPermaLink="false">590621c25fc96b7ad5f428edab63271eff96cf5052e892acc2a06aec4339d7b1</guid>
-            <pubDate>Mon, 07 Sep 2026 20:44:02 GMT</pubDate>
-            <description><![CDATA[القيادة المركزية الأمريكية: حاملة الطائرات جورج بوش تواصل دعم تنفيذ الحصار المفروض على إيران في بحر العرب]]></description>
-            <content:encoded><![CDATA[القيادة المركزية الأمريكية: حاملة الطائرات جورج بوش تواصل دعم تنفيذ الحصار المفروض على إيران في بحر العرب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
