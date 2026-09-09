@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "3e07318275294aad1449ea21c8c849169feb4e5e0743da9ce4358ff771d12749",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/european-sentiment-compass-2026/\">Future Nostalgia. European Sentiment Compass 2026</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/european-sentiment-compass-2026/",
+            "title": "Future Nostalgia. European Sentiment Compass 2026",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/european-sentiment-compass-2026/\">Future Nostalgia. European Sentiment Compass 2026</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-09-09T06:43:47.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "18cd725b31b35e79797cfec69494892f81f92893933b723ebffcd76c28b509f9",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/europe-culture-back-to-the-future/\">Europe &#038; Culture: Back to the Future.</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/europe-culture-back-to-the-future/",
