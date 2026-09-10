@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 10 Sep 2026 11:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 11:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: غارتان إسرائيليتان على بلدة النبطية الفوقا جنوبي لبنان]]></title>
+            <link>https://t.me/aljazeeraBrk/234582</link>
+            <guid isPermaLink="false">fe041776246d5e2a2f11430320376dfd6744fea5c4e179fcb2dec003f6a4c556</guid>
+            <pubDate>Thu, 10 Sep 2026 11:36:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: غارتان إسرائيليتان على بلدة النبطية الفوقا جنوبي لبنان]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: غارتان إسرائيليتان على بلدة النبطية الفوقا جنوبي لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: سفينة شحن أبلغت عن اقتراب زورق صغير…]]></title>
             <link>https://t.me/aljazeeraBrk/234581</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 08 Sep 2026 10:22:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: نعمل مع الشركاء في الإقليم والعالم لاستئناف الحوار وحل الأزمة وإنهاء التوتر في المنطقة]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: نعمل مع الشركاء في الإقليم والعالم لاستئناف الحوار وحل الأزمة وإنهاء التوتر في المنطقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: فتح مضيق هرمز يشكل أهمية قصوى بالنسبة لنا وللجميع في المنطقة]]></title>
-            <link>https://t.me/aljazeeraBrk/234251</link>
-            <guid isPermaLink="false">e6d37e1cdb9d8caf49febdfc8d9efbc87491410ca9dec13ff3a3ab2737c5163f</guid>
-            <pubDate>Tue, 08 Sep 2026 10:22:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: فتح مضيق هرمز يشكل أهمية قصوى بالنسبة لنا وللجميع في المنطقة]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: فتح مضيق هرمز يشكل أهمية قصوى بالنسبة لنا وللجميع في المنطقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
