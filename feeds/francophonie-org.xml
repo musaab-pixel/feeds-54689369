@@ -4,10 +4,116 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 07 Sep 2026 09:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 00:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Carte officielle de la Francophonie]]></title>
+            <link>https://www.francophonie.org/node/8651</link>
+            <guid isPermaLink="false">acb9d96e9660df875d583850b9e5a8acd35d92e77be1302864100ecb1e6356e2</guid>
+            <pubDate>Wed, 09 Sep 2026 14:40:42 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Carte officielle de la Francophonie</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 09/09/2026 - 14:40</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Carte_OIF_2026_800X600.pdf" type="application/pdf; length=627056">Carte_OIF_2026_800X600.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/634" hreflang="fr">Carte officielle</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Carte officielle de la Francophonie</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 09/09/2026 - 14:40</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Carte_OIF_2026_800X600.pdf" type="application/pdf; length=627056">Carte_OIF_2026_800X600.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/634" hreflang="fr">Carte officielle</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Carte de l'OIF pour enfants]]></title>
+            <link>https://www.francophonie.org/node/8652</link>
+            <guid isPermaLink="false">fb3d934e797d594dfcc641afb5a1c12c29de20e7c356b33d31d125024ad9dfc7</guid>
+            <pubDate>Wed, 09 Sep 2026 14:36:04 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Carte de l'OIF pour enfants</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 09/09/2026 - 14:36</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Carte_OIF_2026_800X600_VAINUI_HD.pdf" type="application/pdf; length=14864020">Carte_OIF_2026_800X600_VAINUI_HD.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/635" hreflang="fr">Autres cartes</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Carte de l'OIF pour enfants</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 09/09/2026 - 14:36</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Carte_OIF_2026_800X600_VAINUI_HD.pdf" type="application/pdf; length=14864020">Carte_OIF_2026_800X600_VAINUI_HD.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/635" hreflang="fr">Autres cartes</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Multilinguisme aux Nations Unies : la Francophonie mobilisée pour une nouvelle résolution à la hauteur des enjeux]]></title>
             <link>https://www.francophonie.org/multilinguisme-aux-nations-unies-la-francophonie-mobilisee-pour-une-nouvelle-resolution-la-hauteur</link>
