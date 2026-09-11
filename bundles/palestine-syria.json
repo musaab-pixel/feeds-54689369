@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "5716839252cd7713d2e129353304d86f55d9234fcc0dac8d919d2cf3b96459de",
+            "content_html": "بزشكيان: لا أؤيد استمرار الحرب وعلينا الصمود أمام الظروف المقبلة حتى لا نضطر للتفاوض مع العدو في ظروف أخرى",
+            "url": "https://t.me/aljazeeraBrk/234706",
+            "title": "بزشكيان: لا أؤيد استمرار الحرب وعلينا الصمود أمام الظروف المقبلة حتى لا نضطر…",
+            "summary": "بزشكيان: لا أؤيد استمرار الحرب وعلينا الصمود أمام الظروف المقبلة حتى لا نضطر للتفاوض مع العدو في ظروف أخرى",
+            "date_modified": "2026-09-11T07:35:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "653ce2d8f8d4ff3ef262e2f332fc41e3c51b2069d36fb74ba647fdc9b5abd641",
+            "content_html": "الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفة مدفعية الأراضي الزراعية غربي بلدة بيت جن بريف دمشق الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140440",
+            "title": "الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفة مدفعية الأراضي الزراعية غربي…",
+            "summary": "الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفة مدفعية الأراضي الزراعية غربي بلدة بيت جن بريف دمشق الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-11T07:30:06.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "6ed2cf196e9b8166d0451b11f4632fc30bbd2d416d9e004f6c11e1a269eec3d9",
+            "content_html": "إذاعة الجيش الإسرائيلي: قواتنا ستسيطر ناريا على مرتفعات علي الطاهر وستواجه أي محاولة لحزب الله للعودة إليها",
+            "url": "https://t.me/aljazeeraBrk/234705",
+            "title": "إذاعة الجيش الإسرائيلي: قواتنا ستسيطر ناريا على مرتفعات علي الطاهر وستواجه أي…",
+            "summary": "إذاعة الجيش الإسرائيلي: قواتنا ستسيطر ناريا على مرتفعات علي الطاهر وستواجه أي محاولة لحزب الله للعودة إليها",
+            "date_modified": "2026-09-11T07:29:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7e9261c8b79d942fd1ae240d93c8740a0399e91398f371b4d244cf029362f3b8",
+            "content_html": "إذاعة الجيش الإسرائيلي: قواتنا انسحبت من مرتفعات علي الطاهر وتموضعت في خطوط خلفية بمنطقة الشقيف",
+            "url": "https://t.me/aljazeeraBrk/234704",
+            "title": "إذاعة الجيش الإسرائيلي: قواتنا انسحبت من مرتفعات علي الطاهر وتموضعت في خطوط…",
+            "summary": "إذاعة الجيش الإسرائيلي: قواتنا انسحبت من مرتفعات علي الطاهر وتموضعت في خطوط خلفية بمنطقة الشقيف",
+            "date_modified": "2026-09-11T07:26:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "98f5efc7f2917851ffc4ad556b6a38c9f2e452c0da67a89b54c0b88b7fdd0a94",
             "content_html": "رويترز: محادثات عراقجي وقائد الجيش الباكستاني بحثت إمكانية العودة للمفاوضات وهجمات الحوثيين على السعودية",
             "url": "https://t.me/aljazeeraBrk/234703",
@@ -1564,51 +1608,6 @@
             "date_modified": "2026-09-10T05:17:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5456943631fec8c82e7171aaaef26176d42860112a6e6b0adbe6b5ae95628d20",
-            "content_html": "مصدر في مستشفى الشفاء: شهيد ومصابون بنيران قوات الاحتلال خارج مناطق انتشارها شمالي قطاع غزة",
-            "url": "https://t.me/aljazeeraBrk/234549",
-            "title": "مصدر في مستشفى الشفاء: شهيد ومصابون بنيران قوات الاحتلال خارج مناطق انتشارها…",
-            "summary": "مصدر في مستشفى الشفاء: شهيد ومصابون بنيران قوات الاحتلال خارج مناطق انتشارها شمالي قطاع غزة",
-            "date_modified": "2026-09-10T05:15:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "ea70a2350638c4338f72171d70c0ae7ffcdc7b413f30d1857b2028707f60867c",
-            "content_html": "تاس عن وزارة الدفاع الروسية: استهدفنا سفينتين تنقلان شحنات للقوات الأوكرانية كانتا في طريقهما لميناء أوديسا",
-            "url": "https://t.me/aljazeeraBrk/234548",
-            "title": "تاس عن وزارة الدفاع الروسية: استهدفنا سفينتين تنقلان شحنات للقوات الأوكرانية…",
-            "summary": "تاس عن وزارة الدفاع الروسية: استهدفنا سفينتين تنقلان شحنات للقوات الأوكرانية كانتا في طريقهما لميناء أوديسا",
-            "date_modified": "2026-09-10T05:12:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "dab7cc540e852dc32d54ab366168c6cb65a6a99dbfeb5ec11c27a4c5c4c224c1",
-            "content_html": "مصدر في مستشفى ناصر: مصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة",
-            "url": "https://t.me/aljazeeraBrk/234547",
-            "title": "مصدر في مستشفى ناصر: مصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة",
-            "summary": "مصدر في مستشفى ناصر: مصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة",
-            "date_modified": "2026-09-10T05:10:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "ee3108868ca3d5cb21d24e6959f33e80e8ef549f58ad66b1006d95059205b67d",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 10-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140397",
-            "title": "☀️ حالة الطقس في سوريا 10-09-2026 لمتابعة أحدث الأخبار والتطورات في سوريا…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i> حالة الطقس في سوريا 10-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/MfpVJcenc4FCxREdEJBpt1fBbEyfmvDrYMIGSJfFMHQFtf816XTOYeaCX0Tj_aFete6EJwQArHnFjwW-ThZVVWSv9BOie34BTkuZAtb7yoeGLTe0qCVjjOqEwQURwMMCfd23Ig59BYQTSHzimFBS2cu99tkiurWnXQU6PtVkIicAIToegL6IMyWMZckYwk6DiBIUoiW9N-uSXJIlT3iKeLsQnTqBhcRJqjdtWktny1Up0vYcOzz1WTJRR65IDEMroLHTrzsqeBFfn8ab7wUv4mKe0xFXBbjnsdllRXnkKkJaPdzfRn9qvfkdqoPpeuX1VTiaq-mojQnuFyg_TS0MrQ.jpg",
-            "date_modified": "2026-09-10T04:44:56.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
