@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "6c1909acd8a80a64bc0b1cedd32f508a47e081d621b042da4267c75ee3b5fd80",
+            "content_html": "كتائب القسام: استشهاد قائد لواء خان يونس محمد اليازوري بعملية اغتيال إسرائيلية جبانة",
+            "url": "https://t.me/aljazeeraBrk/234736",
+            "title": "كتائب القسام: استشهاد قائد لواء خان يونس محمد اليازوري بعملية اغتيال إسرائيلية…",
+            "summary": "كتائب القسام: استشهاد قائد لواء خان يونس محمد اليازوري بعملية اغتيال إسرائيلية جبانة",
+            "date_modified": "2026-09-11T12:47:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7f9605a85f5175366695691e3511c76bf880306b4c40f4ee794cc8061ed8b23e",
+            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> |الإخبارية السورية:</b> قصف مدفعي قوات الاحتلال الإسرائيلي على تلة باط الوردة في أطراف بلدة بيت جن بريف دمشق الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140452",
+            "title": "#عاجل |الإخبارية السورية: قصف مدفعي قوات الاحتلال الإسرائيلي على تلة باط الوردة…",
+            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> |الإخبارية السورية:</b> قصف مدفعي قوات الاحتلال الإسرائيلي على تلة باط الوردة في أطراف بلدة بيت جن بريف دمشق الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-11T12:46:45.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "39bee5556f88394d9c66e90608f513e19d3847b57021a4ba8f774ccd2ac11777",
+            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية السورية:</b> قوات الاحتلال الإسرائيلي تطلق سراح رجل وابنه بعد ساعات من اعتقالهما في بلدة الرفيد بريف القنيطرة الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140451",
+            "title": "#عاجل | الإخبارية السورية: قوات الاحتلال الإسرائيلي تطلق سراح رجل وابنه بعد…",
+            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية السورية:</b> قوات الاحتلال الإسرائيلي تطلق سراح رجل وابنه بعد ساعات من اعتقالهما في بلدة الرفيد بريف القنيطرة الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-11T12:40:46.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "9130c87ac8e2b1e2c376809d30977415ca5ab241f6d938787fd1f59ddab018d7",
             "content_html": "مراسل الجزيرة: قوات الاحتلال الإسرائيلي تستهدف بقذائف تلة باط الوردة على أطراف بيت جن بريف دمشق الغربي",
             "url": "https://t.me/aljazeeraBrk/234735",
@@ -1591,37 +1624,6 @@
             "title": "الخارجية البريطانية: هجمات الحوثيين تهدد حرية الملاحة وخطوط التجارة الحيوية عبر…",
             "summary": "الخارجية البريطانية: هجمات الحوثيين تهدد حرية الملاحة وخطوط التجارة الحيوية عبر البحر الأحمر وباب المندب",
             "date_modified": "2026-09-10T10:06:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "29a809ed4f29497d82f4647bf7cc17607253eddc8266e501d54d554885f4ba8e",
-            "content_html": "الخارجية البريطانية: ندين استئناف الحوثيين الصراع في اليمن وهجماتهم على السعودية وعلى البنية التحتية والطاقة",
-            "url": "https://t.me/aljazeeraBrk/234573",
-            "title": "الخارجية البريطانية: ندين استئناف الحوثيين الصراع في اليمن وهجماتهم على…",
-            "summary": "الخارجية البريطانية: ندين استئناف الحوثيين الصراع في اليمن وهجماتهم على السعودية وعلى البنية التحتية والطاقة",
-            "date_modified": "2026-09-10T10:02:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5953e8a915ce4c2e3b6af6444b8b9ce503cd2ec75ccce5a1f12d3ff7631f6335",
-            "content_html": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">توجت لاعبة الكاراتيه الفلسطينية مريم أمين بشارات بالميدالية الذهبية في بطولة آسيا للكاراتيه للشابات، ضمن منافسات وزن تحت 66 كغم، المقامة في العاصمة الأردنية عمّان، في إنجاز قاري جديد يضاف إلى سجلها الرياضي</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وتقام منافسات البطولة في المدينة الرياضية بالعاصمة عمّان، خلال الفترة من 8 إلى 12 أيلول/سبتمبر الجاري، بمشاركة عشرات اللاعبين واللاعبات من مختلف دول القارة الآسيوية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align: justify;\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">وتمكنت بشارات، من تجاوز نظيرتها الايرانية في المناسفات&nbsp; النهائية على الميدالية الذهبية، وتمكنت من انتزاعها، لتضاف الى سجلها في اللعبة.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align: justify;\"><br>  <span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ويأتي تتويج بشارات بالذهبية الآسيوية بعد سلسلة من الإنجازات التي حققتها على المستويات العالمية والعربية والآسيوية، إذ تحمل لقب بطلة العالم، لتواصل حضورها بين أبرز الأسماء في رياضة الكاراتيه الفلسطينية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ويعزز هذا التتويج حضور الكاراتيه الفلسطيني على الساحة الآسيوية، كما يضاف إلى سجل البطلة الفلسطينية التي تواصل تحقيق النتائج في البطولات الدولية والقارية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وتنتمي مريم أمين بشارات إلى أكاديمية الأقصى، فيما يأتي التتويج بدعم ومتابعة الاتحاد الفلسطيني للكاراتيه، في إنجاز جديد للرياضة الفلسطينية على مستوى القارة الآسيوية.</span></span></span></span></span></p>",
-            "url": "https://refugeesps.net/post/36960/%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%85%D8%B1%D9%8A%D9%85-%D8%A8%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B5%D8%AF-%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D8%A2%D8%B3%D9%8A%D8%A7-%D9%84%D9%84%D9%83%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D9%87-%D9%81%D9%8A-%D8%B9%D9%85-%D8%A7%D9%86",
-            "title": "الفلسطينية مريم بشارات تحصد ذهبية آسيا للكاراتيه في عمّان",
-            "summary": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">توجت لاعبة الكاراتيه الفلسطينية مريم أمين بشارات بالميدالية الذهبية في بطولة آسيا للكاراتيه للشابات، ضمن منافسات وزن تحت 66 كغم، المقامة في العاصمة الأردنية عمّان، في إنجاز قاري جديد يضاف إلى سجلها الرياضي</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وتقام منافسات البطولة في المدينة الرياضية بالعاصمة عمّان، خلال الفترة من 8 إلى 12 أيلول/سبتمبر الجاري، بمشاركة عشرات اللاعبين واللاعبات من مختلف دول القارة الآسيوية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align: justify;\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">وتمكنت بشارات، من تجاوز نظيرتها الايرانية في المناسفات&nbsp; النهائية على الميدالية الذهبية، وتمكنت من انتزاعها، لتضاف الى سجلها في اللعبة.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align: justify;\"><br>  <span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ويأتي تتويج بشارات بالذهبية الآسيوية بعد سلسلة من الإنجازات التي حققتها على المستويات العالمية والعربية والآسيوية، إذ تحمل لقب بطلة العالم، لتواصل حضورها بين أبرز الأسماء في رياضة الكاراتيه الفلسطينية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ويعزز هذا التتويج حضور الكاراتيه الفلسطيني على الساحة الآسيوية، كما يضاف إلى سجل البطلة الفلسطينية التي تواصل تحقيق النتائج في البطولات الدولية والقارية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وتنتمي مريم أمين بشارات إلى أكاديمية الأقصى، فيما يأتي التتويج بدعم ومتابعة الاتحاد الفلسطيني للكاراتيه، في إنجاز جديد للرياضة الفلسطينية على مستوى القارة الآسيوية.</span></span></span></span></span></p>",
-            "image": "https://refugeesps.net/thumb/408x250/uploads/images/2026/09/XoVPF.jpeg",
-            "date_modified": "2026-09-10T09:57:52.467Z"
-        },
-        {
-            "id": "b5a7b3b5853b88ceb7d75189447742fe5b6d75e182e7bd71274bfca791126f0b",
-            "content_html": "كاتس: ضربة إسرائيلية من هذا النوع ستعيد إيران عقودا إلى الوراء وستقوض النظام",
-            "url": "https://t.me/aljazeeraBrk/234572",
-            "title": "كاتس: ضربة إسرائيلية من هذا النوع ستعيد إيران عقودا إلى الوراء وستقوض النظام",
-            "summary": "كاتس: ضربة إسرائيلية من هذا النوع ستعيد إيران عقودا إلى الوراء وستقوض النظام",
-            "date_modified": "2026-09-10T09:49:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }

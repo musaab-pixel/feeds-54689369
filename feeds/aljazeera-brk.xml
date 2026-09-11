@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 11 Sep 2026 12:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 12:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[كتائب القسام: استشهاد قائد لواء خان يونس محمد اليازوري بعملية اغتيال إسرائيلية…]]></title>
+            <link>https://t.me/aljazeeraBrk/234736</link>
+            <guid isPermaLink="false">6c1909acd8a80a64bc0b1cedd32f508a47e081d621b042da4267c75ee3b5fd80</guid>
+            <pubDate>Fri, 11 Sep 2026 12:47:02 GMT</pubDate>
+            <description><![CDATA[كتائب القسام: استشهاد قائد لواء خان يونس محمد اليازوري بعملية اغتيال إسرائيلية جبانة]]></description>
+            <content:encoded><![CDATA[كتائب القسام: استشهاد قائد لواء خان يونس محمد اليازوري بعملية اغتيال إسرائيلية جبانة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تستهدف بقذائف تلة باط الوردة على أطراف…]]></title>
             <link>https://t.me/aljazeeraBrk/234735</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 08 Sep 2026 18:56:03 GMT</pubDate>
             <description><![CDATA[وكالة فارس الإيرانية: دوي انفجار في محيط ساحل مدينة جاسك جنوبي إيران]]></description>
             <content:encoded><![CDATA[وكالة فارس الإيرانية: دوي انفجار في محيط ساحل مدينة جاسك جنوبي إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مقر خاتم الأنبياء الإيراني: الجيش الأمريكي هدد باستهداف 3 ناقلات نفط إيرانية]]></title>
-            <link>https://t.me/aljazeeraBrk/234330</link>
-            <guid isPermaLink="false">0c0365a29d2eabdbfa96089de94efe57f2bbc6ed066c48799ff7829409fa506b</guid>
-            <pubDate>Tue, 08 Sep 2026 18:52:02 GMT</pubDate>
-            <description><![CDATA[مقر خاتم الأنبياء الإيراني: الجيش الأمريكي هدد باستهداف 3 ناقلات نفط إيرانية]]></description>
-            <content:encoded><![CDATA[مقر خاتم الأنبياء الإيراني: الجيش الأمريكي هدد باستهداف 3 ناقلات نفط إيرانية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
