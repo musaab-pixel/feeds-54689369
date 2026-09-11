@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "d1a0b403cb3322a00c6ba3f9170c0453256bb1face4fe8b8cfb3cc6cf3ed5641",
+            "content_html": "مجمع ناصر الطبي: شهيد و9 مصابين بينهم أطفال في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة",
+            "url": "https://t.me/aljazeeraBrk/234710",
+            "title": "مجمع ناصر الطبي: شهيد و9 مصابين بينهم أطفال في غارة إسرائيلية على مواصي خان…",
+            "summary": "مجمع ناصر الطبي: شهيد و9 مصابين بينهم أطفال في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة",
+            "date_modified": "2026-09-11T07:55:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "20269fc7337580a27610c5c8fea9f548073e06d9dfbf4bb0da37a9ece178e3d9",
+            "content_html": "أ.ف.ب عن مسؤول حكومي يمني محلي: الحوثيون سيطروا على جزيرة ميون واستكملوا السيطرة على مضيق باب المندب",
+            "url": "https://t.me/aljazeeraBrk/234709",
+            "title": "أ.ف.ب عن مسؤول حكومي يمني محلي: الحوثيون سيطروا على جزيرة ميون واستكملوا…",
+            "summary": "أ.ف.ب عن مسؤول حكومي يمني محلي: الحوثيون سيطروا على جزيرة ميون واستكملوا السيطرة على مضيق باب المندب",
+            "date_modified": "2026-09-11T07:54:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "d5da8b614b609e2516328d1f3e237fcfb8bc077a29c74e2784c89669067b46cc",
             "content_html": "بزشكيان: الإجراءات الاقتصادية يجب أن تراعي ظروف البلاد وإلا فستؤدي لنتائج سلبية وخسائر بدلا من معالجة الأمور",
             "url": "https://t.me/aljazeeraBrk/234707",
@@ -1389,13 +1411,13 @@
         },
         {
             "id": "d26ed64fa3718d7fb80944e5b2ff97f34a2f11b9d28a55f59cdb1711e41ec1b3",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxQRkUycmtiOVFyd1pYNG9XOG1PNFZ4eE5Hd0Uwb0pxQnE3QjZFb3RfWDQzYTdyTUpBTGxpOVd2WlpuWXFtckhSazVEdWRUNFlxS3E2S1hjeHlJV1NvdEpWU3dJOTNLdGRSdEZBcDlqTkdjNWl1SUdnN1A2R1h1R3hMWllSQzdQNWp4TDJQVW9rcmVjRFVlVHBCeFlnb1ljd0xkWUZTQjVYX3RqTUdGRmZjdjNiZTRHVXNzdnRlSUNYbFdTLVJxSjd4TWVuZ3ZwSXFhbkx1Q3ZIS1ZfcDlzMGpjWjkxWS1EOTY2UTdnRnE4amVUX1BLOWg1ZEtpOW1Ca3V0X3NqV1Nyd2Z6bi1OY0N1NHc3cnBDb2tMeVdLaGI5M2RpVmRjdXA3SGxuUTFtb2c1OVpJRFBnZjdxM0VWcDlGRXoyR2huekhkOXNpcHZBbkJLaUFMSklZOU9QQnotTHZXOHJEZTlIZ1IxZmtGUlk5c292UWxSMDdEdVVrNnZFVUFnaGJvNEZBUUgyN2VvQlJuUzhLSi1HaTlpNHZIN0hjb3RmUVppbjJMSzhYa281eno5aEtBSVBFUFZ6V3prRnhlLVg1bjJLX2pJTzMzampNYmdVX3V0NllLbTJmWkxJMFY4RXg4Ny1QVEw4X1BONXU1VGUxcjNHeXBQRmRJLS0zWUJyZw?oc=5\" target=\"_blank\">الإفراج عن الفلسطيني عادل الناطور بعد 11 شهراً على احتجازه في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">refugeesps.net</font>",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxQRkUycmtiOVFyd1pYNG9XOG1PNFZ4eE5Hd0Uwb0pxQnE3QjZFb3RfWDQzYTdyTUpBTGxpOVd2WlpuWXFtckhSazVEdWRUNFlxS3E2S1hjeHlJV1NvdEpWU3dJOTNLdGRSdEZBcDlqTkdjNWl1SUdnN1A2R1h1R3hMWllSQzdQNWp4TDJQVW9rcmVjRFVlVHBCeFlnb1ljd0xkWUZTQjVYX3RqTUdGRmZjdjNiZTRHVXNzdnRlSUNYbFdTLVJxSjd4TWVuZ3ZwSXFhbkx1Q3ZIS1ZfcDlzMGpjWjkxWS1EOTY2UTdnRnE4amVUX1BLOWg1ZEtpOW1Ca3V0X3NqV1Nyd2Z6bi1OY0N1NHc3cnBDb2tMeVdLaGI5M2RpVmRjdXA3SGxuUTFtb2c1OVpJRFBnZjdxM0VWcDlGRXoyR2huekhkOXNpcHZBbkJLaUFMSklZOU9QQnotTHZXOHJEZTlIZ1IxZmtGUlk5c292UWxSMDdEdVVrNnZFVUFnaGJvNEZBUUgyN2VvQlJuUzhLSi1HaTlpNHZIN0hjb3RmUVppbjJMSzhYa281eno5aEtBSVBFUFZ6V3prRnhlLVg1bjJLX2pJTzMzampNYmdVX3V0NllLbTJmWkxJMFY4RXg4Ny1QVEw4X1BONXU1VGUxcjNHeXBQRmRJLS0zWUJyZw?oc=5\" target=\"_blank\">الإفراج عن الفلسطيني عادل الناطور بعد 11 شهراً على احتجازه في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQRkUycmtiOVFyd1pYNG9XOG1PNFZ4eE5Hd0Uwb0pxQnE3QjZFb3RfWDQzYTdyTUpBTGxpOVd2WlpuWXFtckhSazVEdWRUNFlxS3E2S1hjeHlJV1NvdEpWU3dJOTNLdGRSdEZBcDlqTkdjNWl1SUdnN1A2R1h1R3hMWllSQzdQNWp4TDJQVW9rcmVjRFVlVHBCeFlnb1ljd0xkWUZTQjVYX3RqTUdGRmZjdjNiZTRHVXNzdnRlSUNYbFdTLVJxSjd4TWVuZ3ZwSXFhbkx1Q3ZIS1ZfcDlzMGpjWjkxWS1EOTY2UTdnRnE4amVUX1BLOWg1ZEtpOW1Ca3V0X3NqV1Nyd2Z6bi1OY0N1NHc3cnBDb2tMeVdLaGI5M2RpVmRjdXA3SGxuUTFtb2c1OVpJRFBnZjdxM0VWcDlGRXoyR2huekhkOXNpcHZBbkJLaUFMSklZOU9QQnotTHZXOHJEZTlIZ1IxZmtGUlk5c292UWxSMDdEdVVrNnZFVUFnaGJvNEZBUUgyN2VvQlJuUzhLSi1HaTlpNHZIN0hjb3RmUVppbjJMSzhYa281eno5aEtBSVBFUFZ6V3prRnhlLVg1bjJLX2pJTzMzampNYmdVX3V0NllLbTJmWkxJMFY4RXg4Ny1QVEw4X1BONXU1VGUxcjNHeXBQRmRJLS0zWUJyZw?oc=5",
-            "title": "الإفراج عن الفلسطيني عادل الناطور بعد 11 شهراً على احتجازه في سوريا - refugeesps.net",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxQRkUycmtiOVFyd1pYNG9XOG1PNFZ4eE5Hd0Uwb0pxQnE3QjZFb3RfWDQzYTdyTUpBTGxpOVd2WlpuWXFtckhSazVEdWRUNFlxS3E2S1hjeHlJV1NvdEpWU3dJOTNLdGRSdEZBcDlqTkdjNWl1SUdnN1A2R1h1R3hMWllSQzdQNWp4TDJQVW9rcmVjRFVlVHBCeFlnb1ljd0xkWUZTQjVYX3RqTUdGRmZjdjNiZTRHVXNzdnRlSUNYbFdTLVJxSjd4TWVuZ3ZwSXFhbkx1Q3ZIS1ZfcDlzMGpjWjkxWS1EOTY2UTdnRnE4amVUX1BLOWg1ZEtpOW1Ca3V0X3NqV1Nyd2Z6bi1OY0N1NHc3cnBDb2tMeVdLaGI5M2RpVmRjdXA3SGxuUTFtb2c1OVpJRFBnZjdxM0VWcDlGRXoyR2huekhkOXNpcHZBbkJLaUFMSklZOU9QQnotTHZXOHJEZTlIZ1IxZmtGUlk5c292UWxSMDdEdVVrNnZFVUFnaGJvNEZBUUgyN2VvQlJuUzhLSi1HaTlpNHZIN0hjb3RmUVppbjJMSzhYa281eno5aEtBSVBFUFZ6V3prRnhlLVg1bjJLX2pJTzMzampNYmdVX3V0NllLbTJmWkxJMFY4RXg4Ny1QVEw4X1BONXU1VGUxcjNHeXBQRmRJLS0zWUJyZw?oc=5\" target=\"_blank\">الإفراج عن الفلسطيني عادل الناطور بعد 11 شهراً على احتجازه في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">refugeesps.net</font>",
+            "title": "الإفراج عن الفلسطيني عادل الناطور بعد 11 شهراً على احتجازه في سوريا - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwRBVV95cUxQRkUycmtiOVFyd1pYNG9XOG1PNFZ4eE5Hd0Uwb0pxQnE3QjZFb3RfWDQzYTdyTUpBTGxpOVd2WlpuWXFtckhSazVEdWRUNFlxS3E2S1hjeHlJV1NvdEpWU3dJOTNLdGRSdEZBcDlqTkdjNWl1SUdnN1A2R1h1R3hMWllSQzdQNWp4TDJQVW9rcmVjRFVlVHBCeFlnb1ljd0xkWUZTQjVYX3RqTUdGRmZjdjNiZTRHVXNzdnRlSUNYbFdTLVJxSjd4TWVuZ3ZwSXFhbkx1Q3ZIS1ZfcDlzMGpjWjkxWS1EOTY2UTdnRnE4amVUX1BLOWg1ZEtpOW1Ca3V0X3NqV1Nyd2Z6bi1OY0N1NHc3cnBDb2tMeVdLaGI5M2RpVmRjdXA3SGxuUTFtb2c1OVpJRFBnZjdxM0VWcDlGRXoyR2huekhkOXNpcHZBbkJLaUFMSklZOU9QQnotTHZXOHJEZTlIZ1IxZmtGUlk5c292UWxSMDdEdVVrNnZFVUFnaGJvNEZBUUgyN2VvQlJuUzhLSi1HaTlpNHZIN0hjb3RmUVppbjJMSzhYa281eno5aEtBSVBFUFZ6V3prRnhlLVg1bjJLX2pJTzMzampNYmdVX3V0NllLbTJmWkxJMFY4RXg4Ny1QVEw4X1BONXU1VGUxcjNHeXBQRmRJLS0zWUJyZw?oc=5\" target=\"_blank\">الإفراج عن الفلسطيني عادل الناطور بعد 11 شهراً على احتجازه في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "date_modified": "2026-09-10T07:45:00.000Z",
             "author": {
-                "name": "refugeesps.net"
+                "name": "بوابة اللاجئين الفلسطينيين"
             }
         },
         {
@@ -1584,28 +1606,6 @@
             "title": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 448 مسيرة أوكرانية…",
             "summary": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 448 مسيرة أوكرانية في مناطق عدة بالبلاد",
             "date_modified": "2026-09-10T05:23:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "fa80375d6fa140414b26a53c7372bee6e152c5d44a5486298696f921b709574b",
-            "content_html": "محافظة القدس: عشرات المستوطنين يقتحمون باحات المسجد الأقصى بحماية قوات الاحتلال الإسرائيلي",
-            "url": "https://t.me/aljazeeraBrk/234553",
-            "title": "محافظة القدس: عشرات المستوطنين يقتحمون باحات المسجد الأقصى بحماية قوات الاحتلال…",
-            "summary": "محافظة القدس: عشرات المستوطنين يقتحمون باحات المسجد الأقصى بحماية قوات الاحتلال الإسرائيلي",
-            "date_modified": "2026-09-10T05:22:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "1a265d2875ab0b5bbd02c1f1966445200c2010e76913cf851e374143ef77376d",
-            "content_html": "تاس عن حاكم فورونيج بروسيا: قتيل ومصابان بنيران مسيرة أوكرانية استهدف منزلا في المقاطعة",
-            "url": "https://t.me/aljazeeraBrk/234552",
-            "title": "تاس عن حاكم فورونيج بروسيا: قتيل ومصابان بنيران مسيرة أوكرانية استهدف منزلا في…",
-            "summary": "تاس عن حاكم فورونيج بروسيا: قتيل ومصابان بنيران مسيرة أوكرانية استهدف منزلا في المقاطعة",
-            "date_modified": "2026-09-10T05:20:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
