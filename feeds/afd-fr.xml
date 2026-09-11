@@ -2338,91 +2338,6 @@
           
 
 
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2025</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
                                                                                                             
 
   
@@ -2525,14 +2440,87 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reseau-de-formations-et-initiatives-de-recherche-et-innovation-dans-les-transports" class="fr-card__link">Réseau de formations et d'initiatives de recherche et innovation dans les transports et la mobilité</a>
+                  <a href="https://www.afd.fr/fr/projets/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des" class="fr-card__link">Amélioration des droits et de la sante sexuelle et reproductive des jeunes du Sénégal</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Santé et protection sociale
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2021 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 15.800.000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des.jpg.webp?itok=R0S8qKWJ" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
@@ -2541,19 +2529,7 @@
     Emploi
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -2562,20 +2538,20 @@
 
 
 <p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
+      Achevé
 </p>
 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2029</p>
+          <p class="fr-card__detail">2020 - 2025</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 28 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -2583,7 +2559,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/eseau-de-formations-et-dinitiatives-de-recherche-et-innovation-dans-les-transports.jpg.webp?itok=vBxUHl1a" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
 
 
 
@@ -3043,91 +3019,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes" class="fr-card__link">Soutenir l’Enseignement Supérieur Professionnel Orienté Insertion et Réussite</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation et formation
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2024 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 50 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes.jpg.webp?itok=-eL_Lung" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud" class="fr-card__link">Projet de lutte contre les inondations à Pikine Irrégulier Sud</a>
               </h3>
       
@@ -3187,6 +3078,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud.jpg.webp?itok=qqzfOcIB" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/acces-au-service-electricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda" class="fr-card__link">Accès au Service d’Electricité en zone Rurale dans les régions de Kaffrine, Tambacounda et Kédougou</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2008 - 2021</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 8 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/acces-au-service-delectricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda-et.jpg.webp?itok=Tft7s4Rg" width="715" height="402" alt>
 
 
 
@@ -3298,91 +3274,6 @@
           
 
 
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2025</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
                                                                                                             
 
   
@@ -3485,14 +3376,87 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reseau-de-formations-et-initiatives-de-recherche-et-innovation-dans-les-transports" class="fr-card__link">Réseau de formations et d'initiatives de recherche et innovation dans les transports et la mobilité</a>
+                  <a href="https://www.afd.fr/fr/projets/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des" class="fr-card__link">Amélioration des droits et de la sante sexuelle et reproductive des jeunes du Sénégal</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Santé et protection sociale
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2021 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 15.800.000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des.jpg.webp?itok=R0S8qKWJ" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
@@ -3501,19 +3465,7 @@
     Emploi
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -3522,20 +3474,20 @@
 
 
 <p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
+      Achevé
 </p>
 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2029</p>
+          <p class="fr-card__detail">2020 - 2025</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 28 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -3543,7 +3495,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/eseau-de-formations-et-dinitiatives-de-recherche-et-innovation-dans-les-transports.jpg.webp?itok=vBxUHl1a" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
 
 
 
@@ -4003,91 +3955,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes" class="fr-card__link">Soutenir l’Enseignement Supérieur Professionnel Orienté Insertion et Réussite</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation et formation
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2024 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 50 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes.jpg.webp?itok=-eL_Lung" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud" class="fr-card__link">Projet de lutte contre les inondations à Pikine Irrégulier Sud</a>
               </h3>
       
@@ -4147,6 +4014,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud.jpg.webp?itok=qqzfOcIB" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/acces-au-service-electricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda" class="fr-card__link">Accès au Service d’Electricité en zone Rurale dans les régions de Kaffrine, Tambacounda et Kédougou</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2008 - 2021</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 8 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/acces-au-service-delectricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda-et.jpg.webp?itok=Tft7s4Rg" width="715" height="402" alt>
 
 
 
@@ -4265,91 +4217,6 @@
           
 
 
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2025</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
                                                                                                             
 
   
@@ -4452,14 +4319,87 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reseau-de-formations-et-initiatives-de-recherche-et-innovation-dans-les-transports" class="fr-card__link">Réseau de formations et d'initiatives de recherche et innovation dans les transports et la mobilité</a>
+                  <a href="https://www.afd.fr/fr/projets/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des" class="fr-card__link">Amélioration des droits et de la sante sexuelle et reproductive des jeunes du Sénégal</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Santé et protection sociale
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2021 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 15.800.000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des.jpg.webp?itok=R0S8qKWJ" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
@@ -4468,19 +4408,7 @@
     Emploi
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -4489,20 +4417,20 @@
 
 
 <p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
+      Achevé
 </p>
 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2029</p>
+          <p class="fr-card__detail">2020 - 2025</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 28 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -4510,7 +4438,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/eseau-de-formations-et-dinitiatives-de-recherche-et-innovation-dans-les-transports.jpg.webp?itok=vBxUHl1a" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
 
 
 
@@ -4970,91 +4898,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes" class="fr-card__link">Soutenir l’Enseignement Supérieur Professionnel Orienté Insertion et Réussite</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation et formation
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2024 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 50 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes.jpg.webp?itok=-eL_Lung" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud" class="fr-card__link">Projet de lutte contre les inondations à Pikine Irrégulier Sud</a>
               </h3>
       
@@ -5114,6 +4957,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud.jpg.webp?itok=qqzfOcIB" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/acces-au-service-electricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda" class="fr-card__link">Accès au Service d’Electricité en zone Rurale dans les régions de Kaffrine, Tambacounda et Kédougou</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2008 - 2021</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 8 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/acces-au-service-delectricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda-et.jpg.webp?itok=Tft7s4Rg" width="715" height="402" alt>
 
 
 
@@ -5225,91 +5153,6 @@
           
 
 
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2025</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
                                                                                                             
 
   
@@ -5412,14 +5255,87 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reseau-de-formations-et-initiatives-de-recherche-et-innovation-dans-les-transports" class="fr-card__link">Réseau de formations et d'initiatives de recherche et innovation dans les transports et la mobilité</a>
+                  <a href="https://www.afd.fr/fr/projets/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des" class="fr-card__link">Amélioration des droits et de la sante sexuelle et reproductive des jeunes du Sénégal</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Santé et protection sociale
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2021 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 15.800.000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-sansas-amelioration-des-droits-et-de-la-sante-sexuelle-et-reproductive-des.jpg.webp?itok=R0S8qKWJ" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes" class="fr-card__link">Appui et valorisation des initiatives entrepreneuriales des femmes et des jeunes </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
@@ -5428,19 +5344,7 @@
     Emploi
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -5449,20 +5353,20 @@
 
 
 <p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
+      Achevé
 </p>
 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2029</p>
+          <p class="fr-card__detail">2020 - 2025</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 28 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -5470,7 +5374,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/eseau-de-formations-et-dinitiatives-de-recherche-et-innovation-dans-les-transports.jpg.webp?itok=vBxUHl1a" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/appui-et-valorisation-des-initiatives-entrepreneuriales-des-femmes-et-des-jeunes.jpg.webp?itok=ak5rUzjl" width="715" height="402" alt>
 
 
 
@@ -5930,91 +5834,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes" class="fr-card__link">Soutenir l’Enseignement Supérieur Professionnel Orienté Insertion et Réussite</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation et formation
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2024 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 50 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/soutenir-enseignement-superieur-professionnel-oriente-insertion-et-reussite-des-jeunes.jpg.webp?itok=-eL_Lung" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud" class="fr-card__link">Projet de lutte contre les inondations à Pikine Irrégulier Sud</a>
               </h3>
       
@@ -6074,6 +5893,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/projet-de-lutte-contre-les-inondations-pikine-irregulier-sud.jpg.webp?itok=qqzfOcIB" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/acces-au-service-electricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda" class="fr-card__link">Accès au Service d’Electricité en zone Rurale dans les régions de Kaffrine, Tambacounda et Kédougou</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2008 - 2021</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Sénégal</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 8 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/acces-au-service-delectricite-en-zone-rurale-dans-les-regions-de-kaffrine-tambacounda-et.jpg.webp?itok=Tft7s4Rg" width="715" height="402" alt>
 
 
 
