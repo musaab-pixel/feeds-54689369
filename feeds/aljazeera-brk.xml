@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 11 Sep 2026 10:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 11:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: مستوطنون أقاموا صلوات وطقوسا في مقبرة باب الرحمة الملاصقة للسور…]]></title>
+            <link>https://t.me/aljazeeraBrk/234725</link>
+            <guid isPermaLink="false">150817d9771da8dc3f88ca8147282d24902e4e4bfed09fcc96dcea52a028a602</guid>
+            <pubDate>Fri, 11 Sep 2026 11:22:03 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: مستوطنون أقاموا صلوات وطقوسا في مقبرة باب الرحمة الملاصقة للسور الشرقي الخارجي للمسجد الأقصى]]></description>
+            <content:encoded><![CDATA[محافظة القدس: مستوطنون أقاموا صلوات وطقوسا في مقبرة باب الرحمة الملاصقة للسور الشرقي الخارجي للمسجد الأقصى]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أكسيوس عن مصادر: قائد القيادة المركزية الأمريكية توجه إلى السعودية للتنسيق بشأن…]]></title>
             <link>https://t.me/aljazeeraBrk/234724</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 08 Sep 2026 17:03:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق صفارات الإنذار في منطقة جازان للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق صفارات الإنذار في منطقة جازان للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الأمريكي: لن نقوم بما فعلته بريطانيا في ما يتعلق بالضفة الغربية]]></title>
-            <link>https://t.me/aljazeeraBrk/234320</link>
-            <guid isPermaLink="false">75df2df32244e76ffd93d8dcb82010af4ede1ca81069691f5ad92fab7b23c11e</guid>
-            <pubDate>Tue, 08 Sep 2026 15:08:03 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الأمريكي: لن نقوم بما فعلته بريطانيا في ما يتعلق بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الأمريكي: لن نقوم بما فعلته بريطانيا في ما يتعلق بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
