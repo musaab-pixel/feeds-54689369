@@ -4,10 +4,63 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 10 Sep 2026 00:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 09:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Bénéficiaires de subventions pour la mise en œuvre des projets (2025)]]></title>
+            <link>https://www.francophonie.org/node/8654</link>
+            <guid isPermaLink="false">f513a95af925e4953a0a452f7bf7f430b97be624dc6a57e10469ee83b78874c0</guid>
+            <pubDate>Thu, 10 Sep 2026 13:55:09 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Bénéficiaires de subventions pour la mise en œuvre des projets (2025)</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 10/09/2026 - 13:55</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Beneficiaires_PAS_2025.pdf" type="application/pdf; length=377360">Beneficiaires_PAS_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/632" hreflang="fr">Bénéficiaires de subventions</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Bénéficiaires de subventions pour la mise en œuvre des projets (2025)</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 10/09/2026 - 13:55</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-09/Beneficiaires_PAS_2025.pdf" type="application/pdf; length=377360">Beneficiaires_PAS_2025.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/632" hreflang="fr">Bénéficiaires de subventions</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Carte officielle de la Francophonie]]></title>
             <link>https://www.francophonie.org/node/8651</link>
