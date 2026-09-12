@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sat, 12 Sep 2026 21:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 21:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[🎥 فيديو | بين الأسباب المحلية والضغوط العالمية.. لماذا ارتفعت أسعار الوقود في…]]></title>
+            <link>https://t.me/HalabTodayTV/140505</link>
+            <guid isPermaLink="false">9aa4d7ad41f099d9b8d2b567c419c8bcff06c5b271ead0905da4891376450ee9</guid>
+            <pubDate>Sat, 12 Sep 2026 21:33:23 GMT</pubDate>
+            <description><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')"><b>🎥</b></i> فيديو | بين الأسباب المحلية والضغوط العالمية.. لماذا ارتفعت أسعار الوقود في سوريا؟<br><br><a href="https://www.facebook.com/reel/28350807594546565" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">https://www.facebook.com/reel/28350807594546565</a>]]></description>
+            <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')"><b>🎥</b></i> فيديو | بين الأسباب المحلية والضغوط العالمية.. لماذا ارتفعت أسعار الوقود في سوريا؟<br><br><a href="https://www.facebook.com/reel/28350807594546565" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">https://www.facebook.com/reel/28350807594546565</a>]]></content:encoded>
+            <author>Halab Today TV قناة حلب اليوم</author>
+        </item>
         <item>
             <title><![CDATA[وزير الخارجية العراقي: نؤكد دعمنا لمسار الاجتماع المرتقب في سلطنة عمان بشأن…]]></title>
             <link>https://t.me/aljazeeraBrk/234929</link>
@@ -1806,16 +1815,6 @@
             <description><![CDATA[الخارجية العراقية: وزير الخارجية بحث هاتفيا مع نظيره السعودي مستجدات الأوضاع في المنطقة]]></description>
             <content:encoded><![CDATA[الخارجية العراقية: وزير الخارجية بحث هاتفيا مع نظيره السعودي مستجدات الأوضاع في المنطقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وقفة احتجاجية لثوار حلب في ساحة سعد الله الجابري للمطالبة بإنصاف المهجرين…]]></title>
-            <link>https://t.me/HalabTodayTV/140479</link>
-            <guid isPermaLink="false">bb0893a097e69aa6adfa25ad2feb5ca03a4d8aab078fe916fc25ccb0c4c3ed7b</guid>
-            <pubDate>Fri, 11 Sep 2026 22:14:17 GMT</pubDate>
-            <description><![CDATA[وقفة احتجاجية لثوار حلب في ساحة سعد الله الجابري للمطالبة بإنصاف المهجرين والمنشقين وعائلات الشهداء&nbsp;<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[وقفة احتجاجية لثوار حلب في ساحة سعد الله الجابري للمطالبة بإنصاف المهجرين والمنشقين وعائلات الشهداء&nbsp;<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
-            <enclosure url="https://cdn4.telesco.pe/file/smmBOO05oJSzmpjJ3awQROVf8ctpTIoSLJ0zWAZa81hqtG2DzYUeFtlNFiYOFqPMcXEbz4z-l2N_A6l1GIH95JJEz5aFLuI8QfxDyTFAUXYqptR8dXzwTtYYSsGTMQR7TjF8-KS51YMQTeK4ObXSGkCyLCitCzOAGfCqJeYqXIhBtakn7ec7CnEQ_4DY24Lrs3OrVNJpg_2AEXIWsnlT0dpcnZiT-qYkUIKqUQj5Jd2VebjxrA-CHR4ZOMflkeB5L2ZJUkMGYUk6AUDmb9IlWoD6iQxuM692Lha1gRJZ1On8wgPNmDmxj5uVO1joxwuQ0MThUoHPn52pmLK8YuNRhg.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
