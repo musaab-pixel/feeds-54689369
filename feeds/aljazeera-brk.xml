@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 12 Sep 2026 09:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 09:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: 9 مصابين في قصف إسرائيلي على خيمة نازحين في مواصي…]]></title>
+            <link>https://t.me/aljazeeraBrk/234852</link>
+            <guid isPermaLink="false">d11aa4a512da1b614704e7095d21e2d5527e413dbde86e448c5569c99903421b</guid>
+            <pubDate>Sat, 12 Sep 2026 09:33:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: 9 مصابين في قصف إسرائيلي على خيمة نازحين في مواصي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: 9 مصابين في قصف إسرائيلي على خيمة نازحين في مواصي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب تعقيبا على التطورات بشأن إيران: كل شيء سيكون على ما يرام]]></title>
             <link>https://t.me/aljazeeraBrk/234851</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 09 Sep 2026 18:45:02 GMT</pubDate>
             <description><![CDATA[ترمب: أعتفد أن الحرب ستنتهي مباشرة بعد الانتخابات النصفية لأن طهران تحاول التأثير على التصويت]]></description>
             <content:encoded><![CDATA[ترمب: أعتفد أن الحرب ستنتهي مباشرة بعد الانتخابات النصفية لأن طهران تحاول التأثير على التصويت]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: لا نسعى لاتفاق مع إيران الآن وقد تحدث مفاوضات]]></title>
-            <link>https://t.me/aljazeeraBrk/234513</link>
-            <guid isPermaLink="false">eaac608cc05b51d5a47fe518ad121c35630ebb4049c0329ed4c9c46adc7d565b</guid>
-            <pubDate>Wed, 09 Sep 2026 18:41:02 GMT</pubDate>
-            <description><![CDATA[ترمب: لا نسعى لاتفاق مع إيران الآن وقد تحدث مفاوضات]]></description>
-            <content:encoded><![CDATA[ترمب: لا نسعى لاتفاق مع إيران الآن وقد تحدث مفاوضات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
