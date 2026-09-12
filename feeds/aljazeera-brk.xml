@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 12 Sep 2026 08:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب تعقيبا على التطورات بشأن إيران: كل شيء سيكون على ما يرام]]></title>
+            <link>https://t.me/aljazeeraBrk/234851</link>
+            <guid isPermaLink="false">1ec9483c4af26c2724fa3827792d28c9f4eb0dce77623911dbb29c1ed5cf1312</guid>
+            <pubDate>Sat, 12 Sep 2026 09:03:02 GMT</pubDate>
+            <description><![CDATA[ترمب تعقيبا على التطورات بشأن إيران: كل شيء سيكون على ما يرام]]></description>
+            <content:encoded><![CDATA[ترمب تعقيبا على التطورات بشأن إيران: كل شيء سيكون على ما يرام]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس البرلمان العراقي: نؤكد أهمية الالتزام بمبدأ حصر السلاح بيد الدولة بما يحفظ…]]></title>
             <link>https://t.me/aljazeeraBrk/234850</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 09 Sep 2026 18:41:02 GMT</pubDate>
             <description><![CDATA[ترمب: لا نسعى لاتفاق مع إيران الآن وقد تحدث مفاوضات]]></description>
             <content:encoded><![CDATA[ترمب: لا نسعى لاتفاق مع إيران الآن وقد تحدث مفاوضات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: سوف أتحدث مع الإسرائيليين بشأن العقوبات المتعلقة بالضفة الغربية…]]></title>
-            <link>https://t.me/aljazeeraBrk/234512</link>
-            <guid isPermaLink="false">612c35a66ffc168f1f6d7395d8c5f51337387913f9429e0a18b276c176a3be6a</guid>
-            <pubDate>Wed, 09 Sep 2026 18:36:02 GMT</pubDate>
-            <description><![CDATA[ترمب: سوف أتحدث مع الإسرائيليين بشأن العقوبات المتعلقة بالضفة الغربية والمستوطنات]]></description>
-            <content:encoded><![CDATA[ترمب: سوف أتحدث مع الإسرائيليين بشأن العقوبات المتعلقة بالضفة الغربية والمستوطنات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
