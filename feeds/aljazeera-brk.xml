@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 13 Sep 2026 10:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 11:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: قواتنا الجوية تدمر عتاد مليشيا الحوثي وتجمعات عناصرها…]]></title>
+            <link>https://t.me/aljazeeraBrk/234963</link>
+            <guid isPermaLink="false">19572f62743e3fcb1ccf3053403579b3eb966e152f084de78a228a6f90f02308</guid>
+            <pubDate>Sun, 13 Sep 2026 11:05:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: قواتنا الجوية تدمر عتاد مليشيا الحوثي وتجمعات عناصرها في منطقتي ذو باب والمخا]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: قواتنا الجوية تدمر عتاد مليشيا الحوثي وتجمعات عناصرها في منطقتي ذو باب والمخا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تقصف بـ3 قذائف مدفعية الأطراف…]]></title>
             <link>https://t.me/aljazeeraBrk/234962</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 11 Sep 2026 02:30:02 GMT</pubDate>
             <description><![CDATA[ترمب: إذا حصل الديمقراطيون على السلطة سيدمرون كل الإنجازات التي حققناها]]></description>
             <content:encoded><![CDATA[ترمب: إذا حصل الديمقراطيون على السلطة سيدمرون كل الإنجازات التي حققناها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: سنقر قانون إنقاذ أمريكا الذي يشترط إثبات الهوية والجنسية لممارسة حق…]]></title>
-            <link>https://t.me/aljazeeraBrk/234693</link>
-            <guid isPermaLink="false">915bc1fd74900bf486acb0e8517f0dd1125416831234164e8f315ae5b5380085</guid>
-            <pubDate>Fri, 11 Sep 2026 02:29:02 GMT</pubDate>
-            <description><![CDATA[ترمب: سنقر قانون إنقاذ أمريكا الذي يشترط إثبات الهوية والجنسية لممارسة حق التصويت]]></description>
-            <content:encoded><![CDATA[ترمب: سنقر قانون إنقاذ أمريكا الذي يشترط إثبات الهوية والجنسية لممارسة حق التصويت]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
