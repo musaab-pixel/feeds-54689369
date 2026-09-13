@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Sat, 12 Sep 2026 19:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 20:51:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Married at 13, pregnant and starving: Child brides of Yemen]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168322</link>
+            <guid isPermaLink="false">8f0b58f8709f082c8ff6d07f31d350d6dbe842e78871b4cfc68161d799b0ee34</guid>
+            <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Fatimah* was 13 when she was married off to an older man. Two years later, she gave birth to twin daughters.]]></description>
+            <content:encoded><![CDATA[Fatimah* was 13 when she was married off to an older man. Two years later, she gave birth to twin daughters.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/12-09-2026_UNFPA_Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168320</link>
