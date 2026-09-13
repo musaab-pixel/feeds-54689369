@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Thu, 10 Sep 2026 23:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 05:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1641,6 +1641,186 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Festival Jovens Músicos 2026 15 set 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/festival-jovens-musicos-14/</link>
+            <guid isPermaLink="false">8885afa3f28588928edaf13fa7bff7d76ae4df093e694896e7e176590c33fe76</guid>
+            <pubDate>Sun, 13 Sep 2026 05:24:27 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p class="tw-mb-3">Levantamento de bilhetes, sujeito à lotação da sala<br>
+(máx. 2 por pessoa):</p>
+<p>Presencial – 2 horas antes<br>
+Online – 2 dias antes (Cartão Gulbenkian Mais) ou 1 dia antes (Cartão Gulbenkian) a partir das 10:00.</p>
+<h4 class="fcg-programme__title">1.ª Parte / Laureados de Jazz Combo 2026</h4>
+<h4 class="fcg-programme__title">2.ª Parte / Orquestra GeraJazz</h4>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>
+<h2 class="section-title">
+		Relacionados	</h2>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Concerto									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Festival Jovens Músicos 2026			</h3>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p class="tw-mb-3">Levantamento de bilhetes, sujeito à lotação da sala<br>
+(máx. 2 por pessoa):</p>
+<p>Presencial – 2 horas antes<br>
+Online – 2 dias antes (Cartão Gulbenkian Mais) ou 1 dia antes (Cartão Gulbenkian) a partir das 10:00.</p>
+<h4 class="fcg-programme__title">1.ª Parte / Laureados de Jazz Combo 2026</h4>
+<h4 class="fcg-programme__title">2.ª Parte / Orquestra GeraJazz</h4>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>
+<h2 class="section-title">
+		Relacionados	</h2>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Concerto									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Festival Jovens Músicos 2026			</h3>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2025/09/banner_gulbenkian_1200x900px_4.3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Festival Jovens Músicos 2026 15 set 2026 / 21:00]]></title>
+            <link>https://gulbenkian.pt/agenda/festival-jovens-musicos-17/</link>
+            <guid isPermaLink="false">fdb62e107cb5444257311ec873251e51f1cdbcfbbe71826a6fde543052376c3e</guid>
+            <pubDate>Sun, 13 Sep 2026 05:24:27 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 21:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p class="tw-mb-3">Levantamento de bilhetes, sujeito à lotação da sala<br>
+(máx. 2 por pessoa):</p>
+<p>Presencial – 2 horas antes<br>
+Online – 2 dias antes (Cartão Gulbenkian Mais) ou 1 dia antes (Cartão Gulbenkian) a partir das 10:00.</p>
+<h4 class="fcg-programme__title">Solistas SAMP</h4>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>
+<h2 class="section-title">
+		Relacionados	</h2>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Concerto									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Festival Jovens Músicos 2026			</h3>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								21:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								21:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 21:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p class="tw-mb-3">Levantamento de bilhetes, sujeito à lotação da sala<br>
+(máx. 2 por pessoa):</p>
+<p>Presencial – 2 horas antes<br>
+Online – 2 dias antes (Cartão Gulbenkian Mais) ou 1 dia antes (Cartão Gulbenkian) a partir das 10:00.</p>
+<h4 class="fcg-programme__title">Solistas SAMP</h4>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>
+<h2 class="section-title">
+		Relacionados	</h2>
+<ul class="fcg-card__meta">
+								<li class="fcg-card__meta-item">
+					Concerto									</li>
+							</ul>
+<h3 class="fcg-card__title">
+				Festival Jovens Músicos 2026			</h3>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2025/09/banner_gulbenkian_1200x900px_4.3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Conferência Cerimónia de entrega do Prémio Gulbenkian para a Humanidade 2026 23 set 2026 / 18:30]]></title>
