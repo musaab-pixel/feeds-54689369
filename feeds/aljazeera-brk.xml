@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 13 Sep 2026 09:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2026 09:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: التعتيم الإعلامي الإسرائيلي على اقتحام المستوطنين للأقصى يثير…]]></title>
+            <link>https://t.me/aljazeeraBrk/234954</link>
+            <guid isPermaLink="false">6e8791fad95e3ec4db831b5d6f2bc02c7f814c4a7c797b02b969a015a8b9d027</guid>
+            <pubDate>Sun, 13 Sep 2026 09:18:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: التعتيم الإعلامي الإسرائيلي على اقتحام المستوطنين للأقصى يثير مخاوف من محاولة فرض وقائع جديدة]]></description>
+            <content:encoded><![CDATA[محافظة القدس: التعتيم الإعلامي الإسرائيلي على اقتحام المستوطنين للأقصى يثير مخاوف من محاولة فرض وقائع جديدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نبيل فهمي للجزيرة: أتوقع انفجارا جديدا في المنطقة إذا استمرت الأوضاع على حالها]]></title>
             <link>https://t.me/aljazeeraBrk/234953</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 11 Sep 2026 02:20:02 GMT</pubDate>
             <description><![CDATA[ترمب: تم إقرار أكبر تخفيضات ضريبية وتنظيمية في تاريخ أمريكا]]></description>
             <content:encoded><![CDATA[ترمب: تم إقرار أكبر تخفيضات ضريبية وتنظيمية في تاريخ أمريكا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: عززنا الاستثمار في الجيش وجعلنا أمريكا قوة عظمى في مجالي الطاقة والجيش]]></title>
-            <link>https://t.me/aljazeeraBrk/234684</link>
-            <guid isPermaLink="false">252faaaf8730448adbe4bb31be18a82cf328b78d0139aa10b8097ccea311b248</guid>
-            <pubDate>Fri, 11 Sep 2026 02:19:03 GMT</pubDate>
-            <description><![CDATA[ترمب: عززنا الاستثمار في الجيش وجعلنا أمريكا قوة عظمى في مجالي الطاقة والجيش]]></description>
-            <content:encoded><![CDATA[ترمب: عززنا الاستثمار في الجيش وجعلنا أمريكا قوة عظمى في مجالي الطاقة والجيش]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
