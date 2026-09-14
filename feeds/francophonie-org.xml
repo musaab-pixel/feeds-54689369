@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 14 Sep 2026 14:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 21:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -33,6 +33,21 @@
 <span property="schema:dateCreated" content="2026-09-14T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 14/09/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Togo : 177 jeunes formés aux métiers de la fabrication numérique </span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-14T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 14/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Tunisie : l'OIF s'engage pour redonner un nouveau souffle au Fonds de garantie pour les industries culturelles]]></title>
+            <link>https://www.francophonie.org/tunisie-revision-du-fonds-de-garantie-pour-les-icc-8656</link>
+            <guid isPermaLink="false">f9fe0e1b8dfd1e1532e3b237f2fb01d789ae438d5b89b8a37b15c3e174714a43</guid>
+            <pubDate>Mon, 14 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Tunisie : l'OIF s'engage pour redonner un nouveau souffle au Fonds de garantie pour les industries culturelles</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-14T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 14/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Tunisie : l'OIF s'engage pour redonner un nouveau souffle au Fonds de garantie pour les industries culturelles</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-09-14T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 14/09/2026 - 15:43</span>
 ]]></content:encoded>
