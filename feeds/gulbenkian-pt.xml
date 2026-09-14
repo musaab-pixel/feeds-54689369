@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Sun, 13 Sep 2026 05:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 14:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1641,6 +1641,162 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Festival Jovens Músicos 2026 16 set 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/festival-jovens-musicos-16/</link>
+            <guid isPermaLink="false">bb47c7a4d62cb39ad10c3999ba2b98163688005f3f5f5ee51742dc157dab1fed</guid>
+            <pubDate>Mon, 14 Sep 2026 14:19:13 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p class="tw-mb-3">Levantamento de bilhetes, sujeito à lotação da sala<br>
+(máx. 2 por pessoa):</p>
+<p>Presencial – 2 horas antes<br>
+Online – 2 dias antes (Cartão Gulbenkian Mais) ou 1 dia antes (Cartão Gulbenkian) a partir das 10:00.</p>
+<h4 class="fcg-programme__title">Convidados da Escola Artística do Instituto Gregoriano de Lisboa</h4>
+<h4 class="fcg-programme__title">Laureados Música de Câmara – Nível Médio</h4>
+<h4 class="fcg-programme__title">Laureados Música de Câmara – Nível Superior</h4>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p class="tw-mb-3">Levantamento de bilhetes, sujeito à lotação da sala<br>
+(máx. 2 por pessoa):</p>
+<p>Presencial – 2 horas antes<br>
+Online – 2 dias antes (Cartão Gulbenkian Mais) ou 1 dia antes (Cartão Gulbenkian) a partir das 10:00.</p>
+<h4 class="fcg-programme__title">Convidados da Escola Artística do Instituto Gregoriano de Lisboa</h4>
+<h4 class="fcg-programme__title">Laureados Música de Câmara – Nível Médio</h4>
+<h4 class="fcg-programme__title">Laureados Música de Câmara – Nível Superior</h4>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2025/09/banner_gulbenkian_1200x900px_4.3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Festival Jovens Músicos 2026 16 set 2026 / 21:00]]></title>
+            <link>https://gulbenkian.pt/agenda/festival-jovens-musicos-18/</link>
+            <guid isPermaLink="false">19cf9aee80a482ee2458a61d7e3dd08f323da2a3ed552ffcd280136842a48d12</guid>
+            <pubDate>Mon, 14 Sep 2026 14:19:13 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="200" height="300" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2019/01/Orquestra-Metropolitana-de-Lisboa-C-DR_200x300.jpg" class="attachment-original_lg size-original_lg" alt="Orquestra Metropolitana de Lisboa" decoding="async"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Metropolitana de Lisboa</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif"><p>A Orquestra Metropolitana de Lisboa (OML) mantém uma programação regular desde 1992. Os seus músicos asseguram uma intensa atividade que se distingue pela qualidade e pela versatilidade, o que permite abordar repertórios diversos, criar novos públicos e afirmar o caráter inovador do projeto AMEC | Metropolitana, do qual esta orquestra é a face mais visível.</p>
+<p>Desde o seu início, a OML afirmou-se como uma referência incontornável do panorama orquestral nacional. Apesar de estar sedeada em Lisboa, apresenta anualmente uma temporada com quase duas centenas de atuações que estendem a sua ação a 12 dos 18 concelhos da Área Metropolitana de Lisboa, com programações regulares junto de várias autarquias e deslocações frequentes a cidades de todo o país. Com espírito de participação cívica, a OML apresenta-se frequentemente em eventos públicos relevantes, tais como o festival Dias da Música que tem lugar todos os anos no Centro Cultural de Belém. Nos programas sinfónicos, jovens intérpretes da Academia Nacional Superior de Orquestra juntam-se à sua constituição base, a qual já integra, em si mesma, vários músicos formados nesta escola. Manifesta-se deste modo a importância que a Metropolitana confia na ponte entre a prática e o ensino da música. Este desígnio, que distingue a sua identidade, é um exemplo único no contexto musical português e raro no panorama internacional.</p>
+<p>A OML gravou mais de uma dezena de álbuns – um dos quais disco de platina – para diferentes editoras, incluindo a EMI Classics, a Naxos e a RCA Classics. Ao longo do seu historial, colaborou com inúmeros maestros e solistas de grande reputação nacional e internacional, de que são exemplos os maestros Pablo Heras-Casado, Christopher Hogwood, Theodor Guschlbauer, Michael Zilm, Emilio Pomàrico, Nicholas Kraemer, Leonardo García Alarcón, Hans-Christoph Rademann, Victor Yampolsky, Joana Carneiro, Pedro Amaral e Pedro Neves, ou os solistas Monserrat Caballé, Kiri Te Kanawa, José Cura, José Carreras, Felicity Lott, Elisabete Matos, Leon Fleisher, Maria João Pires, Artur Pizarro, Sequeira Costa, António Rosado, Jorge Moyano, Natalia Gutman, Gerardo Ribeiro, Anabela Chaves, António Menezes, Enrico Onofri, Sol Gabetta, Michel Portal, Marlis Petersen, Dietrich Henschel e Mark Padmore, entre outros. A Direção Artística da Orquestra Metropolitana de Lisboa é, desde 2013, assegurada por Pedro Amaral que, desde 2018, acumula as funções de Maestro Titular.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="350" height="525" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Pedro-Neves-destaque.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Pedro-Neves-destaque.jpg 350w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Pedro-Neves-destaque-200x300.jpg 200w" sizes="(max-width: 350px) 100vw, 350px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Pedro Neves</h1>
+								<p class="fcg-entry-header__subtitle">Maestro</p>
+								<div class="tw-font-serif"><p>Pedro Neves&nbsp;é o atual Diretor Artístico e Maestro Titular da Orquestra Metropolitana de Lisboa. É também Maestro Titular da Orquestra Clássica de Espinho e professor na Academia Nacional Superior de Orquestra. Colabora regularmente com a Orquestra Gulbenkian, da qual foi Maestro Convidado (2013-2018).</p>
+<p>Pedro Neves nasceu em Águeda e iniciou o seu percurso musical no Conservatório de Aveiro, onde estudou violoncelo com Isabel Boiça. Foi também aluno de Paulo Gaio Lima na Academia Nacional Superior de Orquestra (Lisboa) e, como bolseiro da Fundação Gulbenkian, estudou com Marçal Cervera na Escola de Música Juan Pedro Carrero, em Barcelona. Foi premiado no concurso da Juventude Musical Portuguesa e no Prémio Jovens Músicos. Estudou direção de orquestra com Jean-Marc Burfin na Academia Nacional Superior de Orquestra, onde se licenciou, e com Emílio Pomàrico, em Milão. Em 2006 e 2008, foi maestro assistente de Michael Zilm. Foi Maestro Titular da Orquestra do Algarve (2011-2013) e é um convidado regular das principais orquestras portuguesas, tendo dirigido também a Orquestra Sinfónica do Estado de São Paulo, a Orquestra Sinfónica de Porto Alegre, a Orquestra Filarmónica do Luxemburgo e a Real Filarmonia da Galiza.</p>
+<p>No domínio da música contemporânea, colaborou com o Sond’arte Electric Ensemble, o Grupo de Música Contemporânea de Lisboa, o Remix Ensemble - Casa da Música e o Síntese Grupo de Música Contemporânea, tendo dirigido estreias de obras de compositores portugueses e estrangeiros e realizado digressões na Coreia do Sul e no Japão. É fundador da Camerata Alma Mater, que se dedica à interpretação do repertório para orquestra de cordas.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="200" height="300" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2019/01/Orquestra-Metropolitana-de-Lisboa-C-DR_200x300.jpg" class="attachment-original_lg size-original_lg" alt="Orquestra Metropolitana de Lisboa" decoding="async"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Orquestra Metropolitana de Lisboa</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-serif"><p>A Orquestra Metropolitana de Lisboa (OML) mantém uma programação regular desde 1992. Os seus músicos asseguram uma intensa atividade que se distingue pela qualidade e pela versatilidade, o que permite abordar repertórios diversos, criar novos públicos e afirmar o caráter inovador do projeto AMEC | Metropolitana, do qual esta orquestra é a face mais visível.</p>
+<p>Desde o seu início, a OML afirmou-se como uma referência incontornável do panorama orquestral nacional. Apesar de estar sedeada em Lisboa, apresenta anualmente uma temporada com quase duas centenas de atuações que estendem a sua ação a 12 dos 18 concelhos da Área Metropolitana de Lisboa, com programações regulares junto de várias autarquias e deslocações frequentes a cidades de todo o país. Com espírito de participação cívica, a OML apresenta-se frequentemente em eventos públicos relevantes, tais como o festival Dias da Música que tem lugar todos os anos no Centro Cultural de Belém. Nos programas sinfónicos, jovens intérpretes da Academia Nacional Superior de Orquestra juntam-se à sua constituição base, a qual já integra, em si mesma, vários músicos formados nesta escola. Manifesta-se deste modo a importância que a Metropolitana confia na ponte entre a prática e o ensino da música. Este desígnio, que distingue a sua identidade, é um exemplo único no contexto musical português e raro no panorama internacional.</p>
+<p>A OML gravou mais de uma dezena de álbuns – um dos quais disco de platina – para diferentes editoras, incluindo a EMI Classics, a Naxos e a RCA Classics. Ao longo do seu historial, colaborou com inúmeros maestros e solistas de grande reputação nacional e internacional, de que são exemplos os maestros Pablo Heras-Casado, Christopher Hogwood, Theodor Guschlbauer, Michael Zilm, Emilio Pomàrico, Nicholas Kraemer, Leonardo García Alarcón, Hans-Christoph Rademann, Victor Yampolsky, Joana Carneiro, Pedro Amaral e Pedro Neves, ou os solistas Monserrat Caballé, Kiri Te Kanawa, José Cura, José Carreras, Felicity Lott, Elisabete Matos, Leon Fleisher, Maria João Pires, Artur Pizarro, Sequeira Costa, António Rosado, Jorge Moyano, Natalia Gutman, Gerardo Ribeiro, Anabela Chaves, António Menezes, Enrico Onofri, Sol Gabetta, Michel Portal, Marlis Petersen, Dietrich Henschel e Mark Padmore, entre outros. A Direção Artística da Orquestra Metropolitana de Lisboa é, desde 2013, assegurada por Pedro Amaral que, desde 2018, acumula as funções de Maestro Titular.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="350" height="525" src="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Pedro-Neves-destaque.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Pedro-Neves-destaque.jpg 350w, https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2017/02/Pedro-Neves-destaque-200x300.jpg 200w" sizes="(max-width: 350px) 100vw, 350px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Pedro Neves</h1>
+								<p class="fcg-entry-header__subtitle">Maestro</p>
+								<div class="tw-font-serif"><p>Pedro Neves&nbsp;é o atual Diretor Artístico e Maestro Titular da Orquestra Metropolitana de Lisboa. É também Maestro Titular da Orquestra Clássica de Espinho e professor na Academia Nacional Superior de Orquestra. Colabora regularmente com a Orquestra Gulbenkian, da qual foi Maestro Convidado (2013-2018).</p>
+<p>Pedro Neves nasceu em Águeda e iniciou o seu percurso musical no Conservatório de Aveiro, onde estudou violoncelo com Isabel Boiça. Foi também aluno de Paulo Gaio Lima na Academia Nacional Superior de Orquestra (Lisboa) e, como bolseiro da Fundação Gulbenkian, estudou com Marçal Cervera na Escola de Música Juan Pedro Carrero, em Barcelona. Foi premiado no concurso da Juventude Musical Portuguesa e no Prémio Jovens Músicos. Estudou direção de orquestra com Jean-Marc Burfin na Academia Nacional Superior de Orquestra, onde se licenciou, e com Emílio Pomàrico, em Milão. Em 2006 e 2008, foi maestro assistente de Michael Zilm. Foi Maestro Titular da Orquestra do Algarve (2011-2013) e é um convidado regular das principais orquestras portuguesas, tendo dirigido também a Orquestra Sinfónica do Estado de São Paulo, a Orquestra Sinfónica de Porto Alegre, a Orquestra Filarmónica do Luxemburgo e a Real Filarmonia da Galiza.</p>
+<p>No domínio da música contemporânea, colaborou com o Sond’arte Electric Ensemble, o Grupo de Música Contemporânea de Lisboa, o Remix Ensemble - Casa da Música e o Síntese Grupo de Música Contemporânea, tendo dirigido estreias de obras de compositores portugueses e estrangeiros e realizado digressões na Coreia do Sul e no Japão. É fundador da Camerata Alma Mater, que se dedica à interpretação do repertório para orquestra de cordas.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2025/09/banner_gulbenkian_1200x900px_4.3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Concerto Festival Jovens Músicos 2026 15 set 2026 / 18:00]]></title>
@@ -4493,7 +4649,7 @@ Qual é o montante máximo de financiamento?				</h4>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Joachim_Kuhn_by_ACT_Tibor_Bozi_01_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Apoios Apoio à edição Apoio à publicação de obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, ou traduções de obras de referência internacional. 14 set – 16 out 2026]]></title>
+            <title><![CDATA[Apoios Apoio à edição Apoio à publicação de obras originais e inéditas de interesse cultural, artístico, científico ou filosófico, ou traduções de obras de referência internacional. até 16 out 2026 Candidatura aberta]]></title>
             <link>https://gulbenkian.pt/bolsas-lista/apoio-a-edicao/</link>
             <guid isPermaLink="false">cb1a0548374c54dd15768ad1edc21d790f9a463cf79f531008c499a439666474</guid>
             <pubDate>Mon, 27 Jul 2026 00:42:48 GMT</pubDate>

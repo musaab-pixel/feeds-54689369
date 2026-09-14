@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "93ed27f03fe0f711d19d0023c9b89fdc350be57a0058287e480046756dd82b57",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Verständigung unter Druck: Das Osteuropa- und Ukraine-Engagement der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-10T16:50:27+02:00\" title=\"Donnerstag, 10 September 2026 - 16:50\" class=\"datetime\">Do. 10 Sep 2026 - 16:50</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/verstaendigung-unter-druck-das-osteuropa-und-ukraine-engagement-der-robert-bosch-stiftung",
+            "title": "Verständigung unter Druck: Das Osteuropa- und Ukraine-Engagement der Robert Bosch Stiftung",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Verständigung unter Druck: Das Osteuropa- und Ukraine-Engagement der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-10T16:50:27+02:00\" title=\"Donnerstag, 10 September 2026 - 16:50\" class=\"datetime\">Do. 10 Sep 2026 - 16:50</time>\n</span>\n",
+            "date_modified": "2026-09-10T14:50:27.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "051fc193ed55291b7ef8e0bd29ca887ebefc7030614064bbbe10f0d82d3feb33",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Werkstudent für den Bereich Bildung (w/m/div.)</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-07T14:50:58+02:00\" title=\"Montag, 7 September 2026 - 14:50\" class=\"datetime\">Mo. 7 Sep 2026 - 14:50</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/werkstudent-fuer-den-bereich-bildung-wmdiv",

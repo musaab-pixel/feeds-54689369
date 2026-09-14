@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Fri, 11 Sep 2026 20:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 14:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -3789,7 +3789,7 @@ Ryan Speedo Green</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/12_MET_Macbeth-programme-image-new-silhouette-less-smoke_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Grants Grants for publishing Support for publishers in the publication of original and unpublished works or translations into Portuguese of works of international reputation. 14 Sep – 16 Oct 2026]]></title>
+            <title><![CDATA[Grants Grants for publishing Support for publishers in the publication of original and unpublished works or translations into Portuguese of works of international reputation. closes 16 Oct 2026 Open call]]></title>
             <link>https://gulbenkian.pt/en/bolsas-lista/grants-for-publishing/</link>
             <guid isPermaLink="false">5194f9225c59bc91d1d5f84fbf116753eb5f065cf124dbf41f9e5723e0f244ec</guid>
             <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
@@ -8424,6 +8424,19 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/04_Quarteto-Diotima-C-Michel-Nguyen_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Philanthropy in international dialogue: Foundations Circle 2026]]></title>
+            <link>https://www.compagniadisanpaolo.it/en/news-en/philanthropy-in-international-dialogue-foundations-circle-2026/</link>
+            <guid isPermaLink="false">7d58c08614fabaab6a81d91e193fea12c2c0f8d575d21c19e32d7bd49f713468</guid>
+            <pubDate>Fri, 11 Sep 2026 10:14:16 GMT</pubDate>
+            <description><![CDATA[<p>The international forum promoted by the Institute of Philanthropy was held in Hong Kong, bringing together representatives of international philanthropy to discuss the evolution of philanthropic models in Asia. Among the voices contributing to the dialogue was that of Fondazione Compagnia di San Paolo. Trust, education and training, artificial intelligence and new forms of collaboration were the key themes addressed.</p>
+<p>L'articolo <a href="https://www.compagniadisanpaolo.it/en/news-en/philanthropy-in-international-dialogue-foundations-circle-2026/">Philanthropy in international dialogue: Foundations Circle 2026</a> proviene da <a href="https://www.compagniadisanpaolo.it/en/">Fondazione Compagnia di San Paolo</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>The international forum promoted by the Institute of Philanthropy was held in Hong Kong, bringing together representatives of international philanthropy to discuss the evolution of philanthropic models in Asia. Among the voices contributing to the dialogue was that of Fondazione Compagnia di San Paolo. Trust, education and training, artificial intelligence and new forms of collaboration were the key themes addressed.</p>
+<p>L'articolo <a href="https://www.compagniadisanpaolo.it/en/news-en/philanthropy-in-international-dialogue-foundations-circle-2026/">Philanthropy in international dialogue: Foundations Circle 2026</a> proviene da <a href="https://www.compagniadisanpaolo.it/en/">Fondazione Compagnia di San Paolo</a>.</p>
+]]></content:encoded>
+            <author>Federica</author>
+        </item>
+        <item>
             <title><![CDATA[Concert A Little Summer Suite 11 Sep 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/a-little-summer-suite/</link>
             <guid isPermaLink="false">f290ca6444477633273203567b41db3764ce2be1fb2e532138e34cd5ae9e42c4</guid>
@@ -12953,123 +12966,6 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
 <p class="tw-text-xs tw-leading-snug tw-mb-0">
 		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Amado_Maranha_by_Vera_Marmelo_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Concert Canyon 01 Aug 2026 / 21:30]]></title>
-            <link>https://gulbenkian.pt/en/agenda/canyon/</link>
-            <guid isPermaLink="false">70a9aa2d346dc9130f01217702cef01bb45562b210d8b3917e6d5ed83ceafb19</guid>
-            <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 class="assist">Event Slider</h2>
-<h4 class="assist">Date</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Saturday, 21:30								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Location</h4>
-<p>Gulbenkian Garden</p>
-<h4 class="assist">Pricing</h4>
-<p>10% – Cartão Gulbenkian</p>
-<ul class="fcg-list-unstyled">
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Jerome Deupree											</span>
-														<span class="tw-ml-xs tw-text-sm">Drums</span>
-									</li>
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Joe Morris											</span>
-														<span class="tw-ml-xs tw-text-sm">Double bass</span>
-									</li>
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Sylvie Courvoisier											</span>
-														<span class="tw-ml-xs tw-text-sm">Piano</span>
-									</li>
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Lester St. Louis											</span>
-														<span class="tw-ml-xs tw-text-sm">Cello</span>
-									</li>
-					</ul>
-<p>Improvised music, in the hands of its finest practitioners, resembles a fiercely contested sporting event with an unpredictable outcome. With the original quartet Canyon, it is easy to see that anything is possible.</p>
-<p>Drummer Jerome Deupree provided the rhythmic backbone to the alternative rock of Morphine; cellist Lester St. Louis made his name in Jamie Branch’s Fly or Die; guitarist Joe Morris is, according to The Wire, “one of the deepest improvisers active in the United States”; pianist Sylvie Courvoisier is a colossus of inventiveness, described by Deupree as someone who keeps the group “on the edge of their seats, because the piano seems unable to contain her”.</p>
-<p>In truth, everything in Canyon is unrestrained: the energy, the sonic exploration, the four-way communication, the vibration, the urgency.</p>
-<p class="tw-text-xs tw-leading-snug tw-mb-0">
-		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
-            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
-<h4 class="assist">Date</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								21:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Saturday, 21:30								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Location</h4>
-<p>Gulbenkian Garden</p>
-<h4 class="assist">Pricing</h4>
-<p>10% – Cartão Gulbenkian</p>
-<ul class="fcg-list-unstyled">
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Jerome Deupree											</span>
-														<span class="tw-ml-xs tw-text-sm">Drums</span>
-									</li>
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Joe Morris											</span>
-														<span class="tw-ml-xs tw-text-sm">Double bass</span>
-									</li>
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Sylvie Courvoisier											</span>
-														<span class="tw-ml-xs tw-text-sm">Piano</span>
-									</li>
-							<li class="tw-mb-xs">
-									<span class="tw-mb-0 tw-text-lg">
-													Lester St. Louis											</span>
-														<span class="tw-ml-xs tw-text-sm">Cello</span>
-									</li>
-					</ul>
-<p>Improvised music, in the hands of its finest practitioners, resembles a fiercely contested sporting event with an unpredictable outcome. With the original quartet Canyon, it is easy to see that anything is possible.</p>
-<p>Drummer Jerome Deupree provided the rhythmic backbone to the alternative rock of Morphine; cellist Lester St. Louis made his name in Jamie Branch’s Fly or Die; guitarist Joe Morris is, according to The Wire, “one of the deepest improvisers active in the United States”; pianist Sylvie Courvoisier is a colossus of inventiveness, described by Deupree as someone who keeps the group “on the edge of their seats, because the piano seems unable to contain her”.</p>
-<p>In truth, everything in Canyon is unrestrained: the energy, the sonic exploration, the four-way communication, the vibration, the urgency.</p>
-<p class="tw-text-xs tw-leading-snug tw-mb-0">
-		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
-            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/37/2026/04/Canyon_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

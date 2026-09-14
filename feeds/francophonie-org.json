@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "ba3cbfed90e95011a1e07c1d5993868873dc50f2d082242e30905427d42ce64b",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Le film camerounais \"La maison du vent\" doublement primé à la Mostra de Venise</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 14/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/le-film-camerounais-la-maison-du-vent-doublement-prime-a-la-mostra-de-venise-8657",
+            "title": "Le film camerounais \"La maison du vent\" doublement primé à la Mostra de Venise",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Le film camerounais \"La maison du vent\" doublement primé à la Mostra de Venise</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 14/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-14T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "d64594b1f6ecf96b444b3cbb83d57d7218a0b2349839245704c4ed460e1a9715",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Togo : 177 jeunes formés aux métiers de la fabrication numérique </span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 14/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/togo-177-jeunes-formes-aux-metiers-de-la-fabrication-numerique-8655",
+            "title": "Togo : 177 jeunes formés aux métiers de la fabrication numérique",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Togo : 177 jeunes formés aux métiers de la fabrication numérique </span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 14/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-14T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "43c3bf9ec4e95c6341949b92b083e7de110232738b508c5f353ced19034843f8",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Du pitch du projet jusqu'à la projection des films : les festivals, des tremplins pour les cinéastes du Sud</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-10T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 10/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/les-festivals-tremplins-des-cineastes-du-sud-8653",
