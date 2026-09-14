@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 14 Sep 2026 14:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 14:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن برنامج الأغذية العالمي: تمويلنا للسودان انخفض بالنصف هذا العام والحرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/235087</link>
+            <guid isPermaLink="false">478095aa0bf166ed7f9e47c3d96da99272601f4c0742fc58dc487b96b399e5a4</guid>
+            <pubDate>Mon, 14 Sep 2026 14:25:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن برنامج الأغذية العالمي: تمويلنا للسودان انخفض بالنصف هذا العام والحرب تدفع مزيدا من الناس نحو الجوع]]></description>
+            <content:encoded><![CDATA[رويترز عن برنامج الأغذية العالمي: تمويلنا للسودان انخفض بالنصف هذا العام والحرب تدفع مزيدا من الناس نحو الجوع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في مستشفى ناصر: شهيد ومصابون في غارة من مسيرة إسرائيلية على خيمة نازحين في…]]></title>
             <link>https://t.me/aljazeeraBrk/235086</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 12 Sep 2026 01:13:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في محافظة شرورة للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في محافظة شرورة للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول في الخارجية الأمريكية: الجولة التالية من المحادثات الرسمية ستعقد في روما…]]></title>
-            <link>https://t.me/aljazeeraBrk/234823</link>
-            <guid isPermaLink="false">cd704e1405e2899d56ccd60da4384077e27bb81a06c19931ad670c425a28d963</guid>
-            <pubDate>Fri, 11 Sep 2026 23:33:02 GMT</pubDate>
-            <description><![CDATA[مسؤول في الخارجية الأمريكية: الجولة التالية من المحادثات الرسمية ستعقد في روما في أكتوبر المقبل]]></description>
-            <content:encoded><![CDATA[مسؤول في الخارجية الأمريكية: الجولة التالية من المحادثات الرسمية ستعقد في روما في أكتوبر المقبل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
