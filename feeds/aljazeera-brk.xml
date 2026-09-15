@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 13:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 13:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عمدة العاصمة الأوكرانية: إسقاط مسيرتين روسيتين في كييف وسقوط ثالثة في مرآب…]]></title>
+            <link>https://t.me/aljazeeraBrk/235240</link>
+            <guid isPermaLink="false">28e48fbc4c142af4ff022b9029a23df813e65b3437f19e919217b26411cc3ee7</guid>
+            <pubDate>Tue, 15 Sep 2026 13:24:02 GMT</pubDate>
+            <description><![CDATA[عمدة العاصمة الأوكرانية: إسقاط مسيرتين روسيتين في كييف وسقوط ثالثة في مرآب سيارات دون وقوع ضحايا]]></description>
+            <content:encoded><![CDATA[عمدة العاصمة الأوكرانية: إسقاط مسيرتين روسيتين في كييف وسقوط ثالثة في مرآب سيارات دون وقوع ضحايا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أكسيوس عن مسؤول أمريكي: الحرس الثوري استخدم قوارب في محاولة الاستيلاء على مسيرة…]]></title>
             <link>https://t.me/aljazeeraBrk/235239</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 13 Sep 2026 09:04:02 GMT</pubDate>
             <description><![CDATA[الأمين العام لجامعة الدول العربية للجزيرة: لا يمكن إنهاء الحرب في المنطقة عسكريا والأزمة مرشحة للاستمرار]]></description>
             <content:encoded><![CDATA[الأمين العام لجامعة الدول العربية للجزيرة: لا يمكن إنهاء الحرب في المنطقة عسكريا والأزمة مرشحة للاستمرار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: أكثر من 480 مستوطنا اقتحموا المسجد الأقصى منذ صباح اليوم وسط…]]></title>
-            <link>https://t.me/aljazeeraBrk/234946</link>
-            <guid isPermaLink="false">9e506064a743c9d89a8b86c2bcffcb4fbe56a68d9877ac7b94c700b0f7dd6175</guid>
-            <pubDate>Sun, 13 Sep 2026 08:55:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: أكثر من 480 مستوطنا اقتحموا المسجد الأقصى منذ صباح اليوم وسط إجراءات مشددة من قوات الاحتلال]]></description>
-            <content:encoded><![CDATA[محافظة القدس: أكثر من 480 مستوطنا اقتحموا المسجد الأقصى منذ صباح اليوم وسط إجراءات مشددة من قوات الاحتلال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
