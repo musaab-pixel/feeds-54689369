@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "3d8d659a4d07800caa117cc3ef4a81f0718548a41a89c512da6fbfd5fe5068e3",
+            "content_html": "هيئة الطوارئ الأوكرانية: قتيلان ومصاب في هجمات روسية على زابوروجيا",
+            "url": "https://t.me/aljazeeraBrk/235180",
+            "title": "هيئة الطوارئ الأوكرانية: قتيلان ومصاب في هجمات روسية على زابوروجيا",
+            "summary": "هيئة الطوارئ الأوكرانية: قتيلان ومصاب في هجمات روسية على زابوروجيا",
+            "date_modified": "2026-09-15T06:28:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "294cba3f63c7828513901c5d01e703a23f540c340300f715e2d96ec186eff5eb",
             "content_html": "مصدر بالجيش السوداني: إسقاط 3 مسيرات للدعم السريع في الفشقة بولاية القضارف وبمنطقة خشم القربة بولاية كسلا",
             "url": "https://t.me/aljazeeraBrk/235179",
@@ -1606,18 +1617,6 @@
             "date_modified": "2026-09-13T19:49:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "48f8eeaad11fd28c40a6909f85a16539873a7f303917b27e4f96209e636643e1",
-            "content_html": "احتجاجات على اوتستراد حلب - غازي عنتاب قرب مفرق عندان ضد قرار رفع أسعار المحروقات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140555",
-            "title": "احتجاجات على اوتستراد حلب - غازي عنتاب قرب مفرق عندان ضد قرار رفع أسعار…",
-            "summary": "احتجاجات على اوتستراد حلب - غازي عنتاب قرب مفرق عندان ضد قرار رفع أسعار المحروقات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/GsGTyuG1vr3TZTOb0GHlHU1X3AEparSCbjBZfcLMwEcONZO_gYqwoxgnGv0pVXI5GP43Dzsam9m7cVw8zngO_RU2VqTmsDSFhJ9EGRgSgS6rYInRuLz6DeBma9nkzumG2EKc78CXLC38hvXUN_kNeD8Kxr_yuQnAiXMa8tiU3P8-hYkDezMviF7eQP6mR66ItCdyN_o8gYZDmJsrlY6bznEpfAlqLjrvvG2PNu645-VqzJEwnI2bAeDlsWx2J1hijwUkdTa9wX6Lc9UshBUcjzJr2dupWoRV3yyVKNubVE_--HB1DqNTKTW5GPInt6Jn4DxZaz2pvjcD-4JMLX21Sw.jpg",
-            "date_modified": "2026-09-13T19:46:18.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

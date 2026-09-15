@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 06:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 06:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: قتيلان ومصاب في هجمات روسية على زابوروجيا]]></title>
+            <link>https://t.me/aljazeeraBrk/235180</link>
+            <guid isPermaLink="false">3d8d659a4d07800caa117cc3ef4a81f0718548a41a89c512da6fbfd5fe5068e3</guid>
+            <pubDate>Tue, 15 Sep 2026 06:28:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: قتيلان ومصاب في هجمات روسية على زابوروجيا]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: قتيلان ومصاب في هجمات روسية على زابوروجيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر بالجيش السوداني: إسقاط 3 مسيرات للدعم السريع في الفشقة بولاية القضارف…]]></title>
             <link>https://t.me/aljazeeraBrk/235179</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 12 Sep 2026 11:38:02 GMT</pubDate>
             <description><![CDATA[رئيس هيئة المنافذ الحدودية العراقية: الإجراءات المتخذة في المنافذ مع الجانب الإيراني وقتية]]></description>
             <content:encoded><![CDATA[رئيس هيئة المنافذ الحدودية العراقية: الإجراءات المتخذة في المنافذ مع الجانب الإيراني وقتية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: نتحكم بمضيق هرمز ونسيطر عليه وقمنا بإزالة الألغام البحرية منه]]></title>
-            <link>https://t.me/aljazeeraBrk/234877</link>
-            <guid isPermaLink="false">a2303a9decafaec4724c2127685fdc88e183721842738b9ba4a4e2cc498237b9</guid>
-            <pubDate>Sat, 12 Sep 2026 11:20:02 GMT</pubDate>
-            <description><![CDATA[ترمب: نتحكم بمضيق هرمز ونسيطر عليه وقمنا بإزالة الألغام البحرية منه]]></description>
-            <content:encoded><![CDATA[ترمب: نتحكم بمضيق هرمز ونسيطر عليه وقمنا بإزالة الألغام البحرية منه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
