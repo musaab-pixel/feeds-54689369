@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 10:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 10:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[يسرائيل هيوم: الشرطة العسكرية تفتح تحقيقا بعد العثور أمس على جثة جندي من…]]></title>
+            <link>https://t.me/aljazeeraBrk/235221</link>
+            <guid isPermaLink="false">6d9518df32f92e99b65187e8dde875b8429307cdb02a06fa749d85a3c2d960bc</guid>
+            <pubDate>Tue, 15 Sep 2026 10:17:02 GMT</pubDate>
+            <description><![CDATA[يسرائيل هيوم: الشرطة العسكرية تفتح تحقيقا بعد العثور أمس على جثة جندي من الاحتياط وسط إسرائيل]]></description>
+            <content:encoded><![CDATA[يسرائيل هيوم: الشرطة العسكرية تفتح تحقيقا بعد العثور أمس على جثة جندي من الاحتياط وسط إسرائيل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: نجدد تضامن قطر الكامل مع السعودية الشقيقة وما تتخذه من…]]></title>
             <link>https://t.me/aljazeeraBrk/235220</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 12 Sep 2026 20:49:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية العراقي: معالجة أزمات المنطقة بما فيها الوضع في اليمن يجب أن تمر بالحوار والمفاوضات وخفض التوتر]]></description>
             <content:encoded><![CDATA[وزير الخارجية العراقي: معالجة أزمات المنطقة بما فيها الوضع في اليمن يجب أن تمر بالحوار والمفاوضات وخفض التوتر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية العراقي: نؤكد دعمنا لمسار الاجتماع المرتقب في عمان ومشاركتنا فيه]]></title>
-            <link>https://t.me/aljazeeraBrk/234927</link>
-            <guid isPermaLink="false">8dead7dab8374352008e6815d6b52d2271d426ddac9bb29a65d75533d27d4ed5</guid>
-            <pubDate>Sat, 12 Sep 2026 20:48:03 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية العراقي: نؤكد دعمنا لمسار الاجتماع المرتقب في عمان ومشاركتنا فيه]]></description>
-            <content:encoded><![CDATA[وزير الخارجية العراقي: نؤكد دعمنا لمسار الاجتماع المرتقب في عمان ومشاركتنا فيه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
