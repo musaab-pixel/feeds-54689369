@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 09:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 09:45:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابان في غارة من مسيرة إسرائيلية على منطقة الصناعة…]]></title>
+            <link>https://t.me/aljazeeraBrk/235216</link>
+            <guid isPermaLink="false">eb5bb3464754b023bfa80e512d3fd5217ec7036c58870f93eee43fe43037110f</guid>
+            <pubDate>Tue, 15 Sep 2026 09:40:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابان في غارة من مسيرة إسرائيلية على منطقة الصناعة بمدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابان في غارة من مسيرة إسرائيلية على منطقة الصناعة بمدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قيادي بالحزب الديمقراطي الكردستاني الإيراني المعارض: سقوط مسيرة داخل مخيم الحزب…]]></title>
             <link>https://t.me/aljazeeraBrk/235215</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 12 Sep 2026 20:18:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: عراقجي ونظيره العراقي أكدا باتصال ضرورة استمرار التنسيق بشأن الأمن على الحدود المشتركة]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي ونظيره العراقي أكدا باتصال ضرورة استمرار التنسيق بشأن الأمن على الحدود المشتركة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القائد العام للقوات المسلحة العراقية: لن نسمح بأن يكون العراق ساحة للصراع أو…]]></title>
-            <link>https://t.me/aljazeeraBrk/234921</link>
-            <guid isPermaLink="false">ccac5f91714d5815eee0d69ad9ca2b68e11922d7075992590b9e83914e3a035a</guid>
-            <pubDate>Sat, 12 Sep 2026 20:14:02 GMT</pubDate>
-            <description><![CDATA[القائد العام للقوات المسلحة العراقية: لن نسمح بأن يكون العراق ساحة للصراع أو منطلقا للاعتداء على دول الجوار]]></description>
-            <content:encoded><![CDATA[القائد العام للقوات المسلحة العراقية: لن نسمح بأن يكون العراق ساحة للصراع أو منطلقا للاعتداء على دول الجوار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
