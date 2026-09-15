@@ -4,7 +4,7 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 18:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 20:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -25,6 +25,15 @@
             <description><![CDATA[The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.]]></description>
             <content:encoded><![CDATA[The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Security Council LIVE: Rising violence triggers emergency meeting on Yemen]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168343</link>
+            <guid isPermaLink="false">48f3e800341abd48330aaae99074fbfe8f39584284cac10c77c48e57caa53553</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here.]]></description>
+            <content:encoded><![CDATA[Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/15-09-2026_IOM_Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Six UN staff killed in Gaza school strike; Lebanon violations mount]]></title>
