@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 08:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 10:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -18,6 +18,21 @@
 <span property="schema:dateCreated" content="2026-09-15T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 15/09/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Djibouti : l’OIF renforce l’accompagnement des Conseillers pédagogiques de français </span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-15T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 15/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Madagascar : L’OIF et l’ENAM lancent une formation dédiée au français des relations internationales]]></title>
+            <link>https://www.francophonie.org/madagascar-oif-et-enam-lancent-formation-francais-relations-internationales-8659</link>
+            <guid isPermaLink="false">0d83ad7209ba3a1a57063d0a30a2fdfefe314ece8c95f26569beb017e09d7313</guid>
+            <pubDate>Tue, 15 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Madagascar : L’OIF et l’ENAM lancent une formation dédiée au français des relations internationales</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-15T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 15/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Madagascar : L’OIF et l’ENAM lancent une formation dédiée au français des relations internationales</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-09-15T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 15/09/2026 - 15:43</span>
 ]]></content:encoded>

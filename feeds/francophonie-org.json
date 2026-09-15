@@ -16,6 +16,17 @@
             }
         },
         {
+            "id": "0d83ad7209ba3a1a57063d0a30a2fdfefe314ece8c95f26569beb017e09d7313",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : L’OIF et l’ENAM lancent une formation dédiée au français des relations internationales</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-15T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 15/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/madagascar-oif-et-enam-lancent-formation-francais-relations-internationales-8659",
+            "title": "Madagascar : L’OIF et l’ENAM lancent une formation dédiée au français des relations internationales",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : L’OIF et l’ENAM lancent une formation dédiée au français des relations internationales</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-15T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 15/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-15T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "ba3cbfed90e95011a1e07c1d5993868873dc50f2d082242e30905427d42ce64b",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Le film camerounais \"La maison du vent\" doublement primé à la Mostra de Venise</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 14/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/le-film-camerounais-la-maison-du-vent-doublement-prime-a-la-mostra-de-venise-8657",
