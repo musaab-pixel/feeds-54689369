@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 08:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 09:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن تعرض سفينة لضربة بمقذوف مجهول…]]></title>
+            <link>https://t.me/aljazeeraBrk/235209</link>
+            <guid isPermaLink="false">60bc936384d69c0f61491d39d7336d0f770db33751bcfc229dfad7c0c91d4344</guid>
+            <pubDate>Tue, 15 Sep 2026 09:05:02 GMT</pubDate>
+            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن تعرض سفينة لضربة بمقذوف مجهول في مضيق هرمز]]></description>
+            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن تعرض سفينة لضربة بمقذوف مجهول في مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة القدس: سلطات الاحتلال تسلم إنذارات بالهدم لمحال تجارية وعمارات سكنية في…]]></title>
             <link>https://t.me/aljazeeraBrk/235208</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 12 Sep 2026 18:31:03 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: نفذنا غارات على مواقع للحوثيين في البيضاء واستهدفنا منصات لإطلاق الصواريخ]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا غارات على مواقع للحوثيين في البيضاء واستهدفنا منصات لإطلاق الصواريخ]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الناطق باسم القائد العام للقوات المسلحة في العراق للجزيرة: تشكيل قيادة تعمل على…]]></title>
-            <link>https://t.me/aljazeeraBrk/234915</link>
-            <guid isPermaLink="false">edb6358b77db39fb0976dfd40aa485a93b6629d86166672856495852c1d1d594</guid>
-            <pubDate>Sat, 12 Sep 2026 18:28:02 GMT</pubDate>
-            <description><![CDATA[الناطق باسم القائد العام للقوات المسلحة في العراق للجزيرة: تشكيل قيادة تعمل على مسح المناطق الحدودية]]></description>
-            <content:encoded><![CDATA[الناطق باسم القائد العام للقوات المسلحة في العراق للجزيرة: تشكيل قيادة تعمل على مسح المناطق الحدودية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
