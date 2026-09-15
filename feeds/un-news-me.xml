@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 01:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 14:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Gaza remains recovery points to possible war crimes, says UN rights chief]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168335</link>
+            <guid isPermaLink="false">ccb702a2822e19510ea82ad13c7f57cc8f699e710411d2453425fc99e8d49406</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&nbsp;&nbsp;]]></description>
+            <content:encoded><![CDATA[Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&nbsp;&nbsp;]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-05-2024_UNRWA_Gaza-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Six UN staff killed in Gaza school strike; Lebanon violations mount]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168333</link>
