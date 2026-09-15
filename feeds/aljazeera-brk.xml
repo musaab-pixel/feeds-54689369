@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 22:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 22:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد من جهة…]]></title>
+            <link>https://t.me/aljazeeraBrk/235314</link>
+            <guid isPermaLink="false">667739fd05c3b6078149294faa4b59b791d7503c02fdfb4e49d22dce417eb950</guid>
+            <pubDate>Tue, 15 Sep 2026 22:28:02 GMT</pubDate>
+            <description><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد من جهة البحر]]></description>
+            <content:encoded><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد من جهة البحر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد مصدرها…]]></title>
             <link>https://t.me/aljazeeraBrk/235313</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 13 Sep 2026 19:53:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية بحث مع وزير الخارجية العماني جهود خفض التصعيد وتعزيز الأمن]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية بحث مع وزير الخارجية العماني جهود خفض التصعيد وتعزيز الأمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية بحث مع وزير الخارجية الكويتي…]]></title>
-            <link>https://t.me/aljazeeraBrk/235020</link>
-            <guid isPermaLink="false">267f3397746b710f061f5270f07280f3a7f9d895df5cd14230e6369f240f35e8</guid>
-            <pubDate>Sun, 13 Sep 2026 19:52:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية بحث مع وزير الخارجية الكويتي الجهود الدبلوماسية لخفض التصعيد]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية بحث مع وزير الخارجية الكويتي الجهود الدبلوماسية لخفض التصعيد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
