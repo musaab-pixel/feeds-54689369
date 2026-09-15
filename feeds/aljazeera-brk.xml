@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 10:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 11:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الفنلندي: سنقدم حزمة مساعدات دفاعية لأوكرانيا بقيمة 290 مليون يورو تشمل…]]></title>
+            <link>https://t.me/aljazeeraBrk/235230</link>
+            <guid isPermaLink="false">f3a1f22161d3e82278e4ea5d98bc7f2a626024509a658eabccfe98312e6aba11</guid>
+            <pubDate>Tue, 15 Sep 2026 11:28:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الفنلندي: سنقدم حزمة مساعدات دفاعية لأوكرانيا بقيمة 290 مليون يورو تشمل معدات طلبتها كييف بشكل عاجل]]></description>
+            <content:encoded><![CDATA[الرئيس الفنلندي: سنقدم حزمة مساعدات دفاعية لأوكرانيا بقيمة 290 مليون يورو تشمل معدات طلبتها كييف بشكل عاجل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الكرملين: حل مشكلة الأسواق العالمية يتطلب رفع العقوبات عن جميع موردي النفط…]]></title>
             <link>https://t.me/aljazeeraBrk/235229</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 13 Sep 2026 06:44:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: نحو 300 مستوطن يقتحمون المسجد الأقصى بحماية شرطة الاحتلال تزامنا مع الأعياد اليهودية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: نحو 300 مستوطن يقتحمون المسجد الأقصى بحماية شرطة الاحتلال تزامنا مع الأعياد اليهودية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل بريف القنيطرة جنوب غربي سوريا…]]></title>
-            <link>https://t.me/aljazeeraBrk/234936</link>
-            <guid isPermaLink="false">a744e9e5fff7629e03e0caf9b92cff84cff9ac4a424b2061eb85774efa4a6a4a</guid>
-            <pubDate>Sun, 13 Sep 2026 06:43:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل بريف القنيطرة جنوب غربي سوريا وتنصب حاجزا قرب قرية عين النورية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل بريف القنيطرة جنوب غربي سوريا وتنصب حاجزا قرب قرية عين النورية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
