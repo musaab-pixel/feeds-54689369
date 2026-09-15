@@ -4,7 +4,7 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 14:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 18:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -16,6 +16,15 @@
             <description><![CDATA[Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&nbsp;&nbsp;]]></description>
             <content:encoded><![CDATA[Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&nbsp;&nbsp;]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-05-2024_UNRWA_Gaza-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Escalating conflict drives new displacement in Yemen]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168339</link>
+            <guid isPermaLink="false">45617b7cdb114acac1343264461a2c82c9206b674fede0df01c914b27f016a97</guid>
+            <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.]]></description>
+            <content:encoded><![CDATA[The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Six UN staff killed in Gaza school strike; Lebanon violations mount]]></title>
