@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "e4942d09ddbd745c6290021e88e0541c7b1e2c5f31ae54c04450cdbc91eb3fc0",
+            "content_html": "المتحدث باسم قوات التحالف: الطائرة المسيرة أطلقتها الميليشيا الحوثية وتم اعتراضها جنوب مدينة مكة_المكرمة",
+            "url": "https://t.me/aljazeeraBrk/235321",
+            "title": "المتحدث باسم قوات التحالف: الطائرة المسيرة أطلقتها الميليشيا الحوثية وتم…",
+            "summary": "المتحدث باسم قوات التحالف: الطائرة المسيرة أطلقتها الميليشيا الحوثية وتم اعتراضها جنوب مدينة مكة_المكرمة",
+            "date_modified": "2026-09-16T00:00:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7df4474318381cf42169b9aafec700f024bd49ffce7e5bebd5d20f30b1c11373",
+            "content_html": "المتحدث باسم قوات التحالف: الدفاع الجوى السعودي اعترض ودمر طائرة مسيرة حاولت دخول المجال الجوي لمكة المكرمة",
+            "url": "https://t.me/aljazeeraBrk/235320",
+            "title": "المتحدث باسم قوات التحالف: الدفاع الجوى السعودي اعترض ودمر طائرة مسيرة حاولت…",
+            "summary": "المتحدث باسم قوات التحالف: الدفاع الجوى السعودي اعترض ودمر طائرة مسيرة حاولت دخول المجال الجوي لمكة المكرمة",
+            "date_modified": "2026-09-15T23:58:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "f4352dec892f2655bc8b3a064d1cb7c13222798b4c52ad7028ae5ecf37fad217",
             "content_html": "المتحدث باسم قوات التحالف: لن نتردد في اتخاذ الإجراءات الرادعة تجاه الميليشيا الحوثية وسلوكها العدائي",
             "url": "https://t.me/aljazeeraBrk/235319",
@@ -908,13 +930,13 @@
         },
         {
             "id": "05018d83866771976cd0933b734cce4eb888025099a341f799dbc609bac8a021",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5\" target=\"_blank\">المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">refugeesps.net</font>",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5\" target=\"_blank\">المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5",
-            "title": "المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا - refugeesps.net",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5\" target=\"_blank\">المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">refugeesps.net</font>",
+            "title": "المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5\" target=\"_blank\">المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "date_modified": "2026-09-15T14:06:00.000Z",
             "author": {
-                "name": "refugeesps.net"
+                "name": "بوابة اللاجئين الفلسطينيين"
             }
         },
         {
@@ -1602,28 +1624,6 @@
             "date_modified": "2026-09-15T08:47:04.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "93ebd832e85048882e73d9698c952ab8640d77c3810a8bb1c49bef68df70bab2",
-            "content_html": "نواف سلام: الدولة وحدها دون سواها هي التي تفاوض باسم لبنان والمفاوضات المباشرة مع إسرائيل ليست أمرا سهلا",
-            "url": "https://t.me/aljazeeraBrk/235207",
-            "title": "نواف سلام: الدولة وحدها دون سواها هي التي تفاوض باسم لبنان والمفاوضات المباشرة…",
-            "summary": "نواف سلام: الدولة وحدها دون سواها هي التي تفاوض باسم لبنان والمفاوضات المباشرة مع إسرائيل ليست أمرا سهلا",
-            "date_modified": "2026-09-15T08:40:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7fab8d120e5e970521daf5bd62987bd5e002347677b640cf660e198b10ea80dd",
-            "content_html": "واس: مجلس الوزراء السعودي يؤكد حق المملكة المشروع في الدفاع عن نفسها وحماية سيادتها ومصالحها",
-            "url": "https://t.me/aljazeeraBrk/235206",
-            "title": "واس: مجلس الوزراء السعودي يؤكد حق المملكة المشروع في الدفاع عن نفسها وحماية…",
-            "summary": "واس: مجلس الوزراء السعودي يؤكد حق المملكة المشروع في الدفاع عن نفسها وحماية سيادتها ومصالحها",
-            "date_modified": "2026-09-15T08:38:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
