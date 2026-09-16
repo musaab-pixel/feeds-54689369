@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 15 Sep 2026 10:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 10:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IA et découvrabilité : la Francophonie met en dialogue les réalités du Nord et du Sud]]></title>
+            <link>https://www.francophonie.org/ia-et-decouvrabilite-la-francophonie-met-en-dialogue-les-realites-du-nord-et-du-sud-8660</link>
+            <guid isPermaLink="false">b6e651e767067dba90ac2fab451c7320ab640cdd712710d70cd491ec10aac283</guid>
+            <pubDate>Wed, 16 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">IA et découvrabilité : la Francophonie met en dialogue les réalités du Nord et du Sud</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 16/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">IA et découvrabilité : la Francophonie met en dialogue les réalités du Nord et du Sud</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 16/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Djibouti : l’OIF renforce l’accompagnement des Conseillers pédagogiques de français]]></title>
             <link>https://www.francophonie.org/djibouti-loif-renforce-laccompagnement-des-conseillers-pedagogiques-de-francais-8658</link>
