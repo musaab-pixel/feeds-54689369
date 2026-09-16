@@ -5,6 +5,61 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "73e343cb6b21fabd17a0eaebdffe98031caca90ba9dcf038fa215212bdfd83e1",
+            "content_html": "الدفاع المدني بغزة: ارتفاع عدد ضحايا انهيار مبنى يؤوي نازحين في مدينة غزة إلى 20 بينهم 8 أطفال و6 نساء",
+            "url": "https://t.me/aljazeeraBrk/235431",
+            "title": "الدفاع المدني بغزة: ارتفاع عدد ضحايا انهيار مبنى يؤوي نازحين في مدينة غزة إلى…",
+            "summary": "الدفاع المدني بغزة: ارتفاع عدد ضحايا انهيار مبنى يؤوي نازحين في مدينة غزة إلى 20 بينهم 8 أطفال و6 نساء",
+            "date_modified": "2026-09-16T10:29:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "a8de16a2680dd0af19eeef6e1f0eb0e599ca7bac819393e7e4f1a4b796e421f3",
+            "content_html": "رئيس بلدية غزة للجزيرة: طالبنا مرارا خلال السنوات الثلاث الماضية بتوفير آليات إنقاذ وللأسف لم نجد استجابة",
+            "url": "https://t.me/aljazeeraBrk/235429",
+            "title": "رئيس بلدية غزة للجزيرة: طالبنا مرارا خلال السنوات الثلاث الماضية بتوفير آليات…",
+            "summary": "رئيس بلدية غزة للجزيرة: طالبنا مرارا خلال السنوات الثلاث الماضية بتوفير آليات إنقاذ وللأسف لم نجد استجابة",
+            "date_modified": "2026-09-16T10:21:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "e7c70ba89ff53e5fd8fc67f81dd5a3790f2ca868017694491da0ff124b753ce1",
+            "content_html": "مصدر في الإسعاف والطوارئ: استشهاد طفل وإصابة آخرين في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة",
+            "url": "https://t.me/aljazeeraBrk/235430",
+            "title": "مصدر في الإسعاف والطوارئ: استشهاد طفل وإصابة آخرين في قصف إسرائيلي استهدف مخيم…",
+            "summary": "مصدر في الإسعاف والطوارئ: استشهاد طفل وإصابة آخرين في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة",
+            "date_modified": "2026-09-16T10:21:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "3e397604da36acef536e9ac2ba99d46ed82f58e47bc1afab85d6f58ae9e2185e",
+            "content_html": "رئيس بلدية غزة للجزيرة: نحن عاجزون عن انتشال مفقودين تحت أنقاض المبنى المنهار بسبب نقص الإمكانات",
+            "url": "https://t.me/aljazeeraBrk/235428",
+            "title": "رئيس بلدية غزة للجزيرة: نحن عاجزون عن انتشال مفقودين تحت أنقاض المبنى المنهار…",
+            "summary": "رئيس بلدية غزة للجزيرة: نحن عاجزون عن انتشال مفقودين تحت أنقاض المبنى المنهار بسبب نقص الإمكانات",
+            "date_modified": "2026-09-16T10:20:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "512b0ff51dd53fb6087eccb05cb3e10cbbf9784a4a16fa48dbe32de1c85196e8",
+            "content_html": "شبكة أطباء السودان: انهيار منجم ذهب بولاية غرب كردفان يودي بحياة 67 شخصا والبحث مستمر عن ناجين",
+            "url": "https://t.me/aljazeeraBrk/235427",
+            "title": "شبكة أطباء السودان: انهيار منجم ذهب بولاية غرب كردفان يودي بحياة 67 شخصا والبحث…",
+            "summary": "شبكة أطباء السودان: انهيار منجم ذهب بولاية غرب كردفان يودي بحياة 67 شخصا والبحث مستمر عن ناجين",
+            "date_modified": "2026-09-16T10:19:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "9961f1abbcccd4d902f4de261bc0e0f56b1c2d7c389f3b4577cafdf8dd94b8c6",
             "content_html": "مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي استهدف فلسطينيين أثناء تعبئة مياه بمخيم البريج وسط قطاع غزة",
             "url": "https://t.me/aljazeeraBrk/235426",
@@ -1583,64 +1638,6 @@
             "date_modified": "2026-09-15T15:27:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "d6fd0c34792810c442535cf02b3a99a4101e325b7b80873a3682a1fb98f606d8",
-            "content_html": "رئاسة الجمهورية: الرئيس أحمد الشرع يلتقي وفدًا وزاريًا إماراتيًا برئاسة وزير شؤون مجلس الوزراء محمد القرقاوي على هامش قمة الإعلام العربي 2026 في دبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140626",
-            "title": "رئاسة الجمهورية: الرئيس أحمد الشرع يلتقي وفدًا وزاريًا إماراتيًا برئاسة وزير…",
-            "summary": "رئاسة الجمهورية: الرئيس أحمد الشرع يلتقي وفدًا وزاريًا إماراتيًا برئاسة وزير شؤون مجلس الوزراء محمد القرقاوي على هامش قمة الإعلام العربي 2026 في دبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/oGnP0u3PCucUotkmZj1ZbABuzDjvz7VXeRplprJn6mQDM8UlccYsPXjd0u8fIa8IlwQ1ZjbcjptRvEg-Xb4nHSvH8zRTzFX1h7-vPyPrj3-KqtE2FtzgTGOuDb6reR2mGrWIoU-fvnBzKeGIDr1jb3VCPzup2RDth1yhSOVuF6_CA_xFoMfk4LP7U-wsd02Y_pargJziOTs4RidMxsC2WLi7neXR9G897s5bozYAMNa0E_ewq8vqcBd_tW_d9P_3Sf0Eti7_n5ltF_eHQmd9Y5Q3RNhHsPImC9Rj6J0N_ozczvISBRWheJJ2aOaYGJ9bDy7IG44NTlgd4ApVNCoN-w.jpg",
-            "date_modified": "2026-09-15T15:03:00.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "b6a84a390db1e5b142471b782033bf4bab610b31fba4807dba6ef87e8c4dae71",
-            "content_html": "سانا: بدء اجتماع طاولة مستديرة يضم ممثلي اتحادي غرف الصناعة والتجارة السورية ومجالس الأعمال السورية والوفد الاقتصادي الأمريكي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140625",
-            "title": "سانا: بدء اجتماع طاولة مستديرة يضم ممثلي اتحادي غرف الصناعة والتجارة السورية…",
-            "summary": "سانا: بدء اجتماع طاولة مستديرة يضم ممثلي اتحادي غرف الصناعة والتجارة السورية ومجالس الأعمال السورية والوفد الاقتصادي الأمريكي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/VV2mXFrzUKKlQWlXKR_JwZegbSKaU2NT3dBH3fN5OPNogfqqAYflkamiCx8GehsiYi3mfdlViqcnDcizrtJ6w-m8XFXzgBpjDyR0UG4xOM-mMa6-IXDBRVRxUucZ9JS-AxgER0GzlCh_al39YLmsRf2GPjik6hWc3odVEWvjPJtDiElJrjsaU3PB9IpozIWPuq6WBfQAqStTKALoC9ok_R39DfkB-CND26Pvf2g6-iRodnkzX-aufPdKHhOEmws5MIxM7tx4ekzzRfTKhmAeQOPg-OjiTCnxmj5LMVt6bnm60NJg6bmQ5QiV4tUiy3e6Iu1jDohkrO4PMcmgNc0zUg.jpg",
-            "date_modified": "2026-09-15T14:47:35.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "b9d083babb81a85283b2cb852df8f05678eb2ea7bd39e76481b4453f6e8e5d3d",
-            "content_html": "قيادة الأمن الداخلي في دير الزور: إحباط محاولة لإخراج أحد الموقوفين بالقوة من داخل القصر العدلي عقب إقدام ذويه على افتعال أعمال شغب والاعتـداء المباشر على طاقم الحراسة وقاضي الجلسة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140623",
-            "title": "قيادة الأمن الداخلي في دير الزور: إحباط محاولة لإخراج أحد الموقوفين بالقوة من…",
-            "summary": "قيادة الأمن الداخلي في دير الزور: إحباط محاولة لإخراج أحد الموقوفين بالقوة من داخل القصر العدلي عقب إقدام ذويه على افتعال أعمال شغب والاعتـداء المباشر على طاقم الحراسة وقاضي الجلسة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-15T14:33:54.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "92827896a5fa338e83c4dc47d375e7c74d32241f5680d3dcdc40688c351b8b53",
-            "content_html": "محافظ حماة عبد الرحمن السهيان يصدر قرارًا بمنع دخول الدراجات النارية غير المرخصة وتجوالها داخل المدينة بدءًا من 1 تشرين الأول 2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140622",
-            "title": "محافظ حماة عبد الرحمن السهيان يصدر قرارًا بمنع دخول الدراجات النارية غير…",
-            "summary": "محافظ حماة عبد الرحمن السهيان يصدر قرارًا بمنع دخول الدراجات النارية غير المرخصة وتجوالها داخل المدينة بدءًا من 1 تشرين الأول 2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/C3qT2dr1QVEC-gbugCzniEWWDlnhrRddfvZuLOFB5Z9M9BctKk7g8s8uhPsrLwyYdqA3GI2HCuAoaXKxlC6B_bNXAM30vJPah0AIcJez8xjhaZj673ykXyQ7Dtdv6KWDbiCYmzqNr1kfA1aBxOuvfcGVUajBBqq6530qIwwtbR6rmokLJP72lgtowtmn_Tqsek1fUsqoMIB94OtihsXFtYYfYCr9TdMCsW6jXNy4n-3AST8Kttm_bHPOoFjP0x-p7gjNTCcXT17FJYUUKTHz6OshNNKgPn4U25IqyEbfTVOjgDVGad1K7gHCW6OvNmFkaN-o5-MNcYfmJQiijpPdtA.jpg",
-            "date_modified": "2026-09-15T14:09:55.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "05018d83866771976cd0933b734cce4eb888025099a341f799dbc609bac8a021",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5\" target=\"_blank\">المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5",
-            "title": "المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxOd203QTE5TWRYNFJmUF9JRGRkQzc5dnlFTzg1SWJER2E5bURZcjIwNXpyaDR6bWdzM0FsMHVYSWZ1V3RLRlFSa003bXlMc0ZCcnFKQkZHWk4yUDNraktYWHZhc3ZBbEJjODZYV3BqMllweU1pRHdqa0tycHBlSVlGNzdrV3NiWHhkVFU4dkQ4REs0bTRybDI0OG1QQmZ4Q04xa2I2MzJlWWEwRHpGXy1ENGc5alFWSjltclB3RGRRT1dud1RFaEM0Yk1Nd3Y5TnhMRWl0M2ZXbmxTTGR1akxEVk9IbTR5OTNzV2s5VU9VZXNUTDQ4RS1BZk90dURIMEJ4OHF6SkswbXBQYjdXQVhlamRVajN3bTR3OWE2U3V6QklUUmxHMExKbjdSTV9hemlZSVBLSlNWcFhqMGVmRG9pNmoxRE9LaW54RlFOQVJmTURIaWQ5SDVITFhIb1pMY2UwTEZ2a2phSmZYb3NSMHIzRGNZZlkzT19XOGRUaWFlUW5DSEhNTjh0eG5zeUJrM3VXWWpnQTNDcHRXcnMwSFkyTnFzZ1hsQ1VFdnNPM2RaU1dIa0gxZWR4WElOU0dram1vb1N3Wko1Q1lrS2k4cW54RjFmZzBoQm1zMlFsV25pT01OXzdmV09wdzM5TGRaTFNDMWx0clQwSHZnMHJ5bHRyY3MzT0k5WE5WRml2OGhtWW5oeE9vbjVxdmU3cmFvcjgtSldMdnhBVXFzUHlJ?oc=5\" target=\"_blank\">المواصلات ونقص المعلمين يهددان تعليم الطلاب الفلسطينيين شمالي سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-09-15T14:06:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]
