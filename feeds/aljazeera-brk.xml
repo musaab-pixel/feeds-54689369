@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 16 Sep 2026 10:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 11:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر: مسؤولون أمريكيون عقدوا اجتماعا مع الحوثيين في سلطنة عمان مطلع…]]></title>
+            <link>https://t.me/aljazeeraBrk/235444</link>
+            <guid isPermaLink="false">11bb5fb2048a2df325279f79a0a64e01e1a5c1dd43a55c6a02453adef57ee844</guid>
+            <pubDate>Wed, 16 Sep 2026 11:07:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر: مسؤولون أمريكيون عقدوا اجتماعا مع الحوثيين في سلطنة عمان مطلع الأسبوع]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر: مسؤولون أمريكيون عقدوا اجتماعا مع الحوثيين في سلطنة عمان مطلع الأسبوع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المكتب الإعلامي الحكومي في غزة: غزة تتجه نحو الانهيار الإنساني بلا عودة وكفى…]]></title>
             <link>https://t.me/aljazeeraBrk/235442</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 01:49:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من خطر في منطقة جازان]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من خطر في منطقة جازان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من خطر في مدينة أبها]]></title>
-            <link>https://t.me/aljazeeraBrk/235166</link>
-            <guid isPermaLink="false">80ba22c8f1cd0db0577ac3f3a631ced1855f95b3f192380bc90fd2009d0dce11</guid>
-            <pubDate>Tue, 15 Sep 2026 01:48:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من خطر في مدينة أبها]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من خطر في مدينة أبها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
