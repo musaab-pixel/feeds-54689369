@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "f86656f553e11296f9f9d666c96990577a3b72413be0e7938f1d3682daaa4ec7",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-16T11:44:44+02:00\" title=\"Mittwoch, 16 September 2026 - 11:44\" class=\"datetime\">Mi. 16 Sep 2026 - 11:44</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/leiter-finanzen-und-operatives-geschaeft-mwd-vollzeit",
+            "title": "Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-16T11:44:44+02:00\" title=\"Mittwoch, 16 September 2026 - 11:44\" class=\"datetime\">Mi. 16 Sep 2026 - 11:44</time>\n</span>\n",
+            "date_modified": "2026-09-16T09:44:44.000Z",
+            "author": {
+                "name": "ebolta"
+            }
+        },
+        {
             "id": "bf22a1b096f014c338e969d86e81fa3fe35edc94400797e236a136b24f8afb86",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">   20 Jahre Deutscher Schulpreis: Wie gute Ideen ihren Weg in deutsche Klassenzimmer finden </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-15T14:57:24+02:00\" title=\"Dienstag, 15 September 2026 - 14:57\" class=\"datetime\">Di. 15 Sep 2026 - 14:57</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/20-jahre-deutscher-schulpreis-wie-gute-ideen-ihren-weg-deutsche-klassenzimmer-finden",

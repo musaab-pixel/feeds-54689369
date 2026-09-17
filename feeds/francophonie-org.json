@@ -16,6 +16,17 @@
             }
         },
         {
+            "id": "c408edd1239e1c9f62e4883e7c3163879903a8ccccb525809098232b08a6d205",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Découvrabilité des contenus culturels : une formation en ligne certifiante pour les décideurs publics francophones</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-16T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 16/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/decouvrabilite-une-formation-en-ligne-certifiante-pour-les-decideurs-publics-8662",
+            "title": "Découvrabilité des contenus culturels : une formation en ligne certifiante pour les décideurs publics francophones",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Découvrabilité des contenus culturels : une formation en ligne certifiante pour les décideurs publics francophones</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-16T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 16/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-16T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "7169f1f48f4107f514ad398a83278967149e8587de2205f07e00455918b0a658",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Djibouti : l’OIF renforce l’accompagnement des Conseillers pédagogiques de français </span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-15T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 15/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/djibouti-loif-renforce-laccompagnement-des-conseillers-pedagogiques-de-francais-8658",
