@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 17 Sep 2026 12:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 12:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحرس الثوري الإيراني: أسقطنا صباح اليوم مسيرة أمريكية من طراز إم كيو 9 في…]]></title>
+            <link>https://t.me/aljazeeraBrk/235609</link>
+            <guid isPermaLink="false">d3ded41420d3cac28fdff13ec056f807d1e4cffcf19bc59579768b675a8826bb</guid>
+            <pubDate>Thu, 17 Sep 2026 12:20:02 GMT</pubDate>
+            <description><![CDATA[الحرس الثوري الإيراني: أسقطنا صباح اليوم مسيرة أمريكية من طراز إم كيو 9 في أجواء جزيرة قشم جنوبي البلاد]]></description>
+            <content:encoded><![CDATA[الحرس الثوري الإيراني: أسقطنا صباح اليوم مسيرة أمريكية من طراز إم كيو 9 في أجواء جزيرة قشم جنوبي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إذاعة الجيش الإسرائيلي: إطلاق صفارات الإنذار بالجليل الأعلى كان بسبب تشخيص خاطئ]]></title>
             <link>https://t.me/aljazeeraBrk/235608</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 08:52:02 GMT</pubDate>
             <description><![CDATA[محافظة القدس: سلطات الاحتلال تسلم إنذارات بالهدم لمحال تجارية وعمارات سكنية في شارع المطار شمال القدس]]></description>
             <content:encoded><![CDATA[محافظة القدس: سلطات الاحتلال تسلم إنذارات بالهدم لمحال تجارية وعمارات سكنية في شارع المطار شمال القدس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نواف سلام: الدولة وحدها دون سواها هي التي تفاوض باسم لبنان والمفاوضات المباشرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/235207</link>
-            <guid isPermaLink="false">93ebd832e85048882e73d9698c952ab8640d77c3810a8bb1c49bef68df70bab2</guid>
-            <pubDate>Tue, 15 Sep 2026 08:40:03 GMT</pubDate>
-            <description><![CDATA[نواف سلام: الدولة وحدها دون سواها هي التي تفاوض باسم لبنان والمفاوضات المباشرة مع إسرائيل ليست أمرا سهلا]]></description>
-            <content:encoded><![CDATA[نواف سلام: الدولة وحدها دون سواها هي التي تفاوض باسم لبنان والمفاوضات المباشرة مع إسرائيل ليست أمرا سهلا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
