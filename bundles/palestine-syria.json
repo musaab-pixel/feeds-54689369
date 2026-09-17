@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "ba1322352bacece8402033d1b7762ab92f7034deecddc69db1603592f530df28",
+            "content_html": "الدفاع المدني السعودي: وفاة وإصابتان في سقوط شظايا إثر اعتراض مسيرة في محافظة الطائف",
+            "url": "https://t.me/aljazeeraBrk/235611",
+            "title": "الدفاع المدني السعودي: وفاة وإصابتان في سقوط شظايا إثر اعتراض مسيرة في محافظة…",
+            "summary": "الدفاع المدني السعودي: وفاة وإصابتان في سقوط شظايا إثر اعتراض مسيرة في محافظة الطائف",
+            "date_modified": "2026-09-17T12:36:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "62ae6d7fc7191d3a60cb9f4f81ba3d8b69152b0ec04ef444c1f9ef533ea9b3f0",
+            "content_html": "مصدر بالجيش السوداني: نقترب من استعادة مدينة سودري الاستراتيجية بعد سيطرتنا على بلدة القاعة بشمال كردفان",
+            "url": "https://t.me/aljazeeraBrk/235610",
+            "title": "مصدر بالجيش السوداني: نقترب من استعادة مدينة سودري الاستراتيجية بعد سيطرتنا على…",
+            "summary": "مصدر بالجيش السوداني: نقترب من استعادة مدينة سودري الاستراتيجية بعد سيطرتنا على بلدة القاعة بشمال كردفان",
+            "date_modified": "2026-09-17T12:29:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "3c0ea25dd00e1b2329bf4d2f2d0d522ce949f238dd7f5fbe1858ee95e1b94a38",
+            "content_html": "الرئيس التنفيذي للشركة السورية للبترول يوسف قبلاوي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سنعمل على إنشاء مصافِ جديدةٍ في العديد من المحافظات إضافةً إلى حفر آبار غاز جديدة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>لدينا خطة لتأسيس مصفاة نفط ثالثة في المنطقة الشرقية ستضاف إلى مصفاتي بانياس وحمص<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/140701",
+            "title": "الرئيس التنفيذي للشركة السورية للبترول يوسف قبلاوي: 📌سنعمل على إنشاء مصافِ…",
+            "summary": "الرئيس التنفيذي للشركة السورية للبترول يوسف قبلاوي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سنعمل على إنشاء مصافِ جديدةٍ في العديد من المحافظات إضافةً إلى حفر آبار غاز جديدة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>لدينا خطة لتأسيس مصفاة نفط ثالثة في المنطقة الشرقية ستضاف إلى مصفاتي بانياس وحمص<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-17T12:27:33.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "d3ded41420d3cac28fdff13ec056f807d1e4cffcf19bc59579768b675a8826bb",
             "content_html": "الحرس الثوري الإيراني: أسقطنا صباح اليوم مسيرة أمريكية من طراز إم كيو 9 في أجواء جزيرة قشم جنوبي البلاد",
             "url": "https://t.me/aljazeeraBrk/235609",
@@ -25,6 +58,15 @@
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
+        },
+        {
+            "id": "8dabc9c855390f415e2002b7237fa3386d1434836ed5513941ca7247043ec0e9",
+            "content_html": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168354",
+            "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
+            "summary": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-17T12:00:00.000Z"
         },
         {
             "id": "f0f009e9b0a8fa3f9893f427089d7aa3886e782dd0cece24b252a57a8cfd0483",
@@ -1551,50 +1593,6 @@
             "title": "وزير الخارجية الصيني لنظيره الإيراني: نتمنى ألا تمتد التوترات الإقليمية أكثر…",
             "summary": "وزير الخارجية الصيني لنظيره الإيراني: نتمنى ألا تمتد التوترات الإقليمية أكثر نحو اليمن والبحر الأحمر",
             "date_modified": "2026-09-16T08:42:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "08187506af2686d6aefce762ea6ff780912da0b096194394bf815c8284b1324e",
-            "content_html": "وزير الخارجية الصيني لعراقجي: ندعم حوارا قائما على الاحترام المتبادل للسيادة والأمن بين إيران ودول الخليج",
-            "url": "https://t.me/aljazeeraBrk/235406",
-            "title": "وزير الخارجية الصيني لعراقجي: ندعم حوارا قائما على الاحترام المتبادل للسيادة…",
-            "summary": "وزير الخارجية الصيني لعراقجي: ندعم حوارا قائما على الاحترام المتبادل للسيادة والأمن بين إيران ودول الخليج",
-            "date_modified": "2026-09-16T08:42:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5cc0120ab150d5cac7bbf2e8e0ade119253a62f28a567dca6899101bbf1d344f",
-            "content_html": "وزير الخارجية الصيني لنظيره الإيراني: ندعو الجميع إلى اتخاذ تدابير فعالة لإعادة فتح مضيق هرمز",
-            "url": "https://t.me/aljazeeraBrk/235405",
-            "title": "وزير الخارجية الصيني لنظيره الإيراني: ندعو الجميع إلى اتخاذ تدابير فعالة لإعادة…",
-            "summary": "وزير الخارجية الصيني لنظيره الإيراني: ندعو الجميع إلى اتخاذ تدابير فعالة لإعادة فتح مضيق هرمز",
-            "date_modified": "2026-09-16T08:41:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "8e8aabb386a45cf5df488359a822c294e1cb928477aa2b080d396f308e9879f5",
-            "content_html": "كتائب القسام: ننعى الشهيد نائل عطية محمد أبو عبيد قائد لواء رفح الذي اغتيل بغارة إسرائيلية مساء الثلاثاء",
-            "url": "https://t.me/aljazeeraBrk/235404",
-            "title": "كتائب القسام: ننعى الشهيد نائل عطية محمد أبو عبيد قائد لواء رفح الذي اغتيل…",
-            "summary": "كتائب القسام: ننعى الشهيد نائل عطية محمد أبو عبيد قائد لواء رفح الذي اغتيل بغارة إسرائيلية مساء الثلاثاء",
-            "date_modified": "2026-09-16T08:40:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7566c2db35e167934096a8927345d902e6c5e4475c6bdc51b121b098512cb01f",
-            "content_html": "مدير وزارة الصحة الفلسطينية بقطاع غزة للجزيرة: نحو ألفي مبنى معرض للانهيار ما يهدد حياة قاطنيها",
-            "url": "https://t.me/aljazeeraBrk/235403",
-            "title": "مدير وزارة الصحة الفلسطينية بقطاع غزة للجزيرة: نحو ألفي مبنى معرض للانهيار ما…",
-            "summary": "مدير وزارة الصحة الفلسطينية بقطاع غزة للجزيرة: نحو ألفي مبنى معرض للانهيار ما يهدد حياة قاطنيها",
-            "date_modified": "2026-09-16T08:25:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }

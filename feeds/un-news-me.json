@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "8dabc9c855390f415e2002b7237fa3386d1434836ed5513941ca7247043ec0e9",
+            "content_html": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168354",
+            "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
+            "summary": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-17T12:00:00.000Z"
+        },
+        {
             "id": "d643eba6bc7ff6b598998a7885369db84ffc9cd2c3a6228666a9677000b529c0",
             "content_html": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
             "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
