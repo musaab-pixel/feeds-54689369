@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 17 Sep 2026 11:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 11:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ.ف.ب عن مسؤول تركي: أردوغان سيترشح لولاية رئاسية جديدة في إطار انتخابات مبكرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/235597</link>
+            <guid isPermaLink="false">da42263b438dd6fabbee2be7415a0cff259c32a71d8a4b12340ca5a66b0d74b1</guid>
+            <pubDate>Thu, 17 Sep 2026 11:21:02 GMT</pubDate>
+            <description><![CDATA[أ.ف.ب عن مسؤول تركي: أردوغان سيترشح لولاية رئاسية جديدة في إطار انتخابات مبكرة عام 2028]]></description>
+            <content:encoded><![CDATA[أ.ف.ب عن مسؤول تركي: أردوغان سيترشح لولاية رئاسية جديدة في إطار انتخابات مبكرة عام 2028]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الطاقة السوري: إقرار طرح أنواع متعددة من الديزل بمواصفات وأسعار مختلفة…]]></title>
             <link>https://t.me/aljazeeraBrk/235596</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 08:28:02 GMT</pubDate>
             <description><![CDATA[نواف سلام: لا يمكن أن نواجه أزمة اليوم بالسياسات ذاتها التي أنتجت أزمات سابقة]]></description>
             <content:encoded><![CDATA[نواف سلام: لا يمكن أن نواجه أزمة اليوم بالسياسات ذاتها التي أنتجت أزمات سابقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نواف سلام: جهود الحكومة تنصب على عودة الأهالي النازحين إلى قراهم وبلداتهم]]></title>
-            <link>https://t.me/aljazeeraBrk/235195</link>
-            <guid isPermaLink="false">27c69b6d62c238e968bb9ba374bcd2a6fc57c9ee948b1330681559cab1fbcba1</guid>
-            <pubDate>Tue, 15 Sep 2026 08:26:02 GMT</pubDate>
-            <description><![CDATA[نواف سلام: جهود الحكومة تنصب على عودة الأهالي النازحين إلى قراهم وبلداتهم]]></description>
-            <content:encoded><![CDATA[نواف سلام: جهود الحكومة تنصب على عودة الأهالي النازحين إلى قراهم وبلداتهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
