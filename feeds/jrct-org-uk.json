@@ -5,6 +5,34 @@
     "description": "RSS Factory feed \"jrct.org.uk\" (type: website)",
     "items": [
         {
+            "id": "bfd9d543e47f608bbbf1bfaab30fc855e8c01c62eafb1f2f0bf2dd1e242ac8ca",
+            "url": "https://www.jrct.org.uk/the-kindling-trust",
+            "title": "A Sustainable Future grant holder",
+            "image": "https://www.jrct.org.uk/userfiles/images/Headers/Kindling%20header%20homepage%20compressed.png",
+            "date_modified": "2026-09-18T15:05:27.871Z"
+        },
+        {
+            "id": "89f45f33c4fc850bcfcbb2110eb84b9cf17ae82c60db28dda4a88c4240d09a7f",
+            "url": "https://www.jrct.org.uk/covid-19-bereaved-families",
+            "title": "Covid 19 Bereaved Families for Justice, a Power and Accountability grant holder",
+            "image": "https://www.jrct.org.uk/userfiles/images/Headers/covid%20memorial%20wall.png",
+            "date_modified": "2026-09-18T15:05:27.871Z"
+        },
+        {
+            "id": "a3e7b49f7285c340dbd6429cbce02c691ebe8d3acb58d76e4f8edd17d5692d6f",
+            "url": "https://www.jrct.org.uk/rainbow-project",
+            "title": "Rainbow Project, a Northern Ireland programme grant holder",
+            "image": "https://www.jrct.org.uk/userfiles/images/Headers/rainbow%20p.png",
+            "date_modified": "2026-09-18T15:05:27.871Z"
+        },
+        {
+            "id": "87554e4300bd6af4ed5cc8431506e203eec286035a16dc0b9ab5667901f0e4a9",
+            "url": "https://www.jrct.org.uk/cooperation-town",
+            "title": "Cooperation Town, a Sustainable Future programme grant holder",
+            "image": "https://www.jrct.org.uk/userfiles/images/Headers/cooperation%20twon%20ehader.png",
+            "date_modified": "2026-09-18T15:05:27.871Z"
+        },
+        {
             "id": "90929e75f6f851221356a190f7f836a5c950a5c8e0c9c702802b920bd3db4630",
             "url": "https://www.jrct.org.uk/northern-ireland-cooptees",
             "title": "JRCT welcomes three new Northern Ireland co-optees",

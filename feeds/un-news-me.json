@@ -5,12 +5,30 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "1a652891961de3fdb554ffc9071b9cb476a81dba6a10c4ceb7c3427d464a9023",
+            "content_html": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168364",
+            "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
+            "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/16-09-2026_IOM_Yemen.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-18T12:00:00.000Z"
+        },
+        {
             "id": "8dabc9c855390f415e2002b7237fa3386d1434836ed5513941ca7247043ec0e9",
             "content_html": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
             "url": "https://news.un.org/feed/view/en/story/2026/09/1168354",
             "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
             "summary": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
             "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-17T12:00:00.000Z"
+        },
+        {
+            "id": "ae99b4b1f2c69a3ef79695eec2a6c234757e348c39d4ccbbfa59e2583d89b331",
+            "content_html": "While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168355",
+            "title": "Security Council LIVE: Syria’s transition in the spotlight",
+            "summary": "While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/24-08-2026-UNICEF-Syria.jpg/image560x340cropped.jpg",
             "date_modified": "2026-09-17T12:00:00.000Z"
         },
         {

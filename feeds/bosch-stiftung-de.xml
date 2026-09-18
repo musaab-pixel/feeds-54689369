@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Thu, 17 Sep 2026 11:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 15:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Der Internationale Tag des Krieges und die kühne Kraft des Friedens]]></title>
+            <link>https://bosch-stiftung.de/story/der-internationale-tag-des-krieges-und-die-kuehne-kraft-des-friedens</link>
+            <guid isPermaLink="false">38aa131c53ad7f0a4bc07e10b1664a318994d7b1374a68331d6408d5cdc1b65e</guid>
+            <pubDate>Thu, 17 Sep 2026 13:48:02 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Der Internationale Tag des Krieges und die kühne Kraft des Friedens</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-17T15:48:02+02:00" title="Donnerstag, 17 September 2026 - 15:48" class="datetime">Do. 17 Sep 2026 - 15:48</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Der Internationale Tag des Krieges und die kühne Kraft des Friedens</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-17T15:48:02+02:00" title="Donnerstag, 17 September 2026 - 15:48" class="datetime">Do. 17 Sep 2026 - 15:48</time>
+</span>
+]]></content:encoded>
+            <author>Claudia Hagen</author>
+        </item>
         <item>
             <title><![CDATA[Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit]]></title>
             <link>https://bosch-stiftung.de/karriere/leiter-finanzen-und-operatives-geschaeft-mwd-vollzeit</link>

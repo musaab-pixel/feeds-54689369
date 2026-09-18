@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Thu, 17 Sep 2026 12:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 15:04:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Yemen’s humanitarian crisis growing by the hour amid spike in displacement]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168364</link>
+            <guid isPermaLink="false">1a652891961de3fdb554ffc9071b9cb476a81dba6a10c4ceb7c3427d464a9023</guid>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.]]></description>
+            <content:encoded><![CDATA[People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/16-09-2026_IOM_Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yemen escalation displaces more than 57,000 children: UNICEF]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168354</link>
@@ -16,6 +25,15 @@
             <description><![CDATA[Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.]]></description>
             <content:encoded><![CDATA[Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/12-08-2026-UNICEF-Yemen-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Security Council LIVE: Syria’s transition in the spotlight]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168355</link>
+            <guid isPermaLink="false">ae99b4b1f2c69a3ef79695eec2a6c234757e348c39d4ccbbfa59e2583d89b331</guid>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.&nbsp;]]></description>
+            <content:encoded><![CDATA[While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.&nbsp;]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/24-08-2026-UNICEF-Syria.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gaza: At least 20 killed in deadly building collapse, search for survivors continues]]></title>

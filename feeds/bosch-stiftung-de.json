@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "38aa131c53ad7f0a4bc07e10b1664a318994d7b1374a68331d6408d5cdc1b65e",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Der Internationale Tag des Krieges und die kühne Kraft des Friedens</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-17T15:48:02+02:00\" title=\"Donnerstag, 17 September 2026 - 15:48\" class=\"datetime\">Do. 17 Sep 2026 - 15:48</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/der-internationale-tag-des-krieges-und-die-kuehne-kraft-des-friedens",
+            "title": "Der Internationale Tag des Krieges und die kühne Kraft des Friedens",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Der Internationale Tag des Krieges und die kühne Kraft des Friedens</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-17T15:48:02+02:00\" title=\"Donnerstag, 17 September 2026 - 15:48\" class=\"datetime\">Do. 17 Sep 2026 - 15:48</time>\n</span>\n",
+            "date_modified": "2026-09-17T13:48:02.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "f86656f553e11296f9f9d666c96990577a3b72413be0e7938f1d3682daaa4ec7",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>ebolta</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-16T11:44:44+02:00\" title=\"Mittwoch, 16 September 2026 - 11:44\" class=\"datetime\">Mi. 16 Sep 2026 - 11:44</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/leiter-finanzen-und-operatives-geschaeft-mwd-vollzeit",

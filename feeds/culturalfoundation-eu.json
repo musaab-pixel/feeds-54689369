@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "8b609c063c41df1fa507b795fc776f957f5a51dda459392fa323c3752fb91d03",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/bridging-the-imagination-gap/\">Bridging the Imagination Gap: What Europe Needs After von der Leyen’s State of the Union</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/bridging-the-imagination-gap/",
+            "title": "Bridging the Imagination Gap: What Europe Needs After von der Leyen’s State of the Union",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/bridging-the-imagination-gap/\">Bridging the Imagination Gap: What Europe Needs After von der Leyen’s State of the Union</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-09-18T10:07:57.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "3e07318275294aad1449ea21c8c849169feb4e5e0743da9ce4358ff771d12749",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/european-sentiment-compass-2026/\">Future Nostalgia. European Sentiment Compass 2026</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/european-sentiment-compass-2026/",
