@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 19 Sep 2026 10:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 10:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني برصاص قوات الاحتلال شرقي مخيم المغازي وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/235811</link>
+            <guid isPermaLink="false">30152bfdc464bdc3b5b9b7d0c8e165d3f179776c7b240cc0ccd2250cae853ea8</guid>
+            <pubDate>Sat, 19 Sep 2026 10:30:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني برصاص قوات الاحتلال شرقي مخيم المغازي وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني برصاص قوات الاحتلال شرقي مخيم المغازي وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: الأمن المستدام يتحقق من خلال المحادثات وبناء الثقة بين دول المنطقة وليس…]]></title>
             <link>https://t.me/aljazeeraBrk/235810</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 21:58:01 GMT</pubDate>
             <description><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: حركة الملاحة عبر مضيق هرمز عادت إلى أكثر من 50% من مستوياتها الطبيعية]]></description>
             <content:encoded><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: حركة الملاحة عبر مضيق هرمز عادت إلى أكثر من 50% من مستوياتها الطبيعية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: إيران ستواصل فقدان السيطرة على مضيق هرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/235310</link>
-            <guid isPermaLink="false">193c7872583efc31ba04a485eeb2f2897a7f3cdb840acee358972e49ea8a14d6</guid>
-            <pubDate>Tue, 15 Sep 2026 21:56:01 GMT</pubDate>
-            <description><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: إيران ستواصل فقدان السيطرة على مضيق هرمز حتى موعد الانتخابات]]></description>
-            <content:encoded><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: إيران ستواصل فقدان السيطرة على مضيق هرمز حتى موعد الانتخابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
