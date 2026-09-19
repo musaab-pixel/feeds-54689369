@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 19 Sep 2026 10:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 11:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سانا عن وزارة الدفاع السورية: 11 قتيلا في انفجار موقع للجيش بمنطقة عياش غربي…]]></title>
+            <link>https://t.me/aljazeeraBrk/235812</link>
+            <guid isPermaLink="false">fd3f2786dc08d9ea01dbc8704aa18e7823da69e0a07961423d28332a90d4b54e</guid>
+            <pubDate>Sat, 19 Sep 2026 10:59:02 GMT</pubDate>
+            <description><![CDATA[سانا عن وزارة الدفاع السورية: 11 قتيلا في انفجار موقع للجيش بمنطقة عياش غربي دير الزور أمس]]></description>
+            <content:encoded><![CDATA[سانا عن وزارة الدفاع السورية: 11 قتيلا في انفجار موقع للجيش بمنطقة عياش غربي دير الزور أمس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني برصاص قوات الاحتلال شرقي مخيم المغازي وسط…]]></title>
             <link>https://t.me/aljazeeraBrk/235811</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 22:13:02 GMT</pubDate>
             <description><![CDATA[مصدر في الشرطة العراقية للجزيرة: إصابة ضابط برتبة رائد إثر انفجار عبوة ناسفة في مركبة عسكرية غربي كركوك]]></description>
             <content:encoded><![CDATA[مصدر في الشرطة العراقية للجزيرة: إصابة ضابط برتبة رائد إثر انفجار عبوة ناسفة في مركبة عسكرية غربي كركوك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: حركة الملاحة عبر مضيق هرمز عادت إلى أكثر من…]]></title>
-            <link>https://t.me/aljazeeraBrk/235311</link>
-            <guid isPermaLink="false">921c498adca4f197d57040902c62c6121b975573a89addcc773f69c4e578b781</guid>
-            <pubDate>Tue, 15 Sep 2026 21:58:01 GMT</pubDate>
-            <description><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: حركة الملاحة عبر مضيق هرمز عادت إلى أكثر من 50% من مستوياتها الطبيعية]]></description>
-            <content:encoded><![CDATA[نائب الرئيس الأمريكي لنيويورك بوست: حركة الملاحة عبر مضيق هرمز عادت إلى أكثر من 50% من مستوياتها الطبيعية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
