@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 19 Sep 2026 09:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 10:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار في منزل بقرية برقة في قضاء رام الله وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/235804</link>
+            <guid isPermaLink="false">262b2d1547a4cc3c850333a7282726803fb1bd58461274cc68f3c436355143ef</guid>
+            <pubDate>Sat, 19 Sep 2026 09:50:03 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار في منزل بقرية برقة في قضاء رام الله وسط الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار في منزل بقرية برقة في قضاء رام الله وسط الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم النيتو: الاتفاق بين الولايات المتحدة وغرينلاند والدنمارك يعزز…]]></title>
             <link>https://t.me/aljazeeraBrk/235803</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 20:24:02 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الإسرائيلي: اغتيال قائد لواء رفح في حماس]]></description>
             <content:encoded><![CDATA[وزير الدفاع الإسرائيلي: اغتيال قائد لواء رفح في حماس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: بدء محادثات بين السفيرة اللبنانية ونظيرها الإسرائيلي في مقر…]]></title>
-            <link>https://t.me/aljazeeraBrk/235303</link>
-            <guid isPermaLink="false">775b3032e4bf49e559b9177d085de2676ddb246be1f52b6dcaf67d8e4850a915</guid>
-            <pubDate>Tue, 15 Sep 2026 20:21:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: بدء محادثات بين السفيرة اللبنانية ونظيرها الإسرائيلي في مقر الخارجية الأمريكية بواشنطن]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: بدء محادثات بين السفيرة اللبنانية ونظيرها الإسرائيلي في مقر الخارجية الأمريكية بواشنطن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
