@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 19 Sep 2026 09:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 09:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بينهم طفلة بنيران قوات الاحتلال الإسرائيلي في…]]></title>
+            <link>https://t.me/aljazeeraBrk/235799</link>
+            <guid isPermaLink="false">596e8a2271f6c747f75a5cc7cd413f16d5a42868f21a5c75fe36657b75cce41b</guid>
+            <pubDate>Sat, 19 Sep 2026 09:08:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بينهم طفلة بنيران قوات الاحتلال الإسرائيلي في مناطق عدة بالقطاع منذ صباح اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بينهم طفلة بنيران قوات الاحتلال الإسرائيلي في مناطق عدة بالقطاع منذ صباح اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على جباليا…]]></title>
             <link>https://t.me/aljazeeraBrk/235798</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 19:44:02 GMT</pubDate>
             <description><![CDATA[رويترز عن مسؤول أمريكي: إدارة الرئيس ترمب تخطط لبيع إسرائيل ذخائر بقيمة 2.8 مليار دولار]]></description>
             <content:encoded><![CDATA[رويترز عن مسؤول أمريكي: إدارة الرئيس ترمب تخطط لبيع إسرائيل ذخائر بقيمة 2.8 مليار دولار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 103 سفن تجارية منذ استئناف الحصار البحري…]]></title>
-            <link>https://t.me/aljazeeraBrk/235298</link>
-            <guid isPermaLink="false">cd0dd23e40fc0de4e90639348bf7763536066ef4e73d9999fe6e271570411207</guid>
-            <pubDate>Tue, 15 Sep 2026 19:36:02 GMT</pubDate>
-            <description><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 103 سفن تجارية منذ استئناف الحصار البحري على إيران]]></description>
-            <content:encoded><![CDATA[القيادة المركزية الأمريكية: غيرنا مسار 103 سفن تجارية منذ استئناف الحصار البحري على إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
