@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 19 Sep 2026 11:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 11:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز: تصاعد دخان قرب مطار الرياض]]></title>
+            <link>https://t.me/aljazeeraBrk/235814</link>
+            <guid isPermaLink="false">a7236ffd16d9b144e6e959098344a5893d1eda3a00147b5d2b789b89e93dd096</guid>
+            <pubDate>Sat, 19 Sep 2026 11:38:02 GMT</pubDate>
+            <description><![CDATA[رويترز: تصاعد دخان قرب مطار الرياض]]></description>
+            <content:encoded><![CDATA[رويترز: تصاعد دخان قرب مطار الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: إصابة امرأة بجروح خطرة برصاص قوات الاحتلال شرقي مخيم…]]></title>
+            <link>https://t.me/aljazeeraBrk/235813</link>
+            <guid isPermaLink="false">8a7e29bd5cfe0f6d93c8c84865b85f08c3e5c9b9e9b80e6404bc685f6faa0fc1</guid>
+            <pubDate>Sat, 19 Sep 2026 11:32:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: إصابة امرأة بجروح خطرة برصاص قوات الاحتلال شرقي مخيم المغازي وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: إصابة امرأة بجروح خطرة برصاص قوات الاحتلال شرقي مخيم المغازي وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سانا عن وزارة الدفاع السورية: 11 قتيلا في انفجار موقع للجيش بمنطقة عياش غربي…]]></title>
             <link>https://t.me/aljazeeraBrk/235812</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Tue, 15 Sep 2026 22:28:02 GMT</pubDate>
             <description><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد من جهة البحر]]></description>
             <content:encoded><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد من جهة البحر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد مصدرها…]]></title>
-            <link>https://t.me/aljazeeraBrk/235313</link>
-            <guid isPermaLink="false">64d45b079211690f5ae726a691031e6a97f825600658ac1c9f0242a04c73f84a</guid>
-            <pubDate>Tue, 15 Sep 2026 22:16:02 GMT</pubDate>
-            <description><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد مصدرها من البحر]]></description>
-            <content:encoded><![CDATA[وكالة الأنباء الإيرانية: سماع أصوات انفجارات في جزيرة قشم جنوبي البلاد مصدرها من البحر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الشرطة العراقية للجزيرة: إصابة ضابط برتبة رائد إثر انفجار عبوة ناسفة في…]]></title>
-            <link>https://t.me/aljazeeraBrk/235312</link>
-            <guid isPermaLink="false">75d782b9bf6b807029297da7441842b182c77d122e086aef427a3eab10451f24</guid>
-            <pubDate>Tue, 15 Sep 2026 22:13:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الشرطة العراقية للجزيرة: إصابة ضابط برتبة رائد إثر انفجار عبوة ناسفة في مركبة عسكرية غربي كركوك]]></description>
-            <content:encoded><![CDATA[مصدر في الشرطة العراقية للجزيرة: إصابة ضابط برتبة رائد إثر انفجار عبوة ناسفة في مركبة عسكرية غربي كركوك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
