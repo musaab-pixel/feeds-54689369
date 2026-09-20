@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 20 Sep 2026 09:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: مخاوف من وقوع هجوم آخر بعد تمكن منفذ هجوم نفيه تسوف وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/235903</link>
+            <guid isPermaLink="false">069eb9c9482f20848c7feafd707341f796054542dd992e834df4649747d396ec</guid>
+            <pubDate>Sun, 20 Sep 2026 09:10:03 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: مخاوف من وقوع هجوم آخر بعد تمكن منفذ هجوم نفيه تسوف وسط الضفة من الفرار بسلاحه]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: مخاوف من وقوع هجوم آخر بعد تمكن منفذ هجوم نفيه تسوف وسط الضفة من الفرار بسلاحه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[الإسعاف الإسرائيلي: المصاب بإطلاق النار في نفيه تسوف وسط الضفة في حالة حرجة جدا…]]></title>
+            <link>https://t.me/aljazeeraBrk/235902</link>
+            <guid isPermaLink="false">52e9458adae3235646eebc179b7e156a9c8ff32f21db3465e9a7db73f0158263</guid>
+            <pubDate>Sun, 20 Sep 2026 09:04:02 GMT</pubDate>
+            <description><![CDATA[الإسعاف الإسرائيلي: المصاب بإطلاق النار في نفيه تسوف وسط الضفة في حالة حرجة جدا وعمليات إنعاشه مستمرة]]></description>
+            <content:encoded><![CDATA[الإسعاف الإسرائيلي: المصاب بإطلاق النار في نفيه تسوف وسط الضفة في حالة حرجة جدا وعمليات إنعاشه مستمرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام إسرائيلية: مخاوف من وقوع هجوم آخر بعد تمكن منفذ الهجوم على نفيه…]]></title>
             <link>https://t.me/aljazeeraBrk/235901</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Wed, 16 Sep 2026 10:07:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي استهدف فلسطينيين أثناء تعبئة مياه بمخيم البريج وسط قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي استهدف فلسطينيين أثناء تعبئة مياه بمخيم البريج وسط قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/235425</link>
-            <guid isPermaLink="false">187011a47a3d003a229541c018abab44709eca911abda2d372307c1a60b62469</guid>
-            <pubDate>Wed, 16 Sep 2026 10:04:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون بحماية جيش الاحتلال ممتلكات الفلسطينيين شرق…]]></title>
-            <link>https://t.me/aljazeeraBrk/235424</link>
-            <guid isPermaLink="false">3fc550b27dff6dde8ac7019eb73b66cc705edc399c2f1920f9843cb2a48620a4</guid>
-            <pubDate>Wed, 16 Sep 2026 09:52:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون بحماية جيش الاحتلال ممتلكات الفلسطينيين شرق بلدة بيتا جنوبي نابلس]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون بحماية جيش الاحتلال ممتلكات الفلسطينيين شرق بلدة بيتا جنوبي نابلس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
