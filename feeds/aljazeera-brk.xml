@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 20 Sep 2026 09:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 09:38:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: 3 مصابين بينهم طفلان برصاص قوات الاحتلال خارج مناطق انتشارها…]]></title>
+            <link>https://t.me/aljazeeraBrk/235907</link>
+            <guid isPermaLink="false">a516a168e9ad480b21288c3bb9861e15dfe40404c6fcfe7906ef6b0ec74c6d04</guid>
+            <pubDate>Sun, 20 Sep 2026 09:35:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: 3 مصابين بينهم طفلان برصاص قوات الاحتلال خارج مناطق انتشارها في خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: 3 مصابين بينهم طفلان برصاص قوات الاحتلال خارج مناطق انتشارها في خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تغلق جميع مداخل ومخارج محافظة رام الله والبيرة وسط…]]></title>
             <link>https://t.me/aljazeeraBrk/235906</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 16 Sep 2026 10:21:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية غزة للجزيرة: طالبنا مرارا خلال السنوات الثلاث الماضية بتوفير آليات إنقاذ وللأسف لم نجد استجابة]]></description>
             <content:encoded><![CDATA[رئيس بلدية غزة للجزيرة: طالبنا مرارا خلال السنوات الثلاث الماضية بتوفير آليات إنقاذ وللأسف لم نجد استجابة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد طفل وإصابة آخرين في قصف إسرائيلي استهدف مخيم…]]></title>
-            <link>https://t.me/aljazeeraBrk/235430</link>
-            <guid isPermaLink="false">e7c70ba89ff53e5fd8fc67f81dd5a3790f2ca868017694491da0ff124b753ce1</guid>
-            <pubDate>Wed, 16 Sep 2026 10:21:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد طفل وإصابة آخرين في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد طفل وإصابة آخرين في قصف إسرائيلي استهدف مخيم البريج وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
