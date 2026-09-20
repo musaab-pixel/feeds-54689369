@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 20 Sep 2026 10:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 10:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: مقتل إسرائيلي وفلسطيني في عملية إطلاق نار ومحاولة دهس…]]></title>
+            <link>https://t.me/aljazeeraBrk/235918</link>
+            <guid isPermaLink="false">5525b86e40793f493a96627d9cdccc1b31d54f7239de844e06a8ace90f500547</guid>
+            <pubDate>Sun, 20 Sep 2026 10:29:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: مقتل إسرائيلي وفلسطيني في عملية إطلاق نار ومحاولة دهس وسط وشمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: مقتل إسرائيلي وفلسطيني في عملية إطلاق نار ومحاولة دهس وسط وشمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إذاعة الجيش الإسرائيلي: مقتل شخص واعتقال آخر كانا في سيارة وحاولا تنفيذ عملية…]]></title>
             <link>https://t.me/aljazeeraBrk/235917</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 16 Sep 2026 10:43:03 GMT</pubDate>
             <description><![CDATA[المكتب الإعلامي الحكومي في غزة: نطالب بفتح المعابر لإدخال المستلزمات الطبية والمساعدات فورا]]></description>
             <content:encoded><![CDATA[المكتب الإعلامي الحكومي في غزة: نطالب بفتح المعابر لإدخال المستلزمات الطبية والمساعدات فورا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المكتب الإعلامي الحكومي في غزة: نحمل الاحتلال الإسرائيلي المسؤولية المباشرة عن…]]></title>
-            <link>https://t.me/aljazeeraBrk/235439</link>
-            <guid isPermaLink="false">84110a72969542f1130ab486fce148758b58eb63804143d00442bf50e45c5c60</guid>
-            <pubDate>Wed, 16 Sep 2026 10:43:02 GMT</pubDate>
-            <description><![CDATA[المكتب الإعلامي الحكومي في غزة: نحمل الاحتلال الإسرائيلي المسؤولية المباشرة عن المجازر المستمرة]]></description>
-            <content:encoded><![CDATA[المكتب الإعلامي الحكومي في غزة: نحمل الاحتلال الإسرائيلي المسؤولية المباشرة عن المجازر المستمرة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
