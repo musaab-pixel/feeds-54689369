@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 12:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 13:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: 686 مستوطنا يقتحمون المسجد الأقصى تحت حماية قوات الاحتلال]]></title>
+            <link>https://t.me/aljazeeraBrk/236065</link>
+            <guid isPermaLink="false">6170337317465d169a1b2102b863cb9cc14de8b6346275abb987ee6eea64b4c6</guid>
+            <pubDate>Mon, 21 Sep 2026 12:58:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: 686 مستوطنا يقتحمون المسجد الأقصى تحت حماية قوات الاحتلال]]></description>
+            <content:encoded><![CDATA[محافظة القدس: 686 مستوطنا يقتحمون المسجد الأقصى تحت حماية قوات الاحتلال]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المكتب الإعلامي الحكومي بغزة: تقليص المساعدات الدولية في القطاع ينذر بكارثة…]]></title>
             <link>https://t.me/aljazeeraBrk/236064</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 19 Sep 2026 08:14:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد فلسطيني في قصف إسرائيلي على حي الشجاعية شرقي مدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد فلسطيني في قصف إسرائيلي على حي الشجاعية شرقي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: تفعيل المضادات الأرضية في كييف وأصوات انفجارات في سماء المدينة]]></title>
-            <link>https://t.me/aljazeeraBrk/235785</link>
-            <guid isPermaLink="false">e13bbcf0d2a7b8493c6abe9f9015b4c7c8916f19a219dc267f67a05bd84c68df</guid>
-            <pubDate>Sat, 19 Sep 2026 07:58:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: تفعيل المضادات الأرضية في كييف وأصوات انفجارات في سماء المدينة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: تفعيل المضادات الأرضية في كييف وأصوات انفجارات في سماء المدينة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
