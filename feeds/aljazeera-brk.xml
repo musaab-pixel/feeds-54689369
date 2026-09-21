@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 07:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 07:53:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر بالداخلية الباكستانية: الوزير محسن نقوي يتوجه إلى العاصمة الإيرانية لبحث…]]></title>
+            <link>https://t.me/aljazeeraBrk/236034</link>
+            <guid isPermaLink="false">50364a0a185221b9403017ff9aec3c8c1fbf633aeec66ab136dd82aeeb9c9d17</guid>
+            <pubDate>Mon, 21 Sep 2026 07:45:03 GMT</pubDate>
+            <description><![CDATA[مصدر بالداخلية الباكستانية: الوزير محسن نقوي يتوجه إلى العاصمة الإيرانية لبحث جهود الوساطة وإنهاء حالة الجمود]]></description>
+            <content:encoded><![CDATA[مصدر بالداخلية الباكستانية: الوزير محسن نقوي يتوجه إلى العاصمة الإيرانية لبحث جهود الوساطة وإنهاء حالة الجمود]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: استشهاد طفل بنيران قوات الاحتلال خارج مناطق انتشارها في مواصي…]]></title>
             <link>https://t.me/aljazeeraBrk/236033</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 18 Sep 2026 15:28:03 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: تفعيل صفارات الإنذار في كييف وسط تحذير من هجوم روسي بمسيرات]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: تفعيل صفارات الإنذار في كييف وسط تحذير من هجوم روسي بمسيرات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: اندلاع مواجهات بين قوات الاحتلال وشبان عقب اقتحام قرية بورين…]]></title>
-            <link>https://t.me/aljazeeraBrk/235713</link>
-            <guid isPermaLink="false">5cb36a80ef955ef480022ba03141506a5f804b31368274a119e3347114c694bf</guid>
-            <pubDate>Fri, 18 Sep 2026 15:28:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: اندلاع مواجهات بين قوات الاحتلال وشبان عقب اقتحام قرية بورين جنوبي نابلس بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: اندلاع مواجهات بين قوات الاحتلال وشبان عقب اقتحام قرية بورين جنوبي نابلس بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
