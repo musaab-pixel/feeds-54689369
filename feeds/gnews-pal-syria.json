@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "0dc9f91973f37f6438492f4213e2d87f28aadd1a329ea9d9d9c1d5166e68fb04",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xbEJkdERNOVdKSTBhYUt2a1BxWkxqSnlVNXZITUJfeDVoWWozV0NQWXF3VUN3dzVIa0doZDNUc0RJczdaQldETllIbnN5NGIyRWItXzlnWQ?oc=5\" target=\"_blank\">فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xbEJkdERNOVdKSTBhYUt2a1BxWkxqSnlVNXZITUJfeDVoWWozV0NQWXF3VUN3dzVIa0doZDNUc0RJczdaQldETllIbnN5NGIyRWItXzlnWQ?oc=5",
+            "title": "فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر - المركز الفلسطيني للإعلام",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xbEJkdERNOVdKSTBhYUt2a1BxWkxqSnlVNXZITUJfeDVoWWozV0NQWXF3VUN3dzVIa0doZDNUc0RJczdaQldETllIbnN5NGIyRWItXzlnWQ?oc=5\" target=\"_blank\">فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "date_modified": "2026-09-21T11:24:47.000Z",
+            "author": {
+                "name": "المركز الفلسطيني للإعلام"
+            }
+        },
+        {
             "id": "ef53e0875ef7ccc03ac684c26889242afdaaa34716ecce095e0f37c9b4c7075e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMitwRBVV95cUxNNm1pUW5OMFVVc3lNNU9wenRWdGQ0Z1hzYWFVYktwNno3eGo4VmdjMnlqNkg4TWZKb1ZCWHBBSTVVdGMxb3dBY3IzTzUxTDVTYVpiQjJHTHJMQWNIWDZ0dENBT2w3U2l5XzhfSm94T01aNnZHMHVQZW1IaHI5TUlvZDlrOGJyemJlMmtzcWNZdHA1WTdmY1NtUHg5N25rRGprSkVGV0tTTVk5a1VBSTkyempZWnJ1ZFJFSnVFa2RhTHBZM09pQmVzNzZzSlJBTUxDcVNDcmNDV1FLbUxxU3FHTHNzZXFWMUQxbWNrLTA1WXh5WGxpejF2Q3pyZWdxQ3pkSEo5UE11elpsRGNveWl0STZ4dElKanB4dnRvSzhEaHZ4UWRMejZZRnNiLUJuYkJqMVdvc2NKRjE3cjAyLWtfQ3JLSGtDYW9PSVpMVDd6X2duT0FRRWlrdGlnT1hYVmktLTg2Tk9wV0FSVkFpdUFTc3dXQm5reldfeEFDbGpqNUVIS01TQW1IeXBqZDlDMVRDQXJsRThwYVlDU1VFVDNOYlJnZkVST0VxWmtKVk4xSUV1bElFNjgyOEt4SjJkMjZrZDJlMGc4Y2JIY1pEM0RTaTd6ejV5QWZNUE5iS3pObU5mT2FObEFraHplQzhPcDR5clN6d1Q3VFZBZE1DMzgtMnkxcnpWZ2plN2NlSkY4ZDNCaU5MWDNJdU1iR24xS0ZXYjB2R1NQOENBa0JUbWNRc0tseC0waTA?oc=5\" target=\"_blank\">رفض فلسطيني سوري لـ\"انتخابات شكلية\" للمجلس الوطني وطرح مقترحات لإصلاحها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxNNm1pUW5OMFVVc3lNNU9wenRWdGQ0Z1hzYWFVYktwNno3eGo4VmdjMnlqNkg4TWZKb1ZCWHBBSTVVdGMxb3dBY3IzTzUxTDVTYVpiQjJHTHJMQWNIWDZ0dENBT2w3U2l5XzhfSm94T01aNnZHMHVQZW1IaHI5TUlvZDlrOGJyemJlMmtzcWNZdHA1WTdmY1NtUHg5N25rRGprSkVGV0tTTVk5a1VBSTkyempZWnJ1ZFJFSnVFa2RhTHBZM09pQmVzNzZzSlJBTUxDcVNDcmNDV1FLbUxxU3FHTHNzZXFWMUQxbWNrLTA1WXh5WGxpejF2Q3pyZWdxQ3pkSEo5UE11elpsRGNveWl0STZ4dElKanB4dnRvSzhEaHZ4UWRMejZZRnNiLUJuYkJqMVdvc2NKRjE3cjAyLWtfQ3JLSGtDYW9PSVpMVDd6X2duT0FRRWlrdGlnT1hYVmktLTg2Tk9wV0FSVkFpdUFTc3dXQm5reldfeEFDbGpqNUVIS01TQW1IeXBqZDlDMVRDQXJsRThwYVlDU1VFVDNOYlJnZkVST0VxWmtKVk4xSUV1bElFNjgyOEt4SjJkMjZrZDJlMGc4Y2JIY1pEM0RTaTd6ejV5QWZNUE5iS3pObU5mT2FObEFraHplQzhPcDR5clN6d1Q3VFZBZE1DMzgtMnkxcnpWZ2plN2NlSkY4ZDNCaU5MWDNJdU1iR24xS0ZXYjB2R1NQOENBa0JUbWNRc0tseC0waTA?oc=5",
@@ -237,13 +248,13 @@
         },
         {
             "id": "13b519de12e730f3caecc5b77d8268566e434db0199fb8bcf8547cbd53698cb6",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxOZzBIeHRsUERsaTR4cjB2NFgyd0laVzhUN2hoYTNIT251UC1rMmJvNXh6d0VyaDh5a3pJOGNRWkVPa09hTS1KTXR5SXFMQjJKQ1JGaURKM2pjVlBtNmdQeUlOT2hFVkhwQm5hNEdEVk9GaDdCeS1aaVJhMC1BUGVqS3l1M28wbW5iR1N4X3FKZEF5SWE3WkxtMjhFUGVUcVRMREU3WnV3X1NZRWZSay1IWnRabC1DLUp0bHJiY0VFOFdlUkJrd3lMYS0xZUdZN1hVSlh1ZTdTUXc4REpzYmplMm51UEFaTVpIR1pWNndpNC1xZkVNSFgtQkY2Y001NUt2V01lY1FGSTdBUEo1VzhMczlwU3EyUEIydmJDR1ZyVk1BbC1ld1NhR2lvaTE1RW85OWhnTzNvSkU5dXhUeHJCc3VPeW4xNlFGQUNIeHJ5ekdSdk00NjFKcTlPMXN1eVBYRlBCaF93MWVIOE4xb3U1MzRCU256bXcwbGtYYW9aRmQ3SVNYVkJWUUsxSVBXcTNabUxEVXE4VUdoZWJOSkxDM29GMTg1Y3ptMDJpTWliQ2RJaEZmb0NvT3RiUlFzLVd1SzU5ZXhwSmpUQTlMY3pFQ2JvbGZzc3c0R2ttRGUteHZTYUlGbTQtQ2l2TmZaT1A4Qlc3Z256ZHdzaTdPUDJHMXRnRkZGdw?oc=5\" target=\"_blank\">فوضى المعتقلين الفلسطينيين | قضية عادل الناطور: الترحيل مقابل الإفراج؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al-akhbar.com</font>",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxOZzBIeHRsUERsaTR4cjB2NFgyd0laVzhUN2hoYTNIT251UC1rMmJvNXh6d0VyaDh5a3pJOGNRWkVPa09hTS1KTXR5SXFMQjJKQ1JGaURKM2pjVlBtNmdQeUlOT2hFVkhwQm5hNEdEVk9GaDdCeS1aaVJhMC1BUGVqS3l1M28wbW5iR1N4X3FKZEF5SWE3WkxtMjhFUGVUcVRMREU3WnV3X1NZRWZSay1IWnRabC1DLUp0bHJiY0VFOFdlUkJrd3lMYS0xZUdZN1hVSlh1ZTdTUXc4REpzYmplMm51UEFaTVpIR1pWNndpNC1xZkVNSFgtQkY2Y001NUt2V01lY1FGSTdBUEo1VzhMczlwU3EyUEIydmJDR1ZyVk1BbC1ld1NhR2lvaTE1RW85OWhnTzNvSkU5dXhUeHJCc3VPeW4xNlFGQUNIeHJ5ekdSdk00NjFKcTlPMXN1eVBYRlBCaF93MWVIOE4xb3U1MzRCU256bXcwbGtYYW9aRmQ3SVNYVkJWUUsxSVBXcTNabUxEVXE4VUdoZWJOSkxDM29GMTg1Y3ptMDJpTWliQ2RJaEZmb0NvT3RiUlFzLVd1SzU5ZXhwSmpUQTlMY3pFQ2JvbGZzc3c0R2ttRGUteHZTYUlGbTQtQ2l2TmZaT1A4Qlc3Z256ZHdzaTdPUDJHMXRnRkZGdw?oc=5\" target=\"_blank\">فوضى المعتقلين الفلسطينيين | قضية عادل الناطور: الترحيل مقابل الإفراج؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Akhbar</font>",
             "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxOZzBIeHRsUERsaTR4cjB2NFgyd0laVzhUN2hoYTNIT251UC1rMmJvNXh6d0VyaDh5a3pJOGNRWkVPa09hTS1KTXR5SXFMQjJKQ1JGaURKM2pjVlBtNmdQeUlOT2hFVkhwQm5hNEdEVk9GaDdCeS1aaVJhMC1BUGVqS3l1M28wbW5iR1N4X3FKZEF5SWE3WkxtMjhFUGVUcVRMREU3WnV3X1NZRWZSay1IWnRabC1DLUp0bHJiY0VFOFdlUkJrd3lMYS0xZUdZN1hVSlh1ZTdTUXc4REpzYmplMm51UEFaTVpIR1pWNndpNC1xZkVNSFgtQkY2Y001NUt2V01lY1FGSTdBUEo1VzhMczlwU3EyUEIydmJDR1ZyVk1BbC1ld1NhR2lvaTE1RW85OWhnTzNvSkU5dXhUeHJCc3VPeW4xNlFGQUNIeHJ5ekdSdk00NjFKcTlPMXN1eVBYRlBCaF93MWVIOE4xb3U1MzRCU256bXcwbGtYYW9aRmQ3SVNYVkJWUUsxSVBXcTNabUxEVXE4VUdoZWJOSkxDM29GMTg1Y3ptMDJpTWliQ2RJaEZmb0NvT3RiUlFzLVd1SzU5ZXhwSmpUQTlMY3pFQ2JvbGZzc3c0R2ttRGUteHZTYUlGbTQtQ2l2TmZaT1A4Qlc3Z256ZHdzaTdPUDJHMXRnRkZGdw?oc=5",
-            "title": "فوضى المعتقلين الفلسطينيين | قضية عادل الناطور: الترحيل مقابل الإفراج؟ - al-akhbar.com",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxOZzBIeHRsUERsaTR4cjB2NFgyd0laVzhUN2hoYTNIT251UC1rMmJvNXh6d0VyaDh5a3pJOGNRWkVPa09hTS1KTXR5SXFMQjJKQ1JGaURKM2pjVlBtNmdQeUlOT2hFVkhwQm5hNEdEVk9GaDdCeS1aaVJhMC1BUGVqS3l1M28wbW5iR1N4X3FKZEF5SWE3WkxtMjhFUGVUcVRMREU3WnV3X1NZRWZSay1IWnRabC1DLUp0bHJiY0VFOFdlUkJrd3lMYS0xZUdZN1hVSlh1ZTdTUXc4REpzYmplMm51UEFaTVpIR1pWNndpNC1xZkVNSFgtQkY2Y001NUt2V01lY1FGSTdBUEo1VzhMczlwU3EyUEIydmJDR1ZyVk1BbC1ld1NhR2lvaTE1RW85OWhnTzNvSkU5dXhUeHJCc3VPeW4xNlFGQUNIeHJ5ekdSdk00NjFKcTlPMXN1eVBYRlBCaF93MWVIOE4xb3U1MzRCU256bXcwbGtYYW9aRmQ3SVNYVkJWUUsxSVBXcTNabUxEVXE4VUdoZWJOSkxDM29GMTg1Y3ptMDJpTWliQ2RJaEZmb0NvT3RiUlFzLVd1SzU5ZXhwSmpUQTlMY3pFQ2JvbGZzc3c0R2ttRGUteHZTYUlGbTQtQ2l2TmZaT1A4Qlc3Z256ZHdzaTdPUDJHMXRnRkZGdw?oc=5\" target=\"_blank\">فوضى المعتقلين الفلسطينيين | قضية عادل الناطور: الترحيل مقابل الإفراج؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al-akhbar.com</font>",
+            "title": "فوضى المعتقلين الفلسطينيين | قضية عادل الناطور: الترحيل مقابل الإفراج؟ - Al Akhbar",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgRBVV95cUxOZzBIeHRsUERsaTR4cjB2NFgyd0laVzhUN2hoYTNIT251UC1rMmJvNXh6d0VyaDh5a3pJOGNRWkVPa09hTS1KTXR5SXFMQjJKQ1JGaURKM2pjVlBtNmdQeUlOT2hFVkhwQm5hNEdEVk9GaDdCeS1aaVJhMC1BUGVqS3l1M28wbW5iR1N4X3FKZEF5SWE3WkxtMjhFUGVUcVRMREU3WnV3X1NZRWZSay1IWnRabC1DLUp0bHJiY0VFOFdlUkJrd3lMYS0xZUdZN1hVSlh1ZTdTUXc4REpzYmplMm51UEFaTVpIR1pWNndpNC1xZkVNSFgtQkY2Y001NUt2V01lY1FGSTdBUEo1VzhMczlwU3EyUEIydmJDR1ZyVk1BbC1ld1NhR2lvaTE1RW85OWhnTzNvSkU5dXhUeHJCc3VPeW4xNlFGQUNIeHJ5ekdSdk00NjFKcTlPMXN1eVBYRlBCaF93MWVIOE4xb3U1MzRCU256bXcwbGtYYW9aRmQ3SVNYVkJWUUsxSVBXcTNabUxEVXE4VUdoZWJOSkxDM29GMTg1Y3ptMDJpTWliQ2RJaEZmb0NvT3RiUlFzLVd1SzU5ZXhwSmpUQTlMY3pFQ2JvbGZzc3c0R2ttRGUteHZTYUlGbTQtQ2l2TmZaT1A4Qlc3Z256ZHdzaTdPUDJHMXRnRkZGdw?oc=5\" target=\"_blank\">فوضى المعتقلين الفلسطينيين | قضية عادل الناطور: الترحيل مقابل الإفراج؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Akhbar</font>",
             "date_modified": "2026-09-07T07:00:00.000Z",
             "author": {
-                "name": "al-akhbar.com"
+                "name": "Al Akhbar"
             }
         },
         {
@@ -2085,13 +2096,13 @@
         },
         {
             "id": "7fa045fe58ad18259714f7fae34f376dcdc03258607cba94a7a81b41d6d67167",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNLVlVUzZfcmZaTGNFYl9yejMyV1U4UjM1VWN0MmQ3TUd5NTVSWUNNLXZ1YldXTDY0NWw4c01DaHpkbldQWTNyVnBDNVNrQ1RlLTYxLXktZVpnZzBzbWRaQy1Wa185bF9IQkZMX3FFY3hHa1RJZDdJRTNCNnVPUjdZZm92c0pRSlZ6Z0tXZHpLVnduc2VMOFdQQ1paQWh2TnFjbFBnaTBBN19DT3BpaHEyTndpd0ctQnhOUml4UVotQ3h0WGs4NHA4S0hBY2xQeFhNUWVzVWZaZDdsTWZIc0pEaFJYaFBiTngwdXo3ZFQ4S29WMlY2RzZWdUc4blNjekZ0eXhIZk45OFFwYTRBT3NqTFhfMkVERjBIcmNPb1luejhlcjZJNS1QTzk1NE56YWphazVfNUxia3RpaVM4NkZQU0FKVGIyYU9iV0dxVGRDQ21STUpQb056RVVPTld4b1JIbHNaWHZVMmk1TVNZbTNiTmtQSG13c2lXWWdDY0FOQlJEbEtoYWFMdzRuZnVkTUVBdFNyRFVJcUZjV1Q3c3hmbg?oc=5\" target=\"_blank\">حملة اعتقالات ضدّ الفلسطينيين في دمشق ومحيطها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al-akhbar.com</font>",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNLVlVUzZfcmZaTGNFYl9yejMyV1U4UjM1VWN0MmQ3TUd5NTVSWUNNLXZ1YldXTDY0NWw4c01DaHpkbldQWTNyVnBDNVNrQ1RlLTYxLXktZVpnZzBzbWRaQy1Wa185bF9IQkZMX3FFY3hHa1RJZDdJRTNCNnVPUjdZZm92c0pRSlZ6Z0tXZHpLVnduc2VMOFdQQ1paQWh2TnFjbFBnaTBBN19DT3BpaHEyTndpd0ctQnhOUml4UVotQ3h0WGs4NHA4S0hBY2xQeFhNUWVzVWZaZDdsTWZIc0pEaFJYaFBiTngwdXo3ZFQ4S29WMlY2RzZWdUc4blNjekZ0eXhIZk45OFFwYTRBT3NqTFhfMkVERjBIcmNPb1luejhlcjZJNS1QTzk1NE56YWphazVfNUxia3RpaVM4NkZQU0FKVGIyYU9iV0dxVGRDQ21STUpQb056RVVPTld4b1JIbHNaWHZVMmk1TVNZbTNiTmtQSG13c2lXWWdDY0FOQlJEbEtoYWFMdzRuZnVkTUVBdFNyRFVJcUZjV1Q3c3hmbg?oc=5\" target=\"_blank\">حملة اعتقالات ضدّ الفلسطينيين في دمشق ومحيطها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Akhbar</font>",
             "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNLVlVUzZfcmZaTGNFYl9yejMyV1U4UjM1VWN0MmQ3TUd5NTVSWUNNLXZ1YldXTDY0NWw4c01DaHpkbldQWTNyVnBDNVNrQ1RlLTYxLXktZVpnZzBzbWRaQy1Wa185bF9IQkZMX3FFY3hHa1RJZDdJRTNCNnVPUjdZZm92c0pRSlZ6Z0tXZHpLVnduc2VMOFdQQ1paQWh2TnFjbFBnaTBBN19DT3BpaHEyTndpd0ctQnhOUml4UVotQ3h0WGs4NHA4S0hBY2xQeFhNUWVzVWZaZDdsTWZIc0pEaFJYaFBiTngwdXo3ZFQ4S29WMlY2RzZWdUc4blNjekZ0eXhIZk45OFFwYTRBT3NqTFhfMkVERjBIcmNPb1luejhlcjZJNS1QTzk1NE56YWphazVfNUxia3RpaVM4NkZQU0FKVGIyYU9iV0dxVGRDQ21STUpQb056RVVPTld4b1JIbHNaWHZVMmk1TVNZbTNiTmtQSG13c2lXWWdDY0FOQlJEbEtoYWFMdzRuZnVkTUVBdFNyRFVJcUZjV1Q3c3hmbg?oc=5",
-            "title": "حملة اعتقالات ضدّ الفلسطينيين في دمشق ومحيطها - al-akhbar.com",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNLVlVUzZfcmZaTGNFYl9yejMyV1U4UjM1VWN0MmQ3TUd5NTVSWUNNLXZ1YldXTDY0NWw4c01DaHpkbldQWTNyVnBDNVNrQ1RlLTYxLXktZVpnZzBzbWRaQy1Wa185bF9IQkZMX3FFY3hHa1RJZDdJRTNCNnVPUjdZZm92c0pRSlZ6Z0tXZHpLVnduc2VMOFdQQ1paQWh2TnFjbFBnaTBBN19DT3BpaHEyTndpd0ctQnhOUml4UVotQ3h0WGs4NHA4S0hBY2xQeFhNUWVzVWZaZDdsTWZIc0pEaFJYaFBiTngwdXo3ZFQ4S29WMlY2RzZWdUc4blNjekZ0eXhIZk45OFFwYTRBT3NqTFhfMkVERjBIcmNPb1luejhlcjZJNS1QTzk1NE56YWphazVfNUxia3RpaVM4NkZQU0FKVGIyYU9iV0dxVGRDQ21STUpQb056RVVPTld4b1JIbHNaWHZVMmk1TVNZbTNiTmtQSG13c2lXWWdDY0FOQlJEbEtoYWFMdzRuZnVkTUVBdFNyRFVJcUZjV1Q3c3hmbg?oc=5\" target=\"_blank\">حملة اعتقالات ضدّ الفلسطينيين في دمشق ومحيطها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al-akhbar.com</font>",
+            "title": "حملة اعتقالات ضدّ الفلسطينيين في دمشق ومحيطها - Al Akhbar",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxNLVlVUzZfcmZaTGNFYl9yejMyV1U4UjM1VWN0MmQ3TUd5NTVSWUNNLXZ1YldXTDY0NWw4c01DaHpkbldQWTNyVnBDNVNrQ1RlLTYxLXktZVpnZzBzbWRaQy1Wa185bF9IQkZMX3FFY3hHa1RJZDdJRTNCNnVPUjdZZm92c0pRSlZ6Z0tXZHpLVnduc2VMOFdQQ1paQWh2TnFjbFBnaTBBN19DT3BpaHEyTndpd0ctQnhOUml4UVotQ3h0WGs4NHA4S0hBY2xQeFhNUWVzVWZaZDdsTWZIc0pEaFJYaFBiTngwdXo3ZFQ4S29WMlY2RzZWdUc4blNjekZ0eXhIZk45OFFwYTRBT3NqTFhfMkVERjBIcmNPb1luejhlcjZJNS1QTzk1NE56YWphazVfNUxia3RpaVM4NkZQU0FKVGIyYU9iV0dxVGRDQ21STUpQb056RVVPTld4b1JIbHNaWHZVMmk1TVNZbTNiTmtQSG13c2lXWWdDY0FOQlJEbEtoYWFMdzRuZnVkTUVBdFNyRFVJcUZjV1Q3c3hmbg?oc=5\" target=\"_blank\">حملة اعتقالات ضدّ الفلسطينيين في دمشق ومحيطها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Akhbar</font>",
             "date_modified": "2026-04-16T07:00:00.000Z",
             "author": {
-                "name": "al-akhbar.com"
+                "name": "Al Akhbar"
             }
         },
         {
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-04-08T07:00:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "47f046c3d1939f43ae3f2953b6c11487495af6fcac1f947391073d94a8777f48",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZWJOOUt5dHlYRWhjM0pJZnBRdmtqR3N4RkRVd2lQZ1UwM294dHRLcS1NV3lpby0yNmQ2Qk83TnhFbTFIMGdFLXNR?oc=5\" target=\"_blank\">العنصرية ضد الفلسطينيين في سوريا: أبعاد التحريض والمخاطر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة القدس</font>",
-            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZWJOOUt5dHlYRWhjM0pJZnBRdmtqR3N4RkRVd2lQZ1UwM294dHRLcS1NV3lpby0yNmQ2Qk83TnhFbTFIMGdFLXNR?oc=5",
-            "title": "العنصرية ضد الفلسطينيين في سوريا: أبعاد التحريض والمخاطر - جريدة القدس",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZWJOOUt5dHlYRWhjM0pJZnBRdmtqR3N4RkRVd2lQZ1UwM294dHRLcS1NV3lpby0yNmQ2Qk83TnhFbTFIMGdFLXNR?oc=5\" target=\"_blank\">العنصرية ضد الفلسطينيين في سوريا: أبعاد التحريض والمخاطر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة القدس</font>",
-            "date_modified": "2026-04-07T07:00:00.000Z",
-            "author": {
-                "name": "جريدة القدس"
             }
         }
     ]
