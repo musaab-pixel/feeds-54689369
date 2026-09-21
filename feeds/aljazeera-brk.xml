@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 08:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 08:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: 418 مستوطنا اقتحموا باحات المسجد الأقصى خلال الفترة الصباحية]]></title>
+            <link>https://t.me/aljazeeraBrk/236036</link>
+            <guid isPermaLink="false">0196a88396ba3eb0e9419d6b81222341189cf3396c2ec735358cad9b08496e36</guid>
+            <pubDate>Mon, 21 Sep 2026 08:48:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: 418 مستوطنا اقتحموا باحات المسجد الأقصى خلال الفترة الصباحية]]></description>
+            <content:encoded><![CDATA[محافظة القدس: 418 مستوطنا اقتحموا باحات المسجد الأقصى خلال الفترة الصباحية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته بنيران قوات الاحتلال…]]></title>
             <link>https://t.me/aljazeeraBrk/236035</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 18 Sep 2026 15:35:02 GMT</pubDate>
             <description><![CDATA[الإسعاف والطوارئ في غزة: شهيد في قصف إسرائيلي استهدف دراجة نارية في حي الشيخ رضوان بمدينة غزة]]></description>
             <content:encoded><![CDATA[الإسعاف والطوارئ في غزة: شهيد في قصف إسرائيلي استهدف دراجة نارية في حي الشيخ رضوان بمدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: تفعيل صفارات الإنذار في كييف وسط تحذير من هجوم روسي بمسيرات سريعة]]></title>
-            <link>https://t.me/aljazeeraBrk/235714</link>
-            <guid isPermaLink="false">d554db9bf8d80aa0000dc1a764298179ee615789b71525faaa9ced7b404fecbc</guid>
-            <pubDate>Fri, 18 Sep 2026 15:28:03 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: تفعيل صفارات الإنذار في كييف وسط تحذير من هجوم روسي بمسيرات سريعة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: تفعيل صفارات الإنذار في كييف وسط تحذير من هجوم روسي بمسيرات سريعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
