@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 11:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 11:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بيان مشترك لسي إن إن وبوليتيكو وإم إس ناو: سنرفع دعوى قضائية لاستعادة حق الوصول…]]></title>
+            <link>https://t.me/aljazeeraBrk/236050</link>
+            <guid isPermaLink="false">dd3d4280568509836f60110e12be4601b18bd41bb11c7e19a56f760436158e90</guid>
+            <pubDate>Mon, 21 Sep 2026 11:38:02 GMT</pubDate>
+            <description><![CDATA[بيان مشترك لسي إن إن وبوليتيكو وإم إس ناو: سنرفع دعوى قضائية لاستعادة حق الوصول إلى البيت الأبيض]]></description>
+            <content:encoded><![CDATA[بيان مشترك لسي إن إن وبوليتيكو وإم إس ناو: سنرفع دعوى قضائية لاستعادة حق الوصول إلى البيت الأبيض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نفذنا 5 غارات جوية على مواقع لجماعة الحوثي في جبهة…]]></title>
             <link>https://t.me/aljazeeraBrk/236049</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 19 Sep 2026 06:15:02 GMT</pubDate>
             <description><![CDATA[الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 344 مسيرة أوكرانية في مناطق عدة بالبلاد]]></description>
             <content:encoded><![CDATA[الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 344 مسيرة أوكرانية في مناطق عدة بالبلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع الروسية: استهدفنا 3 سفن في البحر الأسود وفي ميناء تشورنومورسك تحمل شحنات…]]></title>
-            <link>https://t.me/aljazeeraBrk/235770</link>
-            <guid isPermaLink="false">91cd07e651a3aa91686a31cb0a6a37eef52bdc4902f4382d0a4d4327fb9ec9a4</guid>
-            <pubDate>Sat, 19 Sep 2026 06:09:02 GMT</pubDate>
-            <description><![CDATA[الدفاع الروسية: استهدفنا 3 سفن في البحر الأسود وفي ميناء تشورنومورسك تحمل شحنات عسكرية لأوكرانيا]]></description>
-            <content:encoded><![CDATA[الدفاع الروسية: استهدفنا 3 سفن في البحر الأسود وفي ميناء تشورنومورسك تحمل شحنات عسكرية لأوكرانيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
