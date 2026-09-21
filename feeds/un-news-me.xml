@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Fri, 18 Sep 2026 15:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 23:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168387</link>
+            <guid isPermaLink="false">cb25f72f214ca6fe2193b0e52533c633381a69d11dd30285762e439a1fdecfa1</guid>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.]]></description>
+            <content:encoded><![CDATA[The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-IOM-Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yemen’s humanitarian crisis growing by the hour amid spike in displacement]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168364</link>

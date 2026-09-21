@@ -4,7 +4,7 @@
         <title>Muftah — Palestine/Syria monitor</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Muftah — Palestine/Syria monitor" (type: bundle)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 22:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 23:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -265,6 +265,15 @@
             <description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrclY1LXcxMEl4QzhBd3ZrQlFQN1V6SDFOVTJ2X19JOExiR2FRZEJnOVV1R1NaM3F4eWJ0aHhqejBXcnNVMk9jRWNDSE94eU1TVS1j?oc=5" target="_blank">فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر</a>&nbsp;&nbsp;<font color="#6f6f6f">twaslnews1.twaslnews.com</font>]]></description>
             <content:encoded><![CDATA[<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrclY1LXcxMEl4QzhBd3ZrQlFQN1V6SDFOVTJ2X19JOExiR2FRZEJnOVV1R1NaM3F4eWJ0aHhqejBXcnNVMk9jRWNDSE94eU1TVS1j?oc=5" target="_blank">فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر</a>&nbsp;&nbsp;<font color="#6f6f6f">twaslnews1.twaslnews.com</font>]]></content:encoded>
             <author>twaslnews1.twaslnews.com</author>
+        </item>
+        <item>
+            <title><![CDATA[UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168387</link>
+            <guid isPermaLink="false">cb25f72f214ca6fe2193b0e52533c633381a69d11dd30285762e439a1fdecfa1</guid>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.]]></description>
+            <content:encoded><![CDATA[The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-IOM-Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[وضع حجر الأساس لخزان مياه في مخيم الفوار للاجئين الفلسطينيين]]></title>
@@ -2740,13 +2749,6 @@
 <p>وأكدت الأونروا أهمية الشراكة مع الاتحاد الأوروبي في تمويل برامج المساعدات النقدية، مشيرة إلى أن الدعم يساهم في تمكين الأسر المستفيدة من التعامل مع احتياجاتها الأساسية.</p>
 <p>وتأتي الزيارة في وقت يواجه فيه العائدون إلى مخيم اليرموك تحديات مرتبطة بظروف السكن والخدمات وسبل تأمين الاحتياجات الأساسية، ما يجعل الاستماع إلى أولويات السكان وتقييم احتياجاتهم الميدانية أحد العوامل المهمة في توجيه برامج الدعم الإنساني.</p>]]></content:encoded>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/09/66666.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[التحولات البنيوية والاجتماعية للأسرة الفلسطينية خلال الحرب السورية]]></title>
-            <link>https://actionpal.org.uk/wp-content/uploads/2026/07/pal-family.pdf#new_tab</link>
-            <guid isPermaLink="false">9cafe03fcca626e41518f6e1ffcb4170fd0bb7b50d91772905ee830ec0909d4b</guid>
-            <pubDate>Thu, 17 Sep 2026 11:27:45 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/07/121.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
