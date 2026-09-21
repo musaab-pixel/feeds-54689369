@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 16:03:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 16:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد…]]></title>
+            <link>https://t.me/aljazeeraBrk/236102</link>
+            <guid isPermaLink="false">6f4052af110fda5b8da67e9c9446759ec76c88bdc08a3fb3a6e65a40ecdb09c0</guid>
+            <pubDate>Mon, 21 Sep 2026 16:25:02 GMT</pubDate>
+            <description><![CDATA[إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد جيش باكستان بشأن عملية السلام]]></description>
+            <content:encoded><![CDATA[إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد جيش باكستان بشأن عملية السلام]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الأمين العام للمنظمة البحرية الدولية للجزيرة: على أطراف الصراع العودة للتفاوض]]></title>
             <link>https://t.me/aljazeeraBrk/236101</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 19 Sep 2026 20:35:02 GMT</pubDate>
             <description><![CDATA[مجلس التعاون الخليجي: الأمين العام للمجلس والأمين العام للأمم المتحدة دانا في لقاء هجمات الحوثيين على السعودية]]></description>
             <content:encoded><![CDATA[مجلس التعاون الخليجي: الأمين العام للمجلس والأمين العام للأمم المتحدة دانا في لقاء هجمات الحوثيين على السعودية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم التحالف: نؤكد الحق في اتخاذ ما نراه مناسبا لردع سلوك المليشيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/235860</link>
-            <guid isPermaLink="false">026b9cd627837f860ca0ae0836259f5ba026fde5e60de29c42b46ca6c58e4c62</guid>
-            <pubDate>Sat, 19 Sep 2026 19:44:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم التحالف: نؤكد الحق في اتخاذ ما نراه مناسبا لردع سلوك المليشيا الحوثية بما يوافق القانون الدولي]]></description>
-            <content:encoded><![CDATA[المتحدث باسم التحالف: نؤكد الحق في اتخاذ ما نراه مناسبا لردع سلوك المليشيا الحوثية بما يوافق القانون الدولي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
