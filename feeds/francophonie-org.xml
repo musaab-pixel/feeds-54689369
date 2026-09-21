@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 10:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 20:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -18,6 +18,21 @@
 <span property="schema:dateCreated" content="2026-09-21T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 21/09/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Journée internationale de la bibliodiversité 2026 : Faire vivre la diversité des livres et des idées</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-21T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 21/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Elections législatives à São Tomé-et-Principe : la Secrétaire générale dépêche une Mission électorale de la Francophonie]]></title>
+            <link>https://www.francophonie.org/elections-legislatives-sao-tome-et-principe-la-secretaire-generale-depeche-une-mission-electorale</link>
+            <guid isPermaLink="false">b1a933b3eb566d68db81d92f24ffe79467cd8a1c989b8a0ab18f024443f48e34</guid>
+            <pubDate>Mon, 21 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Elections législatives à São Tomé-et-Principe : la Secrétaire générale dépêche une Mission électorale de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-21T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 21/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Elections législatives à São Tomé-et-Principe : la Secrétaire générale dépêche une Mission électorale de la Francophonie</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-09-21T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 21/09/2026 - 15:43</span>
 ]]></content:encoded>
