@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "9a088bae1b2cdb0b3b0aed8aa81e63ee288c2dfcc893f07c1d586b6d034de42d",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Journée internationale de la bibliodiversité 2026 : Faire vivre la diversité des livres et des idées</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-21T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 21/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/journee-bibliodiversite-2026-8669",
+            "title": "Journée internationale de la bibliodiversité 2026 : Faire vivre la diversité des livres et des idées",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Journée internationale de la bibliodiversité 2026 : Faire vivre la diversité des livres et des idées</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-21T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 21/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-21T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "fec8e932f9640f6a27b48ffbfbbe264d922995b60936321d1ceef78eb8953cc9",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : Journée nationale de l’identité 2026</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-18T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 18/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/madagascar-journee-nationale-de-l-identite-2026-8667",
