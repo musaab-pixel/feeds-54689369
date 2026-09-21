@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 10:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 10:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -48,6 +48,21 @@
 <span property="schema:dateCreated" content="2026-09-18T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 18/09/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Constitution des comités de lecture du Prix des cinq continents</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-18T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 18/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Elections législatives de 2026 au Maroc : l’OIF déploie une Mission électorale]]></title>
+            <link>https://www.francophonie.org/elections-legislatives-de-2026-au-maroc-loif-deploie-une-mission-electorale-8668</link>
+            <guid isPermaLink="false">112234e76e48fd7d093bba381afdf443af2ab401f117567b0cf2a62d576f66c0</guid>
+            <pubDate>Fri, 18 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Elections législatives de 2026 au Maroc : l’OIF déploie une Mission électorale</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-18T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 18/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Elections législatives de 2026 au Maroc : l’OIF déploie une Mission électorale</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-09-18T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 18/09/2026 - 15:43</span>
 ]]></content:encoded>
