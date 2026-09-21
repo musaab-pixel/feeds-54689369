@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "cc3dcafb8c1d5abbd3ea64d2e7fd83735206496cf024d9343ef32d01a0448f09",
+            "content_html": "المنظمة الدولية للهجرة: نحو 130 ألف شخص نزحوا في اليمن في غضون أسابيع مع تصاعد انعدام الأمن",
+            "url": "https://t.me/aljazeeraBrk/236061",
+            "title": "المنظمة الدولية للهجرة: نحو 130 ألف شخص نزحوا في اليمن في غضون أسابيع مع تصاعد…",
+            "summary": "المنظمة الدولية للهجرة: نحو 130 ألف شخص نزحوا في اليمن في غضون أسابيع مع تصاعد انعدام الأمن",
+            "date_modified": "2026-09-21T12:42:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "5702540597059036bb480a71c13fb16b3205925ad8146a95d63c0efce496a41f",
+            "content_html": "الجيش الإسرائيلي: الإنذارات التي أطلقت في منطقة المالكية بالجليل الأعلى كانت نتيجة تشخيص خاطئ",
+            "url": "https://t.me/aljazeeraBrk/236060",
+            "title": "الجيش الإسرائيلي: الإنذارات التي أطلقت في منطقة المالكية بالجليل الأعلى كانت…",
+            "summary": "الجيش الإسرائيلي: الإنذارات التي أطلقت في منطقة المالكية بالجليل الأعلى كانت نتيجة تشخيص خاطئ",
+            "date_modified": "2026-09-21T12:40:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "27e6a4cdd26649be99d97eafb0972dca4e3a3cd6b66001aa52f3657ce768ede4",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrclY1LXcxMEl4QzhBd3ZrQlFQN1V6SDFOVTJ2X19JOExiR2FRZEJnOVV1R1NaM3F4eWJ0aHhqejBXcnNVMk9jRWNDSE94eU1TVS1j?oc=5\" target=\"_blank\">فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrclY1LXcxMEl4QzhBd3ZrQlFQN1V6SDFOVTJ2X19JOExiR2FRZEJnOVV1R1NaM3F4eWJ0aHhqejBXcnNVMk9jRWNDSE94eU1TVS1j?oc=5",
+            "title": "فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر - شبكة تواصل الإخبارية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrclY1LXcxMEl4QzhBd3ZrQlFQN1V6SDFOVTJ2X19JOExiR2FRZEJnOVV1R1NaM3F4eWJ0aHhqejBXcnNVMk9jRWNDSE94eU1TVS1j?oc=5\" target=\"_blank\">فلسطينيو سوريا يرفضون المحاصصة في انتخابات المجلس الوطني ويطالبون بانتخاب مباشر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+            "date_modified": "2026-09-21T12:35:36.000Z",
+            "author": {
+                "name": "شبكة تواصل الإخبارية"
+            }
+        },
+        {
+            "id": "192496c7196830a2386c7cd90884a496d8e27ab7760e4eccc0d4350870dda167",
+            "content_html": "الجبهة الداخلية الإسرائيلية: إطلاق صفارات الإنذار في المالكية بالجليل الأعلى والتفاصيل قيد الفحص",
+            "url": "https://t.me/aljazeeraBrk/236059",
+            "title": "الجبهة الداخلية الإسرائيلية: إطلاق صفارات الإنذار في المالكية بالجليل الأعلى…",
+            "summary": "الجبهة الداخلية الإسرائيلية: إطلاق صفارات الإنذار في المالكية بالجليل الأعلى والتفاصيل قيد الفحص",
+            "date_modified": "2026-09-21T12:35:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "79659b3cb1a5a99ce102d0ddac8afe8ad03a22196bfddcd89e8512c43de70575",
             "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | وزير الخزانة الأمريكي سكوت بيسنت:</b> جميع شركات الطيران الإيرانية ستتوقف عن العمل في أنحاء العالم بدءًا من 23 أيلول<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/140864",
@@ -1580,50 +1624,6 @@
             "date_modified": "2026-09-20T12:52:17.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "39cba8876e2b3256a9a976e155f694997d1775522a2ccbe0be1f2a682474cdf6",
-            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تكلفة إعادة تأهيل محطة معالجة مياه الصرف الصحي في حلب تبلغ 400 مليون دولار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نعمل على تأمين تمويلها بالتعاون مع مؤسسات دولية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140811",
-            "title": "#عاجل | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب: 📌تكلفة إعادة…",
-            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تكلفة إعادة تأهيل محطة معالجة مياه الصرف الصحي في حلب تبلغ 400 مليون دولار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نعمل على تأمين تمويلها بالتعاون مع مؤسسات دولية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-20T12:47:43.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "0c39e1b3123d18a44c80377f8f72e728abf76e1fd9ab1b558acd04ef0107f6c3",
-            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b>  | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ديون شركة الكهرباء لصالح الشركة التي تشتري الغاز وتورده بلغت ‏مليارًا و650 مليون دولار حتى أمس<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ضياعات الشبكة وتراجع الجباية ينعكسان على ‏قدرة شركة الكهرباء على سداد قيمة الغاز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سعر الغاز المحدد بين الشركة السورية للنفط والكهرباء يبلغ 9 دولارات لكل مليون وحدة حرارية ونشتري الغاز بنحو 22 دولاراً لكل مليون وحدة حرارية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ارتفاع أسعار الغاز عالمياً يفرض علينا خفض كميات الشراء بنحو مليوني متر مكعب ما ينعكس على مستوى خدمة الطاقة الكهربائية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140810",
-            "title": "#عاجل | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب: 📌ديون شركة…",
-            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b>  | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ديون شركة الكهرباء لصالح الشركة التي تشتري الغاز وتورده بلغت ‏مليارًا و650 مليون دولار حتى أمس<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ضياعات الشبكة وتراجع الجباية ينعكسان على ‏قدرة شركة الكهرباء على سداد قيمة الغاز<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سعر الغاز المحدد بين الشركة السورية للنفط والكهرباء يبلغ 9 دولارات لكل مليون وحدة حرارية ونشتري الغاز بنحو 22 دولاراً لكل مليون وحدة حرارية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ارتفاع أسعار الغاز عالمياً يفرض علينا خفض كميات الشراء بنحو مليوني متر مكعب ما ينعكس على مستوى خدمة الطاقة الكهربائية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-20T12:40:05.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "60280e9e4878b45009a19efb30203e9ca928a2e6a27e5c77253b4a7df47b04be",
-            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أعدنا تأهيل 8 بالمئة من منظومة نقل الكهرباء بما فيها خطوط الربط ‏الإقليمي مع تركيا والأردن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بدأنا استيراد عدادات ذكية للكهرباء والمياه ما سيخفف من الضياعات في الطاقة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>وقّعنا عقدا مع شركة سعودية لإجراء دراسة وبناء نظام قيادي وتحكم ‏لإدارة الشبكة الكهربائية السورية بطريقة ذكية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تقدر تكلفة نظام القيادة والتحكم للشبكة ‏الكهربائية بنحو 60 مليون دولار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سنبدأ هذا العام بتركيب 300 ألف عداد ذكي في دمشق وإدلب، والتوسع في تركيب العدادات الذكية سيشمل جميع المحافظات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140809",
-            "title": "#عاجل | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب: 📌أعدنا تأهيل…",
-            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | وزير الطاقة محمد البشير خلال جلسة استماع أمام مجلس الشعب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أعدنا تأهيل 8 بالمئة من منظومة نقل الكهرباء بما فيها خطوط الربط ‏الإقليمي مع تركيا والأردن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بدأنا استيراد عدادات ذكية للكهرباء والمياه ما سيخفف من الضياعات في الطاقة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>وقّعنا عقدا مع شركة سعودية لإجراء دراسة وبناء نظام قيادي وتحكم ‏لإدارة الشبكة الكهربائية السورية بطريقة ذكية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تقدر تكلفة نظام القيادة والتحكم للشبكة ‏الكهربائية بنحو 60 مليون دولار<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سنبدأ هذا العام بتركيب 300 ألف عداد ذكي في دمشق وإدلب، والتوسع في تركيب العدادات الذكية سيشمل جميع المحافظات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-20T12:37:21.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "7fd890670dc6b56e4d2cad84795d23d1ebf43c92901f2d789d92cf8f967002fb",
-            "content_html": "مقر خاتم الأنبياء الإيراني: نحذر واشنطن بأن ارتكابها أي خطأ سيجعل مراكزها ومصالحها في المنطقة هدفا لهجماتنا",
-            "url": "https://t.me/aljazeeraBrk/235936",
-            "title": "مقر خاتم الأنبياء الإيراني: نحذر واشنطن بأن ارتكابها أي خطأ سيجعل مراكزها…",
-            "summary": "مقر خاتم الأنبياء الإيراني: نحذر واشنطن بأن ارتكابها أي خطأ سيجعل مراكزها ومصالحها في المنطقة هدفا لهجماتنا",
-            "date_modified": "2026-09-20T12:34:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
