@@ -27,6 +27,17 @@
             }
         },
         {
+            "id": "1b7436d86f902f5f0dacdc2ba7d781c9dc3557cdd6166d1e8cc7868d03338220",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Elections législatives à São Tomé-et-Principe : la Secrétaire générale dépêche une Mission électorale de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-21T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 21/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/elections-legislatives-sao-tome-et-principe-mission-electorale-francophonie-8670",
+            "title": "Elections législatives à São Tomé-et-Principe : la Secrétaire générale dépêche une Mission électorale de la Francophonie",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Elections législatives à São Tomé-et-Principe : la Secrétaire générale dépêche une Mission électorale de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-21T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 21/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-21T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "fec8e932f9640f6a27b48ffbfbbe264d922995b60936321d1ceef78eb8953cc9",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : Journée nationale de l’identité 2026</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-18T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 18/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/madagascar-journee-nationale-de-l-identite-2026-8667",
