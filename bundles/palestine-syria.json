@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "b3805affb3da8bab977b21ff396cad3be14e67509d5f2eb099ac3148ceac48bb",
+            "content_html": "دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي تعز ولحج",
+            "url": "https://t.me/aljazeeraBrk/236103",
+            "title": "دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي…",
+            "summary": "دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي تعز ولحج",
+            "date_modified": "2026-09-21T16:30:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "6f4052af110fda5b8da67e9c9446759ec76c88bdc08a3fb3a6e65a40ecdb09c0",
             "content_html": "إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد جيش باكستان بشأن عملية السلام",
             "url": "https://t.me/aljazeeraBrk/236102",
@@ -1609,17 +1620,6 @@
             "date_modified": "2026-09-21T00:04:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "8e6400137d6b282a42c6bc0dc5df661d287dcd041242681832168ffc255e91c7",
-            "content_html": "مراسلنا: إصابة 4 أشخاص في حصيلة أولية جراء الانفجارات بمحيط منطقة العيس ‏بريف حلب الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/140842",
-            "title": "مراسلنا: إصابة 4 أشخاص في حصيلة أولية جراء الانفجارات بمحيط منطقة العيس ‏بريف…",
-            "summary": "مراسلنا: إصابة 4 أشخاص في حصيلة أولية جراء الانفجارات بمحيط منطقة العيس ‏بريف حلب الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-09-20T23:55:39.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
