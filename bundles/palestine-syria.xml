@@ -4,10 +4,17 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 17:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 17:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجموعة العمل تحذر من تداعيات إغلاق &#8220;مدرسة لوبية&#8221;]]></title>
+            <link>https://actionpal.org.uk/post/999130375</link>
+            <guid isPermaLink="false">5bfcbcc3adc0477fa48da8630abc9a29792020a418454fbb6a195d62d9a208f5</guid>
+            <pubDate>Mon, 21 Sep 2026 17:50:54 GMT</pubDate>
+            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/08/1-3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[مجزرة التضامن حين خرج أمجد يوسف من الحفرة ..وبقي الضحايا في الغياب]]></title>
             <link>https://actionpal.org.uk/post/999134285</link>
@@ -1941,16 +1948,6 @@
             <description><![CDATA[المتحدث باسم الحكومة الأفغانية: مقتل 3 مدنيين وإصابة 3 في غارات باكستانية على ولاية كونر شرقي أفغانستان]]></description>
             <content:encoded><![CDATA[المتحدث باسم الحكومة الأفغانية: مقتل 3 مدنيين وإصابة 3 في غارات باكستانية على ولاية كونر شرقي أفغانستان]]></content:encoded>
             <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[🌤 حالة الطقس في سوريا 21-09-2026 لمتابعة أحدث الأخبار والتطورات في سوريا…]]></title>
-            <link>https://t.me/HalabTodayTV/140847</link>
-            <guid isPermaLink="false">6f2737650219bb22c53b04c489a2bc8f6b9a67ea98c14c178362cf75f45c0b99</guid>
-            <pubDate>Mon, 21 Sep 2026 04:33:06 GMT</pubDate>
-            <description><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CA4.png')"><b>🌤</b></i> حالة الطقس في سوريا 21-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CA4.png')"><b>🌤</b></i> حالة الطقس في سوريا 21-09-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
-            <enclosure url="https://cdn4.telesco.pe/file/Z20vQoxJzgv9W2nSqoDhnfn_VGM3FNTa3HG7ExFUFmakSxrXTu9ElqJr_peXlkKTJw4Scmg5TlyHGK-4XBNft0bZ56uKmzRso3m9_bddq1Nc4TjsozFClGMZeNX4TuCx5jdXSsZHyffvp4xQWDIMBikZ18yq8WsyrPhBaWU9zsCWvclIoIJ44Mi4m9buZgCZ66jucNLemBEze1JuDWJ6UNvS6wqbVQUoTcSvCbr9c-piZIVAWDE1hjwt3cauw4prLatIuToT9NvgKZJZ2WyFNAgtJ7b-7dBbdwz_po0JccNCP7IqXFSBHPFkBC59F3Tp4deaiQyhc37r7k3ZYkTClw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
