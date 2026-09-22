@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"friendsprovidentfoundation.org\" (type: native)",
     "items": [
         {
+            "id": "b06dc432d50769067197dfd9fe08300c7a4910ad43999f6c6ffd213fb74c6f26",
+            "content_html": "<p>The post <a href=\"https://friendsprovidentfoundation.org/meet-our-new-grant-partners/\">Meet our new grant partners</a> appeared first on <a href=\"https://friendsprovidentfoundation.org\">Friends Provident Foundation</a>.</p>\n",
+            "url": "https://friendsprovidentfoundation.org/meet-our-new-grant-partners/",
+            "title": "Meet our new grant partners",
+            "summary": "<p>The post <a href=\"https://friendsprovidentfoundation.org/meet-our-new-grant-partners/\">Meet our new grant partners</a> appeared first on <a href=\"https://friendsprovidentfoundation.org\">Friends Provident Foundation</a>.</p>\n",
+            "date_modified": "2026-09-22T13:35:57.000Z",
+            "author": {
+                "name": "Sarah Heathwood"
+            }
+        },
+        {
             "id": "4f8aa717ad506ba3caedbce64a81b9de7c4cd020e832689073966e59ba3f04eb",
             "content_html": "<p>The post <a href=\"https://friendsprovidentfoundation.org/looking-for-our-next-ceo/\">Looking for our next CEO</a> appeared first on <a href=\"https://friendsprovidentfoundation.org\">Friends Provident Foundation</a>.</p>\n",
             "url": "https://friendsprovidentfoundation.org/looking-for-our-next-ceo/",
