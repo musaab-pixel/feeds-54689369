@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "096c22f76be6850c60249536a719393a50a6297774db700b7f9887aac85567dd",
+            "content_html": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168390",
+            "title": "Displacement on the rise in Yemen as fighting continues",
+            "summary": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/16-09-2026_IOM_Yemen-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-22T12:00:00.000Z"
+        },
+        {
             "id": "cb25f72f214ca6fe2193b0e52533c633381a69d11dd30285762e439a1fdecfa1",
             "content_html": "The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.",
             "url": "https://news.un.org/feed/view/en/story/2026/09/1168387",

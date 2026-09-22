@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 23:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 13:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Displacement on the rise in Yemen as fighting continues]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168390</link>
+            <guid isPermaLink="false">096c22f76be6850c60249536a719393a50a6297774db700b7f9887aac85567dd</guid>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.]]></description>
+            <content:encoded><![CDATA[As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/16-09-2026_IOM_Yemen-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168387</link>
