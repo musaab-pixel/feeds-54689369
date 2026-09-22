@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Tue, 22 Sep 2026 07:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 12:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[KI auf dem Weg in die Klinik]]></title>
+            <link>https://bosch-stiftung.de/news/ki-auf-dem-weg-die-klinik</link>
+            <guid isPermaLink="false">423c69073b14121983d793d08ac71eca71a206b7053dd75b7ceec631d8b0a8ea</guid>
+            <pubDate>Tue, 22 Sep 2026 12:04:32 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">KI auf dem Weg in die Klinik</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-22T14:04:32+02:00" title="Dienstag, 22 September 2026 - 14:04" class="datetime">Di. 22 Sep 2026 - 14:04</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">KI auf dem Weg in die Klinik</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-22T14:04:32+02:00" title="Dienstag, 22 September 2026 - 14:04" class="datetime">Di. 22 Sep 2026 - 14:04</time>
+</span>
+]]></content:encoded>
+            <author>palasthotel</author>
+        </item>
         <item>
             <title><![CDATA[Wer kontrolliert die KI?]]></title>
             <link>https://bosch-stiftung.de/story/wer-kontrolliert-die-ki</link>
