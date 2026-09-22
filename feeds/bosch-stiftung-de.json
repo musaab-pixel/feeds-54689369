@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "967e32fa414055087785a777448780463fdf8a7831ec9229586f683cd366e3c2",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wer kontrolliert die KI? </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-22T08:44:50+02:00\" title=\"Dienstag, 22 September 2026 - 08:44\" class=\"datetime\">Di. 22 Sep 2026 - 08:44</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/wer-kontrolliert-die-ki",
+            "title": "Wer kontrolliert die KI?",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wer kontrolliert die KI? </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-22T08:44:50+02:00\" title=\"Dienstag, 22 September 2026 - 08:44\" class=\"datetime\">Di. 22 Sep 2026 - 08:44</time>\n</span>\n",
+            "date_modified": "2026-09-22T06:44:50.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "38aa131c53ad7f0a4bc07e10b1664a318994d7b1374a68331d6408d5cdc1b65e",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Der Internationale Tag des Krieges und die kühne Kraft des Friedens</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-17T15:48:02+02:00\" title=\"Donnerstag, 17 September 2026 - 15:48\" class=\"datetime\">Do. 17 Sep 2026 - 15:48</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/der-internationale-tag-des-krieges-und-die-kuehne-kraft-des-friedens",

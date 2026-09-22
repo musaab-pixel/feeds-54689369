@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Mon, 21 Sep 2026 10:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 07:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -990,6 +990,23 @@
 <p>Der Eintritt ist kostenlos, wenn nicht anders angegeben. Alle Veranstaltungsräume öffnen eine halbe Stunde vor Beginn. Bitte beachten Sie den jeweiligen Veranstaltungsort.</p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/55948/scholz_ausschnitt.530x371-hidpi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wer kontrolliert die KI?]]></title>
+            <link>https://bosch-stiftung.de/story/wer-kontrolliert-die-ki</link>
+            <guid isPermaLink="false">967e32fa414055087785a777448780463fdf8a7831ec9229586f683cd366e3c2</guid>
+            <pubDate>Tue, 22 Sep 2026 06:44:50 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Wer kontrolliert die KI? </span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-22T08:44:50+02:00" title="Dienstag, 22 September 2026 - 08:44" class="datetime">Di. 22 Sep 2026 - 08:44</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Wer kontrolliert die KI? </span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-22T08:44:50+02:00" title="Dienstag, 22 September 2026 - 08:44" class="datetime">Di. 22 Sep 2026 - 08:44</time>
+</span>
+]]></content:encoded>
+            <author>Claudia Hagen</author>
         </item>
         <item>
             <title><![CDATA[From surveillance to governance: recentering human rights in the UN AI agenda]]></title>
@@ -7415,23 +7432,6 @@ Happy Nowruz </span></button></p>
 <p>Access Now uses Matomo, an open-source, self-hosted analytics platform, to collect anonymous information such as the number of visitors to the site, what people's journey across our website looks like, and the most popular pages. The data collected is stored on our own, secure servers and never shared with third parties.</p>
 <p>Learn more about our <a href="https://www.accessnow.org/data-usage-policy/" target="_blank">data usage policy</a>.</p>]]></content:encoded>
             <enclosure url="https://www.accessnow.org/wp-content/uploads/2024/05/KeepItOn-2023-report-post-header-336x168.jpg.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[Werkstudent für das Thema Demokratie (w/m/div.)]]></title>
-            <link>https://bosch-stiftung.de/karriere/werkstudent-fuer-das-thema-demokratie-wmdiv</link>
-            <guid isPermaLink="false">00b2cb33daa30a0497c03f501d00f0d3f33bd56fd20870836114da99eadff683</guid>
-            <pubDate>Tue, 04 Aug 2026 13:47:08 GMT</pubDate>
-            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Werkstudent für das Thema Demokratie (w/m/div.)</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-04T15:47:08+02:00" title="Dienstag, 4 August 2026 - 15:47" class="datetime">Di. 4 Aug 2026 - 15:47</time>
-</span>
-]]></description>
-            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Werkstudent für das Thema Demokratie (w/m/div.)</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-08-04T15:47:08+02:00" title="Dienstag, 4 August 2026 - 15:47" class="datetime">Di. 4 Aug 2026 - 15:47</time>
-</span>
-]]></content:encoded>
-            <author>Regina Mennig</author>
         </item>
     </channel>
 </rss>
