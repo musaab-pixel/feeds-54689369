@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 22 Sep 2026 12:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 16:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -12,6 +12,21 @@
             <title><![CDATA[Djibouti : tournée littéraire d'Alexandre Lenot]]></title>
             <link>https://www.francophonie.org/djibouti-tournee-litteraire-dalexandre-lenot-8671</link>
             <guid isPermaLink="false">4476ed9fecb53ce61ea692d115a98bdca278ed7feff419b21b0cc968095ca769</guid>
+            <pubDate>Tue, 22 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Djibouti : tournée littéraire d'Alexandre Lenot </span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-22T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 22/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Djibouti : tournée littéraire d'Alexandre Lenot </span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-22T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 22/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Djibouti : tournée littéraire d'Alexandre Lenot]]></title>
+            <link>https://www.francophonie.org/djibouti-tournee-litteraire-d-alexandre-lenot-8671</link>
+            <guid isPermaLink="false">9968ad138ee21b3a1b1bbee0d131508ba5e5dbaa15a7f6edb819e60568e36f99</guid>
             <pubDate>Tue, 22 Sep 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Djibouti : tournée littéraire d'Alexandre Lenot </span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
