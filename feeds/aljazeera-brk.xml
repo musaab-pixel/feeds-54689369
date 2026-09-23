@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 07:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 07:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس…]]></title>
+            <link>https://t.me/aljazeeraBrk/236466</link>
+            <guid isPermaLink="false">8a594930f602946002dad1c89a69663f8c576fbbabd96eaeebac4952b1ae8d85</guid>
+            <pubDate>Wed, 23 Sep 2026 07:13:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان…]]></title>
             <link>https://t.me/aljazeeraBrk/236465</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 14:51:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: نناشد الأمم المتحدة برفع الحصار عن البلدة]]></description>
             <content:encoded><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: نناشد الأمم المتحدة برفع الحصار عن البلدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي ينفذ عملية نسف داخل مناطق سيطرته جنوبي…]]></title>
-            <link>https://t.me/aljazeeraBrk/236088</link>
-            <guid isPermaLink="false">c3928d1d4879016383a22e2583979f3b08d2582a844ec9b88421bba4fe2bc877</guid>
-            <pubDate>Mon, 21 Sep 2026 14:47:03 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي ينفذ عملية نسف داخل مناطق سيطرته جنوبي مدينة خان يونس في جنوب قطاع غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: جيش الاحتلال الإسرائيلي ينفذ عملية نسف داخل مناطق سيطرته جنوبي مدينة خان يونس في جنوب قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
