@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 09:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 10:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عمدة كييف: قتيلان و22 مصابا في هجمات روسية على العاصمة]]></title>
+            <link>https://t.me/aljazeeraBrk/236481</link>
+            <guid isPermaLink="false">2615cd53512a0ea611aea1db83a5214bb056db4a6a5b64d97aa4da834de75cf4</guid>
+            <pubDate>Wed, 23 Sep 2026 10:14:02 GMT</pubDate>
+            <description><![CDATA[عمدة كييف: قتيلان و22 مصابا في هجمات روسية على العاصمة]]></description>
+            <content:encoded><![CDATA[عمدة كييف: قتيلان و22 مصابا في هجمات روسية على العاصمة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة الطوارئ الأوكرانية: قتيل ومصابان في هجمات روسية جديدة على كييف]]></title>
             <link>https://t.me/aljazeeraBrk/236480</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 16:42:02 GMT</pubDate>
             <description><![CDATA[أسعار النفط تتراجع بأكثر من ٤٪؜ وبرنت دون الـ١٠٠ دولار للبرميل]]></description>
             <content:encoded><![CDATA[أسعار النفط تتراجع بأكثر من ٤٪؜ وبرنت دون الـ١٠٠ دولار للبرميل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي…]]></title>
-            <link>https://t.me/aljazeeraBrk/236103</link>
-            <guid isPermaLink="false">b3805affb3da8bab977b21ff396cad3be14e67509d5f2eb099ac3148ceac48bb</guid>
-            <pubDate>Mon, 21 Sep 2026 16:30:02 GMT</pubDate>
-            <description><![CDATA[دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي تعز ولحج]]></description>
-            <content:encoded><![CDATA[دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي تعز ولحج]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
