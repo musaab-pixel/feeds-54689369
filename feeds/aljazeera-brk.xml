@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 07:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 07:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس…]]></title>
+            <link>https://t.me/aljazeeraBrk/236467</link>
+            <guid isPermaLink="false">95d74d00ef2751fba3f73cfc8e8e76c24981423941824684fa95c12c9b656c48</guid>
+            <pubDate>Wed, 23 Sep 2026 07:26:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس…]]></title>
             <link>https://t.me/aljazeeraBrk/236466</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 14:52:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: مع استمرار الحصار نحن بحاجة إلى أدوية وحليب الأطفال]]></description>
             <content:encoded><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: مع استمرار الحصار نحن بحاجة إلى أدوية وحليب الأطفال]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: نناشد الأمم المتحدة برفع الحصار عن البلدة]]></title>
-            <link>https://t.me/aljazeeraBrk/236089</link>
-            <guid isPermaLink="false">4ba606269e35302e2a59531482a2fad6048b0145ae69dd6cd897bc2c23da60ca</guid>
-            <pubDate>Mon, 21 Sep 2026 14:51:02 GMT</pubDate>
-            <description><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: نناشد الأمم المتحدة برفع الحصار عن البلدة]]></description>
-            <content:encoded><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: نناشد الأمم المتحدة برفع الحصار عن البلدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
