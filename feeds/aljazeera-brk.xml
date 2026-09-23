@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 07:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 08:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: استشهاد امرأة متأثرة بإصابتها برصاص قوات الاحتلال في مخيم…]]></title>
+            <link>https://t.me/aljazeeraBrk/236470</link>
+            <guid isPermaLink="false">2375d4dda88a85dd9f294942d5f7318c6e1429b75d77441b6742f1dac41ccafe</guid>
+            <pubDate>Wed, 23 Sep 2026 07:51:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: استشهاد امرأة متأثرة بإصابتها برصاص قوات الاحتلال في مخيم البريج وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: استشهاد امرأة متأثرة بإصابتها برصاص قوات الاحتلال في مخيم البريج وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أ ف ب عن مصادر أمنية: المتمردون في تيغراي شمالي إثيوبيا يسيطرون على مطار عاصمة…]]></title>
             <link>https://t.me/aljazeeraBrk/236469</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 15:06:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي يعتقل راعيا بعد توغله قرب قرية الحانوت بريف القنيطرة جنوبي سوريا]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي يعتقل راعيا بعد توغله قرب قرية الحانوت بريف القنيطرة جنوبي سوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[فانس: عندما تحركنا لضمان عدم امتلاك إيران أسلحة نووية ردت طهران باستهداف…]]></title>
-            <link>https://t.me/aljazeeraBrk/236092</link>
-            <guid isPermaLink="false">f49e17e5fb24f2dbf7245893340b8296b5dfdc1970261411fcadb3d77f8d466e</guid>
-            <pubDate>Mon, 21 Sep 2026 15:00:02 GMT</pubDate>
-            <description><![CDATA[فانس: عندما تحركنا لضمان عدم امتلاك إيران أسلحة نووية ردت طهران باستهداف الملاحة الدولية]]></description>
-            <content:encoded><![CDATA[فانس: عندما تحركنا لضمان عدم امتلاك إيران أسلحة نووية ردت طهران باستهداف الملاحة الدولية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
