@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 07:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 07:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ ف ب عن مصادر أمنية: المتمردون في تيغراي شمالي إثيوبيا يسيطرون على مطار عاصمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/236469</link>
+            <guid isPermaLink="false">a985eca2797aae9751c1bfedf08cd553b66501120f2aaa483a0a8e3ef8ad6499</guid>
+            <pubDate>Wed, 23 Sep 2026 07:48:02 GMT</pubDate>
+            <description><![CDATA[أ ف ب عن مصادر أمنية: المتمردون في تيغراي شمالي إثيوبيا يسيطرون على مطار عاصمة الإقليم]]></description>
+            <content:encoded><![CDATA[أ ف ب عن مصادر أمنية: المتمردون في تيغراي شمالي إثيوبيا يسيطرون على مطار عاصمة الإقليم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة كييف: قتيل و7 مصابين في هجمات روسية متواصلة بالمسيرات على المدينة]]></title>
             <link>https://t.me/aljazeeraBrk/236468</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 15:00:02 GMT</pubDate>
             <description><![CDATA[فانس: عندما تحركنا لضمان عدم امتلاك إيران أسلحة نووية ردت طهران باستهداف الملاحة الدولية]]></description>
             <content:encoded><![CDATA[فانس: عندما تحركنا لضمان عدم امتلاك إيران أسلحة نووية ردت طهران باستهداف الملاحة الدولية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[فانس: نواصل رصد تدفق كميات كبيرة من النفط والغاز عبر مضيق هرمز رغم استمرار…]]></title>
-            <link>https://t.me/aljazeeraBrk/236091</link>
-            <guid isPermaLink="false">137448000cbbe66b82edb686a1c512a7cb5133a22cf26a291895a3b5b91e970e</guid>
-            <pubDate>Mon, 21 Sep 2026 14:59:02 GMT</pubDate>
-            <description><![CDATA[فانس: نواصل رصد تدفق كميات كبيرة من النفط والغاز عبر مضيق هرمز رغم استمرار هجمات إيران على السفن بشكل يومي]]></description>
-            <content:encoded><![CDATA[فانس: نواصل رصد تدفق كميات كبيرة من النفط والغاز عبر مضيق هرمز رغم استمرار هجمات إيران على السفن بشكل يومي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
