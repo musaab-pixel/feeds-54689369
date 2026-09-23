@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 07:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 07:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عمدة كييف: قتيل و7 مصابين في هجمات روسية متواصلة بالمسيرات على المدينة]]></title>
+            <link>https://t.me/aljazeeraBrk/236468</link>
+            <guid isPermaLink="false">6d4e63188a2ce3f5fac2ca7d5f1da2bc0b4d17cbf29801849cdecd01c3815bda</guid>
+            <pubDate>Wed, 23 Sep 2026 07:35:02 GMT</pubDate>
+            <description><![CDATA[عمدة كييف: قتيل و7 مصابين في هجمات روسية متواصلة بالمسيرات على المدينة]]></description>
+            <content:encoded><![CDATA[عمدة كييف: قتيل و7 مصابين في هجمات روسية متواصلة بالمسيرات على المدينة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في غارة إسرائيلية استهدفت مركبة بمواصي خان يونس…]]></title>
             <link>https://t.me/aljazeeraBrk/236467</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 14:59:02 GMT</pubDate>
             <description><![CDATA[فانس: نواصل رصد تدفق كميات كبيرة من النفط والغاز عبر مضيق هرمز رغم استمرار هجمات إيران على السفن بشكل يومي]]></description>
             <content:encoded><![CDATA[فانس: نواصل رصد تدفق كميات كبيرة من النفط والغاز عبر مضيق هرمز رغم استمرار هجمات إيران على السفن بشكل يومي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: مع استمرار الحصار نحن بحاجة إلى أدوية…]]></title>
-            <link>https://t.me/aljazeeraBrk/236090</link>
-            <guid isPermaLink="false">89547f76ec02aef7a3f0c2f0150b6cd0c14170b59b7315bdb6fee0a40e056cc3</guid>
-            <pubDate>Mon, 21 Sep 2026 14:52:02 GMT</pubDate>
-            <description><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: مع استمرار الحصار نحن بحاجة إلى أدوية وحليب الأطفال]]></description>
-            <content:encoded><![CDATA[رئيس بلدية بدو شمال غرب القدس للجزيرة: مع استمرار الحصار نحن بحاجة إلى أدوية وحليب الأطفال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
