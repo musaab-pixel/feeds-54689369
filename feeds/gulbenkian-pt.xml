@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 14 Sep 2026 21:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 11:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1641,6 +1641,75 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conferência A nova edição do livro Estudos de História da Cultura Clássica — Vol. II: Cultura Romana, é lançada nesta sessão, dedicada à autora Maria Helena da Rocha Pereira. 30 set 2026 / 17:50]]></title>
+            <link>https://gulbenkian.pt/agenda/a-nova-edicao-do-livro-estudos-de-historia-da-cultura-classica-vol-ii-cultura-romana-e-lancada-nesta-sessao-dedicada-a-autora-maria-helena-da-rocha-pereira/</link>
+            <guid isPermaLink="false">6025419e387f81b852005717b7946c3268cfa654bd4b6a9fbcc88b1ca9d1acd5</guid>
+            <pubDate>Wed, 23 Sep 2026 11:49:57 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:50							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:50							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 17:50								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>Publicado pela primeira vez no âmbito da coleção de Textos Universitários, em 1982, o volume <em>Cultura Romana</em>, a par do volume <em>Cultura Grega</em>, integra os <em>Estudos de História da Cultura Clássica</em>, que constitui um clássico fundamental da historiografia europeia da Antiguidade.</p>
+<p>Nesta sessão, Delfim Leão (Universidade de Coimbra), Guilherme d’Oliveira Martins e Miguel Magalhães (Fundação Calouste Gulbenkian) apresentam a mais recente edição do livro, agora integrada na coleção Textos Clássicos.&nbsp;</p>
+<p>A apresentação do livro integra-se no <a href="https://www.uc.pt/cech/os-classicos-mhrp/" target="_blank" rel="noopener">colóquio de encerramento do ano do Centenário do Nascimento de Maria Helena da Rocha Pereira</a> (1925–2017), organizado pelo Centro de Estudos Clássicos e Humanísticos da Faculdade de Letras da Universidade de Coimbra. O programa inclui conferências de Vincenzo Baldoni (Università di Bologna), Rui Morais (Faculdade de Letras da Universidade do Porto), William Allan (University College, Oxford University) e Carmen Soares (Faculdade de Letras da Universidade de Coimbra).&nbsp;</p>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								17:50							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								17:50							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									quarta, 17:50								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>Publicado pela primeira vez no âmbito da coleção de Textos Universitários, em 1982, o volume <em>Cultura Romana</em>, a par do volume <em>Cultura Grega</em>, integra os <em>Estudos de História da Cultura Clássica</em>, que constitui um clássico fundamental da historiografia europeia da Antiguidade.</p>
+<p>Nesta sessão, Delfim Leão (Universidade de Coimbra), Guilherme d’Oliveira Martins e Miguel Magalhães (Fundação Calouste Gulbenkian) apresentam a mais recente edição do livro, agora integrada na coleção Textos Clássicos.&nbsp;</p>
+<p>A apresentação do livro integra-se no <a href="https://www.uc.pt/cech/os-classicos-mhrp/" target="_blank" rel="noopener">colóquio de encerramento do ano do Centenário do Nascimento de Maria Helena da Rocha Pereira</a> (1925–2017), organizado pelo Centro de Estudos Clássicos e Humanísticos da Faculdade de Letras da Universidade de Coimbra. O programa inclui conferências de Vincenzo Baldoni (Università di Bologna), Rui Morais (Faculdade de Letras da Universidade do Porto), William Allan (University College, Oxford University) e Carmen Soares (Faculdade de Letras da Universidade de Coimbra).&nbsp;</p>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/09/cultura-1_Page_1-copy-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Concerto Festival Jovens Músicos 2026 17 set 2026 / 18:00]]></title>
