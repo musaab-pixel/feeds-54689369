@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 09:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 09:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: قتيل ومصابان في هجمات روسية جديدة على كييف]]></title>
+            <link>https://t.me/aljazeeraBrk/236480</link>
+            <guid isPermaLink="false">2760c63646aad59cf84f8012fa84f0f914e551648baa5bc4ba156c705719ef2e</guid>
+            <pubDate>Wed, 23 Sep 2026 09:48:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: قتيل ومصابان في هجمات روسية جديدة على كييف]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: قتيل ومصابان في هجمات روسية جديدة على كييف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الكرملين: روسيا تحافظ على اتصالاتها مع سوريا وراضية عن مسار تطورها]]></title>
             <link>https://t.me/aljazeeraBrk/236479</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 16:30:02 GMT</pubDate>
             <description><![CDATA[دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي تعز ولحج]]></description>
             <content:encoded><![CDATA[دوجاريك: نزوح أكثر من 21 ألف أسرة في اليمن منذ الأول من أغسطس معظمها من محافظتي تعز ولحج]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد…]]></title>
-            <link>https://t.me/aljazeeraBrk/236102</link>
-            <guid isPermaLink="false">6f4052af110fda5b8da67e9c9446759ec76c88bdc08a3fb3a6e65a40ecdb09c0</guid>
-            <pubDate>Mon, 21 Sep 2026 16:25:02 GMT</pubDate>
-            <description><![CDATA[إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد جيش باكستان بشأن عملية السلام]]></description>
-            <content:encoded><![CDATA[إيسنا عن وزير الداخلية الباكستاني: بحثت مع نظيري الإيراني جهود رئيس وزراء وقائد جيش باكستان بشأن عملية السلام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
