@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 11:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 11:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح…]]></title>
+            <link>https://t.me/aljazeeraBrk/236484</link>
+            <guid isPermaLink="false">2c02bc620b543ec0162bb801d70653a6875feefa6902cd7fbc88d56a28038851</guid>
+            <pubDate>Wed, 23 Sep 2026 11:03:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مستشفى شهداء الأقصى: مصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح وسط…]]></title>
             <link>https://t.me/aljazeeraBrk/236483</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 16:50:02 GMT</pubDate>
             <description><![CDATA[دوجاريك: أي انخراط متجدد بين الأطراف ولا سيما واشنطن وطهران يساعد في إنهاء النزاع الذي يتسبب بمعاناة كثيرين]]></description>
             <content:encoded><![CDATA[دوجاريك: أي انخراط متجدد بين الأطراف ولا سيما واشنطن وطهران يساعد في إنهاء النزاع الذي يتسبب بمعاناة كثيرين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[دوجاريك: أي تصعيد إضافي في اليمن ستكون له تداعيات متزايدة على المستويين…]]></title>
-            <link>https://t.me/aljazeeraBrk/236106</link>
-            <guid isPermaLink="false">aac579ca799692ebf46c892e7db2f65c00c6680b8d92f14b85c6f4eb3ac319b6</guid>
-            <pubDate>Mon, 21 Sep 2026 16:49:03 GMT</pubDate>
-            <description><![CDATA[دوجاريك: أي تصعيد إضافي في اليمن ستكون له تداعيات متزايدة على المستويين الإقليمي والعالمي]]></description>
-            <content:encoded><![CDATA[دوجاريك: أي تصعيد إضافي في اليمن ستكون له تداعيات متزايدة على المستويين الإقليمي والعالمي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
