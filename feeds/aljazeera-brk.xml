@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 08:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 08:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 4 شهداء بنيران قوات الاحتلال الإسرائيلي وسط وجنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/236471</link>
+            <guid isPermaLink="false">170befd89e3e78071a9f71cce7cc10b0d5a1a98d0830f4b2509c34cc7f3088da</guid>
+            <pubDate>Wed, 23 Sep 2026 08:10:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 4 شهداء بنيران قوات الاحتلال الإسرائيلي وسط وجنوبي القطاع منذ صباح اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 4 شهداء بنيران قوات الاحتلال الإسرائيلي وسط وجنوبي القطاع منذ صباح اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مستشفى شهداء الأقصى: استشهاد امرأة متأثرة بإصابتها برصاص قوات الاحتلال في مخيم…]]></title>
             <link>https://t.me/aljazeeraBrk/236470</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 15:09:02 GMT</pubDate>
             <description><![CDATA[مصدر في مستشفى الشفاء: استشهاد امرأة بنيران مسيرة إسرائيلية في حي التفاح بمدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في مستشفى الشفاء: استشهاد امرأة بنيران مسيرة إسرائيلية في حي التفاح بمدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي يعتقل راعيا بعد توغله قرب قرية الحانوت بريف…]]></title>
-            <link>https://t.me/aljazeeraBrk/236093</link>
-            <guid isPermaLink="false">6e7779874cc53afc1c2035f21d5084f9e1aca39d9b5782377856ec6aa09928c9</guid>
-            <pubDate>Mon, 21 Sep 2026 15:06:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي يعتقل راعيا بعد توغله قرب قرية الحانوت بريف القنيطرة جنوبي سوريا]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: الاحتلال الإسرائيلي يعتقل راعيا بعد توغله قرب قرية الحانوت بريف القنيطرة جنوبي سوريا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
