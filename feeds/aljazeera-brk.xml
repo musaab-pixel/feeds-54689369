@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 08:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 09:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الصحافة الفرنسية: هبوط طائرة تجارية إيرانية في الصين رغم التهديدات…]]></title>
+            <link>https://t.me/aljazeeraBrk/236472</link>
+            <guid isPermaLink="false">621d611da4210bae117b81ce541e32487667b9241fece48739fb51e041b90acc</guid>
+            <pubDate>Wed, 23 Sep 2026 08:50:02 GMT</pubDate>
+            <description><![CDATA[وكالة الصحافة الفرنسية: هبوط طائرة تجارية إيرانية في الصين رغم التهديدات الأمريكية بفرض عقوبات]]></description>
+            <content:encoded><![CDATA[وكالة الصحافة الفرنسية: هبوط طائرة تجارية إيرانية في الصين رغم التهديدات الأمريكية بفرض عقوبات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر في مستشفيات غزة: 4 شهداء بنيران قوات الاحتلال الإسرائيلي وسط وجنوبي…]]></title>
             <link>https://t.me/aljazeeraBrk/236471</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 15:11:02 GMT</pubDate>
             <description><![CDATA[نائب الرئيس الأمريكي: استهداف إيران الملاحة الدولية أدى إلى ارتفاع أسعار الطاقة ونبذل ما في وسعنا لخفضها]]></description>
             <content:encoded><![CDATA[نائب الرئيس الأمريكي: استهداف إيران الملاحة الدولية أدى إلى ارتفاع أسعار الطاقة ونبذل ما في وسعنا لخفضها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في مستشفى الشفاء: استشهاد امرأة بنيران مسيرة إسرائيلية في حي التفاح بمدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/236094</link>
-            <guid isPermaLink="false">b625d8a38b742f5b5b868fb890f427ad5f863dcebd1ab6caa1bb988b4a05adf7</guid>
-            <pubDate>Mon, 21 Sep 2026 15:09:02 GMT</pubDate>
-            <description><![CDATA[مصدر في مستشفى الشفاء: استشهاد امرأة بنيران مسيرة إسرائيلية في حي التفاح بمدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في مستشفى الشفاء: استشهاد امرأة بنيران مسيرة إسرائيلية في حي التفاح بمدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
