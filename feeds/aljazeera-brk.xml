@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 12:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 12:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: إصابة مسنة برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها…]]></title>
+            <link>https://t.me/aljazeeraBrk/236492</link>
+            <guid isPermaLink="false">1ec02486d381a2e8231ef6c8bbfdff096ec9d596ea989e5db9eb6844cdd1563c</guid>
+            <pubDate>Wed, 23 Sep 2026 12:20:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: إصابة مسنة برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها غربي مدينة خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: إصابة مسنة برصاص قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها غربي مدينة خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: مصابان في سفينة الشحن المستهدفة بهرمز…]]></title>
             <link>https://t.me/aljazeeraBrk/236491</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 19:08:02 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: أحبطنا محاولة تسلل لجماعة الحوثي في جبهة العنين بمديرية جبل حبشي غربي تعز]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: أحبطنا محاولة تسلل لجماعة الحوثي في جبهة العنين بمديرية جبل حبشي غربي تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الخارجية القطرية: نحن بحاجة إلى حل دبلوماسي مستدام يحقق الضمانات…]]></title>
-            <link>https://t.me/aljazeeraBrk/236114</link>
-            <guid isPermaLink="false">61260284d91c22d290ec09ba958e1b4beb10c272964e234e763bf14dd2b2e038</guid>
-            <pubDate>Mon, 21 Sep 2026 18:46:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الخارجية القطرية: نحن بحاجة إلى حل دبلوماسي مستدام يحقق الضمانات الأمنية لكل دول المنطقة]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الخارجية القطرية: نحن بحاجة إلى حل دبلوماسي مستدام يحقق الضمانات الأمنية لكل دول المنطقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
