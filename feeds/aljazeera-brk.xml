@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 09:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الصحافة الفرنسية: اشتباكات بين القوات الإثيوبية ومقاتلي جبهة تحرير تيغراي…]]></title>
+            <link>https://t.me/aljazeeraBrk/236475</link>
+            <guid isPermaLink="false">0b44f74f06ae880e7a529a0b68287b7a3499f09bb8b74da53ad7151535587540</guid>
+            <pubDate>Wed, 23 Sep 2026 09:19:01 GMT</pubDate>
+            <description><![CDATA[وكالة الصحافة الفرنسية: اشتباكات بين القوات الإثيوبية ومقاتلي جبهة تحرير تيغراي في إقليم عفر]]></description>
+            <content:encoded><![CDATA[وكالة الصحافة الفرنسية: اشتباكات بين القوات الإثيوبية ومقاتلي جبهة تحرير تيغراي في إقليم عفر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان مشترك لنتنياهو وكاتس: الجيش الإسرائيلي قضى قبل قليل في خان يونس على رئيس…]]></title>
             <link>https://t.me/aljazeeraBrk/236474</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 21 Sep 2026 15:46:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء اللبناني: ملتزمون ببسط سلطة الدولة وحصر السلاح بيدها ومواصلة الإصلاحات]]></description>
             <content:encoded><![CDATA[رئيس الوزراء اللبناني: ملتزمون ببسط سلطة الدولة وحصر السلاح بيدها ومواصلة الإصلاحات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القيادة المركزية الأمريكية: غيرنا حتى ٢١ سبتمبر الجاري مسار 110 سفن تجارية…]]></title>
-            <link>https://t.me/aljazeeraBrk/236097</link>
-            <guid isPermaLink="false">26473df950081fe3355be333c96aad6f05d6aaaa47cd444ffbdfd480fdf30efe</guid>
-            <pubDate>Mon, 21 Sep 2026 15:34:02 GMT</pubDate>
-            <description><![CDATA[القيادة المركزية الأمريكية: غيرنا حتى ٢١ سبتمبر الجاري مسار 110 سفن تجارية لضمان الامتثال للحصار على إيران]]></description>
-            <content:encoded><![CDATA[القيادة المركزية الأمريكية: غيرنا حتى ٢١ سبتمبر الجاري مسار 110 سفن تجارية لضمان الامتثال للحصار على إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
