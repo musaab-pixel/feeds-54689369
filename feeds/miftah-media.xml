@@ -4,10 +4,675 @@
         <title>Miftah Media</title>
         <link>https://miftah.media/feed/</link>
         <description>RSS Factory feed "Miftah Media" (type: native)</description>
-        <lastBuildDate>Tue, 22 Sep 2026 14:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 12:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حسان حسان: «أبو السكن» يرى المدينة من أسطح المخيم]]></title>
+            <link>https://miftah.media/%d8%ad%d8%b3%d8%a7%d9%86-%d8%ad%d8%b3%d8%a7%d9%86-%d8%a3%d8%a8%d9%88-%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/</link>
+            <guid isPermaLink="false">2ede336a4409af2682a4057b45c2337c2dd7948f1658d7caebe016b470923734</guid>
+            <pubDate>Thu, 24 Sep 2026 12:35:56 GMT</pubDate>
+            <description><![CDATA[
+<style>
+.art-body .abody-p.lead-para{font-size:1.16em;line-height:1.7;color:var(--ink);}
+.art-body .abody-cap{font-family:var(--f-display);font-size:.82rem;color:var(--ink-3);margin-top:8px;}
+.art-body .mf-vplay{display:block;color:inherit;text-decoration:none;position:relative;}
+.art-body .mf-vplay:hover{color:inherit;text-decoration:none;}
+</style>
+<script>
+(function(){
+  var A = String.fromCharCode(38);
+  var Q = "?autoplay=1" + A + "rel=0" + A + "modestbranding=1";
+  document.addEventListener("click", function(e){
+    var t = e.target;
+    if (!t) return;
+    if (!t.closest) return;
+    var b = t.closest(".mf-vplay");
+    if (!b) return;
+    var w = b.parentNode;
+    if (!w) return;
+    e.preventDefault();
+    var list = b.getAttribute("data-list");
+    var src;
+    if (list) src = "https://www.youtube-nocookie.com/embed/videoseries?list=" + list + A + "autoplay=1" + A + "rel=0" + A + "modestbranding=1";
+    else src = "https://www.youtube-nocookie.com/embed/" + b.getAttribute("data-yt") + Q;
+    var f = document.createElement("iframe");
+    f.setAttribute("src", src);
+    f.setAttribute("title", b.getAttribute("data-title") || "");
+    f.setAttribute("allow", "accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture");
+    f.setAttribute("allowfullscreen", "true");
+    f.setAttribute("style", "display:block;width:100%;aspect-ratio:16/9;border:0");
+    w.innerHTML = "";
+    w.appendChild(f);
+  });
+})();
+</script>
+
+
+
+<p class="abody-p lead-para wp-block-paragraph">يركض حسان حسان، سنة 2013، بين شوارع مخيم اليرموك. لا يتجه إلى ملجأ، ولا يهرب من شيء يظهر في الصورة، إنما يحاول الوصول إلى المكان الوحيد تقريباً الذي بقيت فيه إشارة للهاتف المحمول، «تغطية»، إلى جانب جامع الوسيم. من حركته وطريقة ركضه، نعرف أنه اجتاز شوارع مقنوصة، حتى وصل إلى باب المسجد. يتصل بصديق غادر المخيم. يخبره حسان، بسخرية مريرة، عن الجانبين الحربي والمعيشي في المخيم: الاشتباكات، والقصف، والقنص، لكن «خلصوا المفخخات». يتحدثان سريعاً عن الأصدقاء الذين تفرقوا، ثم يقول حسان: «العمر إلك. تعيش إنت».</p>
+
+
+
+<p class="abody-p wp-block-paragraph">للحظة، ينسى حسان القناص وصوت القذائف، ويجلس بجوار عمود كهرباء، قبل أن ينتهي الفيلم بـ«إهداء إلى روح الشهيد أحمد كوسى»، الذي استشهد في الفترة نفسها.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">هكذا نرى حسان حسان في <a href="https://youtu.be/-cY3yrrtVEo" target="_blank" rel="noopener">فيلم «تغطية»</a>، أحد الأعمال التي أنجزها <a href="https://youtube.com/playlist?list=PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" target="_blank" rel="noopener">«التجمع الفلسطيني للإبداع – رد فعل»</a>، ومثّله حسان وأخرجه حسن الطنجي.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا تتجاوز فكرة الفيلم القصير، في ظاهرها، انقطاع شبكة الهاتف، لكن الاسم يحمل أكثر من معنى في وقت واحد: تغطية الاتصال التي يبحث عنها سكان المخيم، والمساحة التي تغطيها عين القناص وبندقيته، والتغطية الإنسانية التي كان أهل المخيم في حاجة إليها. يصبح الوصول إلى العالم الخارجي، كما نرى مع حسان، فعلاً لا ينفصل عن احتمال الموت.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">حسان لا يمثل. إنه يؤدي المشهد داخل شروطه الحقيقية: الاتصال مقطوع، والقناص حاضر، والقصف مسموع، والأشخاص الذين يتحدث عنهم تفرقوا أو نزحوا أو استشهدوا. مع ذلك، لا يقوم الفيلم على خطاب مأساوي مباشر بقدر ما يقف على مفارقة ساخرة تجعل التفاصيل اليومية مدخلاً إلى فهم العنف.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">في هذه المسافة بين الخوف والسخرية تتشكل تجربة حسان حسان: فنان بدأ من خشبة صغيرة في مخيم اليرموك، ثم اضطر إلى إعادة تعريف المسرح حين دخلت الثورة والحرب إلى المكان. لم يغادر المسرح عندما حمل الكاميرا؛ لقد حمل عناصره معه، وحاول أن يجد لها مكاناً جديداً في الشارع، وعلى الإنترنت، وتحت الحصار.</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtu.be/-cY3yrrtVEo" target="_blank" rel="noopener" data-yt="-cY3yrrtVEo" data-title="تغطية" style="display:block;width:100%"><div class="ph photo scrim" style="aspect-ratio:16/9"><i style="background-image:url(https://i.ytimg.com/vi/-cY3yrrtVEo/maxresdefault.jpg)"></i></div>
+                <span class="vembed-play">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap">شاهد «تغطية»</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">«تغطية» — تمثيل حسان حسان، إخراج حسن الطنجي، من إنتاج «التجمع الفلسطيني للإبداع – رد فعل».</figcaption>
+</figure>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">الاستيلاء على معنى الموت</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">وُلد حسان حسان عام 1987 في مخيم اليرموك، وعمل في المسرح والأفلام القصيرة، وكان من أبرز وجوه الإنتاج الفني الذي خرج من المخيم خلال السنوات الأولى للثورة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">نقرأ التفاصيل الأوسع عن بداية حسان المسرحية من شهادة الكاتب والمخرج الفلسطيني <a href="https://rommanmag.com/archives/author/17rommanmag-com" target="_blank" rel="noopener">متولي أبو ناصر</a>، الذي عرف حسان مراهقاً، ودرّسه الفلسفة في المرحلة الثانوية. يروي أبو ناصر أن حسان قدّم نفسه منذ لقائهما الأول شاباً يحب ثلاثة أشياء: «أنا بحب التمثيل، وبحب خشبة المسرح، وبحب فلسطين».</p>
+
+
+
+<p class="abody-p wp-block-paragraph">بعد حصوله على الشهادة الثانوية، تقدم حسان إلى المعهد العالي للفنون المسرحية في دمشق، لكنه لم يُقبل، ثم أعاد المحاولة ورُفض مرة ثانية بحجة أنه «موهوب ولا يحتاج إلى دراسة التمثيل». لكن لم يكن هذا الرفض نهاية علاقته بالمسرح. إذ أسس مع أبو ناصر فرقة حملت اسم «أبناء الشمس»، وكان عرضها الأول مسرحية «سبع دقائق تكفي» (من تأليف وإخراج ناصر أبو متولي). قُدمت المسرحية ثلاثة أيام على مسرح الخالصة في اليرموك، قبل أن تشارك الفرقة لاحقاً بمسرحية «ليش» على مسرح اليونسكو في بيروت.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">تفتتح المسرحية داخل منزل عائلة فقدت ابنها، وهو شاب في العشرين من عمره قُتل في العراق. يتوسط الصالون نعش مغطى بعلم فلسطين، فيما يجتمع المعزون حول والديه. يتدخل ممثلو التنظيمات الفلسطينية، ويحاول أحدهم إقناع العائلة بأن انتماء ابنها إلى الفصيل كان سيمنحه معنى سياسياً أكبر، قبل أن يزيح علم فلسطين عن النعش ويضع راية تنظيمه مكانه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا يعود الشهيد، في هذا المشهد، ابناً لعائلته أو للمكان الذي عاش فيه. إنه يتحول إلى مادة في خطاب التنظيم. يصبح موته قابلاً للتملك، وتصبح المساعدة التي تقدم إلى والديه وسيلةً لربطه بعد وفاته بالفصيل الذي يريد نسبه إليه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وفي الفصل الثاني، يتحول العرض إلى مونودراما يؤدي فيها حسان شخصية شاب نجا من الحرب بعدما قُتلت مجموعته، لكنه خرج منها مصاباً بنوبات ألم تمنعه من التركيز لأكثر من سبع دقائق. يستعيد الشاب أحلامه بأن يصبح مذيعاً أو مقدم برامج أو ممثلاً، قبل أن تضعه الحرب والفقر أمام حياة مشوهة، يبيع فيها الياسمين ويقاوم فكرة أن الحلم مجرد كذبة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">بهذا تجمع المسرحية بين مستويين متصلين: تنظيمات تحاول الاستيلاء على معنى موت الشاب الفلسطيني، وحرب تلتهم حياة شاب آخر وأحلامه حتى بعد نجاته. في الحالتين، يقف الفرد في مواجهة قوى تريد اختصاره: مرةً في راية توضع على نعشه، ومرةً في إصابة تعيد تعريف حياته كلها.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان المسرح، منذ هذه المرحلة، وسيلة حسان لمقاومة عملية نزع الفرد من حياته الواقعية ووضعه داخل سردية جاهزة. فالفلسطيني لا يظهر عنده رمزاً خالصاً أو جسداً يصلح للشعار، إنه إنسان له أحلام ومخاوف وعائلة وحياة قد تستولي عليها السياسة في حياته وبعد موته.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وفق شهادة أبو ناصر، واصل حسان نشاطه المسرحي خلال خدمته العسكرية، بعدما فُرز إلى مركز حلوة زيدان الذي كان يضم مسرحاً. قدّم هناك، مع مجموعة من الشباب، أعمالاً ذات طابع اجتماعي نقدي، من بينها «سوكة».</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow"><p>حين استشهد حسان حسان، لم يتجرأ فصيل على أن ينسبه إليه، وإنما أنكروه.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">رابع فني بعد النكبة</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">قبل حصار المخيم، ظهر حسان واحداً من شخصيات الفيلم الوثائقي <a href="https://www.youtube.com/watch?v=JoHcsUUpUYo" target="_blank" rel="noopener">«شباب اليرموك»</a> للمخرج الفرنسي أكسل سالفاتوري سينز. يتابع الفيلم مجموعة من أصدقاء الجيل الثالث للاجئي النكبة الفلسطينية، ما بين تشرين الأول/أكتوبر 2009 وديسمبر/كانون الأول 2011، من بينهم حسان وعلاء وسامر وتسنيم ووعد، وهم يحاولون اتخاذ قرارات تتعلق بالدراسة والسفر والعمل ومستقبل علاقاتهم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">قدّم <a href="https://www.visionsdureel.ch/film/the-shebabs-of-yarmouk" target="_blank" rel="noopener">مهرجان «رؤى الواقع» السويسري</a> الفيلم بوصفه عملاً عن شباب فلسطينيين نشؤوا في سوريا وظلوا عالقين بين ارتباطهم بأصدقائهم والمخيم، ورغبتهم في مغادرته وبناء حيوات أخرى. يصف المهرجان هؤلاء الشبان بأسراب الحمام التي تطير فوق أسطح اليرموك، لكنها تعود دائماً إلى نقطة البداية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">يظهر حسان في الفيلم مولعاً بالمسرح وبأسطح المخيم المطلة على دمشق. تبدو المدينة قريبة من تلك الأسطح، لكن القرب الجغرافي لا يلغي المسافة التي عاشها الفلسطيني السوري في علاقته بالدولة والمواطنة والمستقبل. لقد وُلد هذا الجيل في سوريا، ودرس في مدارسها وأدى الخدمة العسكرية فيها، لكنه ظل يحمل صفة <a href="https://miftah.media/العاشقين-بناء-الهوية-الجمعية-في-موسيق/">اللاجئ وذاكرة بلاد لم يرها.</a></p>
+
+
+
+<p class="abody-p wp-block-paragraph">لهذا يمنح «شباب اليرموك» حسان صورة تسبق صورة الضحية. يظهر شاباً يبحث عن شكل حياته، بقمة حماسته، حراً، طموحاً، وحالماً، عاشقاً للمخيم، يتمنى لو تسمح له الظروف بإنجاز عمل مسرحي كل سنة في المخيم، الأقدر على التفاؤل، واثقاً من قدرته على الإنجاز وعلى بناء حياة أفضل، ليس بالضرورة له، بل لأولاده على الأقل.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا نجد حسان رقماً في سجل المعتقلين أو وجهاً في مادة تأبينية. إن استعادة هذه الصورة، عن حسان وجميع الشبان والشابات الآخرين، مهمة، لأن السرديات اللاحقة تميل إلى قراءة حياة الأشخاص من خلال نهاياتهم، كأنهم وُلدوا كي يصبحوا شهداء، لا كي يعيشوا.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">قبل عرض الفيلم بساعتين في إسطنبول، يروي مخرجه سينز أن خبر استشهاد حسان وصله: «لم أكن أعرف كيف سأقوى على نقل خبر مقتل هذا الشاب المبتسم الذي يشاهدونه في الفيلم&#8230; فهذا حسان صديقي، صديقي الذي قتل وحيداً».</p>
+
+
+
+<p class="abody-p wp-block-paragraph">سنة 2013، كان حسان يحاول إنجاز مشروعه السينمائي «رابع فني بعد النكبة». وبحسب شهادة صديقه سليم سلامة، حصل المشروع على دعم من «بدايات» للأفلام الوثائقية، وتمحورت فكرته حول غرفة حسان الصغيرة ذات السقف المعدني فوق منزل العائلة، بما تحتويه من كتب وملصقات وذكريات المراهقة والحب الأول.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">حين نبحث في يوتيوب، نجد <a href="https://youtu.be/4lbdPob2Zj0" target="_blank" rel="noopener">نسخة غير مكتملة من الفيلم</a>. نجد حسان مثلما هو: يرقص، على أرجوحة، نراه مع أحبابه، نراه في عالمه الطبيعي، ثم عريساً، وأخيراً نقرأ في الوصف: «رحل حسان قبل أن يتم المراحل النهائية من فيلمه».</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtu.be/4lbdPob2Zj0" target="_blank" rel="noopener" data-yt="4lbdPob2Zj0" data-title="رابع فني بعد النكبة" style="display:block;width:100%"><div class="ph photo scrim" style="aspect-ratio:16/9"><i style="background-image:url(https://i.ytimg.com/vi/4lbdPob2Zj0/maxresdefault.jpg)"></i></div>
+                <span class="vembed-play">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap">شاهد «رابع فني بعد النكبة»</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">النسخة غير المكتملة من «رابع فني بعد النكبة»، كما هي متاحة على يوتيوب.</figcaption>
+</figure>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">«رد فعل»: المخيم يتحدث بصوته</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">مع مجموعة من فناني اليرموك، وجد حسان في الكاميرا والإنترنت امتداداً لما كان يبحث عنه فوق الخشبة. نشأ «التجمع الفلسطيني للإبداع – رد فعل» بوصفه مساحة لإنتاج الاسكتشات والأفلام والبرامج القصيرة، بعيداً عن <a href="https://miftah.media/صحافة-المخيم-بين-الموقف-السياسي-وأسئلة/">رقابة المؤسسات </a>التلفزيونية والثقافية التقليدية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">أنتج التجمع برنامج <a href="https://youtube.com/playlist?list=PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" target="_blank" rel="noopener">«على هوى الحكي»</a>، الذي تناول حياة المخيم وعاداته وتناقضاته اليومية بأسلوب كوميدي، وتناول الدراسة والعلاقات الاجتماعية والملل وألعاب الطفولة وغيرها من التفاصيل التي نادراً ما تجد مكاناً في الصورة السياسية والإخبارية عن الفلسطينيين. ثم، في السنة الأولى من حصار المخيم، نشاهد حسان في برنامج آخر اسمه <a href="https://youtu.be/6AizbtPZBKs" target="_blank" rel="noopener">«على هوى الحصار»</a>، من تمثيله وإعداده وإخراجه، ومونتاج الشهيد نيراز سعيد.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كانت أهمية هذه الأعمال في أنها لم تقدم المخيم بوصفه قضيةً فقط، إنما كياناً اجتماعياً مستقلاً وله خصوصية. يظهر سكان اليرموك فيها وهم يدرسون ويحبون ويختلفون ويسخرون من أنفسهم. لا تصبح الحياة اليومية هامشاً على القضية الفلسطينية، إنما تأخذ هنا صفة المادة الأساسية التي تمنح القضية معناها الإنساني.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وفي أفلام ومشروعات أخرى، حاول فنانو «رد فعل» توثيق وجوه الأطفال والعمال والشباب والأمكنة. لم يكن الهدف تصوير الخراب بعد وقوعه فحسب، إنما حفظ العالم الطبيعي الذي يسبقه: الناس كما كانوا قبل أن تتحول الشوارع إلى خطوط تماس، وقبل أن تصبح صور اليرموك مقترنة حصراً بالقصف والجوع.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">بهذا المعنى، لم تكن «رد فعل» مجموعة إنتاج فقط، بقدر ما هي محاولة لاستعادة حق المخيم في أن يروي نفسه. فبدلاً من أن يبقى الفلسطيني موضوعاً في خطاب التنظيم أو الدولة أو وسائل الإعلام، أصبح منتجاً للصورة، وصاحباً للصوت الذي يتحدث به عن حياته. هكذا كان حسان.</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtube.com/playlist?list=PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" target="_blank" rel="noopener" data-list="PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" data-title="على هوى الحكي" style="display:block;width:100%;text-align:start"><div class="ph noimg" style="aspect-ratio:16/9"></div>
+                <span class="vembed-play" style="gap:14px">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap" style="color:var(--ink);text-shadow:none;font-size:1.05rem">على هوى الحكي</span>
+                </span>
+                <span class="play" style="inset-block-end:auto;inset-block-start:12px">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h11"></path><path d="M4 12h11"></path><path d="M4 18h7"></path><path d="M17 9.5 22 12l-5 2.5z" fill="currentColor" stroke="none"></path></svg>
+                  <span>قائمة تشغيل · ١٠ حلقات</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">«على هوى الحكي» — عشر حلقات من إنتاج «رد فعل».</figcaption>
+</figure>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">السخرية تفكك السردية</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">في الحلقة المتوفرة من «على هوى الحصار»، يظهر حسان بعدة شخصيات، منها شاب من أبناء اليرموك يرتدي ثياباً عادية، ومقاتل غريب متخيل. جاء المشهد رداً على تصريحات سياسية زعمت أن الموجودين داخل المخيم مقاتلون أجانب. ثم يظهر وهو «يحتضن» رجلاً مسلحاً، في تفكيك لخطاب نظام الأسد وقتها.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لم يواجه حسان تصريحات النظام ومتبنّيه ببيان سياسي، ولكنه مَسرَحها. أخذ الاتهام إلى نهايته العبثية، بحيث يفقد الخطاب، من خلال السخرية منه، قدرته على تقديم نفسه باعتباره حقيقة.</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtu.be/6AizbtPZBKs" target="_blank" rel="noopener" data-yt="6AizbtPZBKs" data-title="على هوى الحصار" style="display:block;width:100%"><div class="ph photo scrim" style="aspect-ratio:16/9"><i style="background-image:url(https://i.ytimg.com/vi/6AizbtPZBKs/maxresdefault.jpg)"></i></div>
+                <span class="vembed-play">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap">شاهد «على هوى الحصار»</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">الحلقة المتوفرة من «على هوى الحصار» — تمثيل وإعداد وإخراج حسان حسان، ومونتاج الشهيد نيراز سعيد.</figcaption>
+</figure>
+
+
+
+<p class="abody-p wp-block-paragraph">امتدت سخريته من «سبع دقائق تكفي» إلى اشتغاله المرئي عبر الكاميرا، نقداً وتفكيكاً للخطاب الرسمي، ومحاولاته الاستحواذ على معنى كل الأشياء، بما في ذلك الموت نفسه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لم يقتصر نقد حسان على النظام السوري والقيادات الفلسطينية التي أيدته. <a href="https://www.rozana.fm/ar/news/2013/12/18/%D8%AD%D8%B3%D8%A7%D9%86-%D8%AD%D8%B3%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%AA%D9%84%D9%87-%D8%A7%D9%84%D9%86%D8%B5%D8%B1%D8%A9-%D9%88%D9%82%D8%AA%D9%84%D9%87-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85" target="_blank" rel="noopener">يقول حسن طنجي</a> إن حسان انتقد أيضاً ممارسات القوى المسلحة الموجودة داخل المخيم، وإن «جبهة النصرة» اعتقلتهما أثناء التصوير، بعدما اتهمتهما بالعمل لمصلحة قناة «الدنيا» التابعة للنظام، قبل الإفراج عنهما بوساطات من الأهالي. كما يذكر متولي أبو ناصر أن جهات مسلحة احتجزت حسان أكثر من مرة بسبب نقده.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">يكشف ذلك طبيعة الموقع الذي اختاره حسان. لم يكن محايداً بين الجلاد والضحية، لكنه لم يسمح لمعارضته النظام بأن تتحول إلى صمت عن انتهاكات جهات أخرى. عمل إعلامياً وإغاثياً بعيداً عن السلاح، واستخدم الكاميرا والسخرية لمساءلة كل جهة تريد احتكار الكلام باسم المخيم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">السخرية، هنا، ليست خروجاً عن السياسة. إنها ممارسة سياسية تعيد فتح اللغة بعدما تغلقها الشعارات. فعندما يؤدي حسان عدة شخصيات، لا يقدم نكتةً على هامش الحصار، ولكنه يهدم الصورة التي حاولت السلطة تثبيتها عن المحاصرين، ويمنحهم حق الظهور خارج التصنيفات الجاهزة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان تفكيك حسان للسردية، في ذلك الوقت، صوتاً من الأصوات القليلة التي تأتي من داخل المخيم، لتفند الروايات الرسمية وسردياتها.</p>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">الكاميرا التي بقيت</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">عندما قرر حسان مغادرة اليرموك، بقيت كاميرته في عهدة صديقه عبد الله الخطيب. كان حسان قد استخدمها في تصوير الأحداث والحياة داخل المخيم، بينما كان الخطيب طالباً في علم الاجتماع ولم يكن قد بدأ بعد تجربته بوصفه مخرجاً.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">يقول الخطيب سنة 2021 في مقابلة ضمن الملف الصحفي لفيلم «فلسطين الصغرى» إن حسان غادر، وإن الكاميرا بقيت في عهدته. لم يكن يعرف كيفية استخدامها، لكنه شعر بأن عليه تصوير الحياة اليومية والجرائم المرتكبة بحق الفلسطينيين في المخيم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">واصل الخطيب التصوير، وسجل تفاصيل الحياة اليومية تحت الحصار. تحولت هذه المواد لاحقاً إلى فيلم <a href="https://www.arabculturefund.org/ar/Projects/6494" target="_blank" rel="noopener">«فلسطين الصغرى: يوميات حصار»</a>، الذي عُرض عام 2021، ويتابع حياة المدنيين في اليرموك تحت الجوع والعزلة والقصف، إلى جانب العلاقات اليومية وأشكال التضامن التي نشأت داخل المكان.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا يعني ذلك أن فيلم الخطيب امتداد فني مباشر لأعمال حسان؛ فلكل منهما لغته ومشروعه. لكن بقاء الكاميرا يكشف أثراً مادياً وفنياً تركه حسان.</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow"><p>كان جسد حسان الذي يقف أمام الكاميرا قد غاب، لكن فعل التصوير نفسه بقي.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">في ذكرى النكبة الثانية</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">قرر حسان الخروج من مخيم اليرموك بعد اشتداد الحصار، فاعتقلته قوات النظام عند حاجز في منطقة السبينة، واعتقلت زوجته أيضاً، لكن أُطلق سراحها في اليوم نفسه، فيما نُقل حسان إلى <a href="https://www.skeyesmedia.org/ar/News/News/19-12-2013/4063" target="_blank" rel="noopener">أحد فروع أجهزة الأمن، ثم قُتل تحت التعذيب</a>.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وصل نبأ مقتل حسان إلى أسرته ورفاقه في <a href="https://syrianmemory.org/archive/figures/62ab8ee48d42060001a7425f" target="_blank" rel="noopener">17 كانون الأول/ديسمبر 2013</a>، أي في ذكرى الخروج من المخيم، أو ما يسميه الفلسطينيون السوريون: النكبة الثانية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كتب متولي أبو ناصر يوم إعلان الخبر مقالاً حمل عنوان «قُتل حسان&#8230; وجُعل رقماً». لم تكن العبارة مجازاً كاملاً؛ فقد أصبح الفنان الذي حاول طوال تجربته حماية الإنسان من الاختزال اسماً معلقاً بين تواريخ متناقضة ومعلومات ناقصة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">في مسرحه الأول، أدى حسان حكاية إنسان تحاول التنظيمات الاستيلاء على موته. وفي نهايته، وجد هو نفسه داخل جهاز يحرم المعتقل حتى من الحق في تاريخ وهوية.</p>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">على هوى حسان</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">لا تكمن أهمية تجربة حسان حسان في عدد الأعمال التي أنجزها. كانت تجربته قصيرة، وبعض مشاريعه لم يكتمل، فيما تتوزع مادتها اليوم بين تسجيلات وأرشيفات رقمية وشهادات أصدقاء. قُتل وهو في السادسة والعشرين من عمره تقريباً، قبل أن تتاح له فرصة تطوير مشروع سينمائي أو مسرحي مستقر، لكن أهمية تجربته تظهر في الوظيفة التي أعطاها للفن داخل المخيم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">في «سبع دقائق تكفي»، واجه تحويل الفلسطيني إلى شهيد تستولي عليه التنظيمات، وربط الحرب بضياع حياة الشباب وأحلامهم. وفي «على هوى الحكي»، أعاد الحياة اليومية إلى الصورة. وفي «تغطية» و«على هوى الحصار»، استخدم السخرية لتفكيك لغات الحرب، منتقداً النظام والقيادات الفلسطينية والقوى المسلحة التي حاولت التحدث باسم اليرموك. وفي عمله «رابع فني بعد النكبة»، نراه مثلما أراد أن نراه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان المخيم في أعماله هو الفعل والفاعل نفسه، لا خلفيةً للأحداث ولا ضحية صامتة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">تقف هذه الفكرة على النقيض من صورتين فرضتا طويلاً على المخيم: صورة الرمز السياسي المقدس قبل سنوات الحرب، <a href="https://miftah.media/المخيم-الأخير-سردية-الفقدان-الفلسطيني/">وصورة الكارثة الإنسانية الخالصة</a> بعد الحصار والتجويع.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لم يقدس حسان المخيم، ولم يختصره في الجوع والموت. صوّره مجتمعاً مليئاً بالتناقضات والعادات والصداقات والأحلام، لأن الدفاع عن المكان لا يعني تحويله إلى أسطورة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان المسرح بالنسبة إلى حسان وسيلةً لخلق مساحة عامة داخل اليرموك. وحين لم تعد الصالة ممكنة، نقل تلك المساحة إلى الفيلم القصير. صار الأداء طريقةً للاعتراض، وصارت الكاميرا وسيلةً لحفظ التفاصيل، وصار الإنترنت مكاناً يجتمع فيه جمهور تفرق في المخيمات والمنافي.</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow" style="margin-top:2em"><p>بالنسبة إلى حسان حسان، ولنا الآن بعد غيابه: اليرموك كله خشبته.</p></blockquote>
+<p>The post <a href="https://miftah.media/%d8%ad%d8%b3%d8%a7%d9%86-%d8%ad%d8%b3%d8%a7%d9%86-%d8%a3%d8%a8%d9%88-%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/">حسان حسان: «أبو السكن» يرى المدينة من أسطح المخيم</a> appeared first on <a href="https://miftah.media">مفتاح ميديا</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[
+<style>
+.art-body .abody-p.lead-para{font-size:1.16em;line-height:1.7;color:var(--ink);}
+.art-body .abody-cap{font-family:var(--f-display);font-size:.82rem;color:var(--ink-3);margin-top:8px;}
+.art-body .mf-vplay{display:block;color:inherit;text-decoration:none;position:relative;}
+.art-body .mf-vplay:hover{color:inherit;text-decoration:none;}
+</style>
+<script>
+(function(){
+  var A = String.fromCharCode(38);
+  var Q = "?autoplay=1" + A + "rel=0" + A + "modestbranding=1";
+  document.addEventListener("click", function(e){
+    var t = e.target;
+    if (!t) return;
+    if (!t.closest) return;
+    var b = t.closest(".mf-vplay");
+    if (!b) return;
+    var w = b.parentNode;
+    if (!w) return;
+    e.preventDefault();
+    var list = b.getAttribute("data-list");
+    var src;
+    if (list) src = "https://www.youtube-nocookie.com/embed/videoseries?list=" + list + A + "autoplay=1" + A + "rel=0" + A + "modestbranding=1";
+    else src = "https://www.youtube-nocookie.com/embed/" + b.getAttribute("data-yt") + Q;
+    var f = document.createElement("iframe");
+    f.setAttribute("src", src);
+    f.setAttribute("title", b.getAttribute("data-title") || "");
+    f.setAttribute("allow", "accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture");
+    f.setAttribute("allowfullscreen", "true");
+    f.setAttribute("style", "display:block;width:100%;aspect-ratio:16/9;border:0");
+    w.innerHTML = "";
+    w.appendChild(f);
+  });
+})();
+</script>
+
+
+
+<p class="abody-p lead-para wp-block-paragraph">يركض حسان حسان، سنة 2013، بين شوارع مخيم اليرموك. لا يتجه إلى ملجأ، ولا يهرب من شيء يظهر في الصورة، إنما يحاول الوصول إلى المكان الوحيد تقريباً الذي بقيت فيه إشارة للهاتف المحمول، «تغطية»، إلى جانب جامع الوسيم. من حركته وطريقة ركضه، نعرف أنه اجتاز شوارع مقنوصة، حتى وصل إلى باب المسجد. يتصل بصديق غادر المخيم. يخبره حسان، بسخرية مريرة، عن الجانبين الحربي والمعيشي في المخيم: الاشتباكات، والقصف، والقنص، لكن «خلصوا المفخخات». يتحدثان سريعاً عن الأصدقاء الذين تفرقوا، ثم يقول حسان: «العمر إلك. تعيش إنت».</p>
+
+
+
+<p class="abody-p wp-block-paragraph">للحظة، ينسى حسان القناص وصوت القذائف، ويجلس بجوار عمود كهرباء، قبل أن ينتهي الفيلم بـ«إهداء إلى روح الشهيد أحمد كوسى»، الذي استشهد في الفترة نفسها.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">هكذا نرى حسان حسان في <a href="https://youtu.be/-cY3yrrtVEo" target="_blank" rel="noopener">فيلم «تغطية»</a>، أحد الأعمال التي أنجزها <a href="https://youtube.com/playlist?list=PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" target="_blank" rel="noopener">«التجمع الفلسطيني للإبداع – رد فعل»</a>، ومثّله حسان وأخرجه حسن الطنجي.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا تتجاوز فكرة الفيلم القصير، في ظاهرها، انقطاع شبكة الهاتف، لكن الاسم يحمل أكثر من معنى في وقت واحد: تغطية الاتصال التي يبحث عنها سكان المخيم، والمساحة التي تغطيها عين القناص وبندقيته، والتغطية الإنسانية التي كان أهل المخيم في حاجة إليها. يصبح الوصول إلى العالم الخارجي، كما نرى مع حسان، فعلاً لا ينفصل عن احتمال الموت.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">حسان لا يمثل. إنه يؤدي المشهد داخل شروطه الحقيقية: الاتصال مقطوع، والقناص حاضر، والقصف مسموع، والأشخاص الذين يتحدث عنهم تفرقوا أو نزحوا أو استشهدوا. مع ذلك، لا يقوم الفيلم على خطاب مأساوي مباشر بقدر ما يقف على مفارقة ساخرة تجعل التفاصيل اليومية مدخلاً إلى فهم العنف.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">في هذه المسافة بين الخوف والسخرية تتشكل تجربة حسان حسان: فنان بدأ من خشبة صغيرة في مخيم اليرموك، ثم اضطر إلى إعادة تعريف المسرح حين دخلت الثورة والحرب إلى المكان. لم يغادر المسرح عندما حمل الكاميرا؛ لقد حمل عناصره معه، وحاول أن يجد لها مكاناً جديداً في الشارع، وعلى الإنترنت، وتحت الحصار.</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtu.be/-cY3yrrtVEo" target="_blank" rel="noopener" data-yt="-cY3yrrtVEo" data-title="تغطية" style="display:block;width:100%"><div class="ph photo scrim" style="aspect-ratio:16/9"><i style="background-image:url(https://i.ytimg.com/vi/-cY3yrrtVEo/maxresdefault.jpg)"></i></div>
+                <span class="vembed-play">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap">شاهد «تغطية»</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">«تغطية» — تمثيل حسان حسان، إخراج حسن الطنجي، من إنتاج «التجمع الفلسطيني للإبداع – رد فعل».</figcaption>
+</figure>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">الاستيلاء على معنى الموت</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">وُلد حسان حسان عام 1987 في مخيم اليرموك، وعمل في المسرح والأفلام القصيرة، وكان من أبرز وجوه الإنتاج الفني الذي خرج من المخيم خلال السنوات الأولى للثورة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">نقرأ التفاصيل الأوسع عن بداية حسان المسرحية من شهادة الكاتب والمخرج الفلسطيني <a href="https://rommanmag.com/archives/author/17rommanmag-com" target="_blank" rel="noopener">متولي أبو ناصر</a>، الذي عرف حسان مراهقاً، ودرّسه الفلسفة في المرحلة الثانوية. يروي أبو ناصر أن حسان قدّم نفسه منذ لقائهما الأول شاباً يحب ثلاثة أشياء: «أنا بحب التمثيل، وبحب خشبة المسرح، وبحب فلسطين».</p>
+
+
+
+<p class="abody-p wp-block-paragraph">بعد حصوله على الشهادة الثانوية، تقدم حسان إلى المعهد العالي للفنون المسرحية في دمشق، لكنه لم يُقبل، ثم أعاد المحاولة ورُفض مرة ثانية بحجة أنه «موهوب ولا يحتاج إلى دراسة التمثيل». لكن لم يكن هذا الرفض نهاية علاقته بالمسرح. إذ أسس مع أبو ناصر فرقة حملت اسم «أبناء الشمس»، وكان عرضها الأول مسرحية «سبع دقائق تكفي» (من تأليف وإخراج ناصر أبو متولي). قُدمت المسرحية ثلاثة أيام على مسرح الخالصة في اليرموك، قبل أن تشارك الفرقة لاحقاً بمسرحية «ليش» على مسرح اليونسكو في بيروت.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">تفتتح المسرحية داخل منزل عائلة فقدت ابنها، وهو شاب في العشرين من عمره قُتل في العراق. يتوسط الصالون نعش مغطى بعلم فلسطين، فيما يجتمع المعزون حول والديه. يتدخل ممثلو التنظيمات الفلسطينية، ويحاول أحدهم إقناع العائلة بأن انتماء ابنها إلى الفصيل كان سيمنحه معنى سياسياً أكبر، قبل أن يزيح علم فلسطين عن النعش ويضع راية تنظيمه مكانه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا يعود الشهيد، في هذا المشهد، ابناً لعائلته أو للمكان الذي عاش فيه. إنه يتحول إلى مادة في خطاب التنظيم. يصبح موته قابلاً للتملك، وتصبح المساعدة التي تقدم إلى والديه وسيلةً لربطه بعد وفاته بالفصيل الذي يريد نسبه إليه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وفي الفصل الثاني، يتحول العرض إلى مونودراما يؤدي فيها حسان شخصية شاب نجا من الحرب بعدما قُتلت مجموعته، لكنه خرج منها مصاباً بنوبات ألم تمنعه من التركيز لأكثر من سبع دقائق. يستعيد الشاب أحلامه بأن يصبح مذيعاً أو مقدم برامج أو ممثلاً، قبل أن تضعه الحرب والفقر أمام حياة مشوهة، يبيع فيها الياسمين ويقاوم فكرة أن الحلم مجرد كذبة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">بهذا تجمع المسرحية بين مستويين متصلين: تنظيمات تحاول الاستيلاء على معنى موت الشاب الفلسطيني، وحرب تلتهم حياة شاب آخر وأحلامه حتى بعد نجاته. في الحالتين، يقف الفرد في مواجهة قوى تريد اختصاره: مرةً في راية توضع على نعشه، ومرةً في إصابة تعيد تعريف حياته كلها.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان المسرح، منذ هذه المرحلة، وسيلة حسان لمقاومة عملية نزع الفرد من حياته الواقعية ووضعه داخل سردية جاهزة. فالفلسطيني لا يظهر عنده رمزاً خالصاً أو جسداً يصلح للشعار، إنه إنسان له أحلام ومخاوف وعائلة وحياة قد تستولي عليها السياسة في حياته وبعد موته.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وفق شهادة أبو ناصر، واصل حسان نشاطه المسرحي خلال خدمته العسكرية، بعدما فُرز إلى مركز حلوة زيدان الذي كان يضم مسرحاً. قدّم هناك، مع مجموعة من الشباب، أعمالاً ذات طابع اجتماعي نقدي، من بينها «سوكة».</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow"><p>حين استشهد حسان حسان، لم يتجرأ فصيل على أن ينسبه إليه، وإنما أنكروه.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">رابع فني بعد النكبة</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">قبل حصار المخيم، ظهر حسان واحداً من شخصيات الفيلم الوثائقي <a href="https://www.youtube.com/watch?v=JoHcsUUpUYo" target="_blank" rel="noopener">«شباب اليرموك»</a> للمخرج الفرنسي أكسل سالفاتوري سينز. يتابع الفيلم مجموعة من أصدقاء الجيل الثالث للاجئي النكبة الفلسطينية، ما بين تشرين الأول/أكتوبر 2009 وديسمبر/كانون الأول 2011، من بينهم حسان وعلاء وسامر وتسنيم ووعد، وهم يحاولون اتخاذ قرارات تتعلق بالدراسة والسفر والعمل ومستقبل علاقاتهم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">قدّم <a href="https://www.visionsdureel.ch/film/the-shebabs-of-yarmouk" target="_blank" rel="noopener">مهرجان «رؤى الواقع» السويسري</a> الفيلم بوصفه عملاً عن شباب فلسطينيين نشؤوا في سوريا وظلوا عالقين بين ارتباطهم بأصدقائهم والمخيم، ورغبتهم في مغادرته وبناء حيوات أخرى. يصف المهرجان هؤلاء الشبان بأسراب الحمام التي تطير فوق أسطح اليرموك، لكنها تعود دائماً إلى نقطة البداية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">يظهر حسان في الفيلم مولعاً بالمسرح وبأسطح المخيم المطلة على دمشق. تبدو المدينة قريبة من تلك الأسطح، لكن القرب الجغرافي لا يلغي المسافة التي عاشها الفلسطيني السوري في علاقته بالدولة والمواطنة والمستقبل. لقد وُلد هذا الجيل في سوريا، ودرس في مدارسها وأدى الخدمة العسكرية فيها، لكنه ظل يحمل صفة <a href="https://miftah.media/العاشقين-بناء-الهوية-الجمعية-في-موسيق/">اللاجئ وذاكرة بلاد لم يرها.</a></p>
+
+
+
+<p class="abody-p wp-block-paragraph">لهذا يمنح «شباب اليرموك» حسان صورة تسبق صورة الضحية. يظهر شاباً يبحث عن شكل حياته، بقمة حماسته، حراً، طموحاً، وحالماً، عاشقاً للمخيم، يتمنى لو تسمح له الظروف بإنجاز عمل مسرحي كل سنة في المخيم، الأقدر على التفاؤل، واثقاً من قدرته على الإنجاز وعلى بناء حياة أفضل، ليس بالضرورة له، بل لأولاده على الأقل.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا نجد حسان رقماً في سجل المعتقلين أو وجهاً في مادة تأبينية. إن استعادة هذه الصورة، عن حسان وجميع الشبان والشابات الآخرين، مهمة، لأن السرديات اللاحقة تميل إلى قراءة حياة الأشخاص من خلال نهاياتهم، كأنهم وُلدوا كي يصبحوا شهداء، لا كي يعيشوا.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">قبل عرض الفيلم بساعتين في إسطنبول، يروي مخرجه سينز أن خبر استشهاد حسان وصله: «لم أكن أعرف كيف سأقوى على نقل خبر مقتل هذا الشاب المبتسم الذي يشاهدونه في الفيلم&#8230; فهذا حسان صديقي، صديقي الذي قتل وحيداً».</p>
+
+
+
+<p class="abody-p wp-block-paragraph">سنة 2013، كان حسان يحاول إنجاز مشروعه السينمائي «رابع فني بعد النكبة». وبحسب شهادة صديقه سليم سلامة، حصل المشروع على دعم من «بدايات» للأفلام الوثائقية، وتمحورت فكرته حول غرفة حسان الصغيرة ذات السقف المعدني فوق منزل العائلة، بما تحتويه من كتب وملصقات وذكريات المراهقة والحب الأول.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">حين نبحث في يوتيوب، نجد <a href="https://youtu.be/4lbdPob2Zj0" target="_blank" rel="noopener">نسخة غير مكتملة من الفيلم</a>. نجد حسان مثلما هو: يرقص، على أرجوحة، نراه مع أحبابه، نراه في عالمه الطبيعي، ثم عريساً، وأخيراً نقرأ في الوصف: «رحل حسان قبل أن يتم المراحل النهائية من فيلمه».</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtu.be/4lbdPob2Zj0" target="_blank" rel="noopener" data-yt="4lbdPob2Zj0" data-title="رابع فني بعد النكبة" style="display:block;width:100%"><div class="ph photo scrim" style="aspect-ratio:16/9"><i style="background-image:url(https://i.ytimg.com/vi/4lbdPob2Zj0/maxresdefault.jpg)"></i></div>
+                <span class="vembed-play">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap">شاهد «رابع فني بعد النكبة»</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">النسخة غير المكتملة من «رابع فني بعد النكبة»، كما هي متاحة على يوتيوب.</figcaption>
+</figure>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">«رد فعل»: المخيم يتحدث بصوته</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">مع مجموعة من فناني اليرموك، وجد حسان في الكاميرا والإنترنت امتداداً لما كان يبحث عنه فوق الخشبة. نشأ «التجمع الفلسطيني للإبداع – رد فعل» بوصفه مساحة لإنتاج الاسكتشات والأفلام والبرامج القصيرة، بعيداً عن <a href="https://miftah.media/صحافة-المخيم-بين-الموقف-السياسي-وأسئلة/">رقابة المؤسسات </a>التلفزيونية والثقافية التقليدية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">أنتج التجمع برنامج <a href="https://youtube.com/playlist?list=PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" target="_blank" rel="noopener">«على هوى الحكي»</a>، الذي تناول حياة المخيم وعاداته وتناقضاته اليومية بأسلوب كوميدي، وتناول الدراسة والعلاقات الاجتماعية والملل وألعاب الطفولة وغيرها من التفاصيل التي نادراً ما تجد مكاناً في الصورة السياسية والإخبارية عن الفلسطينيين. ثم، في السنة الأولى من حصار المخيم، نشاهد حسان في برنامج آخر اسمه <a href="https://youtu.be/6AizbtPZBKs" target="_blank" rel="noopener">«على هوى الحصار»</a>، من تمثيله وإعداده وإخراجه، ومونتاج الشهيد نيراز سعيد.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كانت أهمية هذه الأعمال في أنها لم تقدم المخيم بوصفه قضيةً فقط، إنما كياناً اجتماعياً مستقلاً وله خصوصية. يظهر سكان اليرموك فيها وهم يدرسون ويحبون ويختلفون ويسخرون من أنفسهم. لا تصبح الحياة اليومية هامشاً على القضية الفلسطينية، إنما تأخذ هنا صفة المادة الأساسية التي تمنح القضية معناها الإنساني.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وفي أفلام ومشروعات أخرى، حاول فنانو «رد فعل» توثيق وجوه الأطفال والعمال والشباب والأمكنة. لم يكن الهدف تصوير الخراب بعد وقوعه فحسب، إنما حفظ العالم الطبيعي الذي يسبقه: الناس كما كانوا قبل أن تتحول الشوارع إلى خطوط تماس، وقبل أن تصبح صور اليرموك مقترنة حصراً بالقصف والجوع.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">بهذا المعنى، لم تكن «رد فعل» مجموعة إنتاج فقط، بقدر ما هي محاولة لاستعادة حق المخيم في أن يروي نفسه. فبدلاً من أن يبقى الفلسطيني موضوعاً في خطاب التنظيم أو الدولة أو وسائل الإعلام، أصبح منتجاً للصورة، وصاحباً للصوت الذي يتحدث به عن حياته. هكذا كان حسان.</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtube.com/playlist?list=PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" target="_blank" rel="noopener" data-list="PLBXzxVXlu_J8Ve6_Q8VR1SXytfFOpX5z0" data-title="على هوى الحكي" style="display:block;width:100%;text-align:start"><div class="ph noimg" style="aspect-ratio:16/9"></div>
+                <span class="vembed-play" style="gap:14px">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap" style="color:var(--ink);text-shadow:none;font-size:1.05rem">على هوى الحكي</span>
+                </span>
+                <span class="play" style="inset-block-end:auto;inset-block-start:12px">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h11"></path><path d="M4 12h11"></path><path d="M4 18h7"></path><path d="M17 9.5 22 12l-5 2.5z" fill="currentColor" stroke="none"></path></svg>
+                  <span>قائمة تشغيل · ١٠ حلقات</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">«على هوى الحكي» — عشر حلقات من إنتاج «رد فعل».</figcaption>
+</figure>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">السخرية تفكك السردية</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">في الحلقة المتوفرة من «على هوى الحصار»، يظهر حسان بعدة شخصيات، منها شاب من أبناء اليرموك يرتدي ثياباً عادية، ومقاتل غريب متخيل. جاء المشهد رداً على تصريحات سياسية زعمت أن الموجودين داخل المخيم مقاتلون أجانب. ثم يظهر وهو «يحتضن» رجلاً مسلحاً، في تفكيك لخطاب نظام الأسد وقتها.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لم يواجه حسان تصريحات النظام ومتبنّيه ببيان سياسي، ولكنه مَسرَحها. أخذ الاتهام إلى نهايته العبثية، بحيث يفقد الخطاب، من خلال السخرية منه، قدرته على تقديم نفسه باعتباره حقيقة.</p>
+
+
+
+<figure class="abody-fig">
+<div class="vembed">
+<a class="mf-vplay" href="https://youtu.be/6AizbtPZBKs" target="_blank" rel="noopener" data-yt="6AizbtPZBKs" data-title="على هوى الحصار" style="display:block;width:100%"><div class="ph photo scrim" style="aspect-ratio:16/9"><i style="background-image:url(https://i.ytimg.com/vi/6AizbtPZBKs/maxresdefault.jpg)"></i></div>
+                <span class="vembed-play">
+                  <span class="vembed-disc"><svg viewBox="0 0 24 24" width="26" height="26" fill="currentColor"><path d="M8 5l12 7-12 7z"></path></svg></span>
+                  <span class="vembed-cap">شاهد «على هوى الحصار»</span>
+                </span></a>
+</div>
+<figcaption class="abody-cap">الحلقة المتوفرة من «على هوى الحصار» — تمثيل وإعداد وإخراج حسان حسان، ومونتاج الشهيد نيراز سعيد.</figcaption>
+</figure>
+
+
+
+<p class="abody-p wp-block-paragraph">امتدت سخريته من «سبع دقائق تكفي» إلى اشتغاله المرئي عبر الكاميرا، نقداً وتفكيكاً للخطاب الرسمي، ومحاولاته الاستحواذ على معنى كل الأشياء، بما في ذلك الموت نفسه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لم يقتصر نقد حسان على النظام السوري والقيادات الفلسطينية التي أيدته. <a href="https://www.rozana.fm/ar/news/2013/12/18/%D8%AD%D8%B3%D8%A7%D9%86-%D8%AD%D8%B3%D8%A7%D9%86-%D8%A7%D8%B9%D8%AA%D9%82%D8%AA%D9%84%D9%87-%D8%A7%D9%84%D9%86%D8%B5%D8%B1%D8%A9-%D9%88%D9%82%D8%AA%D9%84%D9%87-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85" target="_blank" rel="noopener">يقول حسن طنجي</a> إن حسان انتقد أيضاً ممارسات القوى المسلحة الموجودة داخل المخيم، وإن «جبهة النصرة» اعتقلتهما أثناء التصوير، بعدما اتهمتهما بالعمل لمصلحة قناة «الدنيا» التابعة للنظام، قبل الإفراج عنهما بوساطات من الأهالي. كما يذكر متولي أبو ناصر أن جهات مسلحة احتجزت حسان أكثر من مرة بسبب نقده.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">يكشف ذلك طبيعة الموقع الذي اختاره حسان. لم يكن محايداً بين الجلاد والضحية، لكنه لم يسمح لمعارضته النظام بأن تتحول إلى صمت عن انتهاكات جهات أخرى. عمل إعلامياً وإغاثياً بعيداً عن السلاح، واستخدم الكاميرا والسخرية لمساءلة كل جهة تريد احتكار الكلام باسم المخيم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">السخرية، هنا، ليست خروجاً عن السياسة. إنها ممارسة سياسية تعيد فتح اللغة بعدما تغلقها الشعارات. فعندما يؤدي حسان عدة شخصيات، لا يقدم نكتةً على هامش الحصار، ولكنه يهدم الصورة التي حاولت السلطة تثبيتها عن المحاصرين، ويمنحهم حق الظهور خارج التصنيفات الجاهزة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان تفكيك حسان للسردية، في ذلك الوقت، صوتاً من الأصوات القليلة التي تأتي من داخل المخيم، لتفند الروايات الرسمية وسردياتها.</p>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">الكاميرا التي بقيت</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">عندما قرر حسان مغادرة اليرموك، بقيت كاميرته في عهدة صديقه عبد الله الخطيب. كان حسان قد استخدمها في تصوير الأحداث والحياة داخل المخيم، بينما كان الخطيب طالباً في علم الاجتماع ولم يكن قد بدأ بعد تجربته بوصفه مخرجاً.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">يقول الخطيب سنة 2021 في مقابلة ضمن الملف الصحفي لفيلم «فلسطين الصغرى» إن حسان غادر، وإن الكاميرا بقيت في عهدته. لم يكن يعرف كيفية استخدامها، لكنه شعر بأن عليه تصوير الحياة اليومية والجرائم المرتكبة بحق الفلسطينيين في المخيم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">واصل الخطيب التصوير، وسجل تفاصيل الحياة اليومية تحت الحصار. تحولت هذه المواد لاحقاً إلى فيلم <a href="https://www.arabculturefund.org/ar/Projects/6494" target="_blank" rel="noopener">«فلسطين الصغرى: يوميات حصار»</a>، الذي عُرض عام 2021، ويتابع حياة المدنيين في اليرموك تحت الجوع والعزلة والقصف، إلى جانب العلاقات اليومية وأشكال التضامن التي نشأت داخل المكان.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لا يعني ذلك أن فيلم الخطيب امتداد فني مباشر لأعمال حسان؛ فلكل منهما لغته ومشروعه. لكن بقاء الكاميرا يكشف أثراً مادياً وفنياً تركه حسان.</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow"><p>كان جسد حسان الذي يقف أمام الكاميرا قد غاب، لكن فعل التصوير نفسه بقي.</p></blockquote>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">في ذكرى النكبة الثانية</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">قرر حسان الخروج من مخيم اليرموك بعد اشتداد الحصار، فاعتقلته قوات النظام عند حاجز في منطقة السبينة، واعتقلت زوجته أيضاً، لكن أُطلق سراحها في اليوم نفسه، فيما نُقل حسان إلى <a href="https://www.skeyesmedia.org/ar/News/News/19-12-2013/4063" target="_blank" rel="noopener">أحد فروع أجهزة الأمن، ثم قُتل تحت التعذيب</a>.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">وصل نبأ مقتل حسان إلى أسرته ورفاقه في <a href="https://syrianmemory.org/archive/figures/62ab8ee48d42060001a7425f" target="_blank" rel="noopener">17 كانون الأول/ديسمبر 2013</a>، أي في ذكرى الخروج من المخيم، أو ما يسميه الفلسطينيون السوريون: النكبة الثانية.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كتب متولي أبو ناصر يوم إعلان الخبر مقالاً حمل عنوان «قُتل حسان&#8230; وجُعل رقماً». لم تكن العبارة مجازاً كاملاً؛ فقد أصبح الفنان الذي حاول طوال تجربته حماية الإنسان من الاختزال اسماً معلقاً بين تواريخ متناقضة ومعلومات ناقصة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">في مسرحه الأول، أدى حسان حكاية إنسان تحاول التنظيمات الاستيلاء على موته. وفي نهايته، وجد هو نفسه داخل جهاز يحرم المعتقل حتى من الحق في تاريخ وهوية.</p>
+
+
+
+<h2 class="wp-block-heading abody-h" style="margin-top:2em">على هوى حسان</h2>
+
+
+
+<p class="abody-p wp-block-paragraph">لا تكمن أهمية تجربة حسان حسان في عدد الأعمال التي أنجزها. كانت تجربته قصيرة، وبعض مشاريعه لم يكتمل، فيما تتوزع مادتها اليوم بين تسجيلات وأرشيفات رقمية وشهادات أصدقاء. قُتل وهو في السادسة والعشرين من عمره تقريباً، قبل أن تتاح له فرصة تطوير مشروع سينمائي أو مسرحي مستقر، لكن أهمية تجربته تظهر في الوظيفة التي أعطاها للفن داخل المخيم.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">في «سبع دقائق تكفي»، واجه تحويل الفلسطيني إلى شهيد تستولي عليه التنظيمات، وربط الحرب بضياع حياة الشباب وأحلامهم. وفي «على هوى الحكي»، أعاد الحياة اليومية إلى الصورة. وفي «تغطية» و«على هوى الحصار»، استخدم السخرية لتفكيك لغات الحرب، منتقداً النظام والقيادات الفلسطينية والقوى المسلحة التي حاولت التحدث باسم اليرموك. وفي عمله «رابع فني بعد النكبة»، نراه مثلما أراد أن نراه.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان المخيم في أعماله هو الفعل والفاعل نفسه، لا خلفيةً للأحداث ولا ضحية صامتة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">تقف هذه الفكرة على النقيض من صورتين فرضتا طويلاً على المخيم: صورة الرمز السياسي المقدس قبل سنوات الحرب، <a href="https://miftah.media/المخيم-الأخير-سردية-الفقدان-الفلسطيني/">وصورة الكارثة الإنسانية الخالصة</a> بعد الحصار والتجويع.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">لم يقدس حسان المخيم، ولم يختصره في الجوع والموت. صوّره مجتمعاً مليئاً بالتناقضات والعادات والصداقات والأحلام، لأن الدفاع عن المكان لا يعني تحويله إلى أسطورة.</p>
+
+
+
+<p class="abody-p wp-block-paragraph">كان المسرح بالنسبة إلى حسان وسيلةً لخلق مساحة عامة داخل اليرموك. وحين لم تعد الصالة ممكنة، نقل تلك المساحة إلى الفيلم القصير. صار الأداء طريقةً للاعتراض، وصارت الكاميرا وسيلةً لحفظ التفاصيل، وصار الإنترنت مكاناً يجتمع فيه جمهور تفرق في المخيمات والمنافي.</p>
+
+
+
+<blockquote class="pq is-layout-flow wp-block-quote-is-layout-flow" style="margin-top:2em"><p>بالنسبة إلى حسان حسان، ولنا الآن بعد غيابه: اليرموك كله خشبته.</p></blockquote>
+<p>The post <a href="https://miftah.media/%d8%ad%d8%b3%d8%a7%d9%86-%d8%ad%d8%b3%d8%a7%d9%86-%d8%a3%d8%a8%d9%88-%d8%a7%d9%84%d8%b3%d9%83%d9%86-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/">حسان حسان: «أبو السكن» يرى المدينة من أسطح المخيم</a> appeared first on <a href="https://miftah.media">مفتاح ميديا</a>.</p>
+]]></content:encoded>
+            <author>مفتاح ميديا</author>
+        </item>
         <item>
             <title><![CDATA[مخيم اليرموك | ارتفاع أسعار القرطاسية يثقل عائلات الطلاب]]></title>
             <link>https://miftah.media/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%82%d8%b1%d8%b7%d8%a7%d8%b3%d9%8a%d8%a9-%d9%85%d8%ae%d9%8a%d9%85-%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83/</link>
