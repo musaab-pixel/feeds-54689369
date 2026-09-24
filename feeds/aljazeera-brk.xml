@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 10:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 10:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: شهيدان و9 مصابين بنيران قوات الاحتلال وسط قطاع غزة منذ فجر…]]></title>
+            <link>https://t.me/aljazeeraBrk/236720</link>
+            <guid isPermaLink="false">c6f83606a80f77f7d484c61544e626f5858b7d941edbaac80dce9c5c61a9ec86</guid>
+            <pubDate>Thu, 24 Sep 2026 10:22:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: شهيدان و9 مصابين بنيران قوات الاحتلال وسط قطاع غزة منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: شهيدان و9 مصابين بنيران قوات الاحتلال وسط قطاع غزة منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بلومبرغ: ارتفاع سعر خام برنت بأكثر من 3% ليتجاوز 106 دولارات للبرميل]]></title>
             <link>https://t.me/aljazeeraBrk/236719</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 22 Sep 2026 12:12:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الإسباني للجزيرة: الحروب في الشرق الأوسط وأوكرانيا مرفوضة والحلول الأحادية لا تصلح]]></description>
             <content:encoded><![CDATA[وزير الخارجية الإسباني للجزيرة: الحروب في الشرق الأوسط وأوكرانيا مرفوضة والحلول الأحادية لا تصلح]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الإسباني للجزيرة: روسيا تشن حربا عدوانية على أوكرانيا وعلينا ألا…]]></title>
-            <link>https://t.me/aljazeeraBrk/236196</link>
-            <guid isPermaLink="false">37791c06911efbd8159ceb5241c50608132f93b76102648b8e0e5f01c63d65b2</guid>
-            <pubDate>Tue, 22 Sep 2026 12:12:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الإسباني للجزيرة: روسيا تشن حربا عدوانية على أوكرانيا وعلينا ألا نكافئ المعتدي]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الإسباني للجزيرة: روسيا تشن حربا عدوانية على أوكرانيا وعلينا ألا نكافئ المعتدي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
