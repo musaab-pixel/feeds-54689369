@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 06:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 09:01:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[At UN, Pezeshkian turns terrorism accusation back on Iran’s critics]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168412</link>
+            <guid isPermaLink="false">7956332180f3c7890ed4b6c8acb5e53f5c2e8b4fcb033242c0659b37a9b3c15d</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[President Masoud Pezeshkian opened his General Assembly address with a direct rebuttal to US President Donald Trump, who a day earlier had branded Iran the “number one sponsor of terror.”]]></description>
+            <content:encoded><![CDATA[President Masoud Pezeshkian opened his General Assembly address with a direct rebuttal to US President Donald Trump, who a day earlier had branded Iran the “number one sponsor of terror.”]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/23-09-2026-UN-Photo-Iran.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Displacement on the rise in Yemen as fighting continues]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168390</link>

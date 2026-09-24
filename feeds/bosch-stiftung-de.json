@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "0bb18400f4a6b44c356e2def37befa98cdef9135389b3988a55021fc1f7aa0e9",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/news/gemeinsam-die-krebsmedizin-von-morgen-gestalten",
+            "title": "Gemeinsam die Krebsmedizin von morgen gestalten",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
+            "date_modified": "2026-09-24T08:20:01.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "1fd9bc16655bc93f4e54ea300dcd96a56cd59a561f7747bf8850d9ae97b3090c",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Senior Projektmanager (m/w/div.) im Team Zukunftsfähiges Bildungssystem, Schwerpunkt datengestützte Qualitätsentwicklung, in Berlin</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-23T14:10:54+02:00\" title=\"Mittwoch, 23 September 2026 - 14:10\" class=\"datetime\">Mi. 23 Sep 2026 - 14:10</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/senior-projektmanager-mwdiv-im-team-zukunftsfaehiges-bildungssystem-schwerpunkt",
