@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 09:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 10:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بدير البلح…]]></title>
+            <link>https://t.me/aljazeeraBrk/236718</link>
+            <guid isPermaLink="false">22b31e075c4efc218af4d15f7ba63de914d05ccab110813fc5933c5e6b4908c0</guid>
+            <pubDate>Thu, 24 Sep 2026 09:52:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بدير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة بدير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة أنباء إيسنا الإيرانية: إلغاء جميع رحلات شركات الطيران الإيرانية للإمارات…]]></title>
             <link>https://t.me/aljazeeraBrk/236717</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 22 Sep 2026 12:10:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الإسباني للجزيرة: حرية الملاحة ولا سيما في مضيق هرمز مبدأ أساسي في القانون الدولي]]></description>
             <content:encoded><![CDATA[وزير الخارجية الإسباني للجزيرة: حرية الملاحة ولا سيما في مضيق هرمز مبدأ أساسي في القانون الدولي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الإسباني للجزيرة: الحروب في الشرق الأوسط وأوكرانيا مرفوضة والحلول…]]></title>
-            <link>https://t.me/aljazeeraBrk/236193</link>
-            <guid isPermaLink="false">0235467fe826b5e61f80ef810fc00faddf8700c1711e010b007bcc5c6dccdc50</guid>
-            <pubDate>Tue, 22 Sep 2026 12:08:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الإسباني للجزيرة: الحروب في الشرق الأوسط وأوكرانيا مرفوضة والحلول الأحادية لا تحل المشاكل]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الإسباني للجزيرة: الحروب في الشرق الأوسط وأوكرانيا مرفوضة والحلول الأحادية لا تحل المشاكل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
