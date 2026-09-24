@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 12:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 12:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة كفرتبنيت في قضاء النبطية جنوب لبنان]]></title>
+            <link>https://t.me/aljazeeraBrk/236750</link>
+            <guid isPermaLink="false">d28a7c3b6804f5715387d1a3af4953028176ca78e11d56c56d52ea68369c58c9</guid>
+            <pubDate>Thu, 24 Sep 2026 12:43:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة كفرتبنيت في قضاء النبطية جنوب لبنان]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة إسرائيلية على محيط بلدة كفرتبنيت في قضاء النبطية جنوب لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سي إن إن: بعض من طاقمنا الصحفي لم يتمكن اليوم من دخول البيت الأبيض رغم قرار…]]></title>
             <link>https://t.me/aljazeeraBrk/236749</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 22 Sep 2026 13:53:02 GMT</pubDate>
             <description><![CDATA[مسؤول عراقي للجزيرة: تم إبلاغ المطارات العراقية الآن بمنع استقبال الطائرات الإيرانية بدءا من منتصف هذه الليلة]]></description>
             <content:encoded><![CDATA[مسؤول عراقي للجزيرة: تم إبلاغ المطارات العراقية الآن بمنع استقبال الطائرات الإيرانية بدءا من منتصف هذه الليلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الجمعية العامة للأمم المتحدة: الحربان المستمرتان في الشرق الأوسط وأوروبا…]]></title>
-            <link>https://t.me/aljazeeraBrk/236225</link>
-            <guid isPermaLink="false">5e81d1b3a878285575bf5a60c8a5098242077c0307660052a8084f64479faf24</guid>
-            <pubDate>Tue, 22 Sep 2026 13:51:02 GMT</pubDate>
-            <description><![CDATA[رئيس الجمعية العامة للأمم المتحدة: الحربان المستمرتان في الشرق الأوسط وأوروبا لهما تداعيات تتجاوز ساحات القتال]]></description>
-            <content:encoded><![CDATA[رئيس الجمعية العامة للأمم المتحدة: الحربان المستمرتان في الشرق الأوسط وأوروبا لهما تداعيات تتجاوز ساحات القتال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
