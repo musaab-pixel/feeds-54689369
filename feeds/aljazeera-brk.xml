@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 11:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 11:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: إسقاط طائرة مسيرة تابعة للحوثيين في سماء مديرية جبل…]]></title>
+            <link>https://t.me/aljazeeraBrk/236746</link>
+            <guid isPermaLink="false">0f5bd10144116b0081699f2caf86b7db9b8e320e63c7d1b3b97ec0fc67b58abd</guid>
+            <pubDate>Thu, 24 Sep 2026 11:27:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: إسقاط طائرة مسيرة تابعة للحوثيين في سماء مديرية جبل حبشي بمحافظة تعز]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: إسقاط طائرة مسيرة تابعة للحوثيين في سماء مديرية جبل حبشي بمحافظة تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير 6 صواريخ باليستية أطلقتها المليشيا الحوثية…]]></title>
             <link>https://t.me/aljazeeraBrk/236744</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 22 Sep 2026 13:28:02 GMT</pubDate>
             <description><![CDATA[غوتيريش: علينا إصلاح مجلس الأمن ليعكس عالم اليوم ويتمتع بالشرعية والفاعلية لمواجهة تحديات الحاضر]]></description>
             <content:encoded><![CDATA[غوتيريش: علينا إصلاح مجلس الأمن ليعكس عالم اليوم ويتمتع بالشرعية والفاعلية لمواجهة تحديات الحاضر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[غوتيريش: الملايين نزحوا في السودان والجوع ينتشر والطائرات المسيرة تستهدف…]]></title>
-            <link>https://t.me/aljazeeraBrk/236221</link>
-            <guid isPermaLink="false">c0ff1cd137c88dc4356b9bf04828c8fb75f795e11ff2cbe8a497cf9f8c8d0525</guid>
-            <pubDate>Tue, 22 Sep 2026 13:26:02 GMT</pubDate>
-            <description><![CDATA[غوتيريش: الملايين نزحوا في السودان والجوع ينتشر والطائرات المسيرة تستهدف المستشفيات والمنازل]]></description>
-            <content:encoded><![CDATA[غوتيريش: الملايين نزحوا في السودان والجوع ينتشر والطائرات المسيرة تستهدف المستشفيات والمنازل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
