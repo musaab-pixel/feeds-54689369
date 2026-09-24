@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 23 Sep 2026 15:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 15:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Découvrabilité : trois projets soutenus par l’OIF pour que les œuvres francophones trouvent leur public]]></title>
+            <link>https://www.francophonie.org/appel-decouvrabilite-2025-3-projets-soutenus-8677</link>
+            <guid isPermaLink="false">7ca8a8a3be453ff0c902b7b0f80e14a4b42fb75c88076ca07efdb968a9cbcc35</guid>
+            <pubDate>Thu, 24 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Découvrabilité : trois projets soutenus par l’OIF pour que les œuvres francophones trouvent leur public</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-24T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 24/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Découvrabilité : trois projets soutenus par l’OIF pour que les œuvres francophones trouvent leur public</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-24T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 24/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Le programme de mobilité des enseignants volontaires déployé au Viet Nam]]></title>
             <link>https://www.francophonie.org/vietnam-lancement-programme-mobilite-enseignants-8675</link>
