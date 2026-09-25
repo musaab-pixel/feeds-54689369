@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 25 Sep 2026 08:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 08:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عراقجي: استعادة أمن الملاحة البحرية في المنطقة تستلزم وقف إجراءات أمريكا…]]></title>
+            <link>https://t.me/aljazeeraBrk/236920</link>
+            <guid isPermaLink="false">a3a7d5a614a28596ff4b8a22414d7556b7a09af7c99662bd1db8049c24d4f4a5</guid>
+            <pubDate>Fri, 25 Sep 2026 08:37:02 GMT</pubDate>
+            <description><![CDATA[عراقجي: استعادة أمن الملاحة البحرية في المنطقة تستلزم وقف إجراءات أمريكا المزعزعة للأمن وإرهابها الاقتصادي]]></description>
+            <content:encoded><![CDATA[عراقجي: استعادة أمن الملاحة البحرية في المنطقة تستلزم وقف إجراءات أمريكا المزعزعة للأمن وإرهابها الاقتصادي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إدارة مطار النجف الدولي: إيقاف جميع الرحلات الجوية من إيران والمغادرة إليها…]]></title>
             <link>https://t.me/aljazeeraBrk/236919</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 23 Sep 2026 06:34:02 GMT</pubDate>
             <description><![CDATA[مجمع ناصر الطبي: استشهاد فلسطيني متأثرا بإصابته ليلة أمس بنيران قوات الاحتلال في خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مجمع ناصر الطبي: استشهاد فلسطيني متأثرا بإصابته ليلة أمس بنيران قوات الاحتلال في خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سلطة الموانئ الأوكرانية: مقتل قبطان سفينة ترفع علما أجنبيا في البحر الأسود إثر…]]></title>
-            <link>https://t.me/aljazeeraBrk/236460</link>
-            <guid isPermaLink="false">ecf648133428bc402e3474c2292613b8851d0e174967068927132d61fa6ad8e9</guid>
-            <pubDate>Wed, 23 Sep 2026 06:10:02 GMT</pubDate>
-            <description><![CDATA[سلطة الموانئ الأوكرانية: مقتل قبطان سفينة ترفع علما أجنبيا في البحر الأسود إثر هجوم روسي استهدفها]]></description>
-            <content:encoded><![CDATA[سلطة الموانئ الأوكرانية: مقتل قبطان سفينة ترفع علما أجنبيا في البحر الأسود إثر هجوم روسي استهدفها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
