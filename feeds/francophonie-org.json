@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "e0cb75c8231a721ffbf2b16e51ec870d103242702799fe9349352f58b4c678cb",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Parcours panafricain de production : un catalyseur d’employabilité pour la jeunesse du cinéma africain</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-25T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 25/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/parcours-panafricain-de-production-catalyseur-employabilite-jeunesse-cinema-africain-8679",
+            "title": "Parcours panafricain de production : un catalyseur d’employabilité pour la jeunesse du cinéma africain",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Parcours panafricain de production : un catalyseur d’employabilité pour la jeunesse du cinéma africain</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-25T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 25/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-25T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "7ca8a8a3be453ff0c902b7b0f80e14a4b42fb75c88076ca07efdb968a9cbcc35",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Découvrabilité : trois projets soutenus par l’OIF pour que les œuvres francophones trouvent leur public</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-24T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 24/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/appel-decouvrabilite-2025-3-projets-soutenus-8677",
