@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "204478ae791fc369d3048618eb7f8853c749db010b6b774a10caf41f0dc08082",
+            "content_html": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168436",
+            "title": "Yemen violence deepens concerns over child hunger crisis",
+            "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/24-09-2026_UNICEF_Yemen.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-25T12:00:00.000Z"
+        },
+        {
             "id": "f100e93a7fa4915f61d52e68870bd1aa66859ee3abe84087ef13e2008624b4ae",
             "content_html": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.&nbsp;",
             "url": "https://news.un.org/feed/view/en/story/2026/09/1168428",

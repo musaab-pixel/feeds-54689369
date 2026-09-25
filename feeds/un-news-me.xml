@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Fri, 25 Sep 2026 03:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 17:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Yemen violence deepens concerns over child hunger crisis]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/09/1168436</link>
+            <guid isPermaLink="false">204478ae791fc369d3048618eb7f8853c749db010b6b774a10caf41f0dc08082</guid>
+            <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.]]></description>
+            <content:encoded><![CDATA[Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/24-09-2026_UNICEF_Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UNRWA work and mandate in ‘jeopardy’, Guterres warns]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/09/1168428</link>
