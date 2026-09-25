@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 25 Sep 2026 11:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 12:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -27,6 +27,21 @@
             <title><![CDATA[Concertation francophone sur l’optimisation de la production locale du vaccin Arn messager dans l’espace francophone]]></title>
             <link>https://www.francophonie.org/concertation-francophone-production-vaccin-arn-8680</link>
             <guid isPermaLink="false">0dba58cbf25602c27d367fc08a40493e77ebdf56acd32c074541d9e410fe3d22</guid>
+            <pubDate>Fri, 25 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Concertation francophone sur l’optimisation de la production locale du vaccin Arn messager dans l’espace francophone</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-25T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 25/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Concertation francophone sur l’optimisation de la production locale du vaccin Arn messager dans l’espace francophone</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-25T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 25/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Concertation francophone sur l’optimisation de la production locale du vaccin Arn messager dans l’espace francophone]]></title>
+            <link>https://www.francophonie.org/concertation-francophone-production-locale-vaccins-espace-francophone-8680</link>
+            <guid isPermaLink="false">df35146077dbac36c5763a4c03b2c4ef4b1d23335aa8d60e6f9e342315570312</guid>
             <pubDate>Fri, 25 Sep 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Concertation francophone sur l’optimisation de la production locale du vaccin Arn messager dans l’espace francophone</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
