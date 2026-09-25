@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 25 Sep 2026 07:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 08:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إدارة مطار النجف الدولي: إيقاف جميع الرحلات الجوية من إيران والمغادرة إليها…]]></title>
+            <link>https://t.me/aljazeeraBrk/236919</link>
+            <guid isPermaLink="false">01bca4b3f20250cd2626f6564213bc04a49371ab4e9f018296196b122b44cdab</guid>
+            <pubDate>Fri, 25 Sep 2026 08:14:02 GMT</pubDate>
+            <description><![CDATA[إدارة مطار النجف الدولي: إيقاف جميع الرحلات الجوية من إيران والمغادرة إليها اعتبارا من فجر اليوم]]></description>
+            <content:encoded><![CDATA[إدارة مطار النجف الدولي: إيقاف جميع الرحلات الجوية من إيران والمغادرة إليها اعتبارا من فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على أطراف بلدة كفرتبنيت جنوبي لبنان]]></title>
             <link>https://t.me/aljazeeraBrk/236918</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 23 Sep 2026 06:10:02 GMT</pubDate>
             <description><![CDATA[سلطة الموانئ الأوكرانية: مقتل قبطان سفينة ترفع علما أجنبيا في البحر الأسود إثر هجوم روسي استهدفها]]></description>
             <content:encoded><![CDATA[سلطة الموانئ الأوكرانية: مقتل قبطان سفينة ترفع علما أجنبيا في البحر الأسود إثر هجوم روسي استهدفها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: الاحتلال يهدم منشآت صناعية في بلدة جبع شمال شرقي القدس]]></title>
-            <link>https://t.me/aljazeeraBrk/236459</link>
-            <guid isPermaLink="false">52e1f837e180e0d5ae637b8570e2143962c3d5ec4881221c2c04597986c4c02a</guid>
-            <pubDate>Wed, 23 Sep 2026 05:58:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: الاحتلال يهدم منشآت صناعية في بلدة جبع شمال شرقي القدس]]></description>
-            <content:encoded><![CDATA[محافظة القدس: الاحتلال يهدم منشآت صناعية في بلدة جبع شمال شرقي القدس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
