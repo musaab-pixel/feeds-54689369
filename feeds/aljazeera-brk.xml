@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 25 Sep 2026 11:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 11:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده في المنطقة التي…]]></title>
+            <link>https://t.me/aljazeeraBrk/236950</link>
+            <guid isPermaLink="false">c2041bf8a8e34eeb2fd6539e3e37c08956adc86ef1cc97388b2d7a6dde24acf4</guid>
+            <pubDate>Fri, 25 Sep 2026 11:39:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده في المنطقة التي تعمل فيها قواتنا في جنوب لبنان]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده في المنطقة التي تعمل فيها قواتنا في جنوب لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: عراقجي أكد لنظيره الروسي عزم طهران على منع واشنطن من…]]></title>
             <link>https://t.me/aljazeeraBrk/236949</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 23 Sep 2026 11:14:02 GMT</pubDate>
             <description><![CDATA[مصادر في مستشفيات غزة: 6 شهداء بنيران قوات الاحتلال في مناطق عدة بالقطاع منذ فجر اليوم]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 6 شهداء بنيران قوات الاحتلال في مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح…]]></title>
-            <link>https://t.me/aljazeeraBrk/236484</link>
-            <guid isPermaLink="false">2c02bc620b543ec0162bb801d70653a6875feefa6902cd7fbc88d56a28038851</guid>
-            <pubDate>Wed, 23 Sep 2026 11:03:02 GMT</pubDate>
-            <description><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في قصف من مسيرة إسرائيلية على مدينة دير البلح وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
