@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 16:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 01:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IDA Member Spotlight: Jennifer Sofio Hall]]></title>
+            <link>https://www.documentary.org/blog/ida-member-spotlight-jennifer-sofio-hall</link>
+            <guid isPermaLink="false">65ab4fde86dedaac1a2f0c2d550cf3c935db966d790cc1f3b4548693abf15073</guid>
+            <pubDate>Fri, 25 Sep 2026 18:31:35 GMT</pubDate>
+            <description><![CDATA[    IDA Member Spotlight: Jennifer Sofio Hall
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/ida-staff" class="username">idastaff</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-25T11:31:35-07:00" title="Friday, September 25, 2026 - 11:31" class="datetime">Fri, 09/25/2026 - 11:31</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    IDA Member Spotlight: Jennifer Sofio Hall
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/ida-staff" class="username">idastaff</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-25T11:31:35-07:00" title="Friday, September 25, 2026 - 11:31" class="datetime">Fri, 09/25/2026 - 11:31</time>
+</span>
+
+
+]]></content:encoded>
+            <author>idastaff</author>
+        </item>
         <item>
             <title><![CDATA[End the Campaign of Threats Against NAZA Directors Yuval Abraham and Rachel Szor]]></title>
             <link>https://www.documentary.org/advocacy-blog/end-campaign-threats-against-naza-directors-yuval-abraham-and-rachel-szor</link>
