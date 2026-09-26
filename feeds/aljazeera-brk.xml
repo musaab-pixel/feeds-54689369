@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 26 Sep 2026 08:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 08:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مؤسسة النفط الليبية: توقف وحدة تكرير بمصفاة الزاوية بسبب استمرار إغلاق خط…]]></title>
+            <link>https://t.me/aljazeeraBrk/237125</link>
+            <guid isPermaLink="false">09050cf64116d3c36dbdd5fc7c6199cc1b6f0e1553650f367d5ce75a33591af4</guid>
+            <pubDate>Sat, 26 Sep 2026 08:38:02 GMT</pubDate>
+            <description><![CDATA[مؤسسة النفط الليبية: توقف وحدة تكرير بمصفاة الزاوية بسبب استمرار إغلاق خط الشرارة من مجموعات مسلحة]]></description>
+            <content:encoded><![CDATA[مؤسسة النفط الليبية: توقف وحدة تكرير بمصفاة الزاوية بسبب استمرار إغلاق خط الشرارة من مجموعات مسلحة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سلطات إقليم كراسنودار الروسي: انقطاع التيار الكهربائي عن نحو 26 ألفا من السكان…]]></title>
             <link>https://t.me/aljazeeraBrk/237124</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 24 Sep 2026 10:27:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في محافظة الطائف للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في محافظة الطائف للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى شهداء الأقصى: شهيدان و9 مصابين بنيران قوات الاحتلال وسط قطاع غزة منذ فجر…]]></title>
-            <link>https://t.me/aljazeeraBrk/236720</link>
-            <guid isPermaLink="false">c6f83606a80f77f7d484c61544e626f5858b7d941edbaac80dce9c5c61a9ec86</guid>
-            <pubDate>Thu, 24 Sep 2026 10:22:02 GMT</pubDate>
-            <description><![CDATA[مستشفى شهداء الأقصى: شهيدان و9 مصابين بنيران قوات الاحتلال وسط قطاع غزة منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[مستشفى شهداء الأقصى: شهيدان و9 مصابين بنيران قوات الاحتلال وسط قطاع غزة منذ فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
