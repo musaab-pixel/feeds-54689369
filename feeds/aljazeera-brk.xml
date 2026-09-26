@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 26 Sep 2026 13:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 13:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: قتيلان في مدينة سومي جراء هجمات روسية بالقنابل الموجهة…]]></title>
+            <link>https://t.me/aljazeeraBrk/237158</link>
+            <guid isPermaLink="false">76e00e6e3e10a96d0756118d634d7da937dac5e0d81cda709328f708535f9072</guid>
+            <pubDate>Sat, 26 Sep 2026 13:10:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: قتيلان في مدينة سومي جراء هجمات روسية بالقنابل الموجهة على منازل وبنية تحتية مدنية]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: قتيلان في مدينة سومي جراء هجمات روسية بالقنابل الموجهة على منازل وبنية تحتية مدنية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: لا مكان للأخبار الكاذبة في البيت الأبيض وهذا الأمر استمر طويلا وكلف بلدنا…]]></title>
             <link>https://t.me/aljazeeraBrk/237157</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 24 Sep 2026 14:26:02 GMT</pubDate>
             <description><![CDATA[الرئيس الفلسطيني: المرحلة الانتقالية يجب أن تقود لتوحيد غزة والضفة تحت دولة واحدة وسلاح شرعي واحد]]></description>
             <content:encoded><![CDATA[الرئيس الفلسطيني: المرحلة الانتقالية يجب أن تقود لتوحيد غزة والضفة تحت دولة واحدة وسلاح شرعي واحد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الفلسطيني: رحبنا بخطة الرئيس ترمب للسلام لكن للأسف لم نر شيئا يتحقق على…]]></title>
-            <link>https://t.me/aljazeeraBrk/236771</link>
-            <guid isPermaLink="false">5cdfd3d0baba7b78155dbe7f08aa63cbb3ffa6f751c2bb4d0c2a85dc1fed014b</guid>
-            <pubDate>Thu, 24 Sep 2026 14:25:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الفلسطيني: رحبنا بخطة الرئيس ترمب للسلام لكن للأسف لم نر شيئا يتحقق على أرض الواقع]]></description>
-            <content:encoded><![CDATA[الرئيس الفلسطيني: رحبنا بخطة الرئيس ترمب للسلام لكن للأسف لم نر شيئا يتحقق على أرض الواقع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
