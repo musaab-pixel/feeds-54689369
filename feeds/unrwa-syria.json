@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "cc6b00aa7d4d65ec266e096b1d5916ca9f787c3eff4880c376dc6037b78fcb77",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi9wNBVV95cUxPNXRGN2duQjBtSXh4UzI3c1RLZE53WlhwUWtsbTNTbUdZOW94TFpCRk9lR215MllhOFdWQlZYSW9xNlhodEs4TFgtZ2szalJINERXYWMtRXlyMjZPejJzY3UySXFMeUJ1QjZWenU3NWJxVHpQOXFEdWN2R29FS1BNaWItXzV4dkoyRFJhR3FaYklBR0FFSHZtSUs0WkVSWWVpeVJzMHc0WG1YbnVQYncycnVubXEtOGR3emZGbUM1WWk1T1JKUUloVHhNa0xsUm5USTF2ajl3SHhNMDZVamFRUjVCdk9hQUJwUXpncFZnTVNoS2pUY0FTYzdkNHJGaG8xbjk2SllMOE9XNUtqaEpURVpsRkMxc1AwMmpZMmhaZEpTNXJhdVY1LWtidjAyUGtBMlJjMkxHXzJIbTMwQXBpYWYzTTAtRl9hWTRUemVyNG5taHZxMGxzdnZxQWVoYXVLZk13T2t1aXBZZ2xSeVFjN3lyVnZrSFE1TXJGbFktSzdINlUzODA2aDN0WXBPVkY0d3M4MjMzYWRHUWFuSElXLU1pVDBFTFdoeWVvWTJrRzVnSDhwYm1HclVWTUxoRW9oYUVGNFIxOEdMMXFid0RpM0VINUJhdGlseV9oSEhKeEZsaHh1a1ExX2V5VEZNSkpmY0J6eVdKTQ?oc=5\" target=\"_blank\">\"أونروا\" تفتح باب التوظيف لمعلّمين في أربعة اختصاصات بمنطقة دمشق</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxPNXRGN2duQjBtSXh4UzI3c1RLZE53WlhwUWtsbTNTbUdZOW94TFpCRk9lR215MllhOFdWQlZYSW9xNlhodEs4TFgtZ2szalJINERXYWMtRXlyMjZPejJzY3UySXFMeUJ1QjZWenU3NWJxVHpQOXFEdWN2R29FS1BNaWItXzV4dkoyRFJhR3FaYklBR0FFSHZtSUs0WkVSWWVpeVJzMHc0WG1YbnVQYncycnVubXEtOGR3emZGbUM1WWk1T1JKUUloVHhNa0xsUm5USTF2ajl3SHhNMDZVamFRUjVCdk9hQUJwUXpncFZnTVNoS2pUY0FTYzdkNHJGaG8xbjk2SllMOE9XNUtqaEpURVpsRkMxc1AwMmpZMmhaZEpTNXJhdVY1LWtidjAyUGtBMlJjMkxHXzJIbTMwQXBpYWYzTTAtRl9hWTRUemVyNG5taHZxMGxzdnZxQWVoYXVLZk13T2t1aXBZZ2xSeVFjN3lyVnZrSFE1TXJGbFktSzdINlUzODA2aDN0WXBPVkY0d3M4MjMzYWRHUWFuSElXLU1pVDBFTFdoeWVvWTJrRzVnSDhwYm1HclVWTUxoRW9oYUVGNFIxOEdMMXFid0RpM0VINUJhdGlseV9oSEhKeEZsaHh1a1ExX2V5VEZNSkpmY0J6eVdKTQ?oc=5",
+            "title": "\"أونروا\" تفتح باب التوظيف لمعلّمين في أربعة اختصاصات بمنطقة دمشق - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wNBVV95cUxPNXRGN2duQjBtSXh4UzI3c1RLZE53WlhwUWtsbTNTbUdZOW94TFpCRk9lR215MllhOFdWQlZYSW9xNlhodEs4TFgtZ2szalJINERXYWMtRXlyMjZPejJzY3UySXFMeUJ1QjZWenU3NWJxVHpQOXFEdWN2R29FS1BNaWItXzV4dkoyRFJhR3FaYklBR0FFSHZtSUs0WkVSWWVpeVJzMHc0WG1YbnVQYncycnVubXEtOGR3emZGbUM1WWk1T1JKUUloVHhNa0xsUm5USTF2ajl3SHhNMDZVamFRUjVCdk9hQUJwUXpncFZnTVNoS2pUY0FTYzdkNHJGaG8xbjk2SllMOE9XNUtqaEpURVpsRkMxc1AwMmpZMmhaZEpTNXJhdVY1LWtidjAyUGtBMlJjMkxHXzJIbTMwQXBpYWYzTTAtRl9hWTRUemVyNG5taHZxMGxzdnZxQWVoYXVLZk13T2t1aXBZZ2xSeVFjN3lyVnZrSFE1TXJGbFktSzdINlUzODA2aDN0WXBPVkY0d3M4MjMzYWRHUWFuSElXLU1pVDBFTFdoeWVvWTJrRzVnSDhwYm1HclVWTUxoRW9oYUVGNFIxOEdMMXFid0RpM0VINUJhdGlseV9oSEhKeEZsaHh1a1ExX2V5VEZNSkpmY0J6eVdKTQ?oc=5\" target=\"_blank\">\"أونروا\" تفتح باب التوظيف لمعلّمين في أربعة اختصاصات بمنطقة دمشق</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-09-26T07:31:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
             "id": "7eb3ecbddf19986d7ff81761bba91aed27e1ab9548d6a1d8eed3e583340b3b86",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNUkJZS1lCNmlSRGFGWUdwT0dHSms4OU5id3loUE9oU0RSTzdwMWdLYnBka1dLYkRZcnc3V1VyMDBSd08tcVNVaVlKM0ZJU2Nnai1kQ3RBVFlldWZpcEZ6SFEyQ25GXzdXX3ZCZTNtTllmdUw5NjNMRTlEeHFieHctb1VCTVVFV1hfcGNPSm5DMzdzSWphY0RRblNDWHVSZkxodHhudFA0SWR1Z2M1WnphdjJfZThxYUkyS044dHRJcEtCTGRtX01Qak1FUXhuQUtzSHBFdDhwTFFxYVdvYTZrcGhDUVZtY05VYnBpbE13S2o1VjE1N01qaDlxX1VOdzBBdXYteklPcHpCNW9vNXhpOFowNnlDQ1EwMVVFemdoWENUMEZURXNXcWYyVGNRRnA3ZGwzNTZaUXRMZmtySC1VTTlkZld6bWhrTjYzNjBVejJ4NFB5VFFnSjlreXYwZS0ycFdBQl9lMUlwNWZsWVVUZFBHMWxKXzRGTVdtdW5LeTBCc2Fka1lWZ0lQbHRwTHViLVIzS0hHdElVeUF6aTdBY2loeXZQWTR0ZjB6aHVWSG9MNkM1bjFzTmpuOFJGZ1ZwSlRmZTJOWlU3WGxpeElhS3JBMmpZOXQyclFpRGxIU3pYZlZQZmZaaURSVVpTcUZNNUhsZ2JwZnJlSUlnay1kN2UtMUQ3amFCSDJTRG9uQ0l2YXhKUGpj?oc=5\" target=\"_blank\">اعتراضات على شروط \"أونروا\" للمنح الصغيرة في سوريا: تعجيزية وغير منصفة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNUkJZS1lCNmlSRGFGWUdwT0dHSms4OU5id3loUE9oU0RSTzdwMWdLYnBka1dLYkRZcnc3V1VyMDBSd08tcVNVaVlKM0ZJU2Nnai1kQ3RBVFlldWZpcEZ6SFEyQ25GXzdXX3ZCZTNtTllmdUw5NjNMRTlEeHFieHctb1VCTVVFV1hfcGNPSm5DMzdzSWphY0RRblNDWHVSZkxodHhudFA0SWR1Z2M1WnphdjJfZThxYUkyS044dHRJcEtCTGRtX01Qak1FUXhuQUtzSHBFdDhwTFFxYVdvYTZrcGhDUVZtY05VYnBpbE13S2o1VjE1N01qaDlxX1VOdzBBdXYteklPcHpCNW9vNXhpOFowNnlDQ1EwMVVFemdoWENUMEZURXNXcWYyVGNRRnA3ZGwzNTZaUXRMZmtySC1VTTlkZld6bWhrTjYzNjBVejJ4NFB5VFFnSjlreXYwZS0ycFdBQl9lMUlwNWZsWVVUZFBHMWxKXzRGTVdtdW5LeTBCc2Fka1lWZ0lQbHRwTHViLVIzS0hHdElVeUF6aTdBY2loeXZQWTR0ZjB6aHVWSG9MNkM1bjFzTmpuOFJGZ1ZwSlRmZTJOWlU3WGxpeElhS3JBMmpZOXQyclFpRGxIU3pYZlZQZmZaaURSVVpTcUZNNUhsZ2JwZnJlSUlnay1kN2UtMUQ3amFCSDJTRG9uQ0l2YXhKUGpj?oc=5",
@@ -1887,13 +1898,13 @@
         },
         {
             "id": "21a1e1cc3e05a092b756fccc7c569c39c778e254c5845610954a7a154a10baab",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5\" target=\"_blank\">الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5\" target=\"_blank\">الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
             "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5",
-            "title": "الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026 - akhbarelyom.com",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5\" target=\"_blank\">الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">akhbarelyom.com</font>",
+            "title": "الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026 - بوابة أخبار اليوم الإلكترونية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5\" target=\"_blank\">الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
             "date_modified": "2025-12-29T08:00:00.000Z",
             "author": {
-                "name": "akhbarelyom.com"
+                "name": "بوابة أخبار اليوم الإلكترونية"
             }
         },
         {
@@ -2191,17 +2202,6 @@
             "date_modified": "2025-11-18T08:00:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "4faa56e4a2379b87a5289b0f48acf7e9d01a125ded04830468b9b8350e419acf",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRmJHR25IUkdJOFlUMnA5aUJZWVdROURMSkhXaC1WT3dOVVNOOXZ4ejZxOUpQR015OWJ1U1d3LWE5OTl4TEhKUkx0ZTMzZ3c?oc=5\" target=\"_blank\">الأونروا تؤكد أن استمرار أداء مهامها الإنسانية يتطلب تمويلاً مالياً مستداماً</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRmJHR25IUkdJOFlUMnA5aUJZWVdROURMSkhXaC1WT3dOVVNOOXZ4ejZxOUpQR015OWJ1U1d3LWE5OTl4TEhKUkx0ZTMzZ3c?oc=5",
-            "title": "الأونروا تؤكد أن استمرار أداء مهامها الإنسانية يتطلب تمويلاً مالياً مستداماً - سانا",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRmJHR25IUkdJOFlUMnA5aUJZWVdROURMSkhXaC1WT3dOVVNOOXZ4ejZxOUpQR015OWJ1U1d3LWE5OTl4TEhKUkx0ZTMzZ3c?oc=5\" target=\"_blank\">الأونروا تؤكد أن استمرار أداء مهامها الإنسانية يتطلب تمويلاً مالياً مستداماً</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
-            "date_modified": "2025-11-15T08:00:00.000Z",
-            "author": {
-                "name": "سانا"
             }
         }
     ]
