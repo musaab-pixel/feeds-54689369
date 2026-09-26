@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 26 Sep 2026 08:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 09:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نائب رئيس البرلمان العراقي: قرار حظر الطيران المدني الإيراني في مطارات العراق…]]></title>
+            <link>https://t.me/aljazeeraBrk/237126</link>
+            <guid isPermaLink="false">11b22845995eb5b7ce69ab70cc24dc231732b499874e0247e46b12245a52f673</guid>
+            <pubDate>Sat, 26 Sep 2026 08:58:02 GMT</pubDate>
+            <description><![CDATA[نائب رئيس البرلمان العراقي: قرار حظر الطيران المدني الإيراني في مطارات العراق مستعجل وغير مدروس ويخالف الدستور]]></description>
+            <content:encoded><![CDATA[نائب رئيس البرلمان العراقي: قرار حظر الطيران المدني الإيراني في مطارات العراق مستعجل وغير مدروس ويخالف الدستور]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مؤسسة النفط الليبية: توقف وحدة تكرير بمصفاة الزاوية بسبب استمرار إغلاق خط…]]></title>
             <link>https://t.me/aljazeeraBrk/237125</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 24 Sep 2026 10:28:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في الطائف ومكة المكرمة للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في الطائف ومكة المكرمة للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في محافظة الطائف للتحذير من خطر]]></title>
-            <link>https://t.me/aljazeeraBrk/236721</link>
-            <guid isPermaLink="false">92ea0a0c219584eaa66e8ffcd43e6032774639fdc222008c03fbd2133c6783cf</guid>
-            <pubDate>Thu, 24 Sep 2026 10:27:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في محافظة الطائف للتحذير من خطر]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في محافظة الطائف للتحذير من خطر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
