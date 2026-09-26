@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 26 Sep 2026 10:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 11:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن خدمة الإنقاذ في باكستان: مقتل 11 شخصا وإصابة 30 في انفجار بمدينة ديرا…]]></title>
+            <link>https://t.me/aljazeeraBrk/237147</link>
+            <guid isPermaLink="false">673e436114fb211004eb23f67435596568e39c58544227f92918e1fb33eb0a98</guid>
+            <pubDate>Sat, 26 Sep 2026 11:23:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن خدمة الإنقاذ في باكستان: مقتل 11 شخصا وإصابة 30 في انفجار بمدينة ديرا إسماعيل خان شمال غرب البلاد]]></description>
+            <content:encoded><![CDATA[رويترز عن خدمة الإنقاذ في باكستان: مقتل 11 شخصا وإصابة 30 في انفجار بمدينة ديرا إسماعيل خان شمال غرب البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس الإيراني للجزيرة: يمكننا المساعدة في حل الخلاف بين السعودية واليمن ولن…]]></title>
             <link>https://t.me/aljazeeraBrk/237145</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 24 Sep 2026 11:21:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم التحالف: اعتراضات الدفاعات الجوية أحبطت محاولة استهداف الطائف وينبع]]></description>
             <content:encoded><![CDATA[المتحدث باسم التحالف: اعتراضات الدفاعات الجوية أحبطت محاولة استهداف الطائف وينبع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدثة باسم الحكومة البريطانية للجزيرة: حل الدولتين هو الطريق الوحيد لإنهاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/236742</link>
-            <guid isPermaLink="false">80251a84e05b720389db9d1b4753b3f8ec7bac96e52b990d518e55687f8d1daa</guid>
-            <pubDate>Thu, 24 Sep 2026 11:20:02 GMT</pubDate>
-            <description><![CDATA[المتحدثة باسم الحكومة البريطانية للجزيرة: حل الدولتين هو الطريق الوحيد لإنهاء الصراع]]></description>
-            <content:encoded><![CDATA[المتحدثة باسم الحكومة البريطانية للجزيرة: حل الدولتين هو الطريق الوحيد لإنهاء الصراع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
