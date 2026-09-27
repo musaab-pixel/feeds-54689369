@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "979adbb97f64d5c7c503667e378d323fd240d31adc9552af9d31546a8ca06140",
+            "content_html": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168459",
+            "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+            "summary": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/26-09-2026-UN-Photo-UNGA81-Saudi-Arabia.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-09-26T12:00:00.000Z"
+        },
+        {
             "id": "204478ae791fc369d3048618eb7f8853c749db010b6b774a10caf41f0dc08082",
             "content_html": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
             "url": "https://news.un.org/feed/view/en/story/2026/09/1168436",
