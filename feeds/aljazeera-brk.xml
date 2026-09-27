@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 27 Sep 2026 09:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 10:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: قتيل و3 مصابين إثر سقوط مسيرة روسية على سيارات في…]]></title>
+            <link>https://t.me/aljazeeraBrk/237285</link>
+            <guid isPermaLink="false">fdd409e7e5293ae102d6ec622c0ef8ec585e07b56d5bfa46c5dfd18241795133</guid>
+            <pubDate>Sun, 27 Sep 2026 10:09:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: قتيل و3 مصابين إثر سقوط مسيرة روسية على سيارات في بوتشا بمقاطعة كييف]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: قتيل و3 مصابين إثر سقوط مسيرة روسية على سيارات في بوتشا بمقاطعة كييف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: طائراتنا الحربية تقصف معسكرا وعربات لمليشيا الحوثي في…]]></title>
             <link>https://t.me/aljazeeraBrk/237284</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 25 Sep 2026 20:36:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء المصري: على المجتمع الدولي مسؤولية واضحة لوقف الانتهاكات الإسرائيلية الممنهجة للقانون الدولي]]></description>
             <content:encoded><![CDATA[رئيس الوزراء المصري: على المجتمع الدولي مسؤولية واضحة لوقف الانتهاكات الإسرائيلية الممنهجة للقانون الدولي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الإيراني: لا نرى صعوبة في تنفيذ الالتزامات إذا كانت واشنطن جادة…]]></title>
-            <link>https://t.me/aljazeeraBrk/237073</link>
-            <guid isPermaLink="false">9c3807090197a2dbf8ac554eeff2226bf4112408b6826480d35f8baea741fbb6</guid>
-            <pubDate>Fri, 25 Sep 2026 20:29:03 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الإيراني: لا نرى صعوبة في تنفيذ الالتزامات إذا كانت واشنطن جادة في التوصل لاتفاق وإعادة فتح هرمز]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الإيراني: لا نرى صعوبة في تنفيذ الالتزامات إذا كانت واشنطن جادة في التوصل لاتفاق وإعادة فتح هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
