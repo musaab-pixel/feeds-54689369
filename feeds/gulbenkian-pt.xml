@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 09:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 01:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1641,6 +1641,99 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transmissão Sansão e Dalila 05 dez 2026 / 17:00]]></title>
+            <link>https://gulbenkian.pt/agenda/sansao-e-dalila-3/</link>
+            <guid isPermaLink="false">397efef1d62e3b0ce0d1aa062ae932fe710ed060d23360d3aa230c3f893ccfe1</guid>
+            <pubDate>Sun, 27 Sep 2026 01:47:04 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													New York Metropolitan Opera Orchestra											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giacomo Sagripanti											</span>
+														<span class="tw-ml-xs tw-text-sm">Maestro</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Darko Tresnjak											</span>
+														<span class="tw-ml-xs tw-text-sm">Encenação</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Camille Saint-Saëns</h4>
+<p>Apesar da resistência inicial para levar uma ópera com um fundo religioso aos palcos franceses, a extraordinária criação do compositor francês Camille Saint-Saëns sobre a história bíblica de Sansão e Dalila tornar-se-ia uma das suas criações mais populares. Neste regresso à Metropolitan Opera da exuberante encenação de Darko Tresnjak, os protagonistas são a meio- soprano Aigul Akhmetshina e o tenor Clay Hilley. É nele que se centra esta narrativa de força sobre-humana, traída quando a paixão leva Sansão a baixar as defesas e a revelar a Dalila a fonte do seu poder.</p>
+<p class="tw-font-sans" style="font-size: 16px">Fotografia © Ken Howard – Met Opera</p>
+<h2 class="fcg-section__title" id="ficha-tecnica">
+			<span>Ficha técnica</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-text-22 tw-font-sans tw-mb-1">Elenco</p>
+<p>Aigul Akhmetshina<br>
+Clay Hilley<br>
+Quinn Kelsey<br>
+Alfred Walker<br>
+Morris Robinson</p>
+<h3 class="fcg-sponsors__title">Mecenas Gulbenkian Música</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													New York Metropolitan Opera Orchestra											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giacomo Sagripanti											</span>
+														<span class="tw-ml-xs tw-text-sm">Maestro</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Darko Tresnjak											</span>
+														<span class="tw-ml-xs tw-text-sm">Encenação</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Camille Saint-Saëns</h4>
+<p>Apesar da resistência inicial para levar uma ópera com um fundo religioso aos palcos franceses, a extraordinária criação do compositor francês Camille Saint-Saëns sobre a história bíblica de Sansão e Dalila tornar-se-ia uma das suas criações mais populares. Neste regresso à Metropolitan Opera da exuberante encenação de Darko Tresnjak, os protagonistas são a meio- soprano Aigul Akhmetshina e o tenor Clay Hilley. É nele que se centra esta narrativa de força sobre-humana, traída quando a paixão leva Sansão a baixar as defesas e a revelar a Dalila a fonte do seu poder.</p>
+<p class="tw-font-sans" style="font-size: 16px">Fotografia © Ken Howard – Met Opera</p>
+<h2 class="fcg-section__title" id="ficha-tecnica">
+			<span>Ficha técnica</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-text-22 tw-font-sans tw-mb-1">Elenco</p>
+<p>Aigul Akhmetshina<br>
+Clay Hilley<br>
+Quinn Kelsey<br>
+Alfred Walker<br>
+Morris Robinson</p>
+<h3 class="fcg-sponsors__title">Mecenas Gulbenkian Música</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/25_MET_3-S_D_6240_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Concerto Cinco sopros, um universo de sons 06 out 2026 / 18:30]]></title>

@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Thu, 24 Sep 2026 10:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 03:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -37,6 +37,99 @@
 <p>Important: Project applications are evaluated three times a year in May, September, and January.&nbsp;</p>
 <p>Applications may be submitted in English, Armenian, French, or Portuguese. The same or similar projects cannot be submitted more than once during any given year.</p>
 <p>Please note that budgets of proposals from the Americas must be in USD and budgets from the UK must be in GBP. All other proposal budgets (including Armenia, Lebanon, and Turkey) must be submitted in EUR only.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Transmission Samson et Dalila 05 Dec 2026 / 17:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/samson-et-dalila-3/</link>
+            <guid isPermaLink="false">c03cd03eb422025d89539f5f90ad9a174922947e1fccccb92246adbb567f8112</guid>
+            <pubDate>Sat, 05 Dec 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													New York Metropolitan Opera Orchestra											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giacomo Sagripanti											</span>
+														<span class="tw-ml-xs tw-text-sm">Conductor</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Darko Tresnjak											</span>
+														<span class="tw-ml-xs tw-text-sm">Staging</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Camille Saint-Saëns</h4>
+<p>Despite the initial resistance to staging an opera with a religious background in France, French composer Camille Saint-Saëns’s extraordinary creation based on the biblical story of Samson and Delilah would become one of his most popular works. In this return to the Metropolitan Opera of Darko Tresnjak’s lavish production, the leading roles are sung by mezzo-soprano Aigul Akhmetshina and tenor Clay Hilley. At the centre of the narrative is a man of superhuman strength, betrayed when passion leads Samson to lower his guard and reveal to Delilah the source of his power.</p>
+<p class="tw-font-sans" style="font-size: 16px">Photo © Ken Howard – Met Opera</p>
+<h2 class="fcg-section__title" id="credits">
+			<span>Credits</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-text-22 tw-font-sans tw-mb-1">Cast</p>
+<p>Aigul Akhmetshina<br>
+Clay Hilley<br>
+Quinn Kelsey<br>
+Alfred Walker<br>
+Morris Robinson</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													New York Metropolitan Opera Orchestra											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giacomo Sagripanti											</span>
+														<span class="tw-ml-xs tw-text-sm">Conductor</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Darko Tresnjak											</span>
+														<span class="tw-ml-xs tw-text-sm">Staging</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Camille Saint-Saëns</h4>
+<p>Despite the initial resistance to staging an opera with a religious background in France, French composer Camille Saint-Saëns’s extraordinary creation based on the biblical story of Samson and Delilah would become one of his most popular works. In this return to the Metropolitan Opera of Darko Tresnjak’s lavish production, the leading roles are sung by mezzo-soprano Aigul Akhmetshina and tenor Clay Hilley. At the centre of the narrative is a man of superhuman strength, betrayed when passion leads Samson to lower his guard and reveal to Delilah the source of his power.</p>
+<p class="tw-font-sans" style="font-size: 16px">Photo © Ken Howard – Met Opera</p>
+<h2 class="fcg-section__title" id="credits">
+			<span>Credits</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-text-22 tw-font-sans tw-mb-1">Cast</p>
+<p>Aigul Akhmetshina<br>
+Clay Hilley<br>
+Quinn Kelsey<br>
+Alfred Walker<br>
+Morris Robinson</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/25_MET_3-S_D_6240_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Scholarships Short Term Grant for Armenian Studies Qualified students (Master or PhD degree), academics and researchers in Armenian Studies wishing to attend international conferences or summer courses, to undertake field research or pursue small research projects, or to engage in other relevant activities related to their work. closes 04 Dec 2026 Open call]]></title>
@@ -13541,389 +13634,6 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
 	<li>Applications can only be submitted once all the mandatory fields of the form have been completed and the documentation required by the Call Conditions has been uploaded;</li>
 	<li>After filling the form, click on the ‘submit application’ button. In order to prevent difficulties in submitting applications, avoid submitting your application in the last few days of the deadline.</li>
 </ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Meer lezen]]></title>
-            <link>https://journalismfund.eu/profit-every-drop</link>
-            <guid isPermaLink="false">cbbd3516f019f3824d801c84ac871655437eff03941df3080a1a312da74bd231</guid>
-            <pubDate>Fri, 28 Aug 2026 14:31:24 GMT</pubDate>
-            <description><![CDATA[<p>VALLETTA/LISBON/NICOSIA - In Southern Europe, water scarcity demands public investment and raises groundwater prices, but who profits? A three-country investigation identifies commercial actors with disproportionate water privileges in the EU’s most water-scarce countries: Malta, Cyprus &amp; Portugal.<br> </p>
-<p>The EU has set objectives to restore and protect the water cycle by recognising water scarcity as a priority in the European Green Deal. The bloc’s Water Resilience Strategy calls for action to address “structural mismanagement of water due to both legal and illegal over-abstraction”. Yet a cross-border investigation covering Malta, Cyprus and Portugal shows that three of the EU’s most water-stressed countries systematically tolerate over-exploitation by for-profit companies.</p>
-<p><strong>Main Findings</strong></p>
-<ul><li>The investigation has documented cases where authorities are neither registering nor controlling commercial abstractions.</li><li>EU rules allow countries to apply exemptions from prior authorisation and monitoring requirements if administrations consider that individual abstractions will not affect the overall water status. But the actual effects are not known because they do not appear to be thoroughly measured.</li><li>The Maltese archipelago suffers from water stress and upgrading public water supply costs millions. But the responsible authority’s data show major gaps: under-reporting and registered boreholes attributed to long-defunct companies.</li><li>Malta’s largest groundwater user is a group of companies that benefits from government tenders and CAP subsidies. The government’s landscaping contractor comes second.</li><li>Portugal faces extreme water stress, worsened by climate change, while major users (agriculture, tourism, golf resorts) rely on self-extracted groundwater that is poorly monitored and largely invisible to authorities.</li><li>Private legal status of groundwater, absence of meters, illegal boreholes and weak data block effective pricing, proportional accountability of heavy users, and funding of water infrastructure, shifting drought costs onto public finances.</li><li>In Cyprus, just 1.4% of recorded abstraction points account for nearly 68% of the total permitted abstraction volume. Meanwhile, audits found poorly documented licensing decisions, known over-abstraction that did not consistently trigger enforcement, and incomplete collection of environmental and resource charges.</li><li>An unexpected exception is Nicosia’s bicommunal wastewater system: amid Cyprus’s worst drought since records began in 1901, the divided capital’s treatment plant discharged around 11 million cubic metres of reuse-grade water annually for over a decade, helping replenish groundwater and aquifers. A cross-divide project is now building the infrastructure to recover and reuse part of this water for irrigation.</li></ul>
-<p><strong>Methodology</strong></p>
-<p>The reporters used FOI requests and registry data to piece together evidence of the largest known beneficiaries of the water economy.</p>
-<h3 class="field-label-above">Themes</h3>
-<ul class="list">
-            <li><a href="/taxonomy/term/894" hreflang="en">Environment</a></li>
-      
-      </ul>
-<h3 class="field-label-above">Publication</h3>
-<p>ONLINE</p>
-<ul><li><a href="https://visao.pt/atualidade/sociedade/2026-08-26-investigacao-agua-fora-de-controlo/" target="_blank">Investigação: água fora de controlo</a>, Visao, 26/08/2026</li><li><a href="https://visao.pt/atualidade/sociedade/2026-08-26-mangualde-o-gigante-chileno-com-cadastro-ambiental/" target="_blank">Mangualde: o gigante chileno com cadastro ambiental</a>, Visao, 26/08/2026</li><li><a href="https://visao.pt/atualidade/sociedade/2026-08-26-algarve-turismo-laranjas-e-abacates/" target="_blank">Algarve: turismo, laranjas e abacates</a>, Visao, 26/08/2026</li></ul>
-<p>COUNTRIES</p>
-<ul><li>Cyprus</li><li>Malta</li><li>Portugal</li></ul>
-<h2 class="shape-title field-label-above">Team members</h2>
-<h2>
-  Daiva Repečkaitė
-</h2>
-<p>Daiva Repeckaite is a Lithuanian journalist based in Malta.&nbsp;</p>
-<h2>
-  Julian Bonnici
-</h2>
-<p>Julian Bonnici is the managing editor at Amphora Media (Malta).</p>
-<h2>
-  Kyriakos Pieridis
-</h2>
-<p>Kyriakos Pieridis is a journalist specializing in Cyprus and EU affairs. </p>
-<h2>
-  Turgut Denizgil
-</h2>
-<p>Turgut Denizgil is a Cyprus-based investigative researcher, visual journalist and communications professional.</p>
-<h2>
-  Diogo Augusto
-</h2>
-<p>Diogo Augusto is a Portuguese freelance investigative journalist based in Edinburgh.</p>
-<h2>
-  Christodoulos Mavroudis
-</h2>
-<p>Christodoulos Mavroudis is a Cyprus-based investigative journalist.</p>
-<h2>
-  Andreas Cosma
-</h2>
-<p>Andreas Cosma is a Cyprus based investigative journalist.</p>
-<h2 class="shape-title field-label-above">Media</h2>
-<h2>
-  Amphora Media
-</h2>
-<p>Amphora Media is the nonprofit investigative journalism platform of The Daphne Caruana Galizia Foundation.</p>
-<h2 class="shape-title field-label-above">Related projects</h2>
-<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2022-10/guateixquisis037.jpg?itok=Ww1mTeIY" width="800" height="350" alt="The Broken Veins of Latin America" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Nicola Zolin</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  The Broken Veins of Latin America
-</h2>
-
-    
-      <div class="teaser"><p>IXQUISIS - These series looked into lives and deaths of ‘Water Guardians’. The journalists investigated in depth three environmental murders related to water in Latin America.</p></div>
-      
-  
-
-
-  <a href="/the-broken-veins-of-latin-america" class="stretched-link" aria-label="Read more on The Broken Veins of Latin America">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-01/env1-2022_028_sp_image.jpg?itok=3FtjtCIZ" width="800" height="350" alt="Almeria fields" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Ian Howorth</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  An Unquenchable Thirst: Who Stole Almeria's Water
-</h2>
-
-    
-      <div class="teaser"><p>ALMERIA – The environmental crisis&nbsp;in southern Spain is hitting hard: even drinking water is becoming&nbsp;scarce.&nbsp;A 40-year free-for-all on the “Garden of Europe”, a thriving agricultural industry,&nbsp;has led Almeria to the brink of catastrophe.&nbsp;</p></div>
-      
-  
-
-
-  <a href="/who-stole-almerias-water" class="stretched-link" aria-label="Read more on An Unquenchable Thirst: Who Stole Almeria's Water">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-08/env1-2023_302_sp_image.jpg?itok=8rDIUmID" width="800" height="350" alt="The ruins of the Ayuda Bridge on the Guadiana border crossing between Spain and Portugal" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Michele Curel </div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  How Drought-provoked Water Scarcity Creates Tensions Between Portugal and Spain
-</h2>
-
-    
-      <div class="teaser"><p>VIGO – Spain and Portugal share their main rivers, a fact that has promoted diplomatic efforts for the joint management of common bodies of water. However, as extreme droughts become more frequent and intense in the Iberian Peninsula, local populations and legislators alike are struggling to cope with the effects of water scarcity.</p></div>
-      
-  
-
-
-  <a href="/water-scarcity-tensions-portugal-and-spain" class="stretched-link" aria-label="Read more on How Drought-provoked Water Scarcity Creates Tensions Between Portugal and Spain">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li></ul>
-<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
-<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
-<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
-<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></description>
-            <content:encoded><![CDATA[<p>VALLETTA/LISBON/NICOSIA - In Southern Europe, water scarcity demands public investment and raises groundwater prices, but who profits? A three-country investigation identifies commercial actors with disproportionate water privileges in the EU’s most water-scarce countries: Malta, Cyprus &amp; Portugal.<br> </p>
-<p>The EU has set objectives to restore and protect the water cycle by recognising water scarcity as a priority in the European Green Deal. The bloc’s Water Resilience Strategy calls for action to address “structural mismanagement of water due to both legal and illegal over-abstraction”. Yet a cross-border investigation covering Malta, Cyprus and Portugal shows that three of the EU’s most water-stressed countries systematically tolerate over-exploitation by for-profit companies.</p>
-<p><strong>Main Findings</strong></p>
-<ul><li>The investigation has documented cases where authorities are neither registering nor controlling commercial abstractions.</li><li>EU rules allow countries to apply exemptions from prior authorisation and monitoring requirements if administrations consider that individual abstractions will not affect the overall water status. But the actual effects are not known because they do not appear to be thoroughly measured.</li><li>The Maltese archipelago suffers from water stress and upgrading public water supply costs millions. But the responsible authority’s data show major gaps: under-reporting and registered boreholes attributed to long-defunct companies.</li><li>Malta’s largest groundwater user is a group of companies that benefits from government tenders and CAP subsidies. The government’s landscaping contractor comes second.</li><li>Portugal faces extreme water stress, worsened by climate change, while major users (agriculture, tourism, golf resorts) rely on self-extracted groundwater that is poorly monitored and largely invisible to authorities.</li><li>Private legal status of groundwater, absence of meters, illegal boreholes and weak data block effective pricing, proportional accountability of heavy users, and funding of water infrastructure, shifting drought costs onto public finances.</li><li>In Cyprus, just 1.4% of recorded abstraction points account for nearly 68% of the total permitted abstraction volume. Meanwhile, audits found poorly documented licensing decisions, known over-abstraction that did not consistently trigger enforcement, and incomplete collection of environmental and resource charges.</li><li>An unexpected exception is Nicosia’s bicommunal wastewater system: amid Cyprus’s worst drought since records began in 1901, the divided capital’s treatment plant discharged around 11 million cubic metres of reuse-grade water annually for over a decade, helping replenish groundwater and aquifers. A cross-divide project is now building the infrastructure to recover and reuse part of this water for irrigation.</li></ul>
-<p><strong>Methodology</strong></p>
-<p>The reporters used FOI requests and registry data to piece together evidence of the largest known beneficiaries of the water economy.</p>
-<h3 class="field-label-above">Themes</h3>
-<ul class="list">
-            <li><a href="/taxonomy/term/894" hreflang="en">Environment</a></li>
-      
-      </ul>
-<h3 class="field-label-above">Publication</h3>
-<p>ONLINE</p>
-<ul><li><a href="https://visao.pt/atualidade/sociedade/2026-08-26-investigacao-agua-fora-de-controlo/" target="_blank">Investigação: água fora de controlo</a>, Visao, 26/08/2026</li><li><a href="https://visao.pt/atualidade/sociedade/2026-08-26-mangualde-o-gigante-chileno-com-cadastro-ambiental/" target="_blank">Mangualde: o gigante chileno com cadastro ambiental</a>, Visao, 26/08/2026</li><li><a href="https://visao.pt/atualidade/sociedade/2026-08-26-algarve-turismo-laranjas-e-abacates/" target="_blank">Algarve: turismo, laranjas e abacates</a>, Visao, 26/08/2026</li></ul>
-<p>COUNTRIES</p>
-<ul><li>Cyprus</li><li>Malta</li><li>Portugal</li></ul>
-<h2 class="shape-title field-label-above">Team members</h2>
-<h2>
-  Daiva Repečkaitė
-</h2>
-<p>Daiva Repeckaite is a Lithuanian journalist based in Malta.&nbsp;</p>
-<h2>
-  Julian Bonnici
-</h2>
-<p>Julian Bonnici is the managing editor at Amphora Media (Malta).</p>
-<h2>
-  Kyriakos Pieridis
-</h2>
-<p>Kyriakos Pieridis is a journalist specializing in Cyprus and EU affairs. </p>
-<h2>
-  Turgut Denizgil
-</h2>
-<p>Turgut Denizgil is a Cyprus-based investigative researcher, visual journalist and communications professional.</p>
-<h2>
-  Diogo Augusto
-</h2>
-<p>Diogo Augusto is a Portuguese freelance investigative journalist based in Edinburgh.</p>
-<h2>
-  Christodoulos Mavroudis
-</h2>
-<p>Christodoulos Mavroudis is a Cyprus-based investigative journalist.</p>
-<h2>
-  Andreas Cosma
-</h2>
-<p>Andreas Cosma is a Cyprus based investigative journalist.</p>
-<h2 class="shape-title field-label-above">Media</h2>
-<h2>
-  Amphora Media
-</h2>
-<p>Amphora Media is the nonprofit investigative journalism platform of The Daphne Caruana Galizia Foundation.</p>
-<h2 class="shape-title field-label-above">Related projects</h2>
-<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2022-10/guateixquisis037.jpg?itok=Ww1mTeIY" width="800" height="350" alt="The Broken Veins of Latin America" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Nicola Zolin</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  The Broken Veins of Latin America
-</h2>
-
-    
-      <div class="teaser"><p>IXQUISIS - These series looked into lives and deaths of ‘Water Guardians’. The journalists investigated in depth three environmental murders related to water in Latin America.</p></div>
-      
-  
-
-
-  <a href="/the-broken-veins-of-latin-america" class="stretched-link" aria-label="Read more on The Broken Veins of Latin America">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-01/env1-2022_028_sp_image.jpg?itok=3FtjtCIZ" width="800" height="350" alt="Almeria fields" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Ian Howorth</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  An Unquenchable Thirst: Who Stole Almeria's Water
-</h2>
-
-    
-      <div class="teaser"><p>ALMERIA – The environmental crisis&nbsp;in southern Spain is hitting hard: even drinking water is becoming&nbsp;scarce.&nbsp;A 40-year free-for-all on the “Garden of Europe”, a thriving agricultural industry,&nbsp;has led Almeria to the brink of catastrophe.&nbsp;</p></div>
-      
-  
-
-
-  <a href="/who-stole-almerias-water" class="stretched-link" aria-label="Read more on An Unquenchable Thirst: Who Stole Almeria's Water">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-08/env1-2023_302_sp_image.jpg?itok=8rDIUmID" width="800" height="350" alt="The ruins of the Ayuda Bridge on the Guadiana border crossing between Spain and Portugal" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Michele Curel </div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  How Drought-provoked Water Scarcity Creates Tensions Between Portugal and Spain
-</h2>
-
-    
-      <div class="teaser"><p>VIGO – Spain and Portugal share their main rivers, a fact that has promoted diplomatic efforts for the joint management of common bodies of water. However, as extreme droughts become more frequent and intense in the Iberian Peninsula, local populations and legislators alike are struggling to cope with the effects of water scarcity.</p></div>
-      
-  
-
-
-  <a href="/water-scarcity-tensions-portugal-and-spain" class="stretched-link" aria-label="Read more on How Drought-provoked Water Scarcity Creates Tensions Between Portugal and Spain">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li></ul>
-<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
-<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
-<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
-<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
-            <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-08/ENV1_2025_902_HP_Image.jpg?itok=rU5j2Y0m" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
