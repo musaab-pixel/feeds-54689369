@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 27 Sep 2026 14:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 14:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الخزانة الأمريكي لفوكس نيوز: سمحنا بخروج أكثر من مليار برميل من النفط من…]]></title>
+            <link>https://t.me/aljazeeraBrk/237303</link>
+            <guid isPermaLink="false">baae090144af11e25a2c8a5dc7e69a12c1e92f92fe4ce23da8f3ed1f20807e10</guid>
+            <pubDate>Sun, 27 Sep 2026 14:31:02 GMT</pubDate>
+            <description><![CDATA[وزير الخزانة الأمريكي لفوكس نيوز: سمحنا بخروج أكثر من مليار برميل من النفط من مضيق هرمز مقابل صفر برميل لإيران]]></description>
+            <content:encoded><![CDATA[وزير الخزانة الأمريكي لفوكس نيوز: سمحنا بخروج أكثر من مليار برميل من النفط من مضيق هرمز مقابل صفر برميل لإيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الخزانة الأمريكي: الصين خفضت بشكل كبير مساعداتها لإيران]]></title>
             <link>https://t.me/aljazeeraBrk/237302</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 02:13:02 GMT</pubDate>
             <description><![CDATA[بزشكيان لـ سي بي إس نيوز: المرشد مجتبى خامنئي يتمتع بصحة تامة والإصابات التي لحقت بوجهه وساقيه قد شفيت]]></description>
             <content:encoded><![CDATA[بزشكيان لـ سي بي إس نيوز: المرشد مجتبى خامنئي يتمتع بصحة تامة والإصابات التي لحقت بوجهه وساقيه قد شفيت]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بزشكيان لـ سي بي إس نيوز: لا نحاول بناء أي سلاح نووي وسنسمح لمفتشي الوكالة…]]></title>
-            <link>https://t.me/aljazeeraBrk/237101</link>
-            <guid isPermaLink="false">4688ace2e505ee37ee412b61e15013c32ccfbd75f8b24083b18428cdfc2e1cb7</guid>
-            <pubDate>Sat, 26 Sep 2026 02:11:02 GMT</pubDate>
-            <description><![CDATA[بزشكيان لـ سي بي إس نيوز: لا نحاول بناء أي سلاح نووي وسنسمح لمفتشي الوكالة الدولية للطاقة الذرية بدخول البلاد]]></description>
-            <content:encoded><![CDATA[بزشكيان لـ سي بي إس نيوز: لا نحاول بناء أي سلاح نووي وسنسمح لمفتشي الوكالة الدولية للطاقة الذرية بدخول البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
