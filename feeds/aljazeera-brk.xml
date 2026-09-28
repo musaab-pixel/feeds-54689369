@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 28 Sep 2026 12:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 12:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: 1731 مستوطنا اقتحموا باحات المسجد الأقصى في ثالث أيام عيد العرش…]]></title>
+            <link>https://t.me/aljazeeraBrk/237408</link>
+            <guid isPermaLink="false">50d32ab6177353080b1aa061981bb6fedba709fb8b77f8458cf3dfcb7579c570</guid>
+            <pubDate>Mon, 28 Sep 2026 12:22:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: 1731 مستوطنا اقتحموا باحات المسجد الأقصى في ثالث أيام عيد العرش اليهودي]]></description>
+            <content:encoded><![CDATA[محافظة القدس: 1731 مستوطنا اقتحموا باحات المسجد الأقصى في ثالث أيام عيد العرش اليهودي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[منظمة الصحة العالمية: إجمالي الضحايا في اليمن منذ 6 أغسطس ارتفع إلى 4481 بينهم…]]></title>
             <link>https://t.me/aljazeeraBrk/237407</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 14:46:03 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مصادر: المفاوضون الأمريكيون أبلغوا إيران بأنها لا تسيطر على مضيق هرمز ولا يحق لها وضع شروط بشأنه]]></description>
             <content:encoded><![CDATA[أكسيوس عن مصادر: المفاوضون الأمريكيون أبلغوا إيران بأنها لا تسيطر على مضيق هرمز ولا يحق لها وضع شروط بشأنه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤول أمريكي: محادثات إيجابية وبناءة مستمرة بين واشنطن وطهران عبر…]]></title>
-            <link>https://t.me/aljazeeraBrk/237182</link>
-            <guid isPermaLink="false">0acad3df339e65e67e3023bd8f790aa3b5d110baa982dddcb86d57f63c9398da</guid>
-            <pubDate>Sat, 26 Sep 2026 14:46:03 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤول أمريكي: محادثات إيجابية وبناءة مستمرة بين واشنطن وطهران عبر وسطاء]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: محادثات إيجابية وبناءة مستمرة بين واشنطن وطهران عبر وسطاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
