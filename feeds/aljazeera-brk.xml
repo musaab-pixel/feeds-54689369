@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 28 Sep 2026 10:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 10:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المرشد الإيراني: أعداؤنا لا يتقدمون إلى ما بعد بحر العرب بسبب ضربات مؤلمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/237389</link>
+            <guid isPermaLink="false">cc0332ff0dc62ac6a3548e2889e7100e0394ab14d7e4281b00d06cd4901cb04d</guid>
+            <pubDate>Mon, 28 Sep 2026 10:50:02 GMT</pubDate>
+            <description><![CDATA[المرشد الإيراني: أعداؤنا لا يتقدمون إلى ما بعد بحر العرب بسبب ضربات مؤلمة تلقوها من قواتنا وحماة مضيق هرمز]]></description>
+            <content:encoded><![CDATA[المرشد الإيراني: أعداؤنا لا يتقدمون إلى ما بعد بحر العرب بسبب ضربات مؤلمة تلقوها من قواتنا وحماة مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الألمانية: الوزير فاديفول أبلغ لافروف أن برلين لن تتسامح مع الحوادث…]]></title>
             <link>https://t.me/aljazeeraBrk/237388</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 13:50:02 GMT</pubDate>
             <description><![CDATA[ترمب: أرفض المقترح الإيراني]]></description>
             <content:encoded><![CDATA[ترمب: أرفض المقترح الإيراني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل بـ5 آليات عسكرية إلى أطراف بلدة…]]></title>
-            <link>https://t.me/aljazeeraBrk/237162</link>
-            <guid isPermaLink="false">482dd926adfe73481dd19c441dc34707a332dd0b367d1c9568e19688abd57415</guid>
-            <pubDate>Sat, 26 Sep 2026 13:35:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل بـ5 آليات عسكرية إلى أطراف بلدة بيت جن بريف دمشق الغربي]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل بـ5 آليات عسكرية إلى أطراف بلدة بيت جن بريف دمشق الغربي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
