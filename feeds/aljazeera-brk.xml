@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 14:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجزيرة ترصد الأوضاع في قاعدة الدعم اللوجستي داخل مطار بغداد مع تواصل انسحاب…]]></title>
+            <link>https://t.me/aljazeeraBrk/237593</link>
+            <guid isPermaLink="false">93c0a785424a65c53571687d5b5b801a8a8c2946ad354790f8506452174d52b4</guid>
+            <pubDate>Tue, 29 Sep 2026 14:18:02 GMT</pubDate>
+            <description><![CDATA[الجزيرة ترصد الأوضاع في قاعدة الدعم اللوجستي داخل مطار بغداد مع تواصل انسحاب القوات الأمريكية والتحالف الدولي]]></description>
+            <content:encoded><![CDATA[الجزيرة ترصد الأوضاع في قاعدة الدعم اللوجستي داخل مطار بغداد مع تواصل انسحاب القوات الأمريكية والتحالف الدولي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال الإسرائيلي تقتحم بلدة المغير شرقي محافظة رام الله…]]></title>
             <link>https://t.me/aljazeeraBrk/237592</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 27 Sep 2026 06:06:02 GMT</pubDate>
             <description><![CDATA[الحكومة الإسرائيلية: فرض إغلاق شامل على معابر الضفة الغربية خلال عيد العرش من اليوم حتى السبت المقبل]]></description>
             <content:encoded><![CDATA[الحكومة الإسرائيلية: فرض إغلاق شامل على معابر الضفة الغربية خلال عيد العرش من اليوم حتى السبت المقبل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حاكم أوديسا: قتيل و3 مصابين إثر هجمات روسية على المقاطعة]]></title>
-            <link>https://t.me/aljazeeraBrk/237262</link>
-            <guid isPermaLink="false">30027f827c9638ae57c21b002bacaf28ca86a7cc7814ff6678d8323540252eff</guid>
-            <pubDate>Sun, 27 Sep 2026 05:53:02 GMT</pubDate>
-            <description><![CDATA[حاكم أوديسا: قتيل و3 مصابين إثر هجمات روسية على المقاطعة]]></description>
-            <content:encoded><![CDATA[حاكم أوديسا: قتيل و3 مصابين إثر هجمات روسية على المقاطعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
