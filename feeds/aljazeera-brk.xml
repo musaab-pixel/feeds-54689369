@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 14:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 15:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإيراني: لا ننكر عبور عدد قليل من السفن وكميات صغيرة من النفط من هرمز…]]></title>
+            <link>https://t.me/aljazeeraBrk/237597</link>
+            <guid isPermaLink="false">2fc012a1494a1177aa90ea8c00b797e72a8aa9d7f398e910863ef3719978bd1f</guid>
+            <pubDate>Tue, 29 Sep 2026 15:06:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإيراني: لا ننكر عبور عدد قليل من السفن وكميات صغيرة من النفط من هرمز لكن ذلك ضئيل مقارنة بما قبل الحرب]]></description>
+            <content:encoded><![CDATA[الجيش الإيراني: لا ننكر عبور عدد قليل من السفن وكميات صغيرة من النفط من هرمز لكن ذلك ضئيل مقارنة بما قبل الحرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: العملية ضد إيران كانت موفقة للغاية وهي من أهم الإنجازات التي حققناها خلال…]]></title>
             <link>https://t.me/aljazeeraBrk/237596</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 27 Sep 2026 06:23:02 GMT</pubDate>
             <description><![CDATA[حاكم خاركيف: قتيلان و7 مصابين في هجمات روسية استهدفت 21 منطقة في المقاطعة]]></description>
             <content:encoded><![CDATA[حاكم خاركيف: قتيلان و7 مصابين في هجمات روسية استهدفت 21 منطقة في المقاطعة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حاكم زابوروجيا: مقتل 4 أشخاص وإصابة 5 آخرين إثر هجمات روسية على المقاطعة]]></title>
-            <link>https://t.me/aljazeeraBrk/237266</link>
-            <guid isPermaLink="false">eff4c29d325235e29b87ba47142c6b47b4693c2c6e9de1ee47d67d803212c3cb</guid>
-            <pubDate>Sun, 27 Sep 2026 06:13:02 GMT</pubDate>
-            <description><![CDATA[حاكم زابوروجيا: مقتل 4 أشخاص وإصابة 5 آخرين إثر هجمات روسية على المقاطعة]]></description>
-            <content:encoded><![CDATA[حاكم زابوروجيا: مقتل 4 أشخاص وإصابة 5 آخرين إثر هجمات روسية على المقاطعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
