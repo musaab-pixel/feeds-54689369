@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 14:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 14:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على حي التفاح…]]></title>
+            <link>https://t.me/aljazeeraBrk/237594</link>
+            <guid isPermaLink="false">79e1e1314a97a404a4c0c55545cc28b4685f13391e46f61b622618a769e15516</guid>
+            <pubDate>Tue, 29 Sep 2026 14:35:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على حي التفاح شمال شرقي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على حي التفاح شمال شرقي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجزيرة ترصد الأوضاع في قاعدة الدعم اللوجستي داخل مطار بغداد مع تواصل انسحاب…]]></title>
             <link>https://t.me/aljazeeraBrk/237593</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 27 Sep 2026 06:09:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يقتحمون المسجد الأقصى ويؤدون طقوسا تلمودية تحت حماية الشرطة بمناسبة الأعياد اليهودية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يقتحمون المسجد الأقصى ويؤدون طقوسا تلمودية تحت حماية الشرطة بمناسبة الأعياد اليهودية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحكومة الإسرائيلية: فرض إغلاق شامل على معابر الضفة الغربية خلال عيد العرش من…]]></title>
-            <link>https://t.me/aljazeeraBrk/237263</link>
-            <guid isPermaLink="false">91fa45bf879f289276ef74b19321f191a8dd38aee15bcec001bcfcdc227f5ca7</guid>
-            <pubDate>Sun, 27 Sep 2026 06:06:02 GMT</pubDate>
-            <description><![CDATA[الحكومة الإسرائيلية: فرض إغلاق شامل على معابر الضفة الغربية خلال عيد العرش من اليوم حتى السبت المقبل]]></description>
-            <content:encoded><![CDATA[الحكومة الإسرائيلية: فرض إغلاق شامل على معابر الضفة الغربية خلال عيد العرش من اليوم حتى السبت المقبل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
