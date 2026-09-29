@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 08:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 09:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج…]]></title>
+            <link>https://t.me/aljazeeraBrk/237546</link>
+            <guid isPermaLink="false">6758565b0dd0aa4e4469306ae4f4e457ad6acb3c30729a0e72b2882f936741e5</guid>
+            <pubDate>Tue, 29 Sep 2026 08:58:03 GMT</pubDate>
+            <description><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج عمان تبلغ 9 ملايين برميل يوميا]]></description>
+            <content:encoded><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج عمان تبلغ 9 ملايين برميل يوميا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></title>
             <link>https://t.me/aljazeeraBrk/237545</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 16:25:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية السعودي: استعادة سلاسل الإمداد العالمية مسؤولية مشتركة]]></description>
             <content:encoded><![CDATA[وزير الخارجية السعودي: استعادة سلاسل الإمداد العالمية مسؤولية مشتركة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية السعودي: أمن منطقة الخليج جزء لا يتجزأ من أمن المنطقة والعالم]]></title>
-            <link>https://t.me/aljazeeraBrk/237213</link>
-            <guid isPermaLink="false">2b420bfdb3083a8dee4d93fdd7b80a68590703d3b11d84162578d8ace79788e1</guid>
-            <pubDate>Sat, 26 Sep 2026 16:24:03 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية السعودي: أمن منطقة الخليج جزء لا يتجزأ من أمن المنطقة والعالم]]></description>
-            <content:encoded><![CDATA[وزير الخارجية السعودي: أمن منطقة الخليج جزء لا يتجزأ من أمن المنطقة والعالم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
