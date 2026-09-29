@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "c1d429964b27bff30682dad018e2076813793a90fa1e8bbf01a2af9e5109c323",
+            "content_html": "الأمن الداخلي: القبض على قاتل الطفلة \"راما يزن المصري\" بريف دمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141191",
+            "title": "الأمن الداخلي: القبض على قاتل الطفلة \"راما يزن المصري\" بريف دمشق لمتابعة أحدث…",
+            "summary": "الأمن الداخلي: القبض على قاتل الطفلة \"راما يزن المصري\" بريف دمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-29T20:02:51.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "6ee02702b31aac4e3238a61bdfd1d59c92668555ffda632bc7df91be8fc15ca0",
             "content_html": "ترمب: أخرجنا من مضيق هرمز خلال اليومين الماضيين كميات نفط تفوق ما قبل الحرب",
             "url": "https://t.me/aljazeeraBrk/237624",
@@ -1593,17 +1604,6 @@
             "date_modified": "2026-09-29T06:03:05.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "3ac094ec4349a17192c39e91c61bb7446aff4d09425659d289832ad066e2cc4f",
-            "content_html": "مصادر فلسطينية للجزيرة: الشهيد البيك تسلم قيادة لواء الشمال في القسام خلال الحرب خلفا للقيادي أحمد الغندور",
-            "url": "https://t.me/aljazeeraBrk/237529",
-            "title": "مصادر فلسطينية للجزيرة: الشهيد البيك تسلم قيادة لواء الشمال في القسام خلال…",
-            "summary": "مصادر فلسطينية للجزيرة: الشهيد البيك تسلم قيادة لواء الشمال في القسام خلال الحرب خلفا للقيادي أحمد الغندور",
-            "date_modified": "2026-09-29T05:47:01.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
