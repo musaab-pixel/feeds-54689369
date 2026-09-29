@@ -27,6 +27,17 @@
             }
         },
         {
+            "id": "960ee4d5dd3e7bb0bad467dbad6a43701c5dae0b64e309463e988f47112a9823",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : l’OIF soutient le déploiement de modules de lutte contre la corruption dans les programmes universitaires</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-29T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 29/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/madagascar-soutien-deploiement-modules-lutte-corruption-programmes-universitaires-8686",
+            "title": "Madagascar : l’OIF soutient le déploiement de modules de lutte contre la corruption dans les programmes universitaires",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : l’OIF soutient le déploiement de modules de lutte contre la corruption dans les programmes universitaires</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-29T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 29/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-29T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "f3ff68b1d1e933feb1a21668f5e30f6e6cc66500403e3e4ed24e7f1403f766aa",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Législatives au Maroc : premier bilan de la Mission électorale de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-28T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 28/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/legislatives-au-maroc-premier-bilan-de-la-mission-electorale-de-la-francophonie-8682",
