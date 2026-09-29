@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 08:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 08:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></title>
+            <link>https://t.me/aljazeeraBrk/237545</link>
+            <guid isPermaLink="false">3a5151b894f93a6b6286970a60fdd8c76848f5ed335acec56a86f394a24794fb</guid>
+            <pubDate>Tue, 29 Sep 2026 08:56:02 GMT</pubDate>
+            <description><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></description>
+            <content:encoded><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[دائرة الأوقاف الإسلامية بالقدس: 907 مستوطنين اقتحموا المسجد الأقصى صباح اليوم…]]></title>
             <link>https://t.me/aljazeeraBrk/237544</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 16:24:03 GMT</pubDate>
             <description><![CDATA[وزير الخارجية السعودي: أمن منطقة الخليج جزء لا يتجزأ من أمن المنطقة والعالم]]></description>
             <content:encoded><![CDATA[وزير الخارجية السعودي: أمن منطقة الخليج جزء لا يتجزأ من أمن المنطقة والعالم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية السعودي: تعرضنا مع دول المنطقة لاعتداءات إيرانية غاشمة]]></title>
-            <link>https://t.me/aljazeeraBrk/237212</link>
-            <guid isPermaLink="false">b89830f75b26fa1dfd3b22546b14a6c961cfab07b1441d8c24e5c49a06b59a33</guid>
-            <pubDate>Sat, 26 Sep 2026 16:24:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية السعودي: تعرضنا مع دول المنطقة لاعتداءات إيرانية غاشمة]]></description>
-            <content:encoded><![CDATA[وزير الخارجية السعودي: تعرضنا مع دول المنطقة لاعتداءات إيرانية غاشمة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
