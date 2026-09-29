@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 08:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 08:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الأمم المتحدة: نزوح أكثر من 6500 فلسطيني في الضفة الغربية منذ 2023 بسبب هجمات…]]></title>
+            <link>https://t.me/aljazeeraBrk/237542</link>
+            <guid isPermaLink="false">bafa45f63912b810b80228ed900224b5bcbb4d989cddc3ecafe17de4ddb4809b</guid>
+            <pubDate>Tue, 29 Sep 2026 08:17:02 GMT</pubDate>
+            <description><![CDATA[الأمم المتحدة: نزوح أكثر من 6500 فلسطيني في الضفة الغربية منذ 2023 بسبب هجمات المستوطنين والقيود الإسرائيلية]]></description>
+            <content:encoded><![CDATA[الأمم المتحدة: نزوح أكثر من 6500 فلسطيني في الضفة الغربية منذ 2023 بسبب هجمات المستوطنين والقيود الإسرائيلية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[اللجنة الدولية للصليب الأحمر: ندعو لتوفير حماية عاجلة للسكان في الضفة الغربية…]]></title>
             <link>https://t.me/aljazeeraBrk/237541</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 16:09:05 GMT</pubDate>
             <description><![CDATA[لافروف: أهداف العملية العسكرية الخاصة في أوكرانيا ستتحقق والتهديدات لأمننا ستزال وسيعود السلام]]></description>
             <content:encoded><![CDATA[لافروف: أهداف العملية العسكرية الخاصة في أوكرانيا ستتحقق والتهديدات لأمننا ستزال وسيعود السلام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[لافروف: عدوان أمريكا وإسرائيل استهدف بنى تحتية مدنية ومنشآت إيران النووية…]]></title>
-            <link>https://t.me/aljazeeraBrk/237209</link>
-            <guid isPermaLink="false">c7b26f31499090eb2df1b9a47e7edd768b24cc7226f4cdc29dd3b0a1c1f657b2</guid>
-            <pubDate>Sat, 26 Sep 2026 16:09:04 GMT</pubDate>
-            <description><![CDATA[لافروف: عدوان أمريكا وإسرائيل استهدف بنى تحتية مدنية ومنشآت إيران النووية الخاضعة لضمانات وكالة الطاقة الذرية]]></description>
-            <content:encoded><![CDATA[لافروف: عدوان أمريكا وإسرائيل استهدف بنى تحتية مدنية ومنشآت إيران النووية الخاضعة لضمانات وكالة الطاقة الذرية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
