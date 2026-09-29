@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 28 Sep 2026 12:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 08:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Législatives au Maroc : premier bilan de la Mission électorale de la Francophonie]]></title>
+            <link>https://www.francophonie.org/legislatives-au-maroc-premier-bilan-de-la-mission-electorale-de-la-francophonie-8682</link>
+            <guid isPermaLink="false">f3ff68b1d1e933feb1a21668f5e30f6e6cc66500403e3e4ed24e7f1403f766aa</guid>
+            <pubDate>Mon, 28 Sep 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Législatives au Maroc : premier bilan de la Mission électorale de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-28T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 28/09/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Législatives au Maroc : premier bilan de la Mission électorale de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-09-28T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 28/09/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Directive - Déplacements professionnels]]></title>
             <link>https://www.francophonie.org/node/8681</link>

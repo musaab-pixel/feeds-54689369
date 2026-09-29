@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 28 Sep 2026 09:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 08:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -951,7 +951,7 @@
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/Kraft_Coloquio_banner_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dzudza, de Idio Chichava 17 nov 2026 / 19:00]]></title>
+            <title><![CDATA[Dança Dzudza, de Idio Chichava 17 nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/agenda/dzudza-de-idio-chichava/</link>
             <guid isPermaLink="false">65b951bbf79194ce2e3ff7da5bc5e21e8e8df88ec0e75f3681648c9caaed8d38</guid>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
@@ -1147,7 +1147,7 @@
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2024/10/FCG-Salavisa-Web-1200x900-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shikama, de Dorothée Munyaneza 14 nov 2026 / 19:00]]></title>
+            <title><![CDATA[Dança Shikama, de Dorothée Munyaneza 14 nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/agenda/dorothee-munyaneza/</link>
             <guid isPermaLink="false">a3603d2cdc4604501fe74f6b4662200df2a847d05e61aa493336f034f8c69ca7</guid>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
@@ -1641,6 +1641,185 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conferência A Biblioteca Oliveira Lima em Lisboa 19 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/a-biblioteca-oliveira-lima-em-lisboa/</link>
+            <guid isPermaLink="false">6edd57b3af3c21cdaac90449f79ef621313d179f36197abc6bf79734febbec57</guid>
+            <pubDate>Tue, 29 Sep 2026 08:09:38 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									segunda, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>No âmbito da parceria entre a Fundação Gulbenkian e a Catholic University of America, a Biblioteca de Arte e Arquivos organiza esta sessão com especialistas que conhecem de perto o acervo da Biblioteca Oliveira Lima. Adicionalmente, neste dia estará patente uma mostra de reproduções de documentos do acervo na Zona de Congressos, junto ao Auditório.</p>
+<p class="tw-font-sans">O evento decorre em português, sem tradução simultânea, será transmitido em direto e estará disponível nesta página.</p>
+<h2>Sobre a Biblioteca Oliveira Lima e a Catholic University of America</h2>
+<p>A Biblioteca Oliveira Lima nasceu da doação, em 1916, da biblioteca particular do diplomata, historiador e bibliófilo brasileiro Manoel de Oliveira Lima (1867–1928) e da sua mulher, Flora (1863–1940). Inaugurada em 1924, conserva hoje mais de 60.000 volumes, a que se junta uma coleção de documentos raros, manuscritos, mapas e obras de arte.</p>
+<p>É um dos principais centros de referência, fora de Portugal e do Brasil, para o estudo da presença portuguesa no mundo, com fundos particularmente ricos sobre a expansão portuguesa e sobre a história social, cultural e diplomática de Portugal e do Brasil nos séculos XIX e XX.</p>
+<p>O acervo artístico, com várias centenas de pinturas, desenhos, gravuras e esculturas, inclui peças de grande relevância para a história da arte luso-brasileira. Entre elas destacam-se uma paisagem de Pernambuco do pintor neerlandês Frans Post (1669); um conjunto de aguarelas do engenheiro militar espanhol Francisco Requena sobre o Alto Amazonas (década de 1780); mapas setecentistas do cartógrafo espanhol Juan de la Cruz Cano y Olmedilla; um retrato do então Príncipe Regente de Portugal, futuro D. João VI, pelo pintor italiano Domenico Pellegrini (1806); uma vista do Rio de Janeiro do pintor francês Nicolas-Antoine Taunay (c. 1816–1821); um busto de D. Pedro I, Imperador do Brasil, do escultor francês Marc Ferrez; e duas pinturas de Columbano Bordalo Pinheiro.</p>
+<p>A Biblioteca Oliveira Lima integra a Catholic University of America, em Washington, DC. A universidade foi fundada em 1887 pelos bispos norte-americanos, com carta papal de Leão XIII. É a única universidade do país com essa origem e a única, entre mais de 200 instituições católicas de ensino superior nos Estados Unidos, sob o patrocínio direto do episcopado.</p>
+<h2>A parceria com a Fundação Calouste Gulbenkian</h2>
+<p>Esta parceria visa promover a investigação, o tratamento, a preservação e a divulgação de coleções e arquivos relativos à história e à historiografia da arte brasileira e portuguesa. Dá particular destaque aos temas estudados pelo historiador de arte norte-americano Robert C. Smith (1912–1975).</p>
+<p>O espólio documental de Robert C. Smith foi legado à Fundação em 1975 e integra hoje o acervo da Biblioteca de Arte, que se dedica ao seu estudo e valorização. A colaboração entre as duas instituições vem de longe: desde a década de 1960, a Fundação Gulbenkian apoiou pontualmente colóquios e exposições ligados à Biblioteca Oliveira Lima.</p>
+<h2 class="fcg-section__title" id="oradores">
+			<span>Oradores</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Ana Luiza Barboza da Silva</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="1" class="button-link tw-normal-case tw-text-lg tw-font-light">Duília de Mello</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="2" class="button-link tw-normal-case tw-text-lg tw-font-light">Henry Granville Widener</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="3" class="button-link tw-normal-case tw-text-lg tw-font-light">Juliana Gongora&nbsp;</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="4" class="button-link tw-normal-case tw-text-lg tw-font-light">Nathália Henrich</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="5" class="button-link tw-normal-case tw-text-lg tw-font-light">Sílvia Ferreira</button>	</li>
+</ul>
+<h2 class="fcg-section__title" id="programa">
+			<span>Programa</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">18:00 / Receção de convidados </h4>
+<h4 class="fcg-programme__title">18:15 / Boas-vindas </h4>
+<h4 class="fcg-programme__title">18:25 / Apresentações </h4>
+<h4 class="fcg-programme__title">19:30 / Visita orientada à mostra de reproduções documentais do acervo da Biblioteca Oliveira Lima</h4>
+<h4 class="fcg-programme__title">19:45 / Cocktail </h4>
+<h4 class="fcg-programme__title">20:30 / Encerramento </h4>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									segunda, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>No âmbito da parceria entre a Fundação Gulbenkian e a Catholic University of America, a Biblioteca de Arte e Arquivos organiza esta sessão com especialistas que conhecem de perto o acervo da Biblioteca Oliveira Lima. Adicionalmente, neste dia estará patente uma mostra de reproduções de documentos do acervo na Zona de Congressos, junto ao Auditório.</p>
+<p class="tw-font-sans">O evento decorre em português, sem tradução simultânea, será transmitido em direto e estará disponível nesta página.</p>
+<h2>Sobre a Biblioteca Oliveira Lima e a Catholic University of America</h2>
+<p>A Biblioteca Oliveira Lima nasceu da doação, em 1916, da biblioteca particular do diplomata, historiador e bibliófilo brasileiro Manoel de Oliveira Lima (1867–1928) e da sua mulher, Flora (1863–1940). Inaugurada em 1924, conserva hoje mais de 60.000 volumes, a que se junta uma coleção de documentos raros, manuscritos, mapas e obras de arte.</p>
+<p>É um dos principais centros de referência, fora de Portugal e do Brasil, para o estudo da presença portuguesa no mundo, com fundos particularmente ricos sobre a expansão portuguesa e sobre a história social, cultural e diplomática de Portugal e do Brasil nos séculos XIX e XX.</p>
+<p>O acervo artístico, com várias centenas de pinturas, desenhos, gravuras e esculturas, inclui peças de grande relevância para a história da arte luso-brasileira. Entre elas destacam-se uma paisagem de Pernambuco do pintor neerlandês Frans Post (1669); um conjunto de aguarelas do engenheiro militar espanhol Francisco Requena sobre o Alto Amazonas (década de 1780); mapas setecentistas do cartógrafo espanhol Juan de la Cruz Cano y Olmedilla; um retrato do então Príncipe Regente de Portugal, futuro D. João VI, pelo pintor italiano Domenico Pellegrini (1806); uma vista do Rio de Janeiro do pintor francês Nicolas-Antoine Taunay (c. 1816–1821); um busto de D. Pedro I, Imperador do Brasil, do escultor francês Marc Ferrez; e duas pinturas de Columbano Bordalo Pinheiro.</p>
+<p>A Biblioteca Oliveira Lima integra a Catholic University of America, em Washington, DC. A universidade foi fundada em 1887 pelos bispos norte-americanos, com carta papal de Leão XIII. É a única universidade do país com essa origem e a única, entre mais de 200 instituições católicas de ensino superior nos Estados Unidos, sob o patrocínio direto do episcopado.</p>
+<h2>A parceria com a Fundação Calouste Gulbenkian</h2>
+<p>Esta parceria visa promover a investigação, o tratamento, a preservação e a divulgação de coleções e arquivos relativos à história e à historiografia da arte brasileira e portuguesa. Dá particular destaque aos temas estudados pelo historiador de arte norte-americano Robert C. Smith (1912–1975).</p>
+<p>O espólio documental de Robert C. Smith foi legado à Fundação em 1975 e integra hoje o acervo da Biblioteca de Arte, que se dedica ao seu estudo e valorização. A colaboração entre as duas instituições vem de longe: desde a década de 1960, a Fundação Gulbenkian apoiou pontualmente colóquios e exposições ligados à Biblioteca Oliveira Lima.</p>
+<h2 class="fcg-section__title" id="oradores">
+			<span>Oradores</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Ana Luiza Barboza da Silva</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="1" class="button-link tw-normal-case tw-text-lg tw-font-light">Duília de Mello</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="2" class="button-link tw-normal-case tw-text-lg tw-font-light">Henry Granville Widener</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="3" class="button-link tw-normal-case tw-text-lg tw-font-light">Juliana Gongora&nbsp;</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="4" class="button-link tw-normal-case tw-text-lg tw-font-light">Nathália Henrich</button>	</li>
+	<li class="fcg-columns-list__item">
+		<button data-modal="6abb72441fee2" data-index="5" class="button-link tw-normal-case tw-text-lg tw-font-light">Sílvia Ferreira</button>	</li>
+</ul>
+<h2 class="fcg-section__title" id="programa">
+			<span>Programa</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">18:00 / Receção de convidados </h4>
+<h4 class="fcg-programme__title">18:15 / Boas-vindas </h4>
+<h4 class="fcg-programme__title">18:25 / Apresentações </h4>
+<h4 class="fcg-programme__title">19:30 / Visita orientada à mostra de reproduções documentais do acervo da Biblioteca Oliveira Lima</h4>
+<h4 class="fcg-programme__title">19:45 / Cocktail </h4>
+<h4 class="fcg-programme__title">20:30 / Encerramento </h4>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/09/Conf_BA_OLLIA_2-4-1_ART_1-05-3_AMS_1782_R427_09_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Concerto Seong-Jin Cho 06 dez 2026 / 18:00]]></title>
@@ -4986,7 +5165,7 @@ Qual é o montante máximo de financiamento?				</h4>
 <p>O esclarecimento de dúvidas pode ser feito através do email <a href="/cdn-cgi/l/email-protection#fd9e9498939e949c8d9c91928dbd9a88919f989396949c93d38d89"><span class="__cf_email__" data-cfemail="bdded4d8d3ded4dccddcd1d2cdfddac8d1dfd8d3d6d4dcd393cdc9">[email&nbsp;protected]</span></a>, até ao dia 30 de setembro de 2026</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Bolsas Bolsas Gulbenkian Mérito Estas bolsas de mérito destinam-se a apoiar jovens de elevado potencial que se candidatam ao primeiro ano do ensino superior e que apresentam escassos recursos económicos. até 30 out 2026 Candidatura aberta]]></title>
+            <title><![CDATA[Bolsas Bolsas Gulbenkian Mérito A Bolsa Gulbenkian de Mérito é uma bolsa de estudo de 2.000 € por ano letivo para quem entra este ano no primeiro ano da universidade com nota de acesso igual ou superior a 17 valores (170 pontos) e tem escassos recursos económicos. Acumula com a bolsa de ação social da DGES e é renovável até à conclusão do mestrado. até 30 out 2026 Candidatura aberta]]></title>
             <link>https://gulbenkian.pt/bolsas-lista/bolsas-de-merito/</link>
             <guid isPermaLink="false">3f28aaaf3f24e0337fd38b071e2ed332383e0f0bb98857e5ec302c303a8c9579</guid>
             <pubDate>Sun, 02 Aug 2026 00:18:21 GMT</pubDate>
