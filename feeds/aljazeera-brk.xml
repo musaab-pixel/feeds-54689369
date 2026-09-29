@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 09:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 09:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إيرانية: العملة الوطنية تواصل هبوطا غير مسبوق في السوق الموازية…]]></title>
+            <link>https://t.me/aljazeeraBrk/237548</link>
+            <guid isPermaLink="false">db4de75d96173b6c227069a1a6dd6b48fb652dd7848bc7d948704a0dcb69e481</guid>
+            <pubDate>Tue, 29 Sep 2026 09:45:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إيرانية: العملة الوطنية تواصل هبوطا غير مسبوق في السوق الموازية لتسجل 252 ألف تومان للدولار الواحد]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إيرانية: العملة الوطنية تواصل هبوطا غير مسبوق في السوق الموازية لتسجل 252 ألف تومان للدولار الواحد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الكرملين: لا نرغب بخروج إيران من معاهدة عدم الانتشار النووي وتصريحات طهران بهذا…]]></title>
             <link>https://t.me/aljazeeraBrk/237547</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 26 Sep 2026 16:26:03 GMT</pubDate>
             <description><![CDATA[وزير الخارجية السعودي: جهود استعادة الأمن في المنطقة لا يمكن أن تقوم على الهيمنة وفرض النفوذ]]></description>
             <content:encoded><![CDATA[وزير الخارجية السعودي: جهود استعادة الأمن في المنطقة لا يمكن أن تقوم على الهيمنة وفرض النفوذ]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية السعودي: نشدد على أهمية أن تكون أي ترتيبات متصلة بأمن المنطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/237216</link>
-            <guid isPermaLink="false">e62fc9a8e1a54f5735521ce57b0d41b037f3d56420d1dad63176e1485523e95d</guid>
-            <pubDate>Sat, 26 Sep 2026 16:26:03 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية السعودي: نشدد على أهمية أن تكون أي ترتيبات متصلة بأمن المنطقة شاملة ومستدامة]]></description>
-            <content:encoded><![CDATA[وزير الخارجية السعودي: نشدد على أهمية أن تكون أي ترتيبات متصلة بأمن المنطقة شاملة ومستدامة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
