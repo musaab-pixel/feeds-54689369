@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Tue, 29 Sep 2026 09:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 12:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Meilensteine der Robert Bosch Stiftung]]></title>
+            <link>https://bosch-stiftung.de/story/meilensteine-der-robert-bosch-stiftung</link>
+            <guid isPermaLink="false">25384581f56e68c0e19f7b3c9052b2ca9b3ae9b3643b4f77d1606834af34c7fd</guid>
+            <pubDate>Wed, 30 Sep 2026 07:49:48 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Meilensteine der Robert Bosch Stiftung</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-30T09:49:48+02:00" title="Mittwoch, 30 September 2026 - 09:49" class="datetime">Mi. 30 Sep 2026 - 09:49</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Meilensteine der Robert Bosch Stiftung</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-30T09:49:48+02:00" title="Mittwoch, 30 September 2026 - 09:49" class="datetime">Mi. 30 Sep 2026 - 09:49</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
+        </item>
         <item>
             <title><![CDATA[Diese Schulen zeigen, wie gute Bildung gelingt]]></title>
             <link>https://bosch-stiftung.de/story/diese-schulen-zeigen-wie-gute-bildung-gelingt</link>
