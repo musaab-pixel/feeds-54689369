@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "c7c39163ce2657edd62fea28c70b055dd3db60a06c885f4de686834367a62422",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9jbUNPVS1MSFJZLUFfWTl3X3VHa0pVVEI0TVlXTFRGNHR5bDRhYTZ1dzMyZWx0QVA5emh5YUxTV0c3d2ZIMnVxQVBfQWc1TEpHT1hQTFV0MS1mM1FqcURpMFdES0lKb0hST0E?oc=5\" target=\"_blank\">مَن قتل راما المصري في دمشق؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">زاد الاردن</font>",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jbUNPVS1MSFJZLUFfWTl3X3VHa0pVVEI0TVlXTFRGNHR5bDRhYTZ1dzMyZWx0QVA5emh5YUxTV0c3d2ZIMnVxQVBfQWc1TEpHT1hQTFV0MS1mM1FqcURpMFdES0lKb0hST0E?oc=5",
+            "title": "مَن قتل راما المصري في دمشق؟ - زاد الاردن",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9jbUNPVS1MSFJZLUFfWTl3X3VHa0pVVEI0TVlXTFRGNHR5bDRhYTZ1dzMyZWx0QVA5emh5YUxTV0c3d2ZIMnVxQVBfQWc1TEpHT1hQTFV0MS1mM1FqcURpMFdES0lKb0hST0E?oc=5\" target=\"_blank\">مَن قتل راما المصري في دمشق؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">زاد الاردن</font>",
+            "date_modified": "2026-09-30T16:24:00.000Z",
+            "author": {
+                "name": "زاد الاردن"
+            }
+        },
+        {
             "id": "b436e750f713f40a48d2d87103eb2d5cb3c53d00aad4f876ef8012b5a44ad96e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiuARBVV95cUxNTWlPOUtKNnZ2a2kzZUM0NVJCcFg3ajhnTTQzdFdDbEsyR3B4dVYzWWdlWkE5WHUxMjZ0WWpZMUYyMUd3MEZ2VVg4RGhiOE5TR3BDVGFOX2tjMmpFekczYWZGejdDbGp2Y0cyZWxnUHF3SHZNRTNJLUtXWmUwYTIzZHczTGdVZF9MZUNvZm85SDNOV3RoVmNMVUptNUVsdkg1Wmo4d3FKLUVFZ0pIY19ZbHVNbjJvRkVZcEotc2o5Y1p6WFpZWHRYY0JLUDBxNkJ1eWl2dkRjTUVDNnZDTlRFSjUwMl8tc3MtN01ZdHRzbkZ3TEVkS1lhYjQwRkhQOUxtNzBFd1BQaG9ZZGNNZ0lmZDZTSU0yY3Y4TXBNTVJ0Mjc0VHZZZDB5bl9WLWR6OUNNdGF0OUtScnkwSTZYSG9WekNKZkRZTDBQRThhQ0RTbmFmRWlrMmJsSE1fME40dTVjUUhNaWlxajZzNnVWV05NZDF6OC1rc283cUktVmM3clZWU2ZLcFE4aG5QNjIzZHZmUEhldUZCMVRIX29hYmh5LUJHTnNxa3VpZERfejg3R21LTzFHb1RyZzJsMllKNzBrSjZFWFJLZ0pYR1ZLdDhBVU43ajJKa2xPUDhiN3F0MHJ1SGxNTm1xdTNXem9hT3FRYU9OaWRyQkRNcGN4bnVNeUFYSlhiUm5CNjB5NDg1TmdZdklycjRWY1llclhUMU9MMC1xb1FneHVrc1UzSlNkOHc3TkE5YjZD?oc=5\" target=\"_blank\">\"أونروا\" تحذّر اللاجئين الفلسطينيين في سوريا من أشخاص ينتحلون صفة موظفيها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNTWlPOUtKNnZ2a2kzZUM0NVJCcFg3ajhnTTQzdFdDbEsyR3B4dVYzWWdlWkE5WHUxMjZ0WWpZMUYyMUd3MEZ2VVg4RGhiOE5TR3BDVGFOX2tjMmpFekczYWZGejdDbGp2Y0cyZWxnUHF3SHZNRTNJLUtXWmUwYTIzZHczTGdVZF9MZUNvZm85SDNOV3RoVmNMVUptNUVsdkg1Wmo4d3FKLUVFZ0pIY19ZbHVNbjJvRkVZcEotc2o5Y1p6WFpZWHRYY0JLUDBxNkJ1eWl2dkRjTUVDNnZDTlRFSjUwMl8tc3MtN01ZdHRzbkZ3TEVkS1lhYjQwRkhQOUxtNzBFd1BQaG9ZZGNNZ0lmZDZTSU0yY3Y4TXBNTVJ0Mjc0VHZZZDB5bl9WLWR6OUNNdGF0OUtScnkwSTZYSG9WekNKZkRZTDBQRThhQ0RTbmFmRWlrMmJsSE1fME40dTVjUUhNaWlxajZzNnVWV05NZDF6OC1rc283cUktVmM3clZWU2ZLcFE4aG5QNjIzZHZmUEhldUZCMVRIX29hYmh5LUJHTnNxa3VpZERfejg3R21LTzFHb1RyZzJsMllKNzBrSjZFWFJLZ0pYR1ZLdDhBVU43ajJKa2xPUDhiN3F0MHJ1SGxNTm1xdTNXem9hT3FRYU9OaWRyQkRNcGN4bnVNeUFYSlhiUm5CNjB5NDg1TmdZdklycjRWY1llclhUMU9MMC1xb1FneHVrc1UzSlNkOHc3TkE5YjZD?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-04-28T07:00:00.000Z",
             "author": {
                 "name": "شبكة مصدر الاخبارية"
-            }
-        },
-        {
-            "id": "3d190b6945be1f44f125d9b9ec721dc5374d662ef6e92931bf6b05582ced3795",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxPWUJIYVVjbGpSd1pITk9IdF9KQk9hdnRSMVg5eXlxWW84bk1oNXpoT0ZOaTdjOHduOHF4UFZtY0Yxd1prc1BiWWZ1WmMwMGZLemRTVXBQc0Jqak1pMlVtTmRDcnpsYXNuODgyNF8xNzJMY1dCS1pnV1F3ZDJpcHZGMG1LR0psZ3VTZjJCYS1ibXdMa1lxUC1QTlRoY3E5VTJsclpsOU1sMlVBa29nbGZmdWJDcjFIcjhQMGoyLVkwMnVGS2pVRlBTejAzbDlob2dnUkFTMFVkcmdjQlJsWExpUmlFVndVS0xBRm8tMUp6aDBSaHM5NDRfSzhFMnlzNnpQYldmVHlpXzZ6X0tKazR6NlZ5UUNvRW1ySGxFQmlOSEVxenl5cEdYSUtKbjJyajAxRXVnUm1kSWFGZ2M1Y1g1My1HaGUxRno1aHNaYjBONzRGb05QbVExaHRSMElqLWpUOGhUdDNIY1ZzcFNVdmd2ek5WT0NEMEpRS2RMX3VOaGkza09WS1dNQlJOcw?oc=5\" target=\"_blank\">حل أزمة استثناء فلسطينيي سوريا من الحج والعمرة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPWUJIYVVjbGpSd1pITk9IdF9KQk9hdnRSMVg5eXlxWW84bk1oNXpoT0ZOaTdjOHduOHF4UFZtY0Yxd1prc1BiWWZ1WmMwMGZLemRTVXBQc0Jqak1pMlVtTmRDcnpsYXNuODgyNF8xNzJMY1dCS1pnV1F3ZDJpcHZGMG1LR0psZ3VTZjJCYS1ibXdMa1lxUC1QTlRoY3E5VTJsclpsOU1sMlVBa29nbGZmdWJDcjFIcjhQMGoyLVkwMnVGS2pVRlBTejAzbDlob2dnUkFTMFVkcmdjQlJsWExpUmlFVndVS0xBRm8tMUp6aDBSaHM5NDRfSzhFMnlzNnpQYldmVHlpXzZ6X0tKazR6NlZ5UUNvRW1ySGxFQmlOSEVxenl5cEdYSUtKbjJyajAxRXVnUm1kSWFGZ2M1Y1g1My1HaGUxRno1aHNaYjBONzRGb05QbVExaHRSMElqLWpUOGhUdDNIY1ZzcFNVdmd2ek5WT0NEMEpRS2RMX3VOaGkza09WS1dNQlJOcw?oc=5",
-            "title": "حل أزمة استثناء فلسطينيي سوريا من الحج والعمرة - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwNBVV95cUxPWUJIYVVjbGpSd1pITk9IdF9KQk9hdnRSMVg5eXlxWW84bk1oNXpoT0ZOaTdjOHduOHF4UFZtY0Yxd1prc1BiWWZ1WmMwMGZLemRTVXBQc0Jqak1pMlVtTmRDcnpsYXNuODgyNF8xNzJMY1dCS1pnV1F3ZDJpcHZGMG1LR0psZ3VTZjJCYS1ibXdMa1lxUC1QTlRoY3E5VTJsclpsOU1sMlVBa29nbGZmdWJDcjFIcjhQMGoyLVkwMnVGS2pVRlBTejAzbDlob2dnUkFTMFVkcmdjQlJsWExpUmlFVndVS0xBRm8tMUp6aDBSaHM5NDRfSzhFMnlzNnpQYldmVHlpXzZ6X0tKazR6NlZ5UUNvRW1ySGxFQmlOSEVxenl5cEdYSUtKbjJyajAxRXVnUm1kSWFGZ2M1Y1g1My1HaGUxRno1aHNaYjBONzRGb05QbVExaHRSMElqLWpUOGhUdDNIY1ZzcFNVdmd2ek5WT0NEMEpRS2RMX3VOaGkza09WS1dNQlJOcw?oc=5\" target=\"_blank\">حل أزمة استثناء فلسطينيي سوريا من الحج والعمرة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-04-27T07:00:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]
