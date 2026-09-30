@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 11:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 12:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة فارس: دوي انفجار في محيط شارع جمهوري بمدينة زاهدان جنوب شرق إيران دون أن…]]></title>
+            <link>https://t.me/aljazeeraBrk/237739</link>
+            <guid isPermaLink="false">37a676a5ca0722cb6b50f58a77d1866e55ed1b5bbe73e170ca1d8a7b670173f5</guid>
+            <pubDate>Wed, 30 Sep 2026 11:58:02 GMT</pubDate>
+            <description><![CDATA[وكالة فارس: دوي انفجار في محيط شارع جمهوري بمدينة زاهدان جنوب شرق إيران دون أن يتضح مصدره]]></description>
+            <content:encoded><![CDATA[وكالة فارس: دوي انفجار في محيط شارع جمهوري بمدينة زاهدان جنوب شرق إيران دون أن يتضح مصدره]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس العراقي: قرار السلم والحرب حق حصري للدولة ومؤسساتها الدستورية]]></title>
             <link>https://t.me/aljazeeraBrk/237738</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 28 Sep 2026 11:24:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: زوال الخطر عن نجران وجازان]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: زوال الخطر عن نجران وجازان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في نجران وجازان للتحذير من خطر]]></title>
-            <link>https://t.me/aljazeeraBrk/237397</link>
-            <guid isPermaLink="false">98c1bc8894edced17afc055ca65cd9cf26ed8cb3c5761b85a31c3d6c40cf0967</guid>
-            <pubDate>Mon, 28 Sep 2026 11:20:03 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في نجران وجازان للتحذير من خطر]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في نجران وجازان للتحذير من خطر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
