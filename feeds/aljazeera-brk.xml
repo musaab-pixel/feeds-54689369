@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 21:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 21:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: ربما نضرب إيران وربما نتوصل إلى اتفاق وعلينا اتخاذ القرار والحرب ستنتهي…]]></title>
+            <link>https://t.me/aljazeeraBrk/237855</link>
+            <guid isPermaLink="false">f0a05e0d9671decb0bac325badd6262cdee81797c93db280bbac91c98403ef66</guid>
+            <pubDate>Wed, 30 Sep 2026 21:17:02 GMT</pubDate>
+            <description><![CDATA[ترمب: ربما نضرب إيران وربما نتوصل إلى اتفاق وعلينا اتخاذ القرار والحرب ستنتهي قريبا جدا بطريقة أو بأخرى]]></description>
+            <content:encoded><![CDATA[ترمب: ربما نضرب إيران وربما نتوصل إلى اتفاق وعلينا اتخاذ القرار والحرب ستنتهي قريبا جدا بطريقة أو بأخرى]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: تحدثت مع نتنياهو بشأن حادث طائرة فلاي دبي]]></title>
             <link>https://t.me/aljazeeraBrk/237854</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 29 Sep 2026 16:03:03 GMT</pubDate>
             <description><![CDATA[وكالة الأنباء المغربية: الملك محمد_السادس يعين فاطمة الزهراء المنصوري رئيسة للحكومة ويكلفها بتشكيل حكومة جديدة]]></description>
             <content:encoded><![CDATA[وكالة الأنباء المغربية: الملك محمد_السادس يعين فاطمة الزهراء المنصوري رئيسة للحكومة ويكلفها بتشكيل حكومة جديدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة ٣ فلسطينيين إثر اعتداء مستوطنين عليهم في منطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/237602</link>
-            <guid isPermaLink="false">d31024d330d09d5e9625bf60f4dfba68b8f2e981441edb7debad53de4f3ebee0</guid>
-            <pubDate>Tue, 29 Sep 2026 15:58:02 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة ٣ فلسطينيين إثر اعتداء مستوطنين عليهم في منطقة جمالا شمال غرب محافظة رام الله]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة ٣ فلسطينيين إثر اعتداء مستوطنين عليهم في منطقة جمالا شمال غرب محافظة رام الله]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
