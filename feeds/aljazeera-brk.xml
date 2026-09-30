@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 15:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 15:56:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير العدل الأمريكي: نقوم بتنسيق وثيق مع نظرائنا في الخارج بشأن حادثة طائرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/237786</link>
+            <guid isPermaLink="false">d1737866d0d73b104d5a5b93c9a991a44d0428962173326e08322bf30b17610f</guid>
+            <pubDate>Wed, 30 Sep 2026 15:52:02 GMT</pubDate>
+            <description><![CDATA[وزير العدل الأمريكي: نقوم بتنسيق وثيق مع نظرائنا في الخارج بشأن حادثة طائرة فلاي دبي]]></description>
+            <content:encoded><![CDATA[وزير العدل الأمريكي: نقوم بتنسيق وثيق مع نظرائنا في الخارج بشأن حادثة طائرة فلاي دبي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هبوط طائرة فلاي دبي البديلة التي تقل مسافرين إسرائيليين في مطار بن غوريون بتل…]]></title>
             <link>https://t.me/aljazeeraBrk/237785</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 29 Sep 2026 07:13:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تعتقل شابا خلال توغلها قرب قرية الحرية بريف القنيطرة جنوب غربي سوريا]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تعتقل شابا خلال توغلها قرب قرية الحرية بريف القنيطرة جنوب غربي سوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بنيران قوات الاحتلال في مدينتي غزة ودير البلح…]]></title>
-            <link>https://t.me/aljazeeraBrk/237533</link>
-            <guid isPermaLink="false">3baf9eac3fe38c6d795a782e1c0da0a64251f9997a36f29988669d85deaf2ed1</guid>
-            <pubDate>Tue, 29 Sep 2026 07:08:02 GMT</pubDate>
-            <description><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بنيران قوات الاحتلال في مدينتي غزة ودير البلح منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بنيران قوات الاحتلال في مدينتي غزة ودير البلح منذ فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
