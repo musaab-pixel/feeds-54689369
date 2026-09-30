@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a2192265a694b20f3c289cc8023e2802cfc0d0caf661be3de727c0144944f281",
+            "content_html": "الإخبارية: سماع دوي انفجار بالغوطة الشرقية في ريف دمشق يجري التحقق من طبيعته<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141221",
+            "title": "الإخبارية: سماع دوي انفجار بالغوطة الشرقية في ريف دمشق يجري التحقق من طبيعته…",
+            "summary": "الإخبارية: سماع دوي انفجار بالغوطة الشرقية في ريف دمشق يجري التحقق من طبيعته<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/O36zWzYh8xu2l_EVPA7mUFCZ-RkQfXkz4l9ZuSLosHLKlIqTz6GUPVMiYPrgvbd34NOVbWgqytZWszcWzB6I4i-GZszByPkFVgrLKpCc9rYK292gz1d1-MhwYC7jqKxBcOG6XSVG9PAmA1ktYV9797r9jltPKKJqnUi9jL-JKESTqgn9TyawYlcadNaI1HKDMfBbcLkgnqNGB-LXkj6iZTlu7e2OPYNo7t02DV-7fyj83mA6jhu81LPugZdHIAVUlXKp9TxNyOP8Ki-EXPyEfjSou98DLvGaQpHu-qWxjCixu37-q4FczguI4xM35xhQtnJUhCkIQgp1YIiC_uv-Rw.jpg",
+            "date_modified": "2026-09-30T18:27:40.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "90da4dbb615fe852b58dcfbee37f556c12d64bacb49e9a233ebdad6504eb3433",
             "content_html": "قائد المحور 6 لقوات البيشمركة للجزيرة: نتمنى أن توقف إيران قصف إقليم كردستان في المرحلة المقبلة",
             "url": "https://t.me/aljazeeraBrk/237824",
@@ -1624,17 +1636,6 @@
             "date_modified": "2026-09-30T07:30:15.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "403e57bc1f3c8288ba9a20935f2d1337f5885dcbc825eaf68dd45284086fee4e",
-            "content_html": "البنتاغون: من المتوقع أن تقود قوات الأمن العراقية الجهود المستمرة لتأمين الدولة وكبح فلول تنظيم الدولة",
-            "url": "https://t.me/aljazeeraBrk/237672",
-            "title": "البنتاغون: من المتوقع أن تقود قوات الأمن العراقية الجهود المستمرة لتأمين الدولة…",
-            "summary": "البنتاغون: من المتوقع أن تقود قوات الأمن العراقية الجهود المستمرة لتأمين الدولة وكبح فلول تنظيم الدولة",
-            "date_modified": "2026-09-30T07:30:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
