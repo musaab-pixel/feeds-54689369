@@ -49,6 +49,17 @@
             }
         },
         {
+            "id": "7cbf18a75923df79a699dee8519988fa9b16976df456d4efb41bcb307affde29",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/gemeinsam-die-krebsmedizin-von-morgen-gestalten",
+            "title": "Gemeinsam die Krebsmedizin von morgen gestalten",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
+            "date_modified": "2026-09-24T08:20:01.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "1fd9bc16655bc93f4e54ea300dcd96a56cd59a561f7747bf8850d9ae97b3090c",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Senior Projektmanager (m/w/div.) im Team Zukunftsfähiges Bildungssystem, Schwerpunkt datengestützte Qualitätsentwicklung, in Berlin</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-23T14:10:54+02:00\" title=\"Mittwoch, 23 September 2026 - 14:10\" class=\"datetime\">Mi. 23 Sep 2026 - 14:10</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/senior-projektmanager-mwdiv-im-team-zukunftsfaehiges-bildungssystem-schwerpunkt",
@@ -63,6 +74,17 @@
             "id": "423c69073b14121983d793d08ac71eca71a206b7053dd75b7ceec631d8b0a8ea",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">KI auf dem Weg in die Klinik</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-22T14:04:32+02:00\" title=\"Dienstag, 22 September 2026 - 14:04\" class=\"datetime\">Di. 22 Sep 2026 - 14:04</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/news/ki-auf-dem-weg-die-klinik",
+            "title": "KI auf dem Weg in die Klinik",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">KI auf dem Weg in die Klinik</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-22T14:04:32+02:00\" title=\"Dienstag, 22 September 2026 - 14:04\" class=\"datetime\">Di. 22 Sep 2026 - 14:04</time>\n</span>\n",
+            "date_modified": "2026-09-22T12:04:32.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "05b5e1af911722b2325800c99a47c8d00a601e101ee4e781d722be04a6742948",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">KI auf dem Weg in die Klinik</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-22T14:04:32+02:00\" title=\"Dienstag, 22 September 2026 - 14:04\" class=\"datetime\">Di. 22 Sep 2026 - 14:04</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/ki-auf-dem-weg-die-klinik",
             "title": "KI auf dem Weg in die Klinik",
             "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">KI auf dem Weg in die Klinik</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-22T14:04:32+02:00\" title=\"Dienstag, 22 September 2026 - 14:04\" class=\"datetime\">Di. 22 Sep 2026 - 14:04</time>\n</span>\n",
             "date_modified": "2026-09-22T12:04:32.000Z",
