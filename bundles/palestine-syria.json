@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "8616d4065bdc66499928c784fee897af9dba178d1add8b9cc085bbaacf96019b",
+            "content_html": "وكالة الأنباء السورية: استهداف حافلة من قبل مجهولين على جسر مصياف بريف حماة أسفر عن قتلى وجرحى",
+            "url": "https://t.me/aljazeeraBrk/237842",
+            "title": "وكالة الأنباء السورية: استهداف حافلة من قبل مجهولين على جسر مصياف بريف حماة…",
+            "summary": "وكالة الأنباء السورية: استهداف حافلة من قبل مجهولين على جسر مصياف بريف حماة أسفر عن قتلى وجرحى",
+            "date_modified": "2026-09-30T19:30:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "61d1fec793fa1b962291dce88f85a3f81e7dc45d2790911abfb15ea25045d293",
+            "content_html": "الإخبارية: إصابتان جراء الانفجار الذي وقع في خط للغاز قرب محطة تشرين بريف دمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141223",
+            "title": "الإخبارية: إصابتان جراء الانفجار الذي وقع في خط للغاز قرب محطة تشرين بريف دمشق…",
+            "summary": "الإخبارية: إصابتان جراء الانفجار الذي وقع في خط للغاز قرب محطة تشرين بريف دمشق<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-30T19:25:59.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "4381d6954360943255b5580ed6435fbf921cd6d69fbac38c892e400a6a421d8b",
+            "content_html": "سانا: استهداف حافلة من قبل مجهولين على جسر مصياف بريف حماة أسفر عن قتلى وجرحى<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141222",
+            "title": "سانا: استهداف حافلة من قبل مجهولين على جسر مصياف بريف حماة أسفر عن قتلى وجرحى…",
+            "summary": "سانا: استهداف حافلة من قبل مجهولين على جسر مصياف بريف حماة أسفر عن قتلى وجرحى<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-09-30T19:22:27.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "56a4dd88bee296d8a4e360c0bde88e1831506f51d6cc1e4ee1af573d6856b9c3",
+            "content_html": "وزير الحرب الأمريكي: صحفيون يكشفون تحركات قواتنا وقواعدنا للعدو ويعرضون عملياتنا للخطر عبر تسريب معلومات سرية",
+            "url": "https://t.me/aljazeeraBrk/237841",
+            "title": "وزير الحرب الأمريكي: صحفيون يكشفون تحركات قواتنا وقواعدنا للعدو ويعرضون…",
+            "summary": "وزير الحرب الأمريكي: صحفيون يكشفون تحركات قواتنا وقواعدنا للعدو ويعرضون عملياتنا للخطر عبر تسريب معلومات سرية",
+            "date_modified": "2026-09-30T19:21:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "737093fb202e4435f9a61adac0226008bab2e88ecbfc3d4088961e171ccdeb6d",
             "content_html": "وزير الحرب الأمريكي: العمليات العسكرية ضد إيران كانت شجاعة وتاريخية",
             "url": "https://t.me/aljazeeraBrk/237840",
@@ -1591,51 +1635,6 @@
             "date_modified": "2026-09-30T09:23:09.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "3b44173e2f68de558a011f7f8cbccd6a666320919f259a78bfc327ca125c223e",
-            "content_html": "رئيس مجلس النواب العراقي: قوة العراق تبدأ من احترام دستوره وهيبة مؤسساته وسيادة القانون على الجميع دون استثناء",
-            "url": "https://t.me/aljazeeraBrk/237703",
-            "title": "رئيس مجلس النواب العراقي: قوة العراق تبدأ من احترام دستوره وهيبة مؤسساته وسيادة…",
-            "summary": "رئيس مجلس النواب العراقي: قوة العراق تبدأ من احترام دستوره وهيبة مؤسساته وسيادة القانون على الجميع دون استثناء",
-            "date_modified": "2026-09-30T09:22:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "ac8746a89c4d620c867992eb81db9c6b1c63ed443531dc6b9b187543297e9bb5",
-            "content_html": "رئيس مجلس النواب العراقي: حماية سيادة البلد ووحدة أراضيه واستقلال قراره الوطني ليست موضع مجاملة أو مساومة",
-            "url": "https://t.me/aljazeeraBrk/237702",
-            "title": "رئيس مجلس النواب العراقي: حماية سيادة البلد ووحدة أراضيه واستقلال قراره الوطني…",
-            "summary": "رئيس مجلس النواب العراقي: حماية سيادة البلد ووحدة أراضيه واستقلال قراره الوطني ليست موضع مجاملة أو مساومة",
-            "date_modified": "2026-09-30T09:21:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "6cad709cfc15de9b85ae88f4329298c123f98056628d7e1babece75e567af27a",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i>الهيئة المركزية للرقابة والتفتيش تصدر قرارًا بحسم 5% من راتب سكرتيرة رئيس مجلس مدينة حمص لمدة 6 أشهر ونقلها إلى موقع لا يكون على تماس مباشر مع المواطنين<br><br>الهيئة ذكرت في بيان لها  ثبوت إقدام العاملة المذكورة على التصرف باستهتار ولا مبالاة وبطريقة غير لائقة مع المراجعين وقيامها بالتدخين بطريقة مستفزة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141209",
-            "title": "🛑الهيئة المركزية للرقابة والتفتيش تصدر قرارًا بحسم 5% من راتب سكرتيرة رئيس…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i>الهيئة المركزية للرقابة والتفتيش تصدر قرارًا بحسم 5% من راتب سكرتيرة رئيس مجلس مدينة حمص لمدة 6 أشهر ونقلها إلى موقع لا يكون على تماس مباشر مع المواطنين<br><br>الهيئة ذكرت في بيان لها  ثبوت إقدام العاملة المذكورة على التصرف باستهتار ولا مبالاة وبطريقة غير لائقة مع المراجعين وقيامها بالتدخين بطريقة مستفزة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/i2VNPYoEkShJ3dtlUy8rfhWf1So9gcjckCWjNJIlymfpn3dlfI8hsBPJip-hPueJ1o_QO17aHc6P5ibSpP9yBgrvcjngc1T6gpLSu4gPxGYHJdTY75PiuGm9QX1LUWbgCaz_UAaIQqJxBipwOJWgbt2i0cr4vNcCm2QAzS51fGgHBItWz2e2NDQKFE4FtGbfdbeCobmbLZsXNFHermjbHrlsocCLdCaT9LckX45QKJacwAFtgm3pLXsxWVgra6J56xdXRuJEDH-0O9aQ1t0tKN5IDXJJhs9UNw-rinoGNEPA2N8UD7sflwO-13VjjjV7qG3YuwKDS0bPvbYvu9ZkDA.jpg",
-            "date_modified": "2026-09-30T08:23:48.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "8384e7378bff61fb65e0f98b109e9e42a845acee0fd43a8ef54981adb02822d5",
-            "content_html": "التحالف الدولي في العراق: العلاقة بين جيوش التحالف ستنتقل إلى مرحلة أخرى من التعاون",
-            "url": "https://t.me/aljazeeraBrk/237685",
-            "title": "التحالف الدولي في العراق: العلاقة بين جيوش التحالف ستنتقل إلى مرحلة أخرى من…",
-            "summary": "التحالف الدولي في العراق: العلاقة بين جيوش التحالف ستنتقل إلى مرحلة أخرى من التعاون",
-            "date_modified": "2026-09-30T08:06:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
