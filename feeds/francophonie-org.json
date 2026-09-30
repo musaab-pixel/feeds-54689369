@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "66a68f19741c9e4ebd428a37ee565de0e97641b406a1bb6043693d0afd20ef87",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Togo : pour une formation professionnelle en alternance à l'ère du numérique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 30/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/l-oif-aux-cotes-du-togo-pour-un-eftp-dual-a-l-ere-du-numerique-8688",
+            "title": "Togo : pour une formation professionnelle en alternance à l'ère du numérique",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Togo : pour une formation professionnelle en alternance à l'ère du numérique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 30/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-30T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "36c24e2b00937b7a6de4cf9de22ad478a9c3cfd943734cd9ef5f6718d3971612",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : 181 jeunes formés avec D-CLIC aux métiers du numérique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 30/09/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/madagascar-181-jeunes-formes-avec-d-clic-aux-metiers-du-numerique-8687",
+            "title": "Madagascar : 181 jeunes formés avec D-CLIC aux métiers du numérique",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Madagascar : 181 jeunes formés avec D-CLIC aux métiers du numérique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 30/09/2026 - 15:43</span>\n",
+            "date_modified": "2026-09-30T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "1cbf6470a6f12fed59153f8ecd9956a5dfead3a3c548af9acf850dae9cf56446",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Tchad : lancement du projet de digitalisation de l’état civil</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-29T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 29/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/tchad-lancement-du-projet-de-digitalisation-de-l-etat-civil-8684",
