@@ -4,10 +4,17 @@
         <title>Action Group for Palestinians of Syria — ActionPal</title>
         <link>https://actionpal.org.uk/</link>
         <description>RSS Factory feed "Action Group for Palestinians of Syria — ActionPal" (type: website)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 10:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 10:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجموعة العمل تحذر من تهديد حقوق اللاجئين الفلسطينيين وتقويض دور الأونروا]]></title>
+            <link>https://actionpal.org.uk/post/999125933</link>
+            <guid isPermaLink="false">933ba97ee20567aba35d32bbe6b7e7109afc6a67b88e58770cffec33331e425d</guid>
+            <pubDate>Wed, 30 Sep 2026 10:52:08 GMT</pubDate>
+            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/07/IMG-20260727-WA0046.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[مجموعة العمل تكشف تفاصيل مقتل الطفلة &#8220;راما&#8221; على يد جارها]]></title>
             <link>https://actionpal.org.uk/post/999135110</link>
@@ -5686,13 +5693,6 @@
 <p>ويشير الرصد إلى أن قضايا الهجرة واللجوء والاندماج باتت عاملاً مؤثراً في خيارات عدد من اللاجئين الفلسطينيين السوريين السياسية، مع تباين مواقفهم بين دعم حزب اليسار (V) والحزب الاشتراكي الديمقراطي (S) وأحزاب أخرى، تبعاً لتقييم كل مشارك لمواقف هذه الأحزاب من قضايا الإقامة والجنسية وحقوق المهاجرين.</p>
 <p>ولا يمكن اعتبار نتائج هذا الرصد ممثلة لجميع اللاجئين الفلسطينيين السوريين في السويد، إذ تستند إلى آراء الأشخاص الذين شملهم الرصد الميداني، ولا تقوم على عينة إحصائية تمثيلية، إلا أنها تقدم مؤشراً على بعض الاتجاهات والمخاوف السياسية المتداولة داخل هذه الشريحة.</p>]]></content:encoded>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/08/%D9%88-1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[مضخة تنهي أزمة المياه بأطراف مخيم خان دنون]]></title>
-            <link>https://actionpal.org.uk/post/999130895</link>
-            <guid isPermaLink="false">0c24f210a712e07cf5eaa486a3266d3a22f0976a1d1adc46c66eb3f218b55126</guid>
-            <pubDate>Sat, 29 Aug 2026 11:20:25 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/08/777-1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
