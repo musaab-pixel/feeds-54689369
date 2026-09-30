@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 16:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 16:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 8 شهداء وأكثر من 15 مصابا في عدوان إسرائيلي على مدينتي…]]></title>
+            <link>https://t.me/aljazeeraBrk/237798</link>
+            <guid isPermaLink="false">dd773b6a9ebc9854b7f1523ccb6ff28ac824056d641d397f12de925af31c8c06</guid>
+            <pubDate>Wed, 30 Sep 2026 16:48:03 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 8 شهداء وأكثر من 15 مصابا في عدوان إسرائيلي على مدينتي غزة وخان يونس منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 8 شهداء وأكثر من 15 مصابا في عدوان إسرائيلي على مدينتي غزة وخان يونس منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وصول طائرة فلاي دبي البديلة التي تقل مسافرين إسرائيليين إلى مطار بن غوريون بتل…]]></title>
             <link>https://t.me/aljazeeraBrk/237797</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 29 Sep 2026 08:58:03 GMT</pubDate>
             <description><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج عمان تبلغ 9 ملايين برميل يوميا]]></description>
             <content:encoded><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج عمان تبلغ 9 ملايين برميل يوميا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></title>
-            <link>https://t.me/aljazeeraBrk/237545</link>
-            <guid isPermaLink="false">3a5151b894f93a6b6286970a60fdd8c76848f5ed335acec56a86f394a24794fb</guid>
-            <pubDate>Tue, 29 Sep 2026 08:56:02 GMT</pubDate>
-            <description><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></description>
-            <content:encoded><![CDATA[وزارة الأوقاف بالقدس: 966 مستوطنا اقتحموا المسجد الأقصى خلال الفترة الصباحية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
