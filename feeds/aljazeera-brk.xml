@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 15:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 15:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هبوط طائرة فلاي دبي البديلة التي تقل مسافرين إسرائيليين في مطار بن غوريون بتل…]]></title>
+            <link>https://t.me/aljazeeraBrk/237785</link>
+            <guid isPermaLink="false">41787e31273387e6760c4e2f7566cd7ad4d0f289fd0664141e01ae94ec3023e0</guid>
+            <pubDate>Wed, 30 Sep 2026 15:37:02 GMT</pubDate>
+            <description><![CDATA[هبوط طائرة فلاي دبي البديلة التي تقل مسافرين إسرائيليين في مطار بن غوريون بتل أبيب]]></description>
+            <content:encoded><![CDATA[هبوط طائرة فلاي دبي البديلة التي تقل مسافرين إسرائيليين في مطار بن غوريون بتل أبيب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الإسعاف والطوارئ: شهيد ومصابون بقصف مسيرة إسرائيلية على بلدة القرارة شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/237784</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 29 Sep 2026 07:08:02 GMT</pubDate>
             <description><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بنيران قوات الاحتلال في مدينتي غزة ودير البلح منذ فجر اليوم]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بنيران قوات الاحتلال في مدينتي غزة ودير البلح منذ فجر اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: عشرات المستوطنين يواصلون اقتحام المسجد الأقصى تحت حماية شرطة…]]></title>
-            <link>https://t.me/aljazeeraBrk/237532</link>
-            <guid isPermaLink="false">f1f5da6647cab42cb4ea316499c07d267d4b2d6ce5427c823380b02baaac399a</guid>
-            <pubDate>Tue, 29 Sep 2026 06:51:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: عشرات المستوطنين يواصلون اقتحام المسجد الأقصى تحت حماية شرطة الاحتلال في رابع أيام عيد العرش]]></description>
-            <content:encoded><![CDATA[محافظة القدس: عشرات المستوطنين يواصلون اقتحام المسجد الأقصى تحت حماية شرطة الاحتلال في رابع أيام عيد العرش]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
