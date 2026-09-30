@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 16:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 17:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشار الرئيس العراقي للجزيرة: ما جرى اليوم شهادة للعراق بأنه أصبح بلدا قادرا…]]></title>
+            <link>https://t.me/aljazeeraBrk/237799</link>
+            <guid isPermaLink="false">0d7039fd53481c10fa7d7ecd9185e8f7539ec315ce8e00147ed59f3742fe3832</guid>
+            <pubDate>Wed, 30 Sep 2026 17:15:02 GMT</pubDate>
+            <description><![CDATA[مستشار الرئيس العراقي للجزيرة: ما جرى اليوم شهادة للعراق بأنه أصبح بلدا قادرا على حماية أمنه بنفسه]]></description>
+            <content:encoded><![CDATA[مستشار الرئيس العراقي للجزيرة: ما جرى اليوم شهادة للعراق بأنه أصبح بلدا قادرا على حماية أمنه بنفسه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر في مستشفيات غزة: 8 شهداء وأكثر من 15 مصابا في عدوان إسرائيلي على مدينتي…]]></title>
             <link>https://t.me/aljazeeraBrk/237798</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 29 Sep 2026 09:28:02 GMT</pubDate>
             <description><![CDATA[الكرملين: لا نرغب بخروج إيران من معاهدة عدم الانتشار النووي وتصريحات طهران بهذا الشأن تحتاج إلى توضيحات إضافية]]></description>
             <content:encoded><![CDATA[الكرملين: لا نرغب بخروج إيران من معاهدة عدم الانتشار النووي وتصريحات طهران بهذا الشأن تحتاج إلى توضيحات إضافية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج…]]></title>
-            <link>https://t.me/aljazeeraBrk/237546</link>
-            <guid isPermaLink="false">6758565b0dd0aa4e4469306ae4f4e457ad6acb3c30729a0e72b2882f936741e5</guid>
-            <pubDate>Tue, 29 Sep 2026 08:58:03 GMT</pubDate>
-            <description><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج عمان تبلغ 9 ملايين برميل يوميا]]></description>
-            <content:encoded><![CDATA[رويترز عن كبلر: عمليات نقل النفط عبر مضيق هرمز بما فيها من سفينة إلى أخرى بخليج عمان تبلغ 9 ملايين برميل يوميا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
