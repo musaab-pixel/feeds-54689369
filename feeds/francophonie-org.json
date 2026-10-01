@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "c6909d1b79cf10e0148f44eff240cfb1f09e01e1e3d88b92799978814afb3e53",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">À Ottawa, la francophonie économique canadienne dialogue avec le monde</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 01/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/ottawa-la-francophonie-economique-canadienne-dialogue-avec-le-monde-8692",
+            "title": "À Ottawa, la francophonie économique canadienne dialogue avec le monde",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">À Ottawa, la francophonie économique canadienne dialogue avec le monde</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 01/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-01T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "12100abf1344a17800269caa71af28db4282e2f9aa1cb0ede6e5fdd950d89008",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Programme de bourses de perfectionnement pour les jeunes interprètes africains</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 01/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/programme-de-bourses-de-perfectionnement-pour-les-jeunes-interpretes-africains-8691",
+            "title": "Programme de bourses de perfectionnement pour les jeunes interprètes africains",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Programme de bourses de perfectionnement pour les jeunes interprètes africains</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 01/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-01T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "66a68f19741c9e4ebd428a37ee565de0e97641b406a1bb6043693d0afd20ef87",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Togo : pour une formation professionnelle en alternance à l'ère du numérique</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-09-30T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 30/09/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/l-oif-aux-cotes-du-togo-pour-un-eftp-dual-a-l-ere-du-numerique-8688",
