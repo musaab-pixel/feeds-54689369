@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 15:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 08:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Nicht das Etikett entscheidet, sondern die Evidenz]]></title>
+            <link>https://bosch-stiftung.de/story/nicht-das-etikett-entscheidet-sondern-die-evidenz</link>
+            <guid isPermaLink="false">9f7edb77088596a0acd9fba9b198369fe9bfa48b6db8682c668097ed0148ecf9</guid>
+            <pubDate>Wed, 30 Sep 2026 14:20:01 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Nicht das Etikett entscheidet, sondern die Evidenz</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-30T16:20:01+02:00" title="Mittwoch, 30 September 2026 - 16:20" class="datetime">Mi. 30 Sep 2026 - 16:20</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Nicht das Etikett entscheidet, sondern die Evidenz</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-30T16:20:01+02:00" title="Mittwoch, 30 September 2026 - 16:20" class="datetime">Mi. 30 Sep 2026 - 16:20</time>
+</span>
+]]></content:encoded>
+            <author>palasthotel</author>
+        </item>
         <item>
             <title><![CDATA[Meilensteine der Robert Bosch Stiftung]]></title>
             <link>https://bosch-stiftung.de/story/meilensteine-der-robert-bosch-stiftung</link>

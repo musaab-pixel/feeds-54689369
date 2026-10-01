@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "9f7edb77088596a0acd9fba9b198369fe9bfa48b6db8682c668097ed0148ecf9",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nicht das Etikett entscheidet, sondern die Evidenz</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-30T16:20:01+02:00\" title=\"Mittwoch, 30 September 2026 - 16:20\" class=\"datetime\">Mi. 30 Sep 2026 - 16:20</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/nicht-das-etikett-entscheidet-sondern-die-evidenz",
+            "title": "Nicht das Etikett entscheidet, sondern die Evidenz",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nicht das Etikett entscheidet, sondern die Evidenz</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-30T16:20:01+02:00\" title=\"Mittwoch, 30 September 2026 - 16:20\" class=\"datetime\">Mi. 30 Sep 2026 - 16:20</time>\n</span>\n",
+            "date_modified": "2026-09-30T14:20:01.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "25384581f56e68c0e19f7b3c9052b2ca9b3ae9b3643b4f77d1606834af34c7fd",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Meilensteine der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-30T09:49:48+02:00\" title=\"Mittwoch, 30 September 2026 - 09:49\" class=\"datetime\">Mi. 30 Sep 2026 - 09:49</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/meilensteine-der-robert-bosch-stiftung",
