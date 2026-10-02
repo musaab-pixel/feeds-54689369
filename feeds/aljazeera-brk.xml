@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 02 Oct 2026 14:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 14:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس التنفيذي لفلاي دبي: بناء على طلب السلطات قمنا بتعليق رحلاتنا إلى تل أبيب…]]></title>
+            <link>https://t.me/aljazeeraBrk/238109</link>
+            <guid isPermaLink="false">bbb85b6a72ddba9274287d73df7c4d7afa461d79e59553e6c03331346b9018cd</guid>
+            <pubDate>Fri, 02 Oct 2026 14:41:02 GMT</pubDate>
+            <description><![CDATA[الرئيس التنفيذي لفلاي دبي: بناء على طلب السلطات قمنا بتعليق رحلاتنا إلى تل أبيب مؤقتا حتى إشعار آخر]]></description>
+            <content:encoded><![CDATA[الرئيس التنفيذي لفلاي دبي: بناء على طلب السلطات قمنا بتعليق رحلاتنا إلى تل أبيب مؤقتا حتى إشعار آخر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان مجموعة السبع: سنبقي العقوبات المفروضة على روسيا]]></title>
             <link>https://t.me/aljazeeraBrk/238107</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 30 Sep 2026 20:33:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية العراقي: الحكومة أعدت مسودة مشروع خطة لحصر السلاح بيد الدولة من المقرر طرحها خلال الأيام المقبلة]]></description>
             <content:encoded><![CDATA[وزير الخارجية العراقي: الحكومة أعدت مسودة مشروع خطة لحصر السلاح بيد الدولة من المقرر طرحها خلال الأيام المقبلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية العراقي: رئيس الحكومة أعلن أن الموعد النهائي لاستكمال خطة حصر…]]></title>
-            <link>https://t.me/aljazeeraBrk/237853</link>
-            <guid isPermaLink="false">c8f0c7c2f9df0afbbbe652869c9246cd1408efc53b20a57ad9104f78833da5f2</guid>
-            <pubDate>Wed, 30 Sep 2026 20:33:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية العراقي: رئيس الحكومة أعلن أن الموعد النهائي لاستكمال خطة حصر السلاح سيكون في يونيو المقبل]]></description>
-            <content:encoded><![CDATA[وزير الخارجية العراقي: رئيس الحكومة أعلن أن الموعد النهائي لاستكمال خطة حصر السلاح سيكون في يونيو المقبل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
