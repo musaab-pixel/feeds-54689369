@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a303c7e91dee97236eebd124d2703abc7f23101cd72a5f759e424955a1a747ca",
+            "content_html": "أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء",
+            "url": "https://t.me/aljazeeraBrk/238187",
+            "title": "أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء",
+            "summary": "أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء",
+            "date_modified": "2026-10-03T10:15:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "55ee57a69024c1affba4a89630f933be822d1b3b8c9ba630ae26d747b1db6c9a",
             "content_html": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء",
             "url": "https://t.me/aljazeeraBrk/238186",
@@ -1620,17 +1631,6 @@
             "date_modified": "2026-10-02T06:06:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "1bf1cfd63c820d95d23f7a30dc5c225396c07e7c7d667c7132a116bad7c64b4f",
-            "content_html": "<b>قيادة الأمن الداخلي في اللاذقية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلقاء القبض على متهم بالتسبب بوفاة الطفل حيدر إبراهيم يونس إثر صدمه بواسطة مركبته الخاصة في قرية الدروقيات بريف اللاذقية الشمالي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>التحقيقات الأولية كشفت قيام المذكور عقب الحادثة بنقل جثمان الطفل وإلقائه في أحد البساتين بمنطقة دمسرخو في محاولة للتنصل من مسؤولية الحادثة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141282",
-            "title": "قيادة الأمن الداخلي في اللاذقية: 📌إلقاء القبض على متهم بالتسبب بوفاة الطفل…",
-            "summary": "<b>قيادة الأمن الداخلي في اللاذقية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلقاء القبض على متهم بالتسبب بوفاة الطفل حيدر إبراهيم يونس إثر صدمه بواسطة مركبته الخاصة في قرية الدروقيات بريف اللاذقية الشمالي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>التحقيقات الأولية كشفت قيام المذكور عقب الحادثة بنقل جثمان الطفل وإلقائه في أحد البساتين بمنطقة دمسرخو في محاولة للتنصل من مسؤولية الحادثة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-02T05:35:07.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

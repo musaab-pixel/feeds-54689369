@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 03 Oct 2026 10:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 10:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></title>
+            <link>https://t.me/aljazeeraBrk/238187</link>
+            <guid isPermaLink="false">a303c7e91dee97236eebd124d2703abc7f23101cd72a5f759e424955a1a747ca</guid>
+            <pubDate>Sat, 03 Oct 2026 10:15:03 GMT</pubDate>
+            <description><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></description>
+            <content:encoded><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء]]></title>
             <link>https://t.me/aljazeeraBrk/238186</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 01 Oct 2026 14:33:02 GMT</pubDate>
             <description><![CDATA[مسؤول أمريكي للجزيرة: أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط على متن مجموعة الإنزال]]></description>
             <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط على متن مجموعة الإنزال]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول أمريكي للجزيرة: مجموعة الإنزال البحري مايكون إيلاند غادرت سان دييغو إلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/237962</link>
-            <guid isPermaLink="false">598ee1e1381bae0be0c9bfde3ff3dcb496a97bdea7f7567609c970d04daf15ec</guid>
-            <pubDate>Thu, 01 Oct 2026 14:31:02 GMT</pubDate>
-            <description><![CDATA[مسؤول أمريكي للجزيرة: مجموعة الإنزال البحري مايكون إيلاند غادرت سان دييغو إلى الشرق الأوسط الاثنين الماضي]]></description>
-            <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: مجموعة الإنزال البحري مايكون إيلاند غادرت سان دييغو إلى الشرق الأوسط الاثنين الماضي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
