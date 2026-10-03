@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "55ee57a69024c1affba4a89630f933be822d1b3b8c9ba630ae26d747b1db6c9a",
+            "content_html": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء",
+            "url": "https://t.me/aljazeeraBrk/238186",
+            "title": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء",
+            "summary": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء",
+            "date_modified": "2026-10-03T10:09:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "5067cd969d0a63a9664b2a8a169497b65a18cfa0ba4bd993085da9e709ee2a68",
             "content_html": "خارجية باكستان: استدعاء القائم بالأعمال الهندي إثر مقتل مدنيين باكستانيين اثنين بنيران الأمن الهندي عند الحدود",
             "url": "https://t.me/aljazeeraBrk/238185",
@@ -1202,7 +1213,7 @@
             "url": "https://t.me/HalabTodayTV/141288",
             "title": "مظاهرة في حي غويران بالحسكة تطالب الحكومة السورية بفرض سيادتها على كامل…",
             "summary": "مظاهرة في حي غويران بالحسكة تطالب الحكومة السورية بفرض سيادتها على كامل المحافظة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/U1lIlK1N0kD_ErV3kAz2FhsFFeSd1AcOqvPEOtUNL0XumnwzwpBBF28yIdtiIH5jseM6fT9W8H7SbPnbDuWxAfnt7e2no7xnn4pYdceIdgDGlJCPF3Kqsq_m6JpFJkxeB6r0JFQBk-cu56a-8Qi_OhFIxcSUTttT9qUOV_LVQDTxlGVNMDSpuwv-r39ffBtCZXe8PyPLAyfz53G1cMKorblHMp2euoQi1Lceko8IGFxqH-56AR_ch_KPIF1zvyhtDxBBU4RIN2asP20mNEurHXV61Ft4oRSkehryBvGmElhxxwuDajqjlPmwb033h7NKNml70GEo1ocEJHq-cjmxQw",
+            "image": "https://cdn4.telesco.pe/file/py5I61gW7fMZgwE3st-qug_oNxUaR3zXF_LOA4-muPgb5i9eLXV7LZjCsg0kghvoCuIAhc4ED-QTEgMquZJdvJBi79-psMzlTYNgr75C1rndSP8L2YqJglyo0I_r3yFuFcufX202jJk6gWpv3guJA9XKi9iupq4pZ68agV5A8VN8jGDB1-m0BWVZxlXnvW3J2zy1x-sg4W2slirgzH1BTZm82NGUYH3rSAK5pv-sSSJTqyy9HrE92G6kA7bte-sV9wDPZV1VcD_vNFOFDM2jjfUSkwHzYzzQNNajcFuEk0qFTt3CFiU0tL_BmZbywFhx9XQarFn3eSFlqgOFOzHYXg",
             "date_modified": "2026-10-02T10:22:01.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
@@ -1620,17 +1631,6 @@
             "date_modified": "2026-10-02T05:35:07.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "0b7833e5829cb4f4b6140f35dbc4137882536e7f967d2262457671f7ade279e5",
-            "content_html": "حاكم خاركيف: 6 مصابين وأضرار مادية إثر هجمات روسية على 13 منطقة في المقاطعة خلال الساعات الـ24 الماضية",
-            "url": "https://t.me/aljazeeraBrk/238054",
-            "title": "حاكم خاركيف: 6 مصابين وأضرار مادية إثر هجمات روسية على 13 منطقة في المقاطعة…",
-            "summary": "حاكم خاركيف: 6 مصابين وأضرار مادية إثر هجمات روسية على 13 منطقة في المقاطعة خلال الساعات الـ24 الماضية",
-            "date_modified": "2026-10-02T05:34:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]

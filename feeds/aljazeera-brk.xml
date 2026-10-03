@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 03 Oct 2026 10:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 10:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء]]></title>
+            <link>https://t.me/aljazeeraBrk/238186</link>
+            <guid isPermaLink="false">55ee57a69024c1affba4a89630f933be822d1b3b8c9ba630ae26d747b1db6c9a</guid>
+            <pubDate>Sat, 03 Oct 2026 10:09:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات على العاصمة اليمنية صنعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[خارجية باكستان: استدعاء القائم بالأعمال الهندي إثر مقتل مدنيين باكستانيين اثنين…]]></title>
             <link>https://t.me/aljazeeraBrk/238185</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 01 Oct 2026 14:31:02 GMT</pubDate>
             <description><![CDATA[مسؤول أمريكي للجزيرة: مجموعة الإنزال البحري مايكون إيلاند غادرت سان دييغو إلى الشرق الأوسط الاثنين الماضي]]></description>
             <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: مجموعة الإنزال البحري مايكون إيلاند غادرت سان دييغو إلى الشرق الأوسط الاثنين الماضي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول أمريكي للجزيرة: حاملة الطائرات روزفلت غادرت مع مجموعتها الضاربة قاعدة سان…]]></title>
-            <link>https://t.me/aljazeeraBrk/237961</link>
-            <guid isPermaLink="false">068fe6be30193016fcc624ee609cfa8ac600209d8f4ca103d2dd0f3cdce2d32b</guid>
-            <pubDate>Thu, 01 Oct 2026 14:30:02 GMT</pubDate>
-            <description><![CDATA[مسؤول أمريكي للجزيرة: حاملة الطائرات روزفلت غادرت مع مجموعتها الضاربة قاعدة سان دييغو متجهة إلى الشرق الأوسط]]></description>
-            <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: حاملة الطائرات روزفلت غادرت مع مجموعتها الضاربة قاعدة سان دييغو متجهة إلى الشرق الأوسط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
