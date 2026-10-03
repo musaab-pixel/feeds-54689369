@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 03 Oct 2026 10:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 10:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية…]]></title>
+            <link>https://t.me/aljazeeraBrk/238188</link>
+            <guid isPermaLink="false">3dca64488c9dc7c5cf9bb44efd035872df638324c5c5e7f812795baaa3b6562f</guid>
+            <pubDate>Sat, 03 Oct 2026 10:30:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية صنعاء]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية صنعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></title>
             <link>https://t.me/aljazeeraBrk/238187</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 01 Oct 2026 14:33:03 GMT</pubDate>
             <description><![CDATA[مسؤول أمريكي للجزيرة: بحلول نهاية نوفمبر المقبل ستنتشر في محيط إيران 3 حاملات طائرات ومجموعتي إنزال]]></description>
             <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: بحلول نهاية نوفمبر المقبل ستنتشر في محيط إيران 3 حاملات طائرات ومجموعتي إنزال]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول أمريكي للجزيرة: أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط…]]></title>
-            <link>https://t.me/aljazeeraBrk/237963</link>
-            <guid isPermaLink="false">4491626a63c1586230b22aea1c6ac8636a6b0b7dccdda685c232861e5e17ae25</guid>
-            <pubDate>Thu, 01 Oct 2026 14:33:02 GMT</pubDate>
-            <description><![CDATA[مسؤول أمريكي للجزيرة: أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط على متن مجموعة الإنزال]]></description>
-            <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: أكثر من 2000 جندي من وحدة المارينز يتوجهون للشرق الأوسط على متن مجموعة الإنزال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

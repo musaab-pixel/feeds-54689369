@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "3dca64488c9dc7c5cf9bb44efd035872df638324c5c5e7f812795baaa3b6562f",
+            "content_html": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية صنعاء",
+            "url": "https://t.me/aljazeeraBrk/238188",
+            "title": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية…",
+            "summary": "وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية صنعاء",
+            "date_modified": "2026-10-03T10:30:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "18a3ac3fe6a09c16901d53a822b8a8fe27a710038394afc5e6a9f7d928419956",
+            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">غرفة تجارة حلب:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>وفد من غرفة تجارة حلب يزور معرض \"فلو مانزوير\" للألبسة الرجالية – خريف وشتاء 2027 في فندق شهبا حلب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>اطلع الوفد خلال جولته على أحدث تشكيلات الألبسة الرجالية للموسم وتعرّف على المنتجات والمجموعات المعروضة في إطار متابعة غرفة تجارة حلب للفعاليات والمعارض المتخصصة ودعم النشاط التجاري في قطاع الألبسة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
+            "url": "https://t.me/HalabTodayTV/141307",
+            "title": "غرفة تجارة حلب: 📌وفد من غرفة تجارة حلب يزور معرض \"فلو مانزوير\" للألبسة…",
+            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">غرفة تجارة حلب:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>وفد من غرفة تجارة حلب يزور معرض \"فلو مانزوير\" للألبسة الرجالية – خريف وشتاء 2027 في فندق شهبا حلب<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>اطلع الوفد خلال جولته على أحدث تشكيلات الألبسة الرجالية للموسم وتعرّف على المنتجات والمجموعات المعروضة في إطار متابعة غرفة تجارة حلب للفعاليات والمعارض المتخصصة ودعم النشاط التجاري في قطاع الألبسة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
+            "image": "https://cdn4.telesco.pe/file/WB2JuPoZfQtSX7FeqaPDsfFtoyrfODAHm_vfNt6K8AJhwFzPmFJbwqUzxaIISmLJjI-Yq1SNhBnaP9QglZx7-w_tEqojq6WXEImM42JmMzvP2TL668TVrxv6xHEzfix3RXydwsvgt8mk7_aiBEMDn3-apAW53gQH4wbrHCFG5y-U44KW-CegG5qJdoabBFqOaTiahwCV_oGA1bAUwbJ92IX5ep3rMA-pDUj3_G5dKeFPJanuh3VikoLJWliR7Xsc5VoVdwYH_NBWPblLbP0uWKKQGFk2YhR30FFaYeCwQ4lvwRo8b5pxy6sAoVdr2yn6lGrFESTmjIrDOCmrKiLOKQ.jpg",
+            "date_modified": "2026-10-03T10:26:13.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "a303c7e91dee97236eebd124d2703abc7f23101cd72a5f759e424955a1a747ca",
             "content_html": "أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء",
             "url": "https://t.me/aljazeeraBrk/238187",
@@ -1607,28 +1630,6 @@
             "title": "مصدر في الإسعاف والطوارئ: مصابون بينهم طفلة برصاص قوات الاحتلال خارج مناطق…",
             "summary": "مصدر في الإسعاف والطوارئ: مصابون بينهم طفلة برصاص قوات الاحتلال خارج مناطق سيطرتها شمال غربي مدينة خان يونس",
             "date_modified": "2026-10-02T06:15:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a8b06bd80ee7d6ef93d7fdc01883e91961a2ade328594ccd4e2d8471ee7a6975",
-            "content_html": "وزارة الدفاع الأوكرانية: روسيا شنت خلال 24 ساعة هجمات بـ8891 مسيرة انتحارية على مختلف الجبهات",
-            "url": "https://t.me/aljazeeraBrk/238056",
-            "title": "وزارة الدفاع الأوكرانية: روسيا شنت خلال 24 ساعة هجمات بـ8891 مسيرة انتحارية على…",
-            "summary": "وزارة الدفاع الأوكرانية: روسيا شنت خلال 24 ساعة هجمات بـ8891 مسيرة انتحارية على مختلف الجبهات",
-            "date_modified": "2026-10-02T06:11:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "99c55db7e8c405e8458dda7cc4c37ad3bc93fa8100eecf65ffa592d0da836193",
-            "content_html": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 646 مسيرة أوكرانية بمناطق عدة في البلاد",
-            "url": "https://t.me/aljazeeraBrk/238055",
-            "title": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 646 مسيرة أوكرانية…",
-            "summary": "وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 646 مسيرة أوكرانية بمناطق عدة في البلاد",
-            "date_modified": "2026-10-02T06:06:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
