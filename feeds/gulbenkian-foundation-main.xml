@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 16:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -37,6 +37,161 @@
 <p>Important: Project applications are evaluated three times a year in May, September, and January.&nbsp;</p>
 <p>Applications may be submitted in English, Armenian, French, or Portuguese. The same or similar projects cannot be submitted more than once during any given year.</p>
 <p>Please note that budgets of proposals from the Americas must be in USD and budgets from the UK must be in GBP. All other proposal budgets (including Armenia, Lebanon, and Turkey) must be submitted in EUR only.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Canzoniere Grecanico Salentino 12 Dec 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/canzoniere-grecanico-salentino/</link>
+            <guid isPermaLink="false">d65d54e7077e67a31ec96bf1c82b483cd8896dcc851657aabf41a10336e7cf6f</guid>
+            <pubDate>Sat, 12 Dec 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Canzoniere Grecanico Salentino											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mauro Durante											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion, Violin</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Alessia Tondo											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Silvia Perrone											</span>
+														<span class="tw-ml-xs tw-text-sm">Dance</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giulio Bianco											</span>
+														<span class="tw-ml-xs tw-text-sm">Zampogna, Harmonica, Flutes and traditional winds</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Massimiliano Morabito											</span>
+														<span class="tw-ml-xs tw-text-sm">Accordion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Emanuele Licci											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Bouzouki, Guitar</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giancarlo Paglialunga											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Tamburello, Percussion</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>Meridiana</em></h4>
+<p>Founded by poet Rina Durante and musician Daniele Durante in 1975, Canzoniere Grecanico Salentino revives the traditional sound of the Italian region of Salento, the pizzica, associated with the ritual of tarantism — ceremonial music said to free women afflicted by spiritual maladies supposedly caused by the bite of the tarantula. Il Mito, the album that the ensemble now directed by Mauro Durante brings to Gulbenkian Music, reinterprets fifty years of a poignant repertoire, transforming the captivating traditional pizzica into a decisively contemporary sound world.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Photo © Flavio &amp; Frank</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Canzoniere Grecanico Salentino											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mauro Durante											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion, Violin</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Alessia Tondo											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Silvia Perrone											</span>
+														<span class="tw-ml-xs tw-text-sm">Dance</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giulio Bianco											</span>
+														<span class="tw-ml-xs tw-text-sm">Zampogna, Harmonica, Flutes and traditional winds</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Massimiliano Morabito											</span>
+														<span class="tw-ml-xs tw-text-sm">Accordion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Emanuele Licci											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Bouzouki, Guitar</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giancarlo Paglialunga											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Tamburello, Percussion</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>Meridiana</em></h4>
+<p>Founded by poet Rina Durante and musician Daniele Durante in 1975, Canzoniere Grecanico Salentino revives the traditional sound of the Italian region of Salento, the pizzica, associated with the ritual of tarantism — ceremonial music said to free women afflicted by spiritual maladies supposedly caused by the bite of the tarantula. Il Mito, the album that the ensemble now directed by Mauro Durante brings to Gulbenkian Music, reinterprets fifty years of a poignant repertoire, transforming the captivating traditional pizzica into a decisively contemporary sound world.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Photo © Flavio &amp; Frank</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/28_Canzoniere-Grecanico-Salentino_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tchaikovsky's Symphony No. 4 10 Dec 2026 / 20:00]]></title>

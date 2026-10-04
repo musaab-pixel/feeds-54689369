@@ -4,10 +4,24 @@
         <title>dohafilm.com</title>
         <link>https://www.dohafilm.com/</link>
         <description>RSS Factory feed "dohafilm.com" (type: website)</description>
-        <lastBuildDate>Wed, 30 Sep 2026 10:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[LearningShort Script LabApply Now]]></title>
+            <link>https://www.dohafilm.com/en/learning-training/learning/workshops-labs/2026/0c910051-36d5-4f6c-a2e5-2140406daf3c</link>
+            <guid isPermaLink="false">833dd7b6860c76ee0f2525c3ed89a4e349dac9b65d042c70dbf77c018d3d7bd0</guid>
+            <pubDate>Sun, 04 Oct 2026 20:13:00 GMT</pubDate>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-10/Al-Sit-706x706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LearningCinematography ProgrammeApply Now]]></title>
+            <link>https://www.dohafilm.com/en/learning-training/learning/workshops-labs/2027/1165673a-b1c4-4456-a0eb-991be36f8539</link>
+            <guid isPermaLink="false">dbeee64aaa38fdd26346adb557bd1a14c8620266008ead74066e91200733d528</guid>
+            <pubDate>Sun, 04 Oct 2026 20:13:00 GMT</pubDate>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-10/LIGHTTOASHES-706x706.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Doha Film Festival 2026VolunteerApply Now]]></title>
             <link>https://www.dohafilm.com/en/watch-discover/dff/volunteer</link>

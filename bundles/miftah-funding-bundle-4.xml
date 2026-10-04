@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Fri, 02 Oct 2026 14:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -37,6 +37,161 @@
 <p>Important: Project applications are evaluated three times a year in May, September, and January.&nbsp;</p>
 <p>Applications may be submitted in English, Armenian, French, or Portuguese. The same or similar projects cannot be submitted more than once during any given year.</p>
 <p>Please note that budgets of proposals from the Americas must be in USD and budgets from the UK must be in GBP. All other proposal budgets (including Armenia, Lebanon, and Turkey) must be submitted in EUR only.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Canzoniere Grecanico Salentino 12 Dec 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/canzoniere-grecanico-salentino/</link>
+            <guid isPermaLink="false">d65d54e7077e67a31ec96bf1c82b483cd8896dcc851657aabf41a10336e7cf6f</guid>
+            <pubDate>Sat, 12 Dec 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Canzoniere Grecanico Salentino											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mauro Durante											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion, Violin</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Alessia Tondo											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Silvia Perrone											</span>
+														<span class="tw-ml-xs tw-text-sm">Dance</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giulio Bianco											</span>
+														<span class="tw-ml-xs tw-text-sm">Zampogna, Harmonica, Flutes and traditional winds</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Massimiliano Morabito											</span>
+														<span class="tw-ml-xs tw-text-sm">Accordion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Emanuele Licci											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Bouzouki, Guitar</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giancarlo Paglialunga											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Tamburello, Percussion</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>Meridiana</em></h4>
+<p>Founded by poet Rina Durante and musician Daniele Durante in 1975, Canzoniere Grecanico Salentino revives the traditional sound of the Italian region of Salento, the pizzica, associated with the ritual of tarantism — ceremonial music said to free women afflicted by spiritual maladies supposedly caused by the bite of the tarantula. Il Mito, the album that the ensemble now directed by Mauro Durante brings to Gulbenkian Music, reinterprets fifty years of a poignant repertoire, transforming the captivating traditional pizzica into a decisively contemporary sound world.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Photo © Flavio &amp; Frank</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>10% – Cartão Gulbenkian</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Canzoniere Grecanico Salentino											</span>
+													</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Mauro Durante											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion, Violin</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Alessia Tondo											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Percussion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Silvia Perrone											</span>
+														<span class="tw-ml-xs tw-text-sm">Dance</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giulio Bianco											</span>
+														<span class="tw-ml-xs tw-text-sm">Zampogna, Harmonica, Flutes and traditional winds</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Massimiliano Morabito											</span>
+														<span class="tw-ml-xs tw-text-sm">Accordion</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Emanuele Licci											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Bouzouki, Guitar</span>
+									</li>
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Giancarlo Paglialunga											</span>
+														<span class="tw-ml-xs tw-text-sm">Voice, Tamburello, Percussion</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title"><em>Meridiana</em></h4>
+<p>Founded by poet Rina Durante and musician Daniele Durante in 1975, Canzoniere Grecanico Salentino revives the traditional sound of the Italian region of Salento, the pizzica, associated with the ritual of tarantism — ceremonial music said to free women afflicted by spiritual maladies supposedly caused by the bite of the tarantula. Il Mito, the album that the ensemble now directed by Mauro Durante brings to Gulbenkian Music, reinterprets fifty years of a poignant repertoire, transforming the captivating traditional pizzica into a decisively contemporary sound world.</p>
+<p class="tw-font-sans" style="font-size: 16px;">Photo © Flavio &amp; Frank</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/28_Canzoniere-Grecanico-Salentino_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tchaikovsky's Symphony No. 4 10 Dec 2026 / 20:00]]></title>
@@ -13292,81 +13447,6 @@ Online – 2 days before (Cartão Gulbenkian Mais) and 1 day before (Cartão Gul
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/02_Marisol-Montalvo-e-Ava-Bahari_4x3-2-576x432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Other Events Webinar Pioneering Renewable Energy Communities in Portugal 09 Sep 2026 / 17:30]]></title>
-            <link>https://gulbenkian.pt/en/agenda/webinar-pioneering-renewable-energy-communities-in-portugal/</link>
-            <guid isPermaLink="false">de0a05a94a6fccfccfd555cced04f336efd52b00425e384a9c2ffc4625c6ab62</guid>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 class="assist">Event Slider</h2>
-<h4 class="assist">Date</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								17:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								17:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Wednesday, 17:30								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Location</h4>
-<h4 class="assist">Pricing</h4>
-<p>This follow-up session to the webinar held on 21 July will showcase concrete experiences of creating and developing Renewable Energy Communities in Portugal, through the insights and experiences of some of the people involved.</p>
-<p>Representatives of the Telheiras/Lumiar Renewable Energy Community, the Culatra Renewable Energy Community and Coopérnico will share the main challenges, lessons learned and impacts of these initiatives in a moderated conversation, followed by a Q&amp;A session. The event will provide an opportunity to clarify questions and explore the potential of energy communities to foster citizen participation in the energy transition.</p>
-<p>Launched by the Calouste Gulbenkian Foundation in partnership with Coopérnico, the <a href="https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/">Gulbenkian Energy Communities</a> call supports civil society organisations seeking to develop community renewable energy projects in collaboration with local authorities or other local partners, promoting active citizen participation in the energy transition.</p>
-<p>Selected projects may receive funding of up to €30,000.</p>
-<p>The deadline for applications is 16 September 2026.</p>
-<h3 class="fcg-sponsors__title">Partner entity</h3>
-<p class="tw-text-xs tw-mb-0">
-		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
-            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
-<h4 class="assist">Date</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								17:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								17:30							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Wednesday, 17:30								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Location</h4>
-<h4 class="assist">Pricing</h4>
-<p>This follow-up session to the webinar held on 21 July will showcase concrete experiences of creating and developing Renewable Energy Communities in Portugal, through the insights and experiences of some of the people involved.</p>
-<p>Representatives of the Telheiras/Lumiar Renewable Energy Community, the Culatra Renewable Energy Community and Coopérnico will share the main challenges, lessons learned and impacts of these initiatives in a moderated conversation, followed by a Q&amp;A session. The event will provide an opportunity to clarify questions and explore the potential of energy communities to foster citizen participation in the energy transition.</p>
-<p>Launched by the Calouste Gulbenkian Foundation in partnership with Coopérnico, the <a href="https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/">Gulbenkian Energy Communities</a> call supports civil society organisations seeking to develop community renewable energy projects in collaboration with local authorities or other local partners, promoting active citizen participation in the energy transition.</p>
-<p>Selected projects may receive funding of up to €30,000.</p>
-<p>The deadline for applications is 16 September 2026.</p>
-<h3 class="fcg-sponsors__title">Partner entity</h3>
-<p class="tw-text-xs tw-mb-0">
-		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
-            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/07/CEG_1200x900px-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
