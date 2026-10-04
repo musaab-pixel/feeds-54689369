@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 04 Oct 2026 20:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بريف القنيطرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/238394</link>
+            <guid isPermaLink="false">aeb0664dcd6424ac4be601c9182c24f63faa4452d4808e131a89f57d82004ad6</guid>
+            <pubDate>Sun, 04 Oct 2026 20:30:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بريف القنيطرة جنوبي سوريا]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بريف القنيطرة جنوبي سوريا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وول ستريت جورنال عن البنتاغون: القاذفات الأمريكية مستعدة لتنفيذ الضربات…]]></title>
             <link>https://t.me/aljazeeraBrk/238393</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 02 Oct 2026 01:55:02 GMT</pubDate>
             <description><![CDATA[ترمب: لا نريد أن ن نترك الفوضى في إيران لرئيس آخر قد لا يفعل ما فعلناه]]></description>
             <content:encoded><![CDATA[ترمب: لا نريد أن ن نترك الفوضى في إيران لرئيس آخر قد لا يفعل ما فعلناه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: أنجزنا المهمة في إيران في يوم واحد وبقينا هناك لفترة أطول لأننا لم نرد أن…]]></title>
-            <link>https://t.me/aljazeeraBrk/238045</link>
-            <guid isPermaLink="false">8a84fe9fb465a9d7daa44f878e29edc5e5cf93a274002dd0b8072faa0059dd1c</guid>
-            <pubDate>Fri, 02 Oct 2026 01:49:02 GMT</pubDate>
-            <description><![CDATA[ترمب: أنجزنا المهمة في إيران في يوم واحد وبقينا هناك لفترة أطول لأننا لم نرد أن يكون انتصارنا قصير الأمد]]></description>
-            <content:encoded><![CDATA[ترمب: أنجزنا المهمة في إيران في يوم واحد وبقينا هناك لفترة أطول لأننا لم نرد أن يكون انتصارنا قصير الأمد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
