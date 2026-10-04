@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 04 Oct 2026 20:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 21:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قتلنا مشتبها به حاول التسلل إلى أحد مواقعنا في المنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/238395</link>
+            <guid isPermaLink="false">3047a02bd833abf07cc0d21d3dd64b2f17ab6688b846f8dbf174378f0d417ac6</guid>
+            <pubDate>Sun, 04 Oct 2026 21:31:01 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قتلنا مشتبها به حاول التسلل إلى أحد مواقعنا في المنطقة الأمنية جنوب سوريا]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قتلنا مشتبها به حاول التسلل إلى أحد مواقعنا في المنطقة الأمنية جنوب سوريا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بريف القنيطرة…]]></title>
             <link>https://t.me/aljazeeraBrk/238394</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 02 Oct 2026 01:56:02 GMT</pubDate>
             <description><![CDATA[ترمب: كان ينبغي للرؤساء السابقين أن يتعاملوا مع مسألة إيران منذ وقت طويل]]></description>
             <content:encoded><![CDATA[ترمب: كان ينبغي للرؤساء السابقين أن يتعاملوا مع مسألة إيران منذ وقت طويل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: لا نريد أن ن نترك الفوضى في إيران لرئيس آخر قد لا يفعل ما فعلناه]]></title>
-            <link>https://t.me/aljazeeraBrk/238046</link>
-            <guid isPermaLink="false">91fbaa08bd316d9942ac96e6f9891f5393864abdd8e849845f0eb99bfaeb7691</guid>
-            <pubDate>Fri, 02 Oct 2026 01:55:02 GMT</pubDate>
-            <description><![CDATA[ترمب: لا نريد أن ن نترك الفوضى في إيران لرئيس آخر قد لا يفعل ما فعلناه]]></description>
-            <content:encoded><![CDATA[ترمب: لا نريد أن ن نترك الفوضى في إيران لرئيس آخر قد لا يفعل ما فعلناه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
