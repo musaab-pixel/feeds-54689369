@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 05 Oct 2026 09:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 10:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل غربي صيدا الحانوت بريف القنيطرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/238444</link>
+            <guid isPermaLink="false">6e4f96c7776cab1c39f71a70a7d600720c6d1c45ead7cc838d18d1ce5e2e5847</guid>
+            <pubDate>Mon, 05 Oct 2026 09:52:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل غربي صيدا الحانوت بريف القنيطرة جنوب غربي سوريا]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل غربي صيدا الحانوت بريف القنيطرة جنوب غربي سوريا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإثيوبية: ارتباطنا الجغرافي والتاريخي بالبحر الأحمر لا تغيره التدابير…]]></title>
             <link>https://t.me/aljazeeraBrk/238443</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 02 Oct 2026 12:32:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيد في غارة من مسيرة إسرائيلية على محيط ملعب فلسطين وسط مدينة غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيد في غارة من مسيرة إسرائيلية على محيط ملعب فلسطين وسط مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يقتحمون حي الطيرة بمدينة رام الله ويرفعون العلم…]]></title>
-            <link>https://t.me/aljazeeraBrk/238091</link>
-            <guid isPermaLink="false">74346ab2d53e2161affa230346c3d7998f78d9d60f33b0906f478c7d5dfc259f</guid>
-            <pubDate>Fri, 02 Oct 2026 12:31:01 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يقتحمون حي الطيرة بمدينة رام الله ويرفعون العلم الإسرائيلي في ميدان العودة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يقتحمون حي الطيرة بمدينة رام الله ويرفعون العلم الإسرائيلي في ميدان العودة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
