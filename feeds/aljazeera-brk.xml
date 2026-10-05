@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 05 Oct 2026 11:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 11:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المنظمة الدولية للهجرة: محافظة تعز استقبلت العدد الأكبر من النازحين بواقع 2838…]]></title>
+            <link>https://t.me/aljazeeraBrk/238457</link>
+            <guid isPermaLink="false">e1b22ddd5075bfa18ae6f5058cabd8239ce2f153d2dad9ea74b3e37e3a3336f6</guid>
+            <pubDate>Mon, 05 Oct 2026 11:23:02 GMT</pubDate>
+            <description><![CDATA[المنظمة الدولية للهجرة: محافظة تعز استقبلت العدد الأكبر من النازحين بواقع 2838 أسرة]]></description>
+            <content:encoded><![CDATA[المنظمة الدولية للهجرة: محافظة تعز استقبلت العدد الأكبر من النازحين بواقع 2838 أسرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المنظمة الدولية للهجرة: نزوح 3633 أسرة يمنية خلال الفترة بين 27 سبتمبر والثالث…]]></title>
             <link>https://t.me/aljazeeraBrk/238456</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 02 Oct 2026 14:28:02 GMT</pubDate>
             <description><![CDATA[مجموعة السبع: ندعو جميع المنتجين إلى الامتناع عن فرض حظر قد يؤدي إلى تفاقم التوترات في السوق]]></description>
             <content:encoded><![CDATA[مجموعة السبع: ندعو جميع المنتجين إلى الامتناع عن فرض حظر قد يؤدي إلى تفاقم التوترات في السوق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجموعة السبع: سنطرح بشكل منسق عبر وكالة الطاقة الدولية 100 مليون برميل من…]]></title>
-            <link>https://t.me/aljazeeraBrk/238104</link>
-            <guid isPermaLink="false">2748d80006975029b9324c311a180e1c7c4bac5d3a6c1262b058642b0433fa4f</guid>
-            <pubDate>Fri, 02 Oct 2026 14:27:02 GMT</pubDate>
-            <description><![CDATA[مجموعة السبع: سنطرح بشكل منسق عبر وكالة الطاقة الدولية 100 مليون برميل من الديزل فورا على مدى 4 أشهر]]></description>
-            <content:encoded><![CDATA[مجموعة السبع: سنطرح بشكل منسق عبر وكالة الطاقة الدولية 100 مليون برميل من الديزل فورا على مدى 4 أشهر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
