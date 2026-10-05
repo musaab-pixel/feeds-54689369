@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 05 Oct 2026 10:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 11:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المنظمة الدولية للهجرة: نزوح 3633 أسرة يمنية خلال الفترة بين 27 سبتمبر والثالث…]]></title>
+            <link>https://t.me/aljazeeraBrk/238456</link>
+            <guid isPermaLink="false">bbe4bcf34ae2ebbff0488944a8fa01d623b836c4bf62515ab444539a4fe7b68b</guid>
+            <pubDate>Mon, 05 Oct 2026 11:22:02 GMT</pubDate>
+            <description><![CDATA[المنظمة الدولية للهجرة: نزوح 3633 أسرة يمنية خلال الفترة بين 27 سبتمبر والثالث من أكتوبر]]></description>
+            <content:encoded><![CDATA[المنظمة الدولية للهجرة: نزوح 3633 أسرة يمنية خلال الفترة بين 27 سبتمبر والثالث من أكتوبر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على مزارعين فلسطينيين أثناء قطف الزيتون قرب بلدة…]]></title>
             <link>https://t.me/aljazeeraBrk/238455</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 02 Oct 2026 14:27:02 GMT</pubDate>
             <description><![CDATA[مجموعة السبع: سنطرح بشكل منسق عبر وكالة الطاقة الدولية 100 مليون برميل من الديزل فورا على مدى 4 أشهر]]></description>
             <content:encoded><![CDATA[مجموعة السبع: سنطرح بشكل منسق عبر وكالة الطاقة الدولية 100 مليون برميل من الديزل فورا على مدى 4 أشهر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجموعة السبع: نجدد التزامنا بالامتناع عن فرض قيود على تصدير الطاقة ومنتجاتها…]]></title>
-            <link>https://t.me/aljazeeraBrk/238103</link>
-            <guid isPermaLink="false">448b1f1193ed5c62170ab02514425b6d1caf3eedd1cf33b59787dd9efe380c39</guid>
-            <pubDate>Fri, 02 Oct 2026 14:25:02 GMT</pubDate>
-            <description><![CDATA[مجموعة السبع: نجدد التزامنا بالامتناع عن فرض قيود على تصدير الطاقة ومنتجاتها بين دول المجموعة]]></description>
-            <content:encoded><![CDATA[مجموعة السبع: نجدد التزامنا بالامتناع عن فرض قيود على تصدير الطاقة ومنتجاتها بين دول المجموعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

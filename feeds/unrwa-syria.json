@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "f82beaec74223412aaf823bfcdebb67f2ed5b3d77bf08cd1e805a6a5c839cd9e",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxNX0xjNUtBbzlqMElCbkN3Z2Y5RUVtQzBzMVp1aF9NaGRHS3ZTZ3pQbFR4Y3R0bkRSRHRQbFFPX0dvOFJ1MzhGbmNET2V2TkQxeVlRN3ZJdUdQUkdBeDhoTWVwWjc5SzhNUFJnU1EtX0ZNUnU0VVNPa1I0UWJ2b1FLZnZ2c0VhTnR0MXpSMklSX2w0ZEJwWi14X0VZXzZVNDZ6ZDF1VzZQWkdvdEJRcTZIY2pqSmpFTVo5S2VxNVFpM0J3bjRfRVptYW1UbmJZbnFwNTdjRnNfRDRfZlRuWkFNZ2N5UU02RVZEeVhpODVsVFhDVksxYmdLLXk5OGZFTzQtZ1BJOGNDZFRucm5GckF6dW1zQmlldTF2TkxlYVlJcjVoMnJBc0NiNzNfZmxRNUNCVjlkbWhhaDlBdUNacDNlR09RbUtIVm9ONUNNc2czaU54RERwZjZhb0FndzJIb2pjZ3hKRHdYSUI5M0s1NFl5bVVNay0wRXJpVEZ1LS1yT083ZHpDRENQUmY3MlBBS1ZSa1otTEhQUlNySlhiWWhmYU5Zb1JMdVR5a0ZJM0dZejl0Y0hiNDFaaGNpajI5eDVRTEZxYTA2RWg2MGh5Z0pVbFdvNm9PeTJVN016V1VB?oc=5\" target=\"_blank\">تحذير من إسقاط \"أونروا\" نحو 174 ألف لاجئ من سجلاتها في سوريا وغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNX0xjNUtBbzlqMElCbkN3Z2Y5RUVtQzBzMVp1aF9NaGRHS3ZTZ3pQbFR4Y3R0bkRSRHRQbFFPX0dvOFJ1MzhGbmNET2V2TkQxeVlRN3ZJdUdQUkdBeDhoTWVwWjc5SzhNUFJnU1EtX0ZNUnU0VVNPa1I0UWJ2b1FLZnZ2c0VhTnR0MXpSMklSX2w0ZEJwWi14X0VZXzZVNDZ6ZDF1VzZQWkdvdEJRcTZIY2pqSmpFTVo5S2VxNVFpM0J3bjRfRVptYW1UbmJZbnFwNTdjRnNfRDRfZlRuWkFNZ2N5UU02RVZEeVhpODVsVFhDVksxYmdLLXk5OGZFTzQtZ1BJOGNDZFRucm5GckF6dW1zQmlldTF2TkxlYVlJcjVoMnJBc0NiNzNfZmxRNUNCVjlkbWhhaDlBdUNacDNlR09RbUtIVm9ONUNNc2czaU54RERwZjZhb0FndzJIb2pjZ3hKRHdYSUI5M0s1NFl5bVVNay0wRXJpVEZ1LS1yT083ZHpDRENQUmY3MlBBS1ZSa1otTEhQUlNySlhiWWhmYU5Zb1JMdVR5a0ZJM0dZejl0Y0hiNDFaaGNpajI5eDVRTEZxYTA2RWg2MGh5Z0pVbFdvNm9PeTJVN016V1VB?oc=5",
+            "title": "تحذير من إسقاط \"أونروا\" نحو 174 ألف لاجئ من سجلاتها في سوريا وغزة - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxNX0xjNUtBbzlqMElCbkN3Z2Y5RUVtQzBzMVp1aF9NaGRHS3ZTZ3pQbFR4Y3R0bkRSRHRQbFFPX0dvOFJ1MzhGbmNET2V2TkQxeVlRN3ZJdUdQUkdBeDhoTWVwWjc5SzhNUFJnU1EtX0ZNUnU0VVNPa1I0UWJ2b1FLZnZ2c0VhTnR0MXpSMklSX2w0ZEJwWi14X0VZXzZVNDZ6ZDF1VzZQWkdvdEJRcTZIY2pqSmpFTVo5S2VxNVFpM0J3bjRfRVptYW1UbmJZbnFwNTdjRnNfRDRfZlRuWkFNZ2N5UU02RVZEeVhpODVsVFhDVksxYmdLLXk5OGZFTzQtZ1BJOGNDZFRucm5GckF6dW1zQmlldTF2TkxlYVlJcjVoMnJBc0NiNzNfZmxRNUNCVjlkbWhhaDlBdUNacDNlR09RbUtIVm9ONUNNc2czaU54RERwZjZhb0FndzJIb2pjZ3hKRHdYSUI5M0s1NFl5bVVNay0wRXJpVEZ1LS1yT083ZHpDRENQUmY3MlBBS1ZSa1otTEhQUlNySlhiWWhmYU5Zb1JMdVR5a0ZJM0dZejl0Y0hiNDFaaGNpajI5eDVRTEZxYTA2RWg2MGh5Z0pVbFdvNm9PeTJVN016V1VB?oc=5\" target=\"_blank\">تحذير من إسقاط \"أونروا\" نحو 174 ألف لاجئ من سجلاتها في سوريا وغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-10-05T11:08:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
             "id": "b436e750f713f40a48d2d87103eb2d5cb3c53d00aad4f876ef8012b5a44ad96e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiuARBVV95cUxNTWlPOUtKNnZ2a2kzZUM0NVJCcFg3ajhnTTQzdFdDbEsyR3B4dVYzWWdlWkE5WHUxMjZ0WWpZMUYyMUd3MEZ2VVg4RGhiOE5TR3BDVGFOX2tjMmpFekczYWZGejdDbGp2Y0cyZWxnUHF3SHZNRTNJLUtXWmUwYTIzZHczTGdVZF9MZUNvZm85SDNOV3RoVmNMVUptNUVsdkg1Wmo4d3FKLUVFZ0pIY19ZbHVNbjJvRkVZcEotc2o5Y1p6WFpZWHRYY0JLUDBxNkJ1eWl2dkRjTUVDNnZDTlRFSjUwMl8tc3MtN01ZdHRzbkZ3TEVkS1lhYjQwRkhQOUxtNzBFd1BQaG9ZZGNNZ0lmZDZTSU0yY3Y4TXBNTVJ0Mjc0VHZZZDB5bl9WLWR6OUNNdGF0OUtScnkwSTZYSG9WekNKZkRZTDBQRThhQ0RTbmFmRWlrMmJsSE1fME40dTVjUUhNaWlxajZzNnVWV05NZDF6OC1rc283cUktVmM3clZWU2ZLcFE4aG5QNjIzZHZmUEhldUZCMVRIX29hYmh5LUJHTnNxa3VpZERfejg3R21LTzFHb1RyZzJsMllKNzBrSjZFWFJLZ0pYR1ZLdDhBVU43ajJKa2xPUDhiN3F0MHJ1SGxNTm1xdTNXem9hT3FRYU9OaWRyQkRNcGN4bnVNeUFYSlhiUm5CNjB5NDg1TmdZdklycjRWY1llclhUMU9MMC1xb1FneHVrc1UzSlNkOHc3TkE5YjZD?oc=5\" target=\"_blank\">\"أونروا\" تحذّر اللاجئين الفلسطينيين في سوريا من أشخاص ينتحلون صفة موظفيها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNTWlPOUtKNnZ2a2kzZUM0NVJCcFg3ajhnTTQzdFdDbEsyR3B4dVYzWWdlWkE5WHUxMjZ0WWpZMUYyMUd3MEZ2VVg4RGhiOE5TR3BDVGFOX2tjMmpFekczYWZGejdDbGp2Y0cyZWxnUHF3SHZNRTNJLUtXWmUwYTIzZHczTGdVZF9MZUNvZm85SDNOV3RoVmNMVUptNUVsdkg1Wmo4d3FKLUVFZ0pIY19ZbHVNbjJvRkVZcEotc2o5Y1p6WFpZWHRYY0JLUDBxNkJ1eWl2dkRjTUVDNnZDTlRFSjUwMl8tc3MtN01ZdHRzbkZ3TEVkS1lhYjQwRkhQOUxtNzBFd1BQaG9ZZGNNZ0lmZDZTSU0yY3Y4TXBNTVJ0Mjc0VHZZZDB5bl9WLWR6OUNNdGF0OUtScnkwSTZYSG9WekNKZkRZTDBQRThhQ0RTbmFmRWlrMmJsSE1fME40dTVjUUhNaWlxajZzNnVWV05NZDF6OC1rc283cUktVmM3clZWU2ZLcFE4aG5QNjIzZHZmUEhldUZCMVRIX29hYmh5LUJHTnNxa3VpZERfejg3R21LTzFHb1RyZzJsMllKNzBrSjZFWFJLZ0pYR1ZLdDhBVU43ajJKa2xPUDhiN3F0MHJ1SGxNTm1xdTNXem9hT3FRYU9OaWRyQkRNcGN4bnVNeUFYSlhiUm5CNjB5NDg1TmdZdklycjRWY1llclhUMU9MMC1xb1FneHVrc1UzSlNkOHc3TkE5YjZD?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2025-11-26T08:00:00.000Z",
             "author": {
                 "name": "العربي الجديد"
-            }
-        },
-        {
-            "id": "a85e184dffd77f8bd66eb96fa2a8da196b1f87d69a4a890f7639582bff0ea493",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTUl2ckJKbUVkVWQ0WEpKVVNJTm9xaXkweFhxOXBjRE1iYWM1NGdWRERzS2xUTERTSTRDNDVGNnVGQjB6NDhPdkl5Z3oyV1NNVnhOVFpQMThMWVdOVHpINjNFQ3dXN0J6Z2dIY2tPa3Y1Rlk4QWpUdGNQYTFub3ZEWnViT0g1V2ctd25YTi1BVjVOdWNadzAzeUlaTmNPNENFV3l4d0g5RnJ2UjQxUmFmZDlJMEdFczRyZUphWGx6SlpZQUNIS3JraEVKQ3BhSUhISG54anUwZjBrR19ma1N6LU1LQXZIT0ZKS2c?oc=5\" target=\"_blank\">المزيد من الأخبار بشأن الأزمة في سوريا الأونروا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTUl2ckJKbUVkVWQ0WEpKVVNJTm9xaXkweFhxOXBjRE1iYWM1NGdWRERzS2xUTERTSTRDNDVGNnVGQjB6NDhPdkl5Z3oyV1NNVnhOVFpQMThMWVdOVHpINjNFQ3dXN0J6Z2dIY2tPa3Y1Rlk4QWpUdGNQYTFub3ZEWnViT0g1V2ctd25YTi1BVjVOdWNadzAzeUlaTmNPNENFV3l4d0g5RnJ2UjQxUmFmZDlJMEdFczRyZUphWGx6SlpZQUNIS3JraEVKQ3BhSUhISG54anUwZjBrR19ma1N6LU1LQXZIT0ZKS2c?oc=5",
-            "title": "المزيد من الأخبار بشأن الأزمة في سوريا الأونروا - UNRWA",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTUl2ckJKbUVkVWQ0WEpKVVNJTm9xaXkweFhxOXBjRE1iYWM1NGdWRERzS2xUTERTSTRDNDVGNnVGQjB6NDhPdkl5Z3oyV1NNVnhOVFpQMThMWVdOVHpINjNFQ3dXN0J6Z2dIY2tPa3Y1Rlk4QWpUdGNQYTFub3ZEWnViT0g1V2ctd25YTi1BVjVOdWNadzAzeUlaTmNPNENFV3l4d0g5RnJ2UjQxUmFmZDlJMEdFczRyZUphWGx6SlpZQUNIS3JraEVKQ3BhSUhISG54anUwZjBrR19ma1N6LU1LQXZIT0ZKS2c?oc=5\" target=\"_blank\">المزيد من الأخبار بشأن الأزمة في سوريا الأونروا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
-            "date_modified": "2025-11-25T11:29:18.000Z",
-            "author": {
-                "name": "UNRWA"
             }
         }
     ]
