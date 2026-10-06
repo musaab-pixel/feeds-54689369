@@ -5,6 +5,24 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "043c8e2d7549a1b9eaf70e0be9e0f1b30c8d442bf029bdeee5da83b2874ab93f",
+            "content_html": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General António Guterres has said nothing can justify the atrocities of 7 October – calling for an end to the suffering of Israelis and Palestinians alike.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168530",
+            "title": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
+            "summary": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General António Guterres has said nothing can justify the atrocities of 7 October – calling for an end to the suffering of Israelis and Palestinians alike.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-01-2024-UN-Photo-Guterres-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-05T12:00:00.000Z"
+        },
+        {
+            "id": "d179014356cf574ba86bd30c3b18720350ff9ce107f298d397aada8495018386",
+            "content_html": "Intense fighting in Yemen has forced more than 184,000 people from their homes since the start of August, most of them since early September, the UN migration agency (IOM) said on Monday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168528",
+            "title": "More than 184,000 displaced as fighting intensifies in Yemen",
+            "summary": "Intense fighting in Yemen has forced more than 184,000 people from their homes since the start of August, most of them since early September, the UN migration agency (IOM) said on Monday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-03-2025_IOM_Yemen-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-05T12:00:00.000Z"
+        },
+        {
             "id": "a1134f9304469847d3c94baf1ffa8f3afcf2714968d80da093b59ae70b632187",
             "content_html": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.&nbsp;",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",

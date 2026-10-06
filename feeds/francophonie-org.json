@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "79276a2cd9766d423e2e35dca1483cdcb26796c295ad7ed7fc7100c9804d0bd6",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">La société civile francophone mobilisée à Cotonou en faveur de la paix et de la stabilité</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-06T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 06/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/16e-assemblee-coing-8695",
+            "title": "La société civile francophone mobilisée à Cotonou en faveur de la paix et de la stabilité",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">La société civile francophone mobilisée à Cotonou en faveur de la paix et de la stabilité</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-06T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 06/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-06T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "dc2211d85bfdd7a621d4b0054a515b689ad65a046839a09096b27f7437e164e2",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Journée mondiale des enseignants : Le Café des enseignant.e.s à Dakar</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-06T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 06/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/journee-mondiale-des-enseignants-le-cafe-des-enseignantes-a-dakar-8694",
+            "title": "Journée mondiale des enseignants : Le Café des enseignant.e.s à Dakar",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Journée mondiale des enseignants : Le Café des enseignant.e.s à Dakar</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-06T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 06/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-06T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "c6909d1b79cf10e0148f44eff240cfb1f09e01e1e3d88b92799978814afb3e53",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">À Ottawa, la francophonie économique canadienne dialogue avec le monde</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-01T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 01/10/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/ottawa-la-francophonie-economique-canadienne-dialogue-avec-le-monde-8692",
