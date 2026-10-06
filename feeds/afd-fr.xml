@@ -4,10 +4,65 @@
         <title>afd.fr</title>
         <link>https://www.afd.fr/rss.xml</link>
         <description>RSS Factory feed "afd.fr" (type: native)</description>
-        <lastBuildDate>Tue, 06 Oct 2026 13:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 14:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[AHMIM-RICHARD_Aurélie_20260925_signée]]></title>
+            <link>https://www.afd.fr/fr/node/15325</link>
+            <guid isPermaLink="false">82754e95e56ee863ecfc23724d1e61dffa832dc62e7eca74d500ce4290551244</guid>
+            <pubDate>Tue, 06 Oct 2026 14:15:27 GMT</pubDate>
+            <description><![CDATA[AHMIM-RICHARD_Aurélie_20260925_signée
+<span><span>constantv@afd.fr</span></span>
+<time datetime="2026-10-06T16:15:27+02:00" title="Mardi 6 octobre 2026 - 16:15">mar 06/10/2026 - 16:15</time>
+    <time datetime="2026-10-06T12:00:00Z">6 octobre 2026</time>
+    0    Délégations de signature – Décisions DG    
+
+      
+        
+  
+  
+  
+
+
+
+
+
+  
+<a href="https://www.afd.fr/sites/default/files/2026-10/ahmim-richard_aurelie_20260925_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    ahmim-richard_aurelie_20260925_signee.pdf <span class="fr-link__detail">159.92 Ko</span>
+  </a>
+
+
+
+    <time datetime="2026-10-06T12:00:00Z">mar 06/10/2026 - 12:00</time>
+]]></description>
+            <content:encoded><![CDATA[AHMIM-RICHARD_Aurélie_20260925_signée
+<span><span>constantv@afd.fr</span></span>
+<time datetime="2026-10-06T16:15:27+02:00" title="Mardi 6 octobre 2026 - 16:15">mar 06/10/2026 - 16:15</time>
+    <time datetime="2026-10-06T12:00:00Z">6 octobre 2026</time>
+    0    Délégations de signature – Décisions DG    
+
+      
+        
+  
+  
+  
+
+
+
+
+
+  
+<a href="https://www.afd.fr/sites/default/files/2026-10/ahmim-richard_aurelie_20260925_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    ahmim-richard_aurelie_20260925_signee.pdf <span class="fr-link__detail">159.92 Ko</span>
+  </a>
+
+
+
+    <time datetime="2026-10-06T12:00:00Z">mar 06/10/2026 - 12:00</time>
+]]></content:encoded>
+            <author>constantv@afd.fr</author>
+        </item>
         <item>
             <title><![CDATA[Transition énergétique : So Watt accélère le déploiement du solaire avec l’appui de l'Agence française de développement]]></title>
             <link>https://www.afd.fr/fr/commmuniques-de-presse/transition-energetique-so-watt-accelere-le-deploiement-du-solaire-avec</link>
@@ -53,11 +108,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-57486442" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1609729381" type="button">
           À propos de l’Agence Française de Développement
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-57486442">
+  <div class="fr-collapse" id="accordion-1609729381">
         
 
 <div class="my-8 print-para-space">
@@ -76,11 +131,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-835943901" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-58592454" type="button">
           À propos du Groupe Athena et So Watt
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-835943901">
+  <div class="fr-collapse" id="accordion-58592454">
         
 
 <div class="my-8 print-para-space">
@@ -296,11 +351,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-57486442" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1609729381" type="button">
           À propos de l’Agence Française de Développement
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-57486442">
+  <div class="fr-collapse" id="accordion-1609729381">
         
 
 <div class="my-8 print-para-space">
@@ -319,11 +374,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-835943901" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-58592454" type="button">
           À propos du Groupe Athena et So Watt
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-835943901">
+  <div class="fr-collapse" id="accordion-58592454">
         
 
 <div class="my-8 print-para-space">
@@ -103649,61 +103704,6 @@ Accompagner nos voisins aujourd'hui, c'est tenir des positions stratégiques et 
 
   
 <a href="http://www.afd.fr/sites/default/files/2026-08/letilly_gaelle_20260809_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    letilly_gaelle_20260809_signee.pdf <span class="fr-link__detail">158.89 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-08-09T12:00:00Z">dim 09/08/2026 - 12:00</time>
-]]></content:encoded>
-            <author>constantv@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[LETILLY_Gaëlle_20260809_signée]]></title>
-            <link>https://www.afd.fr/fr/node/15079</link>
-            <guid isPermaLink="false">a73272563ffb2b40c9c30e15e2fcbb4bd544efe862cd2746c5d74de8663d5589</guid>
-            <pubDate>Sun, 09 Aug 2026 21:21:34 GMT</pubDate>
-            <description><![CDATA[LETILLY_Gaëlle_20260809_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-08-09T23:21:34+02:00" title="Dimanche 9 août 2026 - 23:21">dim 09/08/2026 - 23:21</time>
-    <time datetime="2026-08-09T12:00:00Z">9 août 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-08/letilly_gaelle_20260809_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    letilly_gaelle_20260809_signee.pdf <span class="fr-link__detail">158.89 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-08-09T12:00:00Z">dim 09/08/2026 - 12:00</time>
-]]></description>
-            <content:encoded><![CDATA[LETILLY_Gaëlle_20260809_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-08-09T23:21:34+02:00" title="Dimanche 9 août 2026 - 23:21">dim 09/08/2026 - 23:21</time>
-    <time datetime="2026-08-09T12:00:00Z">9 août 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-08/letilly_gaelle_20260809_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    letilly_gaelle_20260809_signee.pdf <span class="fr-link__detail">158.89 Ko</span>
   </a>
 
 
