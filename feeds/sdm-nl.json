@@ -5,12 +5,12 @@
     "description": "RSS Factory feed \"sdm.nl\" (type: native)",
     "items": [
         {
-            "id": "1dd647e655714361041625d5cefeacad847d0545a6b929ccfe9e331a0fecf776",
-            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/stelling-door-de-grote-hoeveelheid-informatie-zijn-we-slechter-geinformeerd-dan-vroeger/\">Stelling: Door de grote hoeveelheid informatie zijn we slechter geïnformeerd dan vroeger</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
-            "url": "https://sdm.nl/artikel/stelling-door-de-grote-hoeveelheid-informatie-zijn-we-slechter-geinformeerd-dan-vroeger/",
-            "title": "Stelling: Door de grote hoeveelheid informatie zijn we slechter geïnformeerd dan vroeger",
-            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/stelling-door-de-grote-hoeveelheid-informatie-zijn-we-slechter-geinformeerd-dan-vroeger/\">Stelling: Door de grote hoeveelheid informatie zijn we slechter geïnformeerd dan vroeger</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
-            "date_modified": "2026-09-25T09:24:09.000Z",
+            "id": "55d8c78b3fad7d93573a86450c361ce2c6286a79c4e1d35509802cb76dc2d2e1",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/praat-mee-hoe-zouden-media-er-volgens-jou-in-de-toekomst-uit-moeten-zien/\">Praat mee: Hoe zouden media er volgens jou in de toekomst uit moeten zien?</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/praat-mee-hoe-zouden-media-er-volgens-jou-in-de-toekomst-uit-moeten-zien/",
+            "title": "Praat mee: Hoe zouden media er volgens jou in de toekomst uit moeten zien?",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/praat-mee-hoe-zouden-media-er-volgens-jou-in-de-toekomst-uit-moeten-zien/\">Praat mee: Hoe zouden media er volgens jou in de toekomst uit moeten zien?</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-10-05T14:17:05.000Z",
             "author": {
                 "name": "Wout Vanzaale"
             }
@@ -90,6 +90,17 @@
             "date_modified": "2026-09-03T09:34:53.000Z",
             "author": {
                 "name": "Lisa"
+            }
+        },
+        {
+            "id": "1dd647e655714361041625d5cefeacad847d0545a6b929ccfe9e331a0fecf776",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/stelling-door-de-grote-hoeveelheid-informatie-zijn-we-slechter-geinformeerd-dan-vroeger/\">Stelling: Door de grote hoeveelheid informatie zijn we slechter geïnformeerd dan vroeger</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/stelling-door-de-grote-hoeveelheid-informatie-zijn-we-slechter-geinformeerd-dan-vroeger/",
+            "title": "Stelling: Door de grote hoeveelheid informatie zijn we slechter geïnformeerd dan vroeger",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/stelling-door-de-grote-hoeveelheid-informatie-zijn-we-slechter-geinformeerd-dan-vroeger/\">Stelling: Door de grote hoeveelheid informatie zijn we slechter geïnformeerd dan vroeger</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-08-15T09:24:09.000Z",
+            "author": {
+                "name": "Wout Vanzaale"
             }
         },
         {

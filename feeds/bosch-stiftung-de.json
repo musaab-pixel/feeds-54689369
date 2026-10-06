@@ -16,17 +16,6 @@
             }
         },
         {
-            "id": "9f7edb77088596a0acd9fba9b198369fe9bfa48b6db8682c668097ed0148ecf9",
-            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nicht das Etikett entscheidet, sondern die Evidenz</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-30T16:20:01+02:00\" title=\"Mittwoch, 30 September 2026 - 16:20\" class=\"datetime\">Mi. 30 Sep 2026 - 16:20</time>\n</span>\n",
-            "url": "https://bosch-stiftung.de/story/nicht-das-etikett-entscheidet-sondern-die-evidenz",
-            "title": "Nicht das Etikett entscheidet, sondern die Evidenz",
-            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nicht das Etikett entscheidet, sondern die Evidenz</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-30T16:20:01+02:00\" title=\"Mittwoch, 30 September 2026 - 16:20\" class=\"datetime\">Mi. 30 Sep 2026 - 16:20</time>\n</span>\n",
-            "date_modified": "2026-09-30T14:20:01.000Z",
-            "author": {
-                "name": "palasthotel"
-            }
-        },
-        {
             "id": "25384581f56e68c0e19f7b3c9052b2ca9b3ae9b3643b4f77d1606834af34c7fd",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Meilensteine der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-30T09:49:48+02:00\" title=\"Mittwoch, 30 September 2026 - 09:49\" class=\"datetime\">Mi. 30 Sep 2026 - 09:49</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/meilensteine-der-robert-bosch-stiftung",
@@ -49,6 +38,17 @@
             }
         },
         {
+            "id": "9f7edb77088596a0acd9fba9b198369fe9bfa48b6db8682c668097ed0148ecf9",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nicht das Etikett entscheidet, sondern die Evidenz</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-29T08:41:48+02:00\" title=\"Dienstag, 29 September 2026 - 08:41\" class=\"datetime\">Di. 29 Sep 2026 - 08:41</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/nicht-das-etikett-entscheidet-sondern-die-evidenz",
+            "title": "Nicht das Etikett entscheidet, sondern die Evidenz",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Nicht das Etikett entscheidet, sondern die Evidenz</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-29T08:41:48+02:00\" title=\"Dienstag, 29 September 2026 - 08:41\" class=\"datetime\">Di. 29 Sep 2026 - 08:41</time>\n</span>\n",
+            "date_modified": "2026-09-29T06:41:48.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "b2cbc6a03a6ca62eab2f126d895e3b62e5b674b912b106bd98d49ff7f835992e",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Deutscher Schulpreis 2026 für Gesamtschule in Hessen </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-25T15:34:33+02:00\" title=\"Freitag, 25 September 2026 - 15:34\" class=\"datetime\">Fr. 25 Sep 2026 - 15:34</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/deutscher-schulpreis-2026-fuer-gesamtschule-hessen",
@@ -63,17 +63,6 @@
             "id": "0bb18400f4a6b44c356e2def37befa98cdef9135389b3988a55021fc1f7aa0e9",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/news/gemeinsam-die-krebsmedizin-von-morgen-gestalten",
-            "title": "Gemeinsam die Krebsmedizin von morgen gestalten",
-            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
-            "date_modified": "2026-09-24T08:20:01.000Z",
-            "author": {
-                "name": "palasthotel"
-            }
-        },
-        {
-            "id": "7cbf18a75923df79a699dee8519988fa9b16976df456d4efb41bcb307affde29",
-            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
-            "url": "https://bosch-stiftung.de/story/gemeinsam-die-krebsmedizin-von-morgen-gestalten",
             "title": "Gemeinsam die Krebsmedizin von morgen gestalten",
             "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-24T10:20:01+02:00\" title=\"Donnerstag, 24 September 2026 - 10:20\" class=\"datetime\">Do. 24 Sep 2026 - 10:20</time>\n</span>\n",
             "date_modified": "2026-09-24T08:20:01.000Z",
@@ -123,6 +112,17 @@
             "date_modified": "2026-09-22T06:44:50.000Z",
             "author": {
                 "name": "Claudia Hagen"
+            }
+        },
+        {
+            "id": "7cbf18a75923df79a699dee8519988fa9b16976df456d4efb41bcb307affde29",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-21T08:35:36+02:00\" title=\"Montag, 21 September 2026 - 08:35\" class=\"datetime\">Mo. 21 Sep 2026 - 08:35</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/gemeinsam-die-krebsmedizin-von-morgen-gestalten",
+            "title": "Gemeinsam die Krebsmedizin von morgen gestalten",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Gemeinsam die Krebsmedizin von morgen gestalten</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-09-21T08:35:36+02:00\" title=\"Montag, 21 September 2026 - 08:35\" class=\"datetime\">Mo. 21 Sep 2026 - 08:35</time>\n</span>\n",
+            "date_modified": "2026-09-21T06:35:36.000Z",
+            "author": {
+                "name": "palasthotel"
             }
         },
         {
