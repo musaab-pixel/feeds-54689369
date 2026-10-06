@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 06 Oct 2026 13:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 14:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: نقوم بعملية عسكرية واسعة لتحرير مديرية الوازعية…]]></title>
+            <link>https://t.me/aljazeeraBrk/238488</link>
+            <guid isPermaLink="false">de438c3ba4b7b17cafab30dda4d03c2d28764a1b14153d177c2e7cc9fcd96728</guid>
+            <pubDate>Tue, 06 Oct 2026 14:19:03 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: نقوم بعملية عسكرية واسعة لتحرير مديرية الوازعية بمحافظة تعز ضمن عمليات فجر اليمن]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: نقوم بعملية عسكرية واسعة لتحرير مديرية الوازعية بمحافظة تعز ضمن عمليات فجر اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مفوضية الأمم المتحدة للاجئين: أكثر من 174 ألف شخص في اليمن أجبروا على الفرار من…]]></title>
             <link>https://t.me/aljazeeraBrk/238486</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 02 Oct 2026 20:03:03 GMT</pubDate>
             <description><![CDATA[ترمب: مسألة إيران ستنتهي قريبا وستنخفض أسعار النفط]]></description>
             <content:encoded><![CDATA[ترمب: مسألة إيران ستنتهي قريبا وستنخفض أسعار النفط]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: بمجرد انتهاء الحرب مع إيران ستنخفض أسعار النفط إلى مستويات ما قبل الحرب…]]></title>
-            <link>https://t.me/aljazeeraBrk/238135</link>
-            <guid isPermaLink="false">c9484d933a1c4e7e82e26e8914aaa6d1604b341d48be8d1923634d961974860e</guid>
-            <pubDate>Fri, 02 Oct 2026 20:03:02 GMT</pubDate>
-            <description><![CDATA[ترمب: بمجرد انتهاء الحرب مع إيران ستنخفض أسعار النفط إلى مستويات ما قبل الحرب وربما إلى ما دونها]]></description>
-            <content:encoded><![CDATA[ترمب: بمجرد انتهاء الحرب مع إيران ستنخفض أسعار النفط إلى مستويات ما قبل الحرب وربما إلى ما دونها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
