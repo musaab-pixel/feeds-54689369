@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 07 Oct 2026 18:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 18:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الحرب الأمريكي: سنواصل العمل على ضمان عدم حصول إيران على سلاح نووي ومواصلة…]]></title>
+            <link>https://t.me/aljazeeraBrk/238657</link>
+            <guid isPermaLink="false">bb22e0660d2cc58b3bb49996ea2eb4ec5b40d3542eb181ed5a2951b2801314e1</guid>
+            <pubDate>Wed, 07 Oct 2026 18:21:02 GMT</pubDate>
+            <description><![CDATA[وزير الحرب الأمريكي: سنواصل العمل على ضمان عدم حصول إيران على سلاح نووي ومواصلة الحصار المنيع]]></description>
+            <content:encoded><![CDATA[وزير الحرب الأمريكي: سنواصل العمل على ضمان عدم حصول إيران على سلاح نووي ومواصلة الحصار المنيع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا بـ11 صاروخا باليستيا 11…]]></title>
             <link>https://t.me/aljazeeraBrk/238656</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 03 Oct 2026 12:44:02 GMT</pubDate>
             <description><![CDATA[مستشفى شهداء الأقصى: إصابة طفلة برصاص قوات الاحتلال جنوبي مدينة دير البلح وسط قطاع غزة]]></description>
             <content:encoded><![CDATA[مستشفى شهداء الأقصى: إصابة طفلة برصاص قوات الاحتلال جنوبي مدينة دير البلح وسط قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: هجوم بالصواريخ على مدينة صعدة…]]></title>
-            <link>https://t.me/aljazeeraBrk/238218</link>
-            <guid isPermaLink="false">e788791724cb105ea2aa022b193766f0e3592668670c2de36b12aeb94d7b5b41</guid>
-            <pubDate>Sat, 03 Oct 2026 12:36:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: هجوم بالصواريخ على مدينة صعدة شمالي اليمن]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: هجوم بالصواريخ على مدينة صعدة شمالي اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
