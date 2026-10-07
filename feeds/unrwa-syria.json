@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "4c42751f2972eebed746642297b70de3a3cc791a31290905ea2214f9cff39e1c",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtT01jNkVtM0tWWnVJUzBnWGM2Q1FrNnBRc05lSlB4YWRueU5PZHpPM2h4OG95WjNPTk1pczQzeHdQaHEzZC1FblVydEtOQlk?oc=5\" target=\"_blank\">قدس برس/هيئة حقوقية: \"أونروا\" أسقطت نحو 174 ألف لاجئ فلسطيني من سجلاتها في سوريا وغزة #عاجل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">تطبيق نبض</font>",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtT01jNkVtM0tWWnVJUzBnWGM2Q1FrNnBRc05lSlB4YWRueU5PZHpPM2h4OG95WjNPTk1pczQzeHdQaHEzZC1FblVydEtOQlk?oc=5",
+            "title": "قدس برس/هيئة حقوقية: \"أونروا\" أسقطت نحو 174 ألف لاجئ فلسطيني من سجلاتها في سوريا وغزة #عاجل - تطبيق نبض",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtT01jNkVtM0tWWnVJUzBnWGM2Q1FrNnBRc05lSlB4YWRueU5PZHpPM2h4OG95WjNPTk1pczQzeHdQaHEzZC1FblVydEtOQlk?oc=5\" target=\"_blank\">قدس برس/هيئة حقوقية: \"أونروا\" أسقطت نحو 174 ألف لاجئ فلسطيني من سجلاتها في سوريا وغزة #عاجل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">تطبيق نبض</font>",
+            "date_modified": "2026-10-06T08:55:34.000Z",
+            "author": {
+                "name": "تطبيق نبض"
+            }
+        },
+        {
             "id": "04a7a16a92d534eeaa4e6ac39cc206127e4158dc5c1b9b765cd7c17d20f6dced",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi7wNBVV95cUxQMDNCNVY3RnFyLXZQS29DN0QzM2pPdXRka21TSHNqY21uUmc3eHRoaWZzQTZyRWc0RVVlN2ZfNDhmN0RyOFV1elROR3NLdzU1NDBZaVdfdWQzU2RtZFN2NnVCMnUyNEY5S3ZuVFUtWlRNNldHMGRvMzNJd0pYakRLa0d3VGloOXJGT2NUakNqQUVja3dpaHBvWTZMdUNhdUZYYzhmTzI5cUtBWUxOWHFpR05MdUZVeU1LM29DX0xPWUpaNnJwT04ydlozQkhzOUlSNkJBTDM5WnBUT0tQZFR3VmMxcVQwalo0NElBbUxmcGt2bXdxb2xDcVp0bDYtNFZvdXc1a2ZXb3VNdi1DeVFHOE04bmJsSlJQQlFzMWdQOEh1UmRjZlJMeDFtRVQ5X1FuRm1tRW9iU0w5LXRfV1VWLXo3M1plaVVBQ3FiQlpmZFh6MG1RazhQcHNyZkMzczlIb3pCLU1IRHZZb2xaRlR5LXNyTUdjNHNQcjRqZGphN1pVWlNvSjhGTVJGWlFJNGcyaWZXT0tiSnljckVSSUx6VURhdU9VZFNYOE9uaHVaaEhZWHl0MkktYzRWVG9MdDJqTDlNSDM5Wk9kbkY5eS1MaDFMUnM0S29ZLTJGcnJHbE5zaGJJZE9rMGQxR1pnemM?oc=5\" target=\"_blank\">هيئة: \"أونروا\" أسقطت نحو 174 ألف لاجئ فلسطيني من سجلاتها في سوريا وغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">فلسطين أون لاين</font>",
             "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQMDNCNVY3RnFyLXZQS29DN0QzM2pPdXRka21TSHNqY21uUmc3eHRoaWZzQTZyRWc0RVVlN2ZfNDhmN0RyOFV1elROR3NLdzU1NDBZaVdfdWQzU2RtZFN2NnVCMnUyNEY5S3ZuVFUtWlRNNldHMGRvMzNJd0pYakRLa0d3VGloOXJGT2NUakNqQUVja3dpaHBvWTZMdUNhdUZYYzhmTzI5cUtBWUxOWHFpR05MdUZVeU1LM29DX0xPWUpaNnJwT04ydlozQkhzOUlSNkJBTDM5WnBUT0tQZFR3VmMxcVQwalo0NElBbUxmcGt2bXdxb2xDcVp0bDYtNFZvdXc1a2ZXb3VNdi1DeVFHOE04bmJsSlJQQlFzMWdQOEh1UmRjZlJMeDFtRVQ5X1FuRm1tRW9iU0w5LXRfV1VWLXo3M1plaVVBQ3FiQlpmZFh6MG1RazhQcHNyZkMzczlIb3pCLU1IRHZZb2xaRlR5LXNyTUdjNHNQcjRqZGphN1pVWlNvSjhGTVJGWlFJNGcyaWZXT0tiSnljckVSSUx6VURhdU9VZFNYOE9uaHVaaEhZWHl0MkktYzRWVG9MdDJqTDlNSDM5Wk9kbkY5eS1MaDFMUnM0S29ZLTJGcnJHbE5zaGJJZE9rMGQxR1pnemM?oc=5",
@@ -120,7 +131,7 @@
             "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxNVUxCc1JmbEk2YjUyMlI2aS1DQ1JSMlJtdUg5ZWhCV05YNTJHX01sX1RwUVV3YXVjOTRaR21ON2xDSk9lWkR1S3cwTk81blRGdFpSaVRYcTROalcxSnh2Z1huMGVfcWZPd3k3cXpwbFpJYUlYR1RDY1VLVkt5V3V2bS03MmZPdmtoQ1pLSGxBejJ3WWEwODJJbTBKUFNxMVZVWkI2SS00MmVtb2JScl9yamtiaXVTdTZ6OFduWGloOUF4NmlSc0F4RFNpOEE3YTQ4LW95eGdWRXo4eWtqMmZLa2pNdTIyZnFxdEhoZVk1QmZVZE1pYmE3a18tby05Sm8xZG4tdmw2aVVmNEFURmhQa0xMRmhoaGdzT2UwSVF3STFaSEV1bkpvd0F5NS1sSExTcGVVUGdwTkxad2tDRE9oS2lfYjVQZHV5UjBUcnlrTUpDWGdYbEZkZ1B6a3Q3UUROTG43bmNoSlJBVGtaY1FaV2pCb2dkM3k5QkZtWDdkeFFXenc3RXJsRDFEVk1SRnJVeUdrWUhxR3JTTDZWSkxGdlhRVVJicElEQk5RcTRKZnFxY3hMWm9VUnl2UUpFZUt2WEE1VTNVUm1LRGctNXpiU2dZRTNSc1diTzZyYlpmY3p1YUZTcnpTS2Rvd25uODZWUWhlc0h5eGFlNjJJVDh2S2NHR1pMS2JjTDlPaTFEZi1pcEI4cUtDSE9JZ0dfSUJhZWpjcGJyUlg0X2wxcmtTLVBmc1JFQ1dmNHdKbGJhRDk0eU1nVUF3NkZscGVIY0k?oc=5",
             "title": "\"أونروا\" تفتح باب التقدم لمنح المشاريع الصغيرة للاجئين الفلسطينيين في سوريا - بوابة اللاجئين الفلسطينيين",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwRBVV95cUxNVUxCc1JmbEk2YjUyMlI2aS1DQ1JSMlJtdUg5ZWhCV05YNTJHX01sX1RwUVV3YXVjOTRaR21ON2xDSk9lWkR1S3cwTk81blRGdFpSaVRYcTROalcxSnh2Z1huMGVfcWZPd3k3cXpwbFpJYUlYR1RDY1VLVkt5V3V2bS03MmZPdmtoQ1pLSGxBejJ3WWEwODJJbTBKUFNxMVZVWkI2SS00MmVtb2JScl9yamtiaXVTdTZ6OFduWGloOUF4NmlSc0F4RFNpOEE3YTQ4LW95eGdWRXo4eWtqMmZLa2pNdTIyZnFxdEhoZVk1QmZVZE1pYmE3a18tby05Sm8xZG4tdmw2aVVmNEFURmhQa0xMRmhoaGdzT2UwSVF3STFaSEV1bkpvd0F5NS1sSExTcGVVUGdwTkxad2tDRE9oS2lfYjVQZHV5UjBUcnlrTUpDWGdYbEZkZ1B6a3Q3UUROTG43bmNoSlJBVGtaY1FaV2pCb2dkM3k5QkZtWDdkeFFXenc3RXJsRDFEVk1SRnJVeUdrWUhxR3JTTDZWSkxGdlhRVVJicElEQk5RcTRKZnFxY3hMWm9VUnl2UUpFZUt2WEE1VTNVUm1LRGctNXpiU2dZRTNSc1diTzZyYlpmY3p1YUZTcnpTS2Rvd25uODZWUWhlc0h5eGFlNjJJVDh2S2NHR1pMS2JjTDlPaTFEZi1pcEI4cUtDSE9JZ0dfSUJhZWpjcGJyUlg0X2wxcmtTLVBmc1JFQ1dmNHdKbGJhRDk0eU1nVUF3NkZscGVIY0k?oc=5\" target=\"_blank\">\"أونروا\" تفتح باب التقدم لمنح المشاريع الصغيرة للاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-09-24T07:34:00.000Z",
+            "date_modified": "2026-09-24T07:00:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
             }
@@ -222,6 +233,17 @@
             "date_modified": "2026-09-16T11:04:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "1da620af9d232e16c15f54cd7870f1b3353a286670ce1c6363fefe06b2acc593",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMihwVBVV95cUxOZEVFcDFXTE9TWlZDa2EzTk1nbUNOY21vYUkxR3FYSFNyRUpwd3J4eXVRVklCYUU3TVdYQnBJd1psTy1qWWZZRGpuTUNHNG5OZlRPaThTUlZQQlhyMU5abnFEdlpwV0xveEN6VEtwUDFXVEtLNG55S3RjN3JVN0p0djlmNW1FZlZXOTc1MDd3eFlIZTFRZ1pIVkJhdTdIYjFBYXE4QVY2X051NTIxZFkyMDFUcTY0dDhsMFdJNlhNdUZMdy1mVmV6bHliNVBWZ2NVTkZRVUVCel90My10SXJSdEdZbzBkOVRnaDRrbVlXcG9hUEh3TWRibHhjcW9mSkQwNUNNUWh5M0t3Tm1yYTB2X2V0LXNPcDJJWUlqejNRTEYtVUstWkR0Y0drcUZQV1o3cllFdWF4a0N1VGNvUWs0SjhOY09pc1lTRnpuSS1LQVFSVU5OSVdfMWtHZjN0V1FzNzdUNVM4RllWTnhwVXU5TUMxTUJLNHBfVjEtNC14a0toTGdnb29pdFRMblFiS3psajNpbk5zZDJINXUzRE1DZm5aU2JpaXdVbWt4bFFoM3VuaTZPaEVPdXFiNU9kUTBDQm9DY25jWWE5Ml9xUGVBRVRkcUNtSzFlZU4tam9PNXZSWTVqZHB1Z2R0SUZmZmxqakhtVi00cExLd0ZlRTIyY2xXb0lqbzN1T3c3VkR4dGFjSm9GT29UenFyM1dIYWJFQ3ZDZUtXQW05NFVZVWJxejE1MWg4NHZ5NVRHY3RjdVZjNWtqOGZ5RzRwZW5LcWFOWUtPS3hTRnFpNTQybHdqbW16blFzWDlKcV92a3J3U2dKMmxScFhOUnRaRmtXbHJKMjByTnZ1NA?oc=5\" target=\"_blank\">رابطة الفلسطينيين المهجرين من سوريا إلى لبنان تلتقي المدير العام للأونروا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة الرأي الفلسطينية -</font>",
+            "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOZEVFcDFXTE9TWlZDa2EzTk1nbUNOY21vYUkxR3FYSFNyRUpwd3J4eXVRVklCYUU3TVdYQnBJd1psTy1qWWZZRGpuTUNHNG5OZlRPaThTUlZQQlhyMU5abnFEdlpwV0xveEN6VEtwUDFXVEtLNG55S3RjN3JVN0p0djlmNW1FZlZXOTc1MDd3eFlIZTFRZ1pIVkJhdTdIYjFBYXE4QVY2X051NTIxZFkyMDFUcTY0dDhsMFdJNlhNdUZMdy1mVmV6bHliNVBWZ2NVTkZRVUVCel90My10SXJSdEdZbzBkOVRnaDRrbVlXcG9hUEh3TWRibHhjcW9mSkQwNUNNUWh5M0t3Tm1yYTB2X2V0LXNPcDJJWUlqejNRTEYtVUstWkR0Y0drcUZQV1o3cllFdWF4a0N1VGNvUWs0SjhOY09pc1lTRnpuSS1LQVFSVU5OSVdfMWtHZjN0V1FzNzdUNVM4RllWTnhwVXU5TUMxTUJLNHBfVjEtNC14a0toTGdnb29pdFRMblFiS3psajNpbk5zZDJINXUzRE1DZm5aU2JpaXdVbWt4bFFoM3VuaTZPaEVPdXFiNU9kUTBDQm9DY25jWWE5Ml9xUGVBRVRkcUNtSzFlZU4tam9PNXZSWTVqZHB1Z2R0SUZmZmxqakhtVi00cExLd0ZlRTIyY2xXb0lqbzN1T3c3VkR4dGFjSm9GT29UenFyM1dIYWJFQ3ZDZUtXQW05NFVZVWJxejE1MWg4NHZ5NVRHY3RjdVZjNWtqOGZ5RzRwZW5LcWFOWUtPS3hTRnFpNTQybHdqbW16blFzWDlKcV92a3J3U2dKMmxScFhOUnRaRmtXbHJKMjByTnZ1NA?oc=5",
+            "title": "رابطة الفلسطينيين المهجرين من سوريا إلى لبنان تلتقي المدير العام للأونروا في لبنان - وكالة الرأي الفلسطينية -",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwVBVV95cUxOZEVFcDFXTE9TWlZDa2EzTk1nbUNOY21vYUkxR3FYSFNyRUpwd3J4eXVRVklCYUU3TVdYQnBJd1psTy1qWWZZRGpuTUNHNG5OZlRPaThTUlZQQlhyMU5abnFEdlpwV0xveEN6VEtwUDFXVEtLNG55S3RjN3JVN0p0djlmNW1FZlZXOTc1MDd3eFlIZTFRZ1pIVkJhdTdIYjFBYXE4QVY2X051NTIxZFkyMDFUcTY0dDhsMFdJNlhNdUZMdy1mVmV6bHliNVBWZ2NVTkZRVUVCel90My10SXJSdEdZbzBkOVRnaDRrbVlXcG9hUEh3TWRibHhjcW9mSkQwNUNNUWh5M0t3Tm1yYTB2X2V0LXNPcDJJWUlqejNRTEYtVUstWkR0Y0drcUZQV1o3cllFdWF4a0N1VGNvUWs0SjhOY09pc1lTRnpuSS1LQVFSVU5OSVdfMWtHZjN0V1FzNzdUNVM4RllWTnhwVXU5TUMxTUJLNHBfVjEtNC14a0toTGdnb29pdFRMblFiS3psajNpbk5zZDJINXUzRE1DZm5aU2JpaXdVbWt4bFFoM3VuaTZPaEVPdXFiNU9kUTBDQm9DY25jWWE5Ml9xUGVBRVRkcUNtSzFlZU4tam9PNXZSWTVqZHB1Z2R0SUZmZmxqakhtVi00cExLd0ZlRTIyY2xXb0lqbzN1T3c3VkR4dGFjSm9GT29UenFyM1dIYWJFQ3ZDZUtXQW05NFVZVWJxejE1MWg4NHZ5NVRHY3RjdVZjNWtqOGZ5RzRwZW5LcWFOWUtPS3hTRnFpNTQybHdqbW16blFzWDlKcV92a3J3U2dKMmxScFhOUnRaRmtXbHJKMjByTnZ1NA?oc=5\" target=\"_blank\">رابطة الفلسطينيين المهجرين من سوريا إلى لبنان تلتقي المدير العام للأونروا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة الرأي الفلسطينية -</font>",
+            "date_modified": "2026-09-12T07:00:00.000Z",
+            "author": {
+                "name": "وكالة الرأي الفلسطينية -"
             }
         },
         {
@@ -1124,17 +1146,6 @@
             "date_modified": "2026-06-13T07:00:00.000Z",
             "author": {
                 "name": "شبكة مصدر الاخبارية"
-            }
-        },
-        {
-            "id": "1da620af9d232e16c15f54cd7870f1b3353a286670ce1c6363fefe06b2acc593",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMihwVBVV95cUxOZEVFcDFXTE9TWlZDa2EzTk1nbUNOY21vYUkxR3FYSFNyRUpwd3J4eXVRVklCYUU3TVdYQnBJd1psTy1qWWZZRGpuTUNHNG5OZlRPaThTUlZQQlhyMU5abnFEdlpwV0xveEN6VEtwUDFXVEtLNG55S3RjN3JVN0p0djlmNW1FZlZXOTc1MDd3eFlIZTFRZ1pIVkJhdTdIYjFBYXE4QVY2X051NTIxZFkyMDFUcTY0dDhsMFdJNlhNdUZMdy1mVmV6bHliNVBWZ2NVTkZRVUVCel90My10SXJSdEdZbzBkOVRnaDRrbVlXcG9hUEh3TWRibHhjcW9mSkQwNUNNUWh5M0t3Tm1yYTB2X2V0LXNPcDJJWUlqejNRTEYtVUstWkR0Y0drcUZQV1o3cllFdWF4a0N1VGNvUWs0SjhOY09pc1lTRnpuSS1LQVFSVU5OSVdfMWtHZjN0V1FzNzdUNVM4RllWTnhwVXU5TUMxTUJLNHBfVjEtNC14a0toTGdnb29pdFRMblFiS3psajNpbk5zZDJINXUzRE1DZm5aU2JpaXdVbWt4bFFoM3VuaTZPaEVPdXFiNU9kUTBDQm9DY25jWWE5Ml9xUGVBRVRkcUNtSzFlZU4tam9PNXZSWTVqZHB1Z2R0SUZmZmxqakhtVi00cExLd0ZlRTIyY2xXb0lqbzN1T3c3VkR4dGFjSm9GT29UenFyM1dIYWJFQ3ZDZUtXQW05NFVZVWJxejE1MWg4NHZ5NVRHY3RjdVZjNWtqOGZ5RzRwZW5LcWFOWUtPS3hTRnFpNTQybHdqbW16blFzWDlKcV92a3J3U2dKMmxScFhOUnRaRmtXbHJKMjByTnZ1NA?oc=5\" target=\"_blank\">رابطة الفلسطينيين المهجرين من سوريا إلى لبنان تلتقي المدير العام للأونروا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة الرأي الفلسطينية -</font>",
-            "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOZEVFcDFXTE9TWlZDa2EzTk1nbUNOY21vYUkxR3FYSFNyRUpwd3J4eXVRVklCYUU3TVdYQnBJd1psTy1qWWZZRGpuTUNHNG5OZlRPaThTUlZQQlhyMU5abnFEdlpwV0xveEN6VEtwUDFXVEtLNG55S3RjN3JVN0p0djlmNW1FZlZXOTc1MDd3eFlIZTFRZ1pIVkJhdTdIYjFBYXE4QVY2X051NTIxZFkyMDFUcTY0dDhsMFdJNlhNdUZMdy1mVmV6bHliNVBWZ2NVTkZRVUVCel90My10SXJSdEdZbzBkOVRnaDRrbVlXcG9hUEh3TWRibHhjcW9mSkQwNUNNUWh5M0t3Tm1yYTB2X2V0LXNPcDJJWUlqejNRTEYtVUstWkR0Y0drcUZQV1o3cllFdWF4a0N1VGNvUWs0SjhOY09pc1lTRnpuSS1LQVFSVU5OSVdfMWtHZjN0V1FzNzdUNVM4RllWTnhwVXU5TUMxTUJLNHBfVjEtNC14a0toTGdnb29pdFRMblFiS3psajNpbk5zZDJINXUzRE1DZm5aU2JpaXdVbWt4bFFoM3VuaTZPaEVPdXFiNU9kUTBDQm9DY25jWWE5Ml9xUGVBRVRkcUNtSzFlZU4tam9PNXZSWTVqZHB1Z2R0SUZmZmxqakhtVi00cExLd0ZlRTIyY2xXb0lqbzN1T3c3VkR4dGFjSm9GT29UenFyM1dIYWJFQ3ZDZUtXQW05NFVZVWJxejE1MWg4NHZ5NVRHY3RjdVZjNWtqOGZ5RzRwZW5LcWFOWUtPS3hTRnFpNTQybHdqbW16blFzWDlKcV92a3J3U2dKMmxScFhOUnRaRmtXbHJKMjByTnZ1NA?oc=5",
-            "title": "رابطة الفلسطينيين المهجرين من سوريا إلى لبنان تلتقي المدير العام للأونروا في لبنان - وكالة الرأي الفلسطينية -",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwVBVV95cUxOZEVFcDFXTE9TWlZDa2EzTk1nbUNOY21vYUkxR3FYSFNyRUpwd3J4eXVRVklCYUU3TVdYQnBJd1psTy1qWWZZRGpuTUNHNG5OZlRPaThTUlZQQlhyMU5abnFEdlpwV0xveEN6VEtwUDFXVEtLNG55S3RjN3JVN0p0djlmNW1FZlZXOTc1MDd3eFlIZTFRZ1pIVkJhdTdIYjFBYXE4QVY2X051NTIxZFkyMDFUcTY0dDhsMFdJNlhNdUZMdy1mVmV6bHliNVBWZ2NVTkZRVUVCel90My10SXJSdEdZbzBkOVRnaDRrbVlXcG9hUEh3TWRibHhjcW9mSkQwNUNNUWh5M0t3Tm1yYTB2X2V0LXNPcDJJWUlqejNRTEYtVUstWkR0Y0drcUZQV1o3cllFdWF4a0N1VGNvUWs0SjhOY09pc1lTRnpuSS1LQVFSVU5OSVdfMWtHZjN0V1FzNzdUNVM4RllWTnhwVXU5TUMxTUJLNHBfVjEtNC14a0toTGdnb29pdFRMblFiS3psajNpbk5zZDJINXUzRE1DZm5aU2JpaXdVbWt4bFFoM3VuaTZPaEVPdXFiNU9kUTBDQm9DY25jWWE5Ml9xUGVBRVRkcUNtSzFlZU4tam9PNXZSWTVqZHB1Z2R0SUZmZmxqakhtVi00cExLd0ZlRTIyY2xXb0lqbzN1T3c3VkR4dGFjSm9GT29UenFyM1dIYWJFQ3ZDZUtXQW05NFVZVWJxejE1MWg4NHZ5NVRHY3RjdVZjNWtqOGZ5RzRwZW5LcWFOWUtPS3hTRnFpNTQybHdqbW16blFzWDlKcV92a3J3U2dKMmxScFhOUnRaRmtXbHJKMjByTnZ1NA?oc=5\" target=\"_blank\">رابطة الفلسطينيين المهجرين من سوريا إلى لبنان تلتقي المدير العام للأونروا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة الرأي الفلسطينية -</font>",
-            "date_modified": "2026-06-12T07:00:00.000Z",
-            "author": {
-                "name": "وكالة الرأي الفلسطينية -"
             }
         },
         {
@@ -2191,17 +2202,6 @@
             "date_modified": "2025-12-07T14:34:36.000Z",
             "author": {
                 "name": "UNRWA"
-            }
-        },
-        {
-            "id": "aaaafd9ab042bbb82b22024e9f5beff06ff4fd742aab78275290303e192864ed",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXh0VUlaVHB1T2JHalhBOWRGSWNzZFk5aUI5ZEs4VDl0VVRrTGx6dXpSVWRydHBxLWlQcU12elpBS1RMYk51aTJ4MFpHa1ZXQlFYTDZhUWlva0hOSHpOUEJIaXFzZzM5R2lkX0lMUWJDS21keThqaWRfa3pQa3NlRXZvbDdCY283VFE?oc=5\" target=\"_blank\">ما هي الدول التي عارضت تمديد عمل \"الأونروا\" لمدة 3 سنوات؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24NEWS</font>",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXh0VUlaVHB1T2JHalhBOWRGSWNzZFk5aUI5ZEs4VDl0VVRrTGx6dXpSVWRydHBxLWlQcU12elpBS1RMYk51aTJ4MFpHa1ZXQlFYTDZhUWlva0hOSHpOUEJIaXFzZzM5R2lkX0lMUWJDS21keThqaWRfa3pQa3NlRXZvbDdCY283VFE?oc=5",
-            "title": "ما هي الدول التي عارضت تمديد عمل \"الأونروا\" لمدة 3 سنوات؟ - i24NEWS",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXh0VUlaVHB1T2JHalhBOWRGSWNzZFk5aUI5ZEs4VDl0VVRrTGx6dXpSVWRydHBxLWlQcU12elpBS1RMYk51aTJ4MFpHa1ZXQlFYTDZhUWlva0hOSHpOUEJIaXFzZzM5R2lkX0lMUWJDS21keThqaWRfa3pQa3NlRXZvbDdCY283VFE?oc=5\" target=\"_blank\">ما هي الدول التي عارضت تمديد عمل \"الأونروا\" لمدة 3 سنوات؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">i24NEWS</font>",
-            "date_modified": "2025-12-05T08:00:00.000Z",
-            "author": {
-                "name": "i24NEWS"
             }
         }
     ]
