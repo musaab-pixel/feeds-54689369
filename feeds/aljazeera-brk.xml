@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 07 Oct 2026 13:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 13:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 5 شهداء بنيران قوات الاحتلال الإسرائيلي في مناطق عدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/238631</link>
+            <guid isPermaLink="false">93d18e904fdf5fc8b58f158af739c4b6e2cee26a022266f08b22a60c1aff912b</guid>
+            <pubDate>Wed, 07 Oct 2026 13:51:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 5 شهداء بنيران قوات الاحتلال الإسرائيلي في مناطق عدة بالقطاع منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 5 شهداء بنيران قوات الاحتلال الإسرائيلي في مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: قتلنا مسلحين من حماس خرجا من مستشفى كمال عدوان شمال قطاع غزة…]]></title>
             <link>https://t.me/aljazeeraBrk/238630</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 03 Oct 2026 10:30:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية صنعاء]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارات جديدة على العاصمة اليمنية صنعاء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></title>
-            <link>https://t.me/aljazeeraBrk/238187</link>
-            <guid isPermaLink="false">a303c7e91dee97236eebd124d2703abc7f23101cd72a5f759e424955a1a747ca</guid>
-            <pubDate>Sat, 03 Oct 2026 10:15:03 GMT</pubDate>
-            <description><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></description>
-            <content:encoded><![CDATA[أ.ف.ب: دوي انفجارات في العاصمة اليمنية صنعاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
