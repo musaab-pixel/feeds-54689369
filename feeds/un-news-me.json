@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "b8f0f8fa4aadee3e465cbef1f90ed024f6cc73594684996c9a10be2b52fe39a2",
+            "content_html": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+            "title": "Critical funding gap threatens health response in Yemen",
+            "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026_UNICEF_Yemen-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-07T12:00:00.000Z"
+        },
+        {
             "id": "ee2016326b54e66ec0136ced78a31dbe06755a6a10d8332b3d80efb881796d81",
             "content_html": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur area of East Jerusalem, the UN aid coordination office (OCHA) has reported.",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168539",
