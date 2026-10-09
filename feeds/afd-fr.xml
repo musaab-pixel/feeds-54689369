@@ -1447,7 +1447,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/education-secondaire-formation-technique-professionnelle-benin" class="fr-card__link">Le groupe AFD et l’éducation et la forma...</a>
+                  <a href="https://www.afd.fr/fr/ressources/groupe-afd-et-gouvernance-benin" class="fr-card__link">Le groupe AFD et la gouvernance au Bénin</a>
               </h3>
       
               <div class="fr-card__start">
@@ -1476,7 +1476,7 @@
 
     <div class="fr-card__header card-portrait" aria-hidden="true">
     <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_edu-fp-au-benin_061026.jpg.webp?itok=TQ2yrtFH" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_edu-fp-au-benin_061026.jpg.webp?itok=TQ2yrtFH" alt="Le groupe AFD et l’éducation et la formation professionnelle au Bénin">
+      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_gouvernance-au-benin-081026.jpg.webp?itok=Ko5JqT37" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_gouvernance-au-benin-081026.jpg.webp?itok=Ko5JqT37" alt="Le groupe AFD et la gouvernance au Bénin">
     </div>
   </div>
   
@@ -1513,18 +1513,18 @@
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-7113" accept-charset="UTF-8">
+            <form action method="get" id="country-search-335" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-7113" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-7113" name="country" class="fr-select">
+            <label for="select-country-search-335" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-335" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/pays-regions/benin">Bénin</option>
                                     <option value="/fr/pays-regions/old-afrique">Afrique</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-7113" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-7113');
+          <button type="submit" id="submit-country-search-335" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-335');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -1757,7 +1757,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/education-secondaire-formation-technique-professionnelle-benin" class="fr-card__link">Le groupe AFD et l’éducation et la forma...</a>
+                  <a href="https://www.afd.fr/fr/ressources/groupe-afd-et-gouvernance-benin" class="fr-card__link">Le groupe AFD et la gouvernance au Bénin</a>
               </h3>
       
               <div class="fr-card__start">
@@ -1786,7 +1786,7 @@
 
     <div class="fr-card__header card-portrait" aria-hidden="true">
     <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_edu-fp-au-benin_061026.jpg.webp?itok=TQ2yrtFH" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_edu-fp-au-benin_061026.jpg.webp?itok=TQ2yrtFH" alt="Le groupe AFD et l’éducation et la formation professionnelle au Bénin">
+      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_gouvernance-au-benin-081026.jpg.webp?itok=Ko5JqT37" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-10/plaquette_gouvernance-au-benin-081026.jpg.webp?itok=Ko5JqT37" alt="Le groupe AFD et la gouvernance au Bénin">
     </div>
   </div>
   
@@ -1823,18 +1823,18 @@
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-7113" accept-charset="UTF-8">
+            <form action method="get" id="country-search-335" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-7113" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-7113" name="country" class="fr-select">
+            <label for="select-country-search-335" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-335" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/pays-regions/benin">Bénin</option>
                                     <option value="/fr/pays-regions/old-afrique">Afrique</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-7113" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-7113');
+          <button type="submit" id="submit-country-search-335" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-335');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -4105,11 +4105,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-654789215" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1037203917" type="button">
           À propos de l’Agence Française de Développement
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-654789215">
+  <div class="fr-collapse" id="accordion-1037203917">
         
 
 <div class="my-8 print-para-space">
@@ -4128,11 +4128,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-19496969" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-918072904" type="button">
           À propos du Groupe Athena et So Watt
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-19496969">
+  <div class="fr-collapse" id="accordion-918072904">
         
 
 <div class="my-8 print-para-space">
@@ -4348,11 +4348,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-654789215" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1037203917" type="button">
           À propos de l’Agence Française de Développement
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-654789215">
+  <div class="fr-collapse" id="accordion-1037203917">
         
 
 <div class="my-8 print-para-space">
@@ -4371,11 +4371,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-19496969" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-918072904" type="button">
           À propos du Groupe Athena et So Watt
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-19496969">
+  <div class="fr-collapse" id="accordion-918072904">
         
 
 <div class="my-8 print-para-space">
