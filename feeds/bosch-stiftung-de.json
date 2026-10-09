@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "e77759104359adfdf6e969bc539e6f01e5a63409ee81023d203b2cad92085f05",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T15:16:15+02:00\" title=\"Freitag, 9 Oktober 2026 - 15:16\" class=\"datetime\">Fr. 9 Okt 2026 - 15:16</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/fuer-mehr-nachrichtenkompetenz-baden-wuerttemberg-pilotprojekt-startet-schwaebisch-gmuend",
+            "title": "Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T15:16:15+02:00\" title=\"Freitag, 9 Oktober 2026 - 15:16\" class=\"datetime\">Fr. 9 Okt 2026 - 15:16</time>\n</span>\n",
+            "date_modified": "2026-10-09T13:16:15.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "f1fd133f76d1e2f59bed962e26c04be688ed070e710d2a4162f826a7a8a6bda1",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wechsel in der Geschäftsführung der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T09:07:01+02:00\" title=\"Freitag, 9 Oktober 2026 - 09:07\" class=\"datetime\">Fr. 9 Okt 2026 - 09:07</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/wechsel-der-geschaeftsfuehrung-der-robert-bosch-stiftung",

@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 13:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 13:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: انفجار عبوة ناسفة أثناء مرور سيارة للشرطة في محافظة سيستان…]]></title>
+            <link>https://t.me/aljazeeraBrk/238923</link>
+            <guid isPermaLink="false">04b85ae04c0ce4084bd62ce4f1bcab726cce48c66d015f312cdfc949fd4fb545</guid>
+            <pubDate>Fri, 09 Oct 2026 13:15:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: انفجار عبوة ناسفة أثناء مرور سيارة للشرطة في محافظة سيستان وبلوشستان جنوب شرقي البلاد]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: انفجار عبوة ناسفة أثناء مرور سيارة للشرطة في محافظة سيستان وبلوشستان جنوب شرقي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تعرض سفينة لمقذوف مجهول أدى لاندلاع…]]></title>
             <link>https://t.me/aljazeeraBrk/238922</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 05 Oct 2026 09:10:03 GMT</pubDate>
             <description><![CDATA[المتحدث باسم قوات التحالف: دمرنا 324 هدفا عالي القيمة مع انطلاق عملية فجر اليمن]]></description>
             <content:encoded><![CDATA[المتحدث باسم قوات التحالف: دمرنا 324 هدفا عالي القيمة مع انطلاق عملية فجر اليمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم قوات التحالف: 100 طائرة مقاتلة شاركت فجر اليوم في عملية فجر اليمن]]></title>
-            <link>https://t.me/aljazeeraBrk/238429</link>
-            <guid isPermaLink="false">7207880488f4a8cfad826d9c284f1899ba686c2031216b464be317c8813feb45</guid>
-            <pubDate>Mon, 05 Oct 2026 09:10:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم قوات التحالف: 100 طائرة مقاتلة شاركت فجر اليوم في عملية فجر اليمن]]></description>
-            <content:encoded><![CDATA[المتحدث باسم قوات التحالف: 100 طائرة مقاتلة شاركت فجر اليوم في عملية فجر اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

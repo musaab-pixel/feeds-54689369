@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 12:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 13:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -701,6 +701,23 @@
 <p>Der Eintritt ist kostenlos, wenn nicht anders angegeben. Alle Veranstaltungsräume öffnen eine halbe Stunde vor Beginn. Bitte beachten Sie den jeweiligen Veranstaltungsort.</p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/56010/gysi-gregor-ihadbt86-20x30_ausschnitt.530x371-hidpi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd]]></title>
+            <link>https://bosch-stiftung.de/presse/fuer-mehr-nachrichtenkompetenz-baden-wuerttemberg-pilotprojekt-startet-schwaebisch-gmuend</link>
+            <guid isPermaLink="false">e77759104359adfdf6e969bc539e6f01e5a63409ee81023d203b2cad92085f05</guid>
+            <pubDate>Fri, 09 Oct 2026 13:16:15 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-09T15:16:15+02:00" title="Freitag, 9 Oktober 2026 - 15:16" class="datetime">Fr. 9 Okt 2026 - 15:16</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-09T15:16:15+02:00" title="Freitag, 9 Oktober 2026 - 15:16" class="datetime">Fr. 9 Okt 2026 - 15:16</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
         </item>
         <item>
             <title><![CDATA[Ytringsberedskap: Hvem tar ansvar for den digitale offentligheten?]]></title>
@@ -6802,21 +6819,6 @@ Neste frist: 25. september 2026.</p><aside>
 </aside>
       ]]></content:encoded>
             <enclosure url="https://frittord.no/dynamic_images/6f121a057aa3151b73980720d4c989751ad0d4fb/5600x3733/3457-20240829081702955624.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takk, Kong Harald]]></title>
-            <link>https://frittord.no/nb/aktuelt/takk-kong-harald</link>
-            <guid isPermaLink="false">90d22afdf32e4516e3f81fbba569a417daa99d9d9fc409883c77f2dbcac0fc3d</guid>
-            <pubDate>Fri, 28 Aug 2026 10:27:12 GMT</pubDate>
-            <description><![CDATA[
-        <p>“Landet vårt er bygget på at alle mennesker er like mye verdt. Det er bygget på ytringsfrihet. Det er bygget på at vi tåler uenighet og søker oss frem til kompromisser.”</p>
-<p>Tale ved tiårsmarkeringen for terroren 22. juli 2011</p>
-      ]]></description>
-            <content:encoded><![CDATA[
-        <p>“Landet vårt er bygget på at alle mennesker er like mye verdt. Det er bygget på ytringsfrihet. Det er bygget på at vi tåler uenighet og søker oss frem til kompromisser.”</p>
-<p>Tale ved tiårsmarkeringen for terroren 22. juli 2011</p>
-      ]]></content:encoded>
-            <enclosure url="https://frittord.no/dynamic_images/d0f140404e7934ccbef492d65de396a567e52ebb/4951x3301/5594-20260828102849107311.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
