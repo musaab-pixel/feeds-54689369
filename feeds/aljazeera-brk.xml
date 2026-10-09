@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 12:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 12:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الحرس الثوري الإيراني: مواجهتنا للسفن لن تقتصر على المخالفة في هرمز بل…]]></title>
+            <link>https://t.me/aljazeeraBrk/238920</link>
+            <guid isPermaLink="false">eceb5418b80ac2d8274110473e6ddf7dd21149847e0dc54e6b111214308baeb9</guid>
+            <pubDate>Fri, 09 Oct 2026 12:53:02 GMT</pubDate>
+            <description><![CDATA[بحرية الحرس الثوري الإيراني: مواجهتنا للسفن لن تقتصر على المخالفة في هرمز بل سنعاقب العابرة لممر غير مصرح به]]></description>
+            <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: مواجهتنا للسفن لن تقتصر على المخالفة في هرمز بل سنعاقب العابرة لممر غير مصرح به]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بحرية الحرس الثوري الإيراني: اندلاع حريق كبير بغرفة محركات السفينة بعد…]]></title>
             <link>https://t.me/aljazeeraBrk/238919</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 05 Oct 2026 09:03:02 GMT</pubDate>
             <description><![CDATA[مجمع ناصر الطبي: إصابة 4 فلسطينيين بينهم طفلان في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مجمع ناصر الطبي: إصابة 4 فلسطينيين بينهم طفلان في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في غارة إسرائيلية على مواصي…]]></title>
-            <link>https://t.me/aljazeeraBrk/238426</link>
-            <guid isPermaLink="false">f74f9ffbd8988a8d14be1606462cdcb1b76a0f182e1fdb263ff3fb5e86df3b2a</guid>
-            <pubDate>Mon, 05 Oct 2026 09:00:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
