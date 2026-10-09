@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Sat, 26 Sep 2026 01:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 07:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IDA Announces Honorees for the 2026 IDA Documentary Awards]]></title>
+            <link>https://www.documentary.org/news-blog/ida-announces-honorees-2026-ida-documentary-awards</link>
+            <guid isPermaLink="false">bf765291bc6f52b62fc7c087633287b1195f66090b444895b5445b217432117c</guid>
+            <pubDate>Thu, 08 Oct 2026 23:00:29 GMT</pubDate>
+            <description><![CDATA[    IDA Announces Honorees for the 2026 IDA Documentary Awards
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-08T16:00:29-07:00" title="Thursday, October 8, 2026 - 16:00" class="datetime">Thu, 10/08/2026 - 16:00</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    IDA Announces Honorees for the 2026 IDA Documentary Awards
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-08T16:00:29-07:00" title="Thursday, October 8, 2026 - 16:00" class="datetime">Thu, 10/08/2026 - 16:00</time>
+</span>
+
+
+]]></content:encoded>
+            <author>ida-admin</author>
+        </item>
         <item>
             <title><![CDATA[IDA Member Spotlight: Jennifer Sofio Hall]]></title>
             <link>https://www.documentary.org/blog/ida-member-spotlight-jennifer-sofio-hall</link>

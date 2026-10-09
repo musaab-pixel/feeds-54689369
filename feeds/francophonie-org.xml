@@ -4,10 +4,40 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 07 Oct 2026 12:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 07:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Madagascar : l'OIF soutient le Forum des jeunes pour l'intégrité]]></title>
+            <link>https://www.francophonie.org/madagascar-loif-soutient-le-forum-des-jeunes-pour-lintegrite-8702</link>
+            <guid isPermaLink="false">1444dc123b1cf5a64dcb9bab4935f47800ff255d113ddfbe7efeb942cc63a729</guid>
+            <pubDate>Thu, 08 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Madagascar : l'OIF soutient le Forum des jeunes pour l'intégrité</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-08T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 08/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Madagascar : l'OIF soutient le Forum des jeunes pour l'intégrité</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-08T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 08/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Nonference IA+ de Turin : l’IFEF partage son expérience de la transformation numérique de l’EFTP en Afrique]]></title>
+            <link>https://www.francophonie.org/ifef-participe-a-la-nonference-ia-de-turin-sur-la-transformation-numerique-de-l-eftp-8701</link>
+            <guid isPermaLink="false">989b311e2318cd644094c2dcbc65d7c00669ea1b6e220af710532498a18850b6</guid>
+            <pubDate>Thu, 08 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Nonference IA+ de Turin : l’IFEF partage son expérience de la transformation numérique de l’EFTP en Afrique</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-08T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 08/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Nonference IA+ de Turin : l’IFEF partage son expérience de la transformation numérique de l’EFTP en Afrique</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-08T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 08/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Le lauréat 2026 du Prix des 5 continents à la rencontre des publics de l’océan Indien]]></title>
             <link>https://www.francophonie.org/tournee-ocean-indien-laureat-2026-prix-5-continents-8699</link>
