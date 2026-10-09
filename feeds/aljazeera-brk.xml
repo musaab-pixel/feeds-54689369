@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 17:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 17:56:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد فلسطيني متأثرا بإصابته بنيران قوات الاحتلال…]]></title>
+            <link>https://t.me/aljazeeraBrk/238997</link>
+            <guid isPermaLink="false">e2744611ba7e339ee54294e72163552560ad7651fea303fab86b6eceda5e9ede</guid>
+            <pubDate>Fri, 09 Oct 2026 17:56:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد فلسطيني متأثرا بإصابته بنيران قوات الاحتلال في جباليا البلد شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: استشهاد فلسطيني متأثرا بإصابته بنيران قوات الاحتلال في جباليا البلد شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير خارجية إسبانيا: نستنكر العقوبات على الجنائية الدولية والتزامنا تجاه…]]></title>
             <link>https://t.me/aljazeeraBrk/238996</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 07 Oct 2026 11:15:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفرض حظرا للتجوال في قرية برقة بقضاء مدينة رام الله]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفرض حظرا للتجوال في قرية برقة بقضاء مدينة رام الله]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون الفلسطينيين في قرية مردا قضاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/238616</link>
-            <guid isPermaLink="false">8937f3ff412a9942425e77e1b62659fc7720b4fbff9afb3b8112ff1b3f4e3365</guid>
-            <pubDate>Wed, 07 Oct 2026 11:13:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون الفلسطينيين في قرية مردا قضاء سلفيت بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون الفلسطينيين في قرية مردا قضاء سلفيت بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
