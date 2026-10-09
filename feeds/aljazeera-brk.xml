@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 15:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 15:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نتنياهو: الجنائية الدولية ليست محكمة بل هيئة سياسية تهدد الديمقراطيات الملتزمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/238962</link>
+            <guid isPermaLink="false">11954930c86bbc837c25d0d9cc229e5e0de9c7c31ee9e817e1f30f14c06d205a</guid>
+            <pubDate>Fri, 09 Oct 2026 15:16:02 GMT</pubDate>
+            <description><![CDATA[نتنياهو: الجنائية الدولية ليست محكمة بل هيئة سياسية تهدد الديمقراطيات الملتزمة بالقانون والسيادة الوطنية]]></description>
+            <content:encoded><![CDATA[نتنياهو: الجنائية الدولية ليست محكمة بل هيئة سياسية تهدد الديمقراطيات الملتزمة بالقانون والسيادة الوطنية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المفوضية الأوروبية: مستعدون لاتخاذ التدابير لتمكين المحكمة من مهامها بشأن جرائم…]]></title>
             <link>https://t.me/aljazeeraBrk/238961</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 05 Oct 2026 12:53:03 GMT</pubDate>
             <description><![CDATA[روبيو: السعودية تعرضت لهجمات من الحوثيين وتدرك التهديد الذي يمثلونه ولديها الحق في الدفاع عن نفسها]]></description>
             <content:encoded><![CDATA[روبيو: السعودية تعرضت لهجمات من الحوثيين وتدرك التهديد الذي يمثلونه ولديها الحق في الدفاع عن نفسها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[روبيو: ما يحدث الآن في اليمن هجوم مضاد لاستعادة الأراضي التي سيطر عليها…]]></title>
-            <link>https://t.me/aljazeeraBrk/238468</link>
-            <guid isPermaLink="false">9c86c91131c607255947248604146fe54b00f0b15a8f266229d8928d2ba51fd6</guid>
-            <pubDate>Mon, 05 Oct 2026 12:52:02 GMT</pubDate>
-            <description><![CDATA[روبيو: ما يحدث الآن في اليمن هجوم مضاد لاستعادة الأراضي التي سيطر عليها الحوثيون وكنا نتوقع حدوث هذا]]></description>
-            <content:encoded><![CDATA[روبيو: ما يحدث الآن في اليمن هجوم مضاد لاستعادة الأراضي التي سيطر عليها الحوثيون وكنا نتوقع حدوث هذا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
