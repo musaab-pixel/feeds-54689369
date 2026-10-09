@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "f1fd133f76d1e2f59bed962e26c04be688ed070e710d2a4162f826a7a8a6bda1",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wechsel in der Geschäftsführung der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T09:07:01+02:00\" title=\"Freitag, 9 Oktober 2026 - 09:07\" class=\"datetime\">Fr. 9 Okt 2026 - 09:07</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/wechsel-der-geschaeftsfuehrung-der-robert-bosch-stiftung",
+            "title": "Wechsel in der Geschäftsführung der Robert Bosch Stiftung",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wechsel in der Geschäftsführung der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T09:07:01+02:00\" title=\"Freitag, 9 Oktober 2026 - 09:07\" class=\"datetime\">Fr. 9 Okt 2026 - 09:07</time>\n</span>\n",
+            "date_modified": "2026-10-09T07:07:01.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "36f7777017919ddeca6660fbb72a07853e6a9bd2b329274b4fe85279a0563b05",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Neue Wege für den Wiederaufbau in der Ukraine</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-02T11:40:39+02:00\" title=\"Freitag, 2 Oktober 2026 - 11:40\" class=\"datetime\">Fr. 2 Okt 2026 - 11:40</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/neue-wege-fuer-den-wiederaufbau-der-ukraine",
