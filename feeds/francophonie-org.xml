@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 15:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 16:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -33,6 +33,21 @@
 <span property="schema:dateCreated" content="2026-10-09T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 09/10/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Éduquer les filles : un levier majeur de transformation sociale </span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-09T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 09/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[XXe Sommet de la Francophonie à Phnom Penh : ouverture des accréditations presse]]></title>
+            <link>https://www.francophonie.org/20e-sommet-francophonie-phnom-penh-ouverture-accreditations-presse-8718</link>
+            <guid isPermaLink="false">0b4bf45337207896a39c71c4c3aed02c3923d60e7187d618d69982a8624aff32</guid>
+            <pubDate>Fri, 09 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">XXe Sommet de la Francophonie à Phnom Penh : ouverture des accréditations presse</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-09T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 09/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">XXe Sommet de la Francophonie à Phnom Penh : ouverture des accréditations presse</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-10-09T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 09/10/2026 - 15:43</span>
 ]]></content:encoded>
