@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 13:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 13:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس الوزراء اللبناني: استعادة سيادة الدولة تقتضي إنهاء الاحتلال لأراضينا ووقف…]]></title>
+            <link>https://t.me/aljazeeraBrk/238928</link>
+            <guid isPermaLink="false">69dccc413822e6bde3159512b7227a9cfda55777c8b2b350e740ae818be4b350</guid>
+            <pubDate>Fri, 09 Oct 2026 13:49:02 GMT</pubDate>
+            <description><![CDATA[رئيس الوزراء اللبناني: استعادة سيادة الدولة تقتضي إنهاء الاحتلال لأراضينا ووقف الاعتداءات وعودة النازحين]]></description>
+            <content:encoded><![CDATA[رئيس الوزراء اللبناني: استعادة سيادة الدولة تقتضي إنهاء الاحتلال لأراضينا ووقف الاعتداءات وعودة النازحين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: مصاب بنيران قوات الاحتلال الإسرائيلي خارج مناطق سيطرتها شرقي…]]></title>
             <link>https://t.me/aljazeeraBrk/238927</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 05 Oct 2026 09:28:02 GMT</pubDate>
             <description><![CDATA[نتنياهو: خطة إيران كانت تطويقنا بالنار لكننا دفعنا العدو عن حدودنا على الجبهات كافة في غزة ولبنان وسوريا]]></description>
             <content:encoded><![CDATA[نتنياهو: خطة إيران كانت تطويقنا بالنار لكننا دفعنا العدو عن حدودنا على الجبهات كافة في غزة ولبنان وسوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مواصي خان يونس…]]></title>
-            <link>https://t.me/aljazeeraBrk/238434</link>
-            <guid isPermaLink="false">4eba6bb4be20931730024ac9f952124480a7c6cc5b4ba659da797d698486728f</guid>
-            <pubDate>Mon, 05 Oct 2026 09:25:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
