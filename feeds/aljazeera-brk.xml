@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 13:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 14:00:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس الوزراء اللبناني: لا استقرار ثابتا دون دولة تمتلك وحدها قرار الحرب والسلم]]></title>
+            <link>https://t.me/aljazeeraBrk/238929</link>
+            <guid isPermaLink="false">e207215a5d49d10d0d6bb339390c5115a68709eb4229d4fa1237326419b4b89e</guid>
+            <pubDate>Fri, 09 Oct 2026 13:50:02 GMT</pubDate>
+            <description><![CDATA[رئيس الوزراء اللبناني: لا استقرار ثابتا دون دولة تمتلك وحدها قرار الحرب والسلم]]></description>
+            <content:encoded><![CDATA[رئيس الوزراء اللبناني: لا استقرار ثابتا دون دولة تمتلك وحدها قرار الحرب والسلم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الوزراء اللبناني: استعادة سيادة الدولة تقتضي إنهاء الاحتلال لأراضينا ووقف…]]></title>
             <link>https://t.me/aljazeeraBrk/238928</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 05 Oct 2026 09:28:03 GMT</pubDate>
             <description><![CDATA[نتنياهو: نبذل جهودا لتوسيع دائرة السلام في منطقتنا وسنعمل من أجل تحقيقه ونفعل ذلك بقوة وحزم]]></description>
             <content:encoded><![CDATA[نتنياهو: نبذل جهودا لتوسيع دائرة السلام في منطقتنا وسنعمل من أجل تحقيقه ونفعل ذلك بقوة وحزم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نتنياهو: خطة إيران كانت تطويقنا بالنار لكننا دفعنا العدو عن حدودنا على الجبهات…]]></title>
-            <link>https://t.me/aljazeeraBrk/238435</link>
-            <guid isPermaLink="false">c828145a930265dd2c35556519ef9d512bf603b77f756241b943d5693059b3fa</guid>
-            <pubDate>Mon, 05 Oct 2026 09:28:02 GMT</pubDate>
-            <description><![CDATA[نتنياهو: خطة إيران كانت تطويقنا بالنار لكننا دفعنا العدو عن حدودنا على الجبهات كافة في غزة ولبنان وسوريا]]></description>
-            <content:encoded><![CDATA[نتنياهو: خطة إيران كانت تطويقنا بالنار لكننا دفعنا العدو عن حدودنا على الجبهات كافة في غزة ولبنان وسوريا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
