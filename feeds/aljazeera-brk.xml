@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 09:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 09:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في مركبة فلسطينية في بلدة تل غرب نابلس…]]></title>
+            <link>https://t.me/aljazeeraBrk/238890</link>
+            <guid isPermaLink="false">8d86d7a5c65264422c84a2db5ba11003c320ea0c720da976dba8f065113e4e53</guid>
+            <pubDate>Fri, 09 Oct 2026 09:28:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في مركبة فلسطينية في بلدة تل غرب نابلس ويسرقون ثمار زيتون]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في مركبة فلسطينية في بلدة تل غرب نابلس ويسرقون ثمار زيتون]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يضرمون النار في مركبة فلسطينية في رامين شرق طولكرم…]]></title>
             <link>https://t.me/aljazeeraBrk/238889</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 04 Oct 2026 20:30:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بريف القنيطرة جنوبي سوريا]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تتوغل في قرية الأصبح بريف القنيطرة جنوبي سوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وول ستريت جورنال عن البنتاغون: القاذفات الأمريكية مستعدة لتنفيذ الضربات…]]></title>
-            <link>https://t.me/aljazeeraBrk/238393</link>
-            <guid isPermaLink="false">64cca2f64d2a57b5eb00e195665d5197dd3e41ef95dfd46ed2398c563b9e5684</guid>
-            <pubDate>Sun, 04 Oct 2026 20:23:02 GMT</pubDate>
-            <description><![CDATA[وول ستريت جورنال عن البنتاغون: القاذفات الأمريكية مستعدة لتنفيذ الضربات العالمية انطلاقا من الأراضي الأمريكية]]></description>
-            <content:encoded><![CDATA[وول ستريت جورنال عن البنتاغون: القاذفات الأمريكية مستعدة لتنفيذ الضربات العالمية انطلاقا من الأراضي الأمريكية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
