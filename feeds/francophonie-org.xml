@@ -4,10 +4,83 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 09 Oct 2026 07:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 12:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Mobilité des enseignants : l'expérience de Bella Asalanian, volontaire de l'OIF au Viet Nam]]></title>
+            <link>https://www.francophonie.org/node/8707</link>
+            <guid isPermaLink="false">f693aa78f00361580fed273657aba5e3fa90356c18df7a255537c6910f43f233</guid>
+            <pubDate>Fri, 09 Oct 2026 10:38:40 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Mobilité des enseignants : l'expérience de Bella Asalanian, volontaire de l'OIF au Viet Nam</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 09/10/2026 - 10:38</span>
+
+  <div class="field field--name-field-visuel-video field--type-image field--label-above">
+    <div class="field__label">Visuel</div>
+              <div class="field__item">  <img src="https://www.francophonie.org/sites/default/files/2026-10/25.jpg" width="931" height="1043" alt="c" typeof="foaf:Image" /></div>
+          </div>
+
+  <div class="field field--name-field-lien-de-la-video field--type-link field--label-above">
+    <div class="field__label">Lien de la vidéo</div>
+              <div class="field__item"><a href="https://www.youtube.com/watch?v=ylOQCLGNpCQ">https://www.youtube.com/watch?v=ylOQCLGNpCQ</a></div>
+          </div>
+
+  <div class="field field--name-field-pays field--type-entity-reference field--label-above">
+    <div class="field__label">Pays</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/450" hreflang="fr">Viet Nam</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-theme field--type-entity-reference field--label-above">
+    <div class="field__label">MOTS-CLÉS PROGRAMME</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/534" hreflang="fr">Mobilité des enseignants</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page Actualités et médias</div>
+              <div class="field__item">Activé</div>
+          </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Mobilité des enseignants : l'expérience de Bella Asalanian, volontaire de l'OIF au Viet Nam</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 09/10/2026 - 10:38</span>
+
+  <div class="field field--name-field-visuel-video field--type-image field--label-above">
+    <div class="field__label">Visuel</div>
+              <div class="field__item">  <img src="https://www.francophonie.org/sites/default/files/2026-10/25.jpg" width="931" height="1043" alt="c" typeof="foaf:Image" /></div>
+          </div>
+
+  <div class="field field--name-field-lien-de-la-video field--type-link field--label-above">
+    <div class="field__label">Lien de la vidéo</div>
+              <div class="field__item"><a href="https://www.youtube.com/watch?v=ylOQCLGNpCQ">https://www.youtube.com/watch?v=ylOQCLGNpCQ</a></div>
+          </div>
+
+  <div class="field field--name-field-pays field--type-entity-reference field--label-above">
+    <div class="field__label">Pays</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/450" hreflang="fr">Viet Nam</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-theme field--type-entity-reference field--label-above">
+    <div class="field__label">MOTS-CLÉS PROGRAMME</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/534" hreflang="fr">Mobilité des enseignants</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page Actualités et médias</div>
+              <div class="field__item">Activé</div>
+          </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Madagascar : l'OIF soutient le Forum des jeunes pour l'intégrité]]></title>
             <link>https://www.francophonie.org/madagascar-loif-soutient-le-forum-des-jeunes-pour-lintegrite-8702</link>
