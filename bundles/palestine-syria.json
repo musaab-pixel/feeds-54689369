@@ -5,6 +5,72 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "3f14105e9f802d543fc0ad6c264d9e7a43cb7d1ecd11065ed7f818039f6fa9b1",
+            "content_html": "روبيو: فرضنا اليوم عقوبات على المحكمة الجنائية الدولية",
+            "url": "https://t.me/aljazeeraBrk/238943",
+            "title": "روبيو: فرضنا اليوم عقوبات على المحكمة الجنائية الدولية",
+            "summary": "روبيو: فرضنا اليوم عقوبات على المحكمة الجنائية الدولية",
+            "date_modified": "2026-10-09T14:31:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "0866407629b7992cddb93119eb713d2b500959cbedc74da2b7e12f4471e0a39e",
+            "content_html": "وكالة فارس الإيرانية: مقتل مسؤولة في شرطة محافظة سيستان وبلوشستان في انفجار عبوة بدورية للشرطة",
+            "url": "https://t.me/aljazeeraBrk/238942",
+            "title": "وكالة فارس الإيرانية: مقتل مسؤولة في شرطة محافظة سيستان وبلوشستان في انفجار…",
+            "summary": "وكالة فارس الإيرانية: مقتل مسؤولة في شرطة محافظة سيستان وبلوشستان في انفجار عبوة بدورية للشرطة",
+            "date_modified": "2026-10-09T14:28:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "716c91944662b0afc2cad8d4f47fc1b2f269dcc68f99e77009045de4c8c8a294",
+            "content_html": "المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: من الصعب أن نواجه الوضع القائم بغزة دون دعم دولي",
+            "url": "https://t.me/aljazeeraBrk/238941",
+            "title": "المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: من الصعب أن نواجه…",
+            "summary": "المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: من الصعب أن نواجه الوضع القائم بغزة دون دعم دولي",
+            "date_modified": "2026-10-09T14:27:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "5da82371a23d752157b7cfdb202d26f98c6ed0685bdf5baa197f354fcaaae19b",
+            "content_html": "الخارجية القطرية: نجدد تضامننا الكامل مع السعودية ونؤكد أن أمن المملكة جزء من أمن قطر ودول مجلس التعاون",
+            "url": "https://t.me/aljazeeraBrk/238940",
+            "title": "الخارجية القطرية: نجدد تضامننا الكامل مع السعودية ونؤكد أن أمن المملكة جزء من…",
+            "summary": "الخارجية القطرية: نجدد تضامننا الكامل مع السعودية ونؤكد أن أمن المملكة جزء من أمن قطر ودول مجلس التعاون",
+            "date_modified": "2026-10-09T14:26:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "f14887d5994cbead8cdb0f19e7df6e347af4f2ae97bc6840ef5a4dbd8a48b919",
+            "content_html": "الخارجية القطرية: دولة قطر تدين اعتداءات جماعة_الحوثي على مطار الملك خالد الدولي وطائرة تابعة للخطوط السعودية",
+            "url": "https://t.me/aljazeeraBrk/238939",
+            "title": "الخارجية القطرية: دولة قطر تدين اعتداءات جماعة_الحوثي على مطار الملك خالد…",
+            "summary": "الخارجية القطرية: دولة قطر تدين اعتداءات جماعة_الحوثي على مطار الملك خالد الدولي وطائرة تابعة للخطوط السعودية",
+            "date_modified": "2026-10-09T14:25:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "3000670f7bc35ab0895fb79de6688997faa38c0ab32972f23d266a383b9bb77a",
+            "content_html": "المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: القنابل التي استهدفت غزة تعادل قوة 6 قنابل نووية",
+            "url": "https://t.me/aljazeeraBrk/238938",
+            "title": "المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: القنابل التي…",
+            "summary": "المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: القنابل التي استهدفت غزة تعادل قوة 6 قنابل نووية",
+            "date_modified": "2026-10-09T14:23:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "06cbe23c25d49420baffda743b27733e51ad23ffe8f3aefa2574a2ae387f8c91",
             "content_html": "المبعوث الأممي إلى اليمن: المدنيون ولا سيما النساء والأطفال يدفعون مجددا الثمن الأكبر لتصاعد العنف في اليمن",
             "url": "https://t.me/aljazeeraBrk/238937",
@@ -1542,73 +1608,6 @@
             "date_modified": "2026-10-08T17:35:53.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "8cf113c634f0d1325b07c94a49d113c38e662f6d83b3642bacc153aa0480e78a",
-            "content_html": "عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفة مدفعية محيط قرية سويسة بريف القنيطرة الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141506",
-            "title": "عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفة مدفعية محيط قرية سويسة…",
-            "summary": "عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفة مدفعية محيط قرية سويسة بريف القنيطرة الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-08T17:06:05.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "7800b899d2930298883c44b350e5c7911821976fb210098a037b47aeb46aed63",
-            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">دافع عن حرمة الأموي فاعتقله النظام البائد.. ذكرى الشيخ الشهيد يوسف هنداوي حاضرة في قلوب الحلبيين في يوم افتتاح الجامع الكبير<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "url": "https://t.me/HalabTodayTV/141501",
-            "title": "دافع عن حرمة الأموي فاعتقله النظام البائد.. ذكرى الشيخ الشهيد يوسف هنداوي حاضرة…",
-            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">دافع عن حرمة الأموي فاعتقله النظام البائد.. ذكرى الشيخ الشهيد يوسف هنداوي حاضرة في قلوب الحلبيين في يوم افتتاح الجامع الكبير<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "image": "https://cdn4.telesco.pe/file/h_lND6BG0NtYIRADUJyHChfPTfybfwM8VenjePmmwj3xjbuZ3-pxNNirYvTQemfPVsSV-1nbUL3OKTFKjaD9vxmSrY9S8e5jAq4exJyPUCNqbtkE594Q9yPdormhUNpCekiVcBoFUJQkIHu_HH-bCi9Xmla10qGnmbrp_uT7pr9htW2PDXgUIWKd1FCkuONSNQFkUSwaQzSQ84aeysvYPgTlTx9bboNZzse56WOGQCperrcj6IbQD7eMhkW4R9kaFR4yXLlAcfCIjrtTSdwr3hzWzhaTvU-_tHLdXd49JT5vPl8VyOsfdkMGWxkFt6HBUOxYau4rebl6L6h2f6EA-g.jpg",
-            "date_modified": "2026-10-08T16:22:14.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "61cf7ac73c6a68d61c9ae3efbeabb828103ebec0a677248f2f14a39bd797796d",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi2wRBVV95cUxPWTVlTDY1MkUxRkcxbmQtMC1tT2JrSmxMT2d3NXJtSFkyNGlnYk1vc3dVUkQ4Y0pjT3o2SGUtY0pLMkY3Q3k0OGRzV1lrVUVMZ2d2R25vT0ljOE9SVG81anFySk5IcmVpSUlERy1PelpMMDZkeTE0bVd6RGdxWXItYUd6ejhvQm9pcDZlSTladEkwaDZNaC1WVDVOeVljUU9VNldJakVJNjRNVzMyWXlvWFJveDlCNDZlSURUdXlaU1g2Ykp0dHgzWkFib2hWUWJLOVdCcUNXclR3TXlDZS1QMFU3VnZzSUtfSy1qWjFOOU1wNUhsZXVKQllnX1dCY2hRbWlGZ1hidWlHVXZNS1gtVFJQV2RkS3ZSSF9Na1o3UmxVV3V0QXdHbmhDUHBDa0sxdlpCR2NScXUyTFFDQ25HV0hoa1RldzVWUGZFQmY2ZnNLSGhQb0QzQ0w4MDJjMnBTMThMUmxFclBkc1dBeGl6UW10ajhKeVJ3dWxmZVNWLTNwSHhTMXJqWUwwN0huMm01WFdnUE9EcUVQQXp4dE04UlBDcE5XdS1KNlVsdTFoZ1huU3hMajZ0aHd4Z3BsWFRnZUsxZ3lwdnVYSW5mcjlUNWF5RkpLalpCT0Y1TlBnOFNYRURrWmVQbzZfcWJzdEZSMlJkcEQ4MWJSOG83ZENkYWdBOFh2eV9YaDdYMkx1enBnUlZxQmMtWWNDaXVNYnowODZkNWhNcTBlU0hDV0tFUWVtMkE4dHFtdDJWcTR0TEEwV1lqSTNtX090WFQtVXJnRjM0UURKNkhqVTQ?oc=5\" target=\"_blank\">6 ملايين يورو من الاتحاد الأوروبي لـ \"أونروا\" لدعم المساعدات الإنسانية في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPWTVlTDY1MkUxRkcxbmQtMC1tT2JrSmxMT2d3NXJtSFkyNGlnYk1vc3dVUkQ4Y0pjT3o2SGUtY0pLMkY3Q3k0OGRzV1lrVUVMZ2d2R25vT0ljOE9SVG81anFySk5IcmVpSUlERy1PelpMMDZkeTE0bVd6RGdxWXItYUd6ejhvQm9pcDZlSTladEkwaDZNaC1WVDVOeVljUU9VNldJakVJNjRNVzMyWXlvWFJveDlCNDZlSURUdXlaU1g2Ykp0dHgzWkFib2hWUWJLOVdCcUNXclR3TXlDZS1QMFU3VnZzSUtfSy1qWjFOOU1wNUhsZXVKQllnX1dCY2hRbWlGZ1hidWlHVXZNS1gtVFJQV2RkS3ZSSF9Na1o3UmxVV3V0QXdHbmhDUHBDa0sxdlpCR2NScXUyTFFDQ25HV0hoa1RldzVWUGZFQmY2ZnNLSGhQb0QzQ0w4MDJjMnBTMThMUmxFclBkc1dBeGl6UW10ajhKeVJ3dWxmZVNWLTNwSHhTMXJqWUwwN0huMm01WFdnUE9EcUVQQXp4dE04UlBDcE5XdS1KNlVsdTFoZ1huU3hMajZ0aHd4Z3BsWFRnZUsxZ3lwdnVYSW5mcjlUNWF5RkpLalpCT0Y1TlBnOFNYRURrWmVQbzZfcWJzdEZSMlJkcEQ4MWJSOG83ZENkYWdBOFh2eV9YaDdYMkx1enBnUlZxQmMtWWNDaXVNYnowODZkNWhNcTBlU0hDV0tFUWVtMkE4dHFtdDJWcTR0TEEwV1lqSTNtX090WFQtVXJnRjM0UURKNkhqVTQ?oc=5",
-            "title": "6 ملايين يورو من الاتحاد الأوروبي لـ \"أونروا\" لدعم المساعدات الإنسانية في سوريا - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wRBVV95cUxPWTVlTDY1MkUxRkcxbmQtMC1tT2JrSmxMT2d3NXJtSFkyNGlnYk1vc3dVUkQ4Y0pjT3o2SGUtY0pLMkY3Q3k0OGRzV1lrVUVMZ2d2R25vT0ljOE9SVG81anFySk5IcmVpSUlERy1PelpMMDZkeTE0bVd6RGdxWXItYUd6ejhvQm9pcDZlSTladEkwaDZNaC1WVDVOeVljUU9VNldJakVJNjRNVzMyWXlvWFJveDlCNDZlSURUdXlaU1g2Ykp0dHgzWkFib2hWUWJLOVdCcUNXclR3TXlDZS1QMFU3VnZzSUtfSy1qWjFOOU1wNUhsZXVKQllnX1dCY2hRbWlGZ1hidWlHVXZNS1gtVFJQV2RkS3ZSSF9Na1o3UmxVV3V0QXdHbmhDUHBDa0sxdlpCR2NScXUyTFFDQ25HV0hoa1RldzVWUGZFQmY2ZnNLSGhQb0QzQ0w4MDJjMnBTMThMUmxFclBkc1dBeGl6UW10ajhKeVJ3dWxmZVNWLTNwSHhTMXJqWUwwN0huMm01WFdnUE9EcUVQQXp4dE04UlBDcE5XdS1KNlVsdTFoZ1huU3hMajZ0aHd4Z3BsWFRnZUsxZ3lwdnVYSW5mcjlUNWF5RkpLalpCT0Y1TlBnOFNYRURrWmVQbzZfcWJzdEZSMlJkcEQ4MWJSOG83ZENkYWdBOFh2eV9YaDdYMkx1enBnUlZxQmMtWWNDaXVNYnowODZkNWhNcTBlU0hDV0tFUWVtMkE4dHFtdDJWcTR0TEEwV1lqSTNtX090WFQtVXJnRjM0UURKNkhqVTQ?oc=5\" target=\"_blank\">6 ملايين يورو من الاتحاد الأوروبي لـ \"أونروا\" لدعم المساعدات الإنسانية في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-10-08T09:51:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "dc97bcbb0f0c616add6b423a2a9d2c597010bd6862f6a543f23cc3af8dda3180",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiggRBVV95cUxPY0ljVm5oal9OWExESlVJNjBtSzc3WGs3TjMzdjJRY1VNOEhXR0FpZkpvUThCby1NRUx4SW43bWZkQnltRTZ1TlNHaVdqbzhBYjMxZ3lHWnI3MUVHZkItYm9uZUlpVDRiUExCWGJpbEsySzBaUjhuTW1ZS2FZNm92SjNka0RJNzRyS3MyUWt1anVyMnFzTW5XNFU5VmhsOExXSGNxcHVxMHFhN2J0SFpRa2hRUjk0Z2swYTh3c3pEemF3d0prcWJsOHEzaHh4OVRsRm55bFZpZHFkcFlwbjdybnhJaWlGSTNBNXJTS0k3WER2Y1R3bndCVXM5QkIteHUzZUlfLXB1OU01ckoydVNKLWZKVlBuTzBOeHNnd1QxRjhYcW9GakpqXy1KQmtHTm9DYS1FaGNZdDg1dy1nS2NZVDQ5VkV5Z1hYaHJiOF9PYmU3WW1RbVI5bWxRSkdfc2d4T2JjbzAtMm9FMHVnODQ3MzhVOVV4Wmtpek9uUDB1V28wT0RpQ2tnZzQtVnNTYUxoOVMyckJSX0V0RFA2WVpzLXVLRzhpNDI2SXoxN2FXSGhuMEM1TzlXaHVpQmlZc3ltdzZ3N3ZKR0MwZHZiQ01iVHVUaVhlbWt1amIyUnZrdFVNWmM2Q3JtTUIySG1XbzJKTmliZ21IYzJSTVA1MkFPS2Z3?oc=5\" target=\"_blank\">\"الهيئة 302\": \"أونروا\" تسحب تقرير أيلول 2026 وتعمل على تعديل أرقام اللاجئين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPY0ljVm5oal9OWExESlVJNjBtSzc3WGs3TjMzdjJRY1VNOEhXR0FpZkpvUThCby1NRUx4SW43bWZkQnltRTZ1TlNHaVdqbzhBYjMxZ3lHWnI3MUVHZkItYm9uZUlpVDRiUExCWGJpbEsySzBaUjhuTW1ZS2FZNm92SjNka0RJNzRyS3MyUWt1anVyMnFzTW5XNFU5VmhsOExXSGNxcHVxMHFhN2J0SFpRa2hRUjk0Z2swYTh3c3pEemF3d0prcWJsOHEzaHh4OVRsRm55bFZpZHFkcFlwbjdybnhJaWlGSTNBNXJTS0k3WER2Y1R3bndCVXM5QkIteHUzZUlfLXB1OU01ckoydVNKLWZKVlBuTzBOeHNnd1QxRjhYcW9GakpqXy1KQmtHTm9DYS1FaGNZdDg1dy1nS2NZVDQ5VkV5Z1hYaHJiOF9PYmU3WW1RbVI5bWxRSkdfc2d4T2JjbzAtMm9FMHVnODQ3MzhVOVV4Wmtpek9uUDB1V28wT0RpQ2tnZzQtVnNTYUxoOVMyckJSX0V0RFA2WVpzLXVLRzhpNDI2SXoxN2FXSGhuMEM1TzlXaHVpQmlZc3ltdzZ3N3ZKR0MwZHZiQ01iVHVUaVhlbWt1amIyUnZrdFVNWmM2Q3JtTUIySG1XbzJKTmliZ21IYzJSTVA1MkFPS2Z3?oc=5",
-            "title": "\"الهيئة 302\": \"أونروا\" تسحب تقرير أيلول 2026 وتعمل على تعديل أرقام اللاجئين - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggRBVV95cUxPY0ljVm5oal9OWExESlVJNjBtSzc3WGs3TjMzdjJRY1VNOEhXR0FpZkpvUThCby1NRUx4SW43bWZkQnltRTZ1TlNHaVdqbzhBYjMxZ3lHWnI3MUVHZkItYm9uZUlpVDRiUExCWGJpbEsySzBaUjhuTW1ZS2FZNm92SjNka0RJNzRyS3MyUWt1anVyMnFzTW5XNFU5VmhsOExXSGNxcHVxMHFhN2J0SFpRa2hRUjk0Z2swYTh3c3pEemF3d0prcWJsOHEzaHh4OVRsRm55bFZpZHFkcFlwbjdybnhJaWlGSTNBNXJTS0k3WER2Y1R3bndCVXM5QkIteHUzZUlfLXB1OU01ckoydVNKLWZKVlBuTzBOeHNnd1QxRjhYcW9GakpqXy1KQmtHTm9DYS1FaGNZdDg1dy1nS2NZVDQ5VkV5Z1hYaHJiOF9PYmU3WW1RbVI5bWxRSkdfc2d4T2JjbzAtMm9FMHVnODQ3MzhVOVV4Wmtpek9uUDB1V28wT0RpQ2tnZzQtVnNTYUxoOVMyckJSX0V0RFA2WVpzLXVLRzhpNDI2SXoxN2FXSGhuMEM1TzlXaHVpQmlZc3ltdzZ3N3ZKR0MwZHZiQ01iVHVUaVhlbWt1amIyUnZrdFVNWmM2Q3JtTUIySG1XbzJKTmliZ21IYzJSTVA1MkFPS2Z3?oc=5\" target=\"_blank\">\"الهيئة 302\": \"أونروا\" تسحب تقرير أيلول 2026 وتعمل على تعديل أرقام اللاجئين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-10-08T09:08:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "2a8ff6b859ab9d96c2fa2961020ae23042522112f35710c749d2e49e224301ff",
-            "content_html": "ذا أتلانتيك عن مسؤولين بالإدارة الأمريكية: خيارات الهجمات ضد أهداف إيرانية يمكن تنفيذها قبل الانتخابات النصفية",
-            "url": "https://t.me/aljazeeraBrk/238666",
-            "title": "ذا أتلانتيك عن مسؤولين بالإدارة الأمريكية: خيارات الهجمات ضد أهداف إيرانية يمكن…",
-            "summary": "ذا أتلانتيك عن مسؤولين بالإدارة الأمريكية: خيارات الهجمات ضد أهداف إيرانية يمكن تنفيذها قبل الانتخابات النصفية",
-            "date_modified": "2026-10-07T19:14:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "6eb897a9c7fa2fcc4db94b466e1e1d4cb895f7f1483630cd653800261abd45e4",
-            "content_html": "ذا أتلانتيك عن مسؤولين بالإدارة الأمريكية: الخطط ضد إيران تعكس مدى رغبة ترمب في خفض أسعار الوقود",
-            "url": "https://t.me/aljazeeraBrk/238667",
-            "title": "ذا أتلانتيك عن مسؤولين بالإدارة الأمريكية: الخطط ضد إيران تعكس مدى رغبة ترمب في…",
-            "summary": "ذا أتلانتيك عن مسؤولين بالإدارة الأمريكية: الخطط ضد إيران تعكس مدى رغبة ترمب في خفض أسعار الوقود",
-            "date_modified": "2026-10-07T19:14:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
