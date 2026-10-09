@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a0c19ceb73a5656b04e916daf34dd02a806f5ef2e63690f4fd2661445dcf8ba2",
+            "content_html": "رويترز: تحذير من تسونامي في شرق المحيط الهادئ إثر زلزال ضرب بنما بقوة 7.6 درجة",
+            "url": "https://t.me/aljazeeraBrk/239007",
+            "title": "رويترز: تحذير من تسونامي في شرق المحيط الهادئ إثر زلزال ضرب بنما بقوة 7.6 درجة",
+            "summary": "رويترز: تحذير من تسونامي في شرق المحيط الهادئ إثر زلزال ضرب بنما بقوة 7.6 درجة",
+            "date_modified": "2026-10-09T18:27:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "304f37c75ed5a7a9963f263b884b6aeb5ad2c00039d004f21b825740063f6344",
+            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | </b>هيئة المسح الجيولوجي الأمريكية: زلزال بقوة 8 درجات يهز بنما<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141544",
+            "title": "#عاجل | هيئة المسح الجيولوجي الأمريكية: زلزال بقوة 8 درجات يهز بنما لمتابعة…",
+            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | </b>هيئة المسح الجيولوجي الأمريكية: زلزال بقوة 8 درجات يهز بنما<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-10-09T18:25:39.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "1283f40f308216aa2a23ee172ba357bad0f762ca5e6db90bda872551e1ca9d10",
+            "content_html": "الجيش الإسرائيلي: اغتلنا على الحدود السورية اللبنانية مواطنا سوريا سعى لتنفيذ عمليات بتوجيه من إيران",
+            "url": "https://t.me/aljazeeraBrk/239006",
+            "title": "الجيش الإسرائيلي: اغتلنا على الحدود السورية اللبنانية مواطنا سوريا سعى لتنفيذ…",
+            "summary": "الجيش الإسرائيلي: اغتلنا على الحدود السورية اللبنانية مواطنا سوريا سعى لتنفيذ عمليات بتوجيه من إيران",
+            "date_modified": "2026-10-09T18:24:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "cc6a1ec246f7d3805138c987d604699fe9693e1e408ee87d1217a46c4658f0af",
+            "content_html": "وكيلة وزارة الخزانة الأمريكية للشؤون الدولية للجزيرة: النفط الخام يمر عبر مضيق هرمز بمعدل قريب مما قبل الحرب",
+            "url": "https://t.me/aljazeeraBrk/239005",
+            "title": "وكيلة وزارة الخزانة الأمريكية للشؤون الدولية للجزيرة: النفط الخام يمر عبر مضيق…",
+            "summary": "وكيلة وزارة الخزانة الأمريكية للشؤون الدولية للجزيرة: النفط الخام يمر عبر مضيق هرمز بمعدل قريب مما قبل الحرب",
+            "date_modified": "2026-10-09T18:18:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "142beb1ff846e951f0402c29158d93859a9f830bd27973984bc0be050111efe2",
             "content_html": "وكيلة وزارة الخزانة الأمريكية للشؤون الدولية للجزيرة: النظام الإيراني لم يسمح بوصول الإمدادات الإنسانية لشعبه",
             "url": "https://t.me/aljazeeraBrk/239003",
@@ -1600,50 +1644,6 @@
             "summary": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">استشهد فلسطيني وأُصيب ثلاثة آخرون، بينهم طفل، اليوم الجمعة 9 تشرين الأول/ أكتوبر، برصاص قوات كيان الاحتلال \"الإسرائيلي\" وسط قطاع غزة، بالتزامن مع توغّل آليات عسكرية شمالي قرية المصدر وتنفيذ عمليات تجريف، وذلك بعد يوم دامٍ استشهد خلاله ثمانية فلسطينيين بقصف وغارات وإطلاق نار في مناطق متفرقة، في إطار حرب الإبادة المتواصلة على أهالي القطاع.</span></span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">واستشهد صباح اليوم، الشاب إبراهيم محمد مسلم أبو خشان، البالغ من العمر 42 عاماً، إثر إصابته برصاصة قناص في الرقبة، غربي قرية المصدر وسط قطاع غزة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأفادت مصادر محلية بأن قوات الاحتلال المتمركزة شرقي المنطقة أطلقت الرصاص الحي باتجاه مجموعة من الفلسطينيين في محيط قرية المصدر ومخيمي المغازي والبريج، ما أسفر عن استشهاد أبو خشان وإصابة آخرين</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وذكرت مصادر إعلامية أن ثلاثة فلسطينيين، بينهم طفل، أُصيبوا برصاص جيش الاحتلال في مخيم المغازي وسط القطاع</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وبالتزامن، توغلت عدة آليات عسكرية تابعة للاحتلال، للمرة الثالثة خلال أقل من أسبوع، انطلاقاً من موقع أبو حمام العسكري شرقي دير البلح، باتجاه المناطق الواقعة شمالي قرية المصدر، وسط إطلاق نار كثيف استهدف منازل الفلسطينيين وخيام النازحين</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما نفذت قوات الاحتلال عمليات تجريف شرقي قرية المصدر، وتحديداً في المنطقة الممتدة من محيط منزل الحاج سليم المصدر وصولاً إلى وادي أبو رشيد</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وكان ثمانية فلسطينيين قد استشهدوا منذ صباح أمس الخميس، ووصلت جثامينهم إلى مستشفيات القطاع، جراء اعتداءات الاحتلال المتواصلة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وفي مدينة غزة، استشهد حسام أبو العطا والأسير المحرر مجدي الأيوبي، وأُصيب آخرون، إثر استهداف طائرة مسيّرة إسرائيلية مركبة قرب المستشفى الميداني الأردني في شارع الصناعة، جنوب غربي المدينة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وكان الأيوبي قد تحرر من معتقلات الاحتلال قبل مدة، قبل أن يستشهد ويلتحق بزوجته وابنه ووالدته، الذين استشهدوا في بداية العدوان الإسرائيلي على قطاع غزة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكد مصدر طبي في الإسعاف والطوارئ وصول جثماني الشهيدين وعدد من المصابين إلى مستشفى الشفاء في مدينة غزة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وفي وقت لاحق من مساء الخميس، استشهد ثلاثة فلسطينيين، بينهم طفل، جراء قصف الاحتلال وإطلاق النار في مدينتي دير البلح وغزة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">واستشهد فلسطيني برصاص قوات الاحتلال جنوب شرقي مدينة دير البلح، فيما استشهد فلسطينيان، أحدهما طفل، إثر استهداف طائرة مسيّرة تابعة للاحتلال منزلاً في حي الصبرة، جنوبي مدينة غزة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وفي مدينة خان يونس جنوبي القطاع، أُصيب عدد من الفلسطينيين جراء غارة شنتها طائرات الاحتلال على منزل وسط المدينة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وفي أحدث حصيلة، أعلنت مصادر طبية، أمس الخميس، ارتفاع عدد شهداء حرب الإبادة \"الإسرائيلية\" المتواصلة على قطاع غزة منذ السابع من تشرين الأول/أكتوبر 2023 إلى 74 ألفاً و254 شهيداً، فيما ارتفع عدد المصابين إلى 175 ألفاً و</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">306.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأضافت المصادر، في تقريرها الإحصائي اليومي، أن مستشفيات قطاع غزة استقبلت خلال الساعات الأربع والعشرين الماضية جثامين أربعة شهداء و28 مصاباً</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ومنذ بدء سريان وقف إطلاق النار في 11 تشرين الأول/أكتوبر 2025، استشهد 1471 فلسطينياً وأُصيب 5189 آخرون، فيما انتُشلت جثامين 836 شهيداً من مناطق مختلفة في القطاع، في ظل استمرار القصف وإطلاق النار والتوغلات وعمليات التجريف والنسف التي ينفذها جيش الاحتلال</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>",
             "image": "https://refugeesps.net/thumb/408x250/uploads/images/2026/10/3XJBd.png",
             "date_modified": "2026-10-09T09:06:50.858Z"
-        },
-        {
-            "id": "4e612237cbcf0f263c2efe627862e9bf52017890df3b7c72d5153bff2cca501f",
-            "content_html": "مراسل الجزيرة: مستوطنون يعتدون على مزارعين فلسطينيين بمنطقة دير إبزيع غرب رام الله رغم إعلانها منطقة عسكرية",
-            "url": "https://t.me/aljazeeraBrk/238886",
-            "title": "مراسل الجزيرة: مستوطنون يعتدون على مزارعين فلسطينيين بمنطقة دير إبزيع غرب رام…",
-            "summary": "مراسل الجزيرة: مستوطنون يعتدون على مزارعين فلسطينيين بمنطقة دير إبزيع غرب رام الله رغم إعلانها منطقة عسكرية",
-            "date_modified": "2026-10-09T09:06:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "88048cf534a0b245ca2aaa163eb3c51fef32ba60b9acee9f3d37fff508eea739",
-            "content_html": "مراسل الجزيرة: إصابة متضامنة أجنبية بعد اعتداء مستوطنين عليها في منطقة دير إبزيع غرب رام الله",
-            "url": "https://t.me/aljazeeraBrk/238885",
-            "title": "مراسل الجزيرة: إصابة متضامنة أجنبية بعد اعتداء مستوطنين عليها في منطقة دير…",
-            "summary": "مراسل الجزيرة: إصابة متضامنة أجنبية بعد اعتداء مستوطنين عليها في منطقة دير إبزيع غرب رام الله",
-            "date_modified": "2026-10-09T09:05:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "c4b9b5daf94072d3c57598c840c036657d95c787c3adcb561a44a4f36900214c",
-            "content_html": "مراسل الجزيرة: مستوطنون يسرقون ثمار زيتون قطفها مزارعون فلسطينيون في منطقة دير إبزيع غرب رام الله",
-            "url": "https://t.me/aljazeeraBrk/238883",
-            "title": "مراسل الجزيرة: مستوطنون يسرقون ثمار زيتون قطفها مزارعون فلسطينيون في منطقة دير…",
-            "summary": "مراسل الجزيرة: مستوطنون يسرقون ثمار زيتون قطفها مزارعون فلسطينيون في منطقة دير إبزيع غرب رام الله",
-            "date_modified": "2026-10-09T09:04:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5fb5a98ce96e74da2096ccc6223fa0a10be31062611c888e3066b4f4e867665c",
-            "content_html": "مراسل الجزيرة: إصابة متضامنة أجنبية بعد اعتداء مستوطنين عليها في منطقة دير إبزيع غربي رام الله",
-            "url": "https://t.me/aljazeeraBrk/238884",
-            "title": "مراسل الجزيرة: إصابة متضامنة أجنبية بعد اعتداء مستوطنين عليها في منطقة دير…",
-            "summary": "مراسل الجزيرة: إصابة متضامنة أجنبية بعد اعتداء مستوطنين عليها في منطقة دير إبزيع غربي رام الله",
-            "date_modified": "2026-10-09T09:04:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
         }
     ]
 }
