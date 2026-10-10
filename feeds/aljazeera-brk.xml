@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 10 Oct 2026 08:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 08:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة 4 فلسطينيين بينهم صحفي في اعتداء لمستوطنين وقوات الاحتلال…]]></title>
+            <link>https://t.me/aljazeeraBrk/239072</link>
+            <guid isPermaLink="false">8bf1b9df187418e4b1c8d9cd65366738a01eec0f811a2d6d9a5fa83ccf5f2871</guid>
+            <pubDate>Sat, 10 Oct 2026 08:40:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة 4 فلسطينيين بينهم صحفي في اعتداء لمستوطنين وقوات الاحتلال في دير أبو مشعل غرب رام الله]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة 4 فلسطينيين بينهم صحفي في اعتداء لمستوطنين وقوات الاحتلال في دير أبو مشعل غرب رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مستشفى شهداء الأقصى: إصابة امرأة برصاص قوات الاحتلال الإسرائيلي في خان يونس…]]></title>
             <link>https://t.me/aljazeeraBrk/239071</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 09 Oct 2026 07:39:02 GMT</pubDate>
             <description><![CDATA[هيئة الطيران المدني السعودية: الاعتداءان أسفرا عن استشهاد 3 مواطنين سعوديين وإصابة آخرين من جنسيات مختلفة]]></description>
             <content:encoded><![CDATA[هيئة الطيران المدني السعودية: الاعتداءان أسفرا عن استشهاد 3 مواطنين سعوديين وإصابة آخرين من جنسيات مختلفة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة الطيران المدني السعودية: الاعتداء الأول استهدف مرافق المطار واستهدف الثاني…]]></title>
-            <link>https://t.me/aljazeeraBrk/238871</link>
-            <guid isPermaLink="false">48aaf75b69a7efd7416051fda8ea083d489b34dc5b186ec673d1f865dab059f4</guid>
-            <pubDate>Fri, 09 Oct 2026 07:38:02 GMT</pubDate>
-            <description><![CDATA[هيئة الطيران المدني السعودية: الاعتداء الأول استهدف مرافق المطار واستهدف الثاني طائرة تابعة للخطوط السعودية]]></description>
-            <content:encoded><![CDATA[هيئة الطيران المدني السعودية: الاعتداء الأول استهدف مرافق المطار واستهدف الثاني طائرة تابعة للخطوط السعودية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
