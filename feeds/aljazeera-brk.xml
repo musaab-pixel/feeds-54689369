@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 10 Oct 2026 15:54:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 16:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا مركز بيانات في كييف وسفينة كانت متجهة إلى أوديسا…]]></title>
+            <link>https://t.me/aljazeeraBrk/239137</link>
+            <guid isPermaLink="false">bdd4ef7c06c8ffc632c56d01ff5ed75bd0bdb861cceb0b0edbffd33a173c5c9f</guid>
+            <pubDate>Sat, 10 Oct 2026 16:04:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا مركز بيانات في كييف وسفينة كانت متجهة إلى أوديسا تحمل شحنات ذات طابع عسكري]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا مركز بيانات في كييف وسفينة كانت متجهة إلى أوديسا تحمل شحنات ذات طابع عسكري]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: غارة إسرائيلية تدمر منزلا بعد إخلائه من سكانه في حي الشجاعية…]]></title>
             <link>https://t.me/aljazeeraBrk/239136</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 09 Oct 2026 14:23:02 GMT</pubDate>
             <description><![CDATA[المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: القنابل التي استهدفت غزة تعادل قوة 6 قنابل نووية]]></description>
             <content:encoded><![CDATA[المقررة الأممية لحقوق الإنسان في الأراضي الفلسطينية للجزيرة: القنابل التي استهدفت غزة تعادل قوة 6 قنابل نووية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المبعوث الأممي إلى اليمن: المدنيون ولا سيما النساء والأطفال يدفعون مجددا الثمن…]]></title>
-            <link>https://t.me/aljazeeraBrk/238937</link>
-            <guid isPermaLink="false">06cbe23c25d49420baffda743b27733e51ad23ffe8f3aefa2574a2ae387f8c91</guid>
-            <pubDate>Fri, 09 Oct 2026 14:18:02 GMT</pubDate>
-            <description><![CDATA[المبعوث الأممي إلى اليمن: المدنيون ولا سيما النساء والأطفال يدفعون مجددا الثمن الأكبر لتصاعد العنف في اليمن]]></description>
-            <content:encoded><![CDATA[المبعوث الأممي إلى اليمن: المدنيون ولا سيما النساء والأطفال يدفعون مجددا الثمن الأكبر لتصاعد العنف في اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
