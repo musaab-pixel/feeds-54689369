@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 10 Oct 2026 02:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 03:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: هجوم بغارتين يستهدف المجمع…]]></title>
+            <link>https://t.me/aljazeeraBrk/239051</link>
+            <guid isPermaLink="false">1b49c084735294d945bd374bc2282b639bc74d8f476b804a4ebb6b4cb3d10737</guid>
+            <pubDate>Sat, 10 Oct 2026 03:07:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: هجوم بغارتين يستهدف المجمع الحكومي بمديرية سامع جنوبي تعز]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: هجوم بغارتين يستهدف المجمع الحكومي بمديرية سامع جنوبي تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[السفارة الأمريكية لدى اليمن: ندعم السعودية والحكومة اليمنية في جهودهما لاستعادة…]]></title>
             <link>https://t.me/aljazeeraBrk/239050</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 08 Oct 2026 20:28:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإيراني: نعكف حاليا على مراجعة المقترحات المتبادلة عبر الوسطاء ووضع اللمسات الأخيرة عليها]]></description>
             <content:encoded><![CDATA[الرئيس الإيراني: نعكف حاليا على مراجعة المقترحات المتبادلة عبر الوسطاء ووضع اللمسات الأخيرة عليها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإيراني: إيران لن تتخلى عن طاولة المفاوضات]]></title>
-            <link>https://t.me/aljazeeraBrk/238850</link>
-            <guid isPermaLink="false">8c5c26f3d49e142e40c383d6f7152d2531dd41ea864d804795276f46174a3b7f</guid>
-            <pubDate>Thu, 08 Oct 2026 20:27:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الإيراني: إيران لن تتخلى عن طاولة المفاوضات]]></description>
-            <content:encoded><![CDATA[الرئيس الإيراني: إيران لن تتخلى عن طاولة المفاوضات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
