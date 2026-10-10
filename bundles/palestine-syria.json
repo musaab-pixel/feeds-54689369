@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "fc0c2537e86d5d25a397023c4a9fa46d0d6a556a2219ec61c9b63d829fb61178",
+            "content_html": "حاكم ولاية بنسلفانيا الأمريكية: 9 قتلى في حادث إطلاق نار في مدينة إيري بالولاية",
+            "url": "https://t.me/aljazeeraBrk/239134",
+            "title": "حاكم ولاية بنسلفانيا الأمريكية: 9 قتلى في حادث إطلاق نار في مدينة إيري بالولاية",
+            "summary": "حاكم ولاية بنسلفانيا الأمريكية: 9 قتلى في حادث إطلاق نار في مدينة إيري بالولاية",
+            "date_modified": "2026-10-10T15:38:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "141bcaa914fc971800d8c61ec261b901d415ab2ad3b65b53e7d16834f357c92d",
             "content_html": "هيئة الطوارئ الأوكرانية: ارتفاع عدد ضحايا الاستهداف الروسي في زابوروجيا إلى ٢٠ قتيلا",
             "url": "https://t.me/aljazeeraBrk/239133",
@@ -1619,17 +1630,6 @@
             "date_modified": "2026-10-10T00:37:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "f9eeed2573d309de9575c04c766a11f22d93db8c2f9d4d3f2373ff8e1c3cebdf",
-            "content_html": "بلدية حلب تسيّر دورية لمكافحة الكلاب الشاردة في شارع النيل والشهباء والخالدية الساعة الخامسة فجر السبت<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141549",
-            "title": "بلدية حلب تسيّر دورية لمكافحة الكلاب الشاردة في شارع النيل والشهباء والخالدية…",
-            "summary": "بلدية حلب تسيّر دورية لمكافحة الكلاب الشاردة في شارع النيل والشهباء والخالدية الساعة الخامسة فجر السبت<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-09T21:32:55.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
