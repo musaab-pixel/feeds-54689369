@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 10 Oct 2026 10:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 10:55:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الاتحاد الأوروبي: ملتزمون بالنظام الدولي القائم على القواعد والذي تعد المحكمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/239096</link>
+            <guid isPermaLink="false">f9359d4dd1cb53495f6752bfa4de133b4062cbdabc9cad8844665c2dc6ca2f93</guid>
+            <pubDate>Sat, 10 Oct 2026 10:53:02 GMT</pubDate>
+            <description><![CDATA[الاتحاد الأوروبي: ملتزمون بالنظام الدولي القائم على القواعد والذي تعد المحكمة الجنائية الدولية جزءا أساسيا منه]]></description>
+            <content:encoded><![CDATA[الاتحاد الأوروبي: ملتزمون بالنظام الدولي القائم على القواعد والذي تعد المحكمة الجنائية الدولية جزءا أساسيا منه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الكرملين: نقل الرؤية الإيرانية تم بموافقة طهران في إطار جهود دبلوماسية تهدف إلى…]]></title>
             <link>https://t.me/aljazeeraBrk/239095</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 09 Oct 2026 09:41:02 GMT</pubDate>
             <description><![CDATA[هيئة مقاومة الجدار والاستيطان: 19 اعتداء نفذتها عصابات المستوطنين في أرجاء الضفة الغربية منذ صباح اليوم]]></description>
             <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: 19 اعتداء نفذتها عصابات المستوطنين في أرجاء الضفة الغربية منذ صباح اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس المجلس القروي بدير إبزيع بالضفة للجزيرة: نناشد جميع سكان القرية ومن هم…]]></title>
-            <link>https://t.me/aljazeeraBrk/238895</link>
-            <guid isPermaLink="false">35bef728f90346c0082e840d7747acaacdb8a11ed29f5cf1d742ba7813787187</guid>
-            <pubDate>Fri, 09 Oct 2026 09:39:02 GMT</pubDate>
-            <description><![CDATA[رئيس المجلس القروي بدير إبزيع بالضفة للجزيرة: نناشد جميع سكان القرية ومن هم خارجها التجمع لحماية أراضيهم]]></description>
-            <content:encoded><![CDATA[رئيس المجلس القروي بدير إبزيع بالضفة للجزيرة: نناشد جميع سكان القرية ومن هم خارجها التجمع لحماية أراضيهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
