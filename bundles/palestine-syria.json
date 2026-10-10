@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "141bcaa914fc971800d8c61ec261b901d415ab2ad3b65b53e7d16834f357c92d",
+            "content_html": "هيئة الطوارئ الأوكرانية: ارتفاع عدد ضحايا الاستهداف الروسي في زابوروجيا إلى ٢٠ قتيلا",
+            "url": "https://t.me/aljazeeraBrk/239133",
+            "title": "هيئة الطوارئ الأوكرانية: ارتفاع عدد ضحايا الاستهداف الروسي في زابوروجيا إلى ٢٠…",
+            "summary": "هيئة الطوارئ الأوكرانية: ارتفاع عدد ضحايا الاستهداف الروسي في زابوروجيا إلى ٢٠ قتيلا",
+            "date_modified": "2026-10-10T15:33:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "ad7932c38587270f677e0215cf7db02b0e5dfc91934b3835f05439c5453c4934",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال الإسرائيلي تداهم وتفتش عدداً من المنازل في قرية المشيرفة بريف القنيطرة الأوسط<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141589",
+            "title": "🛑#عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تداهم وتفتش عدداً من المنازل في…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال الإسرائيلي تداهم وتفتش عدداً من المنازل في قرية المشيرفة بريف القنيطرة الأوسط<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-10-10T15:21:58.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "1f90657d52fbdbeabec40edfec39be4ef3fd4d2ec7ab0d7293d4d9cceaa50449",
             "content_html": "الهلال الأحمر الفلسطيني: إصابة فلسطيني برصاص الاحتلال في بلدة سعير شمال مدينة الخليل بالضفة الغربية",
             "url": "https://t.me/aljazeeraBrk/239132",
@@ -1608,28 +1630,6 @@
             "date_modified": "2026-10-09T21:32:55.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "8fd79955b0f30d87259d7b5b8f7cc79555170d1559cc517e6cb295507d0a8348",
-            "content_html": "المتحدث باسم قوات التحالف: دمرنا 136 هدفا عسكريا في مناطق سيطرة الميليشيا الحوثية الإرهابية",
-            "url": "https://t.me/aljazeeraBrk/239031",
-            "title": "المتحدث باسم قوات التحالف: دمرنا 136 هدفا عسكريا في مناطق سيطرة الميليشيا…",
-            "summary": "المتحدث باسم قوات التحالف: دمرنا 136 هدفا عسكريا في مناطق سيطرة الميليشيا الحوثية الإرهابية",
-            "date_modified": "2026-10-09T21:19:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "36dfb8250e7d4978ab524de482bb12dc01eaab9dca45b1c8866458bc68fe5fb1",
-            "content_html": "المتحدث يلسم قوات التحالف: دمرنا 136 هدفا عسكريا في مناطق سيطرة الميليشيا الحوثية الإرهابية",
-            "url": "https://t.me/aljazeeraBrk/239030",
-            "title": "المتحدث يلسم قوات التحالف: دمرنا 136 هدفا عسكريا في مناطق سيطرة الميليشيا…",
-            "summary": "المتحدث يلسم قوات التحالف: دمرنا 136 هدفا عسكريا في مناطق سيطرة الميليشيا الحوثية الإرهابية",
-            "date_modified": "2026-10-09T21:18:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
