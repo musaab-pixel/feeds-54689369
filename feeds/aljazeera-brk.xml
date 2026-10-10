@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 10 Oct 2026 06:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 06:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات خاصة إسرائيلية تعتقل شابا فلسطينيا بعد محاصرة منزله في بلدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/239058</link>
+            <guid isPermaLink="false">9240b3e41818eb605a81acfc0a2b1b5a2282545063107a8d6e23bba53947134d</guid>
+            <pubDate>Sat, 10 Oct 2026 06:23:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات خاصة إسرائيلية تعتقل شابا فلسطينيا بعد محاصرة منزله في بلدة قباطية جنوبي جنين]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات خاصة إسرائيلية تعتقل شابا فلسطينيا بعد محاصرة منزله في بلدة قباطية جنوبي جنين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة موسكو: دفاعاتنا الجوية دمرت 10 مسيرات كانت تحلق باتجاه العاصمة]]></title>
             <link>https://t.me/aljazeeraBrk/239057</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 08 Oct 2026 23:18:02 GMT</pubDate>
             <description><![CDATA[وول ستريت جورنال عن مسؤول بالبحرية: السفن الجديدة ستنضم إلى حاملة الطائرات جورج واشنطن بالإضافة إلى 9 مدمرات]]></description>
             <content:encoded><![CDATA[وول ستريت جورنال عن مسؤول بالبحرية: السفن الجديدة ستنضم إلى حاملة الطائرات جورج واشنطن بالإضافة إلى 9 مدمرات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وول ستريت جورنال عن مسؤولين: البنتاغون يدرس إرسال معدات إضافية للدفاع الجوي…]]></title>
-            <link>https://t.me/aljazeeraBrk/238857</link>
-            <guid isPermaLink="false">727c2d67b048d5c0a7d7a932e5c60d09e2d5198934062fd2a1d0cc4e00ed5f99</guid>
-            <pubDate>Thu, 08 Oct 2026 23:17:02 GMT</pubDate>
-            <description><![CDATA[وول ستريت جورنال عن مسؤولين: البنتاغون يدرس إرسال معدات إضافية للدفاع الجوي وذخائر إلى قواعده في الشرق الأوسط]]></description>
-            <content:encoded><![CDATA[وول ستريت جورنال عن مسؤولين: البنتاغون يدرس إرسال معدات إضافية للدفاع الجوي وذخائر إلى قواعده في الشرق الأوسط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
