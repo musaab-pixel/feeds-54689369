@@ -16,6 +16,17 @@
             }
         },
         {
+            "id": "a971b30cd958e3eba7b10e8bea7982a445164880ff18a7ff12d221dd9f41c082",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-12T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 12/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/cambodge-revision-des-curricula-francais-et-disciplines-scientifiques-8719",
+            "title": "Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-12T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 12/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-12T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "52bcb0bd1ab0fb1a52e37dac4dd6a3d70e20f25fa7626c3ed9bb3807c9c86a3f",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Mission économique de la Francophonie à Djibouti : des premiers résultats concrets au service du développement de la coopération économique francophone</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-09T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 09/10/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/mission-economique-a-djibouti-des-premiers-resultats-concrets-8717",

@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 12 Oct 2026 09:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 09:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -12,6 +12,21 @@
             <title><![CDATA[Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français]]></title>
             <link>https://www.francophonie.org/cambodge-revision-des-curricula-de-francais-8719</link>
             <guid isPermaLink="false">86d4d1949f993c1e5ec884f5e66257f5e8c9f421e56ccaf2378b97a7d88ba108</guid>
+            <pubDate>Mon, 12 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-12T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 12/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-12T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 12/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français]]></title>
+            <link>https://www.francophonie.org/cambodge-revision-des-curricula-francais-et-disciplines-scientifiques-8719</link>
+            <guid isPermaLink="false">a971b30cd958e3eba7b10e8bea7982a445164880ff18a7ff12d221dd9f41c082</guid>
             <pubDate>Mon, 12 Oct 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
