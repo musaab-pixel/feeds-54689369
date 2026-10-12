@@ -27,6 +27,17 @@
             }
         },
         {
+            "id": "aac94606d7b013af3a6732e96c12f95b3092fd1fcaa5f758df6426e3401ad654",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Die neue Logik der Pandemieplanung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T12:49:04+02:00\" title=\"Freitag, 9 Oktober 2026 - 12:49\" class=\"datetime\">Fr. 9 Okt 2026 - 12:49</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/die-neue-logik-der-pandemieplanung",
+            "title": "Die neue Logik der Pandemieplanung",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Die neue Logik der Pandemieplanung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T12:49:04+02:00\" title=\"Freitag, 9 Oktober 2026 - 12:49\" class=\"datetime\">Fr. 9 Okt 2026 - 12:49</time>\n</span>\n",
+            "date_modified": "2026-10-09T10:49:04.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "f1fd133f76d1e2f59bed962e26c04be688ed070e710d2a4162f826a7a8a6bda1",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wechsel in der Geschäftsführung der Robert Bosch Stiftung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T09:07:01+02:00\" title=\"Freitag, 9 Oktober 2026 - 09:07\" class=\"datetime\">Fr. 9 Okt 2026 - 09:07</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/wechsel-der-geschaeftsfuehrung-der-robert-bosch-stiftung",

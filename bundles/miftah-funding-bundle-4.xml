@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Mon, 12 Oct 2026 10:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 16:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2648,6 +2648,119 @@ Enter your email to get reminders about upcoming deadlines for Visegrad Fellowsh
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/dzuza-card-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Conference Entre Mapas (Between Maps) 16 Nov 2026 / 14:30]]></title>
+            <link>https://gulbenkian.pt/en/agenda/entre-mapas-between-maps/</link>
+            <guid isPermaLink="false">acba660402fe763775c5a0d3a2aa4e08fe582138030a0c8b57c68b0dfc8b347b</guid>
+            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								14:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								14:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Monday, 14:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p data-pm-slice="1 1 []">Over two years, Terra Amarela travelled across the country, working with cultural and artistic collectives from different regions to get to know disabled and Deaf artists, their forms of artistic expression and the contexts in which they work. Going beyond numbers, this process of research and listening, led by Patrícia Silva Santos, sought to understand their journeys and what they reveal about Portugal’s cultural landscape, including the barriers that continue to limit access to opportunities for artistic creation, programming and decision-making.</p>
+<p>The presentation will be followed by a discussion: what practices, methodologies and policies can we put into action to change this reality? How can we bring people together, share experiences and create the conditions for other forms of participation?</p>
+<p>A map is more than a representation of what exists. It is also a way of understanding what still needs to be built.</p>
+<p class="tw-font-sans">This session will include Portuguese Sign Language interpretation.</p>
+<p class="tw-text-xs tw-font-sans tw-mt-sm">Image © João Versos Roldão</p>
+<h2 class="fcg-section__title" id="programme">
+			<span>Programme</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">14:30 / Opening</h4>
+<h4 class="fcg-programme__title">14:40 / Presentation of the "Entre Mapas" study</h4>
+<h4 class="fcg-programme__title">16:10 / Roundtable – Pathways, Policies and Futures</h4>
+<h4 class="fcg-programme__title">17:20 / Maps for the future</h4>
+<h4 class="fcg-programme__title">17:30 / Closing Remarks</h4>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								14:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								14:30							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Monday, 14:30								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p data-pm-slice="1 1 []">Over two years, Terra Amarela travelled across the country, working with cultural and artistic collectives from different regions to get to know disabled and Deaf artists, their forms of artistic expression and the contexts in which they work. Going beyond numbers, this process of research and listening, led by Patrícia Silva Santos, sought to understand their journeys and what they reveal about Portugal’s cultural landscape, including the barriers that continue to limit access to opportunities for artistic creation, programming and decision-making.</p>
+<p>The presentation will be followed by a discussion: what practices, methodologies and policies can we put into action to change this reality? How can we bring people together, share experiences and create the conditions for other forms of participation?</p>
+<p>A map is more than a representation of what exists. It is also a way of understanding what still needs to be built.</p>
+<p class="tw-font-sans">This session will include Portuguese Sign Language interpretation.</p>
+<p class="tw-text-xs tw-font-sans tw-mt-sm">Image © João Versos Roldão</p>
+<h2 class="fcg-section__title" id="programme">
+			<span>Programme</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">14:30 / Opening</h4>
+<h4 class="fcg-programme__title">14:40 / Presentation of the "Entre Mapas" study</h4>
+<h4 class="fcg-programme__title">16:10 / Roundtable – Pathways, Policies and Futures</h4>
+<h4 class="fcg-programme__title">17:20 / Maps for the future</h4>
+<h4 class="fcg-programme__title">17:30 / Closing Remarks</h4>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/10/CJoaoVersosRoldao_2025_TerraAmarela_AMeioDoTejo_Espetaculo_TorresNovas_17out_HighRes-0062_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[V4 Gen Mini Grants OPEN Deadline: November 15, 2026]]></title>
             <link>https://www.visegradfund.org/v4-gen-apply</link>
             <guid isPermaLink="false">8fe169c72a9e431253ef940310890a1dc8fead42ee8fa368fbe2a95f650bb5c6</guid>
@@ -5205,7 +5318,7 @@ In 2019 Martina Batič received the Slovenian national prize “Prešeren Fund A
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/09/Thomas-Quasthoff-e-AmatisTrio_4x3_2-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Macbeth 17 Oct 2026 / 18:00]]></title>
+            <title><![CDATA[Transmission Macbeth 17 Oct 2026 / 18:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/macbeth/</link>
             <guid isPermaLink="false">91e706a4fb5e24363a0cf52892f970404db6d7d27597fe75dd8b50f1817a1c8f</guid>
             <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
@@ -14382,35 +14495,6 @@ Can a condominium (residential building or multi-family building) apply?				</h4
 <h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
 <p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
             <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-09/ENV1_2025_773_HP_Image.jpg?itok=e5n-sUHh" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meer lezen]]></title>
-            <link>https://journalismfund.eu/voices-beyond-borders-reimagining-local-media</link>
-            <guid isPermaLink="false">d9016cef5099b83a14e629cef0f1ec55a6b2fc2f76873ac4434b51f689089b39</guid>
-            <pubDate>Tue, 15 Sep 2026 08:59:50 GMT</pubDate>
-            <description><![CDATA[<p>ODORHEIU SECUIESC - Two series of multimedia articles were produced thanks to the project. The initial aim was to grow free subscribers to 2,000+, but by the end of the project this target was exceeded, reaching 3,000. The Instagram account also grew by 10%, as the outlet sought to reach a younger adult audience. Some articles were even translated into Romanian in order to provide better multicultural access for Romanian-speaking audiences. This proved tricky, as the outlet's social media channels are all in Hungarian.</p>
-<h2>On this page</h2>
-<ul class="anchor-nav"><li><a href="#activities">Activities</a></li><li><a href="#impact">Impact</a></li><li><a href="#links">Links</a></li><li><a href="#photos">Photos</a></li></ul>
-<h3>Project Activities</h3>
-<p>Two series were published, Faith and Future and Rural Realities, both produced by young journalists. They were distributed not only on social media but also in newsletters, as the aim was to grow a direct connection with audiences.</p>
-<h3>What is the impact?</h3>
-<p>The aim was to extend direct reach to the audience in order to provide free and independent information and local stories without relying on algorithms. This approach — trying to build a direct link with the community — is considered one of the keystones of better serving a news desert.</p>
-<p>The change being sought was to better serve young audiences in local communities. The Instagram growth directly reflects these efforts, thanks in part to young journalists who tend to better understand the wants and needs of young adults.</p>
-<h3>Project Links</h3>
-<ul><li><a href="https://www.uh.ro/tag/hittok/">Faith and Future series</a></li><li><a href="https://www.uh.ro/tag/feluton-2/">Rural Realities series</a></li></ul>
-<h3>Project Pictures</h3>]]></description>
-            <content:encoded><![CDATA[<p>ODORHEIU SECUIESC - Two series of multimedia articles were produced thanks to the project. The initial aim was to grow free subscribers to 2,000+, but by the end of the project this target was exceeded, reaching 3,000. The Instagram account also grew by 10%, as the outlet sought to reach a younger adult audience. Some articles were even translated into Romanian in order to provide better multicultural access for Romanian-speaking audiences. This proved tricky, as the outlet's social media channels are all in Hungarian.</p>
-<h2>On this page</h2>
-<ul class="anchor-nav"><li><a href="#activities">Activities</a></li><li><a href="#impact">Impact</a></li><li><a href="#links">Links</a></li><li><a href="#photos">Photos</a></li></ul>
-<h3>Project Activities</h3>
-<p>Two series were published, Faith and Future and Rural Realities, both produced by young journalists. They were distributed not only on social media but also in newsletters, as the aim was to grow a direct connection with audiences.</p>
-<h3>What is the impact?</h3>
-<p>The aim was to extend direct reach to the audience in order to provide free and independent information and local stories without relying on algorithms. This approach — trying to build a direct link with the community — is considered one of the keystones of better serving a news desert.</p>
-<p>The change being sought was to better serve young audiences in local communities. The Instagram growth directly reflects these efforts, thanks in part to young journalists who tend to better understand the wants and needs of young adults.</p>
-<h3>Project Links</h3>
-<ul><li><a href="https://www.uh.ro/tag/hittok/">Faith and Future series</a></li><li><a href="https://www.uh.ro/tag/feluton-2/">Rural Realities series</a></li></ul>
-<h3>Project Pictures</h3>]]></content:encoded>
-            <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-09/PM4D_2025_068_HP_Image.jpg?itok=8Hoce-P5" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

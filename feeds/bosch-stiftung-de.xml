@@ -4,7 +4,7 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Mon, 12 Oct 2026 09:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 16:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -41,6 +41,23 @@
 </span>
 ]]></content:encoded>
             <author>Regina Mennig</author>
+        </item>
+        <item>
+            <title><![CDATA[Die neue Logik der Pandemieplanung]]></title>
+            <link>https://bosch-stiftung.de/story/die-neue-logik-der-pandemieplanung</link>
+            <guid isPermaLink="false">aac94606d7b013af3a6732e96c12f95b3092fd1fcaa5f758df6426e3401ad654</guid>
+            <pubDate>Fri, 09 Oct 2026 10:49:04 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Die neue Logik der Pandemieplanung</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-09T12:49:04+02:00" title="Freitag, 9 Oktober 2026 - 12:49" class="datetime">Fr. 9 Okt 2026 - 12:49</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Die neue Logik der Pandemieplanung</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-09T12:49:04+02:00" title="Freitag, 9 Oktober 2026 - 12:49" class="datetime">Fr. 9 Okt 2026 - 12:49</time>
+</span>
+]]></content:encoded>
+            <author>palasthotel</author>
         </item>
         <item>
             <title><![CDATA[Wechsel in der Geschäftsführung der Robert Bosch Stiftung]]></title>
