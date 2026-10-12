@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Mon, 12 Oct 2026 02:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 10:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2427,6 +2427,225 @@ Enter your email to get reminders about upcoming deadlines for Visegrad Fellowsh
 <p class="tw-text-xs tw-mb-0">
 		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2024/10/FCG-Salavisa-Web-1200x900-2-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conference / Dance Idio Chichava + Salavisa European Dance Award Ceremony 17 Nov 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/idio-chichava-salavisa-european-dance-award-ceremony/</link>
+            <guid isPermaLink="false">6ac932c760225ddca32313ff526f4ca1846ea156f302a186e8bb02259278147c</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Tuesday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<p>Calouste Gulbenkian Foundation</p>
+<h4 class="assist">Pricing</h4>
+<p>10% – Cartão Gulbenkian and Cartão Gulbenkian Mais</p>
+<p>Two years after the first edition of the <a href="https://gulbenkian.pt/fundacao/premios/salavisa-european-dance-award/">Salavisa European Dance Award (SEDA)</a>, the prize is now attributed to one of the new finalists, among whom are Chiara Bersani (Italy), Dan Daw (Australia), Jefta van Dinther (Netherlands/Sweden), Lukas Avendaño (Mexico) and Mamela Nyamza (South Africa).</p>
+<p>Selected by three independent specialists—llgaz Gurur Ertem, La Ribot and River&nbsp;Lin—, the winner will be awarded 150 thousand euros and the opportunity to present their work at the Calouste Gulbenkian Foundation and on the stages of the partner institutions.</p>
+<p>The winners of the 2024 SEDA were Idio Chichava and <a href="https://gulbenkian.pt/agenda/dorothee-munyaneza/" target="_blank" rel="noopener">Dorothée Munyaneza</a>.</p>
+<p>Drawing on the sounds, rhythms and collective energy of urban life, the performance reflects on resilience in a world marked by borders, violence and displacement.</p>
+<p>Through intense physicality, rhythmic steps, collective movements and sung voices, the performers <em>Dzudza</em> create ever-changing images, ranging from tension to tenderness and celebration.</p>
+<p>On stage, the body emerges as a source of strength, memory and connection: it dances, sings, resists and celebrates, creating a collective presence of great intensity.</p>
+<p>The capulana—a printed fabric associated with identity, protection and a sense of belonging—also takes centre stage, appearing as a costume, an extension of the body and a medium for movement.</p>
+<p><em>Dzudza</em> is Maputo seen from the suburbs: vibrant, restless and alive.</p>
+<p class="tw-font-sans">This performance is part of the <a href="https://alkantara.pt/en/festival/" target="_blank" rel="noopener">Alkantara Festival 2026.</a></p>
+<h2 class="fcg-section__title" id="biographies">
+			<span>Biographies</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6accb907abdad" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Idio Chichava</button>	</li>
+</ul>
+<h2 class="fcg-section__title" id="programme">
+			<span>Programme</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">19:00 / Dzudza, de Idio Chichava</h4>
+<h4 class="fcg-programme__title">20:15 / Cerimónia de entrega do Salavisa European Dance Award</h4>
+<h2 class="fcg-section__title" id="credits">
+			<span>Credits</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Concept and choreography</p>
+<p class="tw-font-serif tw-mb-0">Idio Chichava</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Choreography assistant and rehearsal director</p>
+<p class="tw-font-serif tw-mb-0">Osvaldo Passirivo</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Performers</p>
+<p class="tw-font-serif tw-mb-0">Açucena Chemane, Arminda Teimezira, Calton Muholove, Cristina Matola, Fernando Machaieie, Judite Novela, Martins Tuvanji, Mauro Sigauque, Nilégio Cossa, Paulo Inacio, Patrick Manuel, Stela Matsombe, Vasco Sitoe</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Technical support</p>
+<p class="tw-font-serif tw-mb-0">Francisco Baloi</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Diffusion</p>
+<p class="tw-font-serif tw-mb-0">Silvana Pombal</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Co-production</p>
+<p class="tw-font-serif tw-mb-0">Converge+, YODINE Produções</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Partnerships</p>
+<p class="tw-font-serif tw-mb-0">Companhia Nacional de Canto e Dança (Maputo), KINANI Plataforma Internacional de Dança Contemporânea (Maputo), Paris Dance Project</p>
+<h3 class="fcg-sponsors__title">Partner</h3>
+<h3 class="fcg-sponsors__title">SEDA Partners</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Tuesday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<p>Calouste Gulbenkian Foundation</p>
+<h4 class="assist">Pricing</h4>
+<p>10% – Cartão Gulbenkian and Cartão Gulbenkian Mais</p>
+<p>Two years after the first edition of the <a href="https://gulbenkian.pt/fundacao/premios/salavisa-european-dance-award/">Salavisa European Dance Award (SEDA)</a>, the prize is now attributed to one of the new finalists, among whom are Chiara Bersani (Italy), Dan Daw (Australia), Jefta van Dinther (Netherlands/Sweden), Lukas Avendaño (Mexico) and Mamela Nyamza (South Africa).</p>
+<p>Selected by three independent specialists—llgaz Gurur Ertem, La Ribot and River&nbsp;Lin—, the winner will be awarded 150 thousand euros and the opportunity to present their work at the Calouste Gulbenkian Foundation and on the stages of the partner institutions.</p>
+<p>The winners of the 2024 SEDA were Idio Chichava and <a href="https://gulbenkian.pt/agenda/dorothee-munyaneza/" target="_blank" rel="noopener">Dorothée Munyaneza</a>.</p>
+<p>Drawing on the sounds, rhythms and collective energy of urban life, the performance reflects on resilience in a world marked by borders, violence and displacement.</p>
+<p>Through intense physicality, rhythmic steps, collective movements and sung voices, the performers <em>Dzudza</em> create ever-changing images, ranging from tension to tenderness and celebration.</p>
+<p>On stage, the body emerges as a source of strength, memory and connection: it dances, sings, resists and celebrates, creating a collective presence of great intensity.</p>
+<p>The capulana—a printed fabric associated with identity, protection and a sense of belonging—also takes centre stage, appearing as a costume, an extension of the body and a medium for movement.</p>
+<p><em>Dzudza</em> is Maputo seen from the suburbs: vibrant, restless and alive.</p>
+<p class="tw-font-sans">This performance is part of the <a href="https://alkantara.pt/en/festival/" target="_blank" rel="noopener">Alkantara Festival 2026.</a></p>
+<h2 class="fcg-section__title" id="biographies">
+			<span>Biographies</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6accb907abdad" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Idio Chichava</button>	</li>
+</ul>
+<h2 class="fcg-section__title" id="programme">
+			<span>Programme</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-programme__title">19:00 / Dzudza, de Idio Chichava</h4>
+<h4 class="fcg-programme__title">20:15 / Cerimónia de entrega do Salavisa European Dance Award</h4>
+<h2 class="fcg-section__title" id="credits">
+			<span>Credits</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Concept and choreography</p>
+<p class="tw-font-serif tw-mb-0">Idio Chichava</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Choreography assistant and rehearsal director</p>
+<p class="tw-font-serif tw-mb-0">Osvaldo Passirivo</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Performers</p>
+<p class="tw-font-serif tw-mb-0">Açucena Chemane, Arminda Teimezira, Calton Muholove, Cristina Matola, Fernando Machaieie, Judite Novela, Martins Tuvanji, Mauro Sigauque, Nilégio Cossa, Paulo Inacio, Patrick Manuel, Stela Matsombe, Vasco Sitoe</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Technical support</p>
+<p class="tw-font-serif tw-mb-0">Francisco Baloi</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Diffusion</p>
+<p class="tw-font-serif tw-mb-0">Silvana Pombal</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Co-production</p>
+<p class="tw-font-serif tw-mb-0">Converge+, YODINE Produções</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Partnerships</p>
+<p class="tw-font-serif tw-mb-0">Companhia Nacional de Canto e Dança (Maputo), KINANI Plataforma Internacional de Dança Contemporânea (Maputo), Paris Dance Project</p>
+<h3 class="fcg-sponsors__title">Partner</h3>
+<h3 class="fcg-sponsors__title">SEDA Partners</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/dzuza-card-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[V4 Gen Mini Grants OPEN Deadline: November 15, 2026]]></title>
@@ -14192,345 +14411,6 @@ Can a condominium (residential building or multi-family building) apply?				</h4
 <ul><li><a href="https://www.uh.ro/tag/hittok/">Faith and Future series</a></li><li><a href="https://www.uh.ro/tag/feluton-2/">Rural Realities series</a></li></ul>
 <h3>Project Pictures</h3>]]></content:encoded>
             <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-09/PM4D_2025_068_HP_Image.jpg?itok=8Hoce-P5" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meer lezen]]></title>
-            <link>https://journalismfund.eu/automated-research-support-multimedia-formats-ai</link>
-            <guid isPermaLink="false">75033e53c12c96c1a96c636efc10d2fd66cb8d38290375e4107f633df77238b4</guid>
-            <pubDate>Tue, 15 Sep 2026 08:59:50 GMT</pubDate>
-            <description><![CDATA[<p>SILESIA - Thanks to the project, the jaw.pl editorial team is publishing significantly more Reels and multimedia content produced without the manual work of video editors and camera operators. The new system allows the newsroom to reach new audiences without additional labour costs. Sourcing topics is now much easier, and the processing capabilities using AI tools are constantly evolving as new models emerge.</p>
-<h2>On this page</h2>
-<ul class="anchor-nav"><li><a href="#activities">Activities</a></li><li><a href="#impact">Impact</a></li><li><a href="#links">Links</a></li></ul>
-<h3>Project Activities</h3>
-<p>The project team implemented a system for monitoring interesting sources, which now delivers dozens of journalistic topics every day. Thanks to a prompt pipeline system, the newsroom is able to prepare these topics for publication while reflecting the local character, context, and the individual style of the author managing the process. Furthermore, the team deployed a system for generating Reels from journalistic content, which complements the vertical version of the portal and provides engaging material for its social media channels.</p>
-<h3>What is the impact?</h3>
-<p>Thanks to the automated system for producing Reels from journalistic materials, the local media outlet is now able to reach a younger demographic through social media. Previously, the newsroom did not have the resources to produce a higher volume of content for these platforms.</p>
-<p>The project has led to a greater diversification of the outlet's content, presenting it in a format that is highly accessible to young people. These short, vertical video summaries serve as effective teasers that successfully drive traffic to the full articles on the website.</p>
-<h3>Project Links</h3>
-<ul><li><a href="https://jaw.pl/reels">jaw.pl</a></li></ul>
-<h3 class="field-label-above">Themes</h3>
-<ul class="list">
-            <li><a href="/taxonomy/term/960" hreflang="en">Innovation</a></li>
-      <li><a href="/taxonomy/term/51" hreflang="en">Journalism &amp; Media</a></li>
-      
-      </ul>
-<h3 class="field-label-above">Publication</h3>
-<p>WEBSITE</p>
-<ul><li><a href="https://jaw.pl">jaw.pl</a></li></ul>
-<p>SOCIAL MEDIA</p>
-<ul><li><a href="https://www.facebook.com/jawpl">Facebook</a></li><li><a href="https://www.youtube.com/dlaciebietv">YouTube</a></li></ul>
-<p>COUNTRY</p>
-<ul><li>Poland</li></ul>
-<h2 class="shape-title field-label-above">Media</h2>
-<h2>
-  Wydawnictwo
-</h2>
-<p>Since 1991, Wydawnictwo GM sp. z o.o. is a Polish publisher of local newspapers.</p>
-<h2 class="shape-title field-label-above">Related projects</h2>
-<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-06/xvchhoih_400x400.jpg?itok=E3waglA4" width="800" height="350" alt="Wablieft" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Wablieft</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  Wablieft goes digital
-</h2>
-
-    
-      <div class="teaser"><p>MECHELEN - The Wablieft centre for clear language&nbsp;developed an online news channel with quality news for low-literature adults.</p></div>
-      
-  
-
-
-  <a href="/innovation/wablieft-goes-digital" class="stretched-link" aria-label="Read more on Wablieft goes digital">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2020-07/Apache%20Local.jpg?itok=87TuGFnR" width="800" height="350" alt="Apache Lokaal" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Apache.be</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  Apache Local
-</h2>
-
-    
-      <div class="teaser"><p>BORGERHOUT - Apache Local was a&nbsp;local journalism&nbsp;project in which news site Apache explored four themes with the help of local citizens and journalists.</p></div>
-      
-  
-
-
-  <a href="/innovation/apache-local" class="stretched-link" aria-label="Read more on Apache Local">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2025-05/352973390_787779712884770_1325677378804067558_n.png?itok=l1BP7OLr" width="800" height="350" alt="reBaltica Logo" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">@ reBaltica</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  Regional Voices: Reliable News Before Municipal Elections
-</h2>
-
-    
-      <div class="teaser"><p>RIGA - The project strengthened access to independent local journalism in three municipalities underserved by independent media — Riga, Daugavpils, and Rēzekne — during the pre-municipal election period. It reached young people, women, and Russian-speaking audiences with reliable political and investigative reporting ahead of the municipal elections. The project also strengthened direct connections between journalists and local communities, particularly in Daugavpils and Rēzekne.</p></div>
-      
-  
-
-
-  <a href="/regional-voices-reliable-news-municipal-elections" class="stretched-link" aria-label="Read more on Regional Voices: Reliable News Before Municipal Elections">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li></ul>
-<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
-<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
-<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
-<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></description>
-            <content:encoded><![CDATA[<p>SILESIA - Thanks to the project, the jaw.pl editorial team is publishing significantly more Reels and multimedia content produced without the manual work of video editors and camera operators. The new system allows the newsroom to reach new audiences without additional labour costs. Sourcing topics is now much easier, and the processing capabilities using AI tools are constantly evolving as new models emerge.</p>
-<h2>On this page</h2>
-<ul class="anchor-nav"><li><a href="#activities">Activities</a></li><li><a href="#impact">Impact</a></li><li><a href="#links">Links</a></li></ul>
-<h3>Project Activities</h3>
-<p>The project team implemented a system for monitoring interesting sources, which now delivers dozens of journalistic topics every day. Thanks to a prompt pipeline system, the newsroom is able to prepare these topics for publication while reflecting the local character, context, and the individual style of the author managing the process. Furthermore, the team deployed a system for generating Reels from journalistic content, which complements the vertical version of the portal and provides engaging material for its social media channels.</p>
-<h3>What is the impact?</h3>
-<p>Thanks to the automated system for producing Reels from journalistic materials, the local media outlet is now able to reach a younger demographic through social media. Previously, the newsroom did not have the resources to produce a higher volume of content for these platforms.</p>
-<p>The project has led to a greater diversification of the outlet's content, presenting it in a format that is highly accessible to young people. These short, vertical video summaries serve as effective teasers that successfully drive traffic to the full articles on the website.</p>
-<h3>Project Links</h3>
-<ul><li><a href="https://jaw.pl/reels">jaw.pl</a></li></ul>
-<h3 class="field-label-above">Themes</h3>
-<ul class="list">
-            <li><a href="/taxonomy/term/960" hreflang="en">Innovation</a></li>
-      <li><a href="/taxonomy/term/51" hreflang="en">Journalism &amp; Media</a></li>
-      
-      </ul>
-<h3 class="field-label-above">Publication</h3>
-<p>WEBSITE</p>
-<ul><li><a href="https://jaw.pl">jaw.pl</a></li></ul>
-<p>SOCIAL MEDIA</p>
-<ul><li><a href="https://www.facebook.com/jawpl">Facebook</a></li><li><a href="https://www.youtube.com/dlaciebietv">YouTube</a></li></ul>
-<p>COUNTRY</p>
-<ul><li>Poland</li></ul>
-<h2 class="shape-title field-label-above">Media</h2>
-<h2>
-  Wydawnictwo
-</h2>
-<p>Since 1991, Wydawnictwo GM sp. z o.o. is a Polish publisher of local newspapers.</p>
-<h2 class="shape-title field-label-above">Related projects</h2>
-<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-06/xvchhoih_400x400.jpg?itok=E3waglA4" width="800" height="350" alt="Wablieft" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Wablieft</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  Wablieft goes digital
-</h2>
-
-    
-      <div class="teaser"><p>MECHELEN - The Wablieft centre for clear language&nbsp;developed an online news channel with quality news for low-literature adults.</p></div>
-      
-  
-
-
-  <a href="/innovation/wablieft-goes-digital" class="stretched-link" aria-label="Read more on Wablieft goes digital">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2020-07/Apache%20Local.jpg?itok=87TuGFnR" width="800" height="350" alt="Apache Lokaal" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">© Apache.be</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  Apache Local
-</h2>
-
-    
-      <div class="teaser"><p>BORGERHOUT - Apache Local was a&nbsp;local journalism&nbsp;project in which news site Apache explored four themes with the help of local citizens and journalists.</p></div>
-      
-  
-
-
-  <a href="/innovation/apache-local" class="stretched-link" aria-label="Read more on Apache Local">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
-
-    
-  <div class="teaser-inner">
-          <div class="teaser__image">
-        
-  
-  <div class="media media--type-image media--view-mode-teaser image-wrapper">
-    
-    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2025-05/352973390_787779712884770_1325677378804067558_n.png?itok=l1BP7OLr" width="800" height="350" alt="reBaltica Logo" class="image-style-teaser">
-
-
-
-    
-      <div class="img-title">@ reBaltica</div>
-      
-  
-
-
-  </div>
-
-
-
-      </div>
-    
-          <div class="teaser__content">
-        
-  <h2>
-  Regional Voices: Reliable News Before Municipal Elections
-</h2>
-
-    
-      <div class="teaser"><p>RIGA - The project strengthened access to independent local journalism in three municipalities underserved by independent media — Riga, Daugavpils, and Rēzekne — during the pre-municipal election period. It reached young people, women, and Russian-speaking audiences with reliable political and investigative reporting ahead of the municipal elections. The project also strengthened direct connections between journalists and local communities, particularly in Daugavpils and Rēzekne.</p></div>
-      
-  
-
-
-  <a href="/regional-voices-reliable-news-municipal-elections" class="stretched-link" aria-label="Read more on Regional Voices: Reliable News Before Municipal Elections">Meer lezen</a>
-
-      </div>
-      </div>
-
-</article>
-
-</li></ul>
-<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
-<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
-<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
-<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
-            <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-09/PM4D_2025_087_HP_Image.jpg?itok=N7nYzSja" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
