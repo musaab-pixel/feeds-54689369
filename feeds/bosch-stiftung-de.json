@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "a5b42af49383d10ed215c684711867cc73951cf9c9016d026fb0d961151c58fc",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>derpeder</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-12T08:35:17+02:00\" title=\"Montag, 12 Oktober 2026 - 08:35\" class=\"datetime\">Mo. 12 Okt 2026 - 08:35</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-personalentwicklung-und-kompetenzmanagement-im-bereich-personal",
+            "title": "Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>derpeder</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-12T08:35:17+02:00\" title=\"Montag, 12 Oktober 2026 - 08:35\" class=\"datetime\">Mo. 12 Okt 2026 - 08:35</time>\n</span>\n",
+            "date_modified": "2026-10-12T06:35:17.000Z",
+            "author": {
+                "name": "derpeder"
+            }
+        },
+        {
             "id": "e77759104359adfdf6e969bc539e6f01e5a63409ee81023d203b2cad92085f05",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Für mehr Nachrichtenkompetenz in Baden-Württemberg: Pilotprojekt startet in Schwäbisch Gmünd</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T15:16:15+02:00\" title=\"Freitag, 9 Oktober 2026 - 15:16\" class=\"datetime\">Fr. 9 Okt 2026 - 15:16</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/fuer-mehr-nachrichtenkompetenz-baden-wuerttemberg-pilotprojekt-startet-schwaebisch-gmuend",
