@@ -5,6 +5,24 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "48fd49186528969f2401ea280f71f12851ee59cab60769728dc19ab73ddea036",
+            "content_html": "At least 139 migrants have died after their boat capsized off Djibouti, with a further 84 people still missing, the UN migration agency (IOM) said on Sunday.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168573",
+            "title": "Djibouti shipwreck: Death toll rises to 139 as 84 remain missing",
+            "summary": "At least 139 migrants have died after their boat capsized off Djibouti, with a further 84 people still missing, the UN migration agency (IOM) said on Sunday.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/02-07-2026-IOM-Djibouti-shipwrecked-04.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-11T12:00:00.000Z"
+        },
+        {
+            "id": "46ee2fe0635c6d70743a40a34d556d315ebdc369ca1a1fd4f64346f8819f8102",
+            "content_html": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
+            "title": "Sustaining livelihoods amid crisis in Gaza",
+            "summary": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/06-10-2026-UNDP-Gaza-04.jpeg/image560x340cropped.jpg",
+            "date_modified": "2026-10-11T12:00:00.000Z"
+        },
+        {
             "id": "55ad6457eedb147b498c580136156d7cd4d3deb5cd279c89d265a436557d2061",
             "content_html": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives,&nbsp;but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.&nbsp;",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168561",
