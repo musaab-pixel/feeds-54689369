@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"sdm.nl\" (type: native)",
     "items": [
         {
+            "id": "a217b62deb612d8f001b4efaa1d3aa2de999fc0a3f2bc6b5d81c8f41a6ba4ce6",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/opinie-big-tech-lijkt-almachtig-maar-wat-willen-we-zelf/\">Opinie: Big tech lijkt almachtig, maar wat willen we zelf?</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/opinie-big-tech-lijkt-almachtig-maar-wat-willen-we-zelf/",
+            "title": "Opinie: Big tech lijkt almachtig, maar wat willen we zelf?",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/opinie-big-tech-lijkt-almachtig-maar-wat-willen-we-zelf/\">Opinie: Big tech lijkt almachtig, maar wat willen we zelf?</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-10-12T12:13:34.000Z",
+            "author": {
+                "name": "Wout Vanzaale"
+            }
+        },
+        {
             "id": "55d8c78b3fad7d93573a86450c361ce2c6286a79c4e1d35509802cb76dc2d2e1",
             "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/praat-mee-hoe-zouden-media-er-volgens-jou-in-de-toekomst-uit-moeten-zien/\">Praat mee: Hoe zouden media er volgens jou in de toekomst uit moeten zien?</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
             "url": "https://sdm.nl/artikel/praat-mee-hoe-zouden-media-er-volgens-jou-in-de-toekomst-uit-moeten-zien/",
