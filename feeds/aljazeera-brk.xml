@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 09:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 09:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تسنيم: مسلحون يغتالون قائدة إحدى وحدات قوات التعبئة النسائية في مدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/239708</link>
+            <guid isPermaLink="false">6721bd10db2ad656951804e6209b8e00983ae8c868f77f6983e84f684101a923</guid>
+            <pubDate>Wed, 14 Oct 2026 09:37:01 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم: مسلحون يغتالون قائدة إحدى وحدات قوات التعبئة النسائية في مدينة مهرستان جنوب شرقي إيران]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم: مسلحون يغتالون قائدة إحدى وحدات قوات التعبئة النسائية في مدينة مهرستان جنوب شرقي إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بحرية الحرس الثوري الإيراني: غرق سفينة حاويات مخالفة إثر اصطدامها بلغم جنوب…]]></title>
             <link>https://t.me/aljazeeraBrk/239707</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 10 Oct 2026 17:05:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: انفجار بناقلة نفط عملاقة إثر اصطدامها بلغم أثناء محاولتها عبور مسار غير قانوني بهرمز]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: انفجار بناقلة نفط عملاقة إثر اصطدامها بلغم أثناء محاولتها عبور مسار غير قانوني بهرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية السعودية: ندعو مواطنينا ممن تأثروا بإيقاف رحلات إلى الرياض للتواصل مع…]]></title>
-            <link>https://t.me/aljazeeraBrk/239146</link>
-            <guid isPermaLink="false">4f286b8669dbb737e9c61c247b5b41972388241f9a007ed1a639ed823a456d37</guid>
-            <pubDate>Sat, 10 Oct 2026 16:58:02 GMT</pubDate>
-            <description><![CDATA[الخارجية السعودية: ندعو مواطنينا ممن تأثروا بإيقاف رحلات إلى الرياض للتواصل مع بعثاتنا بالخارج لطلب المساعدة]]></description>
-            <content:encoded><![CDATA[الخارجية السعودية: ندعو مواطنينا ممن تأثروا بإيقاف رحلات إلى الرياض للتواصل مع بعثاتنا بالخارج لطلب المساعدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
