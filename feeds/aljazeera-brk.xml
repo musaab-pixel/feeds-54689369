@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 20:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 20:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أكسيوس عن مسؤول أمريكي: لا علاقة لإدارة ترمب بقيود خدمات ستارلينك بأوكرانيا لكن…]]></title>
+            <link>https://t.me/aljazeeraBrk/239778</link>
+            <guid isPermaLink="false">9fe1aa6bccf9c88b2342253caa41462ff494289562bb4b43e575202de80bd686</guid>
+            <pubDate>Wed, 14 Oct 2026 20:39:02 GMT</pubDate>
+            <description><![CDATA[أكسيوس عن مسؤول أمريكي: لا علاقة لإدارة ترمب بقيود خدمات ستارلينك بأوكرانيا لكن الأوكرانيين ما زالوا يشككون]]></description>
+            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: لا علاقة لإدارة ترمب بقيود خدمات ستارلينك بأوكرانيا لكن الأوكرانيين ما زالوا يشككون]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: أجلينا أفراد طاقم القارب بأمان قبل تدميره ولا تزال…]]></title>
             <link>https://t.me/aljazeeraBrk/239777</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 12:43:02 GMT</pubDate>
             <description><![CDATA[الإسعاف الإسرائيلي: نواجه حادثا معقدا ونواصل تقديم العلاج للمصابين وإجلاءهم بسرعة إلى المستشفيات]]></description>
             <content:encoded><![CDATA[الإسعاف الإسرائيلي: نواجه حادثا معقدا ونواصل تقديم العلاج للمصابين وإجلاءهم بسرعة إلى المستشفيات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إذاعة الجيش الإسرائيلي: 20 مصابا في حادث الجليل حالة أحدهم حرجة واثنان في حالة…]]></title>
-            <link>https://t.me/aljazeeraBrk/239393</link>
-            <guid isPermaLink="false">b187be1aac4e48b41f905288cdf87c75e921d7e7a75ac128a7fd57fb1f9e704c</guid>
-            <pubDate>Mon, 12 Oct 2026 12:39:02 GMT</pubDate>
-            <description><![CDATA[إذاعة الجيش الإسرائيلي: 20 مصابا في حادث الجليل حالة أحدهم حرجة واثنان في حالة خطرة]]></description>
-            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: 20 مصابا في حادث الجليل حالة أحدهم حرجة واثنان في حالة خطرة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
