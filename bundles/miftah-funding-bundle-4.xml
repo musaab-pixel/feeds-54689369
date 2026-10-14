@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 4</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 4" (type: bundle)</description>
-        <lastBuildDate>Tue, 13 Oct 2026 02:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 08:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -54,6 +54,152 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/31_Erin-Morley-C-Chris-Gonz_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scholarships Diasporan Perspectives – Call for Papers This call invites research papers on Armenia’s transformation since 1988. Proposals may address the political system, power structures, decision-making, institutional cultures and the socio-economic factors connected with them. closes 31 Dec 2026 Open call]]></title>
+            <link>https://gulbenkian.pt/en/bolsas-lista/diasporan-perspectives-call-for-papers/</link>
+            <guid isPermaLink="false">eb6cb83f944520d41d678da7385648d8aa3911a88fa99ccc79ecce8edd8dd450</guid>
+            <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>In recent years, Armenia has been through a series of upheavals. The 2018 Velvet Revolution brought hope of change after years of stagnation. It was followed by the Second Karabakh War in 2020 and, in 2023, by Azerbaijan’s takeover of Nagorno-Karabakh and the departure of its entire Armenian population.</p>
+<p>After the 2020 war, a research project supported by the Foundation led to two publications on the conflict. This call widens that project’s scope to take stock of 35 years of independence, with research reaching back to the Karabakh Movement of 1988. It asks what structural problems lay behind the shocks of 2018, 2020 and 2023, whether the Velvet Revolution changed the country’s socio-economic structure, and how institutions and decision-making have evolved.</p>
+<p>The research covers three periods:</p>
+<ul class="list-format-bar">
+<li>the Soviet collapse and independence, including the transfer of power to a new political class and the mass privatisation of the economy;</li>
+<li>two decades of stabilisation and oligarchic rule, during which the state’s institutions and economic system took shape;</li>
+<li>the years since 2018, marked by revolution, war and uncertainty.</li>
+</ul>
+<p>Proposals may fall within four areas: political elites, structures and discourses; the state and its institutions; infrastructure; and future trends. The Call Conditions document lists 34 suggested topics. The list is indicative, and other topics are welcome.</p>
+<h2 class="fcg-section__title" id="conditions">
+			<span>Conditions</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Authors whose papers are accepted will receive a research grant of 2,000€. For joint proposals, the grant is divided among the authors.</p>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Proposals may be submitted by individual researchers, jointly, or by small research groups.</p>
+<p>Applications are made online and must include:</p>
+<ul class="list-format-bar">
+	<li>an abstract of up to 300 words;</li>
+	<li>a list of publications;</li>
+	<li>the CV of each applicant.</li>
+</ul>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>We only accept online applications.&nbsp;</li>
+	<li>You need to register before applying.&nbsp;</li>
+	<li>Please read the “Call Conditions” document available in the documents section above before applying.&nbsp;</li>
+	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded. &nbsp;</li>
+	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.&nbsp;</li>
+	<li>If you have any doubts about your application, please check our <a href="https://gulbenkian.pt/armenian-communities/how-to-apply/faq/">Frequently Asked Questions</a>&nbsp;</li>
+</ul>]]></description>
+            <content:encoded><![CDATA[<p>In recent years, Armenia has been through a series of upheavals. The 2018 Velvet Revolution brought hope of change after years of stagnation. It was followed by the Second Karabakh War in 2020 and, in 2023, by Azerbaijan’s takeover of Nagorno-Karabakh and the departure of its entire Armenian population.</p>
+<p>After the 2020 war, a research project supported by the Foundation led to two publications on the conflict. This call widens that project’s scope to take stock of 35 years of independence, with research reaching back to the Karabakh Movement of 1988. It asks what structural problems lay behind the shocks of 2018, 2020 and 2023, whether the Velvet Revolution changed the country’s socio-economic structure, and how institutions and decision-making have evolved.</p>
+<p>The research covers three periods:</p>
+<ul class="list-format-bar">
+<li>the Soviet collapse and independence, including the transfer of power to a new political class and the mass privatisation of the economy;</li>
+<li>two decades of stabilisation and oligarchic rule, during which the state’s institutions and economic system took shape;</li>
+<li>the years since 2018, marked by revolution, war and uncertainty.</li>
+</ul>
+<p>Proposals may fall within four areas: political elites, structures and discourses; the state and its institutions; infrastructure; and future trends. The Call Conditions document lists 34 suggested topics. The list is indicative, and other topics are welcome.</p>
+<h2 class="fcg-section__title" id="conditions">
+			<span>Conditions</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Authors whose papers are accepted will receive a research grant of 2,000€. For joint proposals, the grant is divided among the authors.</p>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Proposals may be submitted by individual researchers, jointly, or by small research groups.</p>
+<p>Applications are made online and must include:</p>
+<ul class="list-format-bar">
+	<li>an abstract of up to 300 words;</li>
+	<li>a list of publications;</li>
+	<li>the CV of each applicant.</li>
+</ul>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>We only accept online applications.&nbsp;</li>
+	<li>You need to register before applying.&nbsp;</li>
+	<li>Please read the “Call Conditions” document available in the documents section above before applying.&nbsp;</li>
+	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded. &nbsp;</li>
+	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.&nbsp;</li>
+	<li>If you have any doubts about your application, please check our <a href="https://gulbenkian.pt/armenian-communities/how-to-apply/faq/">Frequently Asked Questions</a>&nbsp;</li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The Nutcracker and I 21 Dec 2026 / 20:00]]></title>
@@ -1756,7 +1902,7 @@ Enter your email to get reminders about upcoming deadlines for Visegrad Fellowsh
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/21_Charlotte-Corderoy-C-Leanne-Punshon_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘Coisa-Ponta’, by Ana Rita Teodoro and Márcia Lança 21 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Performance ‘Coisa-Ponta’, by Ana Rita Teodoro and Márcia Lança 21 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/coisa-ponta-by-ana-rita-teodoro-and-marcia-lanca/</link>
             <guid isPermaLink="false">a2c761479fd81ba415fd7a6ffbb85353ca4c0fa3d9ce7153f06d02dea22f7373</guid>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
@@ -2476,7 +2622,7 @@ Enter your email to get reminders about upcoming deadlines for Visegrad Fellowsh
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2024/10/FCG-Salavisa-Web-1200x900-2-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Conference / Dance Idio Chichava + Salavisa European Dance Award Ceremony 17 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Idio Chichava + Salavisa European Dance Award Ceremony 17 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/idio-chichava-salavisa-european-dance-award-ceremony/</link>
             <guid isPermaLink="false">6ac932c760225ddca32313ff526f4ca1846ea156f302a186e8bb02259278147c</guid>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
@@ -2886,7 +3032,7 @@ Enter your email to get reminders about upcoming deadlines for V4 Gen Mini Grant
 </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Dance Shikama, by Dorothée Munyaneza 14 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Shikama, by Dorothée Munyaneza 14 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/dorothee-munyaneza/</link>
             <guid isPermaLink="false">c768f343df92b6a548f79345e11ea57d5cb66ef95fa31e64495380919754d87b</guid>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
@@ -4151,6 +4297,82 @@ Enter your email to get reminders about upcoming deadlines for Scholarship at th
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/16_Mariano-Chiacchiarini_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fashion Residency in Milan, Italy OPEN Deadline: October 25, 2026]]></title>
+            <link>https://www.visegradfund.org/fashion-residency-program-in-milan-apply</link>
+            <guid isPermaLink="false">716d9eb8adff1d67ff43b90e8da95f47cc9a85c6b744c866fb1a004e43049064</guid>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p class="max-w-xl text-base leading-relaxed" style="color: #ffffff;">Fashion Residency Program in Milan (IT) opens unique opportunities for professionals and researchers from the Visegrad countries from the field of fashion, design and related areas. An experience based in Milan, the heart of the fashion industry, for two months with the possibility of visits to Rome as well. Research and "live fashion" within the context of individual exploration supported by lectures and experiences with Accademia Costume &amp; Moda.</p>
+<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">At-a-Glance Criteria</h2>
+<ul class="mt-6 space-y-3 list-disc pl-5 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <li>Eligibility: Applicants V4 citizens, age 18+, good written/spoken English (Italian is a plus).</li><li>Applicants may come from fashion or non-fashion backgrounds and showing a clear interest in the Italian fashion supply chain.</li><li>Selection criteria: A creative approach demonstrated by previous work/projects plus residency plan, and a defined research proposal.</li><li>Timing: lasting June 1 – July 31 in Milan, Italy</li><li>Funding: €6,000 per artist to cover living expenses.</li> </ul>
+<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Guidelines &amp; Files</h2>
+<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Timeline</h2>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Sep 15, 2026 at 12:00 PM</span>: Call opens </p>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Oct 15, 2026 at 12:00 PM</span>: Final application deadline </p>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Dec 20, 2026 at 12:00 PM</span>: Results announced </p>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Jun 1, 2027 at 9:00 AM</span>: Project start </p>
+<p class="leading-relaxed "><a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://www.accademiacostumeemoda.it/en/accademia-costume-moda/" target="_blank" rel="noopener noreferrer"><strong>Accademia Costume &amp; Moda</strong></a>&nbsp;(ACM) has a long tradition in educating professionals in &nbsp;the areas of Fashion, Costume for the Performing Arts, Communication and Management. </p>
+<p class="leading-relaxed ">Founded in 1964 in Rome by Rosana Pistolese, costume and fashion historian, as well as costume designer for theater, television and cinema, and also fashion and costume writer and publicist.</p>
+<p class="leading-relaxed ">Thanks to the great talent and passion of its founder,&nbsp;<strong>Accademia has become</strong>&nbsp;over time&nbsp;<strong>a laboratory of ideas and research</strong>. An Italian&nbsp;prestigious private academy and cultural association<strong>&nbsp;that offers&nbsp;unique&nbsp;resources to carry out varied research within the wider scope of&nbsp;the&nbsp;fashion&nbsp;industry.</strong>  </p>
+<p class="leading-relaxed ">During the Fashion Residency in Milan, four selected professionals, with a background or an interest in the broad field of fashion,&nbsp;<strong>access to a campus studio</strong>&nbsp;designed for creative work, research and networking. Participant will receive&nbsp;<strong>individual as well as group&nbsp;guidance&nbsp;</strong>with lectures and discussions regarding topics such as Contemporary Art, Fashion History, Sociology, Understanding Contemporary Fashion, Portfolio Building and Communication, as well as others.</p>
+<p class="leading-relaxed ">Fashion Residents will get&nbsp;<strong>series of lectures</strong>&nbsp;about art &amp; fashion, fashion &amp; society, fashion fabrics history, knitwear history and industry overview, and special masterclass about fashion design &amp; production ethics too. They will also take part in&nbsp;<strong>planned visits</strong>&nbsp;to museums and cultural institutions as well as possible trade fairs. To enhance the research and educational support, access to&nbsp;<a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://lib.unibocconi.it/*eng" target="_blank" rel="noopener noreferrer"><strong>Luigi Bocconi Library</strong></a>&nbsp;is granted and a&nbsp;<strong>special excursion</strong>&nbsp;to the seat of AMC in Rome is included too.</p>
+<p class="leading-relaxed ">During the residency&nbsp;<strong>the main emphasis is on research projects</strong>. However, there is also a program aimed at enriching&nbsp;<strong>and supporting your experience</strong>. It is unique research practice involvement between the Accademia, museums, libraries, archives, industry initiatives and exhibitions. Together they create a rich tapestry of knowledge gathering, inspiration and in-depth research.</p>
+<p class="leading-relaxed ">Individuals who have a passion for fashion whether they are artists, designers or researchers are welcome although with no background in fashion design. The goal is to embrace diversity in applications and reach out to artists, digital artists, designers and communicators interested in understanding the Italian Fashion System and Supply Chain.</p>
+<p class="leading-relaxed ">Join an unique opportunity that combines peer learning with an experience during Fashion residency in Milan!</p>
+<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">The applicant/s must be&nbsp;<strong>citizen from V4</strong>&nbsp;country.</li><li class="mb-2 last:mb-0">The applicants must be&nbsp;<strong>at least 18</strong>&nbsp;years old.</li><li class="mb-2 last:mb-0">Good knowledge of&nbsp;<strong>English</strong>&nbsp;language both&nbsp;<strong>spoken and written</strong>&nbsp;is required (Italian language is an advantage).</li><li class="mb-2 last:mb-0">The main&nbsp;<strong>criteria for selection&nbsp;</strong>of the Fashion Residents include a professional approach towards creative work documented by previous work/projects and residency plans presented by the applicants in the application form.</li><li class="mb-2 last:mb-0">The residency&nbsp;<strong>period is 2 months</strong>&nbsp;and lasts from&nbsp;<strong>June 1st to July 31st</strong>.</li><li class="mb-2 last:mb-0">The amount of support for each artist is<strong>&nbsp;6,000 EUR&nbsp;</strong>and&nbsp;is intended to cover living expenses, including accommodation, meals, transportation, and other routine expenses associated with the residency program recipient's stay.</li></ul>
+<p class="leading-relaxed ">This residency program is incomparable as it doesn't follow the format of a degree program. Instead, it <strong>offers a learning experience focused on research</strong>. When applying it's essential to present a defined research proposal that showcases your ideas from your own perspective. The ACM will actively support research endeavors providing residents with feedback before their final presentation.</p>
+<p class="leading-relaxed ">Technical problems with online application and other questions should be addressed to Project Manager <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="mailto:marcina@visegradfund.org">Martin Marciňa.</a></p>
+<p class="leading-relaxed ">How to apply?</p>
+<p class="leading-relaxed ">The application form must be submitted via <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="http://my.visegradfund.org/" target="_blank" rel="noopener noreferrer">My Visegrad</a> by <strong>October&nbsp;15</strong>&nbsp;at&nbsp;<strong>12.00 PM (noon)</strong>.</p>
+<p class="leading-relaxed ">The online application system opens at noon on September 15.</p>
+<p class="leading-relaxed ">Your application must include the following enclosures:</p>
+<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">Copy of your ID or passport</li><li class="mb-2 last:mb-0">Your CV and motivation letter (including your project plan) </li><li class="mb-2 last:mb-0">Artistic portfolio (file or link to artist´s website)</li></ul>
+<p class="leading-relaxed ">Applicants are selected on the basis of their previous work documented in personal portfolio, structured curriculum vitae (CV), motivation letter and a project plan.</p>
+<h3 class="text-[24px] md:text-[32px] font-bold leading-[100%] mb-6 lg:mb-8">Explore more</h3>
+<h3 class="text-3xl font-bold">Do you have questions?</h3>
+<p class="mt-4 text-base leading-relaxed">
+Check our Frequently Asked Questions for answers about this opportunity.
+</p>
+<h2 class="text-2xl lg:text-4xl font-bold leading-tight">Get informed on time – Don't miss the next call!</h2>
+<p class="mt-6 text-lg leading-snug opacity-90">
+Enter your email to get reminders about upcoming deadlines for Fashion Residency in Milan, Italy.
+</p>]]></description>
+            <content:encoded><![CDATA[<p class="max-w-xl text-base leading-relaxed" style="color: #ffffff;">Fashion Residency Program in Milan (IT) opens unique opportunities for professionals and researchers from the Visegrad countries from the field of fashion, design and related areas. An experience based in Milan, the heart of the fashion industry, for two months with the possibility of visits to Rome as well. Research and "live fashion" within the context of individual exploration supported by lectures and experiences with Accademia Costume &amp; Moda.</p>
+<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">At-a-Glance Criteria</h2>
+<ul class="mt-6 space-y-3 list-disc pl-5 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <li>Eligibility: Applicants V4 citizens, age 18+, good written/spoken English (Italian is a plus).</li><li>Applicants may come from fashion or non-fashion backgrounds and showing a clear interest in the Italian fashion supply chain.</li><li>Selection criteria: A creative approach demonstrated by previous work/projects plus residency plan, and a defined research proposal.</li><li>Timing: lasting June 1 – July 31 in Milan, Italy</li><li>Funding: €6,000 per artist to cover living expenses.</li> </ul>
+<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Guidelines &amp; Files</h2>
+<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Timeline</h2>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Sep 15, 2026 at 12:00 PM</span>: Call opens </p>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Oct 15, 2026 at 12:00 PM</span>: Final application deadline </p>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Dec 20, 2026 at 12:00 PM</span>: Results announced </p>
+<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Jun 1, 2027 at 9:00 AM</span>: Project start </p>
+<p class="leading-relaxed "><a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://www.accademiacostumeemoda.it/en/accademia-costume-moda/" target="_blank" rel="noopener noreferrer"><strong>Accademia Costume &amp; Moda</strong></a>&nbsp;(ACM) has a long tradition in educating professionals in &nbsp;the areas of Fashion, Costume for the Performing Arts, Communication and Management. </p>
+<p class="leading-relaxed ">Founded in 1964 in Rome by Rosana Pistolese, costume and fashion historian, as well as costume designer for theater, television and cinema, and also fashion and costume writer and publicist.</p>
+<p class="leading-relaxed ">Thanks to the great talent and passion of its founder,&nbsp;<strong>Accademia has become</strong>&nbsp;over time&nbsp;<strong>a laboratory of ideas and research</strong>. An Italian&nbsp;prestigious private academy and cultural association<strong>&nbsp;that offers&nbsp;unique&nbsp;resources to carry out varied research within the wider scope of&nbsp;the&nbsp;fashion&nbsp;industry.</strong>  </p>
+<p class="leading-relaxed ">During the Fashion Residency in Milan, four selected professionals, with a background or an interest in the broad field of fashion,&nbsp;<strong>access to a campus studio</strong>&nbsp;designed for creative work, research and networking. Participant will receive&nbsp;<strong>individual as well as group&nbsp;guidance&nbsp;</strong>with lectures and discussions regarding topics such as Contemporary Art, Fashion History, Sociology, Understanding Contemporary Fashion, Portfolio Building and Communication, as well as others.</p>
+<p class="leading-relaxed ">Fashion Residents will get&nbsp;<strong>series of lectures</strong>&nbsp;about art &amp; fashion, fashion &amp; society, fashion fabrics history, knitwear history and industry overview, and special masterclass about fashion design &amp; production ethics too. They will also take part in&nbsp;<strong>planned visits</strong>&nbsp;to museums and cultural institutions as well as possible trade fairs. To enhance the research and educational support, access to&nbsp;<a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://lib.unibocconi.it/*eng" target="_blank" rel="noopener noreferrer"><strong>Luigi Bocconi Library</strong></a>&nbsp;is granted and a&nbsp;<strong>special excursion</strong>&nbsp;to the seat of AMC in Rome is included too.</p>
+<p class="leading-relaxed ">During the residency&nbsp;<strong>the main emphasis is on research projects</strong>. However, there is also a program aimed at enriching&nbsp;<strong>and supporting your experience</strong>. It is unique research practice involvement between the Accademia, museums, libraries, archives, industry initiatives and exhibitions. Together they create a rich tapestry of knowledge gathering, inspiration and in-depth research.</p>
+<p class="leading-relaxed ">Individuals who have a passion for fashion whether they are artists, designers or researchers are welcome although with no background in fashion design. The goal is to embrace diversity in applications and reach out to artists, digital artists, designers and communicators interested in understanding the Italian Fashion System and Supply Chain.</p>
+<p class="leading-relaxed ">Join an unique opportunity that combines peer learning with an experience during Fashion residency in Milan!</p>
+<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">The applicant/s must be&nbsp;<strong>citizen from V4</strong>&nbsp;country.</li><li class="mb-2 last:mb-0">The applicants must be&nbsp;<strong>at least 18</strong>&nbsp;years old.</li><li class="mb-2 last:mb-0">Good knowledge of&nbsp;<strong>English</strong>&nbsp;language both&nbsp;<strong>spoken and written</strong>&nbsp;is required (Italian language is an advantage).</li><li class="mb-2 last:mb-0">The main&nbsp;<strong>criteria for selection&nbsp;</strong>of the Fashion Residents include a professional approach towards creative work documented by previous work/projects and residency plans presented by the applicants in the application form.</li><li class="mb-2 last:mb-0">The residency&nbsp;<strong>period is 2 months</strong>&nbsp;and lasts from&nbsp;<strong>June 1st to July 31st</strong>.</li><li class="mb-2 last:mb-0">The amount of support for each artist is<strong>&nbsp;6,000 EUR&nbsp;</strong>and&nbsp;is intended to cover living expenses, including accommodation, meals, transportation, and other routine expenses associated with the residency program recipient's stay.</li></ul>
+<p class="leading-relaxed ">This residency program is incomparable as it doesn't follow the format of a degree program. Instead, it <strong>offers a learning experience focused on research</strong>. When applying it's essential to present a defined research proposal that showcases your ideas from your own perspective. The ACM will actively support research endeavors providing residents with feedback before their final presentation.</p>
+<p class="leading-relaxed ">Technical problems with online application and other questions should be addressed to Project Manager <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="mailto:marcina@visegradfund.org">Martin Marciňa.</a></p>
+<p class="leading-relaxed ">How to apply?</p>
+<p class="leading-relaxed ">The application form must be submitted via <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="http://my.visegradfund.org/" target="_blank" rel="noopener noreferrer">My Visegrad</a> by <strong>October&nbsp;15</strong>&nbsp;at&nbsp;<strong>12.00 PM (noon)</strong>.</p>
+<p class="leading-relaxed ">The online application system opens at noon on September 15.</p>
+<p class="leading-relaxed ">Your application must include the following enclosures:</p>
+<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">Copy of your ID or passport</li><li class="mb-2 last:mb-0">Your CV and motivation letter (including your project plan) </li><li class="mb-2 last:mb-0">Artistic portfolio (file or link to artist´s website)</li></ul>
+<p class="leading-relaxed ">Applicants are selected on the basis of their previous work documented in personal portfolio, structured curriculum vitae (CV), motivation letter and a project plan.</p>
+<h3 class="text-[24px] md:text-[32px] font-bold leading-[100%] mb-6 lg:mb-8">Explore more</h3>
+<h3 class="text-3xl font-bold">Do you have questions?</h3>
+<p class="mt-4 text-base leading-relaxed">
+Check our Frequently Asked Questions for answers about this opportunity.
+</p>
+<h2 class="text-2xl lg:text-4xl font-bold leading-tight">Get informed on time – Don't miss the next call!</h2>
+<p class="mt-6 text-lg leading-snug opacity-90">
+Enter your email to get reminders about upcoming deadlines for Fashion Residency in Milan, Italy.
+</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Performance Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/jonathan-uliel-saldanha-axiom-casino-2/</link>
             <guid isPermaLink="false">f444d8f38fc88ba8a47afd2787fd704c71790f1984986be19d36fc8d2e10e83a</guid>
@@ -4406,7 +4628,7 @@ Enter your email to get reminders about upcoming deadlines for Scholarship at th
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/07/AXIOM-CASINO-_-Photo-Jorge-Quintela-_-01-1-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
+            <title><![CDATA[Performance Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/jonathan-uliel-saldanha-axiom-casino/</link>
             <guid isPermaLink="false">624865a2c40e34cc672126587d7230bec62369f1315e6c74efbe1d85d2df1149</guid>
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
@@ -5365,7 +5587,7 @@ In 2019 Martina Batič received the Slovenian national prize “Prešeren Fund A
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/09/Thomas-Quasthoff-e-AmatisTrio_4x3_2-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Transmission Macbeth 17 Oct 2026 / 18:00]]></title>
+            <title><![CDATA[Macbeth 17 Oct 2026 / 18:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/macbeth/</link>
             <guid isPermaLink="false">91e706a4fb5e24363a0cf52892f970404db6d7d27597fe75dd8b50f1817a1c8f</guid>
             <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
@@ -5864,7 +6086,7 @@ Ryan Speedo Green</p>
 <p>For more information, please check our <a href="https://gulbenkian.pt/gias/frequently-asked-questions/">FAQ</a>.&nbsp; Other queries, please write to <a href="/cdn-cgi/l/email-protection#d7b0beb6a497b0a2bbb5b2b9bcbeb6b9f9a7a3"><span class="__cf_email__" data-cfemail="e88f81899ba88f9d848a8d8683818986c6989c">[email&nbsp;protected]</span></a>.&nbsp;&nbsp;</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Concert Brahms' Symphony No. 2 15 Oct 2026 / 20:00]]></title>
+            <title><![CDATA[Brahms' Symphony No. 2 15 Oct 2026 / 20:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/brahms-symphony-no-2/</link>
             <guid isPermaLink="false">f99b37ac6849fc85629ab65655217418a9e950e6dd5bc2a4b2e5702fbb561f8e</guid>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
@@ -6155,82 +6377,6 @@ Enter your email to get reminders about upcoming deadlines for Visual Artist Res
 </p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Fashion Residency in Milan, Italy OPEN Deadline: October 15, 2026]]></title>
-            <link>https://www.visegradfund.org/fashion-residency-program-in-milan-apply</link>
-            <guid isPermaLink="false">716d9eb8adff1d67ff43b90e8da95f47cc9a85c6b744c866fb1a004e43049064</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p class="max-w-xl text-base leading-relaxed" style="color: #ffffff;">Fashion Residency Program in Milan (IT) opens unique opportunities for professionals and researchers from the Visegrad countries from the field of fashion, design and related areas. An experience based in Milan, the heart of the fashion industry, for two months with the possibility of visits to Rome as well. Research and "live fashion" within the context of individual exploration supported by lectures and experiences with Accademia Costume &amp; Moda.</p>
-<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">At-a-Glance Criteria</h2>
-<ul class="mt-6 space-y-3 list-disc pl-5 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <li>Eligibility: Applicants V4 citizens, age 18+, good written/spoken English (Italian is a plus).</li><li>Applicants may come from fashion or non-fashion backgrounds and showing a clear interest in the Italian fashion supply chain.</li><li>Selection criteria: A creative approach demonstrated by previous work/projects plus residency plan, and a defined research proposal.</li><li>Timing: lasting June 1 – July 31 in Milan, Italy</li><li>Funding: €6,000 per artist to cover living expenses.</li> </ul>
-<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Guidelines &amp; Files</h2>
-<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Timeline</h2>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Sep 15, 2026 at 12:00 PM</span>: Call opens </p>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Oct 15, 2026 at 12:00 PM</span>: Final application deadline </p>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Dec 20, 2026 at 12:00 PM</span>: Results announced </p>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Jun 1, 2027 at 9:00 AM</span>: Project start </p>
-<p class="leading-relaxed "><a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://www.accademiacostumeemoda.it/en/accademia-costume-moda/" target="_blank" rel="noopener noreferrer"><strong>Accademia Costume &amp; Moda</strong></a>&nbsp;(ACM) has a long tradition in educating professionals in &nbsp;the areas of Fashion, Costume for the Performing Arts, Communication and Management. </p>
-<p class="leading-relaxed ">Founded in 1964 in Rome by Rosana Pistolese, costume and fashion historian, as well as costume designer for theater, television and cinema, and also fashion and costume writer and publicist.</p>
-<p class="leading-relaxed ">Thanks to the great talent and passion of its founder,&nbsp;<strong>Accademia has become</strong>&nbsp;over time&nbsp;<strong>a laboratory of ideas and research</strong>. An Italian&nbsp;prestigious private academy and cultural association<strong>&nbsp;that offers&nbsp;unique&nbsp;resources to carry out varied research within the wider scope of&nbsp;the&nbsp;fashion&nbsp;industry.</strong>  </p>
-<p class="leading-relaxed ">During the Fashion Residency in Milan, four selected professionals, with a background or an interest in the broad field of fashion,&nbsp;<strong>access to a campus studio</strong>&nbsp;designed for creative work, research and networking. Participant will receive&nbsp;<strong>individual as well as group&nbsp;guidance&nbsp;</strong>with lectures and discussions regarding topics such as Contemporary Art, Fashion History, Sociology, Understanding Contemporary Fashion, Portfolio Building and Communication, as well as others.</p>
-<p class="leading-relaxed ">Fashion Residents will get&nbsp;<strong>series of lectures</strong>&nbsp;about art &amp; fashion, fashion &amp; society, fashion fabrics history, knitwear history and industry overview, and special masterclass about fashion design &amp; production ethics too. They will also take part in&nbsp;<strong>planned visits</strong>&nbsp;to museums and cultural institutions as well as possible trade fairs. To enhance the research and educational support, access to&nbsp;<a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://lib.unibocconi.it/*eng" target="_blank" rel="noopener noreferrer"><strong>Luigi Bocconi Library</strong></a>&nbsp;is granted and a&nbsp;<strong>special excursion</strong>&nbsp;to the seat of AMC in Rome is included too.</p>
-<p class="leading-relaxed ">During the residency&nbsp;<strong>the main emphasis is on research projects</strong>. However, there is also a program aimed at enriching&nbsp;<strong>and supporting your experience</strong>. It is unique research practice involvement between the Accademia, museums, libraries, archives, industry initiatives and exhibitions. Together they create a rich tapestry of knowledge gathering, inspiration and in-depth research.</p>
-<p class="leading-relaxed ">Individuals who have a passion for fashion whether they are artists, designers or researchers are welcome although with no background in fashion design. The goal is to embrace diversity in applications and reach out to artists, digital artists, designers and communicators interested in understanding the Italian Fashion System and Supply Chain.</p>
-<p class="leading-relaxed ">Join an unique opportunity that combines peer learning with an experience during Fashion residency in Milan!</p>
-<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">The applicant/s must be&nbsp;<strong>citizen from V4</strong>&nbsp;country.</li><li class="mb-2 last:mb-0">The applicants must be&nbsp;<strong>at least 18</strong>&nbsp;years old.</li><li class="mb-2 last:mb-0">Good knowledge of&nbsp;<strong>English</strong>&nbsp;language both&nbsp;<strong>spoken and written</strong>&nbsp;is required (Italian language is an advantage).</li><li class="mb-2 last:mb-0">The main&nbsp;<strong>criteria for selection&nbsp;</strong>of the Fashion Residents include a professional approach towards creative work documented by previous work/projects and residency plans presented by the applicants in the application form.</li><li class="mb-2 last:mb-0">The residency&nbsp;<strong>period is 2 months</strong>&nbsp;and lasts from&nbsp;<strong>June 1st to July 31st</strong>.</li><li class="mb-2 last:mb-0">The amount of support for each artist is<strong>&nbsp;6,000 EUR&nbsp;</strong>and&nbsp;is intended to cover living expenses, including accommodation, meals, transportation, and other routine expenses associated with the residency program recipient's stay.</li></ul>
-<p class="leading-relaxed ">This residency program is incomparable as it doesn't follow the format of a degree program. Instead, it <strong>offers a learning experience focused on research</strong>. When applying it's essential to present a defined research proposal that showcases your ideas from your own perspective. The ACM will actively support research endeavors providing residents with feedback before their final presentation.</p>
-<p class="leading-relaxed ">Technical problems with online application and other questions should be addressed to Project Manager <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="mailto:marcina@visegradfund.org">Martin Marciňa.</a></p>
-<p class="leading-relaxed ">How to apply?</p>
-<p class="leading-relaxed ">The application form must be submitted via <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="http://my.visegradfund.org/" target="_blank" rel="noopener noreferrer">My Visegrad</a> by <strong>October&nbsp;15</strong>&nbsp;at&nbsp;<strong>12.00 PM (noon)</strong>.</p>
-<p class="leading-relaxed ">The online application system opens at noon on September 15.</p>
-<p class="leading-relaxed ">Your application must include the following enclosures:</p>
-<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">Copy of your ID or passport</li><li class="mb-2 last:mb-0">Your CV and motivation letter (including your project plan) </li><li class="mb-2 last:mb-0">Artistic portfolio (file or link to artist´s website)</li></ul>
-<p class="leading-relaxed ">Applicants are selected on the basis of their previous work documented in personal portfolio, structured curriculum vitae (CV), motivation letter and a project plan.</p>
-<h3 class="text-[24px] md:text-[32px] font-bold leading-[100%] mb-6 lg:mb-8">Explore more</h3>
-<h3 class="text-3xl font-bold">Do you have questions?</h3>
-<p class="mt-4 text-base leading-relaxed">
-Check our Frequently Asked Questions for answers about this opportunity.
-</p>
-<h2 class="text-2xl lg:text-4xl font-bold leading-tight">Get informed on time – Don't miss the next call!</h2>
-<p class="mt-6 text-lg leading-snug opacity-90">
-Enter your email to get reminders about upcoming deadlines for Fashion Residency in Milan, Italy.
-</p>]]></description>
-            <content:encoded><![CDATA[<p class="max-w-xl text-base leading-relaxed" style="color: #ffffff;">Fashion Residency Program in Milan (IT) opens unique opportunities for professionals and researchers from the Visegrad countries from the field of fashion, design and related areas. An experience based in Milan, the heart of the fashion industry, for two months with the possibility of visits to Rome as well. Research and "live fashion" within the context of individual exploration supported by lectures and experiences with Accademia Costume &amp; Moda.</p>
-<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">At-a-Glance Criteria</h2>
-<ul class="mt-6 space-y-3 list-disc pl-5 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <li>Eligibility: Applicants V4 citizens, age 18+, good written/spoken English (Italian is a plus).</li><li>Applicants may come from fashion or non-fashion backgrounds and showing a clear interest in the Italian fashion supply chain.</li><li>Selection criteria: A creative approach demonstrated by previous work/projects plus residency plan, and a defined research proposal.</li><li>Timing: lasting June 1 – July 31 in Milan, Italy</li><li>Funding: €6,000 per artist to cover living expenses.</li> </ul>
-<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Guidelines &amp; Files</h2>
-<h2 class="text-2xl font-bold leading-snug" style="color: var(--color-secondary-purple);">Timeline</h2>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Sep 15, 2026 at 12:00 PM</span>: Call opens </p>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Oct 15, 2026 at 12:00 PM</span>: Final application deadline </p>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Dec 20, 2026 at 12:00 PM</span>: Results announced </p>
-<p class="relative pl-6 py-3 text-base leading-relaxed" style="color: var(--color-secondary-purple);"> <span aria-hidden="true" class="pointer-events-none absolute left-2 top-1/2 h-3 w-3 -translate-x-1/2 -translate-y-1/2 rounded-full" style="background-color: var(--color-secondary-purple);"></span> <span class="font-bold">Jun 1, 2027 at 9:00 AM</span>: Project start </p>
-<p class="leading-relaxed "><a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://www.accademiacostumeemoda.it/en/accademia-costume-moda/" target="_blank" rel="noopener noreferrer"><strong>Accademia Costume &amp; Moda</strong></a>&nbsp;(ACM) has a long tradition in educating professionals in &nbsp;the areas of Fashion, Costume for the Performing Arts, Communication and Management. </p>
-<p class="leading-relaxed ">Founded in 1964 in Rome by Rosana Pistolese, costume and fashion historian, as well as costume designer for theater, television and cinema, and also fashion and costume writer and publicist.</p>
-<p class="leading-relaxed ">Thanks to the great talent and passion of its founder,&nbsp;<strong>Accademia has become</strong>&nbsp;over time&nbsp;<strong>a laboratory of ideas and research</strong>. An Italian&nbsp;prestigious private academy and cultural association<strong>&nbsp;that offers&nbsp;unique&nbsp;resources to carry out varied research within the wider scope of&nbsp;the&nbsp;fashion&nbsp;industry.</strong>  </p>
-<p class="leading-relaxed ">During the Fashion Residency in Milan, four selected professionals, with a background or an interest in the broad field of fashion,&nbsp;<strong>access to a campus studio</strong>&nbsp;designed for creative work, research and networking. Participant will receive&nbsp;<strong>individual as well as group&nbsp;guidance&nbsp;</strong>with lectures and discussions regarding topics such as Contemporary Art, Fashion History, Sociology, Understanding Contemporary Fashion, Portfolio Building and Communication, as well as others.</p>
-<p class="leading-relaxed ">Fashion Residents will get&nbsp;<strong>series of lectures</strong>&nbsp;about art &amp; fashion, fashion &amp; society, fashion fabrics history, knitwear history and industry overview, and special masterclass about fashion design &amp; production ethics too. They will also take part in&nbsp;<strong>planned visits</strong>&nbsp;to museums and cultural institutions as well as possible trade fairs. To enhance the research and educational support, access to&nbsp;<a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="https://lib.unibocconi.it/*eng" target="_blank" rel="noopener noreferrer"><strong>Luigi Bocconi Library</strong></a>&nbsp;is granted and a&nbsp;<strong>special excursion</strong>&nbsp;to the seat of AMC in Rome is included too.</p>
-<p class="leading-relaxed ">During the residency&nbsp;<strong>the main emphasis is on research projects</strong>. However, there is also a program aimed at enriching&nbsp;<strong>and supporting your experience</strong>. It is unique research practice involvement between the Accademia, museums, libraries, archives, industry initiatives and exhibitions. Together they create a rich tapestry of knowledge gathering, inspiration and in-depth research.</p>
-<p class="leading-relaxed ">Individuals who have a passion for fashion whether they are artists, designers or researchers are welcome although with no background in fashion design. The goal is to embrace diversity in applications and reach out to artists, digital artists, designers and communicators interested in understanding the Italian Fashion System and Supply Chain.</p>
-<p class="leading-relaxed ">Join an unique opportunity that combines peer learning with an experience during Fashion residency in Milan!</p>
-<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">The applicant/s must be&nbsp;<strong>citizen from V4</strong>&nbsp;country.</li><li class="mb-2 last:mb-0">The applicants must be&nbsp;<strong>at least 18</strong>&nbsp;years old.</li><li class="mb-2 last:mb-0">Good knowledge of&nbsp;<strong>English</strong>&nbsp;language both&nbsp;<strong>spoken and written</strong>&nbsp;is required (Italian language is an advantage).</li><li class="mb-2 last:mb-0">The main&nbsp;<strong>criteria for selection&nbsp;</strong>of the Fashion Residents include a professional approach towards creative work documented by previous work/projects and residency plans presented by the applicants in the application form.</li><li class="mb-2 last:mb-0">The residency&nbsp;<strong>period is 2 months</strong>&nbsp;and lasts from&nbsp;<strong>June 1st to July 31st</strong>.</li><li class="mb-2 last:mb-0">The amount of support for each artist is<strong>&nbsp;6,000 EUR&nbsp;</strong>and&nbsp;is intended to cover living expenses, including accommodation, meals, transportation, and other routine expenses associated with the residency program recipient's stay.</li></ul>
-<p class="leading-relaxed ">This residency program is incomparable as it doesn't follow the format of a degree program. Instead, it <strong>offers a learning experience focused on research</strong>. When applying it's essential to present a defined research proposal that showcases your ideas from your own perspective. The ACM will actively support research endeavors providing residents with feedback before their final presentation.</p>
-<p class="leading-relaxed ">Technical problems with online application and other questions should be addressed to Project Manager <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="mailto:marcina@visegradfund.org">Martin Marciňa.</a></p>
-<p class="leading-relaxed ">How to apply?</p>
-<p class="leading-relaxed ">The application form must be submitted via <a class="underline font-bold" style="text-decoration-color: var(--rt-accent, var(--color-brand-dark))" href="http://my.visegradfund.org/" target="_blank" rel="noopener noreferrer">My Visegrad</a> by <strong>October&nbsp;15</strong>&nbsp;at&nbsp;<strong>12.00 PM (noon)</strong>.</p>
-<p class="leading-relaxed ">The online application system opens at noon on September 15.</p>
-<p class="leading-relaxed ">Your application must include the following enclosures:</p>
-<ul class="ml-6 list-disc"><li class="mb-2 last:mb-0">Copy of your ID or passport</li><li class="mb-2 last:mb-0">Your CV and motivation letter (including your project plan) </li><li class="mb-2 last:mb-0">Artistic portfolio (file or link to artist´s website)</li></ul>
-<p class="leading-relaxed ">Applicants are selected on the basis of their previous work documented in personal portfolio, structured curriculum vitae (CV), motivation letter and a project plan.</p>
-<h3 class="text-[24px] md:text-[32px] font-bold leading-[100%] mb-6 lg:mb-8">Explore more</h3>
-<h3 class="text-3xl font-bold">Do you have questions?</h3>
-<p class="mt-4 text-base leading-relaxed">
-Check our Frequently Asked Questions for answers about this opportunity.
-</p>
-<h2 class="text-2xl lg:text-4xl font-bold leading-tight">Get informed on time – Don't miss the next call!</h2>
-<p class="mt-6 text-lg leading-snug opacity-90">
-Enter your email to get reminders about upcoming deadlines for Fashion Residency in Milan, Italy.
-</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Performing Artist Residency OPEN Deadline: October 15, 2026]]></title>
             <link>https://www.visegradfund.org/performing-artist-residency-apply</link>
             <guid isPermaLink="false">e7705c0deae3e51299b48229a9c1bbd0ede9dbc2c6147f636361c8f36c77e3cb</guid>
@@ -6293,6 +6439,668 @@ Check our Frequently Asked Questions for answers about this opportunity.
 <p class="mt-6 text-lg leading-snug opacity-90">
 Enter your email to get reminders about upcoming deadlines for Performing Artist Residency.
 </p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Meer lezen]]></title>
+            <link>https://journalismfund.eu/dirty-adriatic</link>
+            <guid isPermaLink="false">c30e4b57bcd911018a3df129133e9586d12fd609e6f77ee8a29b50547cfbec01</guid>
+            <pubDate>Wed, 14 Oct 2026 08:58:15 GMT</pubDate>
+            <description><![CDATA[<p>CROATIA / ITALY - This investigation looks at how beaches in Italy and Croatia continue to receive the prestigious Blue Flag certification despite persistent failures to comply with EU wastewater treatment standards. </p>
+<p>Every summer, the Blue Flag tells beachgoers that a beach meets strict environmental standards, and one of the scheme’s criteria is that urban wastewater is properly treated. Yet Italy is among the worst performers in the European Union under the Urban Waste Water Treatment Directive. The EU Court of Justice has condemned it repeatedly, and it paid more than €210 million in penalties by the end of 2024. Croatia, on the other side of the Adriatic, is also still far from compliance. The Dirty Adriatic asks how the two are able to coexist: how can a certification that guarantees clean water be awarded along coastlines where the public record says wastewater is not properly collected or treated?</p>
+<p>The investigation compares official record systems that normally never meet. These are the countries’ own reporting to the European Union on wastewater collection and treatment, the Blue Flag lists and awarding rules, rulings by the EU Court of Justice, and independent bathing-water sampling. It then follows the money and the paperwork behind the certification: who pays for it, with which public funds, and which documents municipalities submit to obtain it. The story comes at a turning point. From 27 September 2026, EU Directive 2024/825 on green claims tightens the rules on sustainability labels and environmental claims presented to consumers.</p>
+<p>Methodologically, the team rebuilt Italy’s national submissions under the directive across several reporting cycles and linked them spatially to Blue Flag sites. The findings show inconsistencies and overlaps between official sources, not causal claims. They are backed by around twenty freedom-of-information requests to municipalities, regions, and environmental agencies, municipal administrative records, and field reporting on the Italian and Croatian coasts.</p>
+<h3 class="field-label-above">Themes</h3>
+<ul class="list">
+            <li><a href="/taxonomy/term/894" hreflang="en">Environment</a></li>
+      
+      </ul>
+<h3 class="field-label-above">Publication</h3>
+<p>ONLINE</p>
+<ul><li><a href="https://www.editorialedomani.it/fatti/spiagge-bandiere-blu-procedure-inchiesta-requisiti-depuratore-punti-assegnazione-fee-iy3ybdun" target="_blank">Spiagge Bandiere Blu, il mistero delle procedure e le anomalie nella selezione dei luoghi</a>, Domani, 12/10/2026</li></ul>
+<h2 class="shape-title field-label-above">Team members</h2>
+<h2>
+  Sebastian Viskanic
+</h2>
+<p>Sebastian Viskanic is a creative media professional, journalist and filmmaker based in Rome.</p>
+<h2>
+  Jelena Prtorić
+</h2>
+<p>Jelena Prtorić is a Croatian freelance journalist based in Berlin.</p>
+<h2>
+  Filippo Poltronieri
+</h2>
+<p>Filippo Poltronieri is a journalist and videomaker based in Rome.</p>
+<h2 class="shape-title field-label-above">Related projects</h2>
+<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2022-04/varna_lake_christina_anna_orieschnig.png?itok=lvOld_XS" width="800" height="350" alt="Varna Lake" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Christina Anna Orieschnig</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Varna's Hazardous Seafood Exports Throughout Europe
+</h2>
+
+    
+      <div class="teaser"><p>VARNA - Improper management of a wastewater treatment pipe in the Varna lake has led to repeated toxic leaks since 2019.&nbsp;</p></div>
+      
+  
+
+
+  <a href="/varnas-hazardous-seafood-exports-throughout-europe" class="stretched-link" aria-label="Read more on Varna's Hazardous Seafood Exports Throughout Europe">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2023-09/cbl-2023-054_sp_image.jpg?itok=lJPp6Lvk" width="800" height="350" alt="Dimitar Micev" title="Dimitar Micev" class="image-style-teaser">
+
+
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  The Disappearance of Prespa Lake
+</h2>
+
+    
+      <div class="teaser"><p>PRESPA LAKE – Prespa lake in North Macedonia is considered even older than the "official" oldest lake in Europe, Ohrid Lake. And it is under threat.</p></div>
+      
+  
+
+
+  <a href="/disappearance-prespa-lake" class="stretched-link" aria-label="Read more on The Disappearance of Prespa Lake">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-03/ecb-2021-756_sp_image.jpg?itok=wpYK1Hnt" width="800" height="350" alt="RISE Project" title="RISE Project" class="image-style-teaser">
+
+
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Dirty Money for Clean Rivers
+</h2>
+
+    
+      <div class="teaser"><p>BUCHAREST - For almost 9 years, Romania has been criticised and monitored by the European Commission for allowing the large-scale destruction of several mountain rivers for the purpose of building micro-hydropower plants, without complying with the Water Framework and Habitats Directives.</p></div>
+      
+  
+
+
+  <a href="/dirty-money-clean-rivers" class="stretched-link" aria-label="Read more on Dirty Money for Clean Rivers">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li></ul>
+<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
+<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
+<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
+<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></description>
+            <content:encoded><![CDATA[<p>CROATIA / ITALY - This investigation looks at how beaches in Italy and Croatia continue to receive the prestigious Blue Flag certification despite persistent failures to comply with EU wastewater treatment standards. </p>
+<p>Every summer, the Blue Flag tells beachgoers that a beach meets strict environmental standards, and one of the scheme’s criteria is that urban wastewater is properly treated. Yet Italy is among the worst performers in the European Union under the Urban Waste Water Treatment Directive. The EU Court of Justice has condemned it repeatedly, and it paid more than €210 million in penalties by the end of 2024. Croatia, on the other side of the Adriatic, is also still far from compliance. The Dirty Adriatic asks how the two are able to coexist: how can a certification that guarantees clean water be awarded along coastlines where the public record says wastewater is not properly collected or treated?</p>
+<p>The investigation compares official record systems that normally never meet. These are the countries’ own reporting to the European Union on wastewater collection and treatment, the Blue Flag lists and awarding rules, rulings by the EU Court of Justice, and independent bathing-water sampling. It then follows the money and the paperwork behind the certification: who pays for it, with which public funds, and which documents municipalities submit to obtain it. The story comes at a turning point. From 27 September 2026, EU Directive 2024/825 on green claims tightens the rules on sustainability labels and environmental claims presented to consumers.</p>
+<p>Methodologically, the team rebuilt Italy’s national submissions under the directive across several reporting cycles and linked them spatially to Blue Flag sites. The findings show inconsistencies and overlaps between official sources, not causal claims. They are backed by around twenty freedom-of-information requests to municipalities, regions, and environmental agencies, municipal administrative records, and field reporting on the Italian and Croatian coasts.</p>
+<h3 class="field-label-above">Themes</h3>
+<ul class="list">
+            <li><a href="/taxonomy/term/894" hreflang="en">Environment</a></li>
+      
+      </ul>
+<h3 class="field-label-above">Publication</h3>
+<p>ONLINE</p>
+<ul><li><a href="https://www.editorialedomani.it/fatti/spiagge-bandiere-blu-procedure-inchiesta-requisiti-depuratore-punti-assegnazione-fee-iy3ybdun" target="_blank">Spiagge Bandiere Blu, il mistero delle procedure e le anomalie nella selezione dei luoghi</a>, Domani, 12/10/2026</li></ul>
+<h2 class="shape-title field-label-above">Team members</h2>
+<h2>
+  Sebastian Viskanic
+</h2>
+<p>Sebastian Viskanic is a creative media professional, journalist and filmmaker based in Rome.</p>
+<h2>
+  Jelena Prtorić
+</h2>
+<p>Jelena Prtorić is a Croatian freelance journalist based in Berlin.</p>
+<h2>
+  Filippo Poltronieri
+</h2>
+<p>Filippo Poltronieri is a journalist and videomaker based in Rome.</p>
+<h2 class="shape-title field-label-above">Related projects</h2>
+<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2022-04/varna_lake_christina_anna_orieschnig.png?itok=lvOld_XS" width="800" height="350" alt="Varna Lake" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Christina Anna Orieschnig</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Varna's Hazardous Seafood Exports Throughout Europe
+</h2>
+
+    
+      <div class="teaser"><p>VARNA - Improper management of a wastewater treatment pipe in the Varna lake has led to repeated toxic leaks since 2019.&nbsp;</p></div>
+      
+  
+
+
+  <a href="/varnas-hazardous-seafood-exports-throughout-europe" class="stretched-link" aria-label="Read more on Varna's Hazardous Seafood Exports Throughout Europe">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2023-09/cbl-2023-054_sp_image.jpg?itok=lJPp6Lvk" width="800" height="350" alt="Dimitar Micev" title="Dimitar Micev" class="image-style-teaser">
+
+
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  The Disappearance of Prespa Lake
+</h2>
+
+    
+      <div class="teaser"><p>PRESPA LAKE – Prespa lake in North Macedonia is considered even older than the "official" oldest lake in Europe, Ohrid Lake. And it is under threat.</p></div>
+      
+  
+
+
+  <a href="/disappearance-prespa-lake" class="stretched-link" aria-label="Read more on The Disappearance of Prespa Lake">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2024-03/ecb-2021-756_sp_image.jpg?itok=wpYK1Hnt" width="800" height="350" alt="RISE Project" title="RISE Project" class="image-style-teaser">
+
+
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Dirty Money for Clean Rivers
+</h2>
+
+    
+      <div class="teaser"><p>BUCHAREST - For almost 9 years, Romania has been criticised and monitored by the European Commission for allowing the large-scale destruction of several mountain rivers for the purpose of building micro-hydropower plants, without complying with the Water Framework and Habitats Directives.</p></div>
+      
+  
+
+
+  <a href="/dirty-money-clean-rivers" class="stretched-link" aria-label="Read more on Dirty Money for Clean Rivers">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li></ul>
+<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
+<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
+<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
+<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
+            <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-10/ECB_2025_PLUPRO_1329_HP_Image.jpg?itok=4nDLY7no" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meer lezen]]></title>
+            <link>https://journalismfund.eu/suspended-lives</link>
+            <guid isPermaLink="false">06cd5040d2843ce7eb6f5da9efdbc9f0b6e9a196ce58e5ba12dcec01ed38b86b</guid>
+            <pubDate>Wed, 14 Oct 2026 08:58:15 GMT</pubDate>
+            <description><![CDATA[<p>MILAN / WARSAW / KYIV - How Europe's exceptional welcome of 2022 turned into years of permanent uncertainty, exposing the cracks of a reception system that expects people in need to accept whatever they are offered.</p>
+<p>The arrival of millions of Ukrainians in 2022 is remembered as a unique act of European solidarity, and it was one. For the first time, temporary protection was activated, and people fleeing the war received legal status, the right to work, healthcare and freedom of movement almost overnight. In Italy, around 170,000 people found shelter, mostly in the homes of relatives, the long-established Ukrainian community and Italian families who opened their doors within days. In Poland, a country more used to sending people abroad than receiving them, an emergency law gave refugees equal access to healthcare and child benefits, and civil society took in hundreds of thousands of people. </p>
+<p>This story also has a darker side. More than four years later, the emergency has not ended, and protection that was meant to be temporary has become a permanent state of uncertainty. Permits are still renewed one year at a time, now up to March 2028. Every extension or legal change arrives late and unpredictably, and none of these years count towards a lasting status. Many refugees, for their part, still live with a suspended migration project. They did not choose to leave, they see their stay as a pause, and they put off learning the language or planning a future, because giving up on return feels like a surrender.</p>
+<p><strong>Key Findings</strong></p>
+<ul><li>Prolonged temporariness has shown what happens when a status built for a short emergency is stretched over years. Every renewal puts access to healthcare, family benefits and housing at risk, and every announced legal change sends people rushing to offices to secure their rights. Bureaucracy creates closed circles. Without a registered address there is no ID, without ID there is no bank account, and without a bank account a person with a job cannot be paid. Welfare and social housing schemes require permits or years of residence that a one-year status can never provide. The new routes to longer-term permits reward those with stable contracts and leave the elderly, carers and single mothers behind. As collective accommodation closes, some people fall into homelessness, including men sent back from other EU countries.</li><li>The assumption that people who arrive in need, and who are foreigners, should accept whatever they are offered. The investigation found it at every step. Many people end up in informal sublets, and some are asked by agents for upfront fees. Landlords demand deposits worth several months of rent, hang up when they hear a foreign accent, or blame a whole nationality for one tenant's damage. Doctors, engineers and pharmacists clean houses because recognising a diploma is costly and slow. Some employers expect gratitude and silence instead of fair pay. Those who ask questions or claim their rights are quickly labelled demanding. The Ukrainian experience makes visible a mindset that weighs on everyone who depends on the reception system.</li><li>Scattered across both countries, there are also examples of good integration. They tend to appear where the local community plays an active part and where a Ukrainian community was already present: parishes, local associations, Caritas networks, diaspora organisations and families who stayed by people's side for years. Most households have at least one member in regular work, and many have rebuilt a fragile stability. These successes, however, depend on goodwill rather than on the system. Volunteer support faded within one or two years, public attention dropped, and in both countries political tensions, sensationalist media and disinformation eroded the early solidarity. The system keeps confirming and perpetuating the mechanisms that weigh on refugees' future and on their mental health. Living from one deadline to the next creates constant anxiety. People cannot plan six months ahead, and many spend years in reception facilities, losing hope without gaining a plan. Families are split by conscription rules, and some parents have not seen their children for years. Many grieve the professional identity they built at home. Everyday hostility, online attacks and a silence that keeps most victims from reporting abuse add fear to uncertainty.</li></ul>
+<p><strong>Methodology</strong></p>
+<p>The project brings together a team working in Italy, Poland and Ukraine and uses the same method in both host countries. For more than six months, the team conducted in-depth interviews with researchers, reception coordinators, social workers, cultural mediators, housing specialists, civic activists and psychologists, and gathered personal testimonies separately from refugees of different ages and backgrounds. In Italy, fieldwork covered Lombardy, Veneto and Trentino. In Poland, interviews were combined with a mystery-call investigation of the rental market in six cities. The research was also enriched by a conversation with project advisor <a href="https://www.linkedin.com/in/nellija-locmele-13905523/" target="_blank">Nellija Locmele</a>, who provided an additional perspective on the issues explored. Interviews with Ukrainian and European experts on migration policy, return prospects and integration indicators frame both national cases.</p>
+<h3 class="field-label-above">Themes</h3>
+<ul class="list">
+            <li><a href="/taxonomy/term/910" hreflang="en">Armed conflict</a></li>
+      <li><a href="/taxonomy/term/435" hreflang="en">Migration</a></li>
+      <li><a href="/taxonomy/term/909" hreflang="en">Social affairs</a></li>
+      
+      </ul>
+<h3 class="field-label-above">Publication</h3>
+<p>ONLINE</p>
+<ul><li><a href="https://www.balcanicaucaso.org/cp_article/le-vite-sospese-dei-rifugiati-ucraini-in-europa/" target="_blank">Le vite sospese dei rifugiati ucraini in Europa</a>, OBCT, 08/10/2026<br> </li></ul>
+<p><em>More to come</em></p>
+<p>COUNTRIES</p>
+<ul><li>Italy</li><li>Ukraine</li><li>Poland</li></ul>
+<h2 class="shape-title field-label-above">Team members</h2>
+<h2>
+  Sofia Nazarenko
+</h2>
+<p>Sofia Nazarenko is a journalist, TV presenter, and political analyst based in Kyiv.</p>
+<h2>
+  Marta Abbà
+</h2>
+<p>Marta Abbà is an investigative journalists based in Milan.</p>
+<h2>
+  Artur Koldomasov
+</h2>
+<p>Artur Koldomasov is an analyst, researcher, and activist based in Warsaw.</p>
+<h2 class="shape-title field-label-above">Related projects</h2>
+<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2022-10/cbl_2022_010_photo.jpeg?itok=zBkXfb8F" width="800" height="350" alt="1990, the yard of the first school in Ochamchira - Malkhazi with his classmates" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Kirill Tigay</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  War Through The Eyes Of Children. The Ukrainian-Georgian Experience
+</h2>
+
+    
+      <div class="teaser"><p>ZUGDIDI - As a result of the ongoing conflict in 1992-93, Zugdidi hosted the largest number of IDPs, the material prepared within the framework of the project is based on the personal memories of some of them.</p></div>
+      
+  
+
+
+  <a href="/war-through-the-eyes-of-children" class="stretched-link" aria-label="Read more on War Through The Eyes Of Children. The Ukrainian-Georgian Experience">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2023-05/cbl-2022-023_sp_image.jpg?itok=dSe9nNRx" width="800" height="350" alt="Asylum seekers at a demonstration outside Belgium's asylum reception centre 'the little castle' Brussels, Belgium February 2023" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">©Thomson Reuters Foundation/ Joanna Gill</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Open Doors and Barbed Wire: Europe's Asylum Paradox
+</h2>
+
+    
+      <div class="teaser"><p>BRUSSELS - A team of reporters have investigated the impact of the first-ever application of the Temporary Protection Directive (TPD) by the EU to Ukrainian refugees.</p></div>
+      
+  
+
+
+  <a href="/europes-asylum-paradox" class="stretched-link" aria-label="Read more on Open Doors and Barbed Wire: Europe's Asylum Paradox">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/donbass3b.png?itok=_J2sIgmr" width="800" height="350" alt="Empty factory" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Irina Gorbasyova (Ukraine)</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  The Donbass Paradox
+</h2>
+
+    
+      <div class="teaser"><p>DONETSK - Russian-backed separatists have plundered the rebel-held regions in Ukraine's industrial heartland, creating an economy characterised by fear, hypocrisy and contradiction. How has business transformed since the rebels took control of Ukraine's east?</p></div>
+      
+  
+
+
+  <a href="/donbass-paradox" class="stretched-link" aria-label="Read more on The Donbass Paradox">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li></ul>
+<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
+<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
+<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
+<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></description>
+            <content:encoded><![CDATA[<p>MILAN / WARSAW / KYIV - How Europe's exceptional welcome of 2022 turned into years of permanent uncertainty, exposing the cracks of a reception system that expects people in need to accept whatever they are offered.</p>
+<p>The arrival of millions of Ukrainians in 2022 is remembered as a unique act of European solidarity, and it was one. For the first time, temporary protection was activated, and people fleeing the war received legal status, the right to work, healthcare and freedom of movement almost overnight. In Italy, around 170,000 people found shelter, mostly in the homes of relatives, the long-established Ukrainian community and Italian families who opened their doors within days. In Poland, a country more used to sending people abroad than receiving them, an emergency law gave refugees equal access to healthcare and child benefits, and civil society took in hundreds of thousands of people. </p>
+<p>This story also has a darker side. More than four years later, the emergency has not ended, and protection that was meant to be temporary has become a permanent state of uncertainty. Permits are still renewed one year at a time, now up to March 2028. Every extension or legal change arrives late and unpredictably, and none of these years count towards a lasting status. Many refugees, for their part, still live with a suspended migration project. They did not choose to leave, they see their stay as a pause, and they put off learning the language or planning a future, because giving up on return feels like a surrender.</p>
+<p><strong>Key Findings</strong></p>
+<ul><li>Prolonged temporariness has shown what happens when a status built for a short emergency is stretched over years. Every renewal puts access to healthcare, family benefits and housing at risk, and every announced legal change sends people rushing to offices to secure their rights. Bureaucracy creates closed circles. Without a registered address there is no ID, without ID there is no bank account, and without a bank account a person with a job cannot be paid. Welfare and social housing schemes require permits or years of residence that a one-year status can never provide. The new routes to longer-term permits reward those with stable contracts and leave the elderly, carers and single mothers behind. As collective accommodation closes, some people fall into homelessness, including men sent back from other EU countries.</li><li>The assumption that people who arrive in need, and who are foreigners, should accept whatever they are offered. The investigation found it at every step. Many people end up in informal sublets, and some are asked by agents for upfront fees. Landlords demand deposits worth several months of rent, hang up when they hear a foreign accent, or blame a whole nationality for one tenant's damage. Doctors, engineers and pharmacists clean houses because recognising a diploma is costly and slow. Some employers expect gratitude and silence instead of fair pay. Those who ask questions or claim their rights are quickly labelled demanding. The Ukrainian experience makes visible a mindset that weighs on everyone who depends on the reception system.</li><li>Scattered across both countries, there are also examples of good integration. They tend to appear where the local community plays an active part and where a Ukrainian community was already present: parishes, local associations, Caritas networks, diaspora organisations and families who stayed by people's side for years. Most households have at least one member in regular work, and many have rebuilt a fragile stability. These successes, however, depend on goodwill rather than on the system. Volunteer support faded within one or two years, public attention dropped, and in both countries political tensions, sensationalist media and disinformation eroded the early solidarity. The system keeps confirming and perpetuating the mechanisms that weigh on refugees' future and on their mental health. Living from one deadline to the next creates constant anxiety. People cannot plan six months ahead, and many spend years in reception facilities, losing hope without gaining a plan. Families are split by conscription rules, and some parents have not seen their children for years. Many grieve the professional identity they built at home. Everyday hostility, online attacks and a silence that keeps most victims from reporting abuse add fear to uncertainty.</li></ul>
+<p><strong>Methodology</strong></p>
+<p>The project brings together a team working in Italy, Poland and Ukraine and uses the same method in both host countries. For more than six months, the team conducted in-depth interviews with researchers, reception coordinators, social workers, cultural mediators, housing specialists, civic activists and psychologists, and gathered personal testimonies separately from refugees of different ages and backgrounds. In Italy, fieldwork covered Lombardy, Veneto and Trentino. In Poland, interviews were combined with a mystery-call investigation of the rental market in six cities. The research was also enriched by a conversation with project advisor <a href="https://www.linkedin.com/in/nellija-locmele-13905523/" target="_blank">Nellija Locmele</a>, who provided an additional perspective on the issues explored. Interviews with Ukrainian and European experts on migration policy, return prospects and integration indicators frame both national cases.</p>
+<h3 class="field-label-above">Themes</h3>
+<ul class="list">
+            <li><a href="/taxonomy/term/910" hreflang="en">Armed conflict</a></li>
+      <li><a href="/taxonomy/term/435" hreflang="en">Migration</a></li>
+      <li><a href="/taxonomy/term/909" hreflang="en">Social affairs</a></li>
+      
+      </ul>
+<h3 class="field-label-above">Publication</h3>
+<p>ONLINE</p>
+<ul><li><a href="https://www.balcanicaucaso.org/cp_article/le-vite-sospese-dei-rifugiati-ucraini-in-europa/" target="_blank">Le vite sospese dei rifugiati ucraini in Europa</a>, OBCT, 08/10/2026<br> </li></ul>
+<p><em>More to come</em></p>
+<p>COUNTRIES</p>
+<ul><li>Italy</li><li>Ukraine</li><li>Poland</li></ul>
+<h2 class="shape-title field-label-above">Team members</h2>
+<h2>
+  Sofia Nazarenko
+</h2>
+<p>Sofia Nazarenko is a journalist, TV presenter, and political analyst based in Kyiv.</p>
+<h2>
+  Marta Abbà
+</h2>
+<p>Marta Abbà is an investigative journalists based in Milan.</p>
+<h2>
+  Artur Koldomasov
+</h2>
+<p>Artur Koldomasov is an analyst, researcher, and activist based in Warsaw.</p>
+<h2 class="shape-title field-label-above">Related projects</h2>
+<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2022-10/cbl_2022_010_photo.jpeg?itok=zBkXfb8F" width="800" height="350" alt="1990, the yard of the first school in Ochamchira - Malkhazi with his classmates" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Kirill Tigay</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  War Through The Eyes Of Children. The Ukrainian-Georgian Experience
+</h2>
+
+    
+      <div class="teaser"><p>ZUGDIDI - As a result of the ongoing conflict in 1992-93, Zugdidi hosted the largest number of IDPs, the material prepared within the framework of the project is based on the personal memories of some of them.</p></div>
+      
+  
+
+
+  <a href="/war-through-the-eyes-of-children" class="stretched-link" aria-label="Read more on War Through The Eyes Of Children. The Ukrainian-Georgian Experience">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2023-05/cbl-2022-023_sp_image.jpg?itok=dSe9nNRx" width="800" height="350" alt="Asylum seekers at a demonstration outside Belgium's asylum reception centre 'the little castle' Brussels, Belgium February 2023" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">©Thomson Reuters Foundation/ Joanna Gill</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Open Doors and Barbed Wire: Europe's Asylum Paradox
+</h2>
+
+    
+      <div class="teaser"><p>BRUSSELS - A team of reporters have investigated the impact of the first-ever application of the Temporary Protection Directive (TPD) by the EU to Ukrainian refugees.</p></div>
+      
+  
+
+
+  <a href="/europes-asylum-paradox" class="stretched-link" aria-label="Read more on Open Doors and Barbed Wire: Europe's Asylum Paradox">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/donbass3b.png?itok=_J2sIgmr" width="800" height="350" alt="Empty factory" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Irina Gorbasyova (Ukraine)</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  The Donbass Paradox
+</h2>
+
+    
+      <div class="teaser"><p>DONETSK - Russian-backed separatists have plundered the rebel-held regions in Ukraine's industrial heartland, creating an economy characterised by fear, hypocrisy and contradiction. How has business transformed since the rebels took control of Ukraine's east?</p></div>
+      
+  
+
+
+  <a href="/donbass-paradox" class="stretched-link" aria-label="Read more on The Donbass Paradox">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li></ul>
+<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
+<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
+<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
+<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
+            <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-10/ECB_2025_PLUPRO_1217_HP_Image_0.jpg?itok=irdm5Ozg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Film Guardians of Our Natural Heritage 12 Oct 2026 / 17:30]]></title>
@@ -13297,882 +14105,6 @@ Enter your email to get reminders about upcoming deadlines for Visegrad–Taiwan
             <guid isPermaLink="false">a3e7b49f7285c340dbd6429cbce02c691ebe8d3acb58d76e4f8edd17d5692d6f</guid>
             <pubDate>Fri, 18 Sep 2026 15:05:27 GMT</pubDate>
             <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/rainbow%20p.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Cooperation Town, a Sustainable Future programme grant holder]]></title>
-            <link>https://www.jrct.org.uk/cooperation-town</link>
-            <guid isPermaLink="false">87554e4300bd6af4ed5cc8431506e203eec286035a16dc0b9ab5667901f0e4a9</guid>
-            <pubDate>Fri, 18 Sep 2026 15:05:27 GMT</pubDate>
-            <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/cooperation%20twon%20ehader.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Grants Gulbenkian Energy Communities Supporting renewable energy community projects in Portugal that empower citizens to play an active role in the energy transition. closes 16 Sep 2026 Open call]]></title>
-            <link>https://gulbenkian.pt/en/bolsas-lista/gulbenkian-energy-communities/</link>
-            <guid isPermaLink="false">e621a08bafd3ad9239c852e3dc01f773f38fec3ed1ef7658a2460e701026e4ec</guid>
-            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Since Portugal introduced its first legal framework for collective self-consumption of renewable energy in 2019, community-led renewable energy initiatives driven by citizens, associations and local authorities have gradually begun to emerge.</p>
-<p>Although Renewable Energy Communities (RECs) offer significant environmental, economic and social benefits, fewer than ten are currently operating in Portugal. RECs enable citizens to come together to generate, share, consume and store renewable energy, creating value both for their members and for the communities in which they operate.</p>
-<p>In response to the absence of dedicated public funding for citizen-led Renewable Energy Communities, the Gulbenkian Foundation has partnered with Coopérnico – Sustainable Development Cooperative to support civil society organisations working alongside citizens, local authorities and other local stakeholders.</p>
-<p>The initiative seeks to address some of the key barriers to establishing Renewable Energy Communities, including the upfront investment required to launch projects, limited technical capacity within local organisations and communities, and low levels of energy literacy among citizens.</p>
-<p>Through this call, the Gulbenkian Foundation expects to fund 10 projects, with grants of up to €30,000 each.</p>
-<h2>Objectives</h2>
-<p>Grant funding will be awarded to projects that contribute to:</p>
-<ul class="list-format-bar">
-<li>expanding decentralised renewable energy generation and local energy use;</li>
-<li>strengthening the involvement of local authorities, community organisations and cooperatives in community energy initiatives;</li>
-<li>promoting collective action through participatory governance models;</li>
-<li>increasing the participation of economically vulnerable citizens and households;</li>
-<li>encouraging Renewable Energy Communities in rural and low-density areas, while promoting greater territorial diversity;</li>
-<li>fostering diversity and representation in project leadership and coordination.</li>
-</ul>
-<h2>Application process</h2>
-<p>The call for proposals will take place in two stages.</p>
-<ul class="list-format-bar">
-<li>In the first stage, between 14 July and 16 September 2026, applicants are invited to submit an Expression of Interest outlining their proposal to establish a Renewable Energy Community, assessed on the basis of the proposed project and the profile of the lead organisation. The 20 highest-ranked applications will progress to the second stage.</li>
-<li>In the second stage, between 19 and 30 October, the organisations behind the 20 shortlisted proposals will take part in a two-week online capacity-building programme. Following this programme, and based on the development of the proposals, 10 finalist projects will be selected to receive grant funding from the Gulbenkian Foundation.</li>
-</ul>
-<h2>Webinar</h2>
-<p>A <a href="https://gulbenkian.pt/en/agenda/gulbenkian-energy-communities-webinar/">webinar to present the call and answer questions</a> will take place on 21 July, from 17:30 to 18:30, with prior registration required, including an open Q&amp;A session.</p>
-<h2 class="fcg-section__title" id="conditions">
-			<span>Conditions</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>Grants are available only to legal entities established and registered in Portugal.</li>
-	<li>The amount awarded to each project will be determined during the final selection process and will not exceed €30,000.</li>
-	<li>Eligible costs include: administrative expenses associated with establishing a Renewable Energy Community; licensing procedures; the purchase and installation of renewable energy generation equipment for collective self-consumption and local energy sharing.</li>
-</ul>
-<h2 class="fcg-section__title" id="eligibility">
-			<span>Eligibility</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>Applications are open to locally based, non-profit legal entities registered in Portugal.</p>
-<p>This call is intended to support Renewable Energy Communities at an early stage of development. Therefore, at the time of application, organisations must not have a licensing application pending or already approved by the Directorate-General for Energy and Geology in Portugal; or have received funding from any public or private organisation for projects relating to Renewable Energy Communities or collective self-consumption.</p>
-<h2 class="fcg-section__title" id="how-to-apply">
-			<span>How to Apply</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>Only applications submitted online will be accepted;</li>
-	<li>Register at &nbsp;<a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2F">MyGulbenkian</a>;</li>
-	<li>Before submitting your application form, check all the eligibility criteria and be sure to read the Call Conditions (available in the documents section);</li>
-	<li>Applications may only be submitted once all the mandatory fields of the form have been completed and the documents required under the Call Conditions have been uploaded;</li>
-	<li>Don’t forget to click “submit application”. Try not to submit your application in the last few days leading up to the deadline to avoid any unforeseen last minute problems.</li>
-</ul>
-<h2 class="fcg-section__title" id="faq">
-			<span>Faq</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="who-can-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Who can apply?				</h4>
-<p>This call is open to civil society organisations that represent citizens' interests, are actively engaged with their local communities, and are committed to playing an active role in the energy transition through democratic participation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-members-of-a-renewable-energy-community-need-to-be-located-within-the-same-parish-or-municipality">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Do members of a Renewable Energy Community need to be located within the same parish or municipality?				</h4>
-<p>No. Under Portuguese legislation, members do not need to be located within the same parish or municipality. However, they must be located within 2 km of the renewable energy generation system (or 4 km in low-density areas), or be connected to the same electricity substation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-informal-group-of-citizens-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an informal group of citizens apply?				</h4>
-<p>No. The Gulbenkian Foundation provides grants only to legally established non-profit organisations. An informal group of citizens may partner with an eligible organisation whose statutory objectives are aligned with this call, but it cannot receive funding directly from the Foundation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-municipality-or-parish-council-apply-what-about-a-local-energy-agency-or-another-municipal-body">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a municipality or parish council apply? What about a local energy agency or another municipal body?				</h4>
-<p>No. This call is intended to support citizen-led Renewable Energy Communities (RECs), meaning communities led by organisations representing groups of citizens, such as associations or cooperatives.</p>
-<p>Municipalities, Parish Councils, local energy agencies and other municipal bodies may participate as project partners, but they cannot lead, manage or submit an application.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="is-a-recently-established-association-cooperative-foundation-or-other-non-profit-organisation-eligible">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Is a recently established association, cooperative, foundation or other non-profit organisation eligible?				</h4>
-<p>Yes.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-submit-more-than-one-application">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an organisation submit more than one application?				</h4>
-<p>No. Each organisation may submit only one application.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-partnerships-required">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Are partnerships required?				</h4>
-<p>No. However, partnerships formally confirmed through Letters of Support submitted with the application may strengthen the quality and feasibility of the proposal.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-project-partners-required-to-make-a-financial-contribution">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Are project partners required to make a financial contribution?				</h4>
-<p>No. Partners may contribute in other ways, for example by making rooftops or other suitable spaces available for the installation of photovoltaic panels.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-research-centre-established-as-a-non-profit-private-legal-entity-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a research centre established as a non-profit private legal entity apply?				</h4>
-<p>No. This call is not intended to fund research projects.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-projects-involve-partnerships-with-for-profit-organisations">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can projects involve partnerships with for-profit organisations?				</h4>
-<p>Yes. Projects may include local businesses or service providers with a relevant role in the community, provided that their participation falls within the scope of their corporate social responsibility activities rather than constituting a commercial service.</p>
-<p>These organisations cannot become the sole owners of the project assets. Ownership must be shared.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="will-certain-territories-be-given-priority">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Will certain territories be given priority?				</h4>
-<p>Yes. Preference will be given to applications from low-density areas or territories facing greater social, economic or environmental vulnerabilities. Applicants should explain and justify these circumstances in their proposal.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-that-is-already-receiving-funding-from-the-gulbenkian-foundation-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an organisation that is already receiving funding from the Gulbenkian Foundation apply?				</h4>
-<p>Yes. However, priority will be given to organisations that have never received, or are not currently receiving, funding from the Foundation. Projects that are already being funded by another public or private organisation will not be eligible for support.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-the-grant-be-used-to-recruit-staff">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can the grant be used to recruit staff?				</h4>
-<p>No.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-are-the-requirements-for-successful-applicants">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-What are the requirements for successful applicants?				</h4>
-<p>In addition to managing the grant in accordance with the Foundation's funding rules, successful applicants must participate in all activities organised as part of this initiative, including the capacity-building programme delivered by Coopérnico.</p>
-<p>They will also be required to submit a progress report after the start of the project and a final report, using templates provided by the Foundation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="will-there-be-an-information-session">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Will there be an information session?				</h4>
-<p>Yes. A <a href="https://gulbenkian.pt/en/agenda/gulbenkian-energy-communities-webinar/">free online webinar</a> will take place on 21 July 2026, from 17:30 to 18:30 (Lisbon time).&nbsp;</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-national-or-regional-organisation-submit-a-project-with-a-local-focus">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a national or regional organisation submit a project with a local focus?				</h4>
-<p>Yes, provided that the proposal clearly demonstrates its local relevance.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-project-partners-be-changed-after-the-application-has-been-approved">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can project partners be changed after the application has been approved?				</h4>
-<p>Yes, provided that the change does not compromise the objectives or successful implementation of the project.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-the-future-members-of-the-renewable-energy-community-need-to-be-identified-in-the-application">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Do the future members of the Renewable Energy Community need to be identified in the application?				</h4>
-<p>Applicants should identify the prospective members of the Renewable Energy Community.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-with-no-previous-experience-in-the-energy-sector-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an organisation with no previous experience in the energy sector apply?				</h4>
-<p>Yes. This call is intended for organisations that consume electricity, not for organisations already operating in the energy sector.</p>
-<p>Should the project be selected, the organisation will need to amend its statutes in order to establish a Renewable Energy Community. The costs associated with this process are eligible for funding under the grant.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-organisations-based-in-the-autonomous-regions-of-the-azores-and-madeira-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can organisations based in the Autonomous Regions of the Azores and Madeira apply?				</h4>
-<p>Yes. Organisations based in the Autonomous Regions are fully eligible to apply.</p>
-<p>The only difference concerns the competent licensing authority. In mainland Portugal, the registration, prior control and licensing of Renewable Energy Communities are carried out by the Directorate-General for Energy and Geology (DGEG). In the Autonomous Regions, these responsibilities lie with the Regional Directorate for Energy (DRE) in the Azores and the Regional Directorate for Energy and Climate Change (or Regional Directorate for Energy) in Madeira.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-is-meant-by-vulnerable-citizens-or-households-for-the-purposes-of-this-call">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-What is meant by "vulnerable citizens or households" for the purposes of this call?				</h4>
-<p>For the purposes of this call, vulnerable citizens or households are those experiencing financial hardship and at risk of energy poverty, as demonstrated by their eligibility for, or receipt of, the Social Electricity Tariff or the Social Natural Gas Tariff.</p>
-<p>The aim is to support households for whom energy costs represent a significant financial burden and who stand to benefit most from the cost savings associated with participation in a Renewable Energy Community.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="does-an-rec-have-to-be-based-on-photovoltaic-solar-energy">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Does an REC have to be based on photovoltaic solar energy?				</h4>
-<p>No. A Renewable Energy Community (REC) may choose other renewable energy generation systems. However, within the scope of this call, only solar photovoltaic generation systems will be considered, as they are currently the most cost-effective technology and the quickest to license and install.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-condominium-residential-building-or-multi-family-building-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a condominium (residential building or multi-family building) apply?				</h4>
-<p>No. A condominium is not eligible because it does not constitute a formally established civil society organization.</p>
-<h2 class="fcg-section__title" id="contacts">
-			<span>Contacts</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>Questions about this call should be sent to: <a href="/cdn-cgi/l/email-protection#86f5f3f5f2e3e8f2e7e4efeaefe2e7e2e3c6e1f3eae4e3e8edefe7e8a8f6f2"><span class="__cf_email__" data-cfemail="7b080e080f1e150f1a191217121f1a1f1e3b1c0e17191e1510121a15550b0f">[email&nbsp;protected]</span></a>.</p>
-<p>Before contacting us, please read the Call Conditions carefully and consult the Frequently Asked Questions, as your query may already be answered there.</p>]]></description>
-            <content:encoded><![CDATA[<p>Since Portugal introduced its first legal framework for collective self-consumption of renewable energy in 2019, community-led renewable energy initiatives driven by citizens, associations and local authorities have gradually begun to emerge.</p>
-<p>Although Renewable Energy Communities (RECs) offer significant environmental, economic and social benefits, fewer than ten are currently operating in Portugal. RECs enable citizens to come together to generate, share, consume and store renewable energy, creating value both for their members and for the communities in which they operate.</p>
-<p>In response to the absence of dedicated public funding for citizen-led Renewable Energy Communities, the Gulbenkian Foundation has partnered with Coopérnico – Sustainable Development Cooperative to support civil society organisations working alongside citizens, local authorities and other local stakeholders.</p>
-<p>The initiative seeks to address some of the key barriers to establishing Renewable Energy Communities, including the upfront investment required to launch projects, limited technical capacity within local organisations and communities, and low levels of energy literacy among citizens.</p>
-<p>Through this call, the Gulbenkian Foundation expects to fund 10 projects, with grants of up to €30,000 each.</p>
-<h2>Objectives</h2>
-<p>Grant funding will be awarded to projects that contribute to:</p>
-<ul class="list-format-bar">
-<li>expanding decentralised renewable energy generation and local energy use;</li>
-<li>strengthening the involvement of local authorities, community organisations and cooperatives in community energy initiatives;</li>
-<li>promoting collective action through participatory governance models;</li>
-<li>increasing the participation of economically vulnerable citizens and households;</li>
-<li>encouraging Renewable Energy Communities in rural and low-density areas, while promoting greater territorial diversity;</li>
-<li>fostering diversity and representation in project leadership and coordination.</li>
-</ul>
-<h2>Application process</h2>
-<p>The call for proposals will take place in two stages.</p>
-<ul class="list-format-bar">
-<li>In the first stage, between 14 July and 16 September 2026, applicants are invited to submit an Expression of Interest outlining their proposal to establish a Renewable Energy Community, assessed on the basis of the proposed project and the profile of the lead organisation. The 20 highest-ranked applications will progress to the second stage.</li>
-<li>In the second stage, between 19 and 30 October, the organisations behind the 20 shortlisted proposals will take part in a two-week online capacity-building programme. Following this programme, and based on the development of the proposals, 10 finalist projects will be selected to receive grant funding from the Gulbenkian Foundation.</li>
-</ul>
-<h2>Webinar</h2>
-<p>A <a href="https://gulbenkian.pt/en/agenda/gulbenkian-energy-communities-webinar/">webinar to present the call and answer questions</a> will take place on 21 July, from 17:30 to 18:30, with prior registration required, including an open Q&amp;A session.</p>
-<h2 class="fcg-section__title" id="conditions">
-			<span>Conditions</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>Grants are available only to legal entities established and registered in Portugal.</li>
-	<li>The amount awarded to each project will be determined during the final selection process and will not exceed €30,000.</li>
-	<li>Eligible costs include: administrative expenses associated with establishing a Renewable Energy Community; licensing procedures; the purchase and installation of renewable energy generation equipment for collective self-consumption and local energy sharing.</li>
-</ul>
-<h2 class="fcg-section__title" id="eligibility">
-			<span>Eligibility</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>Applications are open to locally based, non-profit legal entities registered in Portugal.</p>
-<p>This call is intended to support Renewable Energy Communities at an early stage of development. Therefore, at the time of application, organisations must not have a licensing application pending or already approved by the Directorate-General for Energy and Geology in Portugal; or have received funding from any public or private organisation for projects relating to Renewable Energy Communities or collective self-consumption.</p>
-<h2 class="fcg-section__title" id="how-to-apply">
-			<span>How to Apply</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>Only applications submitted online will be accepted;</li>
-	<li>Register at &nbsp;<a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2F">MyGulbenkian</a>;</li>
-	<li>Before submitting your application form, check all the eligibility criteria and be sure to read the Call Conditions (available in the documents section);</li>
-	<li>Applications may only be submitted once all the mandatory fields of the form have been completed and the documents required under the Call Conditions have been uploaded;</li>
-	<li>Don’t forget to click “submit application”. Try not to submit your application in the last few days leading up to the deadline to avoid any unforeseen last minute problems.</li>
-</ul>
-<h2 class="fcg-section__title" id="faq">
-			<span>Faq</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="who-can-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Who can apply?				</h4>
-<p>This call is open to civil society organisations that represent citizens' interests, are actively engaged with their local communities, and are committed to playing an active role in the energy transition through democratic participation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-members-of-a-renewable-energy-community-need-to-be-located-within-the-same-parish-or-municipality">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Do members of a Renewable Energy Community need to be located within the same parish or municipality?				</h4>
-<p>No. Under Portuguese legislation, members do not need to be located within the same parish or municipality. However, they must be located within 2 km of the renewable energy generation system (or 4 km in low-density areas), or be connected to the same electricity substation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-informal-group-of-citizens-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an informal group of citizens apply?				</h4>
-<p>No. The Gulbenkian Foundation provides grants only to legally established non-profit organisations. An informal group of citizens may partner with an eligible organisation whose statutory objectives are aligned with this call, but it cannot receive funding directly from the Foundation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-municipality-or-parish-council-apply-what-about-a-local-energy-agency-or-another-municipal-body">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a municipality or parish council apply? What about a local energy agency or another municipal body?				</h4>
-<p>No. This call is intended to support citizen-led Renewable Energy Communities (RECs), meaning communities led by organisations representing groups of citizens, such as associations or cooperatives.</p>
-<p>Municipalities, Parish Councils, local energy agencies and other municipal bodies may participate as project partners, but they cannot lead, manage or submit an application.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="is-a-recently-established-association-cooperative-foundation-or-other-non-profit-organisation-eligible">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Is a recently established association, cooperative, foundation or other non-profit organisation eligible?				</h4>
-<p>Yes.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-submit-more-than-one-application">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an organisation submit more than one application?				</h4>
-<p>No. Each organisation may submit only one application.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-partnerships-required">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Are partnerships required?				</h4>
-<p>No. However, partnerships formally confirmed through Letters of Support submitted with the application may strengthen the quality and feasibility of the proposal.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-project-partners-required-to-make-a-financial-contribution">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Are project partners required to make a financial contribution?				</h4>
-<p>No. Partners may contribute in other ways, for example by making rooftops or other suitable spaces available for the installation of photovoltaic panels.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-research-centre-established-as-a-non-profit-private-legal-entity-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a research centre established as a non-profit private legal entity apply?				</h4>
-<p>No. This call is not intended to fund research projects.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-projects-involve-partnerships-with-for-profit-organisations">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can projects involve partnerships with for-profit organisations?				</h4>
-<p>Yes. Projects may include local businesses or service providers with a relevant role in the community, provided that their participation falls within the scope of their corporate social responsibility activities rather than constituting a commercial service.</p>
-<p>These organisations cannot become the sole owners of the project assets. Ownership must be shared.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="will-certain-territories-be-given-priority">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Will certain territories be given priority?				</h4>
-<p>Yes. Preference will be given to applications from low-density areas or territories facing greater social, economic or environmental vulnerabilities. Applicants should explain and justify these circumstances in their proposal.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-that-is-already-receiving-funding-from-the-gulbenkian-foundation-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an organisation that is already receiving funding from the Gulbenkian Foundation apply?				</h4>
-<p>Yes. However, priority will be given to organisations that have never received, or are not currently receiving, funding from the Foundation. Projects that are already being funded by another public or private organisation will not be eligible for support.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-the-grant-be-used-to-recruit-staff">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can the grant be used to recruit staff?				</h4>
-<p>No.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-are-the-requirements-for-successful-applicants">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-What are the requirements for successful applicants?				</h4>
-<p>In addition to managing the grant in accordance with the Foundation's funding rules, successful applicants must participate in all activities organised as part of this initiative, including the capacity-building programme delivered by Coopérnico.</p>
-<p>They will also be required to submit a progress report after the start of the project and a final report, using templates provided by the Foundation.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="will-there-be-an-information-session">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Will there be an information session?				</h4>
-<p>Yes. A <a href="https://gulbenkian.pt/en/agenda/gulbenkian-energy-communities-webinar/">free online webinar</a> will take place on 21 July 2026, from 17:30 to 18:30 (Lisbon time).&nbsp;</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-national-or-regional-organisation-submit-a-project-with-a-local-focus">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a national or regional organisation submit a project with a local focus?				</h4>
-<p>Yes, provided that the proposal clearly demonstrates its local relevance.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-project-partners-be-changed-after-the-application-has-been-approved">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can project partners be changed after the application has been approved?				</h4>
-<p>Yes, provided that the change does not compromise the objectives or successful implementation of the project.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-the-future-members-of-the-renewable-energy-community-need-to-be-identified-in-the-application">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Do the future members of the Renewable Energy Community need to be identified in the application?				</h4>
-<p>Applicants should identify the prospective members of the Renewable Energy Community.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-with-no-previous-experience-in-the-energy-sector-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can an organisation with no previous experience in the energy sector apply?				</h4>
-<p>Yes. This call is intended for organisations that consume electricity, not for organisations already operating in the energy sector.</p>
-<p>Should the project be selected, the organisation will need to amend its statutes in order to establish a Renewable Energy Community. The costs associated with this process are eligible for funding under the grant.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-organisations-based-in-the-autonomous-regions-of-the-azores-and-madeira-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can organisations based in the Autonomous Regions of the Azores and Madeira apply?				</h4>
-<p>Yes. Organisations based in the Autonomous Regions are fully eligible to apply.</p>
-<p>The only difference concerns the competent licensing authority. In mainland Portugal, the registration, prior control and licensing of Renewable Energy Communities are carried out by the Directorate-General for Energy and Geology (DGEG). In the Autonomous Regions, these responsibilities lie with the Regional Directorate for Energy (DRE) in the Azores and the Regional Directorate for Energy and Climate Change (or Regional Directorate for Energy) in Madeira.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-is-meant-by-vulnerable-citizens-or-households-for-the-purposes-of-this-call">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-What is meant by "vulnerable citizens or households" for the purposes of this call?				</h4>
-<p>For the purposes of this call, vulnerable citizens or households are those experiencing financial hardship and at risk of energy poverty, as demonstrated by their eligibility for, or receipt of, the Social Electricity Tariff or the Social Natural Gas Tariff.</p>
-<p>The aim is to support households for whom energy costs represent a significant financial burden and who stand to benefit most from the cost savings associated with participation in a Renewable Energy Community.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="does-an-rec-have-to-be-based-on-photovoltaic-solar-energy">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Does an REC have to be based on photovoltaic solar energy?				</h4>
-<p>No. A Renewable Energy Community (REC) may choose other renewable energy generation systems. However, within the scope of this call, only solar photovoltaic generation systems will be considered, as they are currently the most cost-effective technology and the quickest to license and install.</p>
-<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-condominium-residential-building-or-multi-family-building-apply">
-					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
-Can a condominium (residential building or multi-family building) apply?				</h4>
-<p>No. A condominium is not eligible because it does not constitute a formally established civil society organization.</p>
-<h2 class="fcg-section__title" id="contacts">
-			<span>Contacts</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>Questions about this call should be sent to: <a href="/cdn-cgi/l/email-protection#86f5f3f5f2e3e8f2e7e4efeaefe2e7e2e3c6e1f3eae4e3e8edefe7e8a8f6f2"><span class="__cf_email__" data-cfemail="7b080e080f1e150f1a191217121f1a1f1e3b1c0e17191e1510121a15550b0f">[email&nbsp;protected]</span></a>.</p>
-<p>Before contacting us, please read the Call Conditions carefully and consult the Frequently Asked Questions, as your query may already be answered there.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What it takes to connect capital and community, with Ralphine Caldwell Charlotte 4 min read]]></title>
-            <link>https://knightfoundation.org/articles/grantee-story/ralphine-caldwell/</link>
-            <guid isPermaLink="false">187d9a518e11c49f63c9bffa2cfcfd96005b7c1b4f331df172f07415c9a8ecef</guid>
-            <pubDate>Tue, 15 Sep 2026 18:55:33 GMT</pubDate>
-            <description><![CDATA[<ul class="hero-editorial__meta-list">
-                                  <li class="hero-editorial__meta-list-item">
-                    Nelson Hernandez
-                                      </li>
-                              </ul>
-<h2>Overview</h2>
-<p>Ralphine Caldwell is the senior executive director for <a href="https://www.lisc.org/charlotte/">LISC Charlotte</a>. The Local Initiatives Support Corporation (LISC)— one of the largest community development financial institutions in the country — is built on a simple but powerful idea: communities need a real bridge between hard-to-reach capital and the people who need it most.</p>
-<p>LISC Charlotte opened in March 2019 to oversee the Charlotte Housing Opportunity Investment Fund. Like its national counterpart, the office pulls investment from the public, private and philanthropic sectors and puts it to work in housing, health, safety, small business support, commercial development, lending and the capacity building of grassroots organizations on the ground.</p>
-<h2>Q&amp;A</h2>
-<h2>When you’re starting something like this, what’s the very first thing you have to do? Where does it all begin?</h2>
-<p>When LISC Charlotte looks at bringing an initiative into the city, the first thing that we do is talk to the community. One of the first things that we did was hold community meetings [across] different forums so that we could be clear on the direction community members wanted their neighborhood to take. We’ve been able to uplift projects that have been quite successful in Charlotte, simply because we were able to establish trust early on and the partners know that we have their best interests at heart.</p>
-<h2>What tools, skills or supports do you rely on to make this work happen?</h2>
-<p>None of the work or the success of LISC Charlotte would ever have happened without the LISC Charlotte team. I have an amazing staff; all of them have been with the organization since day one. They’ve been on the team for seven years and none of the work that we do [investing over $173 million in Charlotte since the office opened] would be possible without them.</p>
-<h2>What would you say is the toughest part of the work, the thing that demands the most from you either mentally or logistically?</h2>
-<p>Dealing with many of our community partners having their funding halted or stalled. The current environment where we are right now is a concern for us because we’re in a different economy right now. We keep our focus on our partners and make sure they have what they need. If they don’t [have the money they were counting on], they cannot serve as many people as they did at the same time last year.</p>
-<h2>Who do you lean on? Which other team members or partners really help you succeed?</h2>
-<p>While we work all over the City of Charlotte, our core focus is Historic West End. When we started working in that neighborhood, the first thing that we did is we reached out to J’Tanya Adams, who is the executive director for Historic West End Partners. They’re the economic and small business development arm of the community and she’s a resident as well, so we knew that we needed to partner with her for us to really dig deep on community development and engagement.</p>
-<h2>What's one mistake or failure that taught you something essential about your work?</h2>
-<p>In March of 2020, none of us knew that we would be in the middle of a pandemic. We were [working on] housing, but we weren’t sure about our next initiative. Because we were approached by the City of Charlotte to get grant dollars out to businesses, we made working with small businesses our next initiative.</p>
-<p>We also learned that businesses needed technical assistance. There were instances where the businesses were missing paperwork or they were trying to make sure that they were getting documents to us. The transition from in-person to virtual [made that difficult], but it helped shape our small business and technical assistance programs.</p>
-<h2>How do you stay sane? What helps you keep perspective or stay grounded when the work gets overwhelming for you?</h2>
-<p>When the work starts to get hectic and I feel the load and I feel the weight, I am reminded of my upbringing. I’m reminded of my father saying “you make sure you’re taking care of yourself, but be sure you’re taking care of your community. To whom much is given, much is required.”</p>
-<p>When things get hectic, I try to stay grounded in those words. I’m getting better at taking time off to unplug, but when I unplug, I’m still working on being my best self. It is difficult to step away because I am very passionate about this work, but I think what continues to drive me is that I feel like I have a purpose in my role: to be a leader and mentor.</p>
-<h2>What’s one essential book everyone should read?</h2>
-<p><a href="https://www.amazon.com/dp/B0G5D2M8D3?_encoding=UTF8&amp;psc=1&amp;ref=cm_sw_r_ffobk_cp_ud_dp_DR48CZQNRQ2J46J0GVJ4&amp;ref_=cm_sw_r_ffobk_cp_ud_dp_DR48CZQNRQ2J46J0GVJ4&amp;social_share=cm_sw_r_ffobk_cp_ud_dp_DR48CZQNRQ2J46J0GVJ4&amp;bestFormat=true">Stop Chasing, Start Creating</a> by Justin Jones-Fosu was recommended to me when I was opening the new office. I recommend it for folks in a similar situation, looking to get up to speed quickly.</p>
-<h2 class="related-content__title">Discover More</h2>
-<ul class="related-content__cards" role="list">
-                          <li class="related-content__card" role="listitem">
-                
-<a href="https://knightfoundation.org/articles/news/the-first-at-250-a-conversation-on-the-first-amendment/" class="related-content-card">
-      <div class="related-content-card__image">
-      
-<div class="media-container " style="">
-                <figure>
-      
- 
-
-
-
-
-
-  
-
-
-
-
-    
-    
-
-
-              <img sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg" srcset="https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=320,424&amp;quality=80&amp;strip=all 320w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=480,636&amp;quality=80&amp;strip=all 480w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=640,848&amp;quality=80&amp;strip=all 640w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=768,1018&amp;quality=80&amp;strip=all 768w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=960,1272&amp;quality=80&amp;strip=all 960w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=1024,1357&amp;quality=80&amp;strip=all 1024w" alt="Knight Foundation" draggable="false" class=" " style="" width="1024" height="1357" loading="lazy" decoding="async">
-    
-           </figure>
-
-        
-
-    
-
-</div>
-    </div>
-  
-      <div class="related-content-card__text">
-      <div class="related-content-card__text-content">
-        <div class="related-content-card__text-label">
-          The First at 250: A Conversation on the First Amendment
-          <span class="related-content-card__text-icon">
-            <span class="icon ">
-      <svg role="presentation" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1154 8.66699H1.33203V7.33366H12.1154L8.38203 3.60033L9.33203 2.66699L14.6654 8.00033L9.33203 13.3337L8.38203 12.4003L12.1154 8.66699Z" fill="currentColor"></path>
-</svg>
-
-    </span>
-            </span>
-        </div>
-
-      </div>
-    </div>
-  
-  
-
-</a>
-              </li>
-                          <li class="related-content__card" role="listitem">
-                
-<a href="https://knightfoundation.org/articles/research/knight-foundation-norc-survey-on-public-libraries-2026/" class="related-content-card">
-      <div class="related-content-card__image">
-      
-<div class="media-container " style="">
-                <figure>
-      
- 
-
-
-
-
-
-  
-
-
-
-
-    
-    
-
-
-              <img sizes="auto, (max-width: 5900px) 100vw, 5900px" src="https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg" srcset="https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=320,213&amp;quality=80&amp;strip=all 320w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=480,319&amp;quality=80&amp;strip=all 480w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=640,426&amp;quality=80&amp;strip=all 640w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=768,511&amp;quality=80&amp;strip=all 768w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=960,639&amp;quality=80&amp;strip=all 960w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1024,681&amp;quality=80&amp;strip=all 1024w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1280,852&amp;quality=80&amp;strip=all 1280w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1536,1022&amp;quality=80&amp;strip=all 1536w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1920,1278&amp;quality=80&amp;strip=all 1920w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=2048,1363&amp;quality=80&amp;strip=all 2048w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=2560,1703&amp;quality=80&amp;strip=all 2560w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=3072,2044&amp;quality=80&amp;strip=all 3072w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=3200,2129&amp;quality=80&amp;strip=all 3200w" alt="Knight Foundation" draggable="false" class=" " style="" width="5900" height="3926" loading="lazy" decoding="async">
-    
-           </figure>
-
-        
-
-    
-
-</div>
-    </div>
-  
-      <div class="related-content-card__text">
-      <div class="related-content-card__text-content">
-        <div class="related-content-card__text-label">
-          Knight Foundation/NORC Survey on Public Libraries 2026
-          <span class="related-content-card__text-icon">
-            <span class="icon ">
-      <svg role="presentation" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1154 8.66699H1.33203V7.33366H12.1154L8.38203 3.60033L9.33203 2.66699L14.6654 8.00033L9.33203 13.3337L8.38203 12.4003L12.1154 8.66699Z" fill="currentColor"></path>
-</svg>
-
-    </span>
-            </span>
-        </div>
-
-      </div>
-    </div>
-  
-  
-
-</a>
-              </li>
-                          <li class="related-content__card" role="listitem">
-                
-<a href="https://knightfoundation.org/articles/research/__ssrs-perspectives-on-free-expression-survey-2026/" class="related-content-card">
-      <div class="related-content-card__image">
-      
-<div class="media-container " style="">
-                <figure>
-      
- 
-
-
-
-
-
-  
-
-
-
-
-    
-    
-
-
-              <img sizes="auto, (max-width: 3963px) 100vw, 3963px" src="https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg" srcset="https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=320,400&amp;quality=80&amp;strip=all 320w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=480,600&amp;quality=80&amp;strip=all 480w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=640,800&amp;quality=80&amp;strip=all 640w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=768,960&amp;quality=80&amp;strip=all 768w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=960,1200&amp;quality=80&amp;strip=all 960w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1024,1280&amp;quality=80&amp;strip=all 1024w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1280,1600&amp;quality=80&amp;strip=all 1280w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1536,1920&amp;quality=80&amp;strip=all 1536w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1920,2400&amp;quality=80&amp;strip=all 1920w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=2048,2560&amp;quality=80&amp;strip=all 2048w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=2560,3200&amp;quality=80&amp;strip=all 2560w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=3072,3840&amp;quality=80&amp;strip=all 3072w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=3200,4000&amp;quality=80&amp;strip=all 3200w" alt="Knight Foundation" draggable="false" class=" " style="" width="3963" height="4954" loading="lazy" decoding="async">
-    
-           </figure>
-
-        
-
-    
-
-</div>
-    </div>
-  
-      <div class="related-content-card__text">
-      <div class="related-content-card__text-content">
-        <div class="related-content-card__text-label">
-          Knight Foundation/SSRS Perspectives on Free Expression Survey 2026
-          <span class="related-content-card__text-icon">
-            <span class="icon ">
-      <svg role="presentation" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1154 8.66699H1.33203V7.33366H12.1154L8.38203 3.60033L9.33203 2.66699L14.6654 8.00033L9.33203 13.3337L8.38203 12.4003L12.1154 8.66699Z" fill="currentColor"></path>
-</svg>
-
-    </span>
-            </span>
-        </div>
-
-      </div>
-    </div>
-  
-  
-
-</a>
-              </li>
-                      </ul>]]></description>
-            <content:encoded><![CDATA[<ul class="hero-editorial__meta-list">
-                                  <li class="hero-editorial__meta-list-item">
-                    Nelson Hernandez
-                                      </li>
-                              </ul>
-<h2>Overview</h2>
-<p>Ralphine Caldwell is the senior executive director for <a href="https://www.lisc.org/charlotte/">LISC Charlotte</a>. The Local Initiatives Support Corporation (LISC)— one of the largest community development financial institutions in the country — is built on a simple but powerful idea: communities need a real bridge between hard-to-reach capital and the people who need it most.</p>
-<p>LISC Charlotte opened in March 2019 to oversee the Charlotte Housing Opportunity Investment Fund. Like its national counterpart, the office pulls investment from the public, private and philanthropic sectors and puts it to work in housing, health, safety, small business support, commercial development, lending and the capacity building of grassroots organizations on the ground.</p>
-<h2>Q&amp;A</h2>
-<h2>When you’re starting something like this, what’s the very first thing you have to do? Where does it all begin?</h2>
-<p>When LISC Charlotte looks at bringing an initiative into the city, the first thing that we do is talk to the community. One of the first things that we did was hold community meetings [across] different forums so that we could be clear on the direction community members wanted their neighborhood to take. We’ve been able to uplift projects that have been quite successful in Charlotte, simply because we were able to establish trust early on and the partners know that we have their best interests at heart.</p>
-<h2>What tools, skills or supports do you rely on to make this work happen?</h2>
-<p>None of the work or the success of LISC Charlotte would ever have happened without the LISC Charlotte team. I have an amazing staff; all of them have been with the organization since day one. They’ve been on the team for seven years and none of the work that we do [investing over $173 million in Charlotte since the office opened] would be possible without them.</p>
-<h2>What would you say is the toughest part of the work, the thing that demands the most from you either mentally or logistically?</h2>
-<p>Dealing with many of our community partners having their funding halted or stalled. The current environment where we are right now is a concern for us because we’re in a different economy right now. We keep our focus on our partners and make sure they have what they need. If they don’t [have the money they were counting on], they cannot serve as many people as they did at the same time last year.</p>
-<h2>Who do you lean on? Which other team members or partners really help you succeed?</h2>
-<p>While we work all over the City of Charlotte, our core focus is Historic West End. When we started working in that neighborhood, the first thing that we did is we reached out to J’Tanya Adams, who is the executive director for Historic West End Partners. They’re the economic and small business development arm of the community and she’s a resident as well, so we knew that we needed to partner with her for us to really dig deep on community development and engagement.</p>
-<h2>What's one mistake or failure that taught you something essential about your work?</h2>
-<p>In March of 2020, none of us knew that we would be in the middle of a pandemic. We were [working on] housing, but we weren’t sure about our next initiative. Because we were approached by the City of Charlotte to get grant dollars out to businesses, we made working with small businesses our next initiative.</p>
-<p>We also learned that businesses needed technical assistance. There were instances where the businesses were missing paperwork or they were trying to make sure that they were getting documents to us. The transition from in-person to virtual [made that difficult], but it helped shape our small business and technical assistance programs.</p>
-<h2>How do you stay sane? What helps you keep perspective or stay grounded when the work gets overwhelming for you?</h2>
-<p>When the work starts to get hectic and I feel the load and I feel the weight, I am reminded of my upbringing. I’m reminded of my father saying “you make sure you’re taking care of yourself, but be sure you’re taking care of your community. To whom much is given, much is required.”</p>
-<p>When things get hectic, I try to stay grounded in those words. I’m getting better at taking time off to unplug, but when I unplug, I’m still working on being my best self. It is difficult to step away because I am very passionate about this work, but I think what continues to drive me is that I feel like I have a purpose in my role: to be a leader and mentor.</p>
-<h2>What’s one essential book everyone should read?</h2>
-<p><a href="https://www.amazon.com/dp/B0G5D2M8D3?_encoding=UTF8&amp;psc=1&amp;ref=cm_sw_r_ffobk_cp_ud_dp_DR48CZQNRQ2J46J0GVJ4&amp;ref_=cm_sw_r_ffobk_cp_ud_dp_DR48CZQNRQ2J46J0GVJ4&amp;social_share=cm_sw_r_ffobk_cp_ud_dp_DR48CZQNRQ2J46J0GVJ4&amp;bestFormat=true">Stop Chasing, Start Creating</a> by Justin Jones-Fosu was recommended to me when I was opening the new office. I recommend it for folks in a similar situation, looking to get up to speed quickly.</p>
-<h2 class="related-content__title">Discover More</h2>
-<ul class="related-content__cards" role="list">
-                          <li class="related-content__card" role="listitem">
-                
-<a href="https://knightfoundation.org/articles/news/the-first-at-250-a-conversation-on-the-first-amendment/" class="related-content-card">
-      <div class="related-content-card__image">
-      
-<div class="media-container " style="">
-                <figure>
-      
- 
-
-
-
-
-
-  
-
-
-
-
-    
-    
-
-
-              <img sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg" srcset="https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=320,424&amp;quality=80&amp;strip=all 320w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=480,636&amp;quality=80&amp;strip=all 480w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=640,848&amp;quality=80&amp;strip=all 640w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=768,1018&amp;quality=80&amp;strip=all 768w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=960,1272&amp;quality=80&amp;strip=all 960w, https://knightfoundation.org/wp-content/uploads/2026/09/DSC1114-e1789131276130.jpg?resize=1024,1357&amp;quality=80&amp;strip=all 1024w" alt="Knight Foundation" draggable="false" class=" " style="" width="1024" height="1357" loading="lazy" decoding="async">
-    
-           </figure>
-
-        
-
-    
-
-</div>
-    </div>
-  
-      <div class="related-content-card__text">
-      <div class="related-content-card__text-content">
-        <div class="related-content-card__text-label">
-          The First at 250: A Conversation on the First Amendment
-          <span class="related-content-card__text-icon">
-            <span class="icon ">
-      <svg role="presentation" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1154 8.66699H1.33203V7.33366H12.1154L8.38203 3.60033L9.33203 2.66699L14.6654 8.00033L9.33203 13.3337L8.38203 12.4003L12.1154 8.66699Z" fill="currentColor"></path>
-</svg>
-
-    </span>
-            </span>
-        </div>
-
-      </div>
-    </div>
-  
-  
-
-</a>
-              </li>
-                          <li class="related-content__card" role="listitem">
-                
-<a href="https://knightfoundation.org/articles/research/knight-foundation-norc-survey-on-public-libraries-2026/" class="related-content-card">
-      <div class="related-content-card__image">
-      
-<div class="media-container " style="">
-                <figure>
-      
- 
-
-
-
-
-
-  
-
-
-
-
-    
-    
-
-
-              <img sizes="auto, (max-width: 5900px) 100vw, 5900px" src="https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg" srcset="https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=320,213&amp;quality=80&amp;strip=all 320w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=480,319&amp;quality=80&amp;strip=all 480w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=640,426&amp;quality=80&amp;strip=all 640w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=768,511&amp;quality=80&amp;strip=all 768w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=960,639&amp;quality=80&amp;strip=all 960w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1024,681&amp;quality=80&amp;strip=all 1024w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1280,852&amp;quality=80&amp;strip=all 1280w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1536,1022&amp;quality=80&amp;strip=all 1536w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=1920,1278&amp;quality=80&amp;strip=all 1920w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=2048,1363&amp;quality=80&amp;strip=all 2048w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=2560,1703&amp;quality=80&amp;strip=all 2560w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=3072,2044&amp;quality=80&amp;strip=all 3072w, https://knightfoundation.org/wp-content/uploads/2026/09/Downtown-St.-Paul-Library-December-2025-79-of-140.jpg?resize=3200,2129&amp;quality=80&amp;strip=all 3200w" alt="Knight Foundation" draggable="false" class=" " style="" width="5900" height="3926" loading="lazy" decoding="async">
-    
-           </figure>
-
-        
-
-    
-
-</div>
-    </div>
-  
-      <div class="related-content-card__text">
-      <div class="related-content-card__text-content">
-        <div class="related-content-card__text-label">
-          Knight Foundation/NORC Survey on Public Libraries 2026
-          <span class="related-content-card__text-icon">
-            <span class="icon ">
-      <svg role="presentation" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1154 8.66699H1.33203V7.33366H12.1154L8.38203 3.60033L9.33203 2.66699L14.6654 8.00033L9.33203 13.3337L8.38203 12.4003L12.1154 8.66699Z" fill="currentColor"></path>
-</svg>
-
-    </span>
-            </span>
-        </div>
-
-      </div>
-    </div>
-  
-  
-
-</a>
-              </li>
-                          <li class="related-content__card" role="listitem">
-                
-<a href="https://knightfoundation.org/articles/research/__ssrs-perspectives-on-free-expression-survey-2026/" class="related-content-card">
-      <div class="related-content-card__image">
-      
-<div class="media-container " style="">
-                <figure>
-      
- 
-
-
-
-
-
-  
-
-
-
-
-    
-    
-
-
-              <img sizes="auto, (max-width: 3963px) 100vw, 3963px" src="https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg" srcset="https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=320,400&amp;quality=80&amp;strip=all 320w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=480,600&amp;quality=80&amp;strip=all 480w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=640,800&amp;quality=80&amp;strip=all 640w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=768,960&amp;quality=80&amp;strip=all 768w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=960,1200&amp;quality=80&amp;strip=all 960w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1024,1280&amp;quality=80&amp;strip=all 1024w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1280,1600&amp;quality=80&amp;strip=all 1280w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1536,1920&amp;quality=80&amp;strip=all 1536w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=1920,2400&amp;quality=80&amp;strip=all 1920w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=2048,2560&amp;quality=80&amp;strip=all 2048w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=2560,3200&amp;quality=80&amp;strip=all 2560w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=3072,3840&amp;quality=80&amp;strip=all 3072w, https://knightfoundation.org/wp-content/uploads/2026/09/One-Way-Flag_Daniel-Ribar.jpg?resize=3200,4000&amp;quality=80&amp;strip=all 3200w" alt="Knight Foundation" draggable="false" class=" " style="" width="3963" height="4954" loading="lazy" decoding="async">
-    
-           </figure>
-
-        
-
-    
-
-</div>
-    </div>
-  
-      <div class="related-content-card__text">
-      <div class="related-content-card__text-content">
-        <div class="related-content-card__text-label">
-          Knight Foundation/SSRS Perspectives on Free Expression Survey 2026
-          <span class="related-content-card__text-icon">
-            <span class="icon ">
-      <svg role="presentation" aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1154 8.66699H1.33203V7.33366H12.1154L8.38203 3.60033L9.33203 2.66699L14.6654 8.00033L9.33203 13.3337L8.38203 12.4003L12.1154 8.66699Z" fill="currentColor"></path>
-</svg>
-
-    </span>
-            </span>
-        </div>
-
-      </div>
-    </div>
-  
-  
-
-</a>
-              </li>
-                      </ul>]]></content:encoded>
-            <enclosure url="https://knightfoundation.org/wp-content/uploads/2026/07/LISC-Ralphine-Caldwell-0-e1783711732794.jpg?resize=960,720&amp;quality=80&amp;strip=all" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

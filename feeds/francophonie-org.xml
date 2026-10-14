@@ -4,10 +4,40 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 12 Oct 2026 13:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 08:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[134e session du Conseil permanent de la Francophonie : ultime étape préparatoire au XXe Sommet de la Francophonie]]></title>
+            <link>https://www.francophonie.org/134e-session-conseil-permanent-francophonie-ultime-etape-avant-20e-sommet-8722</link>
+            <guid isPermaLink="false">217868f9bc917d1923fd6a8c620a1f189535ca09b1689d70db5b14bee6cccf85</guid>
+            <pubDate>Wed, 14 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">134e session du Conseil permanent de la Francophonie : ultime étape préparatoire au XXe Sommet de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-14T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 14/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">134e session du Conseil permanent de la Francophonie : ultime étape préparatoire au XXe Sommet de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-14T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 14/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Formation technique, linguistique et interculturelle du personnel ivoirien en phase de préparation au déploiement en Haïti]]></title>
+            <link>https://www.francophonie.org/formation-personnel-ivoirien-preparation-deploiement-haiti-frg-8721</link>
+            <guid isPermaLink="false">5d3e20f7e65a8305e7848d9fbec62dbcd81c17b97c77b5093dc68d4adfae98d0</guid>
+            <pubDate>Tue, 13 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Formation technique, linguistique et interculturelle du personnel ivoirien en phase de préparation au déploiement en Haïti</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-13T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 13/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Formation technique, linguistique et interculturelle du personnel ivoirien en phase de préparation au déploiement en Haïti</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-13T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 13/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français]]></title>
             <link>https://www.francophonie.org/cambodge-revision-des-curricula-de-francais-8719</link>

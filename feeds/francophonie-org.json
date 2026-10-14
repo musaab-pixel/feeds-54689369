@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "217868f9bc917d1923fd6a8c620a1f189535ca09b1689d70db5b14bee6cccf85",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">134e session du Conseil permanent de la Francophonie : ultime étape préparatoire au XXe Sommet de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 14/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/134e-session-conseil-permanent-francophonie-ultime-etape-avant-20e-sommet-8722",
+            "title": "134e session du Conseil permanent de la Francophonie : ultime étape préparatoire au XXe Sommet de la Francophonie",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">134e session du Conseil permanent de la Francophonie : ultime étape préparatoire au XXe Sommet de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-14T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 14/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-14T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "5d3e20f7e65a8305e7848d9fbec62dbcd81c17b97c77b5093dc68d4adfae98d0",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Formation technique, linguistique et interculturelle du personnel ivoirien en phase de préparation au déploiement en Haïti</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-13T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 13/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/formation-personnel-ivoirien-preparation-deploiement-haiti-frg-8721",
+            "title": "Formation technique, linguistique et interculturelle du personnel ivoirien en phase de préparation au déploiement en Haïti",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Formation technique, linguistique et interculturelle du personnel ivoirien en phase de préparation au déploiement en Haïti</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-13T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 13/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-13T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "86d4d1949f993c1e5ec884f5e66257f5e8c9f421e56ccaf2378b97a7d88ba108",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Cambodge : révision des curricula de français et des disciplines scientifiques enseignées en français</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-12T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 12/10/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/cambodge-revision-des-curricula-de-francais-8719",

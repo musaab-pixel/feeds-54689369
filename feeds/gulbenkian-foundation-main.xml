@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Tue, 13 Oct 2026 02:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 08:57:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -54,6 +54,152 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/31_Erin-Morley-C-Chris-Gonz_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scholarships Diasporan Perspectives – Call for Papers This call invites research papers on Armenia’s transformation since 1988. Proposals may address the political system, power structures, decision-making, institutional cultures and the socio-economic factors connected with them. closes 31 Dec 2026 Open call]]></title>
+            <link>https://gulbenkian.pt/en/bolsas-lista/diasporan-perspectives-call-for-papers/</link>
+            <guid isPermaLink="false">eb6cb83f944520d41d678da7385648d8aa3911a88fa99ccc79ecce8edd8dd450</guid>
+            <pubDate>Thu, 31 Dec 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>In recent years, Armenia has been through a series of upheavals. The 2018 Velvet Revolution brought hope of change after years of stagnation. It was followed by the Second Karabakh War in 2020 and, in 2023, by Azerbaijan’s takeover of Nagorno-Karabakh and the departure of its entire Armenian population.</p>
+<p>After the 2020 war, a research project supported by the Foundation led to two publications on the conflict. This call widens that project’s scope to take stock of 35 years of independence, with research reaching back to the Karabakh Movement of 1988. It asks what structural problems lay behind the shocks of 2018, 2020 and 2023, whether the Velvet Revolution changed the country’s socio-economic structure, and how institutions and decision-making have evolved.</p>
+<p>The research covers three periods:</p>
+<ul class="list-format-bar">
+<li>the Soviet collapse and independence, including the transfer of power to a new political class and the mass privatisation of the economy;</li>
+<li>two decades of stabilisation and oligarchic rule, during which the state’s institutions and economic system took shape;</li>
+<li>the years since 2018, marked by revolution, war and uncertainty.</li>
+</ul>
+<p>Proposals may fall within four areas: political elites, structures and discourses; the state and its institutions; infrastructure; and future trends. The Call Conditions document lists 34 suggested topics. The list is indicative, and other topics are welcome.</p>
+<h2 class="fcg-section__title" id="conditions">
+			<span>Conditions</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Authors whose papers are accepted will receive a research grant of 2,000€. For joint proposals, the grant is divided among the authors.</p>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Proposals may be submitted by individual researchers, jointly, or by small research groups.</p>
+<p>Applications are made online and must include:</p>
+<ul class="list-format-bar">
+	<li>an abstract of up to 300 words;</li>
+	<li>a list of publications;</li>
+	<li>the CV of each applicant.</li>
+</ul>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>We only accept online applications.&nbsp;</li>
+	<li>You need to register before applying.&nbsp;</li>
+	<li>Please read the “Call Conditions” document available in the documents section above before applying.&nbsp;</li>
+	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded. &nbsp;</li>
+	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.&nbsp;</li>
+	<li>If you have any doubts about your application, please check our <a href="https://gulbenkian.pt/armenian-communities/how-to-apply/faq/">Frequently Asked Questions</a>&nbsp;</li>
+</ul>]]></description>
+            <content:encoded><![CDATA[<p>In recent years, Armenia has been through a series of upheavals. The 2018 Velvet Revolution brought hope of change after years of stagnation. It was followed by the Second Karabakh War in 2020 and, in 2023, by Azerbaijan’s takeover of Nagorno-Karabakh and the departure of its entire Armenian population.</p>
+<p>After the 2020 war, a research project supported by the Foundation led to two publications on the conflict. This call widens that project’s scope to take stock of 35 years of independence, with research reaching back to the Karabakh Movement of 1988. It asks what structural problems lay behind the shocks of 2018, 2020 and 2023, whether the Velvet Revolution changed the country’s socio-economic structure, and how institutions and decision-making have evolved.</p>
+<p>The research covers three periods:</p>
+<ul class="list-format-bar">
+<li>the Soviet collapse and independence, including the transfer of power to a new political class and the mass privatisation of the economy;</li>
+<li>two decades of stabilisation and oligarchic rule, during which the state’s institutions and economic system took shape;</li>
+<li>the years since 2018, marked by revolution, war and uncertainty.</li>
+</ul>
+<p>Proposals may fall within four areas: political elites, structures and discourses; the state and its institutions; infrastructure; and future trends. The Call Conditions document lists 34 suggested topics. The list is indicative, and other topics are welcome.</p>
+<h2 class="fcg-section__title" id="conditions">
+			<span>Conditions</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Authors whose papers are accepted will receive a research grant of 2,000€. For joint proposals, the grant is divided among the authors.</p>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Proposals may be submitted by individual researchers, jointly, or by small research groups.</p>
+<p>Applications are made online and must include:</p>
+<ul class="list-format-bar">
+	<li>an abstract of up to 300 words;</li>
+	<li>a list of publications;</li>
+	<li>the CV of each applicant.</li>
+</ul>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>We only accept online applications.&nbsp;</li>
+	<li>You need to register before applying.&nbsp;</li>
+	<li>Please read the “Call Conditions” document available in the documents section above before applying.&nbsp;</li>
+	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded. &nbsp;</li>
+	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.&nbsp;</li>
+	<li>If you have any doubts about your application, please check our <a href="https://gulbenkian.pt/armenian-communities/how-to-apply/faq/">Frequently Asked Questions</a>&nbsp;</li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The Nutcracker and I 21 Dec 2026 / 20:00]]></title>
@@ -1698,7 +1844,7 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/21_Charlotte-Corderoy-C-Leanne-Punshon_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘Coisa-Ponta’, by Ana Rita Teodoro and Márcia Lança 21 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Performance ‘Coisa-Ponta’, by Ana Rita Teodoro and Márcia Lança 21 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/coisa-ponta-by-ana-rita-teodoro-and-marcia-lanca/</link>
             <guid isPermaLink="false">a2c761479fd81ba415fd7a6ffbb85353ca4c0fa3d9ce7153f06d02dea22f7373</guid>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
@@ -2418,7 +2564,7 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2024/10/FCG-Salavisa-Web-1200x900-2-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Conference / Dance Idio Chichava + Salavisa European Dance Award Ceremony 17 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Idio Chichava + Salavisa European Dance Award Ceremony 17 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/idio-chichava-salavisa-european-dance-award-ceremony/</link>
             <guid isPermaLink="false">6ac932c760225ddca32313ff526f4ca1846ea156f302a186e8bb02259278147c</guid>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
@@ -2750,7 +2896,7 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/10/CJoaoVersosRoldao_2025_TerraAmarela_AMeioDoTejo_Espetaculo_TorresNovas_17out_HighRes-0062_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dance Shikama, by Dorothée Munyaneza 14 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Shikama, by Dorothée Munyaneza 14 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/dorothee-munyaneza/</link>
             <guid isPermaLink="false">c768f343df92b6a548f79345e11ea57d5cb66ef95fa31e64495380919754d87b</guid>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
@@ -4200,7 +4346,7 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/07/AXIOM-CASINO-_-Photo-Jorge-Quintela-_-01-1-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
+            <title><![CDATA[Performance Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/jonathan-uliel-saldanha-axiom-casino/</link>
             <guid isPermaLink="false">624865a2c40e34cc672126587d7230bec62369f1315e6c74efbe1d85d2df1149</guid>
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
@@ -5159,7 +5305,7 @@ In 2019 Martina Batič received the Slovenian national prize “Prešeren Fund A
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/09/Thomas-Quasthoff-e-AmatisTrio_4x3_2-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Transmission Macbeth 17 Oct 2026 / 18:00]]></title>
+            <title><![CDATA[Macbeth 17 Oct 2026 / 18:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/macbeth/</link>
             <guid isPermaLink="false">91e706a4fb5e24363a0cf52892f970404db6d7d27597fe75dd8b50f1817a1c8f</guid>
             <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
@@ -5658,7 +5804,7 @@ Ryan Speedo Green</p>
 <p>For more information, please check our <a href="https://gulbenkian.pt/gias/frequently-asked-questions/">FAQ</a>.&nbsp; Other queries, please write to <a href="/cdn-cgi/l/email-protection#d7b0beb6a497b0a2bbb5b2b9bcbeb6b9f9a7a3"><span class="__cf_email__" data-cfemail="e88f81899ba88f9d848a8d8683818986c6989c">[email&nbsp;protected]</span></a>.&nbsp;&nbsp;</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Concert Brahms' Symphony No. 2 15 Oct 2026 / 20:00]]></title>
+            <title><![CDATA[Brahms' Symphony No. 2 15 Oct 2026 / 20:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/brahms-symphony-no-2/</link>
             <guid isPermaLink="false">f99b37ac6849fc85629ab65655217418a9e950e6dd5bc2a4b2e5702fbb561f8e</guid>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
