@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 10:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 11:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[برنامج الأغذية العالمي: تصاعد النزاع في اليمن أدى إلى انقطاع المساعدات المنقذة…]]></title>
+            <link>https://t.me/aljazeeraBrk/239728</link>
+            <guid isPermaLink="false">df2688c953cc5df397d196799c39fc02ac49f8334709683c89d38ee2cec82522</guid>
+            <pubDate>Wed, 14 Oct 2026 10:55:02 GMT</pubDate>
+            <description><![CDATA[برنامج الأغذية العالمي: تصاعد النزاع في اليمن أدى إلى انقطاع المساعدات المنقذة للحياة عن 800 ألف شخص في تعز]]></description>
+            <content:encoded><![CDATA[برنامج الأغذية العالمي: تصاعد النزاع في اليمن أدى إلى انقطاع المساعدات المنقذة للحياة عن 800 ألف شخص في تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كاتس: لن ننسحب من المناطق الأمنية في سوريا ولبنان]]></title>
             <link>https://t.me/aljazeeraBrk/239727</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 11 Oct 2026 22:20:02 GMT</pubDate>
             <description><![CDATA[هيئة الطيران المدني السعودية: الاعتداء على مطار الملك خالد الدولي بالرياض أسفر عن أضرار  مادية يجري حصرها]]></description>
             <content:encoded><![CDATA[هيئة الطيران المدني السعودية: الاعتداء على مطار الملك خالد الدولي بالرياض أسفر عن أضرار  مادية يجري حصرها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة الطيران المدني السعودية: وفاة مقيم وإصابة 11 شخصا في الاعتداء الغاشم على…]]></title>
-            <link>https://t.me/aljazeeraBrk/239322</link>
-            <guid isPermaLink="false">079cefee95715fadc3c7633fdf2c52878ab67aa51ee3927632725a704992eecb</guid>
-            <pubDate>Sun, 11 Oct 2026 22:17:01 GMT</pubDate>
-            <description><![CDATA[هيئة الطيران المدني السعودية: وفاة مقيم وإصابة 11 شخصا في الاعتداء الغاشم على مطار الملك خالد الدولي بالرياض]]></description>
-            <content:encoded><![CDATA[هيئة الطيران المدني السعودية: وفاة مقيم وإصابة 11 شخصا في الاعتداء الغاشم على مطار الملك خالد الدولي بالرياض]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
