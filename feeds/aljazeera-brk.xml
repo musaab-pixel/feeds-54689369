@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 13:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 14:00:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نائب وزير الخارجية الروسي: موسكو مستعدة لنقل جميع اليورانيوم المخصب من إيران…]]></title>
+            <link>https://t.me/aljazeeraBrk/239745</link>
+            <guid isPermaLink="false">94b2250f7e9eb77d0087cfac4ccef15b2c51a9ab274e53db05c60b0ae8d1b623</guid>
+            <pubDate>Wed, 14 Oct 2026 13:55:03 GMT</pubDate>
+            <description><![CDATA[نائب وزير الخارجية الروسي: موسكو مستعدة لنقل جميع اليورانيوم المخصب من إيران إلى أراضيها إذا لزم الأمر]]></description>
+            <content:encoded><![CDATA[نائب وزير الخارجية الروسي: موسكو مستعدة لنقل جميع اليورانيوم المخصب من إيران إلى أراضيها إذا لزم الأمر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم مخيم الجلزون شمالي مدينة رام الله بالضفة…]]></title>
             <link>https://t.me/aljazeeraBrk/239744</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 06:14:02 GMT</pubDate>
             <description><![CDATA[كالاس: الاتحاد الأوروبي يرحب بوقف إطلاق النار على قطاع الطاقة بأوكرانيا ولم يتضح ما إذا كانت روسيا ستلتزم به]]></description>
             <content:encoded><![CDATA[كالاس: الاتحاد الأوروبي يرحب بوقف إطلاق النار على قطاع الطاقة بأوكرانيا ولم يتضح ما إذا كانت روسيا ستلتزم به]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في قصف من مسيرة إسرائيلية على مواصي مدينة رفح]]></title>
-            <link>https://t.me/aljazeeraBrk/239339</link>
-            <guid isPermaLink="false">ddea379f580af853e7fc0ee5d13c84b8e935c5ec009513d088fd87e311df397a</guid>
-            <pubDate>Mon, 12 Oct 2026 06:10:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في قصف من مسيرة إسرائيلية على مواصي مدينة رفح]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيدان ومصابون في قصف من مسيرة إسرائيلية على مواصي مدينة رفح]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
