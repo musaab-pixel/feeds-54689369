@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 14:00:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 14:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تقصف بـ3 قذائف مدفعية محيط تل كروم…]]></title>
+            <link>https://t.me/aljazeeraBrk/239746</link>
+            <guid isPermaLink="false">1a0f8c59cefc7b612d6c50cb74b9e41422c2d6287141a02099dd1b019372ec88</guid>
+            <pubDate>Wed, 14 Oct 2026 14:14:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تقصف بـ3 قذائف مدفعية محيط تل كروم في ريف القنيطرة]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري: قوات الاحتلال الإسرائيلي تقصف بـ3 قذائف مدفعية محيط تل كروم في ريف القنيطرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نائب وزير الخارجية الروسي: موسكو مستعدة لنقل جميع اليورانيوم المخصب من إيران…]]></title>
             <link>https://t.me/aljazeeraBrk/239745</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 06:24:02 GMT</pubDate>
             <description><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة استراتيجية معادية بالقرب من منطقة ود الماحي بولاية النيل الأزرق]]></description>
             <content:encoded><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة استراتيجية معادية بالقرب من منطقة ود الماحي بولاية النيل الأزرق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[كالاس: الاتحاد الأوروبي يرحب بوقف إطلاق النار على قطاع الطاقة بأوكرانيا ولم…]]></title>
-            <link>https://t.me/aljazeeraBrk/239340</link>
-            <guid isPermaLink="false">eb4e0fcf788401fe3fe18555649da85aa598473c82d6eac8533035d753c0276b</guid>
-            <pubDate>Mon, 12 Oct 2026 06:14:02 GMT</pubDate>
-            <description><![CDATA[كالاس: الاتحاد الأوروبي يرحب بوقف إطلاق النار على قطاع الطاقة بأوكرانيا ولم يتضح ما إذا كانت روسيا ستلتزم به]]></description>
-            <content:encoded><![CDATA[كالاس: الاتحاد الأوروبي يرحب بوقف إطلاق النار على قطاع الطاقة بأوكرانيا ولم يتضح ما إذا كانت روسيا ستلتزم به]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
