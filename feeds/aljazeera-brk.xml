@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 20:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 20:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[زيلنسكي: ستارلينك تقيد خدماتها في أوكرانيا مما يعيق عمل مسيراتنا في مهام الدفاع…]]></title>
+            <link>https://t.me/aljazeeraBrk/239779</link>
+            <guid isPermaLink="false">460b345c360db9e75e878bc9aa5b42802323db5a29a8da63934a1fd20ee6e77d</guid>
+            <pubDate>Wed, 14 Oct 2026 20:43:03 GMT</pubDate>
+            <description><![CDATA[زيلنسكي: ستارلينك تقيد خدماتها في أوكرانيا مما يعيق عمل مسيراتنا في مهام الدفاع الجوي]]></description>
+            <content:encoded><![CDATA[زيلنسكي: ستارلينك تقيد خدماتها في أوكرانيا مما يعيق عمل مسيراتنا في مهام الدفاع الجوي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أكسيوس عن مسؤول أمريكي: لا علاقة لإدارة ترمب بقيود خدمات ستارلينك بأوكرانيا لكن…]]></title>
             <link>https://t.me/aljazeeraBrk/239778</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 12:44:02 GMT</pubDate>
             <description><![CDATA[القناة 12 الإسرائيلية عن بلدية معلوت ترشيحا: إصابة طلاب وأفراد من الطاقم التعليمي خلال رحلة مدرسية قرب الحدود الشمالية]]></description>
             <content:encoded><![CDATA[القناة 12 الإسرائيلية عن بلدية معلوت ترشيحا: إصابة طلاب وأفراد من الطاقم التعليمي خلال رحلة مدرسية قرب الحدود الشمالية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف الإسرائيلي: نواجه حادثا معقدا ونواصل تقديم العلاج للمصابين وإجلاءهم…]]></title>
-            <link>https://t.me/aljazeeraBrk/239394</link>
-            <guid isPermaLink="false">3bf5b18616c4078acbc97952426309181640bd3226822c4bb183c25b43a55653</guid>
-            <pubDate>Mon, 12 Oct 2026 12:43:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف الإسرائيلي: نواجه حادثا معقدا ونواصل تقديم العلاج للمصابين وإجلاءهم بسرعة إلى المستشفيات]]></description>
-            <content:encoded><![CDATA[الإسعاف الإسرائيلي: نواجه حادثا معقدا ونواصل تقديم العلاج للمصابين وإجلاءهم بسرعة إلى المستشفيات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
