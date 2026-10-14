@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 13 Oct 2026 01:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 13:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/10/1168589</link>
+            <guid isPermaLink="false">51f44e1506a640788b1d255e1c96d6a72e1b8ba2597e39a36f168885926afa9e</guid>
+            <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.]]></description>
+            <content:encoded><![CDATA[Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026-WHO-Yemen-cholera.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/10/1168578</link>
