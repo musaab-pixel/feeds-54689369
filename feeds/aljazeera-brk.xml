@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 11:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 11:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس البرلمان اللبناني: الموقف الرسمي اللبناني موحد في التمسك بوجود قوات…]]></title>
+            <link>https://t.me/aljazeeraBrk/239730</link>
+            <guid isPermaLink="false">7bd46a20d2eea3f3fb66ef0ed9bceb02286c4ee61c1384de6aa187656c73ec0b</guid>
+            <pubDate>Wed, 14 Oct 2026 11:27:02 GMT</pubDate>
+            <description><![CDATA[رئيس البرلمان اللبناني: الموقف الرسمي اللبناني موحد في التمسك بوجود قوات اليونيفل ومهمتها تنفيذا للقرار 1701]]></description>
+            <content:encoded><![CDATA[رئيس البرلمان اللبناني: الموقف الرسمي اللبناني موحد في التمسك بوجود قوات اليونيفل ومهمتها تنفيذا للقرار 1701]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن وامرأة إثر الاعتداء عليهما من قبل قوات…]]></title>
             <link>https://t.me/aljazeeraBrk/239729</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 11 Oct 2026 23:45:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في مدينة أبها للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في مدينة أبها للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على طريق الزربي بمديرية حيفان في…]]></title>
-            <link>https://t.me/aljazeeraBrk/239324</link>
-            <guid isPermaLink="false">83db42bcb0262fda923b159497152ba2d7f0e15a8b02d3efc004861116b5a0ca</guid>
-            <pubDate>Sun, 11 Oct 2026 23:26:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على طريق الزربي بمديرية حيفان في تعز]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على طريق الزربي بمديرية حيفان في تعز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
