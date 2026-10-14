@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 11:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 11:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن وامرأة إثر الاعتداء عليهما من قبل قوات…]]></title>
+            <link>https://t.me/aljazeeraBrk/239729</link>
+            <guid isPermaLink="false">7723e40a2cbe6d876f62f3d27d36c50eb7657b2068b790b725d272d5f58ffde5</guid>
+            <pubDate>Wed, 14 Oct 2026 11:05:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن وامرأة إثر الاعتداء عليهما من قبل قوات الاحتلال خلال اقتحام بلدة طمون]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن وامرأة إثر الاعتداء عليهما من قبل قوات الاحتلال خلال اقتحام بلدة طمون]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[برنامج الأغذية العالمي: تصاعد النزاع في اليمن أدى إلى انقطاع المساعدات المنقذة…]]></title>
             <link>https://t.me/aljazeeraBrk/239728</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 11 Oct 2026 23:26:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على طريق الزربي بمديرية حيفان في تعز]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على طريق الزربي بمديرية حيفان في تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة الطيران المدني السعودية: الاعتداء على مطار الملك خالد الدولي بالرياض أسفر…]]></title>
-            <link>https://t.me/aljazeeraBrk/239323</link>
-            <guid isPermaLink="false">2eb5a3ae25d039084fcb504740af73708c54f7d05fb0a8bc8d9f6656b639d69b</guid>
-            <pubDate>Sun, 11 Oct 2026 22:20:02 GMT</pubDate>
-            <description><![CDATA[هيئة الطيران المدني السعودية: الاعتداء على مطار الملك خالد الدولي بالرياض أسفر عن أضرار  مادية يجري حصرها]]></description>
-            <content:encoded><![CDATA[هيئة الطيران المدني السعودية: الاعتداء على مطار الملك خالد الدولي بالرياض أسفر عن أضرار  مادية يجري حصرها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
