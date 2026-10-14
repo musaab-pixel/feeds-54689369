@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 14 Oct 2026 08:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 09:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الحرس الثوري الإيراني: غرق سفينة حاويات مخالفة إثر اصطدامها بلغم جنوب…]]></title>
+            <link>https://t.me/aljazeeraBrk/239707</link>
+            <guid isPermaLink="false">cf2f43028208c0935a296b4887b093c6675013713ec82572ca57db0ccf002a5a</guid>
+            <pubDate>Wed, 14 Oct 2026 09:16:02 GMT</pubDate>
+            <description><![CDATA[بحرية الحرس الثوري الإيراني: غرق سفينة حاويات مخالفة إثر اصطدامها بلغم جنوب مضيق هرمز واندلاع حريق شديد فيها]]></description>
+            <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: غرق سفينة حاويات مخالفة إثر اصطدامها بلغم جنوب مضيق هرمز واندلاع حريق شديد فيها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تسنيم: مقتل شرطي متأثرا بإصابته في هجوم مسلح على سيارة شرطة في مهرستان…]]></title>
             <link>https://t.me/aljazeeraBrk/239706</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 10 Oct 2026 16:58:02 GMT</pubDate>
             <description><![CDATA[الخارجية السعودية: ندعو مواطنينا ممن تأثروا بإيقاف رحلات إلى الرياض للتواصل مع بعثاتنا بالخارج لطلب المساعدة]]></description>
             <content:encoded><![CDATA[الخارجية السعودية: ندعو مواطنينا ممن تأثروا بإيقاف رحلات إلى الرياض للتواصل مع بعثاتنا بالخارج لطلب المساعدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: علمت للتو بوقوع هجوم على مطار الرياض وسأتخذ قرارا]]></title>
-            <link>https://t.me/aljazeeraBrk/239145</link>
-            <guid isPermaLink="false">34f4a00bbb33e1ca14d8d5032f1096bbe05944460a4aca7d27964fd416d3b6ce</guid>
-            <pubDate>Sat, 10 Oct 2026 16:48:02 GMT</pubDate>
-            <description><![CDATA[ترمب: علمت للتو بوقوع هجوم على مطار الرياض وسأتخذ قرارا]]></description>
-            <content:encoded><![CDATA[ترمب: علمت للتو بوقوع هجوم على مطار الرياض وسأتخذ قرارا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
