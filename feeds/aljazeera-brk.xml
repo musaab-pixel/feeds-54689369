@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 06:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 06:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بنيران قوات الاحتلال الإسرائيلي في…]]></title>
+            <link>https://t.me/aljazeeraBrk/239798</link>
+            <guid isPermaLink="false">98173fde62545a64bb995339ca0d2798d22d948387e4142669d0f87820228f1e</guid>
+            <pubDate>Thu, 15 Oct 2026 06:20:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بنيران قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بنيران قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[فايننشال تايمز عن زيلنسكي: لن نوقف الضربات على قطاع الطاقة إلا إذا حصلنا في…]]></title>
             <link>https://t.me/aljazeeraBrk/239797</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 14:53:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: قصف صاروخي على مناطق في مديرية باقم الحدودية بمحافظة صعدة]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: قصف صاروخي على مناطق في مديرية باقم الحدودية بمحافظة صعدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: نفذنا 1879 عملية استهداف ضد مواقع للحوثيين باستخدام…]]></title>
-            <link>https://t.me/aljazeeraBrk/239437</link>
-            <guid isPermaLink="false">104563c91b70ba452054cf71ee139df1cb54971d64162b0c90649c4768d63184</guid>
-            <pubDate>Mon, 12 Oct 2026 14:52:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: نفذنا 1879 عملية استهداف ضد مواقع للحوثيين باستخدام الطيران والمدفعية والراجمات]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا 1879 عملية استهداف ضد مواقع للحوثيين باستخدام الطيران والمدفعية والراجمات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
