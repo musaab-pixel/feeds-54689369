@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 23:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 23:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نيويورك تايمز عن مصدر أمريكي: فانس وويتكوف وكوشنر طلبوا من زيلنسكي عدم استهداف…]]></title>
+            <link>https://t.me/aljazeeraBrk/239905</link>
+            <guid isPermaLink="false">f3d208309d78de87a3b38abb208c6bf90f367ace9b3a59f95603c76f8d5ee856</guid>
+            <pubDate>Thu, 15 Oct 2026 23:47:02 GMT</pubDate>
+            <description><![CDATA[نيويورك تايمز عن مصدر أمريكي: فانس وويتكوف وكوشنر طلبوا من زيلنسكي عدم استهداف مصافي النفط الروسية]]></description>
+            <content:encoded><![CDATA[نيويورك تايمز عن مصدر أمريكي: فانس وويتكوف وكوشنر طلبوا من زيلنسكي عدم استهداف مصافي النفط الروسية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[واشنطن بوست عن مسؤول أوكراني: نفاد أسلحة أوكرانيا المستخدمة في إسقاط الصواريخ…]]></title>
             <link>https://t.me/aljazeeraBrk/239904</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 08:55:02 GMT</pubDate>
             <description><![CDATA[وكالة تسنيم: مقتل شرطي متأثرا بإصابته في هجوم مسلح على سيارة شرطة في مهرستان جنوب شرقي إيران]]></description>
             <content:encoded><![CDATA[وكالة تسنيم: مقتل شرطي متأثرا بإصابته في هجوم مسلح على سيارة شرطة في مهرستان جنوب شرقي إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الناطق العسكري لأنصار الله الحوثيين: عملياتنا بالعمق السعودي ستستهدف الأيام…]]></title>
-            <link>https://t.me/aljazeeraBrk/239705</link>
-            <guid isPermaLink="false">76cf55ea6d5b25606e10824ac300a9fc22e16fa966d377097cc520d35c9a1e1e</guid>
-            <pubDate>Wed, 14 Oct 2026 08:53:02 GMT</pubDate>
-            <description><![CDATA[الناطق العسكري لأنصار الله الحوثيين: عملياتنا بالعمق السعودي ستستهدف الأيام المقبلة المطارات والمنشآت النفطية]]></description>
-            <content:encoded><![CDATA[الناطق العسكري لأنصار الله الحوثيين: عملياتنا بالعمق السعودي ستستهدف الأيام المقبلة المطارات والمنشآت النفطية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
