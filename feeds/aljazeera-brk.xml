@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 12:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[يديعوت أحرونوت: نتنياهو يعقد مساء اليوم اجتماعا أمنيا مع قادة الجيش والأمن لبحث…]]></title>
+            <link>https://t.me/aljazeeraBrk/239821</link>
+            <guid isPermaLink="false">7ddb2b03cfc5b6f4c9039d54ca13449c1cf463d7ea08768675513a5aaa03f08c</guid>
+            <pubDate>Thu, 15 Oct 2026 12:33:02 GMT</pubDate>
+            <description><![CDATA[يديعوت أحرونوت: نتنياهو يعقد مساء اليوم اجتماعا أمنيا مع قادة الجيش والأمن لبحث التطورات المتعلقة بإيران]]></description>
+            <content:encoded><![CDATA[يديعوت أحرونوت: نتنياهو يعقد مساء اليوم اجتماعا أمنيا مع قادة الجيش والأمن لبحث التطورات المتعلقة بإيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس اللبناني: التطورات الإقليمية والدولية وانتخابات إسرائيل ربما أبطأت…]]></title>
             <link>https://t.me/aljazeeraBrk/239820</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 17:27:02 GMT</pubDate>
             <description><![CDATA[بلومبرغ عن بيانات ملاحية: 10 ناقلات نفط عملاقة كانت تقترب من ميناء الفجيرة توقفت أو عكست مسارها مؤخرا]]></description>
             <content:encoded><![CDATA[بلومبرغ عن بيانات ملاحية: 10 ناقلات نفط عملاقة كانت تقترب من ميناء الفجيرة توقفت أو عكست مسارها مؤخرا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إعلان لـ60 دولة: نعارض فرض رسوم أو طلب الحصول على إذن مسبق أو عرقلة وتقويض…]]></title>
-            <link>https://t.me/aljazeeraBrk/239460</link>
-            <guid isPermaLink="false">5abd902036fc2f343dac8076ee13f257ee1983464dee5f43b7ff48041e354144</guid>
-            <pubDate>Mon, 12 Oct 2026 16:34:02 GMT</pubDate>
-            <description><![CDATA[إعلان لـ60 دولة: نعارض فرض رسوم أو طلب الحصول على إذن مسبق أو عرقلة وتقويض الملاحة بالمضائق الدولية]]></description>
-            <content:encoded><![CDATA[إعلان لـ60 دولة: نعارض فرض رسوم أو طلب الحصول على إذن مسبق أو عرقلة وتقويض الملاحة بالمضائق الدولية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
