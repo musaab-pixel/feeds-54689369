@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 22:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 22:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[تاس عن مصدر بخدمات الملاحة الجوية: 6 طائرات كانت متجهة من تركيا إلى موسكو عادت…]]></title>
+            <link>https://t.me/aljazeeraBrk/239895</link>
+            <guid isPermaLink="false">6f0023942aeb1e9bad2a3f115a9fce0f62e93c44142f4c1f7191636c771e2636</guid>
+            <pubDate>Thu, 15 Oct 2026 22:24:02 GMT</pubDate>
+            <description><![CDATA[تاس عن مصدر بخدمات الملاحة الجوية: 6 طائرات كانت متجهة من تركيا إلى موسكو عادت أدراجها بسبب قيود بمطار فنوكوفو]]></description>
+            <content:encoded><![CDATA[تاس عن مصدر بخدمات الملاحة الجوية: 6 طائرات كانت متجهة من تركيا إلى موسكو عادت أدراجها بسبب قيود بمطار فنوكوفو]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[فايننشال تايمز عن مصادر: الخطوة الأمريكية تأتي للحد من ارتفاع أسعار الديزل قبيل…]]></title>
             <link>https://t.me/aljazeeraBrk/239894</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 07:40:02 GMT</pubDate>
             <description><![CDATA[محافظة هرمزغان الإيرانية: إصابة ٣ صيادين في منطقة الصيد التابعة لمدينة سيريك جراء اصطدام مسيرة مجهولة بقاربهم]]></description>
             <content:encoded><![CDATA[محافظة هرمزغان الإيرانية: إصابة ٣ صيادين في منطقة الصيد التابعة لمدينة سيريك جراء اصطدام مسيرة مجهولة بقاربهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني بنيران قوات الاحتلال شرقي مدينة دير البلح…]]></title>
-            <link>https://t.me/aljazeeraBrk/239695</link>
-            <guid isPermaLink="false">44d73229b177c2a4b5aec8c3697aba2bf00a65501ee9e1416d17ddf11b659709</guid>
-            <pubDate>Wed, 14 Oct 2026 07:13:02 GMT</pubDate>
-            <description><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني بنيران قوات الاحتلال شرقي مدينة دير البلح وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مستشفى شهداء الأقصى: إصابة فلسطيني بنيران قوات الاحتلال شرقي مدينة دير البلح وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
