@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 22:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 23:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام أمريكية: مقتل 4 بينهم 3 أطفال في إطلاق نار بمدرسة في ولاية أوريغون]]></title>
+            <link>https://t.me/aljazeeraBrk/239897</link>
+            <guid isPermaLink="false">e917b6db5a6d4926531045c91eda8bff5b4a8728733ce4022405206740aac451</guid>
+            <pubDate>Thu, 15 Oct 2026 22:50:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام أمريكية: مقتل 4 بينهم 3 أطفال في إطلاق نار بمدرسة في ولاية أوريغون]]></description>
+            <content:encoded><![CDATA[وسائل إعلام أمريكية: مقتل 4 بينهم 3 أطفال في إطلاق نار بمدرسة في ولاية أوريغون]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر عسكري في محور تعز: غارتان تستهدفان مواقع للحوثيين بمنطقتي ذي البرح وجباء…]]></title>
             <link>https://t.me/aljazeeraBrk/239896</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 07:43:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم قوات التحالف: اعتراض وتدمير صاروخ باليستي أطلقته المليشيا الحوثية الإرهابية باتجاه الرياض]]></description>
             <content:encoded><![CDATA[المتحدث باسم قوات التحالف: اعتراض وتدمير صاروخ باليستي أطلقته المليشيا الحوثية الإرهابية باتجاه الرياض]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية تل غربي نابلس شمالي…]]></title>
-            <link>https://t.me/aljazeeraBrk/239697</link>
-            <guid isPermaLink="false">514d4db243975bf0ab11a6c12e2b4e7eccd31054f06082e68c3467d406cd0529</guid>
-            <pubDate>Wed, 14 Oct 2026 07:42:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية تل غربي نابلس شمالي الضفة الغربية ويطردونهم]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية تل غربي نابلس شمالي الضفة الغربية ويطردونهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
