@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 22:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 22:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر عسكري في محور تعز: غارتان تستهدفان مواقع للحوثيين بمنطقتي ذي البرح وجباء…]]></title>
+            <link>https://t.me/aljazeeraBrk/239896</link>
+            <guid isPermaLink="false">19ab704538ff3a7b4cd361bdf9fd1f2068b5faad1b753255f44b83a1abb665e3</guid>
+            <pubDate>Thu, 15 Oct 2026 22:34:01 GMT</pubDate>
+            <description><![CDATA[مصدر عسكري في محور تعز: غارتان تستهدفان مواقع للحوثيين بمنطقتي ذي البرح وجباء بمديرية المسراخ جنوبي تعز]]></description>
+            <content:encoded><![CDATA[مصدر عسكري في محور تعز: غارتان تستهدفان مواقع للحوثيين بمنطقتي ذي البرح وجباء بمديرية المسراخ جنوبي تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تاس عن مصدر بخدمات الملاحة الجوية: 6 طائرات كانت متجهة من تركيا إلى موسكو عادت…]]></title>
             <link>https://t.me/aljazeeraBrk/239895</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 07:42:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية تل غربي نابلس شمالي الضفة الغربية ويطردونهم]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية تل غربي نابلس شمالي الضفة الغربية ويطردونهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة هرمزغان الإيرانية: إصابة ٣ صيادين في منطقة الصيد التابعة لمدينة سيريك…]]></title>
-            <link>https://t.me/aljazeeraBrk/239696</link>
-            <guid isPermaLink="false">90141ea96385ef10fd9c393962c0896cb5ab39aa71cdf538fad75b1d92caf79d</guid>
-            <pubDate>Wed, 14 Oct 2026 07:40:02 GMT</pubDate>
-            <description><![CDATA[محافظة هرمزغان الإيرانية: إصابة ٣ صيادين في منطقة الصيد التابعة لمدينة سيريك جراء اصطدام مسيرة مجهولة بقاربهم]]></description>
-            <content:encoded><![CDATA[محافظة هرمزغان الإيرانية: إصابة ٣ صيادين في منطقة الصيد التابعة لمدينة سيريك جراء اصطدام مسيرة مجهولة بقاربهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
