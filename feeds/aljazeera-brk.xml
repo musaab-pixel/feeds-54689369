@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 12:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإيراني: حريق في ناقلة نفط مخالفة داخل المنطقة المحظورة شرقي مضيق هرمز]]></title>
+            <link>https://t.me/aljazeeraBrk/239822</link>
+            <guid isPermaLink="false">f7faad5b858d93027f0b6ce849cc1ab118a4e334cf08a0eb5f084132c6af8e55</guid>
+            <pubDate>Thu, 15 Oct 2026 12:44:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإيراني: حريق في ناقلة نفط مخالفة داخل المنطقة المحظورة شرقي مضيق هرمز]]></description>
+            <content:encoded><![CDATA[الجيش الإيراني: حريق في ناقلة نفط مخالفة داخل المنطقة المحظورة شرقي مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[يديعوت أحرونوت: نتنياهو يعقد مساء اليوم اجتماعا أمنيا مع قادة الجيش والأمن لبحث…]]></title>
             <link>https://t.me/aljazeeraBrk/239821</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 17:31:02 GMT</pubDate>
             <description><![CDATA[القناة 12 الإسرائيلية: الجيش عثر على مزيد من القنابل العنقودية في المنطقة التي وقع فيها انفجار اليوم بالجليل]]></description>
             <content:encoded><![CDATA[القناة 12 الإسرائيلية: الجيش عثر على مزيد من القنابل العنقودية في المنطقة التي وقع فيها انفجار اليوم بالجليل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بلومبرغ عن بيانات ملاحية: 10 ناقلات نفط عملاقة كانت تقترب من ميناء الفجيرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/239462</link>
-            <guid isPermaLink="false">d87cda2e7883db8db14295d735094c03a71446eabe5adbeedb1fb03a3825824c</guid>
-            <pubDate>Mon, 12 Oct 2026 17:27:02 GMT</pubDate>
-            <description><![CDATA[بلومبرغ عن بيانات ملاحية: 10 ناقلات نفط عملاقة كانت تقترب من ميناء الفجيرة توقفت أو عكست مسارها مؤخرا]]></description>
-            <content:encoded><![CDATA[بلومبرغ عن بيانات ملاحية: 10 ناقلات نفط عملاقة كانت تقترب من ميناء الفجيرة توقفت أو عكست مسارها مؤخرا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
