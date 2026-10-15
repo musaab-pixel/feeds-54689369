@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 08:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 08:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في أراضي قرية برقا شرق رام…]]></title>
+            <link>https://t.me/aljazeeraBrk/239804</link>
+            <guid isPermaLink="false">718598d18677d14f49cda2ceeb9f0bcf83b45449b7269bdb3efe71da98436052</guid>
+            <pubDate>Thu, 15 Oct 2026 08:14:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في أراضي قرية برقا شرق رام الله وسط الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في أراضي قرية برقا شرق رام الله وسط الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار في مدينتي جيزان ونجران للتحذير من خطر]]></title>
             <link>https://t.me/aljazeeraBrk/239803</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 12 Oct 2026 15:14:02 GMT</pubDate>
             <description><![CDATA[وزير خارجية بريطانيا: لن تتراجع حكومتنا أبدا عن التزامها بالتصدي لأعمال إيران غير المقبولة وحماية أمننا القومي]]></description>
             <content:encoded><![CDATA[وزير خارجية بريطانيا: لن تتراجع حكومتنا أبدا عن التزامها بالتصدي لأعمال إيران غير المقبولة وحماية أمننا القومي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير خارجية بريطانيا: أدرجنا مواطنين إيرانيين اثنين على قائمة العقوبات لدورهما…]]></title>
-            <link>https://t.me/aljazeeraBrk/239443</link>
-            <guid isPermaLink="false">fa13a204db965fe42610572491cf96f6311e15a3ac7bfac41f274cd9b54cae79</guid>
-            <pubDate>Mon, 12 Oct 2026 15:12:02 GMT</pubDate>
-            <description><![CDATA[وزير خارجية بريطانيا: أدرجنا مواطنين إيرانيين اثنين على قائمة العقوبات لدورهما بأنشطة عدائية نيابة عن النظام]]></description>
-            <content:encoded><![CDATA[وزير خارجية بريطانيا: أدرجنا مواطنين إيرانيين اثنين على قائمة العقوبات لدورهما بأنشطة عدائية نيابة عن النظام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
