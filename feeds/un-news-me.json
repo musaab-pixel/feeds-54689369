@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "30a3e11da6b057781e3358567d0d674c9c4650190725a8bddab7b9ddfbf2f73e",
+            "content_html": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
+            "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+            "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-01-2025-UNRWA-Gaza-15.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-15T12:00:00.000Z"
+        },
+        {
             "id": "4a9290fd2a61d1968c4bc66d4ec970eee0f28314bc93950f4c0ef2f26a5c8ef4",
             "content_html": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.&nbsp;",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
