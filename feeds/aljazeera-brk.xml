@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 20:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 20:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين بمنطقة واد الشيخ في بيت أمر…]]></title>
+            <link>https://t.me/aljazeeraBrk/239891</link>
+            <guid isPermaLink="false">990668cf80a9c3c8c2d2ce9d1bca4f9d467ed3d2d66bed2f1a96c21dfa179a34</guid>
+            <pubDate>Thu, 15 Oct 2026 20:39:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين بمنطقة واد الشيخ في بيت أمر شمال الخليل بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين بمنطقة واد الشيخ في بيت أمر شمال الخليل بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: إصابة إسرائيلي في حادث دهس في عطيرت شمال رام الله وقواتنا…]]></title>
             <link>https://t.me/aljazeeraBrk/239890</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 06:59:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في الرياض والخرج]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في الرياض والخرج]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار من المنصة الوطنية للإنذار المبكر في محافظة…]]></title>
-            <link>https://t.me/aljazeeraBrk/239691</link>
-            <guid isPermaLink="false">f7da4f417d0dc0a0268f6a83e92a6c3beeedbc0c3f94947e6c3d5cb9bafb420b</guid>
-            <pubDate>Wed, 14 Oct 2026 06:56:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار من المنصة الوطنية للإنذار المبكر في محافظة الخرج للتحذير من خطر]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار من المنصة الوطنية للإنذار المبكر في محافظة الخرج للتحذير من خطر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
