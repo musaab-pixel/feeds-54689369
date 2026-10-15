@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"rudolf-augstein-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "7180711a20d4dc7423eca901862e3bed396132a314a4dac3afcf93f13b40edcd",
+            "content_html": "Für seine herausragenden Verdienste um die Kinderschmerztherapie und pädiatrische Palliativversorgung wurde Prof. Dr. Boris Zernikow mit dem Bundesverdienstkreuz ausgezeichnet. Der Mediziner und Wissenschaftler hat die Versorgung schwerkranker Kinder und Jugendlicher in Deutschland über Jahrzehnte maßgeblich geprägt.",
+            "url": "https://rudolf-augstein-stiftung.de/aktuelles/bundesverdienstkreuz-fuer-prof-dr-boris-zernikow/",
+            "title": "Bundesverdienstkreuz für Prof. Dr. Boris Zernikow",
+            "summary": "Für seine herausragenden Verdienste um die Kinderschmerztherapie und pädiatrische Palliativversorgung wurde Prof. Dr. Boris Zernikow mit dem Bundesverdienstkreuz ausgezeichnet. Der Mediziner und Wissenschaftler hat die Versorgung schwerkranker Kinder und Jugendlicher in Deutschland über Jahrzehnte maßgeblich geprägt.",
+            "date_modified": "2026-10-09T08:00:42.000Z",
+            "author": {
+                "name": "Sandra Knocke"
+            }
+        },
+        {
             "id": "181ec61bfac5831769235e19126231b0e74f4a25e998b472f0b0a1127c01f16f",
             "content_html": "Mit Zeig, was du kannst! begleitet das Bildungswerk der Wirtschaft Mecklenburg-Vorpommern Jugendliche beim Übergang von der Schule in Ausbildung und Beruf. Im Mittelpunkt stehen ihre individuellen Stärken, eine langfristige Begleitung und praxisnahe Einblicke in die Arbeitswelt.",
             "url": "https://rudolf-augstein-stiftung.de/foerderbereich-soziales-projekte/zeig-was-du-kannst/",

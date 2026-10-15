@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"sdm.nl\" (type: native)",
     "items": [
         {
+            "id": "ff088328ca1cc70ec687956f783d728462df48684258b38ede5be65084e79168",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/\">Vacature: Senior Programmamaker Evenementen</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/",
+            "title": "Vacature: Senior Programmamaker Evenementen",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/\">Vacature: Senior Programmamaker Evenementen</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-10-15T07:16:19.000Z",
+            "author": {
+                "name": "Wout Vanzaale"
+            }
+        },
+        {
             "id": "a217b62deb612d8f001b4efaa1d3aa2de999fc0a3f2bc6b5d81c8f41a6ba4ce6",
             "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/opinie-big-tech-lijkt-almachtig-maar-wat-willen-we-zelf/\">Opinie: Big tech lijkt almachtig, maar wat willen we zelf?</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
             "url": "https://sdm.nl/artikel/opinie-big-tech-lijkt-almachtig-maar-wat-willen-we-zelf/",
