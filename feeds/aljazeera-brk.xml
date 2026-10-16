@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 15 Oct 2026 23:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 00:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر أمريكية: أمر تقييد نظام أقمار صناعية تستخدمه أوكرانيا للاتصالات…]]></title>
+            <link>https://t.me/aljazeeraBrk/239906</link>
+            <guid isPermaLink="false">9b1084364797645c4d0ba3bb7f217fad1a8129aeb57c3bb74b98614786dbe7bd</guid>
+            <pubDate>Fri, 16 Oct 2026 00:14:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر أمريكية: أمر تقييد نظام أقمار صناعية تستخدمه أوكرانيا للاتصالات العسكرية صدر عن البيت الأبيض]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر أمريكية: أمر تقييد نظام أقمار صناعية تستخدمه أوكرانيا للاتصالات العسكرية صدر عن البيت الأبيض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نيويورك تايمز عن مصدر أمريكي: فانس وويتكوف وكوشنر طلبوا من زيلنسكي عدم استهداف…]]></title>
             <link>https://t.me/aljazeeraBrk/239905</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 09:16:02 GMT</pubDate>
             <description><![CDATA[بحرية الحرس الثوري الإيراني: غرق سفينة حاويات مخالفة إثر اصطدامها بلغم جنوب مضيق هرمز واندلاع حريق شديد فيها]]></description>
             <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: غرق سفينة حاويات مخالفة إثر اصطدامها بلغم جنوب مضيق هرمز واندلاع حريق شديد فيها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تسنيم: مقتل شرطي متأثرا بإصابته في هجوم مسلح على سيارة شرطة في مهرستان…]]></title>
-            <link>https://t.me/aljazeeraBrk/239706</link>
-            <guid isPermaLink="false">9a6f7e23e63575914053126281f1f38e31557f9b0d3af2d0be71d4ef5f6ad3c7</guid>
-            <pubDate>Wed, 14 Oct 2026 08:55:02 GMT</pubDate>
-            <description><![CDATA[وكالة تسنيم: مقتل شرطي متأثرا بإصابته في هجوم مسلح على سيارة شرطة في مهرستان جنوب شرقي إيران]]></description>
-            <content:encoded><![CDATA[وكالة تسنيم: مقتل شرطي متأثرا بإصابته في هجوم مسلح على سيارة شرطة في مهرستان جنوب شرقي إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
