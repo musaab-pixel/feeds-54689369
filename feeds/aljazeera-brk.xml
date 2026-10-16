@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 02:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 03:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: قصف مدفعي على مناطق من مديرية الظاهر…]]></title>
+            <link>https://t.me/aljazeeraBrk/239923</link>
+            <guid isPermaLink="false">49013108a5766a80c8a558d4284c4cc4df5735ecaab3a0a9926dfdbae3b66606</guid>
+            <pubDate>Fri, 16 Oct 2026 03:08:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: قصف مدفعي على مناطق من مديرية الظاهر الحدودية في صعدة]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: قصف مدفعي على مناطق من مديرية الظاهر الحدودية في صعدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/239922</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 10:42:02 GMT</pubDate>
             <description><![CDATA[وزير الدفاع الإسرائيلي يسرائيل كاتس: إذا انضم حزب_الله إلى إيران في هجوم على إسرائيل فسيتعرض لضربة قوية]]></description>
             <content:encoded><![CDATA[وزير الدفاع الإسرائيلي يسرائيل كاتس: إذا انضم حزب_الله إلى إيران في هجوم على إسرائيل فسيتعرض لضربة قوية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: السفينة أبلغت عن أضرار طفيفة دون وقوع…]]></title>
-            <link>https://t.me/aljazeeraBrk/239723</link>
-            <guid isPermaLink="false">dba3622fc046b79a3152c0e6e48a4432a288704f9987fcc427bab976a0ebf93a</guid>
-            <pubDate>Wed, 14 Oct 2026 10:31:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: السفينة أبلغت عن أضرار طفيفة دون وقوع إصابات وتمكنت من مواصلة رحلتها]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: السفينة أبلغت عن أضرار طفيفة دون وقوع إصابات وتمكنت من مواصلة رحلتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
