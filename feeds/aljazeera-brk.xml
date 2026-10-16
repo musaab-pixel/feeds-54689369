@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 06:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 06:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار في أشجار الزيتون بقرية أبو فلاح قرب رام…]]></title>
+            <link>https://t.me/aljazeeraBrk/239931</link>
+            <guid isPermaLink="false">99f1916c0cb65d61315eaeb4ea6f982ba4de946a3016a7edfcd2553dd96997a2</guid>
+            <pubDate>Fri, 16 Oct 2026 06:18:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار في أشجار الزيتون بقرية أبو فلاح قرب رام الله بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يضرمون النار في أشجار الزيتون بقرية أبو فلاح قرب رام الله بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في قرى أبو فلاح وترمسعيا وبرقة…]]></title>
             <link>https://t.me/aljazeeraBrk/239930</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 11:46:02 GMT</pubDate>
             <description><![CDATA[رئيس الحكومة اللبنانية: نحتاج قوة دولية تتولى مهام المراقبة والتواصل بعد انتهاء مهمة اليونيفيل]]></description>
             <content:encoded><![CDATA[رئيس الحكومة اللبنانية: نحتاج قوة دولية تتولى مهام المراقبة والتواصل بعد انتهاء مهمة اليونيفيل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف والطوارئ بغزة: مصابون في قصف من مسيرة إسرائيلية غربي مدينة خان يونس…]]></title>
-            <link>https://t.me/aljazeeraBrk/239731</link>
-            <guid isPermaLink="false">cc1031784ad9b6db48033c24d7e4956e5758365ef4bcbe67422e805c93dfe112</guid>
-            <pubDate>Wed, 14 Oct 2026 11:36:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف والطوارئ بغزة: مصابون في قصف من مسيرة إسرائيلية غربي مدينة خان يونس جنوبي القطاع]]></description>
-            <content:encoded><![CDATA[الإسعاف والطوارئ بغزة: مصابون في قصف من مسيرة إسرائيلية غربي مدينة خان يونس جنوبي القطاع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
