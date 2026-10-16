@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 21:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 22:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تاس عن مصادر: إسقاط 14 طائرة مسيرة أخرى كانت متجهة نحو العاصمة الروسية…]]></title>
+            <link>https://t.me/aljazeeraBrk/240040</link>
+            <guid isPermaLink="false">69825d4906f618fe6cfb2e5900e0b3c462f0c673deea5a0ad11e20aa437d2fdf</guid>
+            <pubDate>Fri, 16 Oct 2026 22:35:02 GMT</pubDate>
+            <description><![CDATA[وكالة تاس عن مصادر: إسقاط 14 طائرة مسيرة أخرى كانت متجهة نحو العاصمة الروسية موسكو]]></description>
+            <content:encoded><![CDATA[وكالة تاس عن مصادر: إسقاط 14 طائرة مسيرة أخرى كانت متجهة نحو العاصمة الروسية موسكو]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: البحرية الأمريكية تنفذ حصارا فعالا ولم تتمكن أي سفينة إيرانية من عبور…]]></title>
             <link>https://t.me/aljazeeraBrk/240039</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 05:50:02 GMT</pubDate>
             <description><![CDATA[هيئة الطوارئ الأوكرانية: 3 قتلى و6 مصابين وأضرار مادية في هجوم روسي مكثف بالمسيرات على منطقة كييفوغراد]]></description>
             <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: 3 قتلى و6 مصابين وأضرار مادية في هجوم روسي مكثف بالمسيرات على منطقة كييفوغراد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[تعليق التداول في مؤشر كوسبي الكوري إثر تفعيل آلية الإيقاف المؤقت وسط موجة بيع…]]></title>
-            <link>https://t.me/aljazeeraBrk/239792</link>
-            <guid isPermaLink="false">f783d3c4d1c5a05ad1334c1774135a25ea30751cd170383408ef740550d3c953</guid>
-            <pubDate>Thu, 15 Oct 2026 05:01:02 GMT</pubDate>
-            <description><![CDATA[تعليق التداول في مؤشر كوسبي الكوري إثر تفعيل آلية الإيقاف المؤقت وسط موجة بيع عالمية لأسهم الذكاء الاصطناعي]]></description>
-            <content:encoded><![CDATA[تعليق التداول في مؤشر كوسبي الكوري إثر تفعيل آلية الإيقاف المؤقت وسط موجة بيع عالمية لأسهم الذكاء الاصطناعي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
