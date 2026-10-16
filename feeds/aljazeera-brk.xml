@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 01:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 02:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع كانت تقوم بأعمال…]]></title>
+            <link>https://t.me/aljazeeraBrk/239921</link>
+            <guid isPermaLink="false">59ad2bc621a4e91c84b69a80030b18798f48c7f64ba9d16ae6fd5f8ee73e97cf</guid>
+            <pubDate>Fri, 16 Oct 2026 02:15:02 GMT</pubDate>
+            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع  كانت تقوم بأعمال عدائية في أجواء محافظة مأرب]]></description>
+            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع  كانت تقوم بأعمال عدائية في أجواء محافظة مأرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب لنيوز ماكس: نجري محادثات مع روسيا والصين بشأن نزع السلاح النووي]]></title>
             <link>https://t.me/aljazeeraBrk/239920</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 10:30:02 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تعرض سفينة حاويات لاستهداف بمقذوف مجهول أثناء عبورها مضيق هرمز]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تعرض سفينة حاويات لاستهداف بمقذوف مجهول أثناء عبورها مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[اللجنة الدولية للصليب الأحمر: مستشفيات خطوط المواجهة تستقبل أعدادا كبيرة من…]]></title>
-            <link>https://t.me/aljazeeraBrk/239721</link>
-            <guid isPermaLink="false">053117c8f88b724cb874d1618cc2cff43d747c6cfbf6295333650ffc4592680d</guid>
-            <pubDate>Wed, 14 Oct 2026 10:11:02 GMT</pubDate>
-            <description><![CDATA[اللجنة الدولية للصليب الأحمر: مستشفيات خطوط المواجهة تستقبل أعدادا كبيرة من الجرحى وسط شح المستلزمات الطبية]]></description>
-            <content:encoded><![CDATA[اللجنة الدولية للصليب الأحمر: مستشفيات خطوط المواجهة تستقبل أعدادا كبيرة من الجرحى وسط شح المستلزمات الطبية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

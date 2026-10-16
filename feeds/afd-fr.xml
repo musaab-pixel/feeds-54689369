@@ -275,17 +275,17 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-9187" accept-charset="UTF-8">
+            <form action method="get" id="country-search-8503" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-9187" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-9187" name="country" class="fr-select">
+            <label for="select-country-search-8503" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-8503" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/pays-regions/guyane">Guyane</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-9187" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-9187');
+          <button type="submit" id="submit-country-search-8503" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-8503');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -578,17 +578,17 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-9187" accept-charset="UTF-8">
+            <form action method="get" id="country-search-8503" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-9187" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-9187" name="country" class="fr-select">
+            <label for="select-country-search-8503" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-8503" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/pays-regions/guyane">Guyane</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-9187" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-9187');
+          <button type="submit" id="submit-country-search-8503" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-8503');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -685,11 +685,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1837261837" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-69893806" type="button">
           Recherche-action sur les communs   
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1837261837">
+  <div class="fr-collapse" id="accordion-69893806">
         
 
 <div class="my-8 print-para-space">
@@ -716,11 +716,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1547558777" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-522317747" type="button">
           Comprendre les aspirations des jeunes d’Afrique de l’Ouest
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1547558777">
+  <div class="fr-collapse" id="accordion-522317747">
         
 
 <div class="my-8 print-para-space">
@@ -1582,11 +1582,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1837261837" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-69893806" type="button">
           Recherche-action sur les communs   
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1837261837">
+  <div class="fr-collapse" id="accordion-69893806">
         
 
 <div class="my-8 print-para-space">
@@ -1613,11 +1613,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1547558777" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-522317747" type="button">
           Comprendre les aspirations des jeunes d’Afrique de l’Ouest
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1547558777">
+  <div class="fr-collapse" id="accordion-522317747">
         
 
 <div class="my-8 print-para-space">
@@ -2574,11 +2574,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-46524635" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1397011523" type="button">
           21 octobre 2026 | Side events 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-46524635">
+  <div class="fr-collapse" id="accordion-1397011523">
         
 
 <div class="my-8 print-para-space">
@@ -2611,11 +2611,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1947391666" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1624387283" type="button">
           22 octobre | Side events
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1947391666">
+  <div class="fr-collapse" id="accordion-1624387283">
         
 
 <div class="my-8 print-para-space">
@@ -2637,11 +2637,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-705116034" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-387282207" type="button">
           25 octobre | Journée APA : accès et partage des avantages
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-705116034">
+  <div class="fr-collapse" id="accordion-387282207">
         
 
 <div class="my-8 print-para-space">
@@ -2662,11 +2662,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1870502334" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-251684909" type="button">
           26 octobre | Journée finance 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1870502334">
+  <div class="fr-collapse" id="accordion-251684909">
         
 
 <div class="my-8 print-para-space">
@@ -2693,11 +2693,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-736497732" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-288073543" type="button">
           27 octobre | Side events 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-736497732">
+  <div class="fr-collapse" id="accordion-288073543">
         
 
 <div class="my-8 print-para-space">
@@ -2744,11 +2744,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-814248615" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1981258940" type="button">
           Décryptages
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-814248615">
+  <div class="fr-collapse" id="accordion-1981258940">
         
 
 <div class="my-8 md:my-10 print-para-space">
@@ -2845,11 +2845,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-46524635" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1397011523" type="button">
           21 octobre 2026 | Side events 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-46524635">
+  <div class="fr-collapse" id="accordion-1397011523">
         
 
 <div class="my-8 print-para-space">
@@ -2882,11 +2882,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1947391666" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1624387283" type="button">
           22 octobre | Side events
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1947391666">
+  <div class="fr-collapse" id="accordion-1624387283">
         
 
 <div class="my-8 print-para-space">
@@ -2908,11 +2908,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-705116034" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-387282207" type="button">
           25 octobre | Journée APA : accès et partage des avantages
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-705116034">
+  <div class="fr-collapse" id="accordion-387282207">
         
 
 <div class="my-8 print-para-space">
@@ -2933,11 +2933,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1870502334" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-251684909" type="button">
           26 octobre | Journée finance 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1870502334">
+  <div class="fr-collapse" id="accordion-251684909">
         
 
 <div class="my-8 print-para-space">
@@ -2964,11 +2964,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-736497732" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-288073543" type="button">
           27 octobre | Side events 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-736497732">
+  <div class="fr-collapse" id="accordion-288073543">
         
 
 <div class="my-8 print-para-space">
@@ -3015,11 +3015,11 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-814248615" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1981258940" type="button">
           Décryptages
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-814248615">
+  <div class="fr-collapse" id="accordion-1981258940">
         
 
 <div class="my-8 md:my-10 print-para-space">
@@ -4366,91 +4366,6 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/baladna-redressement-economique-dans-les-regions-affectees-par-le-conflit-au-liban" class="fr-card__link">BALADNA – Redressement économique dans les régions affectées par le conflit au Liban</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2030</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Liban</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 2 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/baladna-redressement-economique-dans-les-regions-affectees-par-le-conflit-au-liban.jpg.webp?itok=CwnnC4W8" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/manhajna-soutien-la-reforme-des-programmes-scolaires-au-liban" class="fr-card__link">MANHAJNA - Soutien à la réforme des programmes scolaires au Liban</a>
               </h3>
       
@@ -4582,6 +4497,91 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/compr-photo-projet-espoirs-credit-cicr.png.webp?itok=nwgnqSdi" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/apaise-appui-la-performance-et-lacces-aux-infrastructures-et-aux-services-deau" class="fr-card__link">APAISE</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Eau et assainissement
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Liban</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 18 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/photo-pour-apaise-credit-ramy-saliba.jpg.webp?itok=ttn4WcJl" width="715" height="402" alt>
 
 
 
@@ -5297,91 +5297,6 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/baladna-redressement-economique-dans-les-regions-affectees-par-le-conflit-au-liban" class="fr-card__link">BALADNA – Redressement économique dans les régions affectées par le conflit au Liban</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2030</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Liban</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 2 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/baladna-redressement-economique-dans-les-regions-affectees-par-le-conflit-au-liban.jpg.webp?itok=CwnnC4W8" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/manhajna-soutien-la-reforme-des-programmes-scolaires-au-liban" class="fr-card__link">MANHAJNA - Soutien à la réforme des programmes scolaires au Liban</a>
               </h3>
       
@@ -5513,6 +5428,91 @@ Ce dynamisme s’inscrit dans un contexte de rattrapage structurel, marqué par 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/compr-photo-projet-espoirs-credit-cicr.png.webp?itok=nwgnqSdi" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/apaise-appui-la-performance-et-lacces-aux-infrastructures-et-aux-services-deau" class="fr-card__link">APAISE</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Eau et assainissement
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Liban</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 18 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/photo-pour-apaise-credit-ramy-saliba.jpg.webp?itok=ttn4WcJl" width="715" height="402" alt>
 
 
 
