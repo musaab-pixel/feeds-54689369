@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "950f93284ea812f382ed1e1c3b4a60a0da9dfa4fc82a85a66ef430fa2924676e",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-personalentwicklung-und-kompetenzmanagement-im-bereich-personal-0",
+            "title": "Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
+            "date_modified": "2026-10-16T14:02:42.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "cb4b27e89018d69bacab4464f705f6a32fad71e4926e4685ad4f26b93ec69290",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.) </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/dualer-master-ma-personalmanagement-und-wirtschaftspsychologie-mwdiv-0",
+            "title": "Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.)",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.) </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
+            "date_modified": "2026-10-16T14:02:42.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "f1cbea80d45290a451580d340d8d9df7de9adcc81751842aec89716c62161524",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Nachhaltigkeit </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-wmdiv-fuer-den-bereich-nachhaltigkeit",
+            "title": "Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Nachhaltigkeit",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Nachhaltigkeit </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
+            "date_modified": "2026-10-16T14:02:42.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
+            "id": "3c1d217179b2d3c32de564dc8d9f47dd71e3c499e00a0b58c4f7499fac631838",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.) </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-15T16:52:06+02:00\" title=\"Donnerstag, 15 Oktober 2026 - 16:52\" class=\"datetime\">Do. 15 Okt 2026 - 16:52</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/dualer-master-ma-personalmanagement-und-wirtschaftspsychologie-mwdiv",
+            "title": "Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.)",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.) </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-15T16:52:06+02:00\" title=\"Donnerstag, 15 Oktober 2026 - 16:52\" class=\"datetime\">Do. 15 Okt 2026 - 16:52</time>\n</span>\n",
+            "date_modified": "2026-10-15T14:52:06.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "a5b42af49383d10ed215c684711867cc73951cf9c9016d026fb0d961151c58fc",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>derpeder</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-12T08:35:17+02:00\" title=\"Montag, 12 Oktober 2026 - 08:35\" class=\"datetime\">Mo. 12 Okt 2026 - 08:35</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-personalentwicklung-und-kompetenzmanagement-im-bereich-personal",
