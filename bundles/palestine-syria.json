@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "97f1ba076db617f705c3ce07ac3bedffe12b0bef2aa7d612dcefbae72dff88ab",
+            "content_html": "ترمب لنيوز ماكس: العداء الشخصي بين بوتين وزيلينسكي يجعل التوصل إلى تسوية أمرا بالغ الصعوبة",
+            "url": "https://t.me/aljazeeraBrk/239916",
+            "title": "ترمب لنيوز ماكس: العداء الشخصي بين بوتين وزيلينسكي يجعل التوصل إلى تسوية أمرا…",
+            "summary": "ترمب لنيوز ماكس: العداء الشخصي بين بوتين وزيلينسكي يجعل التوصل إلى تسوية أمرا بالغ الصعوبة",
+            "date_modified": "2026-10-16T01:09:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7966f45cdbce0ca931e0742cfd625b0c7cf991b347285c32f587a0937d97ba3e",
+            "content_html": "ترمب لنيوز ماكس: هجمات زيلينسكي على مصافي النفط الروسية ترفع أسعار النفط العالمية",
+            "url": "https://t.me/aljazeeraBrk/239915",
+            "title": "ترمب لنيوز ماكس: هجمات زيلينسكي على مصافي النفط الروسية ترفع أسعار النفط…",
+            "summary": "ترمب لنيوز ماكس: هجمات زيلينسكي على مصافي النفط الروسية ترفع أسعار النفط العالمية",
+            "date_modified": "2026-10-16T01:08:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "3945397d79176b415297b3ca556df7a4577ae9d066ff8e0ce97f23813eefed67",
             "content_html": "ترمب لنيوز ماكس: إيران طلبت وقف الهجمات الأمريكية والمفاوضات ما تزال مستمرة",
             "url": "https://t.me/aljazeeraBrk/239914",
@@ -1624,28 +1646,6 @@
             "date_modified": "2026-10-15T09:06:00.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "7eea939c62b6a29d3d2b1ddd9bced5dc31a4d8e7f77bace1db2bf068e49c1281",
-            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | المتحدث باسم قوات تحالف دعم الشرعية في اليمن تركي المالكي: </b>‏اعتراض صاروخ مجنح (كروز) وتدميره في منطقة المدينة المنورة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141768",
-            "title": "🛑#عاجل | المتحدث باسم قوات تحالف دعم الشرعية في اليمن تركي المالكي: ‏اعتراض…",
-            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | المتحدث باسم قوات تحالف دعم الشرعية في اليمن تركي المالكي: </b>‏اعتراض صاروخ مجنح (كروز) وتدميره في منطقة المدينة المنورة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-15T08:57:27.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "5be2d215fc335b5e7d2a87710b500fab4a2882ae7d14be53336dd729dc7097ee",
-            "content_html": "المتحدث باسم قوات التحالف: اعتراض وتدمير صاروخ مجنح من طراز كروز بمنطقة المدينة_المنورة",
-            "url": "https://t.me/aljazeeraBrk/239809",
-            "title": "المتحدث باسم قوات التحالف: اعتراض وتدمير صاروخ مجنح من طراز كروز بمنطقة…",
-            "summary": "المتحدث باسم قوات التحالف: اعتراض وتدمير صاروخ مجنح من طراز كروز بمنطقة المدينة_المنورة",
-            "date_modified": "2026-10-15T08:53:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
