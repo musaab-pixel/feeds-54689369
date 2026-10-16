@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 22:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 23:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: عدوان بالصواريخ على شرق مدينة صعدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/240043</link>
+            <guid isPermaLink="false">89b8e51913274c3c926f70bf1a1871a11b2c325c637e8a7945b3810f08427a01</guid>
+            <pubDate>Fri, 16 Oct 2026 22:57:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: عدوان بالصواريخ على شرق مدينة صعدة ومديرية سحار شمالي اليمن]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: عدوان بالصواريخ على شرق مدينة صعدة ومديرية سحار شمالي اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن أبها وخميس مشيط]]></title>
             <link>https://t.me/aljazeeraBrk/240042</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 06:07:02 GMT</pubDate>
             <description><![CDATA[المدعي العام في كرمان جنوبي إيران: اعتقال أعضاء مجموعة منظمة بتهمة الضلوع في أنشطة مزعزعة للأمن]]></description>
             <content:encoded><![CDATA[المدعي العام في كرمان جنوبي إيران: اعتقال أعضاء مجموعة منظمة بتهمة الضلوع في أنشطة مزعزعة للأمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع الروسية: استهدفنا بالمسيرات البنية التحتية لميناء إسماعيل بمنطقة أوديسا…]]></title>
-            <link>https://t.me/aljazeeraBrk/239795</link>
-            <guid isPermaLink="false">64db09c24f018f0f2cf7e8f464287a196987c3902ab6b150715393e4ec23f035</guid>
-            <pubDate>Thu, 15 Oct 2026 05:54:02 GMT</pubDate>
-            <description><![CDATA[الدفاع الروسية: استهدفنا بالمسيرات البنية التحتية لميناء إسماعيل بمنطقة أوديسا الذي تستخدمه القوات الأوكرانية]]></description>
-            <content:encoded><![CDATA[الدفاع الروسية: استهدفنا بالمسيرات البنية التحتية لميناء إسماعيل بمنطقة أوديسا الذي تستخدمه القوات الأوكرانية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

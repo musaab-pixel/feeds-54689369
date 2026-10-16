@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "89b8e51913274c3c926f70bf1a1871a11b2c325c637e8a7945b3810f08427a01",
+            "content_html": "وسائل إعلام تابعة لأنصار الله الحوثيين: عدوان بالصواريخ على شرق مدينة صعدة ومديرية سحار شمالي اليمن",
+            "url": "https://t.me/aljazeeraBrk/240043",
+            "title": "وسائل إعلام تابعة لأنصار الله الحوثيين: عدوان بالصواريخ على شرق مدينة صعدة…",
+            "summary": "وسائل إعلام تابعة لأنصار الله الحوثيين: عدوان بالصواريخ على شرق مدينة صعدة ومديرية سحار شمالي اليمن",
+            "date_modified": "2026-10-16T22:57:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "041ef07fbedef4521ac950d0a1dd0c2c2bf79cbdd3aec7acedfeaeafa86c7c9f",
             "content_html": "الدفاع المدني السعودي: زوال الخطر عن أبها وخميس مشيط",
             "url": "https://t.me/aljazeeraBrk/240042",
@@ -1638,17 +1649,6 @@
             "date_modified": "2026-10-15T20:39:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "d7ed684f625020e3680dfbe3f90836d78af937eb8ddda5d81f6c113d616d084b",
-            "content_html": "الهيئة العامة للطيران المدني: الخطوط الجوية السورية تبدأ تشغيل رحلاتها المنتظمة والمباشرة بين حلب وموسكو اعتبارًا من 18 تشرين الثاني القادم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141800",
-            "title": "الهيئة العامة للطيران المدني: الخطوط الجوية السورية تبدأ تشغيل رحلاتها المنتظمة…",
-            "summary": "الهيئة العامة للطيران المدني: الخطوط الجوية السورية تبدأ تشغيل رحلاتها المنتظمة والمباشرة بين حلب وموسكو اعتبارًا من 18 تشرين الثاني القادم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-15T20:18:42.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
