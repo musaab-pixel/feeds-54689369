@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "b9d13d1391bfe1a930549ee0f002824a7ac119ca1333a610d9e5bcb5aa1094dc",
+            "content_html": "وزير الإعلام اليمني: مليشيا الحوثي أطلقت صاروخين سقطا قرب طائرة يمنية كانت تستعد للإقلاع من مطار عدن للقاهرة",
+            "url": "https://t.me/aljazeeraBrk/240034",
+            "title": "وزير الإعلام اليمني: مليشيا الحوثي أطلقت صاروخين سقطا قرب طائرة يمنية كانت…",
+            "summary": "وزير الإعلام اليمني: مليشيا الحوثي أطلقت صاروخين سقطا قرب طائرة يمنية كانت تستعد للإقلاع من مطار عدن للقاهرة",
+            "date_modified": "2026-10-16T20:06:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "a1b25d6bd38c0c9d6388a2713bb19def163aca1fad0730942b75a292c3d10936",
+            "content_html": "وزير الإعلام اليمني: مليشيا الحوثي تهدد أرواح الركاب وسلامة الملاحة الجوية وتنتهك القوانين والأعراف الدولية",
+            "url": "https://t.me/aljazeeraBrk/240035",
+            "title": "وزير الإعلام اليمني: مليشيا الحوثي تهدد أرواح الركاب وسلامة الملاحة الجوية…",
+            "summary": "وزير الإعلام اليمني: مليشيا الحوثي تهدد أرواح الركاب وسلامة الملاحة الجوية وتنتهك القوانين والأعراف الدولية",
+            "date_modified": "2026-10-16T20:06:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "06345a83950f5e08a70dce0a28d442298465f47048c9aeb033ddc1a9ded870ed",
+            "content_html": "مؤشر ناسداك الأمريكي يختتم تعاملاته بتراجع بأكثر من 2,6% ويسجل أسوأ أداء أسبوعي له منذ أبريل 2025",
+            "url": "https://t.me/aljazeeraBrk/240033",
+            "title": "مؤشر ناسداك الأمريكي يختتم تعاملاته بتراجع بأكثر من 2,6% ويسجل أسوأ أداء أسبوعي…",
+            "summary": "مؤشر ناسداك الأمريكي يختتم تعاملاته بتراجع بأكثر من 2,6% ويسجل أسوأ أداء أسبوعي له منذ أبريل 2025",
+            "date_modified": "2026-10-16T20:05:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "c577a7914e4285063ba111fd1096334fa46d71fc853d25200110d83207320c33",
             "content_html": "إدارة أمن محافظة عدن: صاروخان أطلقتهما جماعة_الحوثي سقطا داخل مطار عدن في حادثة هي الثانية خلال أقل من أسبوع",
             "url": "https://t.me/aljazeeraBrk/240032",
@@ -1616,40 +1649,6 @@
             "date_modified": "2026-10-15T19:39:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2e10c198ec4c50fd4876c725249738c12264c9b7f102889af83521b2800f256f",
-            "content_html": "سي بي إس عن مسؤول بالبنتاغون: نضع خططا لسيناريوهات واسعة لتنفيذ توجيهات الرئيس ووزير الدفاع",
-            "url": "https://t.me/aljazeeraBrk/239882",
-            "title": "سي بي إس عن مسؤول بالبنتاغون: نضع خططا لسيناريوهات واسعة لتنفيذ توجيهات الرئيس…",
-            "summary": "سي بي إس عن مسؤول بالبنتاغون: نضع خططا لسيناريوهات واسعة لتنفيذ توجيهات الرئيس ووزير الدفاع",
-            "date_modified": "2026-10-15T19:37:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "33a35b98645521d21bee0b2b3776cf6fc058f5f71d3b1880e07ca6b4e0f7c5df",
-            "content_html": "وزير الصحة اليمني: مقتل 5 أشخاص وإصابة 16 في الهجوم الحوثي الإرهابي على المجمع الرئاسي بمعاشيق في عدن",
-            "url": "https://t.me/aljazeeraBrk/239881",
-            "title": "وزير الصحة اليمني: مقتل 5 أشخاص وإصابة 16 في الهجوم الحوثي الإرهابي على المجمع…",
-            "summary": "وزير الصحة اليمني: مقتل 5 أشخاص وإصابة 16 في الهجوم الحوثي الإرهابي على المجمع الرئاسي بمعاشيق في عدن",
-            "date_modified": "2026-10-15T19:08:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "8f9882ee135a33ade9de2d2e24f527c26457ebae3efb716e3eab22cd2dfd69cf",
-            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">بعد إنارة المحاور الرئيسية.. بدء تركيب الإضاءة في الشوارع الفرعية بحيي السكري والميسر في <a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\">#حلب</a><br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "url": "https://t.me/HalabTodayTV/141796",
-            "title": "بعد إنارة المحاور الرئيسية.. بدء تركيب الإضاءة في الشوارع الفرعية بحيي السكري…",
-            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">بعد إنارة المحاور الرئيسية.. بدء تركيب الإضاءة في الشوارع الفرعية بحيي السكري والميسر في <a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\">#حلب</a><br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "image": "https://cdn4.telesco.pe/file/IO_tMEHcbs2etH65PI62aAtSa4742m6b4W1LaHkQoYHKTaFOemDPjlSEMaFB5-85y8_3YKMQh0ZcHKXay9q3YuLivz9R4kB8lld35IbE1mQd-EUHLidLrQK5yqHTomVPYBR7Zlf7Z-7w-By2Xx0iZ7q5Vm5oWHZkE3DWb6EiwZgfwSd1t4tesl6ZeIZqw4qNRFelrFMegaDGLP-8u9WQ59X_VcuCTeLmba-l6gInAhG-L5Sb_o6L9xhWzdNiRu_whG2i0DdD5nb6OLMjnmBRtyBRGQxpKlwiQwkXi9b-MDaG-iVaZqmAoKa4KsfyoSkA1oBcNSti-SzZaYrJSM2BEQ.jpg",
-            "date_modified": "2026-10-15T19:01:12.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
