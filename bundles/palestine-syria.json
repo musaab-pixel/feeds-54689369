@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a42e4faaa1441652a9d460d3870fc23dcdd92d55476bba11c1de21811b9ef817",
+            "content_html": "المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة الشرقية في السعودية",
+            "url": "https://t.me/aljazeeraBrk/239922",
+            "title": "المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة…",
+            "summary": "المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة الشرقية في السعودية",
+            "date_modified": "2026-10-16T02:43:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "59ad2bc621a4e91c84b69a80030b18798f48c7f64ba9d16ae6fd5f8ee73e97cf",
             "content_html": "المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع  كانت تقوم بأعمال عدائية في أجواء محافظة مأرب",
             "url": "https://t.me/aljazeeraBrk/239921",
@@ -1634,17 +1645,6 @@
             "date_modified": "2026-10-15T09:23:36.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "477133d0d76dcc31720764fdb3202701453160e11b4ba15b800350e5d74cdde2",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMipgRBVV95cUxNT1pXcWwySkstNkQ3RzlzU0JMakhPQlFTbndFVmw4NXJfV3ZMQjlwQWM5eGU5allHNnQ1Z3NKM1F1WUhJaEMtbmVicm5DQ0xYUW1uRGVWMVNWYWFPR002VHV1WWxrejZmczRsZkJnMWdLNUdkNXo4c204RXV0dWczWVhEUG13YTY1RGpXQUw3UFNFNjVDcV9yX2JBSFozVUJYSlM2RXVDWEJjZFhzbVY5NmpPeWRYZW1tRTRKMTVxWGVqX0FFUTJDUHN1QW1IRkFqVTFhUTRLb2tjNnFrRU5hYzVadVB4RDFFd3R6WUxQeExBMTJ4SDNCQnVtS291alFZTkhXUkJZZ3E0QUdFZ21tTlAtR3BhMEZnTUZ2QkozRkg5YXJWSWFEM19Jejkza3hVNDdpMW5qZGkwWV9hUjctSUs5d3ZfeVF5Q1RySHdnSTEzUV9Ca0hxRUJkWGR3SXQ5aGQwMWxrMkt6SXRlZXJNYmd2ZjZ2VFg0WGdLMGFHX3hReUlKUk1hczFhS3BaWkd0TGNKLVI1SWdnTk5KeHplSDRTQWgtbGtQTm5sNGQxcXF6Yk1FS0VYY0FxLVVLSXk3cGVNNHdMTUt6eno5a3lVaFRZa0o1aEtJQk04dFRZM0RSeVdnX1BsbXdPalp3dmtud0VwZHBid2VYOWU3NHRvQXBxWTkySGJPbFZHbnBxMWktWFg1czd1enlfRk1UQzB5TzJ3WHJ3?oc=5\" target=\"_blank\">\"أونروا\" تبدأ تقييماً ميدانياً لهشاشة أسر اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNT1pXcWwySkstNkQ3RzlzU0JMakhPQlFTbndFVmw4NXJfV3ZMQjlwQWM5eGU5allHNnQ1Z3NKM1F1WUhJaEMtbmVicm5DQ0xYUW1uRGVWMVNWYWFPR002VHV1WWxrejZmczRsZkJnMWdLNUdkNXo4c204RXV0dWczWVhEUG13YTY1RGpXQUw3UFNFNjVDcV9yX2JBSFozVUJYSlM2RXVDWEJjZFhzbVY5NmpPeWRYZW1tRTRKMTVxWGVqX0FFUTJDUHN1QW1IRkFqVTFhUTRLb2tjNnFrRU5hYzVadVB4RDFFd3R6WUxQeExBMTJ4SDNCQnVtS291alFZTkhXUkJZZ3E0QUdFZ21tTlAtR3BhMEZnTUZ2QkozRkg5YXJWSWFEM19Jejkza3hVNDdpMW5qZGkwWV9hUjctSUs5d3ZfeVF5Q1RySHdnSTEzUV9Ca0hxRUJkWGR3SXQ5aGQwMWxrMkt6SXRlZXJNYmd2ZjZ2VFg0WGdLMGFHX3hReUlKUk1hczFhS3BaWkd0TGNKLVI1SWdnTk5KeHplSDRTQWgtbGtQTm5sNGQxcXF6Yk1FS0VYY0FxLVVLSXk3cGVNNHdMTUt6eno5a3lVaFRZa0o1aEtJQk04dFRZM0RSeVdnX1BsbXdPalp3dmtud0VwZHBid2VYOWU3NHRvQXBxWTkySGJPbFZHbnBxMWktWFg1czd1enlfRk1UQzB5TzJ3WHJ3?oc=5",
-            "title": "\"أونروا\" تبدأ تقييماً ميدانياً لهشاشة أسر اللاجئين الفلسطينيين في سوريا - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgRBVV95cUxNT1pXcWwySkstNkQ3RzlzU0JMakhPQlFTbndFVmw4NXJfV3ZMQjlwQWM5eGU5allHNnQ1Z3NKM1F1WUhJaEMtbmVicm5DQ0xYUW1uRGVWMVNWYWFPR002VHV1WWxrejZmczRsZkJnMWdLNUdkNXo4c204RXV0dWczWVhEUG13YTY1RGpXQUw3UFNFNjVDcV9yX2JBSFozVUJYSlM2RXVDWEJjZFhzbVY5NmpPeWRYZW1tRTRKMTVxWGVqX0FFUTJDUHN1QW1IRkFqVTFhUTRLb2tjNnFrRU5hYzVadVB4RDFFd3R6WUxQeExBMTJ4SDNCQnVtS291alFZTkhXUkJZZ3E0QUdFZ21tTlAtR3BhMEZnTUZ2QkozRkg5YXJWSWFEM19Jejkza3hVNDdpMW5qZGkwWV9hUjctSUs5d3ZfeVF5Q1RySHdnSTEzUV9Ca0hxRUJkWGR3SXQ5aGQwMWxrMkt6SXRlZXJNYmd2ZjZ2VFg0WGdLMGFHX3hReUlKUk1hczFhS3BaWkd0TGNKLVI1SWdnTk5KeHplSDRTQWgtbGtQTm5sNGQxcXF6Yk1FS0VYY0FxLVVLSXk3cGVNNHdMTUt6eno5a3lVaFRZa0o1aEtJQk04dFRZM0RSeVdnX1BsbXdPalp3dmtud0VwZHBid2VYOWU3NHRvQXBxWTkySGJPbFZHbnBxMWktWFg1czd1enlfRk1UQzB5TzJ3WHJ3?oc=5\" target=\"_blank\">\"أونروا\" تبدأ تقييماً ميدانياً لهشاشة أسر اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-10-15T09:22:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]

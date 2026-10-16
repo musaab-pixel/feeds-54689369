@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 02:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 02:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/239922</link>
+            <guid isPermaLink="false">a42e4faaa1441652a9d460d3870fc23dcdd92d55476bba11c1de21811b9ef817</guid>
+            <pubDate>Fri, 16 Oct 2026 02:43:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة الشرقية في السعودية]]></description>
+            <content:encoded><![CDATA[المتحدث باسم قوات التحالف: اعتراض وتدمير طائرة مسيرة أطلقت باتجاه المنطقة الشرقية في السعودية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع كانت تقوم بأعمال…]]></title>
             <link>https://t.me/aljazeeraBrk/239921</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 14 Oct 2026 10:31:02 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: السفينة أبلغت عن أضرار طفيفة دون وقوع إصابات وتمكنت من مواصلة رحلتها]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: السفينة أبلغت عن أضرار طفيفة دون وقوع إصابات وتمكنت من مواصلة رحلتها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تعرض سفينة حاويات لاستهداف بمقذوف مجهول…]]></title>
-            <link>https://t.me/aljazeeraBrk/239722</link>
-            <guid isPermaLink="false">53d38f3003dbc684e4ec753b43382ca1df370ffe3006841fc64dfa35ca175571</guid>
-            <pubDate>Wed, 14 Oct 2026 10:30:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تعرض سفينة حاويات لاستهداف بمقذوف مجهول أثناء عبورها مضيق هرمز]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تعرض سفينة حاويات لاستهداف بمقذوف مجهول أثناء عبورها مضيق هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
