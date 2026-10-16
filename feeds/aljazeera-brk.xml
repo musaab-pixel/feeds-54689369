@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 23:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 23:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان تستهدفان شرق مدينة صعدة شمالي…]]></title>
+            <link>https://t.me/aljazeeraBrk/240045</link>
+            <guid isPermaLink="false">17002d287420cbc31ccae925909040b992b6a68e74a241126091771f45ea2d6d</guid>
+            <pubDate>Fri, 16 Oct 2026 23:36:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان تستهدفان شرق مدينة صعدة شمالي اليمن]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان تستهدفان شرق مدينة صعدة شمالي اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على مديرية مران في صعدة شمالي اليمن]]></title>
             <link>https://t.me/aljazeeraBrk/240044</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 06:20:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بنيران قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بنيران قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[فايننشال تايمز عن زيلنسكي: لن نوقف الضربات على قطاع الطاقة إلا إذا حصلنا في…]]></title>
-            <link>https://t.me/aljazeeraBrk/239797</link>
-            <guid isPermaLink="false">84fc301e4e0824cd13a1bcf8faee910e3d5c29314a506ac2992d4ada9842b971</guid>
-            <pubDate>Thu, 15 Oct 2026 06:10:02 GMT</pubDate>
-            <description><![CDATA[فايننشال تايمز عن زيلنسكي: لن نوقف الضربات على قطاع الطاقة إلا إذا حصلنا في المقابل على مزيد من صواريخ باتريوت]]></description>
-            <content:encoded><![CDATA[فايننشال تايمز عن زيلنسكي: لن نوقف الضربات على قطاع الطاقة إلا إذا حصلنا في المقابل على مزيد من صواريخ باتريوت]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
