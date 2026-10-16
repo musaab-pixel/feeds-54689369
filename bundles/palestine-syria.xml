@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 19:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 19:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في مستشفى ناصر الطبي: شهيدة بنيران قوات الاحتلال الإسرائيلي في منطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/240030</link>
+            <guid isPermaLink="false">08cf1315ee5c5efdeb95de599616c132b58ded0f0457d83e664180ef6306f3e3</guid>
+            <pubDate>Fri, 16 Oct 2026 19:09:02 GMT</pubDate>
+            <description><![CDATA[مصدر في مستشفى ناصر الطبي: شهيدة بنيران قوات الاحتلال الإسرائيلي في منطقة المواصي بخان يونس جنوبي القطاع]]></description>
+            <content:encoded><![CDATA[مصدر في مستشفى ناصر الطبي: شهيدة بنيران قوات الاحتلال الإسرائيلي في منطقة المواصي بخان يونس جنوبي القطاع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الإعلام اليمنية: مليشيا الحوثي تجدد استهدافها محيط مطار عدن الدولي بالقرب…]]></title>
             <link>https://t.me/aljazeeraBrk/240029</link>
@@ -1583,15 +1592,6 @@
             <pubDate>Thu, 15 Oct 2026 18:56:02 GMT</pubDate>
             <description><![CDATA[وزير الخزانة الأمريكي: الخناق يضيق على الاقتصاد الإيراني ولن يتمكن من يسمون حلفاء إيران من إنقاذها]]></description>
             <content:encoded><![CDATA[وزير الخزانة الأمريكي: الخناق يضيق على الاقتصاد الإيراني ولن يتمكن من يسمون حلفاء إيران من إنقاذها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخام الأمريكي يتجاوز 98 دولارا بارتفاع 3% وسط مخاوف من تعطل الإمدادات بمضيق…]]></title>
-            <link>https://t.me/aljazeeraBrk/239878</link>
-            <guid isPermaLink="false">625e99adab494907d26a3a8795792994ae3852c455da8ff54285fcbd4b919838</guid>
-            <pubDate>Thu, 15 Oct 2026 18:47:02 GMT</pubDate>
-            <description><![CDATA[الخام الأمريكي يتجاوز 98 دولارا بارتفاع 3% وسط مخاوف من تعطل الإمدادات بمضيق هرمز وتراجع المخزونات]]></description>
-            <content:encoded><![CDATA[الخام الأمريكي يتجاوز 98 دولارا بارتفاع 3% وسط مخاوف من تعطل الإمدادات بمضيق هرمز وتراجع المخزونات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
