@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 07:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 07:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: إصابة فلسطينيين اثنين برصاص الاحتلال خلال هجوم مستوطنين على…]]></title>
+            <link>https://t.me/aljazeeraBrk/240062</link>
+            <guid isPermaLink="false">564ac5d04307cfead510e883329ffd0e92613ecb9dfa3fda0c463ab953079797</guid>
+            <pubDate>Sat, 17 Oct 2026 07:16:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: إصابة فلسطينيين اثنين برصاص الاحتلال خلال هجوم مستوطنين على مزارعين في دير عمار غرب رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: إصابة فلسطينيين اثنين برصاص الاحتلال خلال هجوم مستوطنين على مزارعين في دير عمار غرب رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يدمرون أشجار الزيتون في سهل بيت فوريك شرق نابلس شمال…]]></title>
             <link>https://t.me/aljazeeraBrk/240061</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 10:05:02 GMT</pubDate>
             <description><![CDATA[الكرملين: استئناف كييف هجماتها على مصافي النفط الروسية يدخلها في صدام جدي مع جهود واشنطن لإحلال السلام]]></description>
             <content:encoded><![CDATA[الكرملين: استئناف كييف هجماتها على مصافي النفط الروسية يدخلها في صدام جدي مع جهود واشنطن لإحلال السلام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[النائب عن حزب_الله حسن فضل الله: كل أنواع أسلحة المقاومة بما فيها العبوات…]]></title>
-            <link>https://t.me/aljazeeraBrk/239814</link>
-            <guid isPermaLink="false">c023317645a33a4c164f43796bb853844c1cc1f1cfb79c088b8cf58414344b1c</guid>
-            <pubDate>Thu, 15 Oct 2026 09:27:02 GMT</pubDate>
-            <description><![CDATA[النائب عن حزب_الله حسن فضل الله: كل أنواع أسلحة المقاومة بما فيها العبوات الناسفة تستخدم لمواجهة الاحتلال]]></description>
-            <content:encoded><![CDATA[النائب عن حزب_الله حسن فضل الله: كل أنواع أسلحة المقاومة بما فيها العبوات الناسفة تستخدم لمواجهة الاحتلال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
