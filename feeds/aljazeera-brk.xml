@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 23:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 01:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[البيت الأبيض: ترمب يعلق تطبيق بعض بنود قانون ليندسي غراهام التي تنص على فرض…]]></title>
+            <link>https://t.me/aljazeeraBrk/240048</link>
+            <guid isPermaLink="false">5b50ef3bebeb45dcd42ad22efd28d0b1c36e9e0f20795c39eb6913a7e89a1e05</guid>
+            <pubDate>Sat, 17 Oct 2026 01:14:02 GMT</pubDate>
+            <description><![CDATA[البيت الأبيض: ترمب يعلق تطبيق بعض بنود قانون ليندسي غراهام التي تنص على فرض عقوبات على روسيا وإيران]]></description>
+            <content:encoded><![CDATA[البيت الأبيض: ترمب يعلق تطبيق بعض بنود قانون ليندسي غراهام التي تنص على فرض عقوبات على روسيا وإيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم التحالف: تدمير منصتين لإطلاق الصواريخ الباليستية في محافظة صعدة…]]></title>
             <link>https://t.me/aljazeeraBrk/240047</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 07:00:02 GMT</pubDate>
             <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمالي مدينة غزة]]></description>
             <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمالي مدينة غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على شارع الصفطاوي…]]></title>
-            <link>https://t.me/aljazeeraBrk/239800</link>
-            <guid isPermaLink="false">a5153313433e9f3f9019af1b90ba7a0563bc5278eac302d6804ad1bfa692b2db</guid>
-            <pubDate>Thu, 15 Oct 2026 06:50:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على شارع الصفطاوي شمالي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية على شارع الصفطاوي شمالي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
