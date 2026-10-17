@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 07:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 07:31:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال ومستوطنون يمنعون مزارعين فلسطينيين من قطف الزيتون…]]></title>
+            <link>https://t.me/aljazeeraBrk/240063</link>
+            <guid isPermaLink="false">14136e6219b7ca38c2645a8ec1ffe5a352473c11dbf5bfcb1e48755332faf63d</guid>
+            <pubDate>Sat, 17 Oct 2026 07:25:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال ومستوطنون يمنعون مزارعين فلسطينيين من قطف الزيتون في قرية برقة بقضاء رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال ومستوطنون يمنعون مزارعين فلسطينيين من قطف الزيتون في قرية برقة بقضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: إصابة فلسطينيين اثنين برصاص الاحتلال خلال هجوم مستوطنين على…]]></title>
             <link>https://t.me/aljazeeraBrk/240062</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 10:14:02 GMT</pubDate>
             <description><![CDATA[الكرملين: كميات كبيرة من الديزل متوفرة اليوم وبدأت الوصول إلى الأسواق العالمية]]></description>
             <content:encoded><![CDATA[الكرملين: كميات كبيرة من الديزل متوفرة اليوم وبدأت الوصول إلى الأسواق العالمية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: استئناف كييف هجماتها على مصافي النفط الروسية يدخلها في صدام جدي مع…]]></title>
-            <link>https://t.me/aljazeeraBrk/239815</link>
-            <guid isPermaLink="false">6fcaa7738527e7ed162e10f7c970255c5556e30f8bae69cd2f933274b4795580</guid>
-            <pubDate>Thu, 15 Oct 2026 10:05:02 GMT</pubDate>
-            <description><![CDATA[الكرملين: استئناف كييف هجماتها على مصافي النفط الروسية يدخلها في صدام جدي مع جهود واشنطن لإحلال السلام]]></description>
-            <content:encoded><![CDATA[الكرملين: استئناف كييف هجماتها على مصافي النفط الروسية يدخلها في صدام جدي مع جهود واشنطن لإحلال السلام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
