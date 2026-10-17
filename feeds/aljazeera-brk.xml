@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 01:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 02:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الحرس الثوري الإيراني: مضيق هرمز مغلق ومصير السفن التي تخالف القوانين…]]></title>
+            <link>https://t.me/aljazeeraBrk/240050</link>
+            <guid isPermaLink="false">5555edef9711ec4acd6e3322068c23e90f260d53ca57ebdf7684d3b8912f1f54</guid>
+            <pubDate>Sat, 17 Oct 2026 02:43:02 GMT</pubDate>
+            <description><![CDATA[بحرية الحرس الثوري الإيراني: مضيق هرمز مغلق ومصير السفن التي تخالف القوانين الإيرانية هو الاحتراق]]></description>
+            <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: مضيق هرمز مغلق ومصير السفن التي تخالف القوانين الإيرانية هو الاحتراق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تسنيم نقلا عن الحرس الثوري الإيراني: انفجار في ناقلة نفط عملاقة بعد…]]></title>
             <link>https://t.me/aljazeeraBrk/240049</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 07:29:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار في مدينتي جيزان ونجران للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار في مدينتي جيزان ونجران للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محكمة الجنايات في حلب تقضي بالحكم بالإعدام على عدد من المتهمين في أحداث الساحل…]]></title>
-            <link>https://t.me/aljazeeraBrk/239802</link>
-            <guid isPermaLink="false">65575f4e876df23c7dddb4afa6ede66ca56162d2ccf53b5be30e55a55427ff61</guid>
-            <pubDate>Thu, 15 Oct 2026 07:26:02 GMT</pubDate>
-            <description><![CDATA[محكمة الجنايات في حلب تقضي بالحكم بالإعدام على عدد من المتهمين في أحداث الساحل السوري]]></description>
-            <content:encoded><![CDATA[محكمة الجنايات في حلب تقضي بالحكم بالإعدام على عدد من المتهمين في أحداث الساحل السوري]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
