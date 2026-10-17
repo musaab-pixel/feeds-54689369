@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 05:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 05:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حاكم خاركيف: قتيلان و41 جريحا وأضرار في المباني نتيجة قصف روسي خلال 24 ساعة]]></title>
+            <link>https://t.me/aljazeeraBrk/240054</link>
+            <guid isPermaLink="false">54b277cfcfa8e87aa1b4f16c6f987c540e1d073226082e451969f84413ec67ee</guid>
+            <pubDate>Sat, 17 Oct 2026 05:45:02 GMT</pubDate>
+            <description><![CDATA[حاكم خاركيف: قتيلان و41 جريحا وأضرار في المباني نتيجة قصف روسي خلال 24 ساعة]]></description>
+            <content:encoded><![CDATA[حاكم خاركيف: قتيلان و41 جريحا وأضرار في المباني نتيجة قصف روسي خلال 24 ساعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في قرية دير جرير بقضاء رام…]]></title>
             <link>https://t.me/aljazeeraBrk/240053</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 08:33:02 GMT</pubDate>
             <description><![CDATA[الدفاع الروسية: تدمير 4 صواريخ من طراز فلامنغو وإسقاط 69 مسيرة خلال هجوم أوكراني على مصفاة نفط بمقاطعة ريازان]]></description>
             <content:encoded><![CDATA[الدفاع الروسية: تدمير 4 صواريخ من طراز فلامنغو وإسقاط 69 مسيرة خلال هجوم أوكراني على مصفاة نفط بمقاطعة ريازان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الصحة بغزة: الاحتلال الإسرائيلي يغلق معبر رفح أمام حركة إجلاء المرضى…]]></title>
-            <link>https://t.me/aljazeeraBrk/239805</link>
-            <guid isPermaLink="false">8ff411babb050d94a7baf5bf92006b47ae5dde70ea4525594274d6e1ce092bdf</guid>
-            <pubDate>Thu, 15 Oct 2026 08:27:03 GMT</pubDate>
-            <description><![CDATA[وزارة الصحة بغزة: الاحتلال الإسرائيلي يغلق معبر رفح أمام حركة إجلاء المرضى والجرحى للأسبوع الثاني]]></description>
-            <content:encoded><![CDATA[وزارة الصحة بغزة: الاحتلال الإسرائيلي يغلق معبر رفح أمام حركة إجلاء المرضى والجرحى للأسبوع الثاني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
