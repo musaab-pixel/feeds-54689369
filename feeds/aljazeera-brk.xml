@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 06:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة بحرية بريطانية: تعرض ناقلة لهجوم بمقذوف مجهول شمال شرقي الجبيل السعودية…]]></title>
+            <link>https://t.me/aljazeeraBrk/240059</link>
+            <guid isPermaLink="false">a017c46e598f5bdffd57eb002d2d54acc7362a5104f683464250aea2e3995a36</guid>
+            <pubDate>Sat, 17 Oct 2026 06:31:02 GMT</pubDate>
+            <description><![CDATA[هيئة بحرية بريطانية: تعرض ناقلة لهجوم بمقذوف مجهول شمال شرقي الجبيل السعودية أمس الجمعة والطاقم بخير]]></description>
+            <content:encoded><![CDATA[هيئة بحرية بريطانية: تعرض ناقلة لهجوم بمقذوف مجهول شمال شرقي الجبيل السعودية أمس الجمعة والطاقم بخير]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم خيرسون: قتيل و19 مصابا في هجمات روسية على منطقة كوروبيلنيي في المقاطعة]]></title>
             <link>https://t.me/aljazeeraBrk/240058</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 09:20:02 GMT</pubDate>
             <description><![CDATA[النائب عن حزب_الله حسن فضل الله: أبلغنا السلطات اللبنانية بأن شاحنة المتفجرات المضبوطة تعود للمقاومة]]></description>
             <content:encoded><![CDATA[النائب عن حزب_الله حسن فضل الله: أبلغنا السلطات اللبنانية بأن شاحنة المتفجرات المضبوطة تعود للمقاومة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سانا: جهاز الاستخبارات السوري يقبض على علي كيالي المعروف باسم معراج أورال…]]></title>
-            <link>https://t.me/aljazeeraBrk/239811</link>
-            <guid isPermaLink="false">c10c3e2d17c46c04f74b63668c4a572a114350ca7c8d92bee233bdbdd52de0d8</guid>
-            <pubDate>Thu, 15 Oct 2026 09:18:02 GMT</pubDate>
-            <description><![CDATA[سانا: جهاز الاستخبارات السوري يقبض على علي كيالي المعروف باسم معراج أورال المتهم الأول بمجزرة بانياس عام 2013]]></description>
-            <content:encoded><![CDATA[سانا: جهاز الاستخبارات السوري يقبض على علي كيالي المعروف باسم معراج أورال المتهم الأول بمجزرة بانياس عام 2013]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
