@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 01:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 01:57:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تسنيم نقلا عن الحرس الثوري الإيراني: انفجار في ناقلة نفط عملاقة بعد…]]></title>
+            <link>https://t.me/aljazeeraBrk/240049</link>
+            <guid isPermaLink="false">78378944be32f12f90f20cfa33ee39086b82edadc28352f4926181147397ff9f</guid>
+            <pubDate>Sat, 17 Oct 2026 01:50:02 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم نقلا عن الحرس الثوري الإيراني: انفجار في ناقلة نفط عملاقة بعد اصطدامها بلغم بحري في مضيق هرمز]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم نقلا عن الحرس الثوري الإيراني: انفجار في ناقلة نفط عملاقة بعد اصطدامها بلغم بحري في مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[البيت الأبيض: ترمب يعلق تطبيق بعض بنود قانون ليندسي غراهام التي تنص على فرض…]]></title>
             <link>https://t.me/aljazeeraBrk/240048</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 07:26:02 GMT</pubDate>
             <description><![CDATA[محكمة الجنايات في حلب تقضي بالحكم بالإعدام على عدد من المتهمين في أحداث الساحل السوري]]></description>
             <content:encoded><![CDATA[محكمة الجنايات في حلب تقضي بالحكم بالإعدام على عدد من المتهمين في أحداث الساحل السوري]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على منطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/239801</link>
-            <guid isPermaLink="false">9accd548565cbe0161a6fe8750e7ba8e709eaf1e1532a84ddacc3c0389253049</guid>
-            <pubDate>Thu, 15 Oct 2026 07:00:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمالي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمالي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
