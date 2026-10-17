@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 17 Oct 2026 02:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 02:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على منطقة بني معين بمديرية رازح…]]></title>
+            <link>https://t.me/aljazeeraBrk/240051</link>
+            <guid isPermaLink="false">3bd3c4ff58990210b85c1a91191cbbabcaec774a28bed98820b6cf0aaf44061b</guid>
+            <pubDate>Sat, 17 Oct 2026 02:52:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على منطقة بني معين بمديرية رازح الحدودية في صعدة شمالي اليمن]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على منطقة بني معين بمديرية رازح الحدودية في صعدة شمالي اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بحرية الحرس الثوري الإيراني: مضيق هرمز مغلق ومصير السفن التي تخالف القوانين…]]></title>
             <link>https://t.me/aljazeeraBrk/240050</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 08:14:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في أراضي قرية برقا شرق رام الله وسط الضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين في أراضي قرية برقا شرق رام الله وسط الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار في مدينتي جيزان ونجران للتحذير من خطر]]></title>
-            <link>https://t.me/aljazeeraBrk/239803</link>
-            <guid isPermaLink="false">557aa3b578904f39bd98696d1f64a8a332fb742d4370c51fa45eb14372b567c9</guid>
-            <pubDate>Thu, 15 Oct 2026 07:29:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار في مدينتي جيزان ونجران للتحذير من خطر]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق الإنذار في مدينتي جيزان ونجران للتحذير من خطر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
