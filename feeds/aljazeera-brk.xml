@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 18 Oct 2026 18:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 18:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس أركان القوات المسلحة الإيرانية: أي خطأ في حسابات أمريكا وإسرائيل سيقابل…]]></title>
+            <link>https://t.me/aljazeeraBrk/240265</link>
+            <guid isPermaLink="false">d8f0ba5b71da2ded2c72272e48c595866ad8a5577f908a5782e96128a639d6fe</guid>
+            <pubDate>Sun, 18 Oct 2026 18:25:02 GMT</pubDate>
+            <description><![CDATA[رئيس أركان القوات المسلحة الإيرانية: أي خطأ في حسابات أمريكا وإسرائيل سيقابل بردود أكثر شدة من السابق]]></description>
+            <content:encoded><![CDATA[رئيس أركان القوات المسلحة الإيرانية: أي خطأ في حسابات أمريكا وإسرائيل سيقابل بردود أكثر شدة من السابق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل فلسطينيين في منطقة صافا ببلدة بيت أمر…]]></title>
             <link>https://t.me/aljazeeraBrk/240264</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 15 Oct 2026 19:39:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إنذار بشأن تهديد محتمل في جازان]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إنذار بشأن تهديد محتمل في جازان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سي بي إس عن مسؤول بالبنتاغون: نضع خططا لسيناريوهات واسعة لتنفيذ توجيهات الرئيس…]]></title>
-            <link>https://t.me/aljazeeraBrk/239882</link>
-            <guid isPermaLink="false">2e10c198ec4c50fd4876c725249738c12264c9b7f102889af83521b2800f256f</guid>
-            <pubDate>Thu, 15 Oct 2026 19:37:03 GMT</pubDate>
-            <description><![CDATA[سي بي إس عن مسؤول بالبنتاغون: نضع خططا لسيناريوهات واسعة لتنفيذ توجيهات الرئيس ووزير الدفاع]]></description>
-            <content:encoded><![CDATA[سي بي إس عن مسؤول بالبنتاغون: نضع خططا لسيناريوهات واسعة لتنفيذ توجيهات الرئيس ووزير الدفاع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
