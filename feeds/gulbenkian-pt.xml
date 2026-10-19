@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 19 Oct 2026 04:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 17:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2144,6 +2144,77 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Filme Estreia do filme «Este é o Lugar» 31 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/estreia-do-filme-este-e-o-lugar/</link>
+            <guid isPermaLink="false">6b5110c11cc94084db08e8860fd37b376999431da7e2a3613955d894534943ee</guid>
+            <pubDate>Mon, 19 Oct 2026 17:06:11 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>A partir de cartas, diários e documentos de arquivo, o filme acompanha a procura de Calouste Gulbenkian por um lugar definitivo para as suas obras de arte, a que chamou de “filhas”, do Cáucaso a Paris, de Londres em guerra a Washington, até chegar a Lisboa.</p>
+<p>Nascido em Constantinopla, entre o Oriente e o Ocidente, Gulbenkian reuniu uma das maiores coleções privadas de arte do mundo enquanto negociava com impérios e governos. Para lá do mito do «Mr. Five Percent», o filme encontra um homem ocupado por uma pergunta mais íntima: a que lugar pertence, afinal, toda esta arte?</p>
+<p>Filmado durante as recentes obras de renovação do Museu Gulbenkian, o documentário tem como fio condutor a gravação de um antigo áudio-guia encontrado nas salas vazias das galerias.</p>
+<p>É pela sua voz que se percorre a vida, as obsessões e os silêncios de Calouste Sarkis Gulbenkian. Entre documentário, reconstrução cinematográfica e observação, o próprio Museu passa a ser uma personagem. À medida que as obras são retiradas, embaladas e recolocadas, o edifício torna-se o narrador da história de um homem que recusou entrevistas, evitou câmaras e quase não deixou registo da sua imagem ou voz.</p>
+<p>Um filme sobre arte, exílio e pertença, e sobre o que os museus guardam para além dos objetos.</p>
+<p>Uma encomenda da Fundação Gulbenkian para a celebração dos seus 70 anos.</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									sábado, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>A partir de cartas, diários e documentos de arquivo, o filme acompanha a procura de Calouste Gulbenkian por um lugar definitivo para as suas obras de arte, a que chamou de “filhas”, do Cáucaso a Paris, de Londres em guerra a Washington, até chegar a Lisboa.</p>
+<p>Nascido em Constantinopla, entre o Oriente e o Ocidente, Gulbenkian reuniu uma das maiores coleções privadas de arte do mundo enquanto negociava com impérios e governos. Para lá do mito do «Mr. Five Percent», o filme encontra um homem ocupado por uma pergunta mais íntima: a que lugar pertence, afinal, toda esta arte?</p>
+<p>Filmado durante as recentes obras de renovação do Museu Gulbenkian, o documentário tem como fio condutor a gravação de um antigo áudio-guia encontrado nas salas vazias das galerias.</p>
+<p>É pela sua voz que se percorre a vida, as obsessões e os silêncios de Calouste Sarkis Gulbenkian. Entre documentário, reconstrução cinematográfica e observação, o próprio Museu passa a ser uma personagem. À medida que as obras são retiradas, embaladas e recolocadas, o edifício torna-se o narrador da história de um homem que recusou entrevistas, evitou câmaras e quase não deixou registo da sua imagem ou voz.</p>
+<p>Um filme sobre arte, exílio e pertença, e sobre o que os museus guardam para além dos objetos.</p>
+<p>Uma encomenda da Fundação Gulbenkian para a celebração dos seus 70 anos.</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/10/MG_Filme_1200x900-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Filme-Concerto «Lino Brocka – Anarquista Nacional» 17 out 2026 / 18:00]]></title>

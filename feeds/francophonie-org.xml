@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 19 Oct 2026 11:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 17:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Bénin : 20 jeunes de Porto-Novo accompagnés vers l'emploi et l'entrepreneuriat]]></title>
+            <link>https://www.francophonie.org/benin-20-jeunes-de-porto-novo-accompagnes-vers-l-emploi-et-l-entrepreneuriat-8730</link>
+            <guid isPermaLink="false">44588f9680bc7b38c9852dc985dfc8e8f2b4fd4dcebd6ba0adbb7419dd8bf01f</guid>
+            <pubDate>Mon, 19 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Bénin : 20 jeunes de Porto-Novo accompagnés vers l'emploi et l'entrepreneuriat</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-19T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 19/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Bénin : 20 jeunes de Porto-Novo accompagnés vers l'emploi et l'entrepreneuriat</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-19T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 19/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[20e Sommet de la Francophonie]]></title>
             <link>https://www.francophonie.org/20e-sommet-de-la-francophonie-8729</link>

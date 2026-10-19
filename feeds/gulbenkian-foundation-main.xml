@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Mon, 19 Oct 2026 04:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 17:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -3788,6 +3788,79 @@ Morris Robinson</p>
 			
 		</h2>
 <p>If you have any questions after consulting the FAQs and the regulations, please contact the Calouste Gulbenkian Foundation at&nbsp;<a href="/cdn-cgi/l/email-protection#fd8d9a9e889189888f9cd39c8f89988ebd9a88919f989396949c93d38d89"><span class="__cf_email__" data-cfemail="21514642544d555453400f40535544526146544d43444f4a48404f0f5155">[email&nbsp;protected]</span></a>.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Film ‘This Is the Place’ Film Premiere 31 Oct 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/this-is-the-place-film-premiere/</link>
+            <guid isPermaLink="false">067a658b5e79e60f0f2aca4be7a1f0f997c4c8ba66fc41b6c8a6fd3b42a178ce</guid>
+            <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<p>Calouste Gulbenkian Foundation</p>
+<h4 class="assist">Pricing</h4>
+<p>Drawing on letters, diaries and archival documents, the film follows Calouste Gulbenkian’s search for a lasting home for the works of art he called his ‘children’—from the Caucasus to Paris, from wartime London to Washington, and finally to Lisbon.</p>
+<p>Born in Constantinople, between East and West, Gulbenkian assembled one of the largest private art collections in the world while negotiating with empires and governments. Beyond the myth of ‘Mr Five Per Cent’, the film finds a man absorbed by a more personal question: where, ultimately, does all this art belong?</p>
+<p>Shot during the recent renovation of the Gulbenkian Museum, the documentary takes as its thread the recording of an old audio guide found in the empty galleries.</p>
+<p>That voice leads us through the life, obsessions and silences of Calouste Sarkis Gulbenkian. Moving between documentary, cinematic reconstruction and observation, the film turns the Museum itself into a character. As the works are taken down, packed and reinstalled, the building takes over as narrator, telling the story of a man who refused interviews, avoided cameras and left almost no record of his image or voice.</p>
+<p>A film about art, exile and belonging—and about what museums hold beyond their objects.</p>
+<p>Commissioned by the Gulbenkian Foundation for its 70th anniversary.</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<p>Calouste Gulbenkian Foundation</p>
+<h4 class="assist">Pricing</h4>
+<p>Drawing on letters, diaries and archival documents, the film follows Calouste Gulbenkian’s search for a lasting home for the works of art he called his ‘children’—from the Caucasus to Paris, from wartime London to Washington, and finally to Lisbon.</p>
+<p>Born in Constantinople, between East and West, Gulbenkian assembled one of the largest private art collections in the world while negotiating with empires and governments. Beyond the myth of ‘Mr Five Per Cent’, the film finds a man absorbed by a more personal question: where, ultimately, does all this art belong?</p>
+<p>Shot during the recent renovation of the Gulbenkian Museum, the documentary takes as its thread the recording of an old audio guide found in the empty galleries.</p>
+<p>That voice leads us through the life, obsessions and silences of Calouste Sarkis Gulbenkian. Moving between documentary, cinematic reconstruction and observation, the film turns the Museum itself into a character. As the works are taken down, packed and reinstalled, the building takes over as narrator, telling the story of a man who refused interviews, avoided cameras and left almost no record of his image or voice.</p>
+<p>A film about art, exile and belonging—and about what museums hold beyond their objects.</p>
+<p>Commissioned by the Gulbenkian Foundation for its 70th anniversary.</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/10/MG_Filme_1200x900-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Talks A Conversation on Creative Processes in Contemporary Dance 30 Oct 2026 / 18:00]]></title>
