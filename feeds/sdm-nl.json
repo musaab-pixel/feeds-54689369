@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"sdm.nl\" (type: native)",
     "items": [
         {
+            "id": "fad75b9db926328fa29c44b8c16dfc89bd5d2a059c03a96d08f1e6371fa9d455",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/sdm-zit-nu-ook-op-instagram-en-bluesky/\">SDM zit nu ook op Instagram en Bluesky</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/sdm-zit-nu-ook-op-instagram-en-bluesky/",
+            "title": "SDM zit nu ook op Instagram en Bluesky",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/sdm-zit-nu-ook-op-instagram-en-bluesky/\">SDM zit nu ook op Instagram en Bluesky</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-10-19T09:00:21.000Z",
+            "author": {
+                "name": "Britt Vansloun"
+            }
+        },
+        {
             "id": "80122f73fa1e97d47b47264c76069b89df4ce32e6a53b1f8b846b16a2eada9ed",
             "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/terugkomdag-alumni-journalistieke-driedaagse-ik-sta-hier-als-een-ander-mens-dan-twee-jaar-geleden/\">Terugkomdag alumni Journalistieke Driedaagse: ‘Ik sta hier als een ander mens dan twee jaar geleden’</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
             "url": "https://sdm.nl/artikel/terugkomdag-alumni-journalistieke-driedaagse-ik-sta-hier-als-een-ander-mens-dan-twee-jaar-geleden/",
@@ -57,6 +68,17 @@
             "date_modified": "2026-09-17T09:40:04.000Z",
             "author": {
                 "name": "Wout Vanzaale"
+            }
+        },
+        {
+            "id": "50d4fd385e45330d2fba52ec96dae8ddbf4fc089971d775c6b8502e640929d48",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/faq-instagram-en-bluesky/\">FAQ Instagram en Bluesky</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/faq-instagram-en-bluesky/",
+            "title": "FAQ Instagram en Bluesky",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/faq-instagram-en-bluesky/\">FAQ Instagram en Bluesky</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-09-15T07:59:11.000Z",
+            "author": {
+                "name": "Britt Vansloun"
             }
         },
         {

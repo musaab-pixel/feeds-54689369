@@ -4,7 +4,7 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 15:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 11:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -72,6 +72,23 @@
             <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.) </span>
 <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-15T16:52:06+02:00" title="Donnerstag, 15 Oktober 2026 - 16:52" class="datetime">Do. 15 Okt 2026 - 16:52</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
+        </item>
+        <item>
+            <title><![CDATA[Essen, was um die Ecke wächst]]></title>
+            <link>https://bosch-stiftung.de/story/essen-was-um-die-ecke-waechst</link>
+            <guid isPermaLink="false">e5672251182af76721242658174859f9230c4ac1a73eab5f7871e33a7aea6786</guid>
+            <pubDate>Thu, 15 Oct 2026 12:40:42 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Essen, was um die Ecke wächst</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-15T14:40:42+02:00" title="Donnerstag, 15 Oktober 2026 - 14:40" class="datetime">Do. 15 Okt 2026 - 14:40</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Essen, was um die Ecke wächst</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-15T14:40:42+02:00" title="Donnerstag, 15 Oktober 2026 - 14:40" class="datetime">Do. 15 Okt 2026 - 14:40</time>
 </span>
 ]]></content:encoded>
             <author>Regina Mennig</author>

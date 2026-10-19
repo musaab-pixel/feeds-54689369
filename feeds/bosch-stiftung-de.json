@@ -49,6 +49,17 @@
             }
         },
         {
+            "id": "e5672251182af76721242658174859f9230c4ac1a73eab5f7871e33a7aea6786",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Essen, was um die Ecke wächst</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-15T14:40:42+02:00\" title=\"Donnerstag, 15 Oktober 2026 - 14:40\" class=\"datetime\">Do. 15 Okt 2026 - 14:40</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/essen-was-um-die-ecke-waechst",
+            "title": "Essen, was um die Ecke wächst",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Essen, was um die Ecke wächst</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-15T14:40:42+02:00\" title=\"Donnerstag, 15 Oktober 2026 - 14:40\" class=\"datetime\">Do. 15 Okt 2026 - 14:40</time>\n</span>\n",
+            "date_modified": "2026-10-15T12:40:42.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "a5b42af49383d10ed215c684711867cc73951cf9c9016d026fb0d961151c58fc",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>derpeder</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-12T08:35:17+02:00\" title=\"Montag, 12 Oktober 2026 - 08:35\" class=\"datetime\">Mo. 12 Okt 2026 - 08:35</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-personalentwicklung-und-kompetenzmanagement-im-bereich-personal",

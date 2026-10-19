@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Fri, 16 Oct 2026 15:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 11:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1212,6 +1212,17 @@
             <enclosure url="https://koerber-stiftung.de/site/assets/files/56001/foto_wie_verteidigt_sich_europa_istock-_matejmo.530x371-hidpi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SDM zit nu ook op Instagram en Bluesky]]></title>
+            <link>https://sdm.nl/artikel/sdm-zit-nu-ook-op-instagram-en-bluesky/</link>
+            <guid isPermaLink="false">fad75b9db926328fa29c44b8c16dfc89bd5d2a059c03a96d08f1e6371fa9d455</guid>
+            <pubDate>Mon, 19 Oct 2026 09:00:21 GMT</pubDate>
+            <description><![CDATA[<p>The post <a href="https://sdm.nl/artikel/sdm-zit-nu-ook-op-instagram-en-bluesky/">SDM zit nu ook op Instagram en Bluesky</a> appeared first on <a href="https://sdm.nl">Stichting Democratie en Media</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>The post <a href="https://sdm.nl/artikel/sdm-zit-nu-ook-op-instagram-en-bluesky/">SDM zit nu ook op Instagram en Bluesky</a> appeared first on <a href="https://sdm.nl">Stichting Democratie en Media</a>.</p>
+]]></content:encoded>
+            <author>Britt Vansloun</author>
+        </item>
+        <item>
             <title><![CDATA[Okt 16 Fr, 16. Okt 2026 19:00 Uhr Alles smart, oder was? Theater • KörberHaus]]></title>
             <link>https://koerber-stiftung.de/veranstaltungen/alles-smart-oder-was/</link>
             <guid isPermaLink="false">089260379eba58efd75dc4dff339cf2216f05c63ff05e586e2c96b1443fe45b0</guid>
@@ -1600,6 +1611,23 @@ Om <i>Mortimer</i> sier Strand at serien lyktes «overmåte godt i å skape et s
 <figure class="image landscape"><picture><source type="image/webp" srcset="/dynamic_images/f61ae779301bdca681b32b2724e2b87699332e91/370x354/5761-20261013101155064110.webp 370w, /dynamic_images/7585505c8eefe8af3130f75c6d89a778f6213c59/520x498/5761-20261013101155064110.webp 520w, /dynamic_images/571213307e842ecf104468956bc44428668f4d75/730x699/5761-20261013101155064110.webp 730w, /dynamic_images/0f2ce6cbe695daafbad2c70b25bb9b83372e6c34/1030x987/5761-20261013101155064110.webp 1030w, /dynamic_images/696814e015d4d650653189bba06a25e6b146274e/1448x1388/5761-20261013101155064110.webp 1448w" sizes="100vw"><img src="/dynamic_images/53cef3c48818a2856c247961bcf3edb0c27f2c06/1200x1150/5761-20261013101155064110.png" width="1200" height="1150"></picture></figure>
       ]]></content:encoded>
             <enclosure url="https://frittord.no/dynamic_images/044b62bf8db627aa9121113be089719fffa1beb7/5712x4284/5772-20261016211706463893.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Essen, was um die Ecke wächst]]></title>
+            <link>https://bosch-stiftung.de/story/essen-was-um-die-ecke-waechst</link>
+            <guid isPermaLink="false">e5672251182af76721242658174859f9230c4ac1a73eab5f7871e33a7aea6786</guid>
+            <pubDate>Thu, 15 Oct 2026 12:40:42 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Essen, was um die Ecke wächst</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-15T14:40:42+02:00" title="Donnerstag, 15 Oktober 2026 - 14:40" class="datetime">Do. 15 Okt 2026 - 14:40</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Essen, was um die Ecke wächst</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-15T14:40:42+02:00" title="Donnerstag, 15 Oktober 2026 - 14:40" class="datetime">Do. 15 Okt 2026 - 14:40</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
         </item>
         <item>
             <title><![CDATA[Terugkomdag alumni Journalistieke Driedaagse: ‘Ik sta hier als een ander mens dan twee jaar geleden’]]></title>
@@ -4660,78 +4688,6 @@ Read more here. </p>
 <p>Der Eintritt ist kostenlos, wenn nicht anders angegeben. Alle Veranstaltungsräume öffnen eine halbe Stunde vor Beginn. Bitte beachten Sie den jeweiligen Veranstaltungsort.</p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/55959/keyvisual_als_die_npd_die_parlamente_eroberte.530x371-hidpi.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit]]></title>
-            <link>https://bosch-stiftung.de/karriere/leiter-finanzen-und-operatives-geschaeft-mwd-vollzeit</link>
-            <guid isPermaLink="false">f86656f553e11296f9f9d666c96990577a3b72413be0e7938f1d3682daaa4ec7</guid>
-            <pubDate>Wed, 16 Sep 2026 09:44:44 GMT</pubDate>
-            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>ebolta</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-16T11:44:44+02:00" title="Mittwoch, 16 September 2026 - 11:44" class="datetime">Mi. 16 Sep 2026 - 11:44</time>
-</span>
-]]></description>
-            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Leiter Finanzen und operatives Geschäft (m/w/d) in Vollzeit</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>ebolta</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-09-16T11:44:44+02:00" title="Mittwoch, 16 September 2026 - 11:44" class="datetime">Mi. 16 Sep 2026 - 11:44</time>
-</span>
-]]></content:encoded>
-            <author>ebolta</author>
-        </item>
-        <item>
-            <title><![CDATA[Sep 15 Di, 15. Sep 2026 19:00 Uhr Autoritäre Zeiten: Die Sehnsucht nach Ordnung Gespräch • KörberForum]]></title>
-            <link>https://koerber-stiftung.de/veranstaltungen/autoritaere-zeiten-die-sehnsucht-nach-ordnung/</link>
-            <guid isPermaLink="false">1537eb566eb8d8dd4131096fec7f432639ab872c25187d17e83ddc07a9a09be6</guid>
-            <pubDate>Tue, 15 Sep 2026 17:00:00 GMT</pubDate>
-            <description><![CDATA[<ul class="event_meta"><li class="event_meta_location i i-marker" style="--location-color: #e60000" title="Ort: KörberForum"><a href="/die-stiftung/koerberforum/">KörberForum</a></li><!-- Focal theme --> <li class="event_meta_focaltheme i i-dot-xl" title="mehr zu Polarisierung begegnen"><a href="/projekte/polarisierung-begegnen/">Polarisierung begegnen</a></li><!-- Project, Series or Activity --> <!-- Break --><li class="event_meta_break"></li><!-- Wheelchair --> <!-- Deaf --> <li class="event_meta_deaf i i-deaf" title="Gebärdensprache">Gebärdensprache</li><!-- English --> <!-- Types --> <li class="event_meta_type i i-curved-right-up i-bold" title="Typ: Gespräch">Gespräch</li><!-- Themes --> <li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Demokratie">Demokratie</li><li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Europa">Europa</li><li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Geschichte">Geschichte</li><li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Gesellschaft">Gesellschaft</li></ul>
-<p>In Krisenzeiten wenden sich Menschen nicht selten autoritären Lösungen zu. Der Politikwissenschaftler Herfried Münkler diskutiert im Zwiegespräch mit der Journalistin Shila Behjat, warum autoritäre Antworten auch heute wieder attraktiv sind, und ordnet aktuelle politische Entwicklungen in einen größeren historischen Zusammenhang ein.</p>
-<p>In Zeiten gesellschaftlicher Verunsicherung wächst die Sehnsucht nach Ordnung, Sicherheit und Kontrolle. Doch die Ursachen autoritärer Versuchungen reichen tiefer als die bloße Reaktion auf politische oder wirtschaftliche Krisen.</p>
-<p>Der Politikwissenschaftler <strong>Herfried Münkler</strong> ordnet aktuelle politische Entwicklungen in einen größeren historischen Zusammenhang ein.</p>
-<p>Im Gespräch mit <strong>Shila Behjat</strong> beleuchtet er die Spannungen zwischen Freiheit und Stabilität, Selbstbestimmung und Führung. Welche historischen Parallelen lassen sich von den europäischen Zwischenkriegsjahren bis zur Gegenwart ziehen? Warum erscheinen autoritäre Antworten vielen Menschen auch heute noch attraktiv – und was bedeutet ihr Erstarken für die demokratische Kultur unserer Zeit?</p>
-<p>Die Veranstaltung ist Teil der Reihe <strong>Autoritäre Zeiten</strong> und lädt dazu ein, jenseits moralischer Empörung über die Ursachen autoritärer Versuchungen nachzudenken und zu fragen, was Demokratie heute zusammenhält.</p>
-<p><strong>Veranstaltung auch in deutscher Gebärdensprache</strong></p>
-<p>Anmeldung für Gehörlose erforderlich unter <a href="https://koerber-stiftung.de">veranstaltungen@koerber-stiftung.de</a></p>
-<h3>Gäste</h3>
-<ul class="biographies is-nolist is-margin-start-quarter-gutter is-margin-end-gutter"><li class="content is-nolist"><p><b>Herfried Münkler</b> ist emeritierter Professor für Politikwissenschaft an der Berliner Humboldt-Universität. Viele seiner Bücher gelten als Standardwerke. Zuletzt erschien „Welt in Aufruhr. Die Ordnung der Mächte im 21. Jahrhundert“ (Rowohlt 2023), ein weiterer Spiegel-Bestseller. Herfried Münkler wurde vielfach ausgezeichnet, u.a. mit dem Wissenschaftspreis der Aby-Warburg-Stiftung.</p></li></ul>
-<h3>Moderation</h3>
-<ul class="biographies is-nolist is-margin-start-quarter-gutter is-margin-end-gutter"><li class="content is-nolist"><p><b>Shila Behjat</b> wurde 1982 geboren. Nach ihrem Jurastudium in Hamburg und Paris war sie Korrespondentin in London und lebte als freie Journalistin in Indien. Heute arbeitet sie u.a. als Journalistin und Kulturredakteurin bei Arte. 2024 erschien ihr Sachbuch „Söhne großziehen als Feministin“, im April 2025 legte sie das Buch „Frauen und Revolution“ (beide Hanser) vor.</p></li></ul>
-<h3>Veranstaltungsort und Anfahrt</h3>
-<p>KörberForum
-<br>Kehrwieder 12<br>20457 Hamburg </p>
-<p><a href="https://koerber-stiftung.de/die-stiftung/koerberforum/" class="button button-small button-style-dark" target="_blank" rel="noopener"> <span>koerber-stiftung.de</span> <i class="i i-bold i-curved-right-down"></i> </a></p>
-<p class="locationpreview_buttons buttongroup"><a class="button button-small" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/Kehrwieder+12%2C+20457+Hamburg%2C+Deutschland">Google Maps
-<i class="i i-navigation"></i></a>
-<a class="button button-small" target="_blank" rel="noopener" href="https://maps.apple.com/?daddr=Kehrwieder+12%2C+20457+Hamburg%2C+Deutschland&amp;dirflg=d&amp;t=m">Apple Maps
-<i class="i i-navigation"></i></a></p>
-<h3>Informationen zur Anmeldung</h3>
-<p>Für unsere Veranstaltungen ist eine Anmeldung erforderlich. Ihre Anmeldebestätigung enthält einen QR-Code, den Sie für den Zutritt zur Veranstaltung benötigen. Restplätze geben wir drei Werktage vor der Veranstaltung frei. Das Platzkontingent schließt Stehplätze mit ein.</p>
-<p>Der Eintritt ist kostenlos, wenn nicht anders angegeben. Alle Veranstaltungsräume öffnen eine halbe Stunde vor Beginn. Bitte beachten Sie den jeweiligen Veranstaltungsort.</p>
-<h3>Teilen &amp; Herunterladen</h3>]]></description>
-            <content:encoded><![CDATA[<ul class="event_meta"><li class="event_meta_location i i-marker" style="--location-color: #e60000" title="Ort: KörberForum"><a href="/die-stiftung/koerberforum/">KörberForum</a></li><!-- Focal theme --> <li class="event_meta_focaltheme i i-dot-xl" title="mehr zu Polarisierung begegnen"><a href="/projekte/polarisierung-begegnen/">Polarisierung begegnen</a></li><!-- Project, Series or Activity --> <!-- Break --><li class="event_meta_break"></li><!-- Wheelchair --> <!-- Deaf --> <li class="event_meta_deaf i i-deaf" title="Gebärdensprache">Gebärdensprache</li><!-- English --> <!-- Types --> <li class="event_meta_type i i-curved-right-up i-bold" title="Typ: Gespräch">Gespräch</li><!-- Themes --> <li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Demokratie">Demokratie</li><li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Europa">Europa</li><li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Geschichte">Geschichte</li><li class="event_meta_themes i i-curved-right-up i-bold" title="Thema: Gesellschaft">Gesellschaft</li></ul>
-<p>In Krisenzeiten wenden sich Menschen nicht selten autoritären Lösungen zu. Der Politikwissenschaftler Herfried Münkler diskutiert im Zwiegespräch mit der Journalistin Shila Behjat, warum autoritäre Antworten auch heute wieder attraktiv sind, und ordnet aktuelle politische Entwicklungen in einen größeren historischen Zusammenhang ein.</p>
-<p>In Zeiten gesellschaftlicher Verunsicherung wächst die Sehnsucht nach Ordnung, Sicherheit und Kontrolle. Doch die Ursachen autoritärer Versuchungen reichen tiefer als die bloße Reaktion auf politische oder wirtschaftliche Krisen.</p>
-<p>Der Politikwissenschaftler <strong>Herfried Münkler</strong> ordnet aktuelle politische Entwicklungen in einen größeren historischen Zusammenhang ein.</p>
-<p>Im Gespräch mit <strong>Shila Behjat</strong> beleuchtet er die Spannungen zwischen Freiheit und Stabilität, Selbstbestimmung und Führung. Welche historischen Parallelen lassen sich von den europäischen Zwischenkriegsjahren bis zur Gegenwart ziehen? Warum erscheinen autoritäre Antworten vielen Menschen auch heute noch attraktiv – und was bedeutet ihr Erstarken für die demokratische Kultur unserer Zeit?</p>
-<p>Die Veranstaltung ist Teil der Reihe <strong>Autoritäre Zeiten</strong> und lädt dazu ein, jenseits moralischer Empörung über die Ursachen autoritärer Versuchungen nachzudenken und zu fragen, was Demokratie heute zusammenhält.</p>
-<p><strong>Veranstaltung auch in deutscher Gebärdensprache</strong></p>
-<p>Anmeldung für Gehörlose erforderlich unter <a href="https://koerber-stiftung.de">veranstaltungen@koerber-stiftung.de</a></p>
-<h3>Gäste</h3>
-<ul class="biographies is-nolist is-margin-start-quarter-gutter is-margin-end-gutter"><li class="content is-nolist"><p><b>Herfried Münkler</b> ist emeritierter Professor für Politikwissenschaft an der Berliner Humboldt-Universität. Viele seiner Bücher gelten als Standardwerke. Zuletzt erschien „Welt in Aufruhr. Die Ordnung der Mächte im 21. Jahrhundert“ (Rowohlt 2023), ein weiterer Spiegel-Bestseller. Herfried Münkler wurde vielfach ausgezeichnet, u.a. mit dem Wissenschaftspreis der Aby-Warburg-Stiftung.</p></li></ul>
-<h3>Moderation</h3>
-<ul class="biographies is-nolist is-margin-start-quarter-gutter is-margin-end-gutter"><li class="content is-nolist"><p><b>Shila Behjat</b> wurde 1982 geboren. Nach ihrem Jurastudium in Hamburg und Paris war sie Korrespondentin in London und lebte als freie Journalistin in Indien. Heute arbeitet sie u.a. als Journalistin und Kulturredakteurin bei Arte. 2024 erschien ihr Sachbuch „Söhne großziehen als Feministin“, im April 2025 legte sie das Buch „Frauen und Revolution“ (beide Hanser) vor.</p></li></ul>
-<h3>Veranstaltungsort und Anfahrt</h3>
-<p>KörberForum
-<br>Kehrwieder 12<br>20457 Hamburg </p>
-<p><a href="https://koerber-stiftung.de/die-stiftung/koerberforum/" class="button button-small button-style-dark" target="_blank" rel="noopener"> <span>koerber-stiftung.de</span> <i class="i i-bold i-curved-right-down"></i> </a></p>
-<p class="locationpreview_buttons buttongroup"><a class="button button-small" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/Kehrwieder+12%2C+20457+Hamburg%2C+Deutschland">Google Maps
-<i class="i i-navigation"></i></a>
-<a class="button button-small" target="_blank" rel="noopener" href="https://maps.apple.com/?daddr=Kehrwieder+12%2C+20457+Hamburg%2C+Deutschland&amp;dirflg=d&amp;t=m">Apple Maps
-<i class="i i-navigation"></i></a></p>
-<h3>Informationen zur Anmeldung</h3>
-<p>Für unsere Veranstaltungen ist eine Anmeldung erforderlich. Ihre Anmeldebestätigung enthält einen QR-Code, den Sie für den Zutritt zur Veranstaltung benötigen. Restplätze geben wir drei Werktage vor der Veranstaltung frei. Das Platzkontingent schließt Stehplätze mit ein.</p>
-<p>Der Eintritt ist kostenlos, wenn nicht anders angegeben. Alle Veranstaltungsräume öffnen eine halbe Stunde vor Beginn. Bitte beachten Sie den jeweiligen Veranstaltungsort.</p>
-<h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
-            <enclosure url="https://koerber-stiftung.de/site/assets/files/55947/ics_2017-0425_043-2_muenkler-ausschnitt.530x371-hidpi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
