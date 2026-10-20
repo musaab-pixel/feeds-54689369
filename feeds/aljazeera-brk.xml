@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 20 Oct 2026 07:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 07:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إذاعة الجيش الإسرائيلي: الشرطة تعتقل 40 شابا من اليهود الحريديم المتهربين من…]]></title>
+            <link>https://t.me/aljazeeraBrk/240499</link>
+            <guid isPermaLink="false">afff583e350219ba4ae11dd3dbf8aae4da5e11497d1e9f3ea2d363cdeb80ec2a</guid>
+            <pubDate>Tue, 20 Oct 2026 07:11:02 GMT</pubDate>
+            <description><![CDATA[إذاعة الجيش الإسرائيلي: الشرطة تعتقل 40 شابا من اليهود الحريديم المتهربين من الخدمة العسكرية في مطار بن غوريون]]></description>
+            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي: الشرطة تعتقل 40 شابا من اليهود الحريديم المتهربين من الخدمة العسكرية في مطار بن غوريون]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المبعوث الأمريكي الخاص إلى سوريا والعراق: واشنطن ترغب في التوصل إلى اتفاق سلمي…]]></title>
             <link>https://t.me/aljazeeraBrk/240498</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 16 Oct 2026 20:51:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم التحالف: استهدفنا عمليات مليشيا الحوثي لتهريب الأسلحة عبر البحر إلى محافظة الحديدة]]></description>
             <content:encoded><![CDATA[المتحدث باسم التحالف: استهدفنا عمليات مليشيا الحوثي لتهريب الأسلحة عبر البحر إلى محافظة الحديدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤول أمريكي: تعليق الضربات جعل إيران أكثر جرأة على شن هجمات لرفع…]]></title>
-            <link>https://t.me/aljazeeraBrk/240037</link>
-            <guid isPermaLink="false">63300aa701c5933cd9150920eab50e7765dbbf56d1baad1889093b91bbac93e6</guid>
-            <pubDate>Fri, 16 Oct 2026 20:40:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤول أمريكي: تعليق الضربات جعل إيران أكثر جرأة على شن هجمات لرفع أسعار النفط والضغط على ترمب]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: تعليق الضربات جعل إيران أكثر جرأة على شن هجمات لرفع أسعار النفط والضغط على ترمب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
