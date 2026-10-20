@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 20 Oct 2026 21:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 22:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إيه بي سي عن مسؤولين أمريكيين: إدارة ترمب تقترب من التوصل لاتفاق مع روسيا…]]></title>
+            <link>https://t.me/aljazeeraBrk/240649</link>
+            <guid isPermaLink="false">1da5a252a10b93efadde5968823ff31610bf74db998dba0e3fc37b615521a143</guid>
+            <pubDate>Tue, 20 Oct 2026 21:56:02 GMT</pubDate>
+            <description><![CDATA[إيه بي سي عن مسؤولين أمريكيين: إدارة ترمب تقترب من التوصل لاتفاق مع روسيا للإفراج عن أمريكيين محتجزين لديها]]></description>
+            <content:encoded><![CDATA[إيه بي سي عن مسؤولين أمريكيين: إدارة ترمب تقترب من التوصل لاتفاق مع روسيا للإفراج عن أمريكيين محتجزين لديها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: الحكومة الإيطالية تقر نشر 500 عسكري إضافي في ميلانو لمواجهة…]]></title>
             <link>https://t.me/aljazeeraBrk/240648</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 18 Oct 2026 20:37:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الرئاسة العراقية للجزيرة: أجواؤنا كانت مستباحة خلال الحرب الأخيرة بين إيران والولايات المتحدة]]></description>
             <content:encoded><![CDATA[المتحدث باسم الرئاسة العراقية للجزيرة: أجواؤنا كانت مستباحة خلال الحرب الأخيرة بين إيران والولايات المتحدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إنذار في مدينة أبها للتحذير من خطر]]></title>
-            <link>https://t.me/aljazeeraBrk/240268</link>
-            <guid isPermaLink="false">576420514c05034d55496a9521e7243209dc0fc8ddcc037f48fa20d8ed9dbe70</guid>
-            <pubDate>Sun, 18 Oct 2026 18:45:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إنذار في مدينة أبها للتحذير من خطر]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إنذار في مدينة أبها للتحذير من خطر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
