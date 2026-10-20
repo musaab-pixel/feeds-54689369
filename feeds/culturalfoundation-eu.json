@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "73472a9d61fc3d25316c0d4fb00697e84bd35314360a6dc9d75995d670d68cec",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/culture-helps-solidarity-caring-for-those-who-care/\">Culture Helps Solidarity: Caring For Those Who Care</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/culture-helps-solidarity-caring-for-those-who-care/",
+            "title": "Culture Helps Solidarity: Caring For Those Who Care",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/culture-helps-solidarity-caring-for-those-who-care/\">Culture Helps Solidarity: Caring For Those Who Care</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-10-20T15:48:12.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "2a3ab71d6b3651a943fc0992de1c5363b902483081daa9aaa1029475374697bc",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/stand-up-for-agoraeu/\">Stand up for AgoraEU</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/stand-up-for-agoraeu/",

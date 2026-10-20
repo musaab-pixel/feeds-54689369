@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "687f277c12d1b6993b6347f9c6046e6dea3ced460525d14a28fe677f76dd5d77",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Union africaine : des fonctionnaires francophones formés sur les compétences transversales et le leadership en environnement multilatéral</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/ua-fonctionnaires-francophones-formes-competences-transversales-et-leadership-environnement-multilateral-8734",
+            "title": "Union africaine : des fonctionnaires francophones formés sur les compétences transversales et le leadership en environnement multilatéral",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Union africaine : des fonctionnaires francophones formés sur les compétences transversales et le leadership en environnement multilatéral</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-20T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "8b6304b16e0b210a6765b4142805a5d330c605b32ec41ec67ed0eaff306021bb",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Innovation et découvrabilité : la plateforme MUSIQC récompensée aux MTL Tech Awards 2026</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/musiqc-recompensee-aux-mtl-tech-awards-2026-8733",
+            "title": "Innovation et découvrabilité : la plateforme MUSIQC récompensée aux MTL Tech Awards 2026",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Innovation et découvrabilité : la plateforme MUSIQC récompensée aux MTL Tech Awards 2026</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-20T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "4e7ff366329b52cfa6657c6280f7ca12fdca14bb9dd31bf39321bf0fbf3fa452",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Laboratoires vivants d’éco-innovation : 3 jours d’échanges pour promouvoir une agriculture durable dans le Bassin du Congo</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/bassin-congo-3-jours-d-echanges-pour-promouvoir-une-agriculture-durable-8732",
+            "title": "Laboratoires vivants d’éco-innovation : 3 jours d’échanges pour promouvoir une agriculture durable dans le Bassin du Congo",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Laboratoires vivants d’éco-innovation : 3 jours d’échanges pour promouvoir une agriculture durable dans le Bassin du Congo</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-20T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "ba9ae8c31ef8eaac8777ac2f1e0ddfd4e619cd1ae06103ffc3699fe4c13761ea",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">À Bali, la communauté francophone se mobilise pour peser dans la gouvernance de l’Internet</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/bali-mobilisation-communaute-francophone-pour-peser-dans-la-gouvernance-de-l-internet-8731",
+            "title": "À Bali, la communauté francophone se mobilise pour peser dans la gouvernance de l’Internet",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">À Bali, la communauté francophone se mobilise pour peser dans la gouvernance de l’Internet</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-20T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "44588f9680bc7b38c9852dc985dfc8e8f2b4fd4dcebd6ba0adbb7419dd8bf01f",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Bénin : 20 jeunes de Porto-Novo accompagnés vers l'emploi et l'entrepreneuriat</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-19T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">lun 19/10/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/benin-20-jeunes-de-porto-novo-accompagnes-vers-l-emploi-et-l-entrepreneuriat-8730",

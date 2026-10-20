@@ -5,6 +5,333 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "5755e9f122889cd732443c4a5c7145e28c0db1dac5937c463d5a52338a18a9a9",
+            "content_html": "روبيو: إيران تستهدف السفن التجارية وتحاول إغراقها وقتل بحارة لا علاقة لهم بالحرب",
+            "url": "https://t.me/aljazeeraBrk/240637",
+            "title": "روبيو: إيران تستهدف السفن التجارية وتحاول إغراقها وقتل بحارة لا علاقة لهم بالحرب",
+            "summary": "روبيو: إيران تستهدف السفن التجارية وتحاول إغراقها وقتل بحارة لا علاقة لهم بالحرب",
+            "date_modified": "2026-10-20T18:59:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "3802a32026020d543a4e03042975c47eeeba65189830dfeaa90babd228420b45",
+            "content_html": "روبيو: حركة السفن وتدفقات النفط عبر مضيق هرمز بلغت ما بين 80 و100 بالمئة من مستويات ما قبل الحرب",
+            "url": "https://t.me/aljazeeraBrk/240636",
+            "title": "روبيو: حركة السفن وتدفقات النفط عبر مضيق هرمز بلغت ما بين 80 و100 بالمئة من…",
+            "summary": "روبيو: حركة السفن وتدفقات النفط عبر مضيق هرمز بلغت ما بين 80 و100 بالمئة من مستويات ما قبل الحرب",
+            "date_modified": "2026-10-20T18:57:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "d0d58c0d38dfa64db1b987b1f483ecc2591fbacabe0b03f41a06d412b5b8b8f9",
+            "content_html": "ترمب: نريد من زيلنسكي أن يبرم اتفاقا لإنهاء الحرب مع روسيا وكان بإمكانه القيام بذلك قبل عامين",
+            "url": "https://t.me/aljazeeraBrk/240635",
+            "title": "ترمب: نريد من زيلنسكي أن يبرم اتفاقا لإنهاء الحرب مع روسيا وكان بإمكانه القيام…",
+            "summary": "ترمب: نريد من زيلنسكي أن يبرم اتفاقا لإنهاء الحرب مع روسيا وكان بإمكانه القيام بذلك قبل عامين",
+            "date_modified": "2026-10-20T18:56:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "3d5baa7020919305e64ee392f041dd6880e356628134d180844dc1b117ccb8c7",
+            "content_html": "وزير الخارجية الأمريكي: التوصل إلى اتفاق مع النظام الإيراني أمر بالغ الصعوبة",
+            "url": "https://t.me/aljazeeraBrk/240634",
+            "title": "وزير الخارجية الأمريكي: التوصل إلى اتفاق مع النظام الإيراني أمر بالغ الصعوبة",
+            "summary": "وزير الخارجية الأمريكي: التوصل إلى اتفاق مع النظام الإيراني أمر بالغ الصعوبة",
+            "date_modified": "2026-10-20T18:55:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "d1d2a6201082dae5b2b5967c9789d45477f7306c6c86ab5bb8f556ebfb123656",
+            "content_html": "ترمب: روسيا تود التوصل إلى اتفاق مع أوكرانيا وإنهاء الحرب",
+            "url": "https://t.me/aljazeeraBrk/240633",
+            "title": "ترمب: روسيا تود التوصل إلى اتفاق مع أوكرانيا وإنهاء الحرب",
+            "summary": "ترمب: روسيا تود التوصل إلى اتفاق مع أوكرانيا وإنهاء الحرب",
+            "date_modified": "2026-10-20T18:53:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2a069e8eb3035a992421dc9cbbd6fcfc2d2fc8f57a80d0cd726467bcae5d8b31",
+            "content_html": "ترمب: روسيا تود إنهاء الحرب في أوكرانيا",
+            "url": "https://t.me/aljazeeraBrk/240632",
+            "title": "ترمب: روسيا تود إنهاء الحرب في أوكرانيا",
+            "summary": "ترمب: روسيا تود إنهاء الحرب في أوكرانيا",
+            "date_modified": "2026-10-20T18:52:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "32ea9e87c9f81c4e44548b2f29a737521d2301787595c797105aba475fd136d1",
+            "content_html": "ترمب: الأمور تسير على نحو جيد للغاية بخصوص إيران ولسنا بحاجة إلى أي مساعدة",
+            "url": "https://t.me/aljazeeraBrk/240631",
+            "title": "ترمب: الأمور تسير على نحو جيد للغاية بخصوص إيران ولسنا بحاجة إلى أي مساعدة",
+            "summary": "ترمب: الأمور تسير على نحو جيد للغاية بخصوص إيران ولسنا بحاجة إلى أي مساعدة",
+            "date_modified": "2026-10-20T18:47:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2a3dc87c41837d8f21247ebd26614ca40e90465d10323e68e2dfb59887777866",
+            "content_html": "ترمب: نقدم أداء جيدا بشأن إيران ولم يبق أمامنا سوى اتخاذ القرار النهائي بخصوص الطريقة التي نريد أن ننتصر بها",
+            "url": "https://t.me/aljazeeraBrk/240630",
+            "title": "ترمب: نقدم أداء جيدا بشأن إيران ولم يبق أمامنا سوى اتخاذ القرار النهائي بخصوص…",
+            "summary": "ترمب: نقدم أداء جيدا بشأن إيران ولم يبق أمامنا سوى اتخاذ القرار النهائي بخصوص الطريقة التي نريد أن ننتصر بها",
+            "date_modified": "2026-10-20T18:46:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "aedf5cb2eed2e4aa8b03439a01427846b527c29c766acbeeb0e1042fbcab4c68",
+            "content_html": "<b>غرفة تجارة حلب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شركة أسواق حلب برئاسة محمد سعيد شيخ الكار رئيس غرفة تجارة حلب ورئيس مجلس المديرين في الشركة تبحث سبل التعاون مع ممثلي منظمات WHH وأورانج وشفق لتأهيل قسم من سوق هنانو الشعبي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>التأهيل يشمل 150 محلًا تجاريًا إضافة إلى مسجد و19 محلًا خدميًا في إطار الجهود الرامية إلى تحسين البنية الخدمية للسوق وتنشيط الحركة التجارية فيه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تناول الاجتماع آليات دعم المشاريع الصغيرة والمتوسطة ومقترحات تقسيم السوق إلى قطاعات متخصصة وفقاً لطبيعة المهن والأنشطة التجارية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الاجتماع ناقش إنشاء لجنة لمتابعة الخدمات واحتياجات السوق وتنظيم دورات تدريبية تستهدف رواد الأعمال والعاملين فيه<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141965",
+            "title": "غرفة تجارة حلب: 📌شركة أسواق حلب برئاسة محمد سعيد شيخ الكار رئيس غرفة تجارة حلب…",
+            "summary": "<b>غرفة تجارة حلب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شركة أسواق حلب برئاسة محمد سعيد شيخ الكار رئيس غرفة تجارة حلب ورئيس مجلس المديرين في الشركة تبحث سبل التعاون مع ممثلي منظمات WHH وأورانج وشفق لتأهيل قسم من سوق هنانو الشعبي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>التأهيل يشمل 150 محلًا تجاريًا إضافة إلى مسجد و19 محلًا خدميًا في إطار الجهود الرامية إلى تحسين البنية الخدمية للسوق وتنشيط الحركة التجارية فيه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تناول الاجتماع آليات دعم المشاريع الصغيرة والمتوسطة ومقترحات تقسيم السوق إلى قطاعات متخصصة وفقاً لطبيعة المهن والأنشطة التجارية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الاجتماع ناقش إنشاء لجنة لمتابعة الخدمات واحتياجات السوق وتنظيم دورات تدريبية تستهدف رواد الأعمال والعاملين فيه<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/gY9O-Qu20QFFZchMLcKPBu_xkE7Tnyj068AvuMjXUxSpzazYqM5pIcwAjxZ2sLhJtBDirvpRV8Va5WIyTL_V2GNkds4Zxs4zqcEd_dxARoO1hW1gwcVxHt1owc-SzlkGD0NiLaI7huaLJYXGQVRY5-vLaf5TBc9gJSMbCe-T_-PaZ3PuW6xaA91Cz7FzflF4rQHvvQkwc2nlrzP1u8p061JwJdABmg5Uxpxn2ak3VtU9JMmuvaaWdhqLL1jlRFCBYH-QNUbcdFPky4EJwGEQKmXDLTlTK1OJo9YMDqZUWTJfCdwC8hLY1XyXrNmkfOceBNPcYWazCgwTGJYrGGLu-g.jpg",
+            "date_modified": "2026-10-20T18:44:18.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "73dabcd0cf7d8775d95c345768d8e12b38a3ee54283ad16af7e64461fc47c6bc",
+            "content_html": "الحرس الثوري الإيراني: حركة المرور في هرمز قد تعود إلى مستوى ما قبل الحرب لكن حرية الملاحة لن تعود",
+            "url": "https://t.me/aljazeeraBrk/240629",
+            "title": "الحرس الثوري الإيراني: حركة المرور في هرمز قد تعود إلى مستوى ما قبل الحرب لكن…",
+            "summary": "الحرس الثوري الإيراني: حركة المرور في هرمز قد تعود إلى مستوى ما قبل الحرب لكن حرية الملاحة لن تعود",
+            "date_modified": "2026-10-20T18:30:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "76135444feea77fb4605312df77650d852449cecdc1613e863dc8fe458d92828",
+            "content_html": "الحرس الثوري الإيراني: لن نسمح لأي مدمرة أمريكية أو أي سفينة أمريكية أو إسرائيلية بالعبور من مضيق هرمز",
+            "url": "https://t.me/aljazeeraBrk/240628",
+            "title": "الحرس الثوري الإيراني: لن نسمح لأي مدمرة أمريكية أو أي سفينة أمريكية أو…",
+            "summary": "الحرس الثوري الإيراني: لن نسمح لأي مدمرة أمريكية أو أي سفينة أمريكية أو إسرائيلية بالعبور من مضيق هرمز",
+            "date_modified": "2026-10-20T18:20:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "3af607724912b63d6d4fe79bb433462edf561717423c0d8c21022146f818b2a4",
+            "content_html": "المتحدث باسم الحرس الثوري الإيراني: مرور بعض السفن الصغيرة بمضيق هرمز لتهريب النفط لا يعني أن المضيق مفتوح",
+            "url": "https://t.me/aljazeeraBrk/240627",
+            "title": "المتحدث باسم الحرس الثوري الإيراني: مرور بعض السفن الصغيرة بمضيق هرمز لتهريب…",
+            "summary": "المتحدث باسم الحرس الثوري الإيراني: مرور بعض السفن الصغيرة بمضيق هرمز لتهريب النفط لا يعني أن المضيق مفتوح",
+            "date_modified": "2026-10-20T18:11:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2b5382f04a8dcd61403562d73d21ba6161b4f8982a880bce4926020a7b21678d",
+            "content_html": "المتحدث باسم الحرس الثوري الإيراني: مرور بعض السفن الصغيرة مضيق هرمز لتهريب النفط لا يعني أن المضيق مفتوح",
+            "url": "https://t.me/aljazeeraBrk/240626",
+            "title": "المتحدث باسم الحرس الثوري الإيراني: مرور بعض السفن الصغيرة مضيق هرمز لتهريب…",
+            "summary": "المتحدث باسم الحرس الثوري الإيراني: مرور بعض السفن الصغيرة مضيق هرمز لتهريب النفط لا يعني أن المضيق مفتوح",
+            "date_modified": "2026-10-20T18:10:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2d02f6e6f7cd556368959bfacfe135b7b7697fca4da655b89d5802de995fb145",
+            "content_html": "المتحدث باسم الحرس الثوري الإيراني: أمريكا تهرب النفط عبر مضيق هرمز بتكلفة باهظة",
+            "url": "https://t.me/aljazeeraBrk/240625",
+            "title": "المتحدث باسم الحرس الثوري الإيراني: أمريكا تهرب النفط عبر مضيق هرمز بتكلفة باهظة",
+            "summary": "المتحدث باسم الحرس الثوري الإيراني: أمريكا تهرب النفط عبر مضيق هرمز بتكلفة باهظة",
+            "date_modified": "2026-10-20T18:09:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "a130941292be08f9e5939e3f873cb758338c158ed13e23f1df6b932db4bd78e8",
+            "content_html": "المتحدث باسم الحرس الثوري الإيراني: الادعاء أن الأمريكيين يمررون النفط من مضيق هرمز عار من الصحة",
+            "url": "https://t.me/aljazeeraBrk/240624",
+            "title": "المتحدث باسم الحرس الثوري الإيراني: الادعاء أن الأمريكيين يمررون النفط من مضيق…",
+            "summary": "المتحدث باسم الحرس الثوري الإيراني: الادعاء أن الأمريكيين يمررون النفط من مضيق هرمز عار من الصحة",
+            "date_modified": "2026-10-20T18:09:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "567a30142c3345d3ded227b712981c32130aad6e56379cfc1e3634dc7b897ac7",
+            "content_html": "بزشكيان: كنا وما زلنا مستعدين للحوار لكن على الأمريكيين رفع التهديد والعقوبات",
+            "url": "https://t.me/aljazeeraBrk/240622",
+            "title": "بزشكيان: كنا وما زلنا مستعدين للحوار لكن على الأمريكيين رفع التهديد والعقوبات",
+            "summary": "بزشكيان: كنا وما زلنا مستعدين للحوار لكن على الأمريكيين رفع التهديد والعقوبات",
+            "date_modified": "2026-10-20T17:56:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "8a6700e0cb06a942fdc158589fa6c847612f93ff5ed2cadc789ee9d33a289e6b",
+            "content_html": "الرئيس الإيراني: تصرفات الجانب الأمريكي تتناقض مع دعوته للتفاوض",
+            "url": "https://t.me/aljazeeraBrk/240623",
+            "title": "الرئيس الإيراني: تصرفات الجانب الأمريكي تتناقض مع دعوته للتفاوض",
+            "summary": "الرئيس الإيراني: تصرفات الجانب الأمريكي تتناقض مع دعوته للتفاوض",
+            "date_modified": "2026-10-20T17:56:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "e1e90a4d87775778ef14f5ef7227d2866b09b1f50aae21aded53307989e2735a",
+            "content_html": "بزشكيان: الحرب ليست في مصلحتنا ولا في مصلحة المنطقة أو العالم ولا حتى أمريكا",
+            "url": "https://t.me/aljazeeraBrk/240621",
+            "title": "بزشكيان: الحرب ليست في مصلحتنا ولا في مصلحة المنطقة أو العالم ولا حتى أمريكا",
+            "summary": "بزشكيان: الحرب ليست في مصلحتنا ولا في مصلحة المنطقة أو العالم ولا حتى أمريكا",
+            "date_modified": "2026-10-20T17:53:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "f93209e14cba516e19b3623fe8d3ccc38d956448d44e7ffa2eb9fdd26dcc6e4d",
+            "content_html": "بزشكيان: ادعاءات واشنطن تفتقر لأي أساس وأثبتنا حسن النية سواء في المفاوضات أو عمليات التفتيش بالملف النووي",
+            "url": "https://t.me/aljazeeraBrk/240620",
+            "title": "بزشكيان: ادعاءات واشنطن تفتقر لأي أساس وأثبتنا حسن النية سواء في المفاوضات أو…",
+            "summary": "بزشكيان: ادعاءات واشنطن تفتقر لأي أساس وأثبتنا حسن النية سواء في المفاوضات أو عمليات التفتيش بالملف النووي",
+            "date_modified": "2026-10-20T17:53:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7faad926b80a2aca703afb483645fe2e58622c43b16e0efa57b84e0f6e5a93ca",
+            "content_html": "رئيسة وزراء إيطاليا: نشر أفراد من الجيش في ميلانو عقب الاشتباكات",
+            "url": "https://t.me/aljazeeraBrk/240619",
+            "title": "رئيسة وزراء إيطاليا: نشر أفراد من الجيش في ميلانو عقب الاشتباكات",
+            "summary": "رئيسة وزراء إيطاليا: نشر أفراد من الجيش في ميلانو عقب الاشتباكات",
+            "date_modified": "2026-10-20T17:50:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "cb0b8fc219a3ab40a8a4fe63852f7323e6d03844a9dff2e254200f18564fa5b6",
+            "content_html": "الرئيس الإيراني خلال لقائه قائد الجيش الباكستاني: على واشنطن رفع الضغوط والتهديدات والعقوبات قبل أي مفاوضات",
+            "url": "https://t.me/aljazeeraBrk/240618",
+            "title": "الرئيس الإيراني خلال لقائه قائد الجيش الباكستاني: على واشنطن رفع الضغوط…",
+            "summary": "الرئيس الإيراني خلال لقائه قائد الجيش الباكستاني: على واشنطن رفع الضغوط والتهديدات والعقوبات قبل أي مفاوضات",
+            "date_modified": "2026-10-20T17:46:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "32c0e722be38702a1f572c62b2eb50f1f10df33b278c50a3cac1aece83f56ec1",
+            "content_html": "<b>نائب محافظ الحسكة أحمد الهلالي: </b>تنطلق صباح غد قافلة عودة تضم 645 عائلة من نازحي منطقة رأس العين بعد تطهير قراهم من الألغام والمخلفات الحربية وذلك ضمن جهود تأمين العودة الكريمة والآمنة للنازحين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141964",
+            "title": "نائب محافظ الحسكة أحمد الهلالي: تنطلق صباح غد قافلة عودة تضم 645 عائلة من نازحي…",
+            "summary": "<b>نائب محافظ الحسكة أحمد الهلالي: </b>تنطلق صباح غد قافلة عودة تضم 645 عائلة من نازحي منطقة رأس العين بعد تطهير قراهم من الألغام والمخلفات الحربية وذلك ضمن جهود تأمين العودة الكريمة والآمنة للنازحين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/txv-BhC7OkMo1S3Lp1SvrNp73nq3S1yY8AT554L3gBanwctYOCb48h9IFpPqpSEX7etldM-Le7tey4W4D2OGiVYf-XejEHJfHALuQEwW5Jb8DEyNN8pBDevKar6WEAAy5SL-DS-pQJA9xy7A5fPTW2240QNYt5oRT0aiLAFuKEUJQiMRxHVla8lyonrETi3s8qsSyaJoxgyc6Fb5xWI-0eO6KD4Y-P6s7lm9_WEY4vsmaMe_yju8HgL0UVjlxpjJdLPAEYJ0fCDO6Uh8bpByjuqMIuQWC25lAnf2xElCUGq9eU1-CWoEAPwDT2hvNge6hFrMRTUO8ntUX6SuxuumbA.jpg",
+            "date_modified": "2026-10-20T17:33:47.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "7fe2a7a9b3a54959783901ca60e7e5f0d6436fe0c32a4fe36394b593a47bba68",
+            "content_html": "أهلي حلب يحقق فوزًا على عريضًا أهال التركمانستاني بنتيجة (5-1) في إطار بطولة كأس التحدي الآسيوي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141963",
+            "title": "أهلي حلب يحقق فوزًا على عريضًا أهال التركمانستاني بنتيجة (5-1) في إطار بطولة…",
+            "summary": "أهلي حلب يحقق فوزًا على عريضًا أهال التركمانستاني بنتيجة (5-1) في إطار بطولة كأس التحدي الآسيوي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/TerCSiUTtdW8HC8HObWJ0eOqBnYYAIYvv0V5qF6fmWjzvjVMvz2yfVeSh_0-nrzw9EMK9Fp8hTHTW1U9q-BmVlKKD7bs5WmLxE_XewPr3yYmy93bColCgyUse3LZ5Tfjo1NkDHfLufpEayUpEtC8xDnrcrnNSBxwV3yLMW_oLaDM50slXVX3yUZnNcXm_y8NpCVRtXDzGwx6xI2Ww3FNfYSIJcwfqXGvePGt-I0s1aLP4hRPCGFlUbC9iAOWL-Ztr95Wd4Jo-kpdtr1SFGB-gGITJvo523_ffsG0fKR3Q3URpFfwXv6Brdz5dlViAXjMGlX-Gj5RIIjk2cMJ6Wl_xQ.jpg",
+            "date_modified": "2026-10-20T16:58:46.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "d86c4e2a48c7a0fef67defd500efeb4eaf34f318eb8711bd44bdf05a7b30c302",
+            "content_html": "<b>الهيئة العامة للطيران المدني والنقل الجوي:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الخطوط الجوية السورية تبدأ تسيير رحلاتها الداخلية المباشرة بين دمشق وحلب اعتبارًا من 18 تشرين الثاني المقبل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>هذه الخطوة تأتي في إطار جهود الناقل الوطني لتوسيع شبكة رحلاته الداخلية وتعزيز الربط الجوي بين المدن السورية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141962",
+            "title": "الهيئة العامة للطيران المدني والنقل الجوي: 📌الخطوط الجوية السورية تبدأ تسيير…",
+            "summary": "<b>الهيئة العامة للطيران المدني والنقل الجوي:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الخطوط الجوية السورية تبدأ تسيير رحلاتها الداخلية المباشرة بين دمشق وحلب اعتبارًا من 18 تشرين الثاني المقبل<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>هذه الخطوة تأتي في إطار جهود الناقل الوطني لتوسيع شبكة رحلاته الداخلية وتعزيز الربط الجوي بين المدن السورية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/AsMTkqUrfw6YzMf65He1Ylh_qtxl26zJt8h6zg373XZBav8d_yRUEp35yFflPl_p5BQHdRr79ZzV_okdgmBJfD7HYnd8AM3Ar94nYmQbAX6sooeswoBsNSfNja_Ux7QLfGt7tc5vdqFtp9WgQtH7J9Odd6SJnbo9lM36AjNaenafds_k6fEHGzayG9jb8Vg1lPhiPL0pLN7rA831KFXyQQurl59L8NaXOCCgvMwuVBS74ugNtMc8wukOjZqtqG9ymKmZnakYNcQhm-cU_yY9WoCNuZlm83TI1QEZAcu7PWtAvyFGzsiHmSvixVenEY8tN3ntYJxBKiy0yzMi9Z80fQ.jpg",
+            "date_modified": "2026-10-20T16:50:42.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "4171bcbbdaf19464bed761fcaaaa9cdc067d1008cc96a4a5448eb778c2bf7a06",
+            "content_html": "<b>أهلي</b> حلب ينهي الشوط الأول متقدمًا بنتيجة (1-0) على أهال التركمانستاي في إطار بطولة دوري التحدي الآسيوي <br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141961",
+            "title": "أهلي حلب ينهي الشوط الأول متقدمًا بنتيجة (1-0) على أهال التركمانستاي في إطار…",
+            "summary": "<b>أهلي</b> حلب ينهي الشوط الأول متقدمًا بنتيجة (1-0) على أهال التركمانستاي في إطار بطولة دوري التحدي الآسيوي <br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/k15FzDMoTBJ2xhuSIfypsB5HtGKn9_3oHCJsedH4z80mkddNa9lSSAnb-QZvz1kCGTrZ0WWkFQuYxioux0hL56aCWPx5xE_2S1kVFQS8_PuTF3RsJIWKMmwLlvRfj0DSxRSa_BNs_SJUm7MoWfWGVDyivdQz1KZzvIbT6zK1ejN6xMFwEI7fI6exGnuwqEEaX9wLJZCrIH3uf0kpStum-jgeTU0pO_J3epkXpXjsvdkxawHPpWjQBH76rA293D4qEXY2vvxq0tDDbERxIobj4sIKlj66_YRjZUacRI4HbglAAk8mS9V-27CzuNuSdcEihEn59I7w_8yqzWwDUlYpMQ.jpg",
+            "date_modified": "2026-10-20T15:51:20.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "d18fa1dc03e3ceab1540c459d3f04592f7285960d5c37f463fefffaae3ad0b48",
+            "content_html": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>: </b>مديرية الطوارئ في حلب تستجيب لـ 730 حادث سير في مختلف مناطق المحافظة منذ بداية العام أسفرت عن وفاة 45 شخصًا وإصابة 762 آخرين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141960",
+            "title": "محافظة #حلب: مديرية الطوارئ في حلب تستجيب لـ 730 حادث سير في مختلف مناطق…",
+            "summary": "<b>محافظة </b><a href=\"https://t.me/?q=%23%D8%AD%D9%84%D8%A8\"><b>#حلب</b></a><b>: </b>مديرية الطوارئ في حلب تستجيب لـ 730 حادث سير في مختلف مناطق المحافظة منذ بداية العام أسفرت عن وفاة 45 شخصًا وإصابة 762 آخرين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/qmaFlxMctqGX78lIwzy_7hAbuwxz8xlZegv9R7wulQn_jf32A-usRGMxXqHX85mnzvq8YwIYj2NLoyOLhqpAw_bhpU-9MqNWlgW7iaybWl7jg5toZCNwGmOXCLmPcJAo4wtqeTMNiFYI8Vua7ipnMS0tEbUzx0Y_9p2nlKZ00n9-gC1TLxULoGoUxj6HQMZ1CaSPOeXhrlLMbhvQn0LLqOJc4Xji6cCU0_0Aw-KV9cTmFJvf7bsVNliHhVISJzn7roedTaN49NPPUYluylMcTuZoQtmIeXoqbP3NWxTJbH1Jt3-rKGli9_2rbFLi2ienePvwv3hOAIYVIERptY_-7g.jpg",
+            "date_modified": "2026-10-20T15:47:37.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "5a100f73d9eaa10b56f20623d421683ba63febb66f3bab3a5855496f4e2b7847",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOUGxwWDROX3QwWmNhZmQxNEZyZnZLQzl4MEN1aTFQVDBTWE1tMEx0ZzI5VFN5Znk1LXRybFB3YTRTaG1ydTRocFFsSkV5bTM5dlV1VDNhUVZ3ODZ1RXRXTjFTMnRhTnl4TWh1RnBsaXplc0tQbEVoWlpaZHNzVGxEMkpIWUVZS2RkMWNkNmlrOWJTRUdjZ05qVDVPN1ZzelZ1b1kybU9oMUNaUzNpZS1FdmliRHdBRnFZMWd2MXU2RWpBU3A1VkFHZ1BINjZFTFhlaWZtVTZsay1LYzJVbTJYMTFTbE4zUU5KaFZmSk95MEU0Snd2MWdrODVCZ0UwdmNSaDNETEs5MzFta25lMlMwZVY1amhYZkxPSW5CYThQTVVDcThCbTh4RHZVcDNKb1hobThDRHZCTjVlS0t2U3FRSUNJOEpjalVhY2V4Qi1OSEJoSU1pZXhIT3lzZUpCYmR6RnU0cHlxanBuRndJMnVMci1iQ3FkdXJtellFRVJUUFhrc0FkZm4yNHMwTnptZERqUUNyNENjSDZ4d1EwVExBQXlPUThCakhGaERwS2ZycnNEa3plNXc2NTd3UmZwOFQ0Z2d3dWdlbVZETzFS0gHSA0FVX3lxTFBNYXlfUllSTEZGTUhOSEVfT1RDenhvNmZ2X1Exc2xDNWQzZll1Rmh1ZEl6OTRuZnhfMk5lNkkzVnNoVVZNRV81Wmt3Mjl5bWt0Ylh0RHlrX3NNeXcybHFHSnlyanhqTEdMSGxXd2xPVFBHSms5ekk2UF9iQXp2NFN0dGJ4bF9sa2ZhSW5yeXpmWHdyc1RETFhMbHNUTVVkNE5XYWpmc0ItejFqRmpVLVM0eWZtYWdmRHVYNXZqODJvaXp1RXF5ZnJlVDU4RVNtOG5YTmlPQ3g0bEpsZ2RkcWNza0ZyS2xMTXRRSjNhQ1B1QmFCNHVmWHZ2MDZEOFh5Y0dnSjRrcjVoWElhU00xeUliTUpLMUwtOTRuSy15bVRmSHBfMHJtb1JZclFmTzA3Qm0yeElxTW83Rko4YVFQTlBJZVRFbVBlbURuX09PbmxfYTUwcEFhNWlkWkxZeDVJUy1FNGQyZzZQdHZiUWRraXhScWxqS0xuRnFIYXlUR1I1SnRtRUdTMzM1V0RTUHA2MThUZmlSSXZnZkZsVURHUGtLRXc5bjg0NHNfU3QzUm9ieUtZX1U4bDRtQ3RKMTNNSlZCclpvME0xSENnWUNNYU1qYnc?oc=5\" target=\"_blank\">مساعٍ للحدّ من أزمات تعليم الطلاب الفلسطينيين في سورية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOUGxwWDROX3QwWmNhZmQxNEZyZnZLQzl4MEN1aTFQVDBTWE1tMEx0ZzI5VFN5Znk1LXRybFB3YTRTaG1ydTRocFFsSkV5bTM5dlV1VDNhUVZ3ODZ1RXRXTjFTMnRhTnl4TWh1RnBsaXplc0tQbEVoWlpaZHNzVGxEMkpIWUVZS2RkMWNkNmlrOWJTRUdjZ05qVDVPN1ZzelZ1b1kybU9oMUNaUzNpZS1FdmliRHdBRnFZMWd2MXU2RWpBU3A1VkFHZ1BINjZFTFhlaWZtVTZsay1LYzJVbTJYMTFTbE4zUU5KaFZmSk95MEU0Snd2MWdrODVCZ0UwdmNSaDNETEs5MzFta25lMlMwZVY1amhYZkxPSW5CYThQTVVDcThCbTh4RHZVcDNKb1hobThDRHZCTjVlS0t2U3FRSUNJOEpjalVhY2V4Qi1OSEJoSU1pZXhIT3lzZUpCYmR6RnU0cHlxanBuRndJMnVMci1iQ3FkdXJtellFRVJUUFhrc0FkZm4yNHMwTnptZERqUUNyNENjSDZ4d1EwVExBQXlPUThCakhGaERwS2ZycnNEa3plNXc2NTd3UmZwOFQ0Z2d3dWdlbVZETzFS0gHSA0FVX3lxTFBNYXlfUllSTEZGTUhOSEVfT1RDenhvNmZ2X1Exc2xDNWQzZll1Rmh1ZEl6OTRuZnhfMk5lNkkzVnNoVVZNRV81Wmt3Mjl5bWt0Ylh0RHlrX3NNeXcybHFHSnlyanhqTEdMSGxXd2xPVFBHSms5ekk2UF9iQXp2NFN0dGJ4bF9sa2ZhSW5yeXpmWHdyc1RETFhMbHNUTVVkNE5XYWpmc0ItejFqRmpVLVM0eWZtYWdmRHVYNXZqODJvaXp1RXF5ZnJlVDU4RVNtOG5YTmlPQ3g0bEpsZ2RkcWNza0ZyS2xMTXRRSjNhQ1B1QmFCNHVmWHZ2MDZEOFh5Y0dnSjRrcjVoWElhU00xeUliTUpLMUwtOTRuSy15bVRmSHBfMHJtb1JZclFmTzA3Qm0yeElxTW83Rko4YVFQTlBJZVRFbVBlbURuX09PbmxfYTUwcEFhNWlkWkxZeDVJUy1FNGQyZzZQdHZiUWRraXhScWxqS0xuRnFIYXlUR1I1SnRtRUdTMzM1V0RTUHA2MThUZmlSSXZnZkZsVURHUGtLRXc5bjg0NHNfU3QzUm9ieUtZX1U4bDRtQ3RKMTNNSlZCclpvME0xSENnWUNNYU1qYnc?oc=5",
+            "title": "مساعٍ للحدّ من أزمات تعليم الطلاب الفلسطينيين في سورية - العربي الجديد",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOUGxwWDROX3QwWmNhZmQxNEZyZnZLQzl4MEN1aTFQVDBTWE1tMEx0ZzI5VFN5Znk1LXRybFB3YTRTaG1ydTRocFFsSkV5bTM5dlV1VDNhUVZ3ODZ1RXRXTjFTMnRhTnl4TWh1RnBsaXplc0tQbEVoWlpaZHNzVGxEMkpIWUVZS2RkMWNkNmlrOWJTRUdjZ05qVDVPN1ZzelZ1b1kybU9oMUNaUzNpZS1FdmliRHdBRnFZMWd2MXU2RWpBU3A1VkFHZ1BINjZFTFhlaWZtVTZsay1LYzJVbTJYMTFTbE4zUU5KaFZmSk95MEU0Snd2MWdrODVCZ0UwdmNSaDNETEs5MzFta25lMlMwZVY1amhYZkxPSW5CYThQTVVDcThCbTh4RHZVcDNKb1hobThDRHZCTjVlS0t2U3FRSUNJOEpjalVhY2V4Qi1OSEJoSU1pZXhIT3lzZUpCYmR6RnU0cHlxanBuRndJMnVMci1iQ3FkdXJtellFRVJUUFhrc0FkZm4yNHMwTnptZERqUUNyNENjSDZ4d1EwVExBQXlPUThCakhGaERwS2ZycnNEa3plNXc2NTd3UmZwOFQ0Z2d3dWdlbVZETzFS0gHSA0FVX3lxTFBNYXlfUllSTEZGTUhOSEVfT1RDenhvNmZ2X1Exc2xDNWQzZll1Rmh1ZEl6OTRuZnhfMk5lNkkzVnNoVVZNRV81Wmt3Mjl5bWt0Ylh0RHlrX3NNeXcybHFHSnlyanhqTEdMSGxXd2xPVFBHSms5ekk2UF9iQXp2NFN0dGJ4bF9sa2ZhSW5yeXpmWHdyc1RETFhMbHNUTVVkNE5XYWpmc0ItejFqRmpVLVM0eWZtYWdmRHVYNXZqODJvaXp1RXF5ZnJlVDU4RVNtOG5YTmlPQ3g0bEpsZ2RkcWNza0ZyS2xMTXRRSjNhQ1B1QmFCNHVmWHZ2MDZEOFh5Y0dnSjRrcjVoWElhU00xeUliTUpLMUwtOTRuSy15bVRmSHBfMHJtb1JZclFmTzA3Qm0yeElxTW83Rko4YVFQTlBJZVRFbVBlbURuX09PbmxfYTUwcEFhNWlkWkxZeDVJUy1FNGQyZzZQdHZiUWRraXhScWxqS0xuRnFIYXlUR1I1SnRtRUdTMzM1V0RTUHA2MThUZmlSSXZnZkZsVURHUGtLRXc5bjg0NHNfU3QzUm9ieUtZX1U4bDRtQ3RKMTNNSlZCclpvME0xSENnWUNNYU1qYnc?oc=5\" target=\"_blank\">مساعٍ للحدّ من أزمات تعليم الطلاب الفلسطينيين في سورية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
+            "date_modified": "2026-10-20T15:09:55.000Z",
+            "author": {
+                "name": "العربي الجديد"
+            }
+        },
+        {
+            "id": "42f2d9535ed4670489186153d9b29d21afca289b6284c91008f05b9cebbb05d2",
+            "content_html": "<b>مديرية التجارة الداخلية وحماية المستهلك في حلب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ضبط مستودع يحتوي على 40 كيسًا من الدقيق التمويني بوزن إجمالي بلغ طنين<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تبيّن قيام المخالفين بتفريغ الدقيق التمويني في أكياس دقيق زيرو تمهيدًا لطرحه وبيعه في الأسواق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرت مصادرة الكمية المضبوطة واتُّخذت الإجراءات القانونية اللازمة بحق المخالفين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141959",
+            "title": "مديرية التجارة الداخلية وحماية المستهلك في حلب: 📌ضبط مستودع يحتوي على 40 كيسًا…",
+            "summary": "<b>مديرية التجارة الداخلية وحماية المستهلك في حلب:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ضبط مستودع يحتوي على 40 كيسًا من الدقيق التمويني بوزن إجمالي بلغ طنين<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تبيّن قيام المخالفين بتفريغ الدقيق التمويني في أكياس دقيق زيرو تمهيدًا لطرحه وبيعه في الأسواق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرت مصادرة الكمية المضبوطة واتُّخذت الإجراءات القانونية اللازمة بحق المخالفين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/jm-53myhhEv4NEp-J8NvmklmEcK6ikca9yjQmz4pX1hcW5HJKwK2x2vvQDyCAFeG1gVmlb_5zkYLGG4Bcy3cV9KzqoOzKx-rhjjVIvJqyN5eLxnYhIU5RmI0SLIGzszB7LBcjnm7GJvob65qG7WTsfO456uIwTYXuJKcfoSe861CWBD9EBgLBtMK12j_XenfqtsMfEwQFPDXSRXvvGCaL9avnXxdpvKCI0uYCd1Q_jnlfgJUGLYQsyqdSGqesfHqg6JVb3RGSDUdVqpmpF3Js6ZOkWsM1shwcQ3P9uOvCynNWkkip9ZlXIaH5pUdn3C6z3keQFFRVSqzWvaHeBPj1g.jpg",
+            "date_modified": "2026-10-20T14:56:49.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "a5e1ea4f4a82911159c5339d5846c075d866715683e305e9824ae24f7f139810",
+            "content_html": "اتحاد شركات شحن البضائع يُقيم حفل توزيع شهادات التدريبات التي نظمها في حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141958",
+            "title": "اتحاد شركات شحن البضائع يُقيم حفل توزيع شهادات التدريبات التي نظمها في حلب…",
+            "summary": "اتحاد شركات شحن البضائع يُقيم حفل توزيع شهادات التدريبات التي نظمها في حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/FBFw0Cr6pa3f-ZlTlUAkGYPAVMav81bwumWyPziVzGk8uiubswC953_e54rLE0Ax827gjfeYljJTMWMzToHCqKJs1PI_Wo1hyPtFop07dcxRspYRtJ9Xqfe63436o57oMJ7PA18zg2gKQlZNCgRwyjfMrW_BryiRgCpPRey1gZPm3dD5fiMcZAqu_XPR8X4zEIuk6Vc6Hdiz8Mqz3LJHPMNWz6-CRZS_CygLV29z8xcxnRDi8_LqPXx9lwdF1CiqCI3bEV6vU7B0kHD497sOnPn-6L6jJzVk_jxu1nprnHDAIvCV8EQDAXckhJKqJBu-1hJx9I2acAJZzj3DcPScRw.jpg",
+            "date_modified": "2026-10-20T14:30:44.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "1f44b9c3d90fc6fe8aa0419790d8b896204a07c4fdd49f0b80a52bbc0df8b852",
             "content_html": "كاتس: مستعدون لتوغل إضافي بمنطقتي النبطية والليطاني جنوب لبنان وسيتم إجلاء السكان وضمهما للمنطقة الأمنية",
             "url": "https://t.me/aljazeeraBrk/240564",
@@ -1292,328 +1619,6 @@
             "date_modified": "2026-10-20T02:58:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "84eb722c920a87df7bde66fc7cc1b382fbce50264a099bfa508cb114670fc17c",
-            "content_html": "أكسيوس عن مسؤول أمريكي: ويتكوف وكوشنر تحدثا مع زيلنسكي الأحد لمراجعة التقدم المحرز ومناقشة الخطوات المقبلة",
-            "url": "https://t.me/aljazeeraBrk/240481",
-            "title": "أكسيوس عن مسؤول أمريكي: ويتكوف وكوشنر تحدثا مع زيلنسكي الأحد لمراجعة التقدم…",
-            "summary": "أكسيوس عن مسؤول أمريكي: ويتكوف وكوشنر تحدثا مع زيلنسكي الأحد لمراجعة التقدم المحرز ومناقشة الخطوات المقبلة",
-            "date_modified": "2026-10-20T02:10:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "647b3b44ef36c3e50a276c6cc0457793b57cbea9af989bdf20ad368786e8a5d6",
-            "content_html": "أكسيوس عن مسؤول أمريكي: هدف ترمب هو إنهاء الحرب بين روسيا وأوكرانيا وتهيئة الظروف لتحقيق سلام دائم",
-            "url": "https://t.me/aljazeeraBrk/240480",
-            "title": "أكسيوس عن مسؤول أمريكي: هدف ترمب هو إنهاء الحرب بين روسيا وأوكرانيا وتهيئة…",
-            "summary": "أكسيوس عن مسؤول أمريكي: هدف ترمب هو إنهاء الحرب بين روسيا وأوكرانيا وتهيئة الظروف لتحقيق سلام دائم",
-            "date_modified": "2026-10-20T02:08:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "9a5136d64bcd8709cbd186e97fa86315bd6ea2773df1836a16094b965b3ac295",
-            "content_html": "أكسيوس عن مسؤول أمريكي: ترمب وجه بإجراء عملية مكثفة لتطوير مقترح سلام شامل بين روسيا وأوكرانيا",
-            "url": "https://t.me/aljazeeraBrk/240479",
-            "title": "أكسيوس عن مسؤول أمريكي: ترمب وجه بإجراء عملية مكثفة لتطوير مقترح سلام شامل بين…",
-            "summary": "أكسيوس عن مسؤول أمريكي: ترمب وجه بإجراء عملية مكثفة لتطوير مقترح سلام شامل بين روسيا وأوكرانيا",
-            "date_modified": "2026-10-20T02:07:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "4fd94377eba6be83aeb5024ec9a15fd760dea2c10e0ad88731c4496d31e0c31b",
-            "content_html": "أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر لم يبديا انفتاحا على مقترح زيلنسكي وقف الهجمات مقابل صواريخ باتريوت",
-            "url": "https://t.me/aljazeeraBrk/240448",
-            "title": "أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر لم يبديا انفتاحا على مقترح زيلنسكي…",
-            "summary": "أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر لم يبديا انفتاحا على مقترح زيلنسكي وقف الهجمات مقابل صواريخ باتريوت",
-            "date_modified": "2026-10-19T22:09:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5193d3d0514eb1d8352c5c15ca09eceead5f65e934fe480daad8b6c99f76e0ae",
-            "content_html": "أكسيوس عن مسؤولين أوكرانيين: زيلنسكي اقترح وقف الهجوم على مصافي النفط الروسية مقابل الحصول على صواريخ باتريوت",
-            "url": "https://t.me/aljazeeraBrk/240447",
-            "title": "أكسيوس عن مسؤولين أوكرانيين: زيلنسكي اقترح وقف الهجوم على مصافي النفط الروسية…",
-            "summary": "أكسيوس عن مسؤولين أوكرانيين: زيلنسكي اقترح وقف الهجوم على مصافي النفط الروسية مقابل الحصول على صواريخ باتريوت",
-            "date_modified": "2026-10-19T22:08:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "01a49479936f5c0f040bd415d4101fd4429885ec1929fe2730e1fb1b1111568d",
-            "content_html": "أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر طلبا مجددا من أوكرانيا وقف الهجمات على مصافي النفط الروسية",
-            "url": "https://t.me/aljazeeraBrk/240446",
-            "title": "أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر طلبا مجددا من أوكرانيا وقف الهجمات…",
-            "summary": "أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر طلبا مجددا من أوكرانيا وقف الهجمات على مصافي النفط الروسية",
-            "date_modified": "2026-10-19T22:06:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e141069aef94011136ae2ca046dedd938be95bb0661876684e4f3f044c686a82",
-            "content_html": "أكسيوس عن مسؤولين أوكرانيين: هيغسيث لم يوافق على تسليم صواريخ باتريوت لكييف رغم سداد دول في الناتو ثمنها",
-            "url": "https://t.me/aljazeeraBrk/240445",
-            "title": "أكسيوس عن مسؤولين أوكرانيين: هيغسيث لم يوافق على تسليم صواريخ باتريوت لكييف رغم…",
-            "summary": "أكسيوس عن مسؤولين أوكرانيين: هيغسيث لم يوافق على تسليم صواريخ باتريوت لكييف رغم سداد دول في الناتو ثمنها",
-            "date_modified": "2026-10-19T21:58:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "c74dbb228e48dd1c6881c5d3045a0229169404e74c5d86c5fc676826d1eedd4e",
-            "content_html": "أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة من واشنطن أوشك على النفاد",
-            "url": "https://t.me/aljazeeraBrk/240444",
-            "title": "أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة…",
-            "summary": "أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة من واشنطن أوشك على النفاد",
-            "date_modified": "2026-10-19T21:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "9fd3e7dc8f32f0df837a12c888f6f5a5674349547929b22bbe55c2bbcb4c3677",
-            "content_html": "أكسيوس عن مسؤولين أوكرانيين: ترمب يقيد الدعم لأوكرانيا للضغط على زيلنسكي لقبول اتفاق يتضمن تنازلات لروسيا",
-            "url": "https://t.me/aljazeeraBrk/240443",
-            "title": "أكسيوس عن مسؤولين أوكرانيين: ترمب يقيد الدعم لأوكرانيا للضغط على زيلنسكي لقبول…",
-            "summary": "أكسيوس عن مسؤولين أوكرانيين: ترمب يقيد الدعم لأوكرانيا للضغط على زيلنسكي لقبول اتفاق يتضمن تنازلات لروسيا",
-            "date_modified": "2026-10-19T21:56:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2e214ad3f0a860a90dbdcb6a7be6f249ced3021590501bf699b6343d5f50d5d9",
-            "content_html": "الإخبارية: قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي وتداهم أحد المنازل بالتزامن مع إطلاق قنابل مضيئة في سماء المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141940",
-            "title": "الإخبارية: قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي…",
-            "summary": "الإخبارية: قوات الاحتلال الإسرائيلي تتوغل في قرية طرنجة بريف القنيطرة الشمالي وتداهم أحد المنازل بالتزامن مع إطلاق قنابل مضيئة في سماء المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-19T21:35:22.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "2be11a4d91e89ac42785acb3d0eef8f3e63a2bcda36d1e63c32d2aa34730356e",
-            "content_html": "الهيئة العامة للمنافذ والجمارك:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>منفذ جوسية الحدودي مع لبنان يسجّل عبور أكثر من 826 ألف مسافر في كلا الاتجاهين خلال الأشهر التسعة الأولى من العام الحالي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>حركة المسافرين توزّعت بين نحو 519 ألف قادم إلى الأراضي السورية و307 آلاف مغادر<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بلغ عدد المواطنين العائدين طوعًا نحو 191 ألف شخص خلال الفترة ذاتها<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141939",
-            "title": "الهيئة العامة للمنافذ والجمارك: 📌منفذ جوسية الحدودي مع لبنان يسجّل عبور أكثر…",
-            "summary": "الهيئة العامة للمنافذ والجمارك:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>منفذ جوسية الحدودي مع لبنان يسجّل عبور أكثر من 826 ألف مسافر في كلا الاتجاهين خلال الأشهر التسعة الأولى من العام الحالي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>حركة المسافرين توزّعت بين نحو 519 ألف قادم إلى الأراضي السورية و307 آلاف مغادر<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بلغ عدد المواطنين العائدين طوعًا نحو 191 ألف شخص خلال الفترة ذاتها<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-19T20:48:53.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "c3343cf8a00d34989993d23c5f57e996f38c35d33e9443906a861b3deba2517d",
-            "content_html": "هيئة إدارة مضيق هرمز الإيرانية: إضافة ١٢٢ سفينة حتى الآن إلى قائمة عدم الامتثال",
-            "url": "https://t.me/aljazeeraBrk/240442",
-            "title": "هيئة إدارة مضيق هرمز الإيرانية: إضافة ١٢٢ سفينة حتى الآن إلى قائمة عدم الامتثال",
-            "summary": "هيئة إدارة مضيق هرمز الإيرانية: إضافة ١٢٢ سفينة حتى الآن إلى قائمة عدم الامتثال",
-            "date_modified": "2026-10-19T20:40:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "4edc7e38815da38ca8813c4708ba3d5151e7683046514bdda3345a2f20bf1916",
-            "content_html": "رويترز عن مصادر: توقعات بانضمام الرئيس الأوكراني إلى المحادثات مع الوفد الأمريكي في النرويج",
-            "url": "https://t.me/aljazeeraBrk/240441",
-            "title": "رويترز عن مصادر: توقعات بانضمام الرئيس الأوكراني إلى المحادثات مع الوفد…",
-            "summary": "رويترز عن مصادر: توقعات بانضمام الرئيس الأوكراني إلى المحادثات مع الوفد الأمريكي في النرويج",
-            "date_modified": "2026-10-19T20:27:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "c2e80a26b11fd3964e56d0fbfa154416707c348af03005ce78240d6decc8f125",
-            "content_html": "رويترز عن مصادر: كوشنر وويتكوف يتوجهان إلى النرويج هذا الأسبوع لإجراء محادثات بشأن أوكرانيا",
-            "url": "https://t.me/aljazeeraBrk/240440",
-            "title": "رويترز عن مصادر: كوشنر وويتكوف يتوجهان إلى النرويج هذا الأسبوع لإجراء محادثات…",
-            "summary": "رويترز عن مصادر: كوشنر وويتكوف يتوجهان إلى النرويج هذا الأسبوع لإجراء محادثات بشأن أوكرانيا",
-            "date_modified": "2026-10-19T20:25:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "dc9efbc48a8f74c9f0b03446ceedf15536d25d9d9490dd0437cf5160cfba92cb",
-            "content_html": "القوات الحكومية اليمنية: استهدفنا بغارات جوية تعزيزات لجماعة الحوثي في نجد قسيم ومخزن أسلحة بجبل حبشي غرب تعز",
-            "url": "https://t.me/aljazeeraBrk/240439",
-            "title": "القوات الحكومية اليمنية: استهدفنا بغارات جوية تعزيزات لجماعة الحوثي في نجد قسيم…",
-            "summary": "القوات الحكومية اليمنية: استهدفنا بغارات جوية تعزيزات لجماعة الحوثي في نجد قسيم ومخزن أسلحة بجبل حبشي غرب تعز",
-            "date_modified": "2026-10-19T20:05:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e7ee197207ee1474abf2beb9e13821e19eed2de1ad602835ab94fde4128f0b03",
-            "content_html": "زيلنسكي: قد نتوقف عن استهداف مصافي النفط الروسية مقابل حصولنا على مساعدة أمريكية في توفير صواريخ باتريوت",
-            "url": "https://t.me/aljazeeraBrk/240438",
-            "title": "زيلنسكي: قد نتوقف عن استهداف مصافي النفط الروسية مقابل حصولنا على مساعدة…",
-            "summary": "زيلنسكي: قد نتوقف عن استهداف مصافي النفط الروسية مقابل حصولنا على مساعدة أمريكية في توفير صواريخ باتريوت",
-            "date_modified": "2026-10-19T19:59:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2f13340ec58c1e349ef44cb5505e449ed985e4f9cd0d0981c759d6cfc841e546",
-            "content_html": "ترمب: كان على زيلنسكي أن يوقف الحرب وآن الأوان لأن يتفاوض شخص باسم أوكرانيا",
-            "url": "https://t.me/aljazeeraBrk/240437",
-            "title": "ترمب: كان على زيلنسكي أن يوقف الحرب وآن الأوان لأن يتفاوض شخص باسم أوكرانيا",
-            "summary": "ترمب: كان على زيلنسكي أن يوقف الحرب وآن الأوان لأن يتفاوض شخص باسم أوكرانيا",
-            "date_modified": "2026-10-19T19:27:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "ef1aba6a4f402722579414d1f551f1050f3e84a7480977fb6243a992e2569920",
-            "content_html": "ترمب: نتفاوض مع روسيا بشأن إيران وأوكرانيا والرهائن والديزل",
-            "url": "https://t.me/aljazeeraBrk/240436",
-            "title": "ترمب: نتفاوض مع روسيا بشأن إيران وأوكرانيا والرهائن والديزل",
-            "summary": "ترمب: نتفاوض مع روسيا بشأن إيران وأوكرانيا والرهائن والديزل",
-            "date_modified": "2026-10-19T19:26:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "da0a6794a4f2ba0ca1c37bee194bae042508cddf8387f3fe821c419eca173aeb",
-            "content_html": "ترمب: روسيا لم تفعل شيئا في إيران بحسب ما رصدناه وأعتقد أن ذلك أمر إيجابي للغاية",
-            "url": "https://t.me/aljazeeraBrk/240435",
-            "title": "ترمب: روسيا لم تفعل شيئا في إيران بحسب ما رصدناه وأعتقد أن ذلك أمر إيجابي للغاية",
-            "summary": "ترمب: روسيا لم تفعل شيئا في إيران بحسب ما رصدناه وأعتقد أن ذلك أمر إيجابي للغاية",
-            "date_modified": "2026-10-19T19:24:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7ec7658eaf1b1c57c9d80eceb16f742c9742ebe7a493aa5dc7c092546c989235",
-            "content_html": "ترمب: نوجه ضربات قاسية للغاية لإيران اقتصاديا وعسكريا",
-            "url": "https://t.me/aljazeeraBrk/240434",
-            "title": "ترمب: نوجه ضربات قاسية للغاية لإيران اقتصاديا وعسكريا",
-            "summary": "ترمب: نوجه ضربات قاسية للغاية لإيران اقتصاديا وعسكريا",
-            "date_modified": "2026-10-19T19:23:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "cc012171ca1227a4da05ce33b15b98a4ad7eb0cbdd35bfe2ac1a14b3e6dfb774",
-            "content_html": "الحرس الثوري الإيراني: 7 كابلات إنترنت رئيسية تمر تحت هرمز وعلى العدو أن يعلم أن لدينا أهدافا جديدة",
-            "url": "https://t.me/aljazeeraBrk/240433",
-            "title": "الحرس الثوري الإيراني: 7 كابلات إنترنت رئيسية تمر تحت هرمز وعلى العدو أن يعلم…",
-            "summary": "الحرس الثوري الإيراني: 7 كابلات إنترنت رئيسية تمر تحت هرمز وعلى العدو أن يعلم أن لدينا أهدافا جديدة",
-            "date_modified": "2026-10-19T18:50:01.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "698ad0feac1e3999eecd9f0387dc066b4e0f80ca85890006425bfd3f1b340175",
-            "content_html": "الهلال الأحمر الفلسطيني: 3 مصابين إثر اعتداء مستوطنين عليهم وإحراق مركبتهم في وادي الشاعر بسلفيت شمالي الضفة",
-            "url": "https://t.me/aljazeeraBrk/240432",
-            "title": "الهلال الأحمر الفلسطيني: 3 مصابين إثر اعتداء مستوطنين عليهم وإحراق مركبتهم في…",
-            "summary": "الهلال الأحمر الفلسطيني: 3 مصابين إثر اعتداء مستوطنين عليهم وإحراق مركبتهم في وادي الشاعر بسلفيت شمالي الضفة",
-            "date_modified": "2026-10-19T18:46:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "75c2bc13877232f8a298097ce9601327d6be494496b53d9e5c3b320c9bd6e694",
-            "content_html": "التحالف: نهيب بملاك القوارب التقليدية عدم التعامل مع الحوثيين في تهريب الأسلحة حفاظا على أرواحهم وممتلكاتهم",
-            "url": "https://t.me/aljazeeraBrk/240431",
-            "title": "التحالف: نهيب بملاك القوارب التقليدية عدم التعامل مع الحوثيين في تهريب الأسلحة…",
-            "summary": "التحالف: نهيب بملاك القوارب التقليدية عدم التعامل مع الحوثيين في تهريب الأسلحة حفاظا على أرواحهم وممتلكاتهم",
-            "date_modified": "2026-10-19T18:44:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7d837a55701218d37fd4abd7c37b3ca71f348fcbfde22fc937cfdcfa09d3f570",
-            "content_html": "التحالف: تهريب الأسلحة والمعدات العسكرية عبر البحر يشكل تهديدا لأمن اليمن والأمن الإقليمي والدولي",
-            "url": "https://t.me/aljazeeraBrk/240430",
-            "title": "التحالف: تهريب الأسلحة والمعدات العسكرية عبر البحر يشكل تهديدا لأمن اليمن…",
-            "summary": "التحالف: تهريب الأسلحة والمعدات العسكرية عبر البحر يشكل تهديدا لأمن اليمن والأمن الإقليمي والدولي",
-            "date_modified": "2026-10-19T18:44:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7b52aeddda1edbc7c4f14d4945ad78d32030013e512d08571ef054c13a2f2d70",
-            "content_html": "التحالف: نحذر من استغلال القوارب التقليدية في تهريب الأسلحة والصواريخ والمعدات العسكرية إلى اليمن",
-            "url": "https://t.me/aljazeeraBrk/240429",
-            "title": "التحالف: نحذر من استغلال القوارب التقليدية في تهريب الأسلحة والصواريخ والمعدات…",
-            "summary": "التحالف: نحذر من استغلال القوارب التقليدية في تهريب الأسلحة والصواريخ والمعدات العسكرية إلى اليمن",
-            "date_modified": "2026-10-19T18:43:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2fdef5d4daea097ec751e6faacaa5452517a037e4bdcd1af9c419edc0d090dda",
-            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال الإسرائيلي تختطف شابًا عقب مروره عبر حاجز مؤقت أقامته على دوار العلم بريف القنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141938",
-            "title": "🛑#عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تختطف شابًا عقب مروره عبر حاجز…",
-            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال الإسرائيلي تختطف شابًا عقب مروره عبر حاجز مؤقت أقامته على دوار العلم بريف القنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-19T18:42:59.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "604d8889860eeac8dddb6a4716f72b32f2a7a2cd2724226709dae89f991e79bc",
-            "content_html": "<b>سانا</b>:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>عقيلة الرئيس أحمد الشرع لطيفة الدروبي تستقبل في دمشق وزيرة الشؤون الاجتماعية اللبنانية حنين السيد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تناول اللقاء مجالات التعاون بين سوريا ولبنان في القضايا الاجتماعية والإنسانية ولا سيما حماية الأطفال ورعاية الفئات الأكثر احتياجًا إلى جانب تبادل الخبرات في أنظمة الحماية الاجتماعية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141937",
-            "title": "سانا: 📌عقيلة الرئيس أحمد الشرع لطيفة الدروبي تستقبل في دمشق وزيرة الشؤون…",
-            "summary": "<b>سانا</b>:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>عقيلة الرئيس أحمد الشرع لطيفة الدروبي تستقبل في دمشق وزيرة الشؤون الاجتماعية اللبنانية حنين السيد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تناول اللقاء مجالات التعاون بين سوريا ولبنان في القضايا الاجتماعية والإنسانية ولا سيما حماية الأطفال ورعاية الفئات الأكثر احتياجًا إلى جانب تبادل الخبرات في أنظمة الحماية الاجتماعية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/u48BNCL0Uv18e1GCxLbL2mdaK07ztJgs1b-M_BG-u8daykosgnhuVNSgDOK-N1F02K4BMKFfdlycSlbuq0aO1RAxERH3hwKVCS-EIiWMx7aIRoggOa6tXwac7qJWvPR5AyZ-Ijx9DECJZg9hF8AUQqZItgHCz7FkamEmU0Yjcxga3Ks6bRT1dEXKQSuUXkLmYd1gOwg7VBWHCeC8hMwSegCNNvCNXO9p2cMPOCjsnfAhynG6aRcXmhRhDauMjbOcEfW3Jh26I1P9MX2DUQAUoopQO_ZW6xK1LQYkn4Qa_vlTJqgaFfJxwUrlHz5FHebDTNOrUKyNEU3NYxwkHfOJtg.jpg",
-            "date_modified": "2026-10-19T18:35:43.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "8aa28d5ac63a9045515028258d8c083c1e1daf01a4837d2322f223f8fcab2946",
-            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصدر خاص لحلب اليوم:</b> إلقاء القبض على عبدو قرمو \"أبو جمعة\" مسؤول مفرزة الجوية بجامعة حلب في عهد النظام البائد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141936",
-            "title": "🛑#عاجل | مصدر خاص لحلب اليوم: إلقاء القبض على عبدو قرمو \"أبو جمعة\" مسؤول مفرزة…",
-            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصدر خاص لحلب اليوم:</b> إلقاء القبض على عبدو قرمو \"أبو جمعة\" مسؤول مفرزة الجوية بجامعة حلب في عهد النظام البائد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/qVM3pOWtSmsvzPevtDz0PwISaEem_8W2ZbGAVwYE--DoBV2xp7yyOiEDKfQiio9wKuLZDlbuOTqpnovrLqe4nYQLC4nDwglog-zUg0KcDXjGHXzMCtlmldE2QWuNoycQSX8Ao8FZTrp9oV_OLuC5UTWRtBMEJQT87qhFOkm1J3_tK8NnneKgCB0bF2bngF0MYwG5AhSJXdS04kOaq256f72-mQXs_57_09itoqXmqP9Jx_3Zx78CJ2SUSbVDO1tMoVWe1iOOZFjjdelwYFt2Zp7jFdRKL3F15i1B7-z1Xw4gIntoRTYr5GJBPu9mLS1oWlAB71sDVUmAtV1Vn76Hww.jpg",
-            "date_modified": "2026-10-19T18:21:00.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "653451daf0c78d74437a21a9d7612d5feb9c0f7e288bb1a257c43fd45a21059d",
-            "content_html": "<b>إدارة مكافحة المخدرات:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>فرع مكافحة المخدرات في طرطوس يفكك خلية تنشط في تجارة المواد المخدرة في قرية المنطار ويلقي القبض على أفرادها الثمانية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شهدت العملية اشتباكًا مسلحًا خلال مطاردة أفراد الخلية أسفر عن إصابة اثنين منهم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أسفرت العملية عن ضبط 86 كف حشيش بوزن إجمالي بلغ 15.8 كيلوغرامًا و14 ألف حبة كبتاغون، إضافة إلى مسدسين وذخائر حربية وأجهزة اتصال لاسلكية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141935",
-            "title": "إدارة مكافحة المخدرات: 📌فرع مكافحة المخدرات في طرطوس يفكك خلية تنشط في تجارة…",
-            "summary": "<b>إدارة مكافحة المخدرات:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>فرع مكافحة المخدرات في طرطوس يفكك خلية تنشط في تجارة المواد المخدرة في قرية المنطار ويلقي القبض على أفرادها الثمانية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>شهدت العملية اشتباكًا مسلحًا خلال مطاردة أفراد الخلية أسفر عن إصابة اثنين منهم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أسفرت العملية عن ضبط 86 كف حشيش بوزن إجمالي بلغ 15.8 كيلوغرامًا و14 ألف حبة كبتاغون، إضافة إلى مسدسين وذخائر حربية وأجهزة اتصال لاسلكية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/NJkfqU_osXEkB5ycB2KHbZ_nX-DUKerXaVo7cZC3K_F0ttHT_OH5yCcUCnaeHnO7OPYuiZFohTtgU35gfk0SShYnwyeAw6qTUnDem9utqyD84ZQ7d4TPO6dQXdz-M8fG1Nu4wZ7uyTax72mpqRfR61TIb72gnQqsWg5JUTlOyxLVGs7zaln7sl-9bS6qkilfglQE6KQQjduyoI5d9UY0TlNUvdzLtPf3SLNPPZXD5Xbier_bN_7P7BuiS1PRWg0kpLFwhgODG8BszJRiKoCaa9-J2-zY9hABtYMEVmi7wDdAYWIs02Hcu0NZbeDCvaqqBRiHCUq6VHxBTboTLaky9Q.jpg",
-            "date_modified": "2026-10-19T18:00:33.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
