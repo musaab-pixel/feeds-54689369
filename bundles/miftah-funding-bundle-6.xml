@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 6</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 6" (type: bundle)</description>
-        <lastBuildDate>Tue, 20 Oct 2026 13:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 14:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -3147,6 +3147,13 @@
 <p class="wp-block-paragraph"></p>
 ]]></content:encoded>
             <author>kamal99</author>
+        </item>
+        <item>
+            <title><![CDATA[Beware of spyware: Access Now urges pension funds to scrutinize investments for spyware exposure]]></title>
+            <link>https://www.accessnow.org/press-release/beware-of-spyware-pension-funds/</link>
+            <guid isPermaLink="false">5661c384421f2647ea4318f59f5baf7d3369a35df88ea1c3ad3301dfcc4d3f80</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://www.accessnow.org/wp-content/uploads/2023/09/Hacking-Meduza-Pegasus-spyware-used-to-target-Putin-critic-socials-336x168.jpg.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[The Whickers Bursary at Durban FilmMart Awarded to ‘Green Island Girls’]]></title>
@@ -19054,13 +19061,6 @@ UN Headquarters, Room 11</p>
             <guid isPermaLink="false">e290324e10d3bda61597ad0f36c868185a9605565eb0eb957f3ebefc8f7f93e8</guid>
             <pubDate>Fri, 24 Jul 2026 15:01:17 GMT</pubDate>
             <enclosure url="https://www.fondazioneprada.org/wp-content/uploads/The-Hallucinations_Andrea-Gatopoulos-copia.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Human Purge]]></title>
-            <link>https://www.fondazioneprada.org/film-fund/film-fund-2025-the-human-purge</link>
-            <guid isPermaLink="false">8d6ef558a2eb1827c2d33a4b43cbf7db95fbf3f7a513debd678a95943b3a204f</guid>
-            <pubDate>Fri, 24 Jul 2026 15:01:17 GMT</pubDate>
-            <enclosure url="https://www.fondazioneprada.org/wp-content/uploads/The-Human-Purge_Eduardo-Williams-copia.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
