@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 20 Oct 2026 21:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 21:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الحكومة الإيطالية تقر نشر 500 عسكري إضافي في ميلانو لمواجهة…]]></title>
+            <link>https://t.me/aljazeeraBrk/240648</link>
+            <guid isPermaLink="false">26cc516062143073be8e63ba0af0875ff35641c088ec5426fe9158f7d160ee6c</guid>
+            <pubDate>Tue, 20 Oct 2026 21:44:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الحكومة الإيطالية تقر نشر 500 عسكري إضافي في ميلانو لمواجهة أعمال العنف خلال المظاهرات]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الحكومة الإيطالية تقر نشر 500 عسكري إضافي في ميلانو لمواجهة أعمال العنف خلال المظاهرات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الحرب الأمريكي: الرئيس ترمب يتمتع بقوة كبيرة وسيضمن إنهاء المواجهة مع…]]></title>
             <link>https://t.me/aljazeeraBrk/240647</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 18 Oct 2026 18:45:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إنذار في مدينة أبها للتحذير من خطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إنذار في مدينة أبها للتحذير من خطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الداخلية الفرنسية: اعتقال 2397 شخصا وإصابة 997 عنصر أمن جراء أعمال العنف في…]]></title>
-            <link>https://t.me/aljazeeraBrk/240267</link>
-            <guid isPermaLink="false">e71c8dd521930eb61bb55097c3df478b917c3c749833ec3e27c5fec848edd4b2</guid>
-            <pubDate>Sun, 18 Oct 2026 18:44:02 GMT</pubDate>
-            <description><![CDATA[الداخلية الفرنسية: اعتقال 2397 شخصا وإصابة 997 عنصر أمن جراء أعمال العنف في البلاد]]></description>
-            <content:encoded><![CDATA[الداخلية الفرنسية: اعتقال 2397 شخصا وإصابة 997 عنصر أمن جراء أعمال العنف في البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
