@@ -4,10 +4,16 @@
         <title>accessnow.org</title>
         <link>https://www.accessnow.org/</link>
         <description>RSS Factory feed "accessnow.org" (type: website)</description>
-        <lastBuildDate>Mon, 28 Sep 2026 10:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 13:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Deliberately forgotten: internet shutdowns with no end]]></title>
+            <link>https://www.accessnow.org/indefinite-internet-shutdowns/</link>
+            <guid isPermaLink="false">513e968ebbad9102d14dc05e3d29c14fd88a20a80f7c20d1393a2d8161ec42fc</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From surveillance to governance: recentering human rights in the UN AI agenda]]></title>
             <link>https://www.accessnow.org/event/unga81-ai-governance/</link>
