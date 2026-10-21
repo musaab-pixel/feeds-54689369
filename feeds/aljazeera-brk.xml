@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 04:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 05:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الخارجية الأمريكي: نرحب بجهود الوساطة مع إيران لكن أي قرار بشأن ما يمكن…]]></title>
+            <link>https://t.me/aljazeeraBrk/240920</link>
+            <guid isPermaLink="false">169e9642908762bc2c7de3627e17767d962e263c51738cb032aafb40fbc890a6</guid>
+            <pubDate>Wed, 21 Oct 2026 05:04:02 GMT</pubDate>
+            <description><![CDATA[وزير الخارجية الأمريكي: نرحب بجهود الوساطة مع إيران لكن أي قرار بشأن ما يمكن قبوله هو بيد الرئيس ترمب]]></description>
+            <content:encoded><![CDATA[وزير الخارجية الأمريكي: نرحب بجهود الوساطة مع إيران لكن أي قرار بشأن ما يمكن قبوله هو بيد الرئيس ترمب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[فايننشال تايمز عن نائبة المتحدث باسم البيت الأبيض: جهود واشنطن الرامية لتسهيل…]]></title>
             <link>https://t.me/aljazeeraBrk/240918</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 19 Oct 2026 11:23:02 GMT</pubDate>
             <description><![CDATA[وكيل محافظة شبوة للجزيرة: معسكر العلم يضم متدربين من القوى الأمنية والشرطية لضبط الأمن في المحافظة]]></description>
             <content:encoded><![CDATA[وكيل محافظة شبوة للجزيرة: معسكر العلم يضم متدربين من القوى الأمنية والشرطية لضبط الأمن في المحافظة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكيل محافظة شبوة للجزيرة: الأوضاع الأمنية في المحافظة تحت السيطرة الكاملة…]]></title>
-            <link>https://t.me/aljazeeraBrk/240342</link>
-            <guid isPermaLink="false">87d96876b918054d1d59c7d0e1c89bdb57ffca859253a3489f64bf41874d5901</guid>
-            <pubDate>Mon, 19 Oct 2026 11:20:02 GMT</pubDate>
-            <description><![CDATA[وكيل محافظة شبوة للجزيرة: الأوضاع الأمنية في المحافظة تحت السيطرة الكاملة للقوات الحكومية]]></description>
-            <content:encoded><![CDATA[وكيل محافظة شبوة للجزيرة: الأوضاع الأمنية في المحافظة تحت السيطرة الكاملة للقوات الحكومية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
