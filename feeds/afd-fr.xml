@@ -3385,11 +3385,11 @@
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item82900" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1259362747" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-498083142" type="button">
           Soutenir le financement des collectivités locales 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1259362747">
+  <div class="fr-collapse" id="accordion-498083142">
         
 
 <div class="my-8 print-para-space">
@@ -3420,11 +3420,11 @@
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item82903" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-911642098" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1357406563" type="button">
           Accompagner le secteur privé
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-911642098">
+  <div class="fr-collapse" id="accordion-1357406563">
         
 
 <div class="my-8 print-para-space">
@@ -3455,11 +3455,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1867426388" type="button">
+    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-247453644" type="button">
           Renforcer la coopération régionale 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1867426388">
+  <div class="fr-collapse" id="accordion-247453644">
         
 
 <div class="my-8 print-para-space">
@@ -4202,11 +4202,11 @@
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item82900" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1259362747" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-498083142" type="button">
           Soutenir le financement des collectivités locales 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1259362747">
+  <div class="fr-collapse" id="accordion-498083142">
         
 
 <div class="my-8 print-para-space">
@@ -4237,11 +4237,11 @@
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item82903" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-911642098" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1357406563" type="button">
           Accompagner le secteur privé
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-911642098">
+  <div class="fr-collapse" id="accordion-1357406563">
         
 
 <div class="my-8 print-para-space">
@@ -4272,11 +4272,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1867426388" type="button">
+    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-247453644" type="button">
           Renforcer la coopération régionale 
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1867426388">
+  <div class="fr-collapse" id="accordion-247453644">
         
 
 <div class="my-8 print-para-space">
@@ -12363,46 +12363,33 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/un-nouveau-terminal-dedie-au-fret-laeroport-daddis-abeba" class="fr-card__link">Un nouveau terminal dédié au fret à l'aéroport d'Addis-Abeba</a>
+                  <a href="https://www.afd.fr/fr/projets/renforcer-le-reseau-electrique-national-ethiopien" class="fr-card__link">Renforcer le réseau électrique national éthiopien</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
+    Énergie
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                           <div class="fr-card__start">
-          <p class="fr-card__detail">2013</p>
+          <p class="fr-card__detail">2013 - 2018</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Éthiopie</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 70000000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 50000000 €</p>
               </div>
                   </div>
                       </div>
@@ -12410,7 +12397,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2018-03-02-34-53/Ethiopie%20Terminal%20carog%20Didier%20Gentilhomme.jpg.webp?itok=PvpN8RD2" width="715" height="402" alt="New freight terminal at the Addis Ababa Airport / Didier Gentilhomme AFD">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2018-03-04-17-30/Renforcement%20r%C3%A9seau%20%C3%A9lectrique%20Ethiopie%20Didier%20Gentilhomme.jpg.webp?itok=8H3qyJXY" width="715" height="402" alt="Reinforcing Ethiopia’s domestic power grid / Didier Gentilhomme AFD">
 
 
 
@@ -13004,46 +12991,33 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/un-nouveau-terminal-dedie-au-fret-laeroport-daddis-abeba" class="fr-card__link">Un nouveau terminal dédié au fret à l'aéroport d'Addis-Abeba</a>
+                  <a href="https://www.afd.fr/fr/projets/renforcer-le-reseau-electrique-national-ethiopien" class="fr-card__link">Renforcer le réseau électrique national éthiopien</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
+    Énergie
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                           <div class="fr-card__start">
-          <p class="fr-card__detail">2013</p>
+          <p class="fr-card__detail">2013 - 2018</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Éthiopie</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 70000000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 50000000 €</p>
               </div>
                   </div>
                       </div>
@@ -13051,7 +13025,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2018-03-02-34-53/Ethiopie%20Terminal%20carog%20Didier%20Gentilhomme.jpg.webp?itok=PvpN8RD2" width="715" height="402" alt="New freight terminal at the Addis Ababa Airport / Didier Gentilhomme AFD">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2018-03-04-17-30/Renforcement%20r%C3%A9seau%20%C3%A9lectrique%20Ethiopie%20Didier%20Gentilhomme.jpg.webp?itok=8H3qyJXY" width="715" height="402" alt="Reinforcing Ethiopia’s domestic power grid / Didier Gentilhomme AFD">
 
 
 
