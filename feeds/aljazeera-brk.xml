@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 05:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 05:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظة القدس: قوات الاحتلال تنفذ عمليات هدم قرب مخيم قلنديا شمال القدس]]></title>
+            <link>https://t.me/aljazeeraBrk/240923</link>
+            <guid isPermaLink="false">00a028a5f1dcf6a6a52c9b1a3aa7b55a01f37c4a11be0bcf2d4a0e387d31253b</guid>
+            <pubDate>Wed, 21 Oct 2026 05:22:02 GMT</pubDate>
+            <description><![CDATA[محافظة القدس: قوات الاحتلال تنفذ عمليات هدم قرب مخيم قلنديا شمال القدس]]></description>
+            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تنفذ عمليات هدم قرب مخيم قلنديا شمال القدس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة الطوارئ الأوكرانية: 3 مصابين في هجوم روسي استهدف مبنى جامعيا بمدينة…]]></title>
             <link>https://t.me/aljazeeraBrk/240922</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 19 Oct 2026 15:49:02 GMT</pubDate>
             <description><![CDATA[روبيو: الرئيس ترمب لم يترك إيران تبني سلاحا نوويا وتحميه خلف ستار من آلاف الصواريخ والمسيرات]]></description>
             <content:encoded><![CDATA[روبيو: الرئيس ترمب لم يترك إيران تبني سلاحا نوويا وتحميه خلف ستار من آلاف الصواريخ والمسيرات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[روبيو: إيران خسرت ورقة السيطرة على مضيق هرمز ويتدفق عبره نحو 14 مليون برميل نفط…]]></title>
-            <link>https://t.me/aljazeeraBrk/240399</link>
-            <guid isPermaLink="false">9da8b762db6d30b2116fb347acbbcae8ad6e96e5f36cbec78af72f51100b96cd</guid>
-            <pubDate>Mon, 19 Oct 2026 15:46:02 GMT</pubDate>
-            <description><![CDATA[روبيو: إيران خسرت ورقة السيطرة على مضيق هرمز ويتدفق عبره نحو 14 مليون برميل نفط يوميا]]></description>
-            <content:encoded><![CDATA[روبيو: إيران خسرت ورقة السيطرة على مضيق هرمز ويتدفق عبره نحو 14 مليون برميل نفط يوميا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
