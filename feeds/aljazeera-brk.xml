@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 13:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 13:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع القطرية: المذكرة ذات أهمية اقتصادية كبيرة للدول الموقعة في مجال…]]></title>
+            <link>https://t.me/aljazeeraBrk/240973</link>
+            <guid isPermaLink="false">e645629c613764c51f787520092f839e2fcf8e206eb46d247f4a70cb16a346d8</guid>
+            <pubDate>Wed, 21 Oct 2026 13:35:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع القطرية: المذكرة ذات أهمية اقتصادية كبيرة للدول الموقعة في مجال التصنيع الدفاعي]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع القطرية: المذكرة ذات أهمية اقتصادية كبيرة للدول الموقعة في مجال التصنيع الدفاعي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع القطرية: مذكرة التفاهم تهدف للتعاون في مجال التصنيع الدفاعي وتعزيز…]]></title>
             <link>https://t.me/aljazeeraBrk/240972</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 19 Oct 2026 22:09:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر لم يبديا انفتاحا على مقترح زيلنسكي وقف الهجمات مقابل صواريخ باتريوت]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤولين أوكرانيين: ويتكوف وكوشنر لم يبديا انفتاحا على مقترح زيلنسكي وقف الهجمات مقابل صواريخ باتريوت]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤولين أوكرانيين: زيلنسكي اقترح وقف الهجوم على مصافي النفط الروسية…]]></title>
-            <link>https://t.me/aljazeeraBrk/240447</link>
-            <guid isPermaLink="false">5193d3d0514eb1d8352c5c15ca09eceead5f65e934fe480daad8b6c99f76e0ae</guid>
-            <pubDate>Mon, 19 Oct 2026 22:08:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤولين أوكرانيين: زيلنسكي اقترح وقف الهجوم على مصافي النفط الروسية مقابل الحصول على صواريخ باتريوت]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤولين أوكرانيين: زيلنسكي اقترح وقف الهجوم على مصافي النفط الروسية مقابل الحصول على صواريخ باتريوت]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
