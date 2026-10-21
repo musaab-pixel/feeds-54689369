@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 14:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 15:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس المصري: الجهد العسكري المصري هو للدفاع عن أراضي السعودية ولا يشمل هجوما…]]></title>
+            <link>https://t.me/aljazeeraBrk/240981</link>
+            <guid isPermaLink="false">1ef1e4929f3080532617e5cfedd651a64295f0c0010fb64468e4bb40cf5ca4be</guid>
+            <pubDate>Wed, 21 Oct 2026 15:28:02 GMT</pubDate>
+            <description><![CDATA[الرئيس المصري: الجهد العسكري المصري هو للدفاع عن أراضي السعودية ولا يشمل هجوما على اليمن]]></description>
+            <content:encoded><![CDATA[الرئيس المصري: الجهد العسكري المصري هو للدفاع عن أراضي السعودية ولا يشمل هجوما على اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تاس عن مساعد الرئيس الروسي: الصراع في أوكرانيا يقترب من نهايته]]></title>
             <link>https://t.me/aljazeeraBrk/240980</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 04:14:02 GMT</pubDate>
             <description><![CDATA[فايننشال تايمز عن بيانات: حرب إيران تؤدي إلى طفرة في إنتاج وتصدير النفط والغاز في الأمريكتين]]></description>
             <content:encoded><![CDATA[فايننشال تايمز عن بيانات: حرب إيران تؤدي إلى طفرة في إنتاج وتصدير النفط والغاز في الأمريكتين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني وزوجته في قصف إسرائيلي لشقة سكنية غربي مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/240485</link>
-            <guid isPermaLink="false">b8eb36edbd79703b664cc0a962e3be9fab7e343b48fdbdd66704b5723a335974</guid>
-            <pubDate>Tue, 20 Oct 2026 03:57:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني وزوجته في قصف إسرائيلي لشقة سكنية غربي مدينة غزة فجر اليوم]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني وزوجته في قصف إسرائيلي لشقة سكنية غربي مدينة غزة فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
