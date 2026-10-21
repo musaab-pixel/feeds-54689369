@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 12:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 12:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الكرملين: محادثات بوتين وويتكوف في سانت بطرسبورغ كانت جوهرية وانضم إليها كوشنر…]]></title>
+            <link>https://t.me/aljazeeraBrk/240970</link>
+            <guid isPermaLink="false">da4e39d4b15915a00f3771b7b8e38d624a66c5d17e7dbec391568d1f0d68be5a</guid>
+            <pubDate>Wed, 21 Oct 2026 12:51:02 GMT</pubDate>
+            <description><![CDATA[الكرملين: محادثات بوتين وويتكوف في سانت بطرسبورغ كانت جوهرية وانضم إليها كوشنر عبر الهاتف]]></description>
+            <content:encoded><![CDATA[الكرملين: محادثات بوتين وويتكوف في سانت بطرسبورغ كانت جوهرية وانضم إليها كوشنر عبر الهاتف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الإليزيه: ماكرون يتوجه إلى السعودية للتعبير عن تضامن فرنسا مع المملكة في مواجهة…]]></title>
             <link>https://t.me/aljazeeraBrk/240969</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 19 Oct 2026 21:58:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤولين أوكرانيين: هيغسيث لم يوافق على تسليم صواريخ باتريوت لكييف رغم سداد دول في الناتو ثمنها]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤولين أوكرانيين: هيغسيث لم يوافق على تسليم صواريخ باتريوت لكييف رغم سداد دول في الناتو ثمنها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/240444</link>
-            <guid isPermaLink="false">c74dbb228e48dd1c6881c5d3045a0229169404e74c5d86c5fc676826d1eedd4e</guid>
-            <pubDate>Mon, 19 Oct 2026 21:57:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة من واشنطن أوشك على النفاد]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة من واشنطن أوشك على النفاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
