@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 15:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 16:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية باتجاه المنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/240986</link>
+            <guid isPermaLink="false">67dba1ae224d348e1bae61c6073c1ab95e59d8b7ffb45aee3e362ad35bfeea69</guid>
+            <pubDate>Wed, 21 Oct 2026 16:08:02 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية في السعودية]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية في السعودية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: أفشلنا محاولات مليشيا الحوثي لاستعادة مواقع في جبهات…]]></title>
             <link>https://t.me/aljazeeraBrk/240985</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 05:21:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: الدفاعات الجوية دمرت الليلة الماضية 136 مسيرة أوكرانية فوق منطقة موسكو و13 مقاطعة روسية]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: الدفاعات الجوية دمرت الليلة الماضية 136 مسيرة أوكرانية فوق منطقة موسكو و13 مقاطعة روسية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعلن نحو 183 دونما في 3 مواقع جنوب…]]></title>
-            <link>https://t.me/aljazeeraBrk/240490</link>
-            <guid isPermaLink="false">4cd5d97e0cf5a4b81ef39e2c0bdd7eb47be173f3d0a0a0e5485bda67b927a5a5</guid>
-            <pubDate>Tue, 20 Oct 2026 05:16:02 GMT</pubDate>
-            <description><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعلن نحو 183 دونما في 3 مواقع جنوب الضفة أراضي دولة لتوسيع الاستيطان]]></description>
-            <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعلن نحو 183 دونما في 3 مواقع جنوب الضفة أراضي دولة لتوسيع الاستيطان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
