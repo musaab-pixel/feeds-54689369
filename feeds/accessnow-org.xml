@@ -4,10 +4,17 @@
         <title>accessnow.org</title>
         <link>https://www.accessnow.org/</link>
         <description>RSS Factory feed "accessnow.org" (type: website)</description>
-        <lastBuildDate>Tue, 20 Oct 2026 14:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 15:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Openness in AI development: a path to long-term independence]]></title>
+            <link>https://www.accessnow.org/openness-in-ai-development/</link>
+            <guid isPermaLink="false">330412c7524201fe1e9537d2d55f72352c422ed8a689461a3d2c5d762a49d3de</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://www.accessnow.org/wp-content/uploads/2022/10/Artificial-intelligence-post-header-336x168.png.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[Deliberately forgotten: internet shutdowns with no end]]></title>
             <link>https://www.accessnow.org/indefinite-internet-shutdowns/</link>

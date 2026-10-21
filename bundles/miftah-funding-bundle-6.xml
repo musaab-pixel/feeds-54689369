@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 6</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 6" (type: bundle)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 11:56:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 15:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -352,6 +352,13 @@
 <h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
 <p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
             <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-10/ENV1_2026_976_HP_Image.jpg?itok=natnIsfj" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Openness in AI development: a path to long-term independence]]></title>
+            <link>https://www.accessnow.org/openness-in-ai-development/</link>
+            <guid isPermaLink="false">330412c7524201fe1e9537d2d55f72352c422ed8a689461a3d2c5d762a49d3de</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://www.accessnow.org/wp-content/uploads/2022/10/Artificial-intelligence-post-header-336x168.png.webp" length="0" type="image/webp"/>
         </item>
         <item>
             <title><![CDATA[Meer lezen]]></title>
@@ -19392,13 +19399,6 @@ UN Headquarters, Room 11</p>
             <guid isPermaLink="false">99c8593c39e2d819145455a50a2ddb69a17ede022c6d1ba9dda8cb085782dd6e</guid>
             <pubDate>Fri, 24 Jul 2026 15:01:17 GMT</pubDate>
             <enclosure url="https://www.fondazioneprada.org/wp-content/uploads/The-Costume_Corneliu-Porumboiu-copia.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Difficult Bride]]></title>
-            <link>https://www.fondazioneprada.org/film-fund/film-fund-2025-the-difficult-bride</link>
-            <guid isPermaLink="false">c0a1a85b660f2adcf14747d8836a990045013f5c530d82ef067e13b7c1548d19</guid>
-            <pubDate>Fri, 24 Jul 2026 15:01:17 GMT</pubDate>
-            <enclosure url="https://www.fondazioneprada.org/wp-content/uploads/The-Difficult-Bride_Rubaiyat-Hossain-copia.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
