@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 11:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 12:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الإليزيه: ماكرون يتوجه إلى السعودية للتعبير عن تضامن فرنسا مع المملكة في مواجهة…]]></title>
+            <link>https://t.me/aljazeeraBrk/240969</link>
+            <guid isPermaLink="false">d292f8cbaa24ad33e1069468e6868445f8e9362c8fff9ffd89567bc6ea0ecf23</guid>
+            <pubDate>Wed, 21 Oct 2026 12:22:02 GMT</pubDate>
+            <description><![CDATA[الإليزيه: ماكرون يتوجه إلى السعودية للتعبير عن تضامن فرنسا مع المملكة في مواجهة هجمات الحوثيين]]></description>
+            <content:encoded><![CDATA[الإليزيه: ماكرون يتوجه إلى السعودية للتعبير عن تضامن فرنسا مع المملكة في مواجهة هجمات الحوثيين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع الشفاء الطبي: استشهاد طفل متأثرا بإصابته في غارة إسرائيلية على منطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/240968</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 19 Oct 2026 21:57:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة من واشنطن أوشك على النفاد]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤولين أوكرانيين: مخزون البلاد من صواريخ باتريوت الاعتراضية المقدمة من واشنطن أوشك على النفاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤولين أوكرانيين: ترمب يقيد الدعم لأوكرانيا للضغط على زيلنسكي لقبول…]]></title>
-            <link>https://t.me/aljazeeraBrk/240443</link>
-            <guid isPermaLink="false">9fd3e7dc8f32f0df837a12c888f6f5a5674349547929b22bbe55c2bbcb4c3677</guid>
-            <pubDate>Mon, 19 Oct 2026 21:56:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤولين أوكرانيين: ترمب يقيد الدعم لأوكرانيا للضغط على زيلنسكي لقبول اتفاق يتضمن تنازلات لروسيا]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤولين أوكرانيين: ترمب يقيد الدعم لأوكرانيا للضغط على زيلنسكي لقبول اتفاق يتضمن تنازلات لروسيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
