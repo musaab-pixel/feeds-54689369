@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 21 Oct 2026 13:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 14:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم الحكومة العراقية: ننفي وجود مقرات للحوثيين في العراق ولن نسمح…]]></title>
+            <link>https://t.me/aljazeeraBrk/240977</link>
+            <guid isPermaLink="false">fd715345bbef20412ef90abdd736c90ac5d6370688d6749ec4c60411af231a77</guid>
+            <pubDate>Wed, 21 Oct 2026 14:17:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم الحكومة العراقية: ننفي وجود مقرات للحوثيين في العراق ولن نسمح باستخدام أراضينا لتهديد دول الجوار]]></description>
+            <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية: ننفي وجود مقرات للحوثيين في العراق ولن نسمح باستخدام أراضينا لتهديد دول الجوار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية المصرية: المذكرة باطلة ولا يترتب على التصديق عليها من مجلس النواب…]]></title>
             <link>https://t.me/aljazeeraBrk/240976</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 02:58:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤول أمريكي: محادثات أوسلو تبحث ضمانات مستقبل أوكرانيا وإطارها الاقتصادي بعد الحرب]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: محادثات أوسلو تبحث ضمانات مستقبل أوكرانيا وإطارها الاقتصادي بعد الحرب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤول أمريكي: ويتكوف وكوشنر تحدثا مع زيلنسكي الأحد لمراجعة التقدم…]]></title>
-            <link>https://t.me/aljazeeraBrk/240481</link>
-            <guid isPermaLink="false">84eb722c920a87df7bde66fc7cc1b382fbce50264a099bfa508cb114670fc17c</guid>
-            <pubDate>Tue, 20 Oct 2026 02:10:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤول أمريكي: ويتكوف وكوشنر تحدثا مع زيلنسكي الأحد لمراجعة التقدم المحرز ومناقشة الخطوات المقبلة]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: ويتكوف وكوشنر تحدثا مع زيلنسكي الأحد لمراجعة التقدم المحرز ومناقشة الخطوات المقبلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
