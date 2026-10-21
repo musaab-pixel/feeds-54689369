@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "e737912826d698577db396488017d60f4d96fd5fe20411bd4da1414cf4cff2af",
+            "content_html": "<b>مصادر محلية: </b>وفاة عنصر من وزارة الدفاع جراء حادث سير في مدينة الشدادي بريف الحسكة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/141982",
+            "title": "مصادر محلية: وفاة عنصر من وزارة الدفاع جراء حادث سير في مدينة الشدادي بريف…",
+            "summary": "<b>مصادر محلية: </b>وفاة عنصر من وزارة الدفاع جراء حادث سير في مدينة الشدادي بريف الحسكة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/q5vnivZYCOaMbhax5Pcsr-xSbijmX8Llyqx9M_s8D5bujuHiYm3mjCALn84__rG1TSPhLr6vzXgDW7jmR2vTWQMk6IbyzqKeBTZMkQjQ9Ei6V_-JinrsT0X0r_PU2PPL3VNM43WmrTPHDhLYbOmrK_PgAy_8Wue5qkusOD0Rboi4BoytZdM8S_ByUC3nqBAFnMEc1reqbQCoFfesxHNne84cOpqCRIDgPzr3L8DPumZcMYbfWMu1F2CFGntqlQH2J1O1DIKpQ1bH1V7ISXbGorYG5N5mDi6DetL1KX2VJfk7gAHtLRxYRMG_MQTngY3P1LwNhUHul7U2hQ0DwbGRRQ.jpg",
+            "date_modified": "2026-10-21T07:37:22.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "1e3134e1aadfa5b319111e74100f5c249334a36d561f61c038aa2a82dfad6536",
             "content_html": "<b>رويترز عن مسؤول سوري في قطاع النفط: </b>بنك JP Morgan الأمريكي ساعد سوريا في إصدار أول خطاب اعتماد لها ​منذ أكثر من 10 سنوات مما سمح للبلاد بتنفيذ اتفاق ​تجاري هذا الشهر لشراء منتجات وقود من شركة أرامكو السعودية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/141981",
@@ -1643,17 +1655,6 @@
             "title": "وزير الدفاع البريطاني: اعتداءات الحوثيين على حليفتنا السعودية أمر بغيض…",
             "summary": "وزير الدفاع البريطاني: اعتداءات الحوثيين على حليفتنا السعودية أمر بغيض واستهدافهم مطار الرياض يكشف تماديهم",
             "date_modified": "2026-10-20T11:37:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a7d1f70342d5be0d3c915d8330ddba7519f49b680832521ffae236dd22bd6cc4",
-            "content_html": "مراسل الجزيرة عن أعضاء بمجلس النواب الليبي: التصديق على اتفاقية ترسيم الحدود البحرية مع تركيا في جلسة ببنغازي",
-            "url": "https://t.me/aljazeeraBrk/240538",
-            "title": "مراسل الجزيرة عن أعضاء بمجلس النواب الليبي: التصديق على اتفاقية ترسيم الحدود…",
-            "summary": "مراسل الجزيرة عن أعضاء بمجلس النواب الليبي: التصديق على اتفاقية ترسيم الحدود البحرية مع تركيا في جلسة ببنغازي",
-            "date_modified": "2026-10-20T11:25:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
