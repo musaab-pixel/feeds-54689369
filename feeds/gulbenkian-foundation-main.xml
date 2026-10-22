@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Mon, 19 Oct 2026 17:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 11:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1984,7 +1984,7 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/21_Charlotte-Corderoy-C-Leanne-Punshon_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Performance ‘Coisa-Ponta’, by Ana Rita Teodoro and Márcia Lança 21 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[‘Coisa-Ponta’, by Ana Rita Teodoro and Márcia Lança 21 Nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/coisa-ponta-by-ana-rita-teodoro-and-marcia-lanca/</link>
             <guid isPermaLink="false">a2c761479fd81ba415fd7a6ffbb85353ca4c0fa3d9ce7153f06d02dea22f7373</guid>
             <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
@@ -4159,6 +4159,71 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/17_Maximilian_Hornung-C-Julia-Wesely_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Conference Commemorative coin for the 70th anniversary of the Calouste Gulbenkian Foundation 27 Oct 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/commemorative-coin-for-the-70th-anniversary-of-the-calouste-gulbenkian-foundation/</link>
+            <guid isPermaLink="false">82e614594c6dece9093e9971e831d050627daf7746edd5bfd0d5b86406f9fb7c</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Tuesday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>The Gulbenkian Foundation and Imprensa Nacional-Casa da Moeda (INCM) present a €2 coin marking the institution’s 70th anniversary (1956–2026).</p>
+<p>The national side, designed by Pedro Carvalho, shows the quadriga—a chariot drawn by four horses and the institution’s emblem—representing its four statutory purposes: Art, Charity, Science and Education. The design also recalls the extensive collection of Greco-Roman coins assembled by Calouste Gulbenkian.</p>
+<p>The coin is issued as a circulation coin, legal tender throughout the euro area, and in special-finish editions for collectors.</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Tuesday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>The Gulbenkian Foundation and Imprensa Nacional-Casa da Moeda (INCM) present a €2 coin marking the institution’s 70th anniversary (1956–2026).</p>
+<p>The national side, designed by Pedro Carvalho, shows the quadriga—a chariot drawn by four horses and the institution’s emblem—representing its four statutory purposes: Art, Charity, Science and Education. The design also recalls the extensive collection of Greco-Roman coins assembled by Calouste Gulbenkian.</p>
+<p>The coin is issued as a circulation coin, legal tender throughout the euro area, and in special-finish editions for collectors.</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/10/Moeda_FCG_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Journey to America 25 Oct 2026 / 11:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/journey-to-america/</link>
             <guid isPermaLink="false">6c4b91ee560500505e5008a9bbd142a7b3b9b3218ca9e121bdb128b30934eb2f</guid>
@@ -4559,7 +4624,7 @@ Morris Robinson</p>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/07/AXIOM-CASINO-_-Photo-Jorge-Quintela-_-01-1-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Performance Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
+            <title><![CDATA[Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/jonathan-uliel-saldanha-axiom-casino/</link>
             <guid isPermaLink="false">624865a2c40e34cc672126587d7230bec62369f1315e6c74efbe1d85d2df1149</guid>
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>

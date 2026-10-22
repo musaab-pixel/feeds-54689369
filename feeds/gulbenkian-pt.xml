@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 19 Oct 2026 17:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 11:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2144,6 +2144,71 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/18_Quatuor-Van-Kuijk-C-Svend-Andersen_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conferência Moeda comemorativa dos 70 anos da Fundação Calouste Gulbenkian 27 out 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/moeda-comemorativa-dos-70-anos-da-fundacao-calouste-gulbenkian/</link>
+            <guid isPermaLink="false">0961aacc0e5ec25752592e9e195fc541d0e31d7fd27f372b783994dcf81ca082</guid>
+            <pubDate>Thu, 22 Oct 2026 11:51:37 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>A Fundação Gulbenkian e a Imprensa Nacional-Casa da Moeda (INCM) apresentam a moeda de 2 euros, que assinala os 70 anos da instituição (1956–2026).</p>
+<p>A face nacional, desenhada por Pedro Carvalho, mostra a quadriga—um carro puxado por quatro cavalos, emblema da instituição, e que representam os quatro fins estatutários: Arte, Beneficência, Ciência e Educação. O desenho evoca ainda a vasta coleção de numismática greco-romana reunida por Calouste Gulbenkian.</p>
+<p>A moeda é emitida em versão corrente, com curso legal em toda a área do euro, e em edições com acabamento especial para colecionadores.</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									terça, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>A Fundação Gulbenkian e a Imprensa Nacional-Casa da Moeda (INCM) apresentam a moeda de 2 euros, que assinala os 70 anos da instituição (1956–2026).</p>
+<p>A face nacional, desenhada por Pedro Carvalho, mostra a quadriga—um carro puxado por quatro cavalos, emblema da instituição, e que representam os quatro fins estatutários: Arte, Beneficência, Ciência e Educação. O desenho evoca ainda a vasta coleção de numismática greco-romana reunida por Calouste Gulbenkian.</p>
+<p>A moeda é emitida em versão corrente, com curso legal em toda a área do euro, e em edições com acabamento especial para colecionadores.</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/10/Moeda_FCG_4x3-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Filme Estreia do filme «Este é o Lugar» 31 out 2026 / 18:00]]></title>

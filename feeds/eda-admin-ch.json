@@ -5,6 +5,13 @@
     "description": "RSS Factory feed \"eda.admin.ch\" (type: website)",
     "items": [
         {
+            "id": "a7d4b8eed3451ab93f2aafaab7a73a93a6c3fd152e5be79d4e146f42c2c4c377",
+            "url": "https://www.eda.admin.ch/en/newnsb/HdQttbDX1f0t",
+            "title": "More about «Sixth GESDA Summit in Geneva»",
+            "image": "https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/MIyjtaNVvZVb/gesda-summit.jpg?w=1024&auto=format",
+            "date_modified": "2026-10-22T11:52:24.863Z"
+        },
+        {
             "id": "9a3a53d45784b0ba4c9509ba99599a70d41228db72f280c8e43dde758bcfc40e",
             "url": "https://www.eda.admin.ch/en/geneva-international-discussions-dialogue-for-security-and-stability-in-the-south-caucasus",
             "title": "More about «Geneva International Discussions: dialogue for security and stability in the South Caucasus»",

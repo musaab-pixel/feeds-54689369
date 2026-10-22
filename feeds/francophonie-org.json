@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "65dff7b69a8950827920baa0b50afc0be3c4b69af40f9b02be4521f7a166f9f0",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Formez-vous en ligne à l'Intelligence artificielle avec D-CLIC</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-22T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 22/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/formez-vous-en-ligne-a-l-intelligence-artificielle-avec-d-clic-8738",
+            "title": "Formez-vous en ligne à l'Intelligence artificielle avec D-CLIC",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Formez-vous en ligne à l'Intelligence artificielle avec D-CLIC</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-22T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 22/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-22T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "2cb9f4108f998cc817763f6f84d257caae5f1d082202485100a1b019dc7b8af7",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Tchad : validation de la Stratégie nationale de transformation numérique de l'EFTP 2027-2031</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-22T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 22/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/tchad-validation-strategie-nationale-transformation-numerique-eftp-8736",
+            "title": "Tchad : validation de la Stratégie nationale de transformation numérique de l'EFTP 2027-2031",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Tchad : validation de la Stratégie nationale de transformation numérique de l'EFTP 2027-2031</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-22T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 22/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-22T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
+            "id": "d11f6b973c2a98a40b02f84acb5332f08597b1af1098e35ee8d24fa67245ae7c",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">EFTP : l'OIF, partenaire engagé de l'Union africaine à la Semaine africaine des compétences de Harare</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-22T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 22/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/eftp-l-oif-a-la-semaine-africaine-des-competences-de-harare-8735",
+            "title": "EFTP : l'OIF, partenaire engagé de l'Union africaine à la Semaine africaine des compétences de Harare",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">EFTP : l'OIF, partenaire engagé de l'Union africaine à la Semaine africaine des compétences de Harare</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-22T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 22/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-22T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "687f277c12d1b6993b6347f9c6046e6dea3ced460525d14a28fe677f76dd5d77",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Union africaine : des fonctionnaires francophones formés sur les compétences transversales et le leadership en environnement multilatéral</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-20T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 20/10/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/ua-fonctionnaires-francophones-formes-competences-transversales-et-leadership-environnement-multilateral-8734",
