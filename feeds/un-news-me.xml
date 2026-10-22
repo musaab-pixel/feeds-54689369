@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 20 Oct 2026 14:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 07:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[‘Ominous start’ to West Bank olive harvest amid settler attacks]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/10/1168644</link>
+            <guid isPermaLink="false">415857e3bec662a17e9a2a553b7a2f2e01cb064f05317d47dc225cd9c6499133</guid>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.]]></description>
+            <content:encoded><![CDATA[The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-10-2025-PARC-olive-harvest-02.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yemen war continues to force families from homes amid hunger and disease]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/10/1168629</link>
