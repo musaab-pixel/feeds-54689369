@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 22 Oct 2026 11:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 12:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: غارات على مواقع مليشيا الحوثي غربي تعز ومناطق عدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/241129</link>
+            <guid isPermaLink="false">fb8dbda5828c70a9b734cf8df5c1d73c9fc3df91a7c03519cdda40010e54d3c3</guid>
+            <pubDate>Thu, 22 Oct 2026 12:00:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: غارات على مواقع مليشيا الحوثي غربي تعز ومناطق عدة بمديريتي المسراخ والشمايتين]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: غارات على مواقع مليشيا الحوثي غربي تعز ومناطق عدة بمديريتي المسراخ والشمايتين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: نجدد تضامننا الكامل ووقوفنا مع السعودية في كل ما تتخذه من…]]></title>
             <link>https://t.me/aljazeeraBrk/241127</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 11:39:03 GMT</pubDate>
             <description><![CDATA[وزير الدفاع البريطاني: طائرات تايفون التابعة لسلاح الجو الملكي ستنفذ مهام دفاعية لدعم حماية الأجواء السعودية]]></description>
             <content:encoded><![CDATA[وزير الدفاع البريطاني: طائرات تايفون التابعة لسلاح الجو الملكي ستنفذ مهام دفاعية لدعم حماية الأجواء السعودية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع البريطاني: طائرات تايفون التابعة لسلاح الجوي الملكي ستنفذ مهام…]]></title>
-            <link>https://t.me/aljazeeraBrk/240540</link>
-            <guid isPermaLink="false">6edcad34aac1df652454151a72a8ab6fc5f193aac387f9b6a55c130c79915341</guid>
-            <pubDate>Tue, 20 Oct 2026 11:39:02 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع البريطاني: طائرات تايفون التابعة لسلاح الجوي الملكي ستنفذ مهام دفاعية لدعم حماية الأجواء السعودية]]></description>
-            <content:encoded><![CDATA[وزير الدفاع البريطاني: طائرات تايفون التابعة لسلاح الجوي الملكي ستنفذ مهام دفاعية لدعم حماية الأجواء السعودية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
