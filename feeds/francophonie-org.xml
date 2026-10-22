@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 22 Oct 2026 11:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 14:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -48,6 +48,21 @@
 <span property="schema:dateCreated" content="2026-10-22T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 22/10/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">EFTP : l'OIF, partenaire engagé de l'Union africaine à la Semaine africaine des compétences de Harare</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-22T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 22/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Guinée : l’OIF soutient la modernisation du Bureau guinéen des droits d’auteurs]]></title>
+            <link>https://www.francophonie.org/guinee-modernisation-bureau-guineen-droits-d-auteurs-8739</link>
+            <guid isPermaLink="false">e7961a4e51d97d3da825d132cf9cb713ac65544a1c84784e9f3118ac027fda11</guid>
+            <pubDate>Thu, 22 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Guinée : l’OIF soutient la modernisation du Bureau guinéen des droits d’auteurs</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-22T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 22/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Guinée : l’OIF soutient la modernisation du Bureau guinéen des droits d’auteurs</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-10-22T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 22/10/2026 - 15:43</span>
 ]]></content:encoded>

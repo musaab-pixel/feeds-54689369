@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 22 Oct 2026 13:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 14:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: أنباء عن إطلاق نار قرب مستوطنة حومش بالضفة الغربية والحادث…]]></title>
+            <link>https://t.me/aljazeeraBrk/241138</link>
+            <guid isPermaLink="false">8e1c0d3c5cb311e2f1c7e17b83673343834dfb43cbd4c29c4498aa644bf38780</guid>
+            <pubDate>Thu, 22 Oct 2026 14:20:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: أنباء عن إطلاق نار قرب مستوطنة حومش بالضفة الغربية والحادث قيد التحقيق]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: أنباء عن إطلاق نار قرب مستوطنة حومش بالضفة الغربية والحادث قيد التحقيق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: 13 مصابا في غارة من مسيرة إسرائيلية على منطقة الشنطي…]]></title>
             <link>https://t.me/aljazeeraBrk/241137</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 13:12:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في قصف إسرائيلي على مخيم جباليا شمالي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في قصف إسرائيلي على مخيم جباليا شمالي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: دوي انفجارات وإطلاق صفارات الإنذار في العاصمة الأوكرانية كييف]]></title>
-            <link>https://t.me/aljazeeraBrk/240549</link>
-            <guid isPermaLink="false">b727b7888086b867666c76e775f10e0b13f6086db5db84e00a08c6218f6493df</guid>
-            <pubDate>Tue, 20 Oct 2026 12:58:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: دوي انفجارات وإطلاق صفارات الإنذار في العاصمة الأوكرانية كييف]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجارات وإطلاق صفارات الإنذار في العاصمة الأوكرانية كييف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
