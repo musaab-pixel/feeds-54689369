@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 22 Oct 2026 14:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 14:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: أحبطنا عند الحدود الشمالية عملية تهريب أسلحة وذخائر حربية من…]]></title>
+            <link>https://t.me/aljazeeraBrk/241139</link>
+            <guid isPermaLink="false">8157311acf7900c7a7134a2c69faa02708e04535fd7a77a4512ee558829fbd5a</guid>
+            <pubDate>Thu, 22 Oct 2026 14:23:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: أحبطنا عند الحدود الشمالية عملية تهريب أسلحة وذخائر حربية من سوريا إلى لبنان]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: أحبطنا عند الحدود الشمالية عملية تهريب أسلحة وذخائر حربية من سوريا إلى لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: أنباء عن إطلاق نار قرب مستوطنة حومش بالضفة الغربية والحادث…]]></title>
             <link>https://t.me/aljazeeraBrk/241138</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 13:27:02 GMT</pubDate>
             <description><![CDATA[وزير الخزانة الأمريكي: لم نرصد أي عمليات تحميل في المنشأة النفطية الإيرانية بجزيرة خارك منذ أغسطس الماضي]]></description>
             <content:encoded><![CDATA[وزير الخزانة الأمريكي: لم نرصد أي عمليات تحميل في المنشأة النفطية الإيرانية بجزيرة خارك منذ أغسطس الماضي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في قصف إسرائيلي على مخيم…]]></title>
-            <link>https://t.me/aljazeeraBrk/240550</link>
-            <guid isPermaLink="false">6c00029311bf0485fb5eda77da9087523bab17b1bb955ace39718d7a199f639f</guid>
-            <pubDate>Tue, 20 Oct 2026 13:12:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في قصف إسرائيلي على مخيم جباليا شمالي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني بجروح خطيرة في قصف إسرائيلي على مخيم جباليا شمالي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
