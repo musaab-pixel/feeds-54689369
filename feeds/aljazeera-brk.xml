@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 22 Oct 2026 12:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 13:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[غوتيريش: الفلسطينيون يعانون في الضفة الغربية من اعتداءات المستوطنين الذين…]]></title>
+            <link>https://t.me/aljazeeraBrk/241135</link>
+            <guid isPermaLink="false">2e33bc1952d05f83d5333f63a0774b75e73ab59f27395ea178bce140a4e6bf9c</guid>
+            <pubDate>Thu, 22 Oct 2026 13:41:01 GMT</pubDate>
+            <description><![CDATA[غوتيريش: الفلسطينيون يعانون في الضفة الغربية من اعتداءات المستوطنين الذين يهاجمون الدبلوماسيين أيضا]]></description>
+            <content:encoded><![CDATA[غوتيريش: الفلسطينيون يعانون في الضفة الغربية من اعتداءات المستوطنين الذين يهاجمون الدبلوماسيين أيضا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[زيلنسكي: روسيا لم تغير نهجها في إدارة هذه الحرب ولم تتخذ أي خطوات يمكن أن تشير…]]></title>
             <link>https://t.me/aljazeeraBrk/241134</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 12:54:03 GMT</pubDate>
             <description><![CDATA[المدير العام للجنة الدولية للصليب الأحمر للجزيرة: على المجتمع الدولي تحمل مسؤولياته بشأن الوضع الإنساني بغزة]]></description>
             <content:encoded><![CDATA[المدير العام للجنة الدولية للصليب الأحمر للجزيرة: على المجتمع الدولي تحمل مسؤولياته بشأن الوضع الإنساني بغزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المدير العام للجنة الدولية للصليب الأحمر للجزيرة: قلقون من التصعيد باليمن ونعمل…]]></title>
-            <link>https://t.me/aljazeeraBrk/240547</link>
-            <guid isPermaLink="false">09910a994a27f9deba77758c71551aa1fd28d77d2a064f48bcb225ada574c643</guid>
-            <pubDate>Tue, 20 Oct 2026 12:54:03 GMT</pubDate>
-            <description><![CDATA[المدير العام للجنة الدولية للصليب الأحمر للجزيرة: قلقون من التصعيد باليمن ونعمل مع منظمات محلية لإنقاذ الأرواح]]></description>
-            <content:encoded><![CDATA[المدير العام للجنة الدولية للصليب الأحمر للجزيرة: قلقون من التصعيد باليمن ونعمل مع منظمات محلية لإنقاذ الأرواح]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
