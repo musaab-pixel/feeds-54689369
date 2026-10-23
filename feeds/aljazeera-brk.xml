@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 23 Oct 2026 18:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 18:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المنظمة الدولية للهجرة: نزوح أكثر من 268 ألف شخص في اليمن مع تصاعد القتال وفرار…]]></title>
+            <link>https://t.me/aljazeeraBrk/241328</link>
+            <guid isPermaLink="false">b2586eeea652097e8f81a02e6de3e8580898880aa937c3da5594bf2d4ae391bc</guid>
+            <pubDate>Fri, 23 Oct 2026 18:35:02 GMT</pubDate>
+            <description><![CDATA[المنظمة الدولية للهجرة: نزوح أكثر من 268 ألف شخص في اليمن مع تصاعد القتال وفرار 3836 إلى جيبوتي]]></description>
+            <content:encoded><![CDATA[المنظمة الدولية للهجرة: نزوح أكثر من 268 ألف شخص في اليمن مع تصاعد القتال وفرار 3836 إلى جيبوتي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الحكومة الأردنية: ما جرى بالكرك نتيجة للفكر التكفيري الإرهابي ولن نسمح…]]></title>
             <link>https://t.me/aljazeeraBrk/241327</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 21 Oct 2026 06:08:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة في غزة: نفاد كميات الزيوت اللازمة لتشغيل المولدات الكهربائية في المستشفيات]]></description>
             <content:encoded><![CDATA[وزارة الصحة في غزة: نفاد كميات الزيوت اللازمة لتشغيل المولدات الكهربائية في المستشفيات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 373 مسيرة أوكرانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/240928</link>
-            <guid isPermaLink="false">b0bae30bc94c66db7c9bc3a053bbdce9de03746094fa5ac439d9f302ad0e4a67</guid>
-            <pubDate>Wed, 21 Oct 2026 05:48:03 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 373 مسيرة أوكرانية بمناطق عدة من البلاد]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 373 مسيرة أوكرانية بمناطق عدة من البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
