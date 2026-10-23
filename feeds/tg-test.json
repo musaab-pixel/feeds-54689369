@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "4919b24a81f8cb5008c1945cc6f962a72a3010c9ff1f4fa4940722766f4b265c",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>وقفة لأهالي بلدة سعسع في ريف دمشق تنديداً باعتداءات الاحتلال الإسرائيلي المتكررة بريفي درعا والقنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142081",
+            "title": "🛑#عاجل | الإخبارية: وقفة لأهالي بلدة سعسع في ريف دمشق تنديداً باعتداءات…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>وقفة لأهالي بلدة سعسع في ريف دمشق تنديداً باعتداءات الاحتلال الإسرائيلي المتكررة بريفي درعا والقنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/QjbFkWyZM_HijSwM_VihYXZaUquf7BM3lGoOmDwxJmYRG5Xmq0NuKmImOED2x4RYsvgVvxykl6WxXFx6nHk2s4FiG1WkfXPi81kyQu6n198oeWUxDp5J2Eb2D_-kNrx4djEz4ozj6olNgVpt5aD_pRUr7k8u4LNUzrDg-jmHxNdR3xKzK1T2K5hcOxxF2JlxRxTM7s0RWmraJWyDO0IUjlO8uQ7dlogtGaskJLNup2TtOw5wAyCXhtpMe4JRdTHpMuuGIlzgBuiu1ZRu9L2jXdS-Fq-7kffrhTspZ2nyeB3t4RZ1NkPKRpe1nddk0gY_A5NCHWKB2wUsEt81HXZB_w.jpg",
+            "date_modified": "2026-10-23T11:17:30.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "62b8046c8faa3d1803ab32ff6975d5964176d7b90881c550781989a52332b7a7",
             "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\">#عاجل</a> | خروج مظاهرة في ساحة الساعة بحمص تنديدًا بالانتهاكات الإسرائيلية في الجنوب السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142080",
@@ -2307,18 +2319,6 @@
             "summary": "أهلي حلب يحسم مواجهته أمام الريان القطري بنتيجة 88 - 78 ضمن منافسات البطولة العربية للأندية لكرة السلة لينهي دور المجموعات في المركز الثاني بعدما حقق 4 انتصارات مقابل خسارة واحدة أمام الحكمة متصدر المجموعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/fhnXjdiYKVfaXHwt-6OFJKyrOmuGf4srbznlgmh0hU2vXWunc9BBBu3q0PE1oV5N95dNIRj3vLR2sFdGh59WfFd6SUt2hUt389fFkAVcxnqyGVCf_0ktfDQnVDVizR8vPqTZQyBZXEliPY7oSdNlM3cFtFzolmQ9ebCFpTW08prTdCJBoTut_-UelPWtxwGmlObMxxwahW1CrmVuFhdXTc4eJSPjacEmP3i6tyFcdR0ygd6GNefrV42N33sPKljGU7QfjPlg5AABgWYhYWleOWNUTckH6eUA8or9sCabxbMl6dXyGsGY4QC4SCu_Of9KS7V_cIicbEQpvJefDvqHPA.jpg",
             "date_modified": "2026-10-16T17:46:13.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "de0f2e0f0fb60ae6d6c267f3ebf5cee0952282908a049930c28a491dc71b109f",
-            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | قوى الأمن الداخلي:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الاستخبارات العامة تحبط مخططًا لاستهداف دورية للشرطة في محافظة ريف دمشق كانت خلية تابعة لتنظيم داعش الإرهابي تستعد لتنفيذه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>العملية أسفرت عن إلقاء القبض على المتورطَين (م.خ) و(أ.ح) وضبط عبوة ناسفة مجهزة للتفجير كانت بحوزتهما<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تواصل الجهات المختصة تحقيقاتها مع المقبوض عليهما لكشف ملابسات المخطط وتحديد ارتباطاته وأبعاده واتخاذ الإجراءات القانونية اللازمة بحقهما<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/141829",
-            "title": "#عاجل | قوى الأمن الداخلي: 📌الاستخبارات العامة تحبط مخططًا لاستهداف دورية…",
-            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | قوى الأمن الداخلي:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الاستخبارات العامة تحبط مخططًا لاستهداف دورية للشرطة في محافظة ريف دمشق كانت خلية تابعة لتنظيم داعش الإرهابي تستعد لتنفيذه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>العملية أسفرت عن إلقاء القبض على المتورطَين (م.خ) و(أ.ح) وضبط عبوة ناسفة مجهزة للتفجير كانت بحوزتهما<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تواصل الجهات المختصة تحقيقاتها مع المقبوض عليهما لكشف ملابسات المخطط وتحديد ارتباطاته وأبعاده واتخاذ الإجراءات القانونية اللازمة بحقهما<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/DZkj3YIaOoxcD23H4BaYh5xPRqzG6_P22IGyt7GRxgfSvwyzfKcf_3zXmlMc1RHKBHWlDNQxckVmgpfvBQCo5oEkN5CZv7YnOmCQQ7iAhlLktMgdD5TqJSNZxESI2DOGoOYF6Xn5EfUDsRMcu8L0raGdGeXrG7q3IWDHP0S1V5Ek84dNevNVlEBOazE_ZnxRBlIgMPMuiMouGWh_K8W0g96OyLSM0X9W_fYle-PT8LYA278VCfxL-ve7NnVw4cj7qcb7XzM1MbjSO5w9d54gLxmhDk3lSaXnNpMXpNsPi9IsD-2txyebTMYcp7e0sjF0K67l0AG7yogEO_2Gw2UCuw.jpg",
-            "date_modified": "2026-10-16T17:12:43.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
