@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 23 Oct 2026 18:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 18:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس الوزراء العراقي: العراق سيكون قريبا دولة خالية من الفصائل المسلحة]]></title>
+            <link>https://t.me/aljazeeraBrk/241324</link>
+            <guid isPermaLink="false">05ef48b1d5065f143ff40cee27545cccf75307a2e0d14c9c870d31716f77414c</guid>
+            <pubDate>Fri, 23 Oct 2026 18:11:02 GMT</pubDate>
+            <description><![CDATA[رئيس الوزراء العراقي: العراق سيكون قريبا دولة خالية من الفصائل المسلحة]]></description>
+            <content:encoded><![CDATA[رئيس الوزراء العراقي: العراق سيكون قريبا دولة خالية من الفصائل المسلحة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل شابا في بلدة حضر بريف القنيطرة]]></title>
             <link>https://t.me/aljazeeraBrk/241323</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 21 Oct 2026 05:38:02 GMT</pubDate>
             <description><![CDATA[القوات الجوية الأوكرانية: أسقطنا الليلة الماضية 150 مسيرة روسية بمناطق عدة من البلاد]]></description>
             <content:encoded><![CDATA[القوات الجوية الأوكرانية: أسقطنا الليلة الماضية 150 مسيرة روسية بمناطق عدة من البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تاس: وصول المبعوث الأمريكي ستيف ويتكوف إلى سان بطرسبورغ للقاء مسؤولين روس]]></title>
-            <link>https://t.me/aljazeeraBrk/240924</link>
-            <guid isPermaLink="false">46088e7096a73b5d1a1b02f0ef3ac4bec2a25d3449ee6a91cceb4b293d227065</guid>
-            <pubDate>Wed, 21 Oct 2026 05:36:02 GMT</pubDate>
-            <description><![CDATA[وكالة تاس: وصول المبعوث الأمريكي ستيف ويتكوف إلى سان بطرسبورغ للقاء مسؤولين روس]]></description>
-            <content:encoded><![CDATA[وكالة تاس: وصول المبعوث الأمريكي ستيف ويتكوف إلى سان بطرسبورغ للقاء مسؤولين روس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
