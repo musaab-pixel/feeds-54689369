@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 23 Oct 2026 17:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 18:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل شابا في بلدة حضر بريف القنيطرة]]></title>
+            <link>https://t.me/aljazeeraBrk/241323</link>
+            <guid isPermaLink="false">9a155aff19e383e398f452864ce144bfb78dae5885b4c9fa2a07e66cea990b3f</guid>
+            <pubDate>Fri, 23 Oct 2026 17:54:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل شابا في بلدة حضر بريف القنيطرة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تعتقل شابا في بلدة حضر بريف القنيطرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: جرافات الاحتلال تهدم وتجرف منشآت تجارية في محيط حاجز فرش الهوا…]]></title>
             <link>https://t.me/aljazeeraBrk/241322</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 21 Oct 2026 05:36:02 GMT</pubDate>
             <description><![CDATA[وكالة تاس: وصول المبعوث الأمريكي ستيف ويتكوف إلى سان بطرسبورغ للقاء مسؤولين روس]]></description>
             <content:encoded><![CDATA[وكالة تاس: وصول المبعوث الأمريكي ستيف ويتكوف إلى سان بطرسبورغ للقاء مسؤولين روس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: قوات الاحتلال تنفذ عمليات هدم قرب مخيم قلنديا شمال القدس]]></title>
-            <link>https://t.me/aljazeeraBrk/240923</link>
-            <guid isPermaLink="false">00a028a5f1dcf6a6a52c9b1a3aa7b55a01f37c4a11be0bcf2d4a0e387d31253b</guid>
-            <pubDate>Wed, 21 Oct 2026 05:22:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: قوات الاحتلال تنفذ عمليات هدم قرب مخيم قلنديا شمال القدس]]></description>
-            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تنفذ عمليات هدم قرب مخيم قلنديا شمال القدس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
