@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 23 Oct 2026 13:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 13:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نتنياهو: اطلعت على عملية واسعة جدا في الضفة الغربية ستكون غير مسبوقة منذ 67…]]></title>
+            <link>https://t.me/aljazeeraBrk/241282</link>
+            <guid isPermaLink="false">cee7b4932d000ee8fb53ec186c658df4cadcca233a7d4399abaa73b2480da158</guid>
+            <pubDate>Fri, 23 Oct 2026 13:28:02 GMT</pubDate>
+            <description><![CDATA[نتنياهو: اطلعت على عملية  واسعة جدا في الضفة الغربية ستكون غير مسبوقة منذ 67 وسنختار توقيت تنفيذها]]></description>
+            <content:encoded><![CDATA[نتنياهو: اطلعت على عملية  واسعة جدا في الضفة الغربية ستكون غير مسبوقة منذ 67 وسنختار توقيت تنفيذها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قائد المنطقة الوسطى بالجيش الإسرائيلي: فرضنا حصارا على الخليل وحلحول وسندمر…]]></title>
             <link>https://t.me/aljazeeraBrk/241281</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 22:16:03 GMT</pubDate>
             <description><![CDATA[بوليتيكو عن دبلوماسي أوروبي: هناك إجماع في أوروبا على أن بوتين لا يريد السلام وسيكون من الضروري إجباره على ذلك]]></description>
             <content:encoded><![CDATA[بوليتيكو عن دبلوماسي أوروبي: هناك إجماع في أوروبا على أن بوتين لا يريد السلام وسيكون من الضروري إجباره على ذلك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بوليتيكو عن دبلوماسي أوروبي: نحن نتعامل مع إدارة أمريكية تبدو مؤيدة لروسيا أكثر…]]></title>
-            <link>https://t.me/aljazeeraBrk/240653</link>
-            <guid isPermaLink="false">bb9ef41b0f234648fc70a6b17c2db70a1668dd5e64da542dc38964f17b6d10f7</guid>
-            <pubDate>Tue, 20 Oct 2026 22:16:02 GMT</pubDate>
-            <description><![CDATA[بوليتيكو عن دبلوماسي أوروبي: نحن نتعامل مع إدارة أمريكية تبدو مؤيدة لروسيا أكثر من أي شيء آخر]]></description>
-            <content:encoded><![CDATA[بوليتيكو عن دبلوماسي أوروبي: نحن نتعامل مع إدارة أمريكية تبدو مؤيدة لروسيا أكثر من أي شيء آخر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
