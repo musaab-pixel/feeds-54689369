@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 23 Oct 2026 15:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: البحرية الأمريكية قامت بعمل عظيم في حصار إيران والنفط الذي يعبر مضيق هرمز…]]></title>
+            <link>https://t.me/aljazeeraBrk/241306</link>
+            <guid isPermaLink="false">5d951c24f923bd59483b26d16933b0c0ce9a46f24aa1ed54adebcd53c4824bee</guid>
+            <pubDate>Fri, 23 Oct 2026 15:10:02 GMT</pubDate>
+            <description><![CDATA[ترمب: البحرية الأمريكية قامت بعمل عظيم في حصار إيران والنفط الذي يعبر مضيق هرمز يتجاوز مستويات ما قبل الصراع]]></description>
+            <content:encoded><![CDATA[ترمب: البحرية الأمريكية قامت بعمل عظيم في حصار إيران والنفط الذي يعبر مضيق هرمز يتجاوز مستويات ما قبل الصراع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: يمكننا السيطرة على كل النفط في إيران]]></title>
             <link>https://t.me/aljazeeraBrk/241305</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 21 Oct 2026 04:20:03 GMT</pubDate>
             <description><![CDATA[فايننشال تايمز عن نائبة المتحدث باسم البيت الأبيض: جهود واشنطن الرامية لفرض حصار على موانئ إيران تحقق نجاحا]]></description>
             <content:encoded><![CDATA[فايننشال تايمز عن نائبة المتحدث باسم البيت الأبيض: جهود واشنطن الرامية لفرض حصار على موانئ إيران تحقق نجاحا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[فايننشال تايمز عن نائبة المتحدث باسم البيت الأبيض: جهود واشنطن الرامية لتسهيل…]]></title>
-            <link>https://t.me/aljazeeraBrk/240906</link>
-            <guid isPermaLink="false">2811073b3c35762c6aac555676cc56e4a89a6df6188fca46f69c1b490dd326e1</guid>
-            <pubDate>Wed, 21 Oct 2026 04:20:03 GMT</pubDate>
-            <description><![CDATA[فايننشال تايمز عن نائبة المتحدث باسم البيت الأبيض: جهود واشنطن الرامية لتسهيل صادرات النفط الخليجية تحقق نجاحا]]></description>
-            <content:encoded><![CDATA[فايننشال تايمز عن نائبة المتحدث باسم البيت الأبيض: جهود واشنطن الرامية لتسهيل صادرات النفط الخليجية تحقق نجاحا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
