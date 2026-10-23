@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 23 Oct 2026 12:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 12:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: مقتل جنديين وإصابة 3 في هجوم الخليل]]></title>
+            <link>https://t.me/aljazeeraBrk/241274</link>
+            <guid isPermaLink="false">28dce1e7fad2fddf1fd7b6cd91848ce09ea9fb76cc53987cd6c3272335481a0d</guid>
+            <pubDate>Fri, 23 Oct 2026 12:21:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: مقتل جنديين وإصابة 3 في هجوم الخليل]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: مقتل جنديين وإصابة 3 في هجوم الخليل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام أردنية: 7 قتلى على الأقل في إطلاق نار داخل كنيسة في محافظة الكرك…]]></title>
             <link>https://t.me/aljazeeraBrk/241273</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 20 Oct 2026 20:59:02 GMT</pubDate>
             <description><![CDATA[وزير الحرب الأمريكي: الحرب الحالية مع إيران لا تسير على غرار حروبنا السابقة ولن تنتهي بالطريقة نفسها]]></description>
             <content:encoded><![CDATA[وزير الحرب الأمريكي: الحرب الحالية مع إيران لا تسير على غرار حروبنا السابقة ولن تنتهي بالطريقة نفسها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الحرب الأمريكي: الرئيس ترمب يمتلك جميع أوراق القوة في المواجهة الحالية…]]></title>
-            <link>https://t.me/aljazeeraBrk/240646</link>
-            <guid isPermaLink="false">96949bf615884ae196bcf656c4bac8bbc3cd3f43f5347ad4dcd8633b5dc09fcc</guid>
-            <pubDate>Tue, 20 Oct 2026 20:59:02 GMT</pubDate>
-            <description><![CDATA[وزير الحرب الأمريكي: الرئيس ترمب يمتلك جميع أوراق القوة في المواجهة الحالية وعلى إيران اتخاذ قرار]]></description>
-            <content:encoded><![CDATA[وزير الحرب الأمريكي: الرئيس ترمب يمتلك جميع أوراق القوة في المواجهة الحالية وعلى إيران اتخاذ قرار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
