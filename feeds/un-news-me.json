@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "a11f258b2b1a7ac1003d0d23cccf485f4e1fe014621d017ce59a643957bddb10",
+            "content_html": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+            "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+            "summary": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/16-10-2026-WFP-Yemen-02.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-23T12:00:00.000Z"
+        },
+        {
             "id": "415857e3bec662a17e9a2a553b7a2f2e01cb064f05317d47dc225cd9c6499133",
             "content_html": "The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168644",
