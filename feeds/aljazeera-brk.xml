@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 24 Oct 2026 04:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 04:57:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس الأركان الإيراني: تصريحات ترمب المتناقضة عن النووي الإيراني هي لخداع الرأي…]]></title>
+            <link>https://t.me/aljazeeraBrk/241390</link>
+            <guid isPermaLink="false">1b8676675acdba2ab90d7953e442d4a165ef9a74bd75be3d575b1fd2e821b1b1</guid>
+            <pubDate>Sat, 24 Oct 2026 04:53:02 GMT</pubDate>
+            <description><![CDATA[رئيس الأركان الإيراني: تصريحات ترمب المتناقضة عن النووي الإيراني هي لخداع الرأي العام العالمي والأمريكي]]></description>
+            <content:encoded><![CDATA[رئيس الأركان الإيراني: تصريحات ترمب المتناقضة عن النووي الإيراني هي لخداع الرأي العام العالمي والأمريكي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس أركان القوات المسلحة الإيرانية: لن نسمح للسفن الحربية الأمريكية بدخول…]]></title>
             <link>https://t.me/aljazeeraBrk/241389</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 21 Oct 2026 12:22:02 GMT</pubDate>
             <description><![CDATA[الإليزيه: ماكرون يتوجه إلى السعودية للتعبير عن تضامن فرنسا مع المملكة في مواجهة هجمات الحوثيين]]></description>
             <content:encoded><![CDATA[الإليزيه: ماكرون يتوجه إلى السعودية للتعبير عن تضامن فرنسا مع المملكة في مواجهة هجمات الحوثيين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: استشهاد طفل متأثرا بإصابته في غارة إسرائيلية على منطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/240968</link>
-            <guid isPermaLink="false">eeac31bb1386fdfe372954c874170525e07756c8057e4a4ef75af25d8560956a</guid>
-            <pubDate>Wed, 21 Oct 2026 11:27:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: استشهاد طفل متأثرا بإصابته في غارة إسرائيلية على منطقة الجلاء في مدينة غزة]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد طفل متأثرا بإصابته في غارة إسرائيلية على منطقة الجلاء في مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
