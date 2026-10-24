@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 24 Oct 2026 05:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 06:07:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إذاعة الجيش الإسرائيلي عن مصدر أمني: إجلاء السكان في عملية الخليل مؤقت ومحدد…]]></title>
+            <link>https://t.me/aljazeeraBrk/241395</link>
+            <guid isPermaLink="false">2daff34a2e4fa1317423b3a9387520467c0d8121f853c553ddbfe576bfa54bd8</guid>
+            <pubDate>Sat, 24 Oct 2026 06:06:02 GMT</pubDate>
+            <description><![CDATA[إذاعة الجيش الإسرائيلي عن مصدر أمني: إجلاء السكان في عملية الخليل مؤقت ومحدد النطاق حتى القضاء على بنى الإرهاب]]></description>
+            <content:encoded><![CDATA[إذاعة الجيش الإسرائيلي عن مصدر أمني: إجلاء السكان في عملية الخليل مؤقت ومحدد النطاق حتى القضاء على بنى الإرهاب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 616 مسيرة أوكرانية]]></title>
             <link>https://t.me/aljazeeraBrk/241394</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 21 Oct 2026 13:52:02 GMT</pubDate>
             <description><![CDATA[الخارجية المصرية: نرفض تصديق مجلس النواب الليبي على مذكرة التفاهم مع تركيا بشأن تحديد مجالات الصلاحية البحرية]]></description>
             <content:encoded><![CDATA[الخارجية المصرية: نرفض تصديق مجلس النواب الليبي على مذكرة التفاهم مع تركيا بشأن تحديد مجالات الصلاحية البحرية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع القطرية: المذكرة ذات أهمية اقتصادية كبيرة للدول الموقعة في مجال…]]></title>
-            <link>https://t.me/aljazeeraBrk/240973</link>
-            <guid isPermaLink="false">e645629c613764c51f787520092f839e2fcf8e206eb46d247f4a70cb16a346d8</guid>
-            <pubDate>Wed, 21 Oct 2026 13:35:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع القطرية: المذكرة ذات أهمية اقتصادية كبيرة للدول الموقعة في مجال التصنيع الدفاعي]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع القطرية: المذكرة ذات أهمية اقتصادية كبيرة للدول الموقعة في مجال التصنيع الدفاعي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
