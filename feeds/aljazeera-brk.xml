@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 24 Oct 2026 10:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 10:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: سلسلة غارات تستهدف مدينة صنعاء]]></title>
+            <link>https://t.me/aljazeeraBrk/241420</link>
+            <guid isPermaLink="false">ca00363ab6fbae04b2cfa7525b726f01870c96bd7c0ca82fb5a50b97a1354b2a</guid>
+            <pubDate>Sat, 24 Oct 2026 10:37:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: سلسلة غارات تستهدف مدينة صنعاء]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: سلسلة غارات تستهدف مدينة صنعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تدهم عددا من المنازل خلال اقتحامها مدينة البيرة…]]></title>
             <link>https://t.me/aljazeeraBrk/241419</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 22 Oct 2026 05:49:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: استهدفنا منشآت للمجمع الصناعي العسكري في كييف وبنية تحتية للموانئ في أوديسا]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا منشآت للمجمع الصناعي العسكري في كييف وبنية تحتية للموانئ في أوديسا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حاكم خاركيف: قتيل و15 مصابا في هجمات روسية استهدفت المدينة و11 بلدة في المقاطعة…]]></title>
-            <link>https://t.me/aljazeeraBrk/241068</link>
-            <guid isPermaLink="false">9c284326e7ac6f1070b4966640ab47538ddf44e7fb8af8e28fa6ed8a228ffa70</guid>
-            <pubDate>Thu, 22 Oct 2026 05:46:02 GMT</pubDate>
-            <description><![CDATA[حاكم خاركيف: قتيل و15 مصابا في هجمات روسية استهدفت المدينة و11 بلدة في المقاطعة خلال 24 ساعة]]></description>
-            <content:encoded><![CDATA[حاكم خاركيف: قتيل و15 مصابا في هجمات روسية استهدفت المدينة و11 بلدة في المقاطعة خلال 24 ساعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
