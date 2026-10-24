@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 24 Oct 2026 13:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 14:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين أثناء قطف الزيتون في قرية عين…]]></title>
+            <link>https://t.me/aljazeeraBrk/241440</link>
+            <guid isPermaLink="false">a042dd7d1f30727f265d1b0e10a776a194dfc2030e37e032a4b832f7f84eafff</guid>
+            <pubDate>Sat, 24 Oct 2026 13:55:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين أثناء قطف الزيتون في قرية عين عريك غرب رام الله]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون مزارعين فلسطينيين أثناء قطف الزيتون في قرية عين عريك غرب رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن الخارجية الأمريكية: تحديث إرشادات السفر بالخليج والشرق الأوسط بسبب…]]></title>
             <link>https://t.me/aljazeeraBrk/241439</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 22 Oct 2026 10:57:02 GMT</pubDate>
             <description><![CDATA[أمين مجلس الأمن القومي الإيراني: إذا التزمت واشنطن بتعهداتها فسيكون هناك مسار لإعادة فتح مضيق هرمز]]></description>
             <content:encoded><![CDATA[أمين مجلس الأمن القومي الإيراني: إذا التزمت واشنطن بتعهداتها فسيكون هناك مسار لإعادة فتح مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أمين مجلس الأمن القومي الإيراني: لم نعد مهتمين باتفاقات يكون ضمانها الوحيد هو…]]></title>
-            <link>https://t.me/aljazeeraBrk/241113</link>
-            <guid isPermaLink="false">60825392129d339e22eaf3ea9ef815b182ad9019694c362e0c0b3043e7835d85</guid>
-            <pubDate>Thu, 22 Oct 2026 10:55:02 GMT</pubDate>
-            <description><![CDATA[أمين مجلس الأمن القومي الإيراني: لم نعد مهتمين باتفاقات يكون ضمانها الوحيد هو حسن النية السياسية]]></description>
-            <content:encoded><![CDATA[أمين مجلس الأمن القومي الإيراني: لم نعد مهتمين باتفاقات يكون ضمانها الوحيد هو حسن النية السياسية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
