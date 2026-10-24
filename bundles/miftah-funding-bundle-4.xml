@@ -5141,6 +5141,263 @@ Enter your email to get reminders about upcoming deadlines for Performing Artist
 </p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Jonathan Uliel Saldanha. AXIOM CASINO 24 Oct 2026 / 19:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/jonathan-uliel-saldanha-axiom-casino/</link>
+            <guid isPermaLink="false">624865a2c40e34cc672126587d7230bec62369f1315e6c74efbe1d85d2df1149</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Friday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>Throughout the performance, what initially appears to be a game gradually transforms into a surveillance system. Every gesture is recorded; every choice is absorbed; every mistake becomes part of the machine’s own logic. However, at a certain point, that logic breaks down—an unexpected presence alters the functioning of the space, fragmenting the language and turning the bodies into vehicles for a voice whose origin remains undefined.</p>
+<p>Sound, light, fog, lasers, and movement interplay to create an environment of constant instability, where technology ceases to function merely as a theatrical tool and ultimately becomes an integral part of the experience. Blurring the lines between performance, installation, and sound composition, ‘AXIOM CASINO’ presents a space where the boundaries between control, perception, and transformation are in constant flux.</p>
+<p>Seats for people with reduced mobility, who uses a wheelchair, are available. They must be purchased in person, at our ticket office or by telephone.</p>
+<h2 class="fcg-section__title" id="biographies">
+			<span>Biographies</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6aa468268f1f0" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Jonathan Uliel Saldanha</button>	</li>
+</ul>
+<h2 class="fcg-section__title" id="credits">
+			<span>Credits</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Direction and choreography</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Performance and co-choreography</p>
+<p class="tw-font-serif tw-mb-0">Ana Isabel Castro</p>
+<p class="tw-font-serif tw-mb-0">Deeogo Oliveira </p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Dramaturgy</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Text</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Choreographic assistance</p>
+<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Music</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Sound design</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Lighting and video design</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-serif tw-mb-0">Bárbara Paixão</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Props and prosthetics</p>
+<p class="tw-font-serif tw-mb-0">Júlio Alves</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Graphic design</p>
+<p class="tw-font-serif tw-mb-0">Tiago Carneiro</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Technical direction</p>
+<p class="tw-font-serif tw-mb-0">José Dinis</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Executive production</p>
+<p class="tw-font-serif tw-mb-0">Joaquim Durães</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production assistant</p>
+<p class="tw-font-serif tw-mb-0">Rita Garizo</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production</p>
+<p class="tw-font-serif tw-mb-0">SOOPA</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Co-production</p>
+<p class="tw-font-serif tw-mb-0">DDD – Festivais Dias da Dança</p>
+<h3 class="fcg-sponsors__title">Support</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Friday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								19:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Saturday, 19:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>Throughout the performance, what initially appears to be a game gradually transforms into a surveillance system. Every gesture is recorded; every choice is absorbed; every mistake becomes part of the machine’s own logic. However, at a certain point, that logic breaks down—an unexpected presence alters the functioning of the space, fragmenting the language and turning the bodies into vehicles for a voice whose origin remains undefined.</p>
+<p>Sound, light, fog, lasers, and movement interplay to create an environment of constant instability, where technology ceases to function merely as a theatrical tool and ultimately becomes an integral part of the experience. Blurring the lines between performance, installation, and sound composition, ‘AXIOM CASINO’ presents a space where the boundaries between control, perception, and transformation are in constant flux.</p>
+<p>Seats for people with reduced mobility, who uses a wheelchair, are available. They must be purchased in person, at our ticket office or by telephone.</p>
+<h2 class="fcg-section__title" id="biographies">
+			<span>Biographies</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="fcg-columns-list fcg-columns-list--2-columns">
+	<li class="fcg-columns-list__item">
+		<button data-modal="6aa468268f1f0" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Jonathan Uliel Saldanha</button>	</li>
+</ul>
+<h2 class="fcg-section__title" id="credits">
+			<span>Credits</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Direction and choreography</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Performance and co-choreography</p>
+<p class="tw-font-serif tw-mb-0">Ana Isabel Castro</p>
+<p class="tw-font-serif tw-mb-0">Deeogo Oliveira </p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Dramaturgy</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Text</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Choreographic assistance</p>
+<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Music</p>
+<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Sound design</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Lighting and video design</p>
+<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
+<p class="tw-font-serif tw-mb-0">Bárbara Paixão</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Props and prosthetics</p>
+<p class="tw-font-serif tw-mb-0">Júlio Alves</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Graphic design</p>
+<p class="tw-font-serif tw-mb-0">Tiago Carneiro</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Technical direction</p>
+<p class="tw-font-serif tw-mb-0">José Dinis</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Executive production</p>
+<p class="tw-font-serif tw-mb-0">Joaquim Durães</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production assistant</p>
+<p class="tw-font-serif tw-mb-0">Rita Garizo</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production</p>
+<p class="tw-font-serif tw-mb-0">SOOPA</p>
+<p class="tw-font-sans tw-text-lg tw-mb-3xs">Co-production</p>
+<p class="tw-font-serif tw-mb-0">DDD – Festivais Dias da Dança</p>
+<h3 class="fcg-sponsors__title">Support</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/07/AXIOM-CASINO-_-Photo-Jorge-Quintela-_-01-1-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Meer lezen]]></title>
             <link>https://journalismfund.eu/indonesia-forests-nickel-vokswagen</link>
             <guid isPermaLink="false">77ab3376df1ac33dd0a20da5ec92cac0556950078acf77e319cb0e66b3905293</guid>
@@ -5881,263 +6138,6 @@ Enter your email to get reminders about upcoming deadlines for Performing Artist
 <ul class="fcg-columns-list fcg-columns-list--2-columns">
 	<li class="fcg-columns-list__item">
 		<button data-modal="6a956a74eebbe" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Jonathan Uliel Saldanha</button>	</li>
-</ul>
-<h2 class="fcg-section__title" id="credits">
-			<span>Credits</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Direction and choreography</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Performance and co-choreography</p>
-<p class="tw-font-serif tw-mb-0">Ana Isabel Castro</p>
-<p class="tw-font-serif tw-mb-0">Deeogo Oliveira </p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Dramaturgy</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Text</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Choreographic assistance</p>
-<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Music</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Sound design</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Lighting and video design</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-serif tw-mb-0">Bárbara Paixão</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Props and prosthetics</p>
-<p class="tw-font-serif tw-mb-0">Júlio Alves</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Graphic design</p>
-<p class="tw-font-serif tw-mb-0">Tiago Carneiro</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Technical direction</p>
-<p class="tw-font-serif tw-mb-0">José Dinis</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Executive production</p>
-<p class="tw-font-serif tw-mb-0">Joaquim Durães</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production assistant</p>
-<p class="tw-font-serif tw-mb-0">Rita Garizo</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production</p>
-<p class="tw-font-serif tw-mb-0">SOOPA</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Co-production</p>
-<p class="tw-font-serif tw-mb-0">DDD – Festivais Dias da Dança</p>
-<h3 class="fcg-sponsors__title">Support</h3>
-<p class="tw-text-xs tw-mb-0">
-		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
-            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/50/2026/07/AXIOM-CASINO-_-Photo-Jorge-Quintela-_-01-1-CARD-1-576x432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jonathan Uliel Saldanha. AXIOM CASINO 23 Oct 2026 / 19:00]]></title>
-            <link>https://gulbenkian.pt/en/agenda/jonathan-uliel-saldanha-axiom-casino/</link>
-            <guid isPermaLink="false">624865a2c40e34cc672126587d7230bec62369f1315e6c74efbe1d85d2df1149</guid>
-            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<h2 class="assist">Event Slider</h2>
-<h4 class="assist">Date</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Friday, 19:00								</span>
-													</span>
-					</li>
-				</ul>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Saturday, 19:00								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Location</h4>
-<h4 class="assist">Pricing</h4>
-<p>Throughout the performance, what initially appears to be a game gradually transforms into a surveillance system. Every gesture is recorded; every choice is absorbed; every mistake becomes part of the machine’s own logic. However, at a certain point, that logic breaks down—an unexpected presence alters the functioning of the space, fragmenting the language and turning the bodies into vehicles for a voice whose origin remains undefined.</p>
-<p>Sound, light, fog, lasers, and movement interplay to create an environment of constant instability, where technology ceases to function merely as a theatrical tool and ultimately becomes an integral part of the experience. Blurring the lines between performance, installation, and sound composition, ‘AXIOM CASINO’ presents a space where the boundaries between control, perception, and transformation are in constant flux.</p>
-<p>Seats for people with reduced mobility, who uses a wheelchair, are available. They must be purchased in person, at our ticket office or by telephone.</p>
-<h2 class="fcg-section__title" id="biographies">
-			<span>Biographies</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="fcg-columns-list fcg-columns-list--2-columns">
-	<li class="fcg-columns-list__item">
-		<button data-modal="6aa468268f1f0" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Jonathan Uliel Saldanha</button>	</li>
-</ul>
-<h2 class="fcg-section__title" id="credits">
-			<span>Credits</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Direction and choreography</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Performance and co-choreography</p>
-<p class="tw-font-serif tw-mb-0">Ana Isabel Castro</p>
-<p class="tw-font-serif tw-mb-0">Deeogo Oliveira </p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Dramaturgy</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Text</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Choreographic assistance</p>
-<p class="tw-font-serif tw-mb-0">Catarina Miranda</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Music</p>
-<p class="tw-font-serif tw-mb-0">Jonathan Uliel Saldanha</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Sound design</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Penas</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Lighting and video design</p>
-<p class="tw-font-serif tw-mb-0">Gonçalo Guiomar</p>
-<p class="tw-font-serif tw-mb-0">Bárbara Paixão</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Props and prosthetics</p>
-<p class="tw-font-serif tw-mb-0">Júlio Alves</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Graphic design</p>
-<p class="tw-font-serif tw-mb-0">Tiago Carneiro</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Technical direction</p>
-<p class="tw-font-serif tw-mb-0">José Dinis</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Executive production</p>
-<p class="tw-font-serif tw-mb-0">Joaquim Durães</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production assistant</p>
-<p class="tw-font-serif tw-mb-0">Rita Garizo</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Production</p>
-<p class="tw-font-serif tw-mb-0">SOOPA</p>
-<p class="tw-font-sans tw-text-lg tw-mb-3xs">Co-production</p>
-<p class="tw-font-serif tw-mb-0">DDD – Festivais Dias da Dança</p>
-<h3 class="fcg-sponsors__title">Support</h3>
-<p class="tw-text-xs tw-mb-0">
-		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
-            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
-<h4 class="assist">Date</h4>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Friday, 19:00								</span>
-													</span>
-					</li>
-				</ul>
-<ul class="fcg-event-schedule">
-					<li class="fcg-event-schedule__item">
-						<span x-cloak="" x-show="isCancelled()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Cancelled							</span>
-						</span>
-						<span x-cloak="" x-show="isSoldOut()">
-							<span x-bind="sessionStartTime">
-								19:00							</span>
-							/
-							<span class="tw-text-red-500">
-								Sold out							</span>
-						</span>
-						<span x-show="!isSoldOut()">
-															<span x-bind="sessionDuration">
-									Saturday, 19:00								</span>
-													</span>
-					</li>
-				</ul>
-<h4 class="assist">Location</h4>
-<h4 class="assist">Pricing</h4>
-<p>Throughout the performance, what initially appears to be a game gradually transforms into a surveillance system. Every gesture is recorded; every choice is absorbed; every mistake becomes part of the machine’s own logic. However, at a certain point, that logic breaks down—an unexpected presence alters the functioning of the space, fragmenting the language and turning the bodies into vehicles for a voice whose origin remains undefined.</p>
-<p>Sound, light, fog, lasers, and movement interplay to create an environment of constant instability, where technology ceases to function merely as a theatrical tool and ultimately becomes an integral part of the experience. Blurring the lines between performance, installation, and sound composition, ‘AXIOM CASINO’ presents a space where the boundaries between control, perception, and transformation are in constant flux.</p>
-<p>Seats for people with reduced mobility, who uses a wheelchair, are available. They must be purchased in person, at our ticket office or by telephone.</p>
-<h2 class="fcg-section__title" id="biographies">
-			<span>Biographies</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="fcg-columns-list fcg-columns-list--2-columns">
-	<li class="fcg-columns-list__item">
-		<button data-modal="6aa468268f1f0" data-index="0" class="button-link tw-normal-case tw-text-lg tw-font-light">Jonathan Uliel Saldanha</button>	</li>
 </ul>
 <h2 class="fcg-section__title" id="credits">
 			<span>Credits</span>
