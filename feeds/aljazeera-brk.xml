@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 13:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 14:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المركز المشترك للمعلومات البحرية: ٢٨ عملية عبور للسفن يوميا في مضيق هرمز…]]></title>
+            <link>https://t.me/aljazeeraBrk/241545</link>
+            <guid isPermaLink="false">8f404cc0249326d7d13766d9e2f6ae51da263498ab9e17de4d66b1ddfbceec88</guid>
+            <pubDate>Sun, 25 Oct 2026 13:57:02 GMT</pubDate>
+            <description><![CDATA[المركز المشترك للمعلومات البحرية: ٢٨ عملية عبور للسفن يوميا في مضيق هرمز بمساعدة أمريكية خلال آخر ٧٢ ساعة]]></description>
+            <content:encoded><![CDATA[المركز المشترك للمعلومات البحرية: ٢٨ عملية عبور للسفن يوميا في مضيق هرمز بمساعدة أمريكية خلال آخر ٧٢ ساعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض…]]></title>
             <link>https://t.me/aljazeeraBrk/241544</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 13:05:02 GMT</pubDate>
             <description><![CDATA[مصدر رسمي أردني: منفذو العمل الإرهابي في مدينة الكرك لديهم خلفية تكفيرية]]></description>
             <content:encoded><![CDATA[مصدر رسمي أردني: منفذو العمل الإرهابي في مدينة الكرك لديهم خلفية تكفيرية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر رسمي أردني: ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل…]]></title>
-            <link>https://t.me/aljazeeraBrk/241277</link>
-            <guid isPermaLink="false">fd7991ab8fd737d0e3bb2bb562c5bec3acededb7554079fb10b3c116d49ac6ee</guid>
-            <pubDate>Fri, 23 Oct 2026 12:53:02 GMT</pubDate>
-            <description><![CDATA[مصدر رسمي أردني: ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل وجريح]]></description>
-            <content:encoded><![CDATA[مصدر رسمي أردني: ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل وجريح]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
