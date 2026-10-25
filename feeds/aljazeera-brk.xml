@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 08:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 09:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير 10صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه…]]></title>
+            <link>https://t.me/aljazeeraBrk/241522</link>
+            <guid isPermaLink="false">4d4ce64da3cdc5d0f7db5456edf999af3e4419984c0669d6a7d3562b4481bc43</guid>
+            <pubDate>Sun, 25 Oct 2026 08:52:01 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير 10صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير 10صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الدفاع الإثيوبي: جيشنا قادر على التصدي لأي استفزازات وأحبط مؤامرات إرهابية…]]></title>
             <link>https://t.me/aljazeeraBrk/241521</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 11:20:02 GMT</pubDate>
             <description><![CDATA[الشرطة الفرنسية: وحدة التدخل الخاصة تدهم مقر إقامة المشتبه في تنفيذه الهجوم المسلح صباح اليوم في مدينة تراب]]></description>
             <content:encoded><![CDATA[الشرطة الفرنسية: وحدة التدخل الخاصة تدهم مقر إقامة المشتبه في تنفيذه الهجوم المسلح صباح اليوم في مدينة تراب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: قوات الاحتلال تعتقل خطيب المسجد الأقصى الشيخ خالد أبو جمعة عقب…]]></title>
-            <link>https://t.me/aljazeeraBrk/241254</link>
-            <guid isPermaLink="false">1977cf344424749f675e9a595e6a8e6c7e8f316ee9ba5d3508ff2867ff067693</guid>
-            <pubDate>Fri, 23 Oct 2026 11:19:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: قوات الاحتلال تعتقل خطيب المسجد الأقصى الشيخ خالد أبو جمعة عقب خطبة وصلاة الجمعة]]></description>
-            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تعتقل خطيب المسجد الأقصى الشيخ خالد أبو جمعة عقب خطبة وصلاة الجمعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
