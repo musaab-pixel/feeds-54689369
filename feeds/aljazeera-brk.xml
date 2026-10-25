@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 18:30:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 18:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده بالمنطقة التي…]]></title>
+            <link>https://t.me/aljazeeraBrk/241576</link>
+            <guid isPermaLink="false">94ae6935f09418d2cc18720970bc66e5e92dd50634f2116004963f3a52ad3775</guid>
+            <pubDate>Sun, 25 Oct 2026 18:38:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده بالمنطقة التي نعمل فيها في جنوب لبنان]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده بالمنطقة التي نعمل فيها في جنوب لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مسيرات إسرائيلية تحرق خيام نازحين في حي الشجاعية شرقي مدينة غزة]]></title>
             <link>https://t.me/aljazeeraBrk/241575</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 15:21:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية التركي: التدخل العسكري ضد إيران ليس حلا بأي حال من الأحوال ولا أحد يؤيده في الوقت الراهن]]></description>
             <content:encoded><![CDATA[وزير الخارجية التركي: التدخل العسكري ضد إيران ليس حلا بأي حال من الأحوال ولا أحد يؤيده في الوقت الراهن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخزانة الأمريكي: إيران استنفدت احتياطيها المخزن في البحر والميناء الرئيسي…]]></title>
-            <link>https://t.me/aljazeeraBrk/241308</link>
-            <guid isPermaLink="false">de142943f3e8e7631b6eb74b883b6b453e1a50c92aa2c46b87fda01784438ab5</guid>
-            <pubDate>Fri, 23 Oct 2026 15:20:02 GMT</pubDate>
-            <description><![CDATA[وزير الخزانة الأمريكي: إيران استنفدت احتياطيها المخزن في البحر والميناء الرئيسي للتصدير بات فارغا]]></description>
-            <content:encoded><![CDATA[وزير الخزانة الأمريكي: إيران استنفدت احتياطيها المخزن في البحر والميناء الرئيسي للتصدير بات فارغا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

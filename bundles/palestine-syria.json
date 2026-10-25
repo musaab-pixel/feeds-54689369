@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "94ae6935f09418d2cc18720970bc66e5e92dd50634f2116004963f3a52ad3775",
+            "content_html": "الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده بالمنطقة التي نعمل فيها في جنوب لبنان",
+            "url": "https://t.me/aljazeeraBrk/241576",
+            "title": "الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده بالمنطقة التي…",
+            "summary": "الجيش الإسرائيلي: إطلاق صاروخ اعتراضي نحو هدف جوي مشبوه تم رصده بالمنطقة التي نعمل فيها في جنوب لبنان",
+            "date_modified": "2026-10-25T18:38:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "9cd82fed6cfdf0d4d8432a9007a7a138f6287b53dd70a32d97f3298a5b5671e7",
             "content_html": "مراسل الجزيرة: مسيرات إسرائيلية تحرق خيام نازحين في حي الشجاعية شرقي مدينة غزة",
             "url": "https://t.me/aljazeeraBrk/241575",
@@ -1624,17 +1635,6 @@
             "date_modified": "2026-10-24T20:31:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2d8bba66b9d610b9a253656661da8e19866b49792e89cfc34e5cc1df1c279b2c",
-            "content_html": "استشهاد شاب إثر انفجار لغم من مخلفات الحرب أثناء رعيه الأغنام في مزارع الأمل في محافظة القنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142122",
-            "title": "استشهاد شاب إثر انفجار لغم من مخلفات الحرب أثناء رعيه الأغنام في مزارع الأمل في…",
-            "summary": "استشهاد شاب إثر انفجار لغم من مخلفات الحرب أثناء رعيه الأغنام في مزارع الأمل في محافظة القنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-24T18:55:03.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
