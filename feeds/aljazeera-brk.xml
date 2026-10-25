@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 10:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 10:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مجلس الأمة الجزائري يوافق على قرار إرسال وحدات من الجيش إلى…]]></title>
+            <link>https://t.me/aljazeeraBrk/241535</link>
+            <guid isPermaLink="false">181d1fed02ab248b1bb6e6bf953383d1d059e11da53cffefb8ff76ff459a2e9d</guid>
+            <pubDate>Sun, 25 Oct 2026 10:34:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مجلس الأمة الجزائري يوافق على قرار إرسال وحدات من الجيش إلى النيجر]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مجلس الأمة الجزائري يوافق على قرار إرسال وحدات من الجيش إلى النيجر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: شهيد و5 مصابين في قصف إسرائيلي على مواصي خان يونس جنوبي قطاع…]]></title>
             <link>https://t.me/aljazeeraBrk/241534</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 11:56:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في بلدة بورين جنوبي نابلس شمال الضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون منازل الفلسطينيين في بلدة بورين جنوبي نابلس شمال الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الأمن العام الأردني: مسلحون مجهولون يطلقون النار داخل كنيسة في محافظة الكرك ما…]]></title>
-            <link>https://t.me/aljazeeraBrk/241267</link>
-            <guid isPermaLink="false">3ec18d076a1dd228fb3008c5ccd5d26197d617bde6a2139e68f195c6ea91db21</guid>
-            <pubDate>Fri, 23 Oct 2026 11:52:02 GMT</pubDate>
-            <description><![CDATA[الأمن العام الأردني: مسلحون مجهولون يطلقون النار داخل كنيسة في محافظة الكرك ما أسفر عن وفيات وإصابات]]></description>
-            <content:encoded><![CDATA[الأمن العام الأردني: مسلحون مجهولون يطلقون النار داخل كنيسة في محافظة الكرك ما أسفر عن وفيات وإصابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
