@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 17:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 17:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: نفذنا 753 عملية استهداف خلال الساعات الـ24 الماضية ضمن…]]></title>
+            <link>https://t.me/aljazeeraBrk/241572</link>
+            <guid isPermaLink="false">c1ed46fcc27db725407293c2a5a67abe72495c02d4c99030b5b27e87fe8ec22f</guid>
+            <pubDate>Sun, 25 Oct 2026 17:36:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: نفذنا 753 عملية استهداف خلال الساعات الـ24 الماضية ضمن عملية فجر اليمن]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا 753 عملية استهداف خلال الساعات الـ24 الماضية ضمن عملية فجر اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[النائب العربي بالكنيست أحمد الطيبي للجزيرة: اليمين الإسرائيلي قد يلجأ للعنف…]]></title>
             <link>https://t.me/aljazeeraBrk/241571</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 15:02:03 GMT</pubDate>
             <description><![CDATA[ترمب: يمكننا السيطرة على كل النفط في إيران]]></description>
             <content:encoded><![CDATA[ترمب: يمكننا السيطرة على كل النفط في إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: نتحكم في مضيق هرمز وبإمكاننا السيطرة على كل إيران وهي لا تمتلك أي أموال]]></title>
-            <link>https://t.me/aljazeeraBrk/241304</link>
-            <guid isPermaLink="false">26502436ddf863db7bdc6e9344416d8e45bb2201665565394ceef823983cf56b</guid>
-            <pubDate>Fri, 23 Oct 2026 15:02:02 GMT</pubDate>
-            <description><![CDATA[ترمب: نتحكم في مضيق هرمز وبإمكاننا السيطرة على كل إيران وهي لا تمتلك أي أموال]]></description>
-            <content:encoded><![CDATA[ترمب: نتحكم في مضيق هرمز وبإمكاننا السيطرة على كل إيران وهي لا تمتلك أي أموال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
