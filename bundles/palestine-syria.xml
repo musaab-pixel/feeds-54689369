@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 13:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 13:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض…]]></title>
+            <link>https://t.me/aljazeeraBrk/241544</link>
+            <guid isPermaLink="false">49ee2041bcfe1bd382aa5557a3f67f920efd7df91b47ea92dd56904eda8e0f44</guid>
+            <pubDate>Sun, 25 Oct 2026 13:30:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض صاروخين أطلقتهما المليشيا الحوثية]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض صاروخين أطلقتهما المليشيا الحوثية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مديرية الطوارئ في حلب: انتشال جثمان رجل توفي غرقًا في بحيرة ميدانكي بريف مدينة…]]></title>
             <link>https://t.me/HalabTodayTV/142150</link>
@@ -1745,15 +1754,6 @@
             <pubDate>Sat, 24 Oct 2026 10:27:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تدهم عددا من المنازل خلال اقتحامها مدينة البيرة وسط الضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تدهم عددا من المنازل خلال اقتحامها مدينة البيرة وسط الضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نادي الأسير الفلسطيني: قوات الاحتلال اعتقلت 70 فلسطينيا في الضفة الغربية منذ…]]></title>
-            <link>https://t.me/aljazeeraBrk/241418</link>
-            <guid isPermaLink="false">383c4646084441c0904b3782f03c6ac88951459c9d5cf30de544b71c77ea89ec</guid>
-            <pubDate>Sat, 24 Oct 2026 10:16:02 GMT</pubDate>
-            <description><![CDATA[نادي الأسير الفلسطيني: قوات الاحتلال اعتقلت 70 فلسطينيا في الضفة الغربية منذ أمس حتى فجر اليوم]]></description>
-            <content:encoded><![CDATA[نادي الأسير الفلسطيني: قوات الاحتلال اعتقلت 70 فلسطينيا في الضفة الغربية منذ أمس حتى فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

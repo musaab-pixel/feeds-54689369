@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 12:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 13:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض…]]></title>
+            <link>https://t.me/aljazeeraBrk/241544</link>
+            <guid isPermaLink="false">49ee2041bcfe1bd382aa5557a3f67f920efd7df91b47ea92dd56904eda8e0f44</guid>
+            <pubDate>Sun, 25 Oct 2026 13:30:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض صاروخين أطلقتهما المليشيا الحوثية]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: إصابتان في خميس مشيط وأحد رفيدة إثر سقوط شظايا اعتراض صاروخين أطلقتهما المليشيا الحوثية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المنظمة الدولية للهجرة: عدد النازحين في اليمن تجاوز 268 ألفا ووصول 3836 يمنيا…]]></title>
             <link>https://t.me/aljazeeraBrk/241543</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 12:53:02 GMT</pubDate>
             <description><![CDATA[مصدر رسمي أردني: ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل وجريح]]></description>
             <content:encoded><![CDATA[مصدر رسمي أردني: ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل وجريح]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: تعزيزات أمنية كبيرة وعمليات تمشيط متواصلة بحثا عن مستهدفي…]]></title>
-            <link>https://t.me/aljazeeraBrk/241276</link>
-            <guid isPermaLink="false">258a0f166490f50793170a8e5cded88bef35826fb801f21c1af3ba5106455b6e</guid>
-            <pubDate>Fri, 23 Oct 2026 12:51:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: تعزيزات أمنية كبيرة وعمليات تمشيط متواصلة بحثا عن مستهدفي الكنيسة في مدينة الكرك جنوبي الأردن]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: تعزيزات أمنية كبيرة وعمليات تمشيط متواصلة بحثا عن مستهدفي الكنيسة في مدينة الكرك جنوبي الأردن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
