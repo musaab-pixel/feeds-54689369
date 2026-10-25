@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 14:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 14:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: قواتنا عملت الليلة الماضية على إغلاق منزلي منفذي عملية الخليل…]]></title>
+            <link>https://t.me/aljazeeraBrk/241548</link>
+            <guid isPermaLink="false">bf89662ac177e44fb390a9c8a0d42ad8490ae2a7a6ea2e34b87b41abb5615fd1</guid>
+            <pubDate>Sun, 25 Oct 2026 14:33:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: قواتنا عملت الليلة الماضية على إغلاق منزلي منفذي عملية الخليل وسيتم هدمهما لاحقا]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: قواتنا عملت الليلة الماضية على إغلاق منزلي منفذي عملية الخليل وسيتم هدمهما لاحقا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب لفوكس نيوز: الإيرانيون لا يقومون بتحركات كبيرة في ما يخص المنشآت النووية…]]></title>
             <link>https://t.me/aljazeeraBrk/241547</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 23 Oct 2026 13:10:02 GMT</pubDate>
             <description><![CDATA[قائد المنطقة الوسطى بالجيش الإسرائيلي: فرضنا حصارا على الخليل وحلحول وسندمر البنية التحتية الإرهابية]]></description>
             <content:encoded><![CDATA[قائد المنطقة الوسطى بالجيش الإسرائيلي: فرضنا حصارا على الخليل وحلحول وسندمر البنية التحتية الإرهابية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قائد المنطقة الوسطى بالجيش الإسرائيلي: دفعنا ثمنا باهظا في اشتباك الخليل وفقدنا…]]></title>
-            <link>https://t.me/aljazeeraBrk/241280</link>
-            <guid isPermaLink="false">668d21803d8c30d533d11e88f3c231760aaf21c948a6d4a7424a4aed13d06373</guid>
-            <pubDate>Fri, 23 Oct 2026 13:09:01 GMT</pubDate>
-            <description><![CDATA[قائد المنطقة الوسطى بالجيش الإسرائيلي: دفعنا ثمنا باهظا في اشتباك الخليل وفقدنا اثنين من مقاتلينا]]></description>
-            <content:encoded><![CDATA[قائد المنطقة الوسطى بالجيش الإسرائيلي: دفعنا ثمنا باهظا في اشتباك الخليل وفقدنا اثنين من مقاتلينا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
