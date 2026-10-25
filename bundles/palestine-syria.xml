@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 25 Oct 2026 19:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 20:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: دوي انفجار في منطقة صلاح الدين غرب محافظة عدن جنوبي اليمن]]></title>
+            <link>https://t.me/aljazeeraBrk/241584</link>
+            <guid isPermaLink="false">a7d4194d1338653211a4429032050cbd274ffdfa55e00c26393a6c0dea15c069</guid>
+            <pubDate>Sun, 25 Oct 2026 20:12:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: دوي انفجار في منطقة صلاح الدين غرب محافظة عدن جنوبي اليمن]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجار في منطقة صلاح الدين غرب محافظة عدن جنوبي اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[زيلنسكي: جميع القضايا باستثناء تبادل الأراضي يمكن مناقشتها على مستوى المجموعات…]]></title>
             <link>https://t.me/aljazeeraBrk/241583</link>
@@ -1592,15 +1601,6 @@
             <pubDate>Sat, 24 Oct 2026 23:37:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على مدينة التربة بمديرية الشمايتين في تعز]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على مدينة التربة بمديرية الشمايتين في تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: انفجارات عنيفة بين محافظتي لحج وعدن جنوبي اليمن]]></title>
-            <link>https://t.me/aljazeeraBrk/241481</link>
-            <guid isPermaLink="false">d020f8a11f601a1d05f145f19799d4ea9b86a08e591e3c06d42f7da8ab06c97f</guid>
-            <pubDate>Sat, 24 Oct 2026 22:18:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: انفجارات عنيفة بين محافظتي لحج وعدن جنوبي اليمن]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: انفجارات عنيفة بين محافظتي لحج وعدن جنوبي اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
