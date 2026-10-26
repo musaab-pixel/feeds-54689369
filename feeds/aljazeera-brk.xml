@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 26 Oct 2026 15:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 15:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئاسة الجزائرية: الرئيس يقرر إرسال قوات إلى النيجر لحماية الطاقة والمصالح…]]></title>
+            <link>https://t.me/aljazeeraBrk/241726</link>
+            <guid isPermaLink="false">7568627fae5794ef89eb6fadeac358e68afe53912475f807a0aa12cfa442dc9f</guid>
+            <pubDate>Mon, 26 Oct 2026 15:18:02 GMT</pubDate>
+            <description><![CDATA[الرئاسة الجزائرية: الرئيس يقرر إرسال قوات إلى النيجر لحماية الطاقة والمصالح الاقتصادية]]></description>
+            <content:encoded><![CDATA[الرئاسة الجزائرية: الرئيس يقرر إرسال قوات إلى النيجر لحماية الطاقة والمصالح الاقتصادية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء الإيرانية: انتهاء الاجتماع الرباعي بين إيران وباكستان وتركيا…]]></title>
             <link>https://t.me/aljazeeraBrk/241725</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 24 Oct 2026 10:54:01 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: نحو 20 غارة على مدينة المخا بمحافظة تعز منذ صباح اليوم]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: نحو 20 غارة على مدينة المخا بمحافظة تعز منذ صباح اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى شهداء الأقصى: مصابان بنيران قوات الاحتلال شرقي مدينة دير البلح وسط قطاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/241421</link>
-            <guid isPermaLink="false">fb6275689da4cfb431e4968d1aca423ec5e709ea55228b11f7e366645a707414</guid>
-            <pubDate>Sat, 24 Oct 2026 10:50:02 GMT</pubDate>
-            <description><![CDATA[مستشفى شهداء الأقصى: مصابان بنيران قوات الاحتلال شرقي مدينة دير البلح وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مستشفى شهداء الأقصى: مصابان بنيران قوات الاحتلال شرقي مدينة دير البلح وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
