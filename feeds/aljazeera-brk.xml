@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 26 Oct 2026 16:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 17:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الناطق باسم القوات الحكومية اليمنية: نفذنا 1276 استهدافا في 24 ساعة ضد قدرات…]]></title>
+            <link>https://t.me/aljazeeraBrk/241733</link>
+            <guid isPermaLink="false">80abf09c4286d881bab0eeaad7422de078391c80c5a816f62e42f8e79e713359</guid>
+            <pubDate>Mon, 26 Oct 2026 16:55:02 GMT</pubDate>
+            <description><![CDATA[الناطق باسم القوات الحكومية اليمنية: نفذنا 1276 استهدافا في 24 ساعة ضد قدرات الحوثيين العسكرية بمختلف الجبهات]]></description>
+            <content:encoded><![CDATA[الناطق باسم القوات الحكومية اليمنية: نفذنا 1276 استهدافا في 24 ساعة ضد قدرات الحوثيين العسكرية بمختلف الجبهات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة مقاومة الجدار والاستيطان: 13 اعتداء للاحتلال والمستوطنين على المزارعين في…]]></title>
             <link>https://t.me/aljazeeraBrk/241732</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 24 Oct 2026 11:19:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية الخليل للجزيرة: أخرج الاحتلال جميع موظفي الحرم الإبراهيمي ومنع جميع الصلوات فيه وأغلق بواباته]]></description>
             <content:encoded><![CDATA[رئيس بلدية الخليل للجزيرة: أخرج الاحتلال جميع موظفي الحرم الإبراهيمي ومنع جميع الصلوات فيه وأغلق بواباته]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس بلدية الخليل للجزيرة: رد فعل الاحتلال تجاه المدينة غير مبرر وقد تم إغلاق…]]></title>
-            <link>https://t.me/aljazeeraBrk/241428</link>
-            <guid isPermaLink="false">947198f815c9f21dceba6246c73a863373dcf6d2ef55276c9da9303c5b8c529b</guid>
-            <pubDate>Sat, 24 Oct 2026 11:18:02 GMT</pubDate>
-            <description><![CDATA[رئيس بلدية الخليل للجزيرة: رد فعل الاحتلال تجاه المدينة غير مبرر وقد تم إغلاق مئات المصانع فيها]]></description>
-            <content:encoded><![CDATA[رئيس بلدية الخليل للجزيرة: رد فعل الاحتلال تجاه المدينة غير مبرر وقد تم إغلاق مئات المصانع فيها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
