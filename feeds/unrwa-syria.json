@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "9f461c8a3c274c5c13b20c95c7adfaa0c6cff82c5daf301b6f072f3e8df41060",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FZE05RmFOd1kzZDdmS21kaktnMVBxejlzLVVOeE1MTDVZYmdfeWoteERPUTVvZU5jQ2g0cmNwYnNCMGc3QURVTXgybXBLQlFlNmpVXzdGZw?oc=5\" target=\"_blank\">اتحاد موظفي أونروا في سوريا يرفض التسريح الجماعي ويحذّر من تصفية الوكالة من الداخل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FZE05RmFOd1kzZDdmS21kaktnMVBxejlzLVVOeE1MTDVZYmdfeWoteERPUTVvZU5jQ2g0cmNwYnNCMGc3QURVTXgybXBLQlFlNmpVXzdGZw?oc=5",
+            "title": "اتحاد موظفي أونروا في سوريا يرفض التسريح الجماعي ويحذّر من تصفية الوكالة من الداخل - المركز الفلسطيني للإعلام",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FZE05RmFOd1kzZDdmS21kaktnMVBxejlzLVVOeE1MTDVZYmdfeWoteERPUTVvZU5jQ2g0cmNwYnNCMGc3QURVTXgybXBLQlFlNmpVXzdGZw?oc=5\" target=\"_blank\">اتحاد موظفي أونروا في سوريا يرفض التسريح الجماعي ويحذّر من تصفية الوكالة من الداخل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "date_modified": "2026-10-26T12:43:45.000Z",
+            "author": {
+                "name": "المركز الفلسطيني للإعلام"
+            }
+        },
+        {
+            "id": "58646a236fda4f82fa383236c569ddb9e7a8de2b0374c60087af4466a774ad00",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi3ARBVV95cUxQbk1LeEx3N1d0NjBSaGh3LXZDQlVNS25aNGdZekNmbWwzNFNueXB3OGNoM1FNYjliSWQ4SkwwU3BySVltZVN1NU5oeGw1NS1jWjh1VWNBaWdNY045S0hKNHFON3RXeVJvWlhuVmxXbTNwblFnSzFSNVBKaE9OaWpuU1hDd05CMk5ydEFOMU9UTXR1QWVWQ1FHWUtENW53V2Vqd0c2ODluSnRYdGF3UVVLNHVmZEVYWmNsZTdCRVhHNFdETEF3RUNvRVBydlM5ZVJsUkwtb1V5dkc5eVQ1YTRERGlteE5kUlJocnh0dlJpeVpDYl93OWU3eHRET19qZVctMVk3MGdCRHNmanh5VG1lVXB3VDRCRHZGYWhtcG4xZ2g5QmVtQ3p0ZC0tcGFfU29iN25nV05INlItOGtXZHBnaDdvNVJmeldFcmdPNlExYy1hNTg3X3ZrSXNMTTRHci1rV0ZDd3VJU2pZSE1tMjZfTkxtZUcwQm1qRWxLU0ttTGdKV0JzWnBzMG1uRWFqeG9zN2lFTEtHeGdBY1pOR3BucUlHRVFLMVQ2QlRkQzVmeFZZTUt5alV1UDd0aXNXb3c5Y1lfLTVPVWdoT2NDeW9Cblp5SURuRm52bU9YRTlaQ25wcHFHbUlzTkhGaElxTmR3THFLeEF0ZWtMQ1dPNmowOGhQVXVVV0JHVTllaHJXcmJVdlFmeGV2YXVpdy1yblRqRVpKMldPT1BYcFZPeGhjR3M3eEd3ZWkyR1VsRGxHMHRiUTk0TU4yNW9ESHdNX3c1QjBpMGswZzR0SU5C?oc=5\" target=\"_blank\">اتحاد موظفي \"أونروا\" في سوريا يرفض خطط التسريح ويحذّر من تصفية الوكالة من الداخل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxQbk1LeEx3N1d0NjBSaGh3LXZDQlVNS25aNGdZekNmbWwzNFNueXB3OGNoM1FNYjliSWQ4SkwwU3BySVltZVN1NU5oeGw1NS1jWjh1VWNBaWdNY045S0hKNHFON3RXeVJvWlhuVmxXbTNwblFnSzFSNVBKaE9OaWpuU1hDd05CMk5ydEFOMU9UTXR1QWVWQ1FHWUtENW53V2Vqd0c2ODluSnRYdGF3UVVLNHVmZEVYWmNsZTdCRVhHNFdETEF3RUNvRVBydlM5ZVJsUkwtb1V5dkc5eVQ1YTRERGlteE5kUlJocnh0dlJpeVpDYl93OWU3eHRET19qZVctMVk3MGdCRHNmanh5VG1lVXB3VDRCRHZGYWhtcG4xZ2g5QmVtQ3p0ZC0tcGFfU29iN25nV05INlItOGtXZHBnaDdvNVJmeldFcmdPNlExYy1hNTg3X3ZrSXNMTTRHci1rV0ZDd3VJU2pZSE1tMjZfTkxtZUcwQm1qRWxLU0ttTGdKV0JzWnBzMG1uRWFqeG9zN2lFTEtHeGdBY1pOR3BucUlHRVFLMVQ2QlRkQzVmeFZZTUt5alV1UDd0aXNXb3c5Y1lfLTVPVWdoT2NDeW9Cblp5SURuRm52bU9YRTlaQ25wcHFHbUlzTkhGaElxTmR3THFLeEF0ZWtMQ1dPNmowOGhQVXVVV0JHVTllaHJXcmJVdlFmeGV2YXVpdy1yblRqRVpKMldPT1BYcFZPeGhjR3M3eEd3ZWkyR1VsRGxHMHRiUTk0TU4yNW9ESHdNX3c1QjBpMGswZzR0SU5C?oc=5",
+            "title": "اتحاد موظفي \"أونروا\" في سوريا يرفض خطط التسريح ويحذّر من تصفية الوكالة من الداخل - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3ARBVV95cUxQbk1LeEx3N1d0NjBSaGh3LXZDQlVNS25aNGdZekNmbWwzNFNueXB3OGNoM1FNYjliSWQ4SkwwU3BySVltZVN1NU5oeGw1NS1jWjh1VWNBaWdNY045S0hKNHFON3RXeVJvWlhuVmxXbTNwblFnSzFSNVBKaE9OaWpuU1hDd05CMk5ydEFOMU9UTXR1QWVWQ1FHWUtENW53V2Vqd0c2ODluSnRYdGF3UVVLNHVmZEVYWmNsZTdCRVhHNFdETEF3RUNvRVBydlM5ZVJsUkwtb1V5dkc5eVQ1YTRERGlteE5kUlJocnh0dlJpeVpDYl93OWU3eHRET19qZVctMVk3MGdCRHNmanh5VG1lVXB3VDRCRHZGYWhtcG4xZ2g5QmVtQ3p0ZC0tcGFfU29iN25nV05INlItOGtXZHBnaDdvNVJmeldFcmdPNlExYy1hNTg3X3ZrSXNMTTRHci1rV0ZDd3VJU2pZSE1tMjZfTkxtZUcwQm1qRWxLU0ttTGdKV0JzWnBzMG1uRWFqeG9zN2lFTEtHeGdBY1pOR3BucUlHRVFLMVQ2QlRkQzVmeFZZTUt5alV1UDd0aXNXb3c5Y1lfLTVPVWdoT2NDeW9Cblp5SURuRm52bU9YRTlaQ25wcHFHbUlzTkhGaElxTmR3THFLeEF0ZWtMQ1dPNmowOGhQVXVVV0JHVTllaHJXcmJVdlFmeGV2YXVpdy1yblRqRVpKMldPT1BYcFZPeGhjR3M3eEd3ZWkyR1VsRGxHMHRiUTk0TU4yNW9ESHdNX3c1QjBpMGswZzR0SU5C?oc=5\" target=\"_blank\">اتحاد موظفي \"أونروا\" في سوريا يرفض خطط التسريح ويحذّر من تصفية الوكالة من الداخل</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-10-26T12:03:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
             "id": "5a100f73d9eaa10b56f20623d421683ba63febb66f3bab3a5855496f4e2b7847",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMizANBVV95cUxOUGxwWDROX3QwWmNhZmQxNEZyZnZLQzl4MEN1aTFQVDBTWE1tMEx0ZzI5VFN5Znk1LXRybFB3YTRTaG1ydTRocFFsSkV5bTM5dlV1VDNhUVZ3ODZ1RXRXTjFTMnRhTnl4TWh1RnBsaXplc0tQbEVoWlpaZHNzVGxEMkpIWUVZS2RkMWNkNmlrOWJTRUdjZ05qVDVPN1ZzelZ1b1kybU9oMUNaUzNpZS1FdmliRHdBRnFZMWd2MXU2RWpBU3A1VkFHZ1BINjZFTFhlaWZtVTZsay1LYzJVbTJYMTFTbE4zUU5KaFZmSk95MEU0Snd2MWdrODVCZ0UwdmNSaDNETEs5MzFta25lMlMwZVY1amhYZkxPSW5CYThQTVVDcThCbTh4RHZVcDNKb1hobThDRHZCTjVlS0t2U3FRSUNJOEpjalVhY2V4Qi1OSEJoSU1pZXhIT3lzZUpCYmR6RnU0cHlxanBuRndJMnVMci1iQ3FkdXJtellFRVJUUFhrc0FkZm4yNHMwTnptZERqUUNyNENjSDZ4d1EwVExBQXlPUThCakhGaERwS2ZycnNEa3plNXc2NTd3UmZwOFQ0Z2d3dWdlbVZETzFS0gHSA0FVX3lxTFBNYXlfUllSTEZGTUhOSEVfT1RDenhvNmZ2X1Exc2xDNWQzZll1Rmh1ZEl6OTRuZnhfMk5lNkkzVnNoVVZNRV81Wmt3Mjl5bWt0Ylh0RHlrX3NNeXcybHFHSnlyanhqTEdMSGxXd2xPVFBHSms5ekk2UF9iQXp2NFN0dGJ4bF9sa2ZhSW5yeXpmWHdyc1RETFhMbHNUTVVkNE5XYWpmc0ItejFqRmpVLVM0eWZtYWdmRHVYNXZqODJvaXp1RXF5ZnJlVDU4RVNtOG5YTmlPQ3g0bEpsZ2RkcWNza0ZyS2xMTXRRSjNhQ1B1QmFCNHVmWHZ2MDZEOFh5Y0dnSjRrcjVoWElhU00xeUliTUpLMUwtOTRuSy15bVRmSHBfMHJtb1JZclFmTzA3Qm0yeElxTW83Rko4YVFQTlBJZVRFbVBlbURuX09PbmxfYTUwcEFhNWlkWkxZeDVJUy1FNGQyZzZQdHZiUWRraXhScWxqS0xuRnFIYXlUR1I1SnRtRUdTMzM1V0RTUHA2MThUZmlSSXZnZkZsVURHUGtLRXc5bjg0NHNfU3QzUm9ieUtZX1U4bDRtQ3RKMTNNSlZCclpvME0xSENnWUNNYU1qYnc?oc=5\" target=\"_blank\">مساعٍ للحدّ من أزمات تعليم الطلاب الفلسطينيين في سورية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">العربي الجديد</font>",
             "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOUGxwWDROX3QwWmNhZmQxNEZyZnZLQzl4MEN1aTFQVDBTWE1tMEx0ZzI5VFN5Znk1LXRybFB3YTRTaG1ydTRocFFsSkV5bTM5dlV1VDNhUVZ3ODZ1RXRXTjFTMnRhTnl4TWh1RnBsaXplc0tQbEVoWlpaZHNzVGxEMkpIWUVZS2RkMWNkNmlrOWJTRUdjZ05qVDVPN1ZzelZ1b1kybU9oMUNaUzNpZS1FdmliRHdBRnFZMWd2MXU2RWpBU3A1VkFHZ1BINjZFTFhlaWZtVTZsay1LYzJVbTJYMTFTbE4zUU5KaFZmSk95MEU0Snd2MWdrODVCZ0UwdmNSaDNETEs5MzFta25lMlMwZVY1amhYZkxPSW5CYThQTVVDcThCbTh4RHZVcDNKb1hobThDRHZCTjVlS0t2U3FRSUNJOEpjalVhY2V4Qi1OSEJoSU1pZXhIT3lzZUpCYmR6RnU0cHlxanBuRndJMnVMci1iQ3FkdXJtellFRVJUUFhrc0FkZm4yNHMwTnptZERqUUNyNENjSDZ4d1EwVExBQXlPUThCakhGaERwS2ZycnNEa3plNXc2NTd3UmZwOFQ0Z2d3dWdlbVZETzFS0gHSA0FVX3lxTFBNYXlfUllSTEZGTUhOSEVfT1RDenhvNmZ2X1Exc2xDNWQzZll1Rmh1ZEl6OTRuZnhfMk5lNkkzVnNoVVZNRV81Wmt3Mjl5bWt0Ylh0RHlrX3NNeXcybHFHSnlyanhqTEdMSGxXd2xPVFBHSms5ekk2UF9iQXp2NFN0dGJ4bF9sa2ZhSW5yeXpmWHdyc1RETFhMbHNUTVVkNE5XYWpmc0ItejFqRmpVLVM0eWZtYWdmRHVYNXZqODJvaXp1RXF5ZnJlVDU4RVNtOG5YTmlPQ3g0bEpsZ2RkcWNza0ZyS2xMTXRRSjNhQ1B1QmFCNHVmWHZ2MDZEOFh5Y0dnSjRrcjVoWElhU00xeUliTUpLMUwtOTRuSy15bVRmSHBfMHJtb1JZclFmTzA3Qm0yeElxTW83Rko4YVFQTlBJZVRFbVBlbURuX09PbmxfYTUwcEFhNWlkWkxZeDVJUy1FNGQyZzZQdHZiUWRraXhScWxqS0xuRnFIYXlUR1I1SnRtRUdTMzM1V0RTUHA2MThUZmlSSXZnZkZsVURHUGtLRXc5bjg0NHNfU3QzUm9ieUtZX1U4bDRtQ3RKMTNNSlZCclpvME0xSENnWUNNYU1qYnc?oc=5",
@@ -126,17 +148,6 @@
             }
         },
         {
-            "id": "493a39890266f5eea57d784d491d7ca538b14fd19089e3fcb7bf23c2d2777977",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hazlXNnF0cnJEVU5RbzB3alZ6MFVoTzhmMVBkamRrdFlpRU1QUWR0QnVXRUZKZDUxTUJiQnRJZ19KTmgyOV9HbmtaY2ZZRkZFU3BWWmNpaw?oc=5\" target=\"_blank\">الهيئة 302: أونروا أسقطت 174 ألف لاجئ فلسطيني من سجلاتها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hazlXNnF0cnJEVU5RbzB3alZ6MFVoTzhmMVBkamRrdFlpRU1QUWR0QnVXRUZKZDUxTUJiQnRJZ19KTmgyOV9HbmtaY2ZZRkZFU3BWWmNpaw?oc=5",
-            "title": "الهيئة 302: أونروا أسقطت 174 ألف لاجئ فلسطيني من سجلاتها - المركز الفلسطيني للإعلام",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hazlXNnF0cnJEVU5RbzB3alZ6MFVoTzhmMVBkamRrdFlpRU1QUWR0QnVXRUZKZDUxTUJiQnRJZ19KTmgyOV9HbmtaY2ZZRkZFU3BWWmNpaw?oc=5\" target=\"_blank\">الهيئة 302: أونروا أسقطت 174 ألف لاجئ فلسطيني من سجلاتها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
-            "date_modified": "2026-10-05T15:59:03.000Z",
-            "author": {
-                "name": "المركز الفلسطيني للإعلام"
-            }
-        },
-        {
             "id": "f82beaec74223412aaf823bfcdebb67f2ed5b3d77bf08cd1e805a6a5c839cd9e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi3gNBVV95cUxNX0xjNUtBbzlqMElCbkN3Z2Y5RUVtQzBzMVp1aF9NaGRHS3ZTZ3pQbFR4Y3R0bkRSRHRQbFFPX0dvOFJ1MzhGbmNET2V2TkQxeVlRN3ZJdUdQUkdBeDhoTWVwWjc5SzhNUFJnU1EtX0ZNUnU0VVNPa1I0UWJ2b1FLZnZ2c0VhTnR0MXpSMklSX2w0ZEJwWi14X0VZXzZVNDZ6ZDF1VzZQWkdvdEJRcTZIY2pqSmpFTVo5S2VxNVFpM0J3bjRfRVptYW1UbmJZbnFwNTdjRnNfRDRfZlRuWkFNZ2N5UU02RVZEeVhpODVsVFhDVksxYmdLLXk5OGZFTzQtZ1BJOGNDZFRucm5GckF6dW1zQmlldTF2TkxlYVlJcjVoMnJBc0NiNzNfZmxRNUNCVjlkbWhhaDlBdUNacDNlR09RbUtIVm9ONUNNc2czaU54RERwZjZhb0FndzJIb2pjZ3hKRHdYSUI5M0s1NFl5bVVNay0wRXJpVEZ1LS1yT083ZHpDRENQUmY3MlBBS1ZSa1otTEhQUlNySlhiWWhmYU5Zb1JMdVR5a0ZJM0dZejl0Y0hiNDFaaGNpajI5eDVRTEZxYTA2RWg2MGh5Z0pVbFdvNm9PeTJVN016V1VB?oc=5\" target=\"_blank\">تحذير من إسقاط \"أونروا\" نحو 174 ألف لاجئ من سجلاتها في سوريا وغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNX0xjNUtBbzlqMElCbkN3Z2Y5RUVtQzBzMVp1aF9NaGRHS3ZTZ3pQbFR4Y3R0bkRSRHRQbFFPX0dvOFJ1MzhGbmNET2V2TkQxeVlRN3ZJdUdQUkdBeDhoTWVwWjc5SzhNUFJnU1EtX0ZNUnU0VVNPa1I0UWJ2b1FLZnZ2c0VhTnR0MXpSMklSX2w0ZEJwWi14X0VZXzZVNDZ6ZDF1VzZQWkdvdEJRcTZIY2pqSmpFTVo5S2VxNVFpM0J3bjRfRVptYW1UbmJZbnFwNTdjRnNfRDRfZlRuWkFNZ2N5UU02RVZEeVhpODVsVFhDVksxYmdLLXk5OGZFTzQtZ1BJOGNDZFRucm5GckF6dW1zQmlldTF2TkxlYVlJcjVoMnJBc0NiNzNfZmxRNUNCVjlkbWhhaDlBdUNacDNlR09RbUtIVm9ONUNNc2czaU54RERwZjZhb0FndzJIb2pjZ3hKRHdYSUI5M0s1NFl5bVVNay0wRXJpVEZ1LS1yT083ZHpDRENQUmY3MlBBS1ZSa1otTEhQUlNySlhiWWhmYU5Zb1JMdVR5a0ZJM0dZejl0Y0hiNDFaaGNpajI5eDVRTEZxYTA2RWg2MGh5Z0pVbFdvNm9PeTJVN016V1VB?oc=5",
@@ -145,6 +156,17 @@
             "date_modified": "2026-10-05T11:08:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
+            }
+        },
+        {
+            "id": "493a39890266f5eea57d784d491d7ca538b14fd19089e3fcb7bf23c2d2777977",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hazlXNnF0cnJEVU5RbzB3alZ6MFVoTzhmMVBkamRrdFlpRU1QUWR0QnVXRUZKZDUxTUJiQnRJZ19KTmgyOV9HbmtaY2ZZRkZFU3BWWmNpaw?oc=5\" target=\"_blank\">الهيئة 302: أونروا أسقطت 174 ألف لاجئ فلسطيني من سجلاتها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hazlXNnF0cnJEVU5RbzB3alZ6MFVoTzhmMVBkamRrdFlpRU1QUWR0QnVXRUZKZDUxTUJiQnRJZ19KTmgyOV9HbmtaY2ZZRkZFU3BWWmNpaw?oc=5",
+            "title": "الهيئة 302: أونروا أسقطت 174 ألف لاجئ فلسطيني من سجلاتها - المركز الفلسطيني للإعلام",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hazlXNnF0cnJEVU5RbzB3alZ6MFVoTzhmMVBkamRrdFlpRU1QUWR0QnVXRUZKZDUxTUJiQnRJZ19KTmgyOV9HbmtaY2ZZRkZFU3BWWmNpaw?oc=5\" target=\"_blank\">الهيئة 302: أونروا أسقطت 174 ألف لاجئ فلسطيني من سجلاتها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "date_modified": "2026-10-05T07:00:00.000Z",
+            "author": {
+                "name": "المركز الفلسطيني للإعلام"
             }
         },
         {
@@ -2180,28 +2202,6 @@
             "date_modified": "2026-01-07T08:00:00.000Z",
             "author": {
                 "name": "الشرق الأوسط"
-            }
-        },
-        {
-            "id": "a7a37d9e72af93d38f1b7e8dcb70b83ba911fc11b98c95644262e138fcc50895",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCU2tNMkJ5bEtLZWJNRDQ3S1RUMGQ0a0ptSFpmRHVqSVFpaHBYcG5pdFFsM3ZBVUpJNHJIczVKdzZNZndHc0FzVEY1cUd0aWM?oc=5\" target=\"_blank\">الأمم المتحدة: قرار الاحتلال قطع الكهرباء والمياه عن منشآت الأونروا في القدس انتهاك خطير</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCU2tNMkJ5bEtLZWJNRDQ3S1RUMGQ0a0ptSFpmRHVqSVFpaHBYcG5pdFFsM3ZBVUpJNHJIczVKdzZNZndHc0FzVEY1cUd0aWM?oc=5",
-            "title": "الأمم المتحدة: قرار الاحتلال قطع الكهرباء والمياه عن منشآت الأونروا في القدس انتهاك خطير - سانا",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCU2tNMkJ5bEtLZWJNRDQ3S1RUMGQ0a0ptSFpmRHVqSVFpaHBYcG5pdFFsM3ZBVUpJNHJIczVKdzZNZndHc0FzVEY1cUd0aWM?oc=5\" target=\"_blank\">الأمم المتحدة: قرار الاحتلال قطع الكهرباء والمياه عن منشآت الأونروا في القدس انتهاك خطير</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سانا</font>",
-            "date_modified": "2026-01-01T08:00:00.000Z",
-            "author": {
-                "name": "سانا"
-            }
-        },
-        {
-            "id": "21a1e1cc3e05a092b756fccc7c569c39c778e254c5845610954a7a154a10baab",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5\" target=\"_blank\">الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
-            "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5",
-            "title": "الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026 - بوابة أخبار اليوم الإلكترونية",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWXEzWGdob1QzdmxPdE56dGszY2NrbS1tcHNuY1FaWkJmS2xwSUFOZDdIX19QQ0tpVklRWnJNODFTQkxZZzM1YkFCOFpTVThmalpQSnVlZndHdFBJNTkybVc2SXdKVHdyeHdybU8wYS1CbGFyVW43SVMyamJFYmoxWHB2NnRJal95cmNQeDBjSHdhcG5QT1F3Skpib3ptR2dZWXVnY0pWWmRZaGxPRXhneU1NMU4zZWZiX1Q3YktWZHYwNTRYSUFIakdaX3hhaWNNWW9tY1VGSXdYNFQtTFNRZFo5TXlxNGN4eDBQQTdtN3lid19tdFZvNXZINEVrek80Ti1TV2RFdnN0MnEzYzFNbllLZV81R1ZNbEQwWl9BTUxLaDlZcXRBbWllemVtWEh6RVFRVVRDNXNsTWt3cFZMYnk1UU5aZk9nQW5vWnNyREcyNVFhZjVURUFuNnBsQWROZzdET1IzZjBWdw?oc=5\" target=\"_blank\">الأونروا: 11.9 مليون دولار احتياجات اللاجئين الفلسطينيين في الأردن لعام 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
-            "date_modified": "2025-12-29T08:00:00.000Z",
-            "author": {
-                "name": "بوابة أخبار اليوم الإلكترونية"
             }
         }
     ]

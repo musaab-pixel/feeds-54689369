@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "c34572e214898017a427b434e8ecfed314ac58f1f4134ca34ba2f56e2a5974b3",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Was Israel und Palästina von Nordirland über einen Friedensprozess lernen können</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-22T13:20:24+02:00\" title=\"Donnerstag, 22 Oktober 2026 - 13:20\" class=\"datetime\">Do. 22 Okt 2026 - 13:20</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/was-israel-und-palaestina-von-nordirland-ueber-einen-friedensprozess-lernen-koennen",
+            "title": "Was Israel und Palästina von Nordirland über einen Friedensprozess lernen können",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Was Israel und Palästina von Nordirland über einen Friedensprozess lernen können</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-22T13:20:24+02:00\" title=\"Donnerstag, 22 Oktober 2026 - 13:20\" class=\"datetime\">Do. 22 Okt 2026 - 13:20</time>\n</span>\n",
+            "date_modified": "2026-10-22T11:20:24.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "950f93284ea812f382ed1e1c3b4a60a0da9dfa4fc82a85a66ef430fa2924676e",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-16T16:02:42+02:00\" title=\"Freitag, 16 Oktober 2026 - 16:02\" class=\"datetime\">Fr. 16 Okt 2026 - 16:02</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/referent-mwdiv-personalentwicklung-und-kompetenzmanagement-im-bereich-personal-0",
