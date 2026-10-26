@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 26 Oct 2026 08:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 08:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على خيمة نازحين غربي…]]></title>
+            <link>https://t.me/aljazeeraBrk/241655</link>
+            <guid isPermaLink="false">9f2bb248eae407d49ed43fe319210e29a229e2d057494a5adb296edb4605015f</guid>
+            <pubDate>Mon, 26 Oct 2026 08:35:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على خيمة نازحين غربي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على خيمة نازحين غربي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[العاهل الأردني: قلنا إن الإرهابيين لن يفلتوا من العقاب ولن يفلت أي صاحب فكر…]]></title>
             <link>https://t.me/aljazeeraBrk/241654</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 24 Oct 2026 04:53:02 GMT</pubDate>
             <description><![CDATA[رئيس الأركان الإيراني: تصريحات ترمب المتناقضة عن النووي الإيراني هي لخداع الرأي العام العالمي والأمريكي]]></description>
             <content:encoded><![CDATA[رئيس الأركان الإيراني: تصريحات ترمب المتناقضة عن النووي الإيراني هي لخداع الرأي العام العالمي والأمريكي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس أركان القوات المسلحة الإيرانية: لن نسمح للسفن الحربية الأمريكية بدخول…]]></title>
-            <link>https://t.me/aljazeeraBrk/241389</link>
-            <guid isPermaLink="false">25364b6b753f9eb4e615be2c56cab1bdec8d5e4d5fcc19c528cf3ca2e8c600ab</guid>
-            <pubDate>Sat, 24 Oct 2026 04:39:02 GMT</pubDate>
-            <description><![CDATA[رئيس أركان القوات المسلحة الإيرانية: لن نسمح للسفن الحربية الأمريكية بدخول الخليج مجددا]]></description>
-            <content:encoded><![CDATA[رئيس أركان القوات المسلحة الإيرانية: لن نسمح للسفن الحربية الأمريكية بدخول الخليج مجددا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
