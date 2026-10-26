@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 26 Oct 2026 16:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 16:49:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة مقاومة الجدار والاستيطان: 13 اعتداء للاحتلال والمستوطنين على المزارعين في…]]></title>
+            <link>https://t.me/aljazeeraBrk/241732</link>
+            <guid isPermaLink="false">62a7e4526c4d4f220e5012bc6c54366ec2b26a193545d345628147dcf4502e14</guid>
+            <pubDate>Mon, 26 Oct 2026 16:38:03 GMT</pubDate>
+            <description><![CDATA[هيئة مقاومة الجدار والاستيطان: 13 اعتداء للاحتلال والمستوطنين على المزارعين في 4 محافظات بالضفة الغربية اليوم]]></description>
+            <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: 13 اعتداء للاحتلال والمستوطنين على المزارعين في 4 محافظات بالضفة الغربية اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أردوغان: تركيا لا تسعى لتحقيق مكاسب على حساب أي طرف في شرق المتوسط]]></title>
             <link>https://t.me/aljazeeraBrk/241731</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 24 Oct 2026 11:18:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية الخليل للجزيرة: رد فعل الاحتلال تجاه المدينة غير مبرر وقد تم إغلاق مئات المصانع فيها]]></description>
             <content:encoded><![CDATA[رئيس بلدية الخليل للجزيرة: رد فعل الاحتلال تجاه المدينة غير مبرر وقد تم إغلاق مئات المصانع فيها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس بلدية الخليل للجزيرة: لا يستطيع أي من سكان الخليل الدخول إليها أو الخروج…]]></title>
-            <link>https://t.me/aljazeeraBrk/241427</link>
-            <guid isPermaLink="false">13125db4ebe2138239b8dcc8edeb7c1b75943ceeba5f44c3e3b712155a6130f9</guid>
-            <pubDate>Sat, 24 Oct 2026 11:17:03 GMT</pubDate>
-            <description><![CDATA[رئيس بلدية الخليل للجزيرة: لا يستطيع أي من سكان الخليل الدخول إليها أو الخروج منها بعد قرار الاحتلال إغلاقها]]></description>
-            <content:encoded><![CDATA[رئيس بلدية الخليل للجزيرة: لا يستطيع أي من سكان الخليل الدخول إليها أو الخروج منها بعد قرار الاحتلال إغلاقها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
