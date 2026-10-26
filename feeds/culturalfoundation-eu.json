@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "ab9f20bc8d8f3cc32c18148ed22ce6189cebccbc9e650717202a104c12b69727",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/ostkreuz_wastunwir/\">Through the Lens of Change: Ostkreuz on Photography in Transformative Times</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/ostkreuz_wastunwir/",
+            "title": "Through the Lens of Change: Ostkreuz on Photography in Transformative Times",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/ostkreuz_wastunwir/\">Through the Lens of Change: Ostkreuz on Photography in Transformative Times</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-10-26T16:10:46.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "73472a9d61fc3d25316c0d4fb00697e84bd35314360a6dc9d75995d670d68cec",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/culture-helps-solidarity-caring-for-those-who-care/\">Culture Helps Solidarity: Caring For Those Who Care</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/culture-helps-solidarity-caring-for-those-who-care/",
