@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 14:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 14:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[لجنة الانتخابات المركزية الإسرائيلية: قررنا عدم تمديد ساعات التصويت في هذه…]]></title>
+            <link>https://t.me/aljazeeraBrk/241844</link>
+            <guid isPermaLink="false">31445ddeaee2b6da0d349be8887f95b2e7ada9fc1ea440a8fd60c65022226b5a</guid>
+            <pubDate>Tue, 27 Oct 2026 14:10:02 GMT</pubDate>
+            <description><![CDATA[لجنة الانتخابات المركزية الإسرائيلية: قررنا عدم تمديد ساعات التصويت في هذه المرحلة وسنجري تقييما إضافيا لاحقا]]></description>
+            <content:encoded><![CDATA[لجنة الانتخابات المركزية الإسرائيلية: قررنا عدم تمديد ساعات التصويت في هذه المرحلة وسنجري تقييما إضافيا لاحقا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الهلال الأحمر الفلسطيني: ٣ إصابات إثر اعتداء قوات الاحتلال عليهم في منطقة الفحص…]]></title>
             <link>https://t.me/aljazeeraBrk/241843</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 16:09:02 GMT</pubDate>
             <description><![CDATA[ترمب: لن تكون هناك ضربة على إيران اليوم]]></description>
             <content:encoded><![CDATA[ترمب: لن تكون هناك ضربة على إيران اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: لن تكون هناك ضربة على إيران الليلة]]></title>
-            <link>https://t.me/aljazeeraBrk/241555</link>
-            <guid isPermaLink="false">5a5da1fc2f5e5ba7355bf65dfeeb13ba7ecce5f2f012b6cd5ce0ab261b9a2ad2</guid>
-            <pubDate>Sun, 25 Oct 2026 16:08:02 GMT</pubDate>
-            <description><![CDATA[ترمب: لن تكون هناك ضربة على إيران الليلة]]></description>
-            <content:encoded><![CDATA[ترمب: لن تكون هناك ضربة على إيران الليلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
