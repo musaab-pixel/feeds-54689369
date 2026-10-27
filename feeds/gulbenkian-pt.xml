@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 26 Oct 2026 07:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 10:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -1620,6 +1620,726 @@
 <p class="tw-text-xs tw-mb-0">
 		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/FCG-Salavisa_2026_Web_1200x900-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apoios Apoio a Think Tanks Portugueses Apoio a projetos de think tanks portugueses que contribuam para a produção e disseminação de conhecimento independente sobre assuntos internacionais. até 17 nov 2026 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/apoio-a-think-tanks-portugueses/</link>
+            <guid isPermaLink="false">8280be49eacac0d293d700cd8be1f4e42ab5ef8b7feaf4e510df4ff06554812f</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Num contexto internacional marcado por profundas transformações geopolíticas, económicas, tecnológicas e sociais, importa reforçar a produção e disseminação de conhecimento independente sobre assuntos internacionais, a análise crítica de políticas públicas e o debate público informado.</p>
+<p>Os think tanks têm um papel relevante neste esforço. Articulam investigação aplicada, aconselhamento em políticas públicas e autonomia crítica, e aproximam o conhecimento especializado dos decisores públicos, da sociedade civil e dos cidadãos.</p>
+<p>O concurso enquadra-se na visão estratégica da Fundação Gulbenkian para 2023–2027, que privilegia a promoção do conhecimento, a participação da sociedade civil, a defesa dos valores das democracias liberais e a criação de diálogos que contrariem a polarização crescente.</p>
+<p>O concurso abrange quatro dimensões dos assuntos internacionais. A primeira é a integração europeia e o papel da União Europeia. A segunda são os desafios globais e o multilateralismo. A terceira é a dimensão atlântica, elemento estruturante da posição internacional de Portugal. A quarta é o espaço de língua portuguesa, enquanto espaço de concertação político-diplomática, cooperação e circulação de conhecimento.</p>
+<p>A edição de 2026 destina-se a entidades portuguesas e tem como objetivo fortalecer o setor em Portugal.</p>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Os projetos apoiados devem estar executados até 15 de setembro de 2027.</p>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Podem candidatar-se organizações cuja missão e atividade regular incluam, de forma relevante, a produção de investigação ou conhecimento aplicado, a análise de políticas públicas, a elaboração de recomendações dirigidas a decisores públicos ou institucionais ou a promoção de debate público informado sobre matérias de interesse coletivo, e que:</p>
+<ul class="list-format-bar">
+	<li>Sejam pessoas coletivas de direito privado sem fins lucrativos;</li>
+	<li>Tenham sede em Portugal;</li>
+	<li>Estejam legalmente constituídas e em funcionamento em Portugal;</li>
+	<li>Tenham a situação regularizada junto da Segurança Social e da Autoridade Tributária.</li>
+</ul>
+<p>Não são elegíveis partidos políticos, entidades sindicais ou patronais, nem entidades cuja atividade principal seja a representação de interesses económicos, profissionais, setoriais ou corporativos.</p>
+<p>As candidaturas serão automaticamente excluídas se as organizações:</p>
+<ul class="list-format-bar">
+	<li>Falharem na verificação de idoneidade e avaliação de risco (branqueamento de capitais, financiamento do terrorismo, corrupção);</li>
+	<li>Estiverem abrangidas por sanções ou medidas restritivas da UE/ONU;</li>
+	<li>Não entregarem a totalidade das informações ou documentos obrigatórios.</li>
+</ul>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Só serão aceites candidaturas online e em português;</li>
+	<li>Faça o seu registo na plataforma <a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2F">MyGulbenkian</a>;</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade no Regulamento (disponível na zona de Documentos) e recomendamos também a consulta das Perguntas Frequentes;</li>
+	<li>Só será possível submeter a candidatura depois de preenchidos todos os campos obrigatórios do formulário. No final, clicar no botão “submeter candidatura”;</li>
+	<li>De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>
+<h2 class="fcg-section__title" id="perguntas-frequentes">
+			<span>Perguntas Frequentes</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quem-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quem pode candidatar-se?				</h4>
+<p>Pessoas coletivas de direito privado, sem fins lucrativos, legalmente constituídas, com sede e em funcionamento em Portugal, que desenvolvam atividade regular de think tank e cumpram as restantes condições de admissibilidade.</p>
+<p>Não são elegíveis:</p>
+<ul class="list-format-bar">
+	<li>pessoas singulares;</li>
+	<li>entidades com fins lucrativos;</li>
+	<li>partidos políticos e outras organizações político-partidárias;</li>
+	<li>entidades sindicais ou patronais;</li>
+	<li>entidades cuja atividade principal seja a representação de interesses económicos, profissionais, setoriais ou corporativos;</li>
+	<li>entidades que não constituam uma pessoa coletiva autónoma.</li>
+</ul>
+<p>(Artigo 3.º, n.os 1 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-se-entende-por-atividade-de-think-tank">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que se entende por atividade de think tank?				</h4>
+<p>A missão e a atividade regular da entidade devem incluir, de forma relevante, pelo menos uma das seguintes atividades:</p>
+<ul class="list-format-bar">
+	<li>produção de investigação ou conhecimento aplicado;</li>
+	<li>análise de políticas públicas;</li>
+	<li>elaboração de recomendações dirigidas a decisores públicos ou institucionais;</li>
+	<li>promoção de debate público informado sobre matérias de interesse coletivo.</li>
+</ul>
+<p>(Artigo 3.º, n.º 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-entidade-tem-de-estar-constituida-como-think-tank-nos-estatutos">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A entidade tem de estar constituída como think tank nos estatutos?				</h4>
+<p>Não. O Regulamento não exige essa qualificação estatutária. O que conta é a missão e a atividade regular da entidade.</p>
+<p>(Artigo 3.º, n.os 1 e 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-producao-de-conhecimento-tem-de-ser-a-missao-principal-da-entidade">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A produção de conhecimento tem de ser a missão principal da entidade?				</h4>
+<p>Não. O Regulamento não exige que seja a missão principal. Exige que a missão e a atividade regular incluam, de forma relevante, pelo menos uma das atividades referidas acima.</p>
+<p>(Artigo 3.º, n.os 1 e 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="uma-associacao-ou-fundacao-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Uma associação ou fundação pode candidatar-se?				</h4>
+<p>Sim, desde que cumpra as condições de admissibilidade.</p>
+<p>(Artigo 3.º, n.os 1 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="uma-universidade-ou-um-centro-de-investigacao-universitario-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Uma universidade ou um centro de investigação universitário pode candidatar-se?				</h4>
+<p>Só se for uma pessoa coletiva de direito privado, sem fins lucrativos, que cumpra as restantes condições de admissibilidade. Entidades de direito público não são elegíveis. Um centro ou unidade sem personalidade jurídica própria não pode candidatar-se autonomamente, mas pode participar num projeto como parceiro de uma entidade elegível.</p>
+<p>(Artigo 3.º, n.os 1 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="uma-entidade-sediada-fora-de-portugal-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Uma entidade sediada fora de Portugal pode candidatar-se?				</h4>
+<p>Não. A entidade tem de ter sede em Portugal e estar legalmente constituída e em funcionamento no país. No caso de uma organização europeia com secções nacionais, a candidatura deve ser apresentada por uma secção nacional que seja uma pessoa coletiva autónoma elegível.</p>
+<p>(Artigo 3.º, n.os 1, 3 e 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="cada-entidade-pode-apresentar-mais-do-que-uma-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Cada entidade pode apresentar mais do que uma candidatura?				</h4>
+<p>Não. Cada entidade pode apresentar apenas uma candidatura.</p>
+<p>(Artigo 3.º, n.º 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-candidatura-pode-ser-apresentada-em-parceria">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A candidatura pode ser apresentada em parceria?				</h4>
+<p>Sim, desde que seja apresentada por uma única entidade elegível. Essa entidade assume perante a Fundação Gulbenkian a responsabilidade pela candidatura e pela execução do projeto. O papel das outras organizações deve ser descrito na candidatura sempre que seja relevante para a metodologia, as atividades, a equipa ou o orçamento.</p>
+<p>(Artigos 3.º e 5.º; artigo 10.º, n.º 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-parceiros-tem-de-estar-identificados-na-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os parceiros têm de estar identificados na candidatura?				</h4>
+<p>Sim. Os parceiros que participem na execução devem ser identificados, com indicação do respetivo contributo. A inclusão ou substituição de um parceiro depois da aprovação pode constituir uma alteração substancial ao projeto. Nesse caso, depende de autorização prévia da Fundação Gulbenkian.</p>
+<p>(Artigo 5.º, n.os 3 a 5; artigo 11.º, n.º 1, alínea c))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-necessario-apresentar-cartas-de-compromisso-dos-parceiros">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É necessário apresentar cartas de compromisso dos parceiros?				</h4>
+<p>Não. O Regulamento não as inclui entre os documentos obrigatórios. A Fundação Gulbenkian pode, no entanto, solicitar esclarecimentos ou documentos complementares durante a análise.</p>
+<p>(Artigo 5.º, n.os 3, 5 e 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-projetos-podem-ser-apoiados">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que projetos podem ser apoiados?				</h4>
+<p>São suscetíveis de apoio projetos que incluam uma ou mais das seguintes componentes:</p>
+<ul class="list-format-bar">
+	<li>investigação aplicada;</li>
+	<li>estudos e relatórios;</li>
+	<li><em>policy papers</em> e recomendações de políticas públicas;</li>
+	<li>observatórios, plataformas ou instrumentos de monitorização;</li>
+	<li>ações de divulgação e disseminação de conhecimento;</li>
+	<li>iniciativas de comunicação, participação cívica, conferências e debate público relacionadas com os objetivos do concurso.</li>
+</ul>
+<p>(Artigo 2.º, n.º 3)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="um-projeto-centrado-em-portugal-ou-noutro-unico-pais-pode-ser-elegivel">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Um projeto centrado em Portugal ou noutro único país pode ser elegível?				</h4>
+<p>Sim, desde que tenha uma dimensão internacional clara e contribua para os objetivos do concurso. Não é obrigatório que o projeto envolva vários países.</p>
+<p>(Preâmbulo; artigo 2.º, n.os 1 a 3)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-fundacao-gulbenkian-privilegia-determinados-temas-ou-metodologias">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A Fundação Gulbenkian privilegia determinados temas ou metodologias?				</h4>
+<p>Não existe uma abordagem preferencial. O projeto deve contribuir para um ou mais objetivos do concurso, com uma metodologia clara, adequada aos objetivos, coerente com o plano de atividades e exequível.</p>
+<p>O preâmbulo identifica quatro dimensões a título orientador: a integração europeia, os desafios globais e o multilateralismo, a dimensão atlântica e o espaço de língua portuguesa. Não são uma lista fechada nem critérios autónomos de elegibilidade ou avaliação.<br>
+(Preâmbulo; artigo 2.º, n.os 2 e 3; artigo 6.º, n.º 1)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="podem-ser-apoiados-projetos-ja-existentes-ou-ja-em-curso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Podem ser apoiados projetos já existentes ou já em curso?				</h4>
+<p>Sim. O apoio pode financiar novas atividades ou a expansão de atividades em curso, desde que a candidatura identifique claramente a componente a financiar pela Fundação Gulbenkian. Só são elegíveis despesas realizadas durante o período de execução aprovado. As despesas anteriores à data de início aprovada não são elegíveis nem podem ser financiadas retroativamente.</p>
+<p>(Artigo 2.º, n.º 4; artigo 4.º, n.º 6, alínea b), e n.º 8, alínea f); artigo 10.º, n.º 1)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="existe-uma-duracao-minima-ou-maxima">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Existe uma duração mínima ou máxima?				</h4>
+<p>Não. O Regulamento não estabelece duração mínima nem máxima. As datas de início e conclusão são propostas na candidatura e fixadas no contrato de atribuição. Em todo o caso, o projeto tem de estar integralmente executado até 15 de setembro de 2027 e o relatório de execução tem de ser entregue até 15 de outubro de 2027.</p>
+<p>(Artigo 2.º, n.º 4; artigo 10.º, n.º 1)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-sao-determinados-o-numero-de-projetos-e-o-montante-atribuido">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como são determinados o número de projetos e o montante atribuído?				</h4>
+<p>O número de projetos a apoiar não está definido à partida. O número e o montante atribuído a cada projeto dependem da qualidade e seriação das candidaturas, da recomendação do júri, do orçamento proposto e da dotação disponível. A Fundação Gulbenkian pode não utilizar integralmente a dotação.</p>
+<p>(Artigo 4.º, n.os 3 e 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-obrigatorio-apresentar-cofinanciamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É obrigatório apresentar cofinanciamento?				</h4>
+<p>Não. Se o projeto tiver outras fontes de financiamento, estas devem ser identificadas na candidatura. As despesas financiadas por outras entidades só são elegíveis se forem identificadas como cofinanciamento e aceites pela Fundação Gulbenkian.</p>
+<p>(Artigo 4.º, n.º 6, alínea e), e n.º 8, alínea h); artigo 5.º, n.º 3, alínea d))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-deve-ser-estruturado-o-orcamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como deve ser estruturado o orçamento?				</h4>
+<p>O orçamento deve:</p>
+<ul class="list-format-bar">
+	<li>discriminar os custos por categoria de despesa;</li>
+	<li>identificar as fontes próprias e complementares;</li>
+	<li>indicar os custos a financiar com o apoio da Fundação Gulbenkian.</li>
+</ul>
+<p>Os custos devem estar diretamente relacionados com o projeto, ser necessários e ser coerentes com as atividades e os resultados esperados.</p>
+<p>(Artigo 4.º, n.º 6; artigo 5.º, n.º 3, alínea d); artigo 6.º, n.º 1, alínea d))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-devem-ser-apresentados-os-custos-de-pessoal">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como devem ser apresentados os custos de pessoal?				</h4>
+<p>Com detalhe suficiente para que se perceba a relação com o projeto e o respetivo cálculo. Devem indicar:</p>
+<ul class="list-format-bar">
+	<li>as funções ou perfis;</li>
+	<li>o período ou nível de afetação;</li>
+	<li>o custo;</li>
+	<li>os encargos sociais incluídos.</li>
+</ul>
+<p>Pode ser usada a unidade mais adequada: por pessoa, horas, dias ou percentagem de afetação.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea a); artigo 5.º, n.º 3, alíneas d) e e); artigo 6.º, n.º 1, alíneas a) e d))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-despesas-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que despesas são elegíveis?				</h4>
+<p>São elegíveis as despesas que cumpram cumulativamente estas condições:</p>
+<ul class="list-format-bar">
+	<li>estejam diretamente relacionadas com o projeto aprovado e sejam necessárias à sua execução;</li>
+	<li>sejam realizadas durante o período de execução do projeto;</li>
+	<li>estejam previstas no orçamento aprovado;</li>
+	<li>estejam registadas na contabilidade do beneficiário e suportadas por documentos comprovativos;</li>
+	<li>não sejam financiadas por outro mecanismo, salvo cofinanciamento identificado na candidatura.</li>
+</ul>
+<p>Podem ser consideradas elegíveis, designadamente, despesas com:</p>
+<ul class="list-format-bar">
+	<li>recursos humanos afetos ao projeto;</li>
+	<li>contratação de serviços técnicos ou especializados;</li>
+	<li>recolha, tratamento e análise de dados;</li>
+	<li>produção de estudos, relatórios, publicações e outros conteúdos;</li>
+	<li>organização de debates, conferências, sessões públicas ou outras iniciativas de disseminação;</li>
+	<li>comunicação e divulgação do projeto e dos seus resultados;</li>
+	<li>deslocações e estadias indispensáveis à execução do projeto;</li>
+	<li>aquisição ou utilização de ferramentas e recursos diretamente necessários à execução do projeto;</li>
+	<li>custos administrativos diretamente imputáveis ao projeto, desde que devidamente fundamentados e proporcionais.</li>
+</ul>
+<p>(Artigo 4.º, n.os 6 e 7)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-salarios-e-encargos-sociais-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os salários e encargos sociais são elegíveis?				</h4>
+<p>Sim, na proporção da afetação ao projeto e nas condições gerais aplicáveis a todas as despesas.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea a))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="as-deslocacoes-e-estadias-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+As deslocações e estadias são elegíveis?				</h4>
+<p>Sim, quando sejam indispensáveis à execução do projeto e cumpram as condições gerais aplicáveis a todas as despesas.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea g))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-contratacao-de-servicos-tecnicos-ou-especializados-e-elegivel">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A contratação de serviços técnicos ou especializados é elegível?				</h4>
+<p>Sim, nas condições gerais aplicáveis a todas as despesas.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea b))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-custos-indiretos-overheads-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os custos indiretos (overheads) são elegíveis?				</h4>
+<p>Podem ser elegíveis os custos administrativos diretamente imputáveis ao projeto, desde que devidamente fundamentados e proporcionais. A imputação deve resultar de um critério objetivo e verificável, explicado no orçamento, refletido nos registos contabilísticos e suportado por documentos comprovativos. Não são elegíveis despesas gerais sem relação comprovada com o projeto.</p>
+<p>(Artigo 4.º, n.º 6, alíneas a), c) e d), e n.º 7, alínea i))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="pode-ser-aplicada-uma-percentagem-fixa-de-overheads-por-exemplo-20">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Pode ser aplicada uma percentagem fixa de overheads, por exemplo 20%?				</h4>
+<p>O Regulamento não prevê uma percentagem fixa nem admite uma taxa global sem fundamentação. Uma percentagem só pode ser aceite se cumprir três condições:</p>
+<ul class="list-format-bar">
+	<li>corresponder a custos efetivamente suportados e diretamente relacionados com o projeto;</li>
+	<li>resultar de um critério objetivo e verificável;</li>
+	<li>ser fundamentada e proporcional.</li>
+</ul>
+<p>(Artigo 4.º, n.º 6, alíneas a), c) e d), e n.º 7, alínea i))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-documentos-devem-acompanhar-a-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que documentos devem acompanhar a candidatura?				</h4>
+<ul class="list-format-bar">
+	<li>Formulário de candidatura integralmente preenchido.</li>
+	<li>Memória descritiva, com um máximo de cinco páginas.</li>
+	<li>Plano de atividades e calendarização.</li>
+	<li>Orçamento detalhado.</li>
+	<li>Identificação da equipa e notas curriculares.</li>
+	<li>Estatutos atualizados.</li>
+	<li>Relatório e contas mais recente.</li>
+	<li>Documentos e informações indicados no formulário para verificação da identidade, idoneidade e situação fiscal e contributiva.</li>
+	<li>Declaração de compromisso de honra.</li>
+</ul>
+<p>A Fundação Gulbenkian pode solicitar elementos complementares.</p>
+<p>(Artigo 5.º, n.os 3, 5 e 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-deve-incluir-a-memoria-descritiva">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que deve incluir a memória descritiva?				</h4>
+<p>A memória descritiva tem um máximo de cinco páginas. Deve identificar, pelo menos, o enquadramento e a relevância do projeto, os objetivos, a metodologia, as atividades, os resultados e produtos esperados, os destinatários, a estratégia de disseminação ou comunicação e o impacto esperado.</p>
+<p>(Artigo 5.º, n.os 3 e 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="existem-modelos-ou-requisitos-de-formatacao-obrigatorios">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Existem modelos ou requisitos de formatação obrigatórios?				</h4>
+<p>Não existem modelos obrigatórios para a memória descritiva, o cronograma ou o orçamento. Podem ser usados modelos próprios, desde que contenham toda a informação exigida. O único limite fixado pelo Regulamento são as cinco páginas da memória descritiva. Devem também ser respeitadas as instruções técnicas do formulário de candidatura.</p>
+<p>(Artigo 5.º, n.os 2 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-candidatura-pode-ser-apresentada-em-ingles">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A candidatura pode ser apresentada em inglês?				</h4>
+<p>Não. As candidaturas são apresentadas em língua portuguesa.</p>
+<p>(Artigo 5.º, n.º 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-anexos-podem-ser-apresentados-em-ingles">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os anexos podem ser apresentados em inglês?				</h4>
+<p>Os documentos elaborados para o concurso devem ser apresentados em português. Se um documento preexistente estiver disponível apenas em inglês, devem ser seguidas as instruções do formulário. Em caso de dúvida sobre a necessidade de tradução, deve ser pedida confirmação prévia para <a href="/cdn-cgi/l/email-protection#4a3a2b3823243e0a2d3f26282f2421232b24643a3e"><span class="__cf_email__" data-cfemail="1c6c7d6e7572685c7b69707e797277757d72326c68">[email&nbsp;protected]</span></a>.</p>
+<p>(Artigo 5.º, n.º 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-sao-avaliadas-as-candidaturas">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como são avaliadas as candidaturas?				</h4>
+<p>As candidaturas admitidas são avaliadas com base em quatro critérios, cada um classificado de 0 a 100 pontos. A classificação final corresponde à média ponderada:</p>
+<ul class="list-format-bar">
+	<li>Qualidade e robustez metodológica da proposta (30%)</li>
+	<li>Contributo para o fortalecimento dos think tanks portugueses e para a produção de conhecimento sobre assuntos internacionais (30%)</li>
+	<li>Impacto esperado e capacidade de disseminação (25%)</li>
+	<li>Adequação do orçamento (15%)</li>
+</ul>
+<p>(Artigo 6.º, n.os 1 a 3)</p>]]></description>
+            <content:encoded><![CDATA[<p>Num contexto internacional marcado por profundas transformações geopolíticas, económicas, tecnológicas e sociais, importa reforçar a produção e disseminação de conhecimento independente sobre assuntos internacionais, a análise crítica de políticas públicas e o debate público informado.</p>
+<p>Os think tanks têm um papel relevante neste esforço. Articulam investigação aplicada, aconselhamento em políticas públicas e autonomia crítica, e aproximam o conhecimento especializado dos decisores públicos, da sociedade civil e dos cidadãos.</p>
+<p>O concurso enquadra-se na visão estratégica da Fundação Gulbenkian para 2023–2027, que privilegia a promoção do conhecimento, a participação da sociedade civil, a defesa dos valores das democracias liberais e a criação de diálogos que contrariem a polarização crescente.</p>
+<p>O concurso abrange quatro dimensões dos assuntos internacionais. A primeira é a integração europeia e o papel da União Europeia. A segunda são os desafios globais e o multilateralismo. A terceira é a dimensão atlântica, elemento estruturante da posição internacional de Portugal. A quarta é o espaço de língua portuguesa, enquanto espaço de concertação político-diplomática, cooperação e circulação de conhecimento.</p>
+<p>A edição de 2026 destina-se a entidades portuguesas e tem como objetivo fortalecer o setor em Portugal.</p>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Os projetos apoiados devem estar executados até 15 de setembro de 2027.</p>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Podem candidatar-se organizações cuja missão e atividade regular incluam, de forma relevante, a produção de investigação ou conhecimento aplicado, a análise de políticas públicas, a elaboração de recomendações dirigidas a decisores públicos ou institucionais ou a promoção de debate público informado sobre matérias de interesse coletivo, e que:</p>
+<ul class="list-format-bar">
+	<li>Sejam pessoas coletivas de direito privado sem fins lucrativos;</li>
+	<li>Tenham sede em Portugal;</li>
+	<li>Estejam legalmente constituídas e em funcionamento em Portugal;</li>
+	<li>Tenham a situação regularizada junto da Segurança Social e da Autoridade Tributária.</li>
+</ul>
+<p>Não são elegíveis partidos políticos, entidades sindicais ou patronais, nem entidades cuja atividade principal seja a representação de interesses económicos, profissionais, setoriais ou corporativos.</p>
+<p>As candidaturas serão automaticamente excluídas se as organizações:</p>
+<ul class="list-format-bar">
+	<li>Falharem na verificação de idoneidade e avaliação de risco (branqueamento de capitais, financiamento do terrorismo, corrupção);</li>
+	<li>Estiverem abrangidas por sanções ou medidas restritivas da UE/ONU;</li>
+	<li>Não entregarem a totalidade das informações ou documentos obrigatórios.</li>
+</ul>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Só serão aceites candidaturas online e em português;</li>
+	<li>Faça o seu registo na plataforma <a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2F">MyGulbenkian</a>;</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade no Regulamento (disponível na zona de Documentos) e recomendamos também a consulta das Perguntas Frequentes;</li>
+	<li>Só será possível submeter a candidatura depois de preenchidos todos os campos obrigatórios do formulário. No final, clicar no botão “submeter candidatura”;</li>
+	<li>De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>
+<h2 class="fcg-section__title" id="perguntas-frequentes">
+			<span>Perguntas Frequentes</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="quem-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Quem pode candidatar-se?				</h4>
+<p>Pessoas coletivas de direito privado, sem fins lucrativos, legalmente constituídas, com sede e em funcionamento em Portugal, que desenvolvam atividade regular de think tank e cumpram as restantes condições de admissibilidade.</p>
+<p>Não são elegíveis:</p>
+<ul class="list-format-bar">
+	<li>pessoas singulares;</li>
+	<li>entidades com fins lucrativos;</li>
+	<li>partidos políticos e outras organizações político-partidárias;</li>
+	<li>entidades sindicais ou patronais;</li>
+	<li>entidades cuja atividade principal seja a representação de interesses económicos, profissionais, setoriais ou corporativos;</li>
+	<li>entidades que não constituam uma pessoa coletiva autónoma.</li>
+</ul>
+<p>(Artigo 3.º, n.os 1 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-se-entende-por-atividade-de-think-tank">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que se entende por atividade de think tank?				</h4>
+<p>A missão e a atividade regular da entidade devem incluir, de forma relevante, pelo menos uma das seguintes atividades:</p>
+<ul class="list-format-bar">
+	<li>produção de investigação ou conhecimento aplicado;</li>
+	<li>análise de políticas públicas;</li>
+	<li>elaboração de recomendações dirigidas a decisores públicos ou institucionais;</li>
+	<li>promoção de debate público informado sobre matérias de interesse coletivo.</li>
+</ul>
+<p>(Artigo 3.º, n.º 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-entidade-tem-de-estar-constituida-como-think-tank-nos-estatutos">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A entidade tem de estar constituída como think tank nos estatutos?				</h4>
+<p>Não. O Regulamento não exige essa qualificação estatutária. O que conta é a missão e a atividade regular da entidade.</p>
+<p>(Artigo 3.º, n.os 1 e 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-producao-de-conhecimento-tem-de-ser-a-missao-principal-da-entidade">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A produção de conhecimento tem de ser a missão principal da entidade?				</h4>
+<p>Não. O Regulamento não exige que seja a missão principal. Exige que a missão e a atividade regular incluam, de forma relevante, pelo menos uma das atividades referidas acima.</p>
+<p>(Artigo 3.º, n.os 1 e 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="uma-associacao-ou-fundacao-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Uma associação ou fundação pode candidatar-se?				</h4>
+<p>Sim, desde que cumpra as condições de admissibilidade.</p>
+<p>(Artigo 3.º, n.os 1 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="uma-universidade-ou-um-centro-de-investigacao-universitario-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Uma universidade ou um centro de investigação universitário pode candidatar-se?				</h4>
+<p>Só se for uma pessoa coletiva de direito privado, sem fins lucrativos, que cumpra as restantes condições de admissibilidade. Entidades de direito público não são elegíveis. Um centro ou unidade sem personalidade jurídica própria não pode candidatar-se autonomamente, mas pode participar num projeto como parceiro de uma entidade elegível.</p>
+<p>(Artigo 3.º, n.os 1 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="uma-entidade-sediada-fora-de-portugal-pode-candidatar-se">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Uma entidade sediada fora de Portugal pode candidatar-se?				</h4>
+<p>Não. A entidade tem de ter sede em Portugal e estar legalmente constituída e em funcionamento no país. No caso de uma organização europeia com secções nacionais, a candidatura deve ser apresentada por uma secção nacional que seja uma pessoa coletiva autónoma elegível.</p>
+<p>(Artigo 3.º, n.os 1, 3 e 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="cada-entidade-pode-apresentar-mais-do-que-uma-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Cada entidade pode apresentar mais do que uma candidatura?				</h4>
+<p>Não. Cada entidade pode apresentar apenas uma candidatura.</p>
+<p>(Artigo 3.º, n.º 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-candidatura-pode-ser-apresentada-em-parceria">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A candidatura pode ser apresentada em parceria?				</h4>
+<p>Sim, desde que seja apresentada por uma única entidade elegível. Essa entidade assume perante a Fundação Gulbenkian a responsabilidade pela candidatura e pela execução do projeto. O papel das outras organizações deve ser descrito na candidatura sempre que seja relevante para a metodologia, as atividades, a equipa ou o orçamento.</p>
+<p>(Artigos 3.º e 5.º; artigo 10.º, n.º 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-parceiros-tem-de-estar-identificados-na-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os parceiros têm de estar identificados na candidatura?				</h4>
+<p>Sim. Os parceiros que participem na execução devem ser identificados, com indicação do respetivo contributo. A inclusão ou substituição de um parceiro depois da aprovação pode constituir uma alteração substancial ao projeto. Nesse caso, depende de autorização prévia da Fundação Gulbenkian.</p>
+<p>(Artigo 5.º, n.os 3 a 5; artigo 11.º, n.º 1, alínea c))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-necessario-apresentar-cartas-de-compromisso-dos-parceiros">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É necessário apresentar cartas de compromisso dos parceiros?				</h4>
+<p>Não. O Regulamento não as inclui entre os documentos obrigatórios. A Fundação Gulbenkian pode, no entanto, solicitar esclarecimentos ou documentos complementares durante a análise.</p>
+<p>(Artigo 5.º, n.os 3, 5 e 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-projetos-podem-ser-apoiados">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que projetos podem ser apoiados?				</h4>
+<p>São suscetíveis de apoio projetos que incluam uma ou mais das seguintes componentes:</p>
+<ul class="list-format-bar">
+	<li>investigação aplicada;</li>
+	<li>estudos e relatórios;</li>
+	<li><em>policy papers</em> e recomendações de políticas públicas;</li>
+	<li>observatórios, plataformas ou instrumentos de monitorização;</li>
+	<li>ações de divulgação e disseminação de conhecimento;</li>
+	<li>iniciativas de comunicação, participação cívica, conferências e debate público relacionadas com os objetivos do concurso.</li>
+</ul>
+<p>(Artigo 2.º, n.º 3)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="um-projeto-centrado-em-portugal-ou-noutro-unico-pais-pode-ser-elegivel">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Um projeto centrado em Portugal ou noutro único país pode ser elegível?				</h4>
+<p>Sim, desde que tenha uma dimensão internacional clara e contribua para os objetivos do concurso. Não é obrigatório que o projeto envolva vários países.</p>
+<p>(Preâmbulo; artigo 2.º, n.os 1 a 3)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-fundacao-gulbenkian-privilegia-determinados-temas-ou-metodologias">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A Fundação Gulbenkian privilegia determinados temas ou metodologias?				</h4>
+<p>Não existe uma abordagem preferencial. O projeto deve contribuir para um ou mais objetivos do concurso, com uma metodologia clara, adequada aos objetivos, coerente com o plano de atividades e exequível.</p>
+<p>O preâmbulo identifica quatro dimensões a título orientador: a integração europeia, os desafios globais e o multilateralismo, a dimensão atlântica e o espaço de língua portuguesa. Não são uma lista fechada nem critérios autónomos de elegibilidade ou avaliação.<br>
+(Preâmbulo; artigo 2.º, n.os 2 e 3; artigo 6.º, n.º 1)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="podem-ser-apoiados-projetos-ja-existentes-ou-ja-em-curso">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Podem ser apoiados projetos já existentes ou já em curso?				</h4>
+<p>Sim. O apoio pode financiar novas atividades ou a expansão de atividades em curso, desde que a candidatura identifique claramente a componente a financiar pela Fundação Gulbenkian. Só são elegíveis despesas realizadas durante o período de execução aprovado. As despesas anteriores à data de início aprovada não são elegíveis nem podem ser financiadas retroativamente.</p>
+<p>(Artigo 2.º, n.º 4; artigo 4.º, n.º 6, alínea b), e n.º 8, alínea f); artigo 10.º, n.º 1)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="existe-uma-duracao-minima-ou-maxima">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Existe uma duração mínima ou máxima?				</h4>
+<p>Não. O Regulamento não estabelece duração mínima nem máxima. As datas de início e conclusão são propostas na candidatura e fixadas no contrato de atribuição. Em todo o caso, o projeto tem de estar integralmente executado até 15 de setembro de 2027 e o relatório de execução tem de ser entregue até 15 de outubro de 2027.</p>
+<p>(Artigo 2.º, n.º 4; artigo 10.º, n.º 1)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-sao-determinados-o-numero-de-projetos-e-o-montante-atribuido">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como são determinados o número de projetos e o montante atribuído?				</h4>
+<p>O número de projetos a apoiar não está definido à partida. O número e o montante atribuído a cada projeto dependem da qualidade e seriação das candidaturas, da recomendação do júri, do orçamento proposto e da dotação disponível. A Fundação Gulbenkian pode não utilizar integralmente a dotação.</p>
+<p>(Artigo 4.º, n.os 3 e 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="e-obrigatorio-apresentar-cofinanciamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+É obrigatório apresentar cofinanciamento?				</h4>
+<p>Não. Se o projeto tiver outras fontes de financiamento, estas devem ser identificadas na candidatura. As despesas financiadas por outras entidades só são elegíveis se forem identificadas como cofinanciamento e aceites pela Fundação Gulbenkian.</p>
+<p>(Artigo 4.º, n.º 6, alínea e), e n.º 8, alínea h); artigo 5.º, n.º 3, alínea d))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-deve-ser-estruturado-o-orcamento">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como deve ser estruturado o orçamento?				</h4>
+<p>O orçamento deve:</p>
+<ul class="list-format-bar">
+	<li>discriminar os custos por categoria de despesa;</li>
+	<li>identificar as fontes próprias e complementares;</li>
+	<li>indicar os custos a financiar com o apoio da Fundação Gulbenkian.</li>
+</ul>
+<p>Os custos devem estar diretamente relacionados com o projeto, ser necessários e ser coerentes com as atividades e os resultados esperados.</p>
+<p>(Artigo 4.º, n.º 6; artigo 5.º, n.º 3, alínea d); artigo 6.º, n.º 1, alínea d))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-devem-ser-apresentados-os-custos-de-pessoal">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como devem ser apresentados os custos de pessoal?				</h4>
+<p>Com detalhe suficiente para que se perceba a relação com o projeto e o respetivo cálculo. Devem indicar:</p>
+<ul class="list-format-bar">
+	<li>as funções ou perfis;</li>
+	<li>o período ou nível de afetação;</li>
+	<li>o custo;</li>
+	<li>os encargos sociais incluídos.</li>
+</ul>
+<p>Pode ser usada a unidade mais adequada: por pessoa, horas, dias ou percentagem de afetação.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea a); artigo 5.º, n.º 3, alíneas d) e e); artigo 6.º, n.º 1, alíneas a) e d))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-despesas-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que despesas são elegíveis?				</h4>
+<p>São elegíveis as despesas que cumpram cumulativamente estas condições:</p>
+<ul class="list-format-bar">
+	<li>estejam diretamente relacionadas com o projeto aprovado e sejam necessárias à sua execução;</li>
+	<li>sejam realizadas durante o período de execução do projeto;</li>
+	<li>estejam previstas no orçamento aprovado;</li>
+	<li>estejam registadas na contabilidade do beneficiário e suportadas por documentos comprovativos;</li>
+	<li>não sejam financiadas por outro mecanismo, salvo cofinanciamento identificado na candidatura.</li>
+</ul>
+<p>Podem ser consideradas elegíveis, designadamente, despesas com:</p>
+<ul class="list-format-bar">
+	<li>recursos humanos afetos ao projeto;</li>
+	<li>contratação de serviços técnicos ou especializados;</li>
+	<li>recolha, tratamento e análise de dados;</li>
+	<li>produção de estudos, relatórios, publicações e outros conteúdos;</li>
+	<li>organização de debates, conferências, sessões públicas ou outras iniciativas de disseminação;</li>
+	<li>comunicação e divulgação do projeto e dos seus resultados;</li>
+	<li>deslocações e estadias indispensáveis à execução do projeto;</li>
+	<li>aquisição ou utilização de ferramentas e recursos diretamente necessários à execução do projeto;</li>
+	<li>custos administrativos diretamente imputáveis ao projeto, desde que devidamente fundamentados e proporcionais.</li>
+</ul>
+<p>(Artigo 4.º, n.os 6 e 7)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-salarios-e-encargos-sociais-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os salários e encargos sociais são elegíveis?				</h4>
+<p>Sim, na proporção da afetação ao projeto e nas condições gerais aplicáveis a todas as despesas.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea a))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="as-deslocacoes-e-estadias-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+As deslocações e estadias são elegíveis?				</h4>
+<p>Sim, quando sejam indispensáveis à execução do projeto e cumpram as condições gerais aplicáveis a todas as despesas.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea g))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-contratacao-de-servicos-tecnicos-ou-especializados-e-elegivel">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A contratação de serviços técnicos ou especializados é elegível?				</h4>
+<p>Sim, nas condições gerais aplicáveis a todas as despesas.</p>
+<p>(Artigo 4.º, n.os 6 e 7, alínea b))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-custos-indiretos-overheads-sao-elegiveis">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os custos indiretos (overheads) são elegíveis?				</h4>
+<p>Podem ser elegíveis os custos administrativos diretamente imputáveis ao projeto, desde que devidamente fundamentados e proporcionais. A imputação deve resultar de um critério objetivo e verificável, explicado no orçamento, refletido nos registos contabilísticos e suportado por documentos comprovativos. Não são elegíveis despesas gerais sem relação comprovada com o projeto.</p>
+<p>(Artigo 4.º, n.º 6, alíneas a), c) e d), e n.º 7, alínea i))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="pode-ser-aplicada-uma-percentagem-fixa-de-overheads-por-exemplo-20">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Pode ser aplicada uma percentagem fixa de overheads, por exemplo 20%?				</h4>
+<p>O Regulamento não prevê uma percentagem fixa nem admite uma taxa global sem fundamentação. Uma percentagem só pode ser aceite se cumprir três condições:</p>
+<ul class="list-format-bar">
+	<li>corresponder a custos efetivamente suportados e diretamente relacionados com o projeto;</li>
+	<li>resultar de um critério objetivo e verificável;</li>
+	<li>ser fundamentada e proporcional.</li>
+</ul>
+<p>(Artigo 4.º, n.º 6, alíneas a), c) e d), e n.º 7, alínea i))</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="que-documentos-devem-acompanhar-a-candidatura">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Que documentos devem acompanhar a candidatura?				</h4>
+<ul class="list-format-bar">
+	<li>Formulário de candidatura integralmente preenchido.</li>
+	<li>Memória descritiva, com um máximo de cinco páginas.</li>
+	<li>Plano de atividades e calendarização.</li>
+	<li>Orçamento detalhado.</li>
+	<li>Identificação da equipa e notas curriculares.</li>
+	<li>Estatutos atualizados.</li>
+	<li>Relatório e contas mais recente.</li>
+	<li>Documentos e informações indicados no formulário para verificação da identidade, idoneidade e situação fiscal e contributiva.</li>
+	<li>Declaração de compromisso de honra.</li>
+</ul>
+<p>A Fundação Gulbenkian pode solicitar elementos complementares.</p>
+<p>(Artigo 5.º, n.os 3, 5 e 6)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="o-que-deve-incluir-a-memoria-descritiva">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+O que deve incluir a memória descritiva?				</h4>
+<p>A memória descritiva tem um máximo de cinco páginas. Deve identificar, pelo menos, o enquadramento e a relevância do projeto, os objetivos, a metodologia, as atividades, os resultados e produtos esperados, os destinatários, a estratégia de disseminação ou comunicação e o impacto esperado.</p>
+<p>(Artigo 5.º, n.os 3 e 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="existem-modelos-ou-requisitos-de-formatacao-obrigatorios">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Existem modelos ou requisitos de formatação obrigatórios?				</h4>
+<p>Não existem modelos obrigatórios para a memória descritiva, o cronograma ou o orçamento. Podem ser usados modelos próprios, desde que contenham toda a informação exigida. O único limite fixado pelo Regulamento são as cinco páginas da memória descritiva. Devem também ser respeitadas as instruções técnicas do formulário de candidatura.</p>
+<p>(Artigo 5.º, n.os 2 a 4)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="a-candidatura-pode-ser-apresentada-em-ingles">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+A candidatura pode ser apresentada em inglês?				</h4>
+<p>Não. As candidaturas são apresentadas em língua portuguesa.</p>
+<p>(Artigo 5.º, n.º 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="os-anexos-podem-ser-apresentados-em-ingles">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Os anexos podem ser apresentados em inglês?				</h4>
+<p>Os documentos elaborados para o concurso devem ser apresentados em português. Se um documento preexistente estiver disponível apenas em inglês, devem ser seguidas as instruções do formulário. Em caso de dúvida sobre a necessidade de tradução, deve ser pedida confirmação prévia para <a href="/cdn-cgi/l/email-protection#4a3a2b3823243e0a2d3f26282f2421232b24643a3e"><span class="__cf_email__" data-cfemail="1c6c7d6e7572685c7b69707e797277757d72326c68">[email&nbsp;protected]</span></a>.</p>
+<p>(Artigo 5.º, n.º 2)</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="como-sao-avaliadas-as-candidaturas">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Como são avaliadas as candidaturas?				</h4>
+<p>As candidaturas admitidas são avaliadas com base em quatro critérios, cada um classificado de 0 a 100 pontos. A classificação final corresponde à média ponderada:</p>
+<ul class="list-format-bar">
+	<li>Qualidade e robustez metodológica da proposta (30%)</li>
+	<li>Contributo para o fortalecimento dos think tanks portugueses e para a produção de conhecimento sobre assuntos internacionais (30%)</li>
+	<li>Impacto esperado e capacidade de disseminação (25%)</li>
+	<li>Adequação do orçamento (15%)</li>
+</ul>
+<p>(Artigo 6.º, n.os 1 a 3)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Conferência Entre Mapas 16 nov 2026 / 14:30]]></title>
