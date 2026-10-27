@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 12:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 12:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الجيش الإيراني: اندلاع حريق في ناقلة مخالفة اصطدمت بألغام بحرية شرق مضيق…]]></title>
+            <link>https://t.me/aljazeeraBrk/241834</link>
+            <guid isPermaLink="false">2d767f198c7bcb7686b4d5dc45d70991459ec3cd5c25ecf74828eac45cdf4c38</guid>
+            <pubDate>Tue, 27 Oct 2026 12:36:02 GMT</pubDate>
+            <description><![CDATA[بحرية الجيش الإيراني: اندلاع حريق في ناقلة مخالفة اصطدمت بألغام بحرية شرق مضيق هرمز]]></description>
+            <content:encoded><![CDATA[بحرية الجيش الإيراني: اندلاع حريق في ناقلة مخالفة اصطدمت بألغام بحرية شرق مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: نسبة تصويت الجنود في انتخابات الكنيست وصلت حتى الآن إلى 48%]]></title>
             <link>https://t.me/aljazeeraBrk/241833</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 14:17:02 GMT</pubDate>
             <description><![CDATA[ترمب لفوكس نيوز: سؤالي حاليا هو هل أبرم اتفاقا مع الإيرانيين أم أقضي عليهم نهائيا]]></description>
             <content:encoded><![CDATA[ترمب لفوكس نيوز: سؤالي حاليا هو هل أبرم اتفاقا مع الإيرانيين أم أقضي عليهم نهائيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المركز المشترك للمعلومات البحرية: ٢٨ عملية عبور للسفن يوميا في مضيق هرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/241545</link>
-            <guid isPermaLink="false">8f404cc0249326d7d13766d9e2f6ae51da263498ab9e17de4d66b1ddfbceec88</guid>
-            <pubDate>Sun, 25 Oct 2026 13:57:02 GMT</pubDate>
-            <description><![CDATA[المركز المشترك للمعلومات البحرية: ٢٨ عملية عبور للسفن يوميا في مضيق هرمز بمساعدة أمريكية خلال آخر ٧٢ ساعة]]></description>
-            <content:encoded><![CDATA[المركز المشترك للمعلومات البحرية: ٢٨ عملية عبور للسفن يوميا في مضيق هرمز بمساعدة أمريكية خلال آخر ٧٢ ساعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
