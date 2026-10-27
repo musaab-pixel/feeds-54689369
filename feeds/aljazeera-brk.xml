@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 11:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 11:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس خلية الإعلام الأمني في العراق: اعتراض طائرة مسيرة في محيط المنطقة الخضراء…]]></title>
+            <link>https://t.me/aljazeeraBrk/241826</link>
+            <guid isPermaLink="false">a5aa6b02785c5a7f24cc34b5981d31a43a3b123587e672037332d7224879ef1a</guid>
+            <pubDate>Tue, 27 Oct 2026 11:50:02 GMT</pubDate>
+            <description><![CDATA[رئيس خلية الإعلام الأمني في العراق: اعتراض طائرة مسيرة في محيط المنطقة الخضراء ببغداد]]></description>
+            <content:encoded><![CDATA[رئيس خلية الإعلام الأمني في العراق: اعتراض طائرة مسيرة في محيط المنطقة الخضراء ببغداد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الديوان الأميري القطري: أمير قطر التقى الرئيس الإيراني في موسكو وبحث معه…]]></title>
             <link>https://t.me/aljazeeraBrk/241825</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 10:37:03 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: وحدات الجيش الجزائري المقرر إرسالها إلى النيجر ستعمل على حماية منشآت نفطية فيها]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: وحدات الجيش الجزائري المقرر إرسالها إلى النيجر ستعمل على حماية منشآت نفطية فيها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: وحدات الجيش الجزائري المقرر إرسالها ستعمل على حماية منشآت نفطية…]]></title>
-            <link>https://t.me/aljazeeraBrk/241537</link>
-            <guid isPermaLink="false">40ee0eb0a568dd5c6aa50850065a530081a4d8a012bfdc50819646786ae3c65f</guid>
-            <pubDate>Sun, 25 Oct 2026 10:37:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: وحدات الجيش الجزائري المقرر إرسالها ستعمل على حماية منشآت نفطية في النيجر]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: وحدات الجيش الجزائري المقرر إرسالها ستعمل على حماية منشآت نفطية في النيجر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
