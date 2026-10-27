@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 12:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 12:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الإيراني: الأوضاع الجيوسياسية الحالية أثرت على أمن الطاقة والاقتصاد…]]></title>
+            <link>https://t.me/aljazeeraBrk/241830</link>
+            <guid isPermaLink="false">8db9843538e2f4989194f95706c8724140630085a83e84543cd2433018c2b3fe</guid>
+            <pubDate>Tue, 27 Oct 2026 12:14:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الإيراني: الأوضاع الجيوسياسية الحالية أثرت على أمن الطاقة والاقتصاد العالمي]]></description>
+            <content:encoded><![CDATA[الرئيس الإيراني: الأوضاع الجيوسياسية الحالية أثرت على أمن الطاقة والاقتصاد العالمي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في شرطة بغداد للجزيرة: إسقاط طائرتين مسيرتين لا تحملان متفجرات قرب المنطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/241829</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 11:19:02 GMT</pubDate>
             <description><![CDATA[مصادر في مستشفيات غزة: 7 شهداء بنيران قوات الاحتلال منذ صباح اليوم بينهم 4 في مدينة غزة وشمالي القطاع]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 7 شهداء بنيران قوات الاحتلال منذ صباح اليوم بينهم 4 في مدينة غزة وشمالي القطاع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: 3 شهداء ومصابون في غارة إسرائيلية ثانية على حرم…]]></title>
-            <link>https://t.me/aljazeeraBrk/241541</link>
-            <guid isPermaLink="false">f5ddb7235b53552b18c50e2804d14a5226688915e1cc6845821a15f3a4e6bb19</guid>
-            <pubDate>Sun, 25 Oct 2026 11:15:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: 3 شهداء ومصابون في غارة إسرائيلية ثانية على حرم الجامعة الإسلامية بمدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: 3 شهداء ومصابون في غارة إسرائيلية ثانية على حرم الجامعة الإسلامية بمدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
