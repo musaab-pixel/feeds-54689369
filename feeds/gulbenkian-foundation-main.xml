@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 09:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 12:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -437,7 +437,7 @@ In 2019 Martina Batič received the Slovenian national prize “Prešeren Fund A
 </ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[The Nutcracker and I 21 Dec 2026 / 20:00]]></title>
+            <title><![CDATA[Concert The Nutcracker and I 21 Dec 2026 / 20:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/the-nutcracker-and-i/</link>
             <guid isPermaLink="false">e709c880f0c1cc756010915ced69c60c131f720407052de15423880dc51d1f12</guid>
             <pubDate>Mon, 21 Dec 2026 00:00:00 GMT</pubDate>
@@ -1847,6 +1847,75 @@ Morris Robinson</p>
 <p class="tw-text-xs tw-mb-0">
 		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/sites/3/2026/05/22_Jeanine-De-Bique_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Events Study Launch ‘70 Years of Grants’ 26 Nov 2026 / 18:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/study-launch-70-years-of-grants/</link>
+            <guid isPermaLink="false">bacb8246ebc7b7f7e78e337deb989053556a0efcdc5f4cb467ba69ec82df7f84</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>The Gulbenkian Foundation presents a new study coordinated by Susana Peralta and Miguel Herdade on the grants awarded by the Foundation over the past 70 years.</p>
+<p>Drawing on the Foundation’s historical archive, the study examines the support awarded to third parties, including scholarships, grants and prizes. Together, they reveal the breadth and reach of the Gulbenkian Foundation’s work since 1956.</p>
+<p>The launch will also mark the presentation of a free-access area in the website bringing together the grants awarded by the Gulbenkian Foundation across seven decades.</p>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-cloak="" x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Thursday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>The Gulbenkian Foundation presents a new study coordinated by Susana Peralta and Miguel Herdade on the grants awarded by the Foundation over the past 70 years.</p>
+<p>Drawing on the Foundation’s historical archive, the study examines the support awarded to third parties, including scholarships, grants and prizes. Together, they reveal the breadth and reach of the Gulbenkian Foundation’s work since 1956.</p>
+<p>The launch will also mark the presentation of a free-access area in the website bringing together the grants awarded by the Gulbenkian Foundation across seven decades.</p>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/05/00-19_F03-02671_1200x900-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gulbenkian Orchestra Soloists 23 Nov 2026 / 20:00]]></title>
