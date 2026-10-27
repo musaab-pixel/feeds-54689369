@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 06:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 06:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: استشهاد طفلة متأثرة بإصابتها بنيران قوات الاحتلال خارج مناطق…]]></title>
+            <link>https://t.me/aljazeeraBrk/241774</link>
+            <guid isPermaLink="false">aa13c5fb697defa1be816092706f416483ab8636d582263a527e5cf595bd8b86</guid>
+            <pubDate>Tue, 27 Oct 2026 06:04:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: استشهاد طفلة متأثرة بإصابتها بنيران قوات الاحتلال خارج مناطق سيطرتها في مواصي خان يونس]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: استشهاد طفلة متأثرة بإصابتها بنيران قوات الاحتلال خارج مناطق سيطرتها في مواصي خان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحكومة السودانية: الوضع الغذائي بالبلاد مطمئن ولدينا مخزون استراتيجي يوفر…]]></title>
             <link>https://t.me/aljazeeraBrk/241773</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 01:23:02 GMT</pubDate>
             <description><![CDATA[ذا هيل عن مصدر: القيادة المركزية الأمريكية أعدت خططا لتنفيذ ضربات ضد إيران حال صدور تفويض من البيت الأبيض]]></description>
             <content:encoded><![CDATA[ذا هيل عن مصدر: القيادة المركزية الأمريكية أعدت خططا لتنفيذ ضربات ضد إيران حال صدور تفويض من البيت الأبيض]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: أسعار النفط مرتفعة مؤقتا وستنخفض بشكل كبير خلال فترة قصيرة بمجرد انتهاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/241485</link>
-            <guid isPermaLink="false">3a46a1f5f946dcdf55dc9ba6cd0771a36a46837a017d26f8321c0e27d1416699</guid>
-            <pubDate>Sun, 25 Oct 2026 00:36:02 GMT</pubDate>
-            <description><![CDATA[ترمب: أسعار النفط مرتفعة مؤقتا وستنخفض بشكل كبير خلال فترة قصيرة بمجرد انتهاء الحرب مع إيران]]></description>
-            <content:encoded><![CDATA[ترمب: أسعار النفط مرتفعة مؤقتا وستنخفض بشكل كبير خلال فترة قصيرة بمجرد انتهاء الحرب مع إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
