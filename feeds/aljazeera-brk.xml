@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 07:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 07:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية الصينية: سنرسل مبعوثا خاصا إلى الشرق الأوسط لتعزيز الحوار بين الأطراف…]]></title>
+            <link>https://t.me/aljazeeraBrk/241782</link>
+            <guid isPermaLink="false">805f788168bc9ba550af4b91fd24a166f5c8cd0cd94e2408e4ca81cbf5b2abc1</guid>
+            <pubDate>Tue, 27 Oct 2026 07:42:02 GMT</pubDate>
+            <description><![CDATA[الخارجية الصينية: سنرسل مبعوثا خاصا إلى الشرق الأوسط لتعزيز الحوار بين الأطراف المعنية وتجنب تصاعد التوتر]]></description>
+            <content:encoded><![CDATA[الخارجية الصينية: سنرسل مبعوثا خاصا إلى الشرق الأوسط لتعزيز الحوار بين الأطراف المعنية وتجنب تصاعد التوتر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تهدم ميدان الشهداء في بلدة بيتا جنوب نابلس شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/241781</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 05:43:01 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: سيجري إغلاق كل المعابر البرية في الضفة الغربية خلال يوم الانتخابات في 27 أكتوبر]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: سيجري إغلاق كل المعابر البرية في الضفة الغربية خلال يوم الانتخابات في 27 أكتوبر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: قرار بمنع دخول العمال الفلسطينيين إلى مستوطنات الضفة الغربية…]]></title>
-            <link>https://t.me/aljazeeraBrk/241493</link>
-            <guid isPermaLink="false">9d9be91cbe0080e71c9312cbb84f22c5480b6eeec93b7cfb57f7a2733f94613d</guid>
-            <pubDate>Sun, 25 Oct 2026 05:41:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: قرار بمنع دخول العمال الفلسطينيين إلى مستوطنات الضفة الغربية والأغوار حتى يوم الاثنين]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: قرار بمنع دخول العمال الفلسطينيين إلى مستوطنات الضفة الغربية والأغوار حتى يوم الاثنين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
