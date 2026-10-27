@@ -4,7 +4,7 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Mon, 26 Oct 2026 06:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 09:55:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -3016,6 +3016,662 @@ Morris Robinson</p>
 <p class="tw-text-xs tw-mb-0">
 		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
             <enclosure url="https://cdn.gulbenkian.pt/wp-content/uploads/2026/06/FCG-Salavisa_2026_Web_1200x900-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grants Support for Portuguese Think Tanks Grants for Portuguese think tanks producing and sharing independent knowledge on international affairs. 27 Oct – 17 Nov 2026]]></title>
+            <link>https://gulbenkian.pt/en/bolsas-lista/support-for-portuguese-think-tanks/</link>
+            <guid isPermaLink="false">3837b045f4ee5bd3ada480180553f2e1a105f6e282b3427d9cf42f9552cf9404</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>The world is going through profound geopolitical, economic, technological and social change. At such a moment, independent knowledge on international affairs, critical analysis of public policy and informed public debate matter more than ever.</p>
+<p>Think tanks have an important part to play. They bring together applied research, policy advice and critical independence, and they connect specialist knowledge with policymakers, civil society and the wider public.</p>
+<p>This call is part of Gulbenkian Foundation’s 2023–2027 strategy, which focuses on advancing knowledge, encouraging civil society participation, defending the values of liberal democracy and fostering dialogue in the face of growing polarisation.</p>
+<p>The call covers four areas of international affairs: European integration and the role of the European Union; global challenges and multilateralism; the Atlantic dimension, which is central to Portugal’s place in the world; and the Portuguese-speaking world, as a space for political and diplomatic dialogue, cooperation and the exchange of knowledge.</p>
+<p>The 2026 edition is open to Portuguese organisations and aims to strengthen the sector in Portugal.</p>
+<h2 class="fcg-section__title" id="conditions">
+			<span>Conditions</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Projects must be completed by 15 September 2027.</p>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>The call is open to organisations whose mission and regular work substantially involve at least one of the following: research or applied knowledge, public policy analysis, recommendations for public or institutional decision-makers, or informed public debate on matters of common interest.</p>
+<p>Applicants must be:</p>
+<ul class="list-format-bar">
+	<li>private, non-profit legal entities;</li>
+	<li>based in Portugal;</li>
+	<li>legally constituted and operating in Portugal;</li>
+	<li>up to date with their tax and social security obligations.</li>
+</ul>
+<p>Political parties, trade unions, employers’ associations and organisations whose main purpose is to represent economic, professional, sectoral or corporate interests are not eligible.</p>
+<p>Applications will be automatically rejected if the organisation:</p>
+<ul class="list-format-bar">
+	<li>does not pass our due diligence and risk checks (money laundering, terrorist financing, corruption);</li>
+	<li>is subject to EU or UN sanctions or restrictive measures;</li>
+	<li>does not provide all the required information and documents.</li>
+</ul>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Only applications submitted online will be accepted;</li>
+	<li>Register at &nbsp;<a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2F">MyGulbenkian</a>;</li>
+	<li>Before submitting your application form, check all the eligibility criteria and be sure to read the Call Conditions (available in the documents section);</li>
+	<li>Applications may only be submitted once all the mandatory fields of the form have been completed and the documents required under the Call Conditions have been uploaded;</li>
+	<li>Don’t forget to click “submit application”. Try not to submit your application in the last few days leading up to the deadline to avoid any unforeseen last minute problems.</li>
+</ul>
+<h2 class="fcg-section__title" id="faq">
+			<span>Faq</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="who-can-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Who can apply?				</h4>
+<p>Private, non-profit legal entities that are legally constituted, based and operating in Portugal, carry out regular think tank work and meet the other eligibility conditions.<br>
+The following cannot apply:</p>
+<ul class="list-format-bar">
+	<li>individuals;</li>
+	<li>for-profit organisations;</li>
+	<li>political parties and other party-political organisations;</li>
+	<li>trade unions and employers’ associations;</li>
+	<li>organisations whose main purpose is to represent economic, professional, sectoral or corporate interests;</li>
+	<li>bodies that are not separate legal entities.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-counts-as-think-tank-work">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What counts as think tank work?				</h4>
+<p>Your mission and regular work must substantially involve at least one of the following:</p>
+<ul class="list-format-bar">
+	<li>research or applied knowledge;</li>
+	<li>public policy analysis;</li>
+	<li>recommendations for public or institutional decision-makers;</li>
+	<li>informed public debate on matters of common interest.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-our-articles-of-association-need-to-describe-us-as-a-think-tank">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do our articles of association need to describe us as a think tank?				</h4>
+<p>No. What matters is your mission and the work you actually do.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="does-producing-knowledge-have-to-be-our-main-purpose">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Does producing knowledge have to be our main purpose?				</h4>
+<p>No. It needs to be a substantial part of your mission and regular work, through at least one of the activities listed above, but it doesn’t have to be your main purpose.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-association-or-foundation-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can an association or foundation apply?				</h4>
+<p>Yes, as long as it meets the eligibility conditions.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-university-or-university-research-centre-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can a university or university research centre apply?				</h4>
+<p>Only if it is a private, non-profit legal entity that meets the other eligibility conditions. Public bodies cannot apply. A centre or unit that is not a legal entity in its own right cannot apply independently, but it can take part as a partner of an eligible organisation.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-based-outside-portugal-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can an organisation based outside Portugal apply?				</h4>
+<p>No. Applicants must be based, legally constituted and operating in Portugal. European organisations with national branches should apply through their Portuguese branch, provided it is an eligible legal entity in its own right.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-submit-more-than-one-application">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we submit more than one application?				</h4>
+<p>No. Each organisation may submit one application only.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-apply-in-partnership">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we apply in partnership?				</h4>
+<p>Yes, but the application must come from a single eligible organisation, which is accountable to us for both the application and the project. Describe the role of any other organisations wherever it affects the methodology, activities, team or budget.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-we-need-to-name-our-partners">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do we need to name our partners?				</h4>
+<p>Yes. Name every partner involved in delivering the project and explain what each will contribute. Adding or replacing a partner after approval may count as a substantial change to the project, in which case you will need our approval first.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-we-need-letters-of-commitment-from-partners">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do we need letters of commitment from partners?				</h4>
+<p>No, they are not required. We may, however, ask for clarification or further documents while assessing your application.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-kinds-of-project-can-be-funded">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What kinds of project can be funded?				</h4>
+<p>Projects that include one or more of the following:</p>
+<ul class="list-format-bar">
+	<li>applied research;</li>
+	<li>studies and reports;</li>
+	<li>policy papers and recommendations;</li>
+	<li>observatories, platforms or monitoring tools;</li>
+	<li>outreach and knowledge-sharing activities;</li>
+	<li>communication, civic engagement, conferences and public debate linked to the aims of the call.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-project-focus-on-portugal-or-on-one-other-country">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can a project focus on Portugal or on one other country?				</h4>
+<p>Yes, as long as it has a clear international dimension and contributes to the aims of the call. It doesn’t need to involve several countries.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-you-favour-particular-topics-or-methods">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do you favour particular topics or methods?				</h4>
+<p>No. Your project should contribute to one or more of the call’s aims, with a clear, feasible methodology that fits those aims and is consistent with your activity plan.</p>
+<p>The four areas set out in the preamble—European integration, global challenges and multilateralism, the Atlantic dimension and the Portuguese-speaking world—are there for guidance. They are not an exhaustive list, nor are they separate eligibility or assessment criteria.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-you-fund-an-existing-or-ongoing-project">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can you fund an existing or ongoing project?				</h4>
+<p>Yes. We can fund new activities or the expansion of existing ones, as long as your application makes clear which part you are asking us to fund. Only costs incurred during the approved project period are eligible; we cannot fund anything retrospectively.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="is-there-a-minimum-or-maximum-project-length">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Is there a minimum or maximum project length?				</h4>
+<p>No. You propose start and end dates in your application, and these are confirmed in the grant agreement. The project must be fully completed by 15 September 2027, and the final report submitted by 15 October 2027.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-do-you-decide-how-many-projects-to-fund-and-how-much-each-receives">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How do you decide how many projects to fund, and how much each receives?				</h4>
+<p>There is no fixed number of grants. Both the number and the size of awards depend on the quality and ranking of applications, the jury’s recommendations, the proposed budgets and the funds available. We may not allocate the full amount.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="is-match-funding-required">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Is match funding required?				</h4>
+<p>No. If your project has other funding, list it in your application. Costs covered by other funders are only eligible if they are identified as co-funding and accepted by us.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-should-we-set-out-the-budget">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How should we set out the budget?				</h4>
+<p>Your budget should:</p>
+<ul class="list-format-bar">
+	<li>break costs down by category;</li>
+	<li>show your own and any other sources of funding;</li>
+	<li>show which costs you are asking us to cover.</li>
+</ul>
+<p>All costs must be directly related to the project, necessary, and in line with your planned activities and expected results.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-should-we-present-staff-costs">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How should we present staff costs?				</h4>
+<p>In enough detail for us to see how they relate to the project and how you calculated them. Include:</p>
+<ul class="list-format-bar">
+	<li>roles or profiles;</li>
+	<li>time spent on the project, or the period involved;</li>
+	<li>cost;</li>
+	<li>employer’s social contributions.</li>
+</ul>
+<p>Use whichever unit works best: per person, hours, days or percentage of time.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="which-costs-are-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Which costs are eligible?				</h4>
+<p>To be eligible, a cost must meet all of these conditions:</p>
+<ul class="list-format-bar">
+	<li>it is directly related to the approved project and necessary to deliver it;</li>
+	<li>it is incurred during the project period;</li>
+	<li>it is included in the approved budget;</li>
+	<li>it is recorded in your accounts and backed by supporting documents;</li>
+	<li>it is not funded from another source, unless identified as co-funding in your application.</li>
+</ul>
+<p>Eligible costs may include:</p>
+<ul class="list-format-bar">
+	<li>staff working on the project;</li>
+	<li>technical or specialist services;</li>
+	<li>data collection, processing and analysis;</li>
+	<li>studies, reports, publications and other content;</li>
+	<li>debates, conferences, public events and other dissemination activities;</li>
+	<li>communicating and promoting the project and its results;</li>
+	<li>essential travel and accommodation;</li>
+	<li>tools and resources directly needed for the project;</li>
+	<li>administrative costs directly attributable to the project, if properly justified and proportionate.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-salaries-and-social-contributions-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are salaries and social contributions eligible?				</h4>
+<p>Yes, in proportion to the time spent on the project and subject to the general conditions above.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-travel-and-accommodation-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are travel and accommodation eligible?				</h4>
+<p>Yes, if they are essential to the project and meet the general conditions above.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-pay-for-technical-or-specialist-services">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we pay for technical or specialist services?				</h4>
+<p>Yes, subject to the general conditions above.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-overheads-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are overheads eligible?				</h4>
+<p>Administrative costs that can be directly attributed to the project may be eligible, if properly justified and proportionate. They must be allocated using an objective, verifiable method that is explained in your budget, reflected in your accounts and backed by supporting documents. General running costs with no demonstrable link to the project are not eligible.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-apply-a-flat-overhead-rate-such-as-20">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we apply a flat overhead rate, such as 20%?				</h4>
+<p>There is no fixed rate, and an unjustified blanket percentage will not be accepted. A percentage can only be accepted if it:</p>
+<ul class="list-format-bar">
+	<li>reflects costs actually incurred and directly related to the project;</li>
+	<li>is based on an objective, verifiable method;</li>
+	<li>is justified and proportionate.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-do-we-need-to-submit">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What do we need to submit?				</h4>
+<ul class="list-format-bar">
+	<li>A fully completed application form.</li>
+	<li>A project description of up to five pages.</li>
+	<li>An activity plan and timetable.</li>
+	<li>A detailed budget.</li>
+	<li>Team details and short biographies.</li>
+	<li>Your current articles of association.</li>
+	<li>Your most recent annual report and accounts.</li>
+	<li>The documents and information requested in the form to verify your identity, integrity, and tax and social security status.</li>
+	<li>A signed declaration on honour.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-should-the-project-description-cover">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What should the project description cover?				</h4>
+<p>In no more than five pages, it should set out at least the project’s context and relevance, objectives, methodology, activities, expected results and outputs, target audiences, dissemination or communication strategy, and expected impact.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-there-templates-or-formatting-rules">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are there templates or formatting rules?				</h4>
+<p>There are no set templates for the project description, timetable or budget, so you can use your own, provided they include all the required information. The only limit is five pages for the project description. Please also follow the technical instructions in the application form.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-apply-in-english">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we apply in English?				</h4>
+<p>No. Applications must be in Portuguese.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-supporting-documents-be-in-english">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can supporting documents be in English?				</h4>
+<p>Anything written specifically for this call must be in Portuguese. If an existing document is only available in English, follow the instructions in the application form. If you’re unsure whether a translation is needed, check with us first at <a href="/cdn-cgi/l/email-protection#4d3d2c3f2423390d2a38212f282326242c23633d39"><span class="__cf_email__" data-cfemail="0f7f6e7d66617b4f687a636d6a6164666e61217f7b">[email&nbsp;protected]</span></a>.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-are-applications-assessed">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How are applications assessed?				</h4>
+<p>Eligible applications are scored from 0 to 100 against four criteria, and the final score is a weighted average:</p>
+<ul class="list-format-bar">
+	<li>quality and methodological rigour of the proposal (30%);</li>
+	<li>contribution to strengthening Portuguese think tanks and to knowledge on international affairs (30%);</li>
+	<li>expected impact and reach (25%);</li>
+	<li>appropriateness of the budget (15%).</li>
+</ul>]]></description>
+            <content:encoded><![CDATA[<p>The world is going through profound geopolitical, economic, technological and social change. At such a moment, independent knowledge on international affairs, critical analysis of public policy and informed public debate matter more than ever.</p>
+<p>Think tanks have an important part to play. They bring together applied research, policy advice and critical independence, and they connect specialist knowledge with policymakers, civil society and the wider public.</p>
+<p>This call is part of Gulbenkian Foundation’s 2023–2027 strategy, which focuses on advancing knowledge, encouraging civil society participation, defending the values of liberal democracy and fostering dialogue in the face of growing polarisation.</p>
+<p>The call covers four areas of international affairs: European integration and the role of the European Union; global challenges and multilateralism; the Atlantic dimension, which is central to Portugal’s place in the world; and the Portuguese-speaking world, as a space for political and diplomatic dialogue, cooperation and the exchange of knowledge.</p>
+<p>The 2026 edition is open to Portuguese organisations and aims to strengthen the sector in Portugal.</p>
+<h2 class="fcg-section__title" id="conditions">
+			<span>Conditions</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Projects must be completed by 15 September 2027.</p>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>The call is open to organisations whose mission and regular work substantially involve at least one of the following: research or applied knowledge, public policy analysis, recommendations for public or institutional decision-makers, or informed public debate on matters of common interest.</p>
+<p>Applicants must be:</p>
+<ul class="list-format-bar">
+	<li>private, non-profit legal entities;</li>
+	<li>based in Portugal;</li>
+	<li>legally constituted and operating in Portugal;</li>
+	<li>up to date with their tax and social security obligations.</li>
+</ul>
+<p>Political parties, trade unions, employers’ associations and organisations whose main purpose is to represent economic, professional, sectoral or corporate interests are not eligible.</p>
+<p>Applications will be automatically rejected if the organisation:</p>
+<ul class="list-format-bar">
+	<li>does not pass our due diligence and risk checks (money laundering, terrorist financing, corruption);</li>
+	<li>is subject to EU or UN sanctions or restrictive measures;</li>
+	<li>does not provide all the required information and documents.</li>
+</ul>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Only applications submitted online will be accepted;</li>
+	<li>Register at &nbsp;<a href="https://gulbenkian.pt/my/login?redirect=https%3A%2F%2Fgulbenkian.pt%2F">MyGulbenkian</a>;</li>
+	<li>Before submitting your application form, check all the eligibility criteria and be sure to read the Call Conditions (available in the documents section);</li>
+	<li>Applications may only be submitted once all the mandatory fields of the form have been completed and the documents required under the Call Conditions have been uploaded;</li>
+	<li>Don’t forget to click “submit application”. Try not to submit your application in the last few days leading up to the deadline to avoid any unforeseen last minute problems.</li>
+</ul>
+<h2 class="fcg-section__title" id="faq">
+			<span>Faq</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="who-can-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Who can apply?				</h4>
+<p>Private, non-profit legal entities that are legally constituted, based and operating in Portugal, carry out regular think tank work and meet the other eligibility conditions.<br>
+The following cannot apply:</p>
+<ul class="list-format-bar">
+	<li>individuals;</li>
+	<li>for-profit organisations;</li>
+	<li>political parties and other party-political organisations;</li>
+	<li>trade unions and employers’ associations;</li>
+	<li>organisations whose main purpose is to represent economic, professional, sectoral or corporate interests;</li>
+	<li>bodies that are not separate legal entities.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-counts-as-think-tank-work">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What counts as think tank work?				</h4>
+<p>Your mission and regular work must substantially involve at least one of the following:</p>
+<ul class="list-format-bar">
+	<li>research or applied knowledge;</li>
+	<li>public policy analysis;</li>
+	<li>recommendations for public or institutional decision-makers;</li>
+	<li>informed public debate on matters of common interest.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-our-articles-of-association-need-to-describe-us-as-a-think-tank">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do our articles of association need to describe us as a think tank?				</h4>
+<p>No. What matters is your mission and the work you actually do.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="does-producing-knowledge-have-to-be-our-main-purpose">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Does producing knowledge have to be our main purpose?				</h4>
+<p>No. It needs to be a substantial part of your mission and regular work, through at least one of the activities listed above, but it doesn’t have to be your main purpose.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-association-or-foundation-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can an association or foundation apply?				</h4>
+<p>Yes, as long as it meets the eligibility conditions.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-university-or-university-research-centre-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can a university or university research centre apply?				</h4>
+<p>Only if it is a private, non-profit legal entity that meets the other eligibility conditions. Public bodies cannot apply. A centre or unit that is not a legal entity in its own right cannot apply independently, but it can take part as a partner of an eligible organisation.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-an-organisation-based-outside-portugal-apply">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can an organisation based outside Portugal apply?				</h4>
+<p>No. Applicants must be based, legally constituted and operating in Portugal. European organisations with national branches should apply through their Portuguese branch, provided it is an eligible legal entity in its own right.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-submit-more-than-one-application">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we submit more than one application?				</h4>
+<p>No. Each organisation may submit one application only.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-apply-in-partnership">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we apply in partnership?				</h4>
+<p>Yes, but the application must come from a single eligible organisation, which is accountable to us for both the application and the project. Describe the role of any other organisations wherever it affects the methodology, activities, team or budget.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-we-need-to-name-our-partners">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do we need to name our partners?				</h4>
+<p>Yes. Name every partner involved in delivering the project and explain what each will contribute. Adding or replacing a partner after approval may count as a substantial change to the project, in which case you will need our approval first.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-we-need-letters-of-commitment-from-partners">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do we need letters of commitment from partners?				</h4>
+<p>No, they are not required. We may, however, ask for clarification or further documents while assessing your application.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-kinds-of-project-can-be-funded">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What kinds of project can be funded?				</h4>
+<p>Projects that include one or more of the following:</p>
+<ul class="list-format-bar">
+	<li>applied research;</li>
+	<li>studies and reports;</li>
+	<li>policy papers and recommendations;</li>
+	<li>observatories, platforms or monitoring tools;</li>
+	<li>outreach and knowledge-sharing activities;</li>
+	<li>communication, civic engagement, conferences and public debate linked to the aims of the call.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-a-project-focus-on-portugal-or-on-one-other-country">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can a project focus on Portugal or on one other country?				</h4>
+<p>Yes, as long as it has a clear international dimension and contributes to the aims of the call. It doesn’t need to involve several countries.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="do-you-favour-particular-topics-or-methods">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Do you favour particular topics or methods?				</h4>
+<p>No. Your project should contribute to one or more of the call’s aims, with a clear, feasible methodology that fits those aims and is consistent with your activity plan.</p>
+<p>The four areas set out in the preamble—European integration, global challenges and multilateralism, the Atlantic dimension and the Portuguese-speaking world—are there for guidance. They are not an exhaustive list, nor are they separate eligibility or assessment criteria.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-you-fund-an-existing-or-ongoing-project">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can you fund an existing or ongoing project?				</h4>
+<p>Yes. We can fund new activities or the expansion of existing ones, as long as your application makes clear which part you are asking us to fund. Only costs incurred during the approved project period are eligible; we cannot fund anything retrospectively.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="is-there-a-minimum-or-maximum-project-length">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Is there a minimum or maximum project length?				</h4>
+<p>No. You propose start and end dates in your application, and these are confirmed in the grant agreement. The project must be fully completed by 15 September 2027, and the final report submitted by 15 October 2027.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-do-you-decide-how-many-projects-to-fund-and-how-much-each-receives">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How do you decide how many projects to fund, and how much each receives?				</h4>
+<p>There is no fixed number of grants. Both the number and the size of awards depend on the quality and ranking of applications, the jury’s recommendations, the proposed budgets and the funds available. We may not allocate the full amount.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="is-match-funding-required">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Is match funding required?				</h4>
+<p>No. If your project has other funding, list it in your application. Costs covered by other funders are only eligible if they are identified as co-funding and accepted by us.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-should-we-set-out-the-budget">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How should we set out the budget?				</h4>
+<p>Your budget should:</p>
+<ul class="list-format-bar">
+	<li>break costs down by category;</li>
+	<li>show your own and any other sources of funding;</li>
+	<li>show which costs you are asking us to cover.</li>
+</ul>
+<p>All costs must be directly related to the project, necessary, and in line with your planned activities and expected results.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-should-we-present-staff-costs">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How should we present staff costs?				</h4>
+<p>In enough detail for us to see how they relate to the project and how you calculated them. Include:</p>
+<ul class="list-format-bar">
+	<li>roles or profiles;</li>
+	<li>time spent on the project, or the period involved;</li>
+	<li>cost;</li>
+	<li>employer’s social contributions.</li>
+</ul>
+<p>Use whichever unit works best: per person, hours, days or percentage of time.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="which-costs-are-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Which costs are eligible?				</h4>
+<p>To be eligible, a cost must meet all of these conditions:</p>
+<ul class="list-format-bar">
+	<li>it is directly related to the approved project and necessary to deliver it;</li>
+	<li>it is incurred during the project period;</li>
+	<li>it is included in the approved budget;</li>
+	<li>it is recorded in your accounts and backed by supporting documents;</li>
+	<li>it is not funded from another source, unless identified as co-funding in your application.</li>
+</ul>
+<p>Eligible costs may include:</p>
+<ul class="list-format-bar">
+	<li>staff working on the project;</li>
+	<li>technical or specialist services;</li>
+	<li>data collection, processing and analysis;</li>
+	<li>studies, reports, publications and other content;</li>
+	<li>debates, conferences, public events and other dissemination activities;</li>
+	<li>communicating and promoting the project and its results;</li>
+	<li>essential travel and accommodation;</li>
+	<li>tools and resources directly needed for the project;</li>
+	<li>administrative costs directly attributable to the project, if properly justified and proportionate.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-salaries-and-social-contributions-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are salaries and social contributions eligible?				</h4>
+<p>Yes, in proportion to the time spent on the project and subject to the general conditions above.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-travel-and-accommodation-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are travel and accommodation eligible?				</h4>
+<p>Yes, if they are essential to the project and meet the general conditions above.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-pay-for-technical-or-specialist-services">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we pay for technical or specialist services?				</h4>
+<p>Yes, subject to the general conditions above.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-overheads-eligible">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are overheads eligible?				</h4>
+<p>Administrative costs that can be directly attributed to the project may be eligible, if properly justified and proportionate. They must be allocated using an objective, verifiable method that is explained in your budget, reflected in your accounts and backed by supporting documents. General running costs with no demonstrable link to the project are not eligible.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-apply-a-flat-overhead-rate-such-as-20">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we apply a flat overhead rate, such as 20%?				</h4>
+<p>There is no fixed rate, and an unjustified blanket percentage will not be accepted. A percentage can only be accepted if it:</p>
+<ul class="list-format-bar">
+	<li>reflects costs actually incurred and directly related to the project;</li>
+	<li>is based on an objective, verifiable method;</li>
+	<li>is justified and proportionate.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-do-we-need-to-submit">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What do we need to submit?				</h4>
+<ul class="list-format-bar">
+	<li>A fully completed application form.</li>
+	<li>A project description of up to five pages.</li>
+	<li>An activity plan and timetable.</li>
+	<li>A detailed budget.</li>
+	<li>Team details and short biographies.</li>
+	<li>Your current articles of association.</li>
+	<li>Your most recent annual report and accounts.</li>
+	<li>The documents and information requested in the form to verify your identity, integrity, and tax and social security status.</li>
+	<li>A signed declaration on honour.</li>
+</ul>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="what-should-the-project-description-cover">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+What should the project description cover?				</h4>
+<p>In no more than five pages, it should set out at least the project’s context and relevance, objectives, methodology, activities, expected results and outputs, target audiences, dissemination or communication strategy, and expected impact.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="are-there-templates-or-formatting-rules">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Are there templates or formatting rules?				</h4>
+<p>There are no set templates for the project description, timetable or budget, so you can use your own, provided they include all the required information. The only limit is five pages for the project description. Please also follow the technical instructions in the application form.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-we-apply-in-english">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can we apply in English?				</h4>
+<p>No. Applications must be in Portuguese.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="can-supporting-documents-be-in-english">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+Can supporting documents be in English?				</h4>
+<p>Anything written specifically for this call must be in Portuguese. If an existing document is only available in English, follow the instructions in the application form. If you’re unsure whether a translation is needed, check with us first at <a href="/cdn-cgi/l/email-protection#4d3d2c3f2423390d2a38212f282326242c23633d39"><span class="__cf_email__" data-cfemail="0f7f6e7d66617b4f687a636d6a6164666e61217f7b">[email&nbsp;protected]</span></a>.</p>
+<h4 class="fcg-accordion__title tw-font-medium tw-flex" id="how-are-applications-assessed">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432 256C432 264.8 424.8 272 416 272h-176V448c0 8.844-7.156 16.01-16 16.01S208 456.8 208 448V272H32c-8.844 0-16-7.15-16-15.99C16 247.2 23.16 240 32 240h176V64c0-8.844 7.156-15.99 16-15.99S240 55.16 240 64v176H416C424.8 240 432 247.2 432 256z"></path></svg>
+How are applications assessed?				</h4>
+<p>Eligible applications are scored from 0 to 100 against four criteria, and the final score is a weighted average:</p>
+<ul class="list-format-bar">
+	<li>quality and methodological rigour of the proposal (30%);</li>
+	<li>contribution to strengthening Portuguese think tanks and to knowledge on international affairs (30%);</li>
+	<li>expected impact and reach (25%);</li>
+	<li>appropriateness of the budget (15%).</li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Conference Entre Mapas (Between Maps) 16 Nov 2026 / 14:30]]></title>
