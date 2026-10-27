@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "8c62a9373bbd527d9ddb7de0e8d68a49c7e3fb34548701d0ad6fd702ba5449eb",
+            "content_html": "هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن 608 وحدات سكنية في الضفة والقدس",
+            "url": "https://t.me/aljazeeraBrk/241791",
+            "title": "هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن…",
+            "summary": "هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن 608 وحدات سكنية في الضفة والقدس",
+            "date_modified": "2026-10-27T08:46:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "ea2e212952c5fc48e3e9f9df9aa160a81ceb84f2eb7b1e1ed6535fdaea332852",
+            "content_html": "مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في منطقة الباطن ببلدة إماتين شرق قلقيلية في الضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/241790",
+            "title": "مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في منطقة الباطن ببلدة إماتين شرق…",
+            "summary": "مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في منطقة الباطن ببلدة إماتين شرق قلقيلية في الضفة الغربية",
+            "date_modified": "2026-10-27T08:45:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "98be67e0f486e54b33c22dc4b0bd227ae3ef4e9f16c00ef7fad882af5e940b6f",
             "content_html": "الحكومة الأردنية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>عمليتنا جنوب سوريا جاءت بعد نفاد صبرنا إزاء تحركات التنظيمات الإرهابية واستهداف أمننا الوطني<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>العملية نفذت استنادا إلى معلومات ميدانية لتحييد تهديدات مؤكدة وعمليات إرهابية ضد الأردن<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>النتائج الأولية لهذه العمليات تشير حتى اللحظة إلى خسائر كبيرة في صفوف “داعش” تُقدّر بأكثر من 20 عنصرًا وتدمير مستودع أسلحة ضخم للتنظيم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>حريصون على تطوير العلاقات مع سوريا والتنسيق في مواجهة كل التحديات المشتركة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>نأسف لوقوع ضحايا من المدنيين ونتابع هذا الأمر مع  الأشقاء السوريين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142216",
@@ -1477,6 +1499,15 @@
             }
         },
         {
+            "id": "25b28e42ff00fb533cf2f9f463d0a548808d2be2a7a3c1e00fd3249c5174dff9",
+            "content_html": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+            "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+            "summary": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/31-07-2026_Adobe_West-Bank-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-10-26T12:00:00.000Z"
+        },
+        {
             "id": "bb411e5432906fb2b379b3ed08f8646e540fb39ea68bc8d3b824ee7e1c80794c",
             "content_html": "الخارجية السعودية: نجدد التأكيد على الدور المحوري لدول اتفاقية مكة في استتباب أمن المنطقة واستقرارها",
             "url": "https://t.me/aljazeeraBrk/241703",
@@ -1583,40 +1614,6 @@
             "summary": "إدارة مكافحة المخدرات:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تفكيك شبكة تنشط في تهريب المواد المخدرة وترويجها في دمشق وتوقيف أربعة من أفرادها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>ضبط خلال العملية 36 كيلوغراما من مادة الحشيش و600 غرام من مادة الكريستال إضافةً إلى ميزان ومواد أخرى تُستخدم في عمليات الترويج<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/FuYtHLZDklpx3ninzL64zrnlCmVYNMnokmVCixMdgxitFMkyuuBru9M7vddVrk-dWVE0H6QOrHf3G-lw0KmpLDJXExLI7ljvVgPKTW_GEKq_TYuh2DI-MXVtPLqVEk-cl6sxqdE42OYrNC42vt614UEOykq4GnH9NpLVreR4mU4w6UIjiUZQD2wD14PJTQfeEIFh3pvNV_SIUu1FtYv34PbF-f7HyXbwOKX0DUyyOv_sDTPIFanEIxueMcLXQGbYmFlaXU4bqzV0PfdDHFlYniK__QR9a2WLvV1S1rn1U3_QkxymrokX4dqFRdmacFtRCdiCf8Tkc63dUoC4MWc0Xg.jpg",
             "date_modified": "2026-10-26T11:18:35.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "47fa42f08ff4a0976833d5d996a6084b7393532c326482e0d503b4b8357cbba8",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi4gRBVV95cUxNNnB1WmFOcmNCYzdJUjR0ZUxUU2Y5NVVUWFo4Nl9NeVFWZ2gzR0VnMi1heE1OMlROaUM4alVJMUFsLWVTaWJwTENnOFo1V0RzTWtpb0QzUzI2LXdfWFU4blB3UVBZY1o0aFdzdkQ2ZVFUWTNYVVRoX2FPb2QyaHhveFJVX1MwLVdnVlVxa2RHM0o5Yks1MnVoZEdvSlhscjlqUnNVbGwtMWdjdjd1ZjVySlJqcUtTNWJsYVlvcjZBMmFkZ1Z5RVZrYjNWWkx3NVYtNnkwRkxtV0w5dkN6UXlTQy1RbHEzNVV2aTJ1cUo5akRTTDAtXzEzOUstbnVVeDR2aEJQZHU2VlJaVGtPU05sYUNZNUtiRkZSMG9jVmk5ZksyQ2twRVI5bzFPXzI4eDlOMDdZYko3a1ZNNTktZzNWa2dBLTFVLTJ4OTkwc2NvWU5USUUyckt4am1GemJZaTJVODl2NlhXZ2lTallmeHg1WEhWZ3NWcGMzMjM5TXpaY0xSdEZHV1ZxRjRMeXpCbXNYcl81REhSMlFlLWQ5bjhqZW80QzRxN3NLeUtjYXNHVl9GUDZEVUZtOFpLRnBBcTFFbjgybmduRmZPRlVEUkZSMnMtVnVWbXNRSmwxVUlKV2RKX2tHWDVGdGlNdUc3dEtMR3NpMHJYQlNlb1FnLUpFN0dpeWNDV1NFNjFxeWVhbDBvdGo0Tkt1Mnp1NnI0UVZGOUdiTmpYR3cxX0ZTMjh6RXExODd0V2I2Q0QzWFRhQUJpSFlrLXRTbXRHRXRGOVNJUERYXy1zdlVwb0xubV92ZXR3?oc=5\" target=\"_blank\">بعد صرف المعونة بشكل مناقض للإعلان..مطالب لـ\"أونروا\" بكشف مصير المنحة الأوروبية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNNnB1WmFOcmNCYzdJUjR0ZUxUU2Y5NVVUWFo4Nl9NeVFWZ2gzR0VnMi1heE1OMlROaUM4alVJMUFsLWVTaWJwTENnOFo1V0RzTWtpb0QzUzI2LXdfWFU4blB3UVBZY1o0aFdzdkQ2ZVFUWTNYVVRoX2FPb2QyaHhveFJVX1MwLVdnVlVxa2RHM0o5Yks1MnVoZEdvSlhscjlqUnNVbGwtMWdjdjd1ZjVySlJqcUtTNWJsYVlvcjZBMmFkZ1Z5RVZrYjNWWkx3NVYtNnkwRkxtV0w5dkN6UXlTQy1RbHEzNVV2aTJ1cUo5akRTTDAtXzEzOUstbnVVeDR2aEJQZHU2VlJaVGtPU05sYUNZNUtiRkZSMG9jVmk5ZksyQ2twRVI5bzFPXzI4eDlOMDdZYko3a1ZNNTktZzNWa2dBLTFVLTJ4OTkwc2NvWU5USUUyckt4am1GemJZaTJVODl2NlhXZ2lTallmeHg1WEhWZ3NWcGMzMjM5TXpaY0xSdEZHV1ZxRjRMeXpCbXNYcl81REhSMlFlLWQ5bjhqZW80QzRxN3NLeUtjYXNHVl9GUDZEVUZtOFpLRnBBcTFFbjgybmduRmZPRlVEUkZSMnMtVnVWbXNRSmwxVUlKV2RKX2tHWDVGdGlNdUc3dEtMR3NpMHJYQlNlb1FnLUpFN0dpeWNDV1NFNjFxeWVhbDBvdGo0Tkt1Mnp1NnI0UVZGOUdiTmpYR3cxX0ZTMjh6RXExODd0V2I2Q0QzWFRhQUJpSFlrLXRTbXRHRXRGOVNJUERYXy1zdlVwb0xubV92ZXR3?oc=5",
-            "title": "بعد صرف المعونة بشكل مناقض للإعلان..مطالب لـ\"أونروا\" بكشف مصير المنحة الأوروبية - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gRBVV95cUxNNnB1WmFOcmNCYzdJUjR0ZUxUU2Y5NVVUWFo4Nl9NeVFWZ2gzR0VnMi1heE1OMlROaUM4alVJMUFsLWVTaWJwTENnOFo1V0RzTWtpb0QzUzI2LXdfWFU4blB3UVBZY1o0aFdzdkQ2ZVFUWTNYVVRoX2FPb2QyaHhveFJVX1MwLVdnVlVxa2RHM0o5Yks1MnVoZEdvSlhscjlqUnNVbGwtMWdjdjd1ZjVySlJqcUtTNWJsYVlvcjZBMmFkZ1Z5RVZrYjNWWkx3NVYtNnkwRkxtV0w5dkN6UXlTQy1RbHEzNVV2aTJ1cUo5akRTTDAtXzEzOUstbnVVeDR2aEJQZHU2VlJaVGtPU05sYUNZNUtiRkZSMG9jVmk5ZksyQ2twRVI5bzFPXzI4eDlOMDdZYko3a1ZNNTktZzNWa2dBLTFVLTJ4OTkwc2NvWU5USUUyckt4am1GemJZaTJVODl2NlhXZ2lTallmeHg1WEhWZ3NWcGMzMjM5TXpaY0xSdEZHV1ZxRjRMeXpCbXNYcl81REhSMlFlLWQ5bjhqZW80QzRxN3NLeUtjYXNHVl9GUDZEVUZtOFpLRnBBcTFFbjgybmduRmZPRlVEUkZSMnMtVnVWbXNRSmwxVUlKV2RKX2tHWDVGdGlNdUc3dEtMR3NpMHJYQlNlb1FnLUpFN0dpeWNDV1NFNjFxeWVhbDBvdGo0Tkt1Mnp1NnI0UVZGOUdiTmpYR3cxX0ZTMjh6RXExODd0V2I2Q0QzWFRhQUJpSFlrLXRTbXRHRXRGOVNJUERYXy1zdlVwb0xubV92ZXR3?oc=5\" target=\"_blank\">بعد صرف المعونة بشكل مناقض للإعلان..مطالب لـ\"أونروا\" بكشف مصير المنحة الأوروبية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-10-26T11:15:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "af55c03a7136531116cec1892c03338f93f25e384441b991f81b811e39d4678a",
-            "content_html": "وزير المالية محمد يسر برنية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>خصصنا 193 مليون دولار لمشاريع الطرق المركزية في موازنة العام الجاري<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رصدنا 450 مليون دولار لمشاريع الطرق المركزية في مشروع موازنة العام القادم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>خصصنا 200 مليون دولار لمشاريع السكك الحديدية في العام القادم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سوريا مقبلة على تحول استراتيجي في موقعها الجيوسياسي لتصبح نقطة وصل اقتصادية وتجارية ومالية بين دول المنطقة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الحكومة السورية تعمل على استثمار الموقع الجغرافي لسوريا وتعزيز دورها ممرا يربط الخليج العربي بأوروبا وبقية دول العالم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142176",
-            "title": "وزير المالية محمد يسر برنية: 📌خصصنا 193 مليون دولار لمشاريع الطرق المركزية في…",
-            "summary": "وزير المالية محمد يسر برنية:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>خصصنا 193 مليون دولار لمشاريع الطرق المركزية في موازنة العام الجاري<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رصدنا 450 مليون دولار لمشاريع الطرق المركزية في مشروع موازنة العام القادم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>خصصنا 200 مليون دولار لمشاريع السكك الحديدية في العام القادم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سوريا مقبلة على تحول استراتيجي في موقعها الجيوسياسي لتصبح نقطة وصل اقتصادية وتجارية ومالية بين دول المنطقة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الحكومة السورية تعمل على استثمار الموقع الجغرافي لسوريا وتعزيز دورها ممرا يربط الخليج العربي بأوروبا وبقية دول العالم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-26T10:49:48.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "7fe37663a63085e2fa4436bf5572096e677dca51125dcde4bfc83544c690e2d2",
-            "content_html": "سانا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المؤسسة العامة للمواصلات الطرقية توقع عقدًا مع شركة قطرية لإعادة تأهيل وإنشاء فرع ثانٍ لطريق \"مفرق البصيري وحتى معبر التنف\" بطول 170 كم في البادية السورية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المشروع يتضمن تأهيل وصلة \"مفرق السبع بيار باتجاه البصيري\" بطول 45 كم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الكلفة التقديرية للمشروع تصل إلى ‌‏147 مليون دولار بمدة تنفيذ تبلغ 900 يوم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142175",
-            "title": "سانا: 📌المؤسسة العامة للمواصلات الطرقية توقع عقدًا مع شركة قطرية لإعادة تأهيل…",
-            "summary": "سانا:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المؤسسة العامة للمواصلات الطرقية توقع عقدًا مع شركة قطرية لإعادة تأهيل وإنشاء فرع ثانٍ لطريق \"مفرق البصيري وحتى معبر التنف\" بطول 170 كم في البادية السورية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>المشروع يتضمن تأهيل وصلة \"مفرق السبع بيار باتجاه البصيري\" بطول 45 كم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الكلفة التقديرية للمشروع تصل إلى ‌‏147 مليون دولار بمدة تنفيذ تبلغ 900 يوم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/nVTmfioneMX45CWdhnxLOgzo7Df3BsYWnTGeh4pocodNqNQIwOQEyDTbC_FpmJqATXME6hWapjLEmQ6mVvWhkLM_trW1y5G3ai8sxAu41Q-xpy5qP46ZjPt33V-opnlKxmFtkSIkphYhUzf670ge9F2VR-munBzQ8BKRhR4Y9r0NG8yW4UL2whlXogdecz5MsZcrCfIrGB5FsbU0hQJlGS_McCg5JONUTKWRdkkjbxChzeqWPqJb1-3Yd64z2CT0acW_rUP9cBsJl_mpi1ki-Q2HYK8mKP40dg-UlzrtLu0Hiwf_2jE8kXjAvlBkCqlygvrLtDk0N1jL1SGvNC7Vlg.jpg",
-            "date_modified": "2026-10-26T10:41:32.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
