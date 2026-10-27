@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 09:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 10:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخارجية السورية: أطراف مشبوهة تزرع الفتنة وتسعى لتعكير العلاقات بين سوريا…]]></title>
+            <link>https://t.me/aljazeeraBrk/241803</link>
+            <guid isPermaLink="false">0b47c1065346ed68eaf4ea44ebec2cff06ac2ebcc401c5a39ce5869c2627e3ca</guid>
+            <pubDate>Tue, 27 Oct 2026 09:57:02 GMT</pubDate>
+            <description><![CDATA[الخارجية السورية: أطراف مشبوهة تزرع الفتنة وتسعى لتعكير العلاقات بين سوريا والأردن]]></description>
+            <content:encoded><![CDATA[الخارجية السورية: أطراف مشبوهة تزرع الفتنة وتسعى لتعكير العلاقات بين سوريا والأردن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية السورية: نعمل بالتنسيق مع الأردن على تشكيل لجنة ميدانية وأمنية مشتركة…]]></title>
             <link>https://t.me/aljazeeraBrk/241802</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 07:39:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الإيراني: نسعى إلى التوصل لتفاهم ونهج مشترك مع دول المنطقة بشأن الهيكل الأمني الجديد فيها]]></description>
             <content:encoded><![CDATA[وزير الخارجية الإيراني: نسعى إلى التوصل لتفاهم ونهج مشترك مع دول المنطقة بشأن الهيكل الأمني الجديد فيها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن تنومة وأبها وخميس مشيط]]></title>
-            <link>https://t.me/aljazeeraBrk/241514</link>
-            <guid isPermaLink="false">c6a3a4275d05ae113031a520d98f300abaa507c32fb4d41069542350044b9cfe</guid>
-            <pubDate>Sun, 25 Oct 2026 07:33:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: زوال الخطر عن تنومة وأبها وخميس مشيط]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: زوال الخطر عن تنومة وأبها وخميس مشيط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
