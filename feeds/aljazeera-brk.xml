@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 13:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 13:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا وزارة الدفاع السعودية في…]]></title>
+            <link>https://t.me/aljazeeraBrk/241840</link>
+            <guid isPermaLink="false">641df0066feb0e2ca2b27ca398dc456c6da6690386d5ba0d30fd64e86c242e86</guid>
+            <pubDate>Tue, 27 Oct 2026 13:49:02 GMT</pubDate>
+            <description><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا وزارة الدفاع السعودية في الرياض بصاروخ باليستي بإصابة مباشرة]]></description>
+            <content:encoded><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا وزارة الدفاع السعودية في الرياض بصاروخ باليستي بإصابة مباشرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: مزاعم الحرس الثوري الإيراني بأن قواتنا غادرت مضيق…]]></title>
             <link>https://t.me/aljazeeraBrk/241839</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 15:36:02 GMT</pubDate>
             <description><![CDATA[مصدر في مجمع ناصر الطبي: شهيد ومصابون بقصف من مسيرة إسرائيلية وسط مدينة خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في مجمع ناصر الطبي: شهيد ومصابون بقصف من مسيرة إسرائيلية وسط مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الخارجية بحكومة الوحدة الليبية: استدعاء القائمة بالأعمال الأمريكية بعد…]]></title>
-            <link>https://t.me/aljazeeraBrk/241551</link>
-            <guid isPermaLink="false">92cf55298599d0ecc18b72a96065c589d8b5c318cfa27d3e2a7f2d5c7f988a7b</guid>
-            <pubDate>Sun, 25 Oct 2026 15:05:03 GMT</pubDate>
-            <description><![CDATA[وزارة الخارجية بحكومة الوحدة الليبية: استدعاء القائمة بالأعمال الأمريكية بعد تصريحات من واشنطن مسيئة لليبيا]]></description>
-            <content:encoded><![CDATA[وزارة الخارجية بحكومة الوحدة الليبية: استدعاء القائمة بالأعمال الأمريكية بعد تصريحات من واشنطن مسيئة لليبيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
