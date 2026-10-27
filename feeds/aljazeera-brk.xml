@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 19:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 20:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إغلاق مراكز الاقتراع في انتخابات الكنيست الإسرائيلي بعد نسبة تصويت قاربت 75%]]></title>
+            <link>https://t.me/aljazeeraBrk/241904</link>
+            <guid isPermaLink="false">e7916de56aed6c5237e187fcb36ee1e0a5fd751f3d29ad2b210dce562d0e2c46</guid>
+            <pubDate>Tue, 27 Oct 2026 20:01:02 GMT</pubDate>
+            <description><![CDATA[إغلاق مراكز الاقتراع في انتخابات الكنيست الإسرائيلي بعد نسبة تصويت قاربت 75%]]></description>
+            <content:encoded><![CDATA[إغلاق مراكز الاقتراع في انتخابات الكنيست الإسرائيلي بعد نسبة تصويت قاربت 75%]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[لجنة الانتخابات المركزية الإسرائيلية: نسبة التصويت حتى الساعة الثامنة بلغت 74.3%]]></title>
             <link>https://t.me/aljazeeraBrk/241903</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 26 Oct 2026 05:56:02 GMT</pubDate>
             <description><![CDATA[وكيل وزارة الخارجية السعودية: زيارة وفد دول اتفاقية مكة لطهران تأتي ضمن جهود خفض التصعيد بين أطراف الأزمة]]></description>
             <content:encoded><![CDATA[وكيل وزارة الخارجية السعودية: زيارة وفد دول اتفاقية مكة لطهران تأتي ضمن جهود خفض التصعيد بين أطراف الأزمة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكيل وزارة الخارجية السعودية: اجتماع في طهران اليوم بين دول اتفاقية مكة للدفاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/241627</link>
-            <guid isPermaLink="false">6c056d0680cf7c0016f1a680d8495a1d92ea79c80addb27d75fbcb6c225ac267</guid>
-            <pubDate>Mon, 26 Oct 2026 05:53:02 GMT</pubDate>
-            <description><![CDATA[وكيل وزارة الخارجية السعودية: اجتماع في طهران اليوم بين دول اتفاقية مكة للدفاع المشترك ومسؤولين إيرانيين]]></description>
-            <content:encoded><![CDATA[وكيل وزارة الخارجية السعودية: اجتماع في طهران اليوم بين دول اتفاقية مكة للدفاع المشترك ومسؤولين إيرانيين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

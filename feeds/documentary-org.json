@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"documentary.org\" (type: native)",
     "items": [
         {
+            "id": "d961ec58c527fca61e62beaa0fcf812662a7d4fdaa3da0b2d39835a10451ae6f",
+            "content_html": "    42nd IDA Documentary Awards Shortlists Announced for Best Features and Shorts\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/ida-staff\" class=\"username\">idastaff</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-27T12:51:09-07:00\" title=\"Tuesday, October 27, 2026 - 12:51\" class=\"datetime\">Tue, 10/27/2026 - 12:51</time>\n</span>\n\n\n",
+            "url": "https://www.documentary.org/news-blog/42nd-ida-documentary-awards-shortlists-announced-best-features-and-shorts",
+            "title": "42nd IDA Documentary Awards Shortlists Announced for Best Features and Shorts",
+            "summary": "    42nd IDA Documentary Awards Shortlists Announced for Best Features and Shorts\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/ida-staff\" class=\"username\">idastaff</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-27T12:51:09-07:00\" title=\"Tuesday, October 27, 2026 - 12:51\" class=\"datetime\">Tue, 10/27/2026 - 12:51</time>\n</span>\n\n\n",
+            "date_modified": "2026-10-27T19:51:09.000Z",
+            "author": {
+                "name": "idastaff"
+            }
+        },
+        {
             "id": "e2e07955d36197d2c7e6767183795ef7904f597077e437882663875fbb4409dd",
             "content_html": "    IDA Emergency Assistance Is Now A Permanent Program\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/dominic-asmall-willsdon\" class=\"username\">dominicwillsdon</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-13T10:39:52-07:00\" title=\"Tuesday, October 13, 2026 - 10:39\" class=\"datetime\">Tue, 10/13/2026 - 10:39</time>\n</span>\n\n\n",
             "url": "https://www.documentary.org/advocacy-blog/ida-emergency-assistance-now-permanent-program",
