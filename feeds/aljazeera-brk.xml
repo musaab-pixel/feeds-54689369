@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 09:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة شاب برصاص قوات الاحتلال في بلدة حوارة بنابلس…]]></title>
+            <link>https://t.me/aljazeeraBrk/241794</link>
+            <guid isPermaLink="false">2275c64628eec1f478ccc92dd9efb580475ac189cb06fa842f1af3a470d17492</guid>
+            <pubDate>Tue, 27 Oct 2026 09:17:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة شاب برصاص قوات الاحتلال في بلدة حوارة بنابلس شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة شاب برصاص قوات الاحتلال في بلدة حوارة بنابلس شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[لجنة الانتخابات المركزية في إسرائيل: نسبة التصويت في انتخابات الكنيست بلغت حتى…]]></title>
             <link>https://t.me/aljazeeraBrk/241793</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 25 Oct 2026 07:15:03 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الإيراني: نرحب بأي تحرك باتجاه ضمان أمن المنطقة عبر دولها ونحن مستعدون للحوار بشأن هذا الموضوع]]></description>
             <content:encoded><![CDATA[وزير الخارجية الإيراني: نرحب بأي تحرك باتجاه ضمان أمن المنطقة عبر دولها ونحن مستعدون للحوار بشأن هذا الموضوع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار من المنصة الوطنية للإنذار المبكر في أبها…]]></title>
-            <link>https://t.me/aljazeeraBrk/241505</link>
-            <guid isPermaLink="false">141e2227708457d8aebe074f7acafe35b2451ffc513c4d7363325b1b06bc60ac</guid>
-            <pubDate>Sun, 25 Oct 2026 07:15:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار من المنصة الوطنية للإنذار المبكر  في أبها وخميس مشيط للتحذير من خطر]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار من المنصة الوطنية للإنذار المبكر  في أبها وخميس مشيط للتحذير من خطر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
