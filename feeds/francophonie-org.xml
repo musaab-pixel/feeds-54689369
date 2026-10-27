@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 14:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 18:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -86,6 +86,21 @@
 <span property="schema:dateCreated" content="2026-10-26T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 26/10/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Simulation de négociations internationales sur le thème : « IA et nouveaux enjeux internationaux »</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-26T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 26/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Femmes, jeunes et vie politique : la Francophonie agit pour une gouvernance plus inclusive]]></title>
+            <link>https://www.francophonie.org/femmes-jeunes-et-vie-politique-la-francophonie-agit-pour-une-gouvernance-plus-inclusive-8743</link>
+            <guid isPermaLink="false">5710f40bce1bb21e74fc7323861e5feb0211186dae93014b4fd912a855686677</guid>
+            <pubDate>Mon, 26 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Femmes, jeunes et vie politique : la Francophonie agit pour une gouvernance plus inclusive</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-26T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 26/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Femmes, jeunes et vie politique : la Francophonie agit pour une gouvernance plus inclusive</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-10-26T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 26/10/2026 - 15:43</span>
 ]]></content:encoded>
