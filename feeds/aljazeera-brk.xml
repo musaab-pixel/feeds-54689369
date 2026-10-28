@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 28 Oct 2026 13:57:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 14:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إنترفاكس عن الكرملين: الأوروبيون لن يشاركوا في محادثات ثلاثية بشأن أوكرانيا]]></title>
+            <link>https://t.me/aljazeeraBrk/242080</link>
+            <guid isPermaLink="false">f05687d939a83680e4781cdf9f96febe28b25015a06597169f8d6193c771bf4f</guid>
+            <pubDate>Wed, 28 Oct 2026 13:58:02 GMT</pubDate>
+            <description><![CDATA[إنترفاكس عن الكرملين: الأوروبيون لن يشاركوا في محادثات ثلاثية بشأن أوكرانيا]]></description>
+            <content:encoded><![CDATA[إنترفاكس عن الكرملين: الأوروبيون لن يشاركوا في محادثات ثلاثية بشأن أوكرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أسعار الغاز الأوروبي تبلغ 100 يورو للميغاواط/ساعة لأول مرة منذ 2022]]></title>
             <link>https://t.me/aljazeeraBrk/242079</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 26 Oct 2026 16:00:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: استهدفنا 3 مسلحين خرجوا من فتحة نفق غرب الخط الأصفر في خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: استهدفنا 3 مسلحين خرجوا من فتحة نفق غرب الخط الأصفر في خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: مصاب برصاص الاحتلال خلال اقتحام مخيم قلنديا شمال القدس]]></title>
-            <link>https://t.me/aljazeeraBrk/241728</link>
-            <guid isPermaLink="false">7aa3fd505ddca09ff364d5dc6fde003b2eb9347075990e8ad2aecccbe197f91c</guid>
-            <pubDate>Mon, 26 Oct 2026 15:54:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: مصاب برصاص الاحتلال خلال اقتحام مخيم قلنديا شمال القدس]]></description>
-            <content:encoded><![CDATA[محافظة القدس: مصاب برصاص الاحتلال خلال اقتحام مخيم قلنديا شمال القدس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
