@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 28 Oct 2026 11:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 11:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: شهيد و7 مصابين في غارتين من مسيرات إسرائيلية على مدينة خان…]]></title>
+            <link>https://t.me/aljazeeraBrk/242055</link>
+            <guid isPermaLink="false">6dfca1d73a40689296930a42d313f0364987130a8f4bc9c9c760d581e22522fa</guid>
+            <pubDate>Wed, 28 Oct 2026 11:25:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: شهيد و7 مصابين في غارتين من مسيرات إسرائيلية على مدينة خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد و7 مصابين في غارتين من مسيرات إسرائيلية على مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: 3 غارات جوية على مواقع جماعة_الحوثي في جبل العرمة…]]></title>
             <link>https://t.me/aljazeeraBrk/242054</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 26 Oct 2026 12:12:02 GMT</pubDate>
             <description><![CDATA[محافظة القدس: بن غفير يقتحم المسجد الأقصى قبيل الانتخابات الإسرائيلية المقررة غدا]]></description>
             <content:encoded><![CDATA[محافظة القدس: بن غفير يقتحم المسجد الأقصى قبيل الانتخابات الإسرائيلية المقررة غدا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية السعودية: نجدد التأكيد على الدور المحوري لدول اتفاقية مكة في استتباب…]]></title>
-            <link>https://t.me/aljazeeraBrk/241703</link>
-            <guid isPermaLink="false">bb411e5432906fb2b379b3ed08f8646e540fb39ea68bc8d3b824ee7e1c80794c</guid>
-            <pubDate>Mon, 26 Oct 2026 11:56:03 GMT</pubDate>
-            <description><![CDATA[الخارجية السعودية: نجدد التأكيد على الدور المحوري لدول اتفاقية مكة في استتباب أمن المنطقة واستقرارها]]></description>
-            <content:encoded><![CDATA[الخارجية السعودية: نجدد التأكيد على الدور المحوري لدول اتفاقية مكة في استتباب أمن المنطقة واستقرارها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
