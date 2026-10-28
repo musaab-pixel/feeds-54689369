@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 28 Oct 2026 11:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 11:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس القائمة العربية المشتركة يوسف جبارين: مستعدون لتمهيد الطريق للإطاحة بحكومة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242056</link>
+            <guid isPermaLink="false">c69e90f162c4d98928b04142fe3c08e6ee974aa8c49d642095ea8a76fc99ac3d</guid>
+            <pubDate>Wed, 28 Oct 2026 11:39:02 GMT</pubDate>
+            <description><![CDATA[رئيس القائمة العربية المشتركة يوسف جبارين: مستعدون لتمهيد الطريق للإطاحة بحكومة نتنياهو]]></description>
+            <content:encoded><![CDATA[رئيس القائمة العربية المشتركة يوسف جبارين: مستعدون لتمهيد الطريق للإطاحة بحكومة نتنياهو]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: شهيد و7 مصابين في غارتين من مسيرات إسرائيلية على مدينة خان…]]></title>
             <link>https://t.me/aljazeeraBrk/242055</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 26 Oct 2026 12:54:02 GMT</pubDate>
             <description><![CDATA[مكتب رئيس الوزراء العراقي: إنهاء مهام رئيس جهاز المخابرات الوطني حميد الشطري]]></description>
             <content:encoded><![CDATA[مكتب رئيس الوزراء العراقي: إنهاء مهام رئيس جهاز المخابرات الوطني حميد الشطري]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: بن غفير يقتحم المسجد الأقصى قبيل الانتخابات الإسرائيلية المقررة…]]></title>
-            <link>https://t.me/aljazeeraBrk/241704</link>
-            <guid isPermaLink="false">eaab0cab9f9c262ef96eb47a3ab6ab3934ffc471a4945fa2be3195d536eb9feb</guid>
-            <pubDate>Mon, 26 Oct 2026 12:12:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: بن غفير يقتحم المسجد الأقصى قبيل الانتخابات الإسرائيلية المقررة غدا]]></description>
-            <content:encoded><![CDATA[محافظة القدس: بن غفير يقتحم المسجد الأقصى قبيل الانتخابات الإسرائيلية المقررة غدا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
