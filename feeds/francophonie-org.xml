@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 18:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 13:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[25 ans du Prix des cinq continents : la littérature francophone à l’honneur en Roumanie]]></title>
+            <link>https://www.francophonie.org/25-ans-prix-5-continents-la-litterature-francophone-a-l-honneur-en-roumanie-8747</link>
+            <guid isPermaLink="false">de38ed155efc1e220b745f3da7d8b2061afaa49d9916ab58f775b22ebe9cde48</guid>
+            <pubDate>Wed, 28 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">25 ans du Prix des cinq continents : la littérature francophone à l’honneur en Roumanie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-28T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 28/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">25 ans du Prix des cinq continents : la littérature francophone à l’honneur en Roumanie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-28T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 28/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Organigramme]]></title>
             <link>https://www.francophonie.org/node/8746</link>
