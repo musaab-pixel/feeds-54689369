@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "7ca1d8b627de8ae16c42e1672825b1f6157b04adfa78f1ca765712e5fa997fb3",
+            "content_html": "<b>الإخبارية: </b>انطلاق قافلة تضم 229 عائلة من مخيمات النزوح بريف إدلب إلى مناطقها الأصلية في عدة محافظات ضمن رؤية سوريا بلا مخيمات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142303",
+            "title": "الإخبارية: انطلاق قافلة تضم 229 عائلة من مخيمات النزوح بريف إدلب إلى مناطقها…",
+            "summary": "<b>الإخبارية: </b>انطلاق قافلة تضم 229 عائلة من مخيمات النزوح بريف إدلب إلى مناطقها الأصلية في عدة محافظات ضمن رؤية سوريا بلا مخيمات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/OLlKDFOrYFMgVA_U0yq6W2HM40AS69lLcQTkGiq8Yr5K3ygpBysAlLbNSjFbfK5ItpsmzwT13FOWVTc4f06ljD0JsOXIy9PhZRI9Rd-QnFtQolrL-j9L2fx1ZGZgZxJiLQRCbir3kDLjFaDAnzK8aHZzo2kYFFs4PTdqIHl4Ym48g2QYOoLmj87GGXSVPIgUerv11lfAA3GxIe6W75FxKPH-opOnLPcf6pjYp2COip_xMFwbje-oUjt5MQG_MxIKCUt95MQ32AqkLWyznTcYrfcyN22lssxnszU-vS8CejgVkS2NrnoQMX3DLfr_nQScNkG-fyTPDohwRjHbLeDA6w.jpg",
+            "date_modified": "2026-10-29T07:50:47.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "586faa447d4c7d7dfc259d96cd2786f004093f83e8f23805399f5a7076217b9e",
+            "content_html": "مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم صاروخي",
+            "url": "https://t.me/aljazeeraBrk/242170",
+            "title": "مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم…",
+            "summary": "مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم صاروخي",
+            "date_modified": "2026-10-29T07:50:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "01ed49a6db469c84ff2d269fa1171c307756d73b1a75d1727e7ca44ead48ec13",
             "content_html": "<b>سانا:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>محكمة الجنايات الرابعة بدمشق تصدر حكمًا بالسجن المؤبد على المنتسب إلى ميليشيا لواء القدس المرتبط بالحرس الثوري الإيراني عبد الجبار غازي أرزيق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أزريق أدين بالانضمام إلى عصابة مسلحة هدفت إلى إثارة الحرب الأهلية والاقتتال الطائفي في أفعال صنّفها الحكم ضمن جرائم الحرب والجرائم ضد الإنسانية خلال حكم النظام البائد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142302",
@@ -1575,29 +1598,6 @@
             "title": "القناة 13 الإسرائيلية: فرز 59.9% من الأصوات وحصول معسكر نتنياهو على 56 مقعدا…",
             "summary": "القناة 13 الإسرائيلية: فرز 59.9% من الأصوات وحصول معسكر نتنياهو على 56 مقعدا وآيزنكوت على 48 والعرب على 16",
             "date_modified": "2026-10-28T07:28:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "f4d0dc6581150af24cc5898d382dc6b34333b21b7159325a923a1fdd34ff5135",
-            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">من الباسوطة بمنطقة عفرين.. تحضير \"دبس الرمان\" وسط الطبيعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "url": "https://t.me/HalabTodayTV/142248",
-            "title": "من الباسوطة بمنطقة عفرين.. تحضير \"دبس الرمان\" وسط الطبيعة لمتابعة أحدث الأخبار…",
-            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">من الباسوطة بمنطقة عفرين.. تحضير \"دبس الرمان\" وسط الطبيعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "image": "https://cdn4.telesco.pe/file/JA8FNyA97Nnh0zFuxYivjYyqaClD_6kOFJzBzcuPs9prxnn6KhN6fKc-TcH3JgAAc3HDbMU-QWT1KSF89a7Ghva1BB5snLVaEMum6Zoi2_LdwuJRg0_jK--xbFMCgDZmB3yOwkOnSCxgIJzLfe50jFx4WJXOr1eaBf2CqwWEw8_4E9NMRM5-6UgSpgEsqEKtwkAPhztZ2u3y0x2XbKj-HIFKNFbFQOowmh5rZYPtVovQkPLkWzJHejuwyDvcMtMh34SePJ6msr06o_SD-RNWvFCHEM49pFPoS7lx6cNYDMY21hjGi_ibr81Gz03mgQ-3-zoDjdL7Q-vAOfFjNC2URQ.jpg",
-            "date_modified": "2026-10-28T07:26:40.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "602e1c5b31a870f4c984891e2d7cae2e4d0542dd2a522cfbd995db68677125b7",
-            "content_html": "لجنة الانتخابات الإسرائيلية: فرز 51.8% من الأصوات ونتنياهو يحصد 55 مقعدا والتغيير 49 والأحزاب العربية 16",
-            "url": "https://t.me/aljazeeraBrk/242037",
-            "title": "لجنة الانتخابات الإسرائيلية: فرز 51.8% من الأصوات ونتنياهو يحصد 55 مقعدا…",
-            "summary": "لجنة الانتخابات الإسرائيلية: فرز 51.8% من الأصوات ونتنياهو يحصد 55 مقعدا والتغيير 49 والأحزاب العربية 16",
-            "date_modified": "2026-10-28T07:02:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }

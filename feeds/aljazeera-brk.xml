@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 07:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 07:57:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم…]]></title>
+            <link>https://t.me/aljazeeraBrk/242170</link>
+            <guid isPermaLink="false">586faa447d4c7d7dfc259d96cd2786f004093f83e8f23805399f5a7076217b9e</guid>
+            <pubDate>Thu, 29 Oct 2026 07:50:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم صاروخي]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم صاروخي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم خاركيف: قتيل و8 مصابين في هجمات روسية استهدفت المدينة و19 بلدة في المقاطعة…]]></title>
             <link>https://t.me/aljazeeraBrk/242169</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 07:24:02 GMT</pubDate>
             <description><![CDATA[محافظة القدس: قوات الاحتلال تغلق حواجز بلدة حزما شمال شرق القدس المحتلة وتنشر جنودها عند البوابات]]></description>
             <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تغلق حواجز بلدة حزما شمال شرق القدس المحتلة وتنشر جنودها عند البوابات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: تحذير من خطر محتمل في مدينة نجران]]></title>
-            <link>https://t.me/aljazeeraBrk/241778</link>
-            <guid isPermaLink="false">1ca344859a341b0ca4b0a830e79756926ee04bab5b0708ea16002a9ab3ff43e6</guid>
-            <pubDate>Tue, 27 Oct 2026 07:22:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: تحذير من خطر محتمل في مدينة نجران]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: تحذير من خطر محتمل في مدينة نجران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
