@@ -4,7 +4,7 @@
         <title>ijnet.org</title>
         <link>https://ijnet.org/en/opportunities</link>
         <description>RSS Factory feed "ijnet.org" (type: website)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 10:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 10:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -57,10 +57,28 @@
             <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Travel programme, for science journalists]]></title>
+            <link>https://ijnet.org/en/opportunity/travel-programme-science-journalists</link>
+            <guid isPermaLink="false">c94f74aeca6c5ff28295802659005ecbff3393d1e2b61ba6b3cbfaacbae72068</guid>
+            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Journalism innovation fellowship for current students]]></title>
+            <link>https://ijnet.org/en/opportunity/journalism-innovation-fellowship-current-students</link>
+            <guid isPermaLink="false">8c68e345d8d3675470d4d47dd0bbc6c30ffb6af83960bf5c98654193f28209ba</guid>
+            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Research on journalism news audience and engagement]]></title>
+            <link>https://ijnet.org/en/opportunity/research-journalism-news-audience-and-engagement</link>
+            <guid isPermaLink="false">c0d2ba7d642bdfff295d8caeabd0c64cbad88d2a86e126aad1aee44263b58cea</guid>
+            <pubDate>Thu, 29 Oct 2026 10:32:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Building reporting capacity for journalists]]></title>
             <link>https://ijnet.org/en/opportunity/building-reporting-capacity-journalists</link>
             <guid isPermaLink="false">554b3d8d9bd2a8acd5e9c853024f9d05877cc0ffa42eeb77f0eb3a151c3994ca</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 10:20:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travel support for a conference on data-driven journalism]]></title>
