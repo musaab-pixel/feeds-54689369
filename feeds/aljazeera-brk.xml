@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 10:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 11:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[آيزنكوت: نتنياهو وشركاؤه يقودون عملية تأثير غير مشروعة على الجمهور الإسرائيلي…]]></title>
+            <link>https://t.me/aljazeeraBrk/242183</link>
+            <guid isPermaLink="false">2181221463b8363a8a873d97eb0c6d5bc1c7a16aac2da327abf304b2233782cf</guid>
+            <pubDate>Thu, 29 Oct 2026 10:57:02 GMT</pubDate>
+            <description><![CDATA[آيزنكوت: نتنياهو وشركاؤه يقودون عملية تأثير غير مشروعة على الجمهور الإسرائيلي بهدف تأخير نشر نتائج الانتخابات]]></description>
+            <content:encoded><![CDATA[آيزنكوت: نتنياهو وشركاؤه يقودون عملية تأثير غير مشروعة على الجمهور الإسرائيلي بهدف تأخير نشر نتائج الانتخابات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام إسرائيلية: انتهاء فرز نحو 96% من أصوات انتخابات الكنيست دون تغيير…]]></title>
             <link>https://t.me/aljazeeraBrk/242182</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 08:59:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يحطمون مركبة خلال مهاجمتهم قاطفي الزيتون في بلدة عصيرة القبلية بنابلس شمالي الضفة]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يحطمون مركبة خلال مهاجمتهم قاطفي الزيتون في بلدة عصيرة القبلية بنابلس شمالي الضفة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن…]]></title>
-            <link>https://t.me/aljazeeraBrk/241791</link>
-            <guid isPermaLink="false">8c62a9373bbd527d9ddb7de0e8d68a49c7e3fb34548701d0ad6fd702ba5449eb</guid>
-            <pubDate>Tue, 27 Oct 2026 08:46:02 GMT</pubDate>
-            <description><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن 608 وحدات سكنية في الضفة والقدس]]></description>
-            <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن 608 وحدات سكنية في الضفة والقدس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
