@@ -38,6 +38,17 @@
             }
         },
         {
+            "id": "5ce9ab14d613954949adc326d2b603009a8dd82d219b47fc366885455ab442a5",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">#CAP Innovation 2026 : 20 projets sélectionnés</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-29T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 29/10/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/cap-innovation-2026-20-projets-selectionnes-8750",
+            "title": "#CAP Innovation 2026 : 20 projets sélectionnés",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">#CAP Innovation 2026 : 20 projets sélectionnés</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-29T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">jeu 29/10/2026 - 15:43</span>\n",
+            "date_modified": "2026-10-29T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "de38ed155efc1e220b745f3da7d8b2061afaa49d9916ab58f775b22ebe9cde48",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">25 ans du Prix des cinq continents : la littérature francophone à l’honneur en Roumanie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-10-28T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mer 28/10/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/25-ans-prix-5-continents-la-litterature-francophone-a-l-honneur-en-roumanie-8747",

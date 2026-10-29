@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 13:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 14:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -48,6 +48,21 @@
 <span property="schema:dateCreated" content="2026-10-29T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 29/10/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : 20 projets présélectionnés</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-29T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 29/10/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[#CAP Innovation 2026 : 20 projets sélectionnés]]></title>
+            <link>https://www.francophonie.org/cap-innovation-2026-20-projets-selectionnes-8750</link>
+            <guid isPermaLink="false">5ce9ab14d613954949adc326d2b603009a8dd82d219b47fc366885455ab442a5</guid>
+            <pubDate>Thu, 29 Oct 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : 20 projets sélectionnés</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-10-29T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 29/10/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : 20 projets sélectionnés</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-10-29T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 29/10/2026 - 15:43</span>
 ]]></content:encoded>
