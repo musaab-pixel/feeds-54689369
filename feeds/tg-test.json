@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "99d342ff7bdcc309f1f0db2345ae97ad4e9a959c127bb37e797b2f5f56b85a74",
+            "content_html": "قيادة الأمن الداخلي في حلب: سيتم تنفيذ تفجير محكم لألغام وعبوات ناسفـ.ـة بالقرب من طريق الكاستيلو اليوم عند الساعة الثالثة عصرًا<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142313",
+            "title": "قيادة الأمن الداخلي في حلب: سيتم تنفيذ تفجير محكم لألغام وعبوات ناسفـ.ـة بالقرب…",
+            "summary": "قيادة الأمن الداخلي في حلب: سيتم تنفيذ تفجير محكم لألغام وعبوات ناسفـ.ـة بالقرب من طريق الكاستيلو اليوم عند الساعة الثالثة عصرًا<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-10-29T11:58:34.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "99bf24f0b9dfda29e37a255863ca2b1990858988fe3d504e35a1144bbea3714c",
+            "content_html": "<b>مديرية إعلام دير الزور: </b>وفاة طفل غرقًا جراء السيول الناجمة عن الأمطار الغزيرة في بلدة حمّار العلي بريف دير الزور الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142312",
+            "title": "مديرية إعلام دير الزور: وفاة طفل غرقًا جراء السيول الناجمة عن الأمطار الغزيرة…",
+            "summary": "<b>مديرية إعلام دير الزور: </b>وفاة طفل غرقًا جراء السيول الناجمة عن الأمطار الغزيرة في بلدة حمّار العلي بريف دير الزور الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/rDcQsCDRMFtgtCnpy3q-PLaJ4MrcMRYDH3_WZ90-JpWxqdm6Xwirpx08oME2caC0PWn2TcntQwgx9-Fk-9QGymBkacRKUDEqN1N0EHbn8UoqAOtFcV6bh4A-irFJzb5z898nIzh9LBC75eOCbqJOW5WsjHOeVpfoN2r8zT90GeaNptdngi61nMpL-S_gnSfkXqZjdUsT-5uNSEN82zVv2FAiwo67hMGj5GEyNSeGbdMoBx-Fs3IeOFL3At3dld9D10eEGwTY7l9iZgDf7SannAhbdVyHIBPHG0JMOpIzDM8x_7CdyTb0iq5LQxR65K3O9-bw1ng-Znc_mxeAb7x0Ag.jpg",
+            "date_modified": "2026-10-29T11:23:07.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "a7fb483d773e7d337354b38899559084e39702d1e79f3684561a4ddc21f9d16a",
             "content_html": "<b>الإخبارية: </b>وزير الخارجية أسعد الشيباني يقدّم واجب العزاء لعائلة أحد ضحايا الغارات الأردنية في مدينة درعا البلد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142311",
@@ -2273,29 +2296,6 @@
             "title": "#عاجل | الناطق باسم الحكومة الأردنية: 6 قتلى و28 جريحا حصيلة الحادث الإجرامي…",
             "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الناطق باسم الحكومة الأردنية: </b>6 قتلى و28 جريحا حصيلة الحادث الإجرامي الذي وقع داخل محيط كنيسة بمحافظة الكرك<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-10-23T13:57:42.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "bfa312bba1738e73d764cfb42fe7d45b94a96e5616df41f06523f2c19dadd312",
-            "content_html": "<b>سانا: </b>وقفة احتجاجية أمام مبنى الأمم المتحدة في المزة بدمشق للتنديد بالتوغلات ‏والاعتداءات الإسرائيلية على الأراضي السورية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142086",
-            "title": "سانا: وقفة احتجاجية أمام مبنى الأمم المتحدة في المزة بدمشق للتنديد بالتوغلات…",
-            "summary": "<b>سانا: </b>وقفة احتجاجية أمام مبنى الأمم المتحدة في المزة بدمشق للتنديد بالتوغلات ‏والاعتداءات الإسرائيلية على الأراضي السورية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/cYag5I3LuFJNRUyd0Rl5uhEyG52it-WIaZQd2sUIc_6Hs79YzxQBT8F8CYOlC_ig7uy59ei4LDn9Dddt8YE7goYOs2epDGD_W_W52zYf1EdlZYo7mHvRL-xIsFvPC9lIZ0GITUbBaR3pkK7HrD6JQZBHGD9015u21e7fwoacMPISt5jhHCQAZ4LY2eL14PLthsRn0Tzp7R5h3A_eiZSVFkTkCXErWklnOsH9gVq2lBs34RksV0YLoNGQ9Zf-3a-d5-osKpS01aSaZHQMtVAPwh0Dx-gUNpR4UR2r1SscaHzsD6YuObECMdwKa9ZAj6zUwOKTgaeVY5DBDPB5GuKjXw.jpg",
-            "date_modified": "2026-10-23T13:39:06.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "2222ef6f50a0110b53d94a383d20af8b1643b9cc863a18ac62eecebb09ad8687",
-            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصدر رسمي أردني: </b>ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل وجريح<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142085",
-            "title": "#عاجل | مصدر رسمي أردني: ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين…",
-            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصدر رسمي أردني: </b>ارتفاع عدد ضحايا الهجوم على كنيسة في الكرك إلى 19 بين قتيل وجريح<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-10-23T13:09:39.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
