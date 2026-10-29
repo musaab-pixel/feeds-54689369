@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 10:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 10:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: انتهاء فرز نحو 96% من أصوات انتخابات الكنيست دون تغيير…]]></title>
+            <link>https://t.me/aljazeeraBrk/242182</link>
+            <guid isPermaLink="false">8fd9bac89115d3d51e4c6eeeb43da7e9dddc5530614f698e1da95e3d726e3ba2</guid>
+            <pubDate>Thu, 29 Oct 2026 10:52:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: انتهاء فرز نحو 96% من أصوات انتخابات الكنيست دون تغيير في النتائج]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: انتهاء فرز نحو 96% من أصوات انتخابات الكنيست دون تغيير في النتائج]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الصحة في غزة: نطالب بفتح معبر رفح أمام سفر المرضى والجرحى بشكل عاجل دون…]]></title>
             <link>https://t.me/aljazeeraBrk/242181</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 08:46:02 GMT</pubDate>
             <description><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن 608 وحدات سكنية في الضفة والقدس]]></description>
             <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: الاحتلال يعتزم دراسة 11 مخططا استيطانيا يتضمن 608 وحدات سكنية في الضفة والقدس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في منطقة الباطن ببلدة إماتين شرق…]]></title>
-            <link>https://t.me/aljazeeraBrk/241790</link>
-            <guid isPermaLink="false">ea2e212952c5fc48e3e9f9df9aa160a81ceb84f2eb7b1e1ed6535fdaea332852</guid>
-            <pubDate>Tue, 27 Oct 2026 08:45:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في منطقة الباطن ببلدة إماتين شرق قلقيلية في الضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي الزيتون في منطقة الباطن ببلدة إماتين شرق قلقيلية في الضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

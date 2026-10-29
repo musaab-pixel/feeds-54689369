@@ -4,7 +4,7 @@
         <title>ijnet.org</title>
         <link>https://ijnet.org/en/opportunities</link>
         <description>RSS Factory feed "ijnet.org" (type: website)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 10:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 10:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -73,6 +73,12 @@
             <link>https://ijnet.org/en/opportunity/reporting-sustainable-development-midterm-review</link>
             <guid isPermaLink="false">bb33815059515c47202184584049e2e9e8a3d927ac12e80a7003765b5c42291d</guid>
             <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Collaborative reporting on human rights issues]]></title>
+            <link>https://ijnet.org/en/opportunity/collaborative-reporting-human-rights-issues</link>
+            <guid isPermaLink="false">8fd78b4483d2d619273a51ac9d7cf6ec0a50960aff7251983843a35850a12504</guid>
+            <pubDate>Thu, 29 Oct 2026 10:56:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Accountability journalism reporting network]]></title>
