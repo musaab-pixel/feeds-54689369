@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "37340a4c0c8a482be5701f48752981d3163a53dce328f64b2a17b9b127f44a81",
+            "content_html": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مديرية إعلام السويداء: </b>مجموعة مسلحة خارجة عن القانون عند حاجز أم الزيتون تمنع موظفي الأمانة العامة لمحافظة السويداء من الالتحاق بمركز عملهم في المقر الرسمي للمحافظة الكائن بقرية الصورة الصغرى في الريف الشمالي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142307",
+            "title": "#عاجل | مديرية إعلام السويداء: مجموعة مسلحة خارجة عن القانون عند حاجز أم…",
+            "summary": "<a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مديرية إعلام السويداء: </b>مجموعة مسلحة خارجة عن القانون عند حاجز أم الزيتون تمنع موظفي الأمانة العامة لمحافظة السويداء من الالتحاق بمركز عملهم في المقر الرسمي للمحافظة الكائن بقرية الصورة الصغرى في الريف الشمالي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-10-29T09:33:02.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "f31dc23e6ae9f96b237f6c452b95be20449bd28cb80bd7c64ece4776551ee863",
             "content_html": "<b>الخطوط الجوية السورية: </b>بدء تشغيل الرحلات المنتظمة والمباشرة بين دمشق وميونخ الألمانية اعتبارًا من 12 تشرين الثاني<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142306",
@@ -2285,18 +2296,6 @@
             "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i></b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>وقفة لأهالي بلدة سعسع في ريف دمشق تنديداً باعتداءات الاحتلال الإسرائيلي المتكررة بريفي درعا والقنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/QjbFkWyZM_HijSwM_VihYXZaUquf7BM3lGoOmDwxJmYRG5Xmq0NuKmImOED2x4RYsvgVvxykl6WxXFx6nHk2s4FiG1WkfXPi81kyQu6n198oeWUxDp5J2Eb2D_-kNrx4djEz4ozj6olNgVpt5aD_pRUr7k8u4LNUzrDg-jmHxNdR3xKzK1T2K5hcOxxF2JlxRxTM7s0RWmraJWyDO0IUjlO8uQ7dlogtGaskJLNup2TtOw5wAyCXhtpMe4JRdTHpMuuGIlzgBuiu1ZRu9L2jXdS-Fq-7kffrhTspZ2nyeB3t4RZ1NkPKRpe1nddk0gY_A5NCHWKB2wUsEt81HXZB_w.jpg",
             "date_modified": "2026-10-23T11:17:30.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "62b8046c8faa3d1803ab32ff6975d5964176d7b90881c550781989a52332b7a7",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\">#عاجل</a> | خروج مظاهرة في ساحة الساعة بحمص تنديدًا بالانتهاكات الإسرائيلية في الجنوب السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142080",
-            "title": "🛑#عاجل | خروج مظاهرة في ساحة الساعة بحمص تنديدًا بالانتهاكات الإسرائيلية في…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\">#عاجل</a> | خروج مظاهرة في ساحة الساعة بحمص تنديدًا بالانتهاكات الإسرائيلية في الجنوب السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/VhN0iJDwmZJd9kUcTnK-2M5oxMFgOUJN9bLuz3hopeDFeXWSC343WEKXOR553f3eQP9pSqrH80LpUr1i-NQHPRXyQ3BNnwL0xJl0Jsb-_ykJkH3g3jR1ZtwgbrrxknaGfs_JEQ_-TBUDhOVtNR_4S3WIbvPgTDsj9qdU_zC52J5nCikVjZaPxXsVjPOSxqqneW2NTUmqsZ-OXlM9usFNB6iPp-tF3jp2_zXWVh36rsRSEgzrq4BktroXm72cUDLgN37Xt9XWmndfj6zQDvyvgUv_qg8kowETsMtrxHIV2fOeplRLB2J7kssUNNZEijOnLWjHL8l4oUFY6muJ1wRR5g.jpg",
-            "date_modified": "2026-10-23T10:56:35.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
