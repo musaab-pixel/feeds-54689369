@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 13:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 13:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[لجنة الانتخابات الإسرائيلية: فرز أكثر من 97% من الأصوات دون تأثير على تشكيلة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242202</link>
+            <guid isPermaLink="false">17bea62af9766516fb174539fa8a2f61128f8ccacc92e5b88b582adce64852fc</guid>
+            <pubDate>Thu, 29 Oct 2026 13:14:02 GMT</pubDate>
+            <description><![CDATA[لجنة الانتخابات الإسرائيلية: فرز أكثر من 97% من الأصوات دون تأثير على تشكيلة المعسكرات]]></description>
+            <content:encoded><![CDATA[لجنة الانتخابات الإسرائيلية: فرز أكثر من 97% من الأصوات دون تأثير على تشكيلة المعسكرات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: تصدينا لهجوم شنته جماعة_الحوثي على منطقة رأس النقيل في…]]></title>
             <link>https://t.me/aljazeeraBrk/242201</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 10:50:02 GMT</pubDate>
             <description><![CDATA[المرشد الإيراني خلال لقائه رضائي: يجب تأمين حقوق ومصالح إيران لإنهاء الحرب والخروج من حالة اللا حرب واللا سلم]]></description>
             <content:encoded><![CDATA[المرشد الإيراني خلال لقائه رضائي: يجب تأمين حقوق ومصالح إيران لإنهاء الحرب والخروج من حالة اللا حرب واللا سلم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[موقع المرشد الإيراني: أمين مجلس الأمن القومي الإيراني محسن رضائي التقى المرشد…]]></title>
-            <link>https://t.me/aljazeeraBrk/241810</link>
-            <guid isPermaLink="false">0a379466d854dd8be5f7a1755d8023852d22cfe83583816cab1d7b9939842d84</guid>
-            <pubDate>Tue, 27 Oct 2026 10:46:02 GMT</pubDate>
-            <description><![CDATA[موقع المرشد الإيراني: أمين مجلس الأمن القومي الإيراني محسن رضائي التقى المرشد مجتبى خامنئي]]></description>
-            <content:encoded><![CDATA[موقع المرشد الإيراني: أمين مجلس الأمن القومي الإيراني محسن رضائي التقى المرشد مجتبى خامنئي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
