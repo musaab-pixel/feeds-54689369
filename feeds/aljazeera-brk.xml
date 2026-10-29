@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 07:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 08:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة نجران]]></title>
+            <link>https://t.me/aljazeeraBrk/242171</link>
+            <guid isPermaLink="false">fff787372dda4ffa1fe215222446df231821d7c76d9fdde74f35c66e9e3fec63</guid>
+            <pubDate>Thu, 29 Oct 2026 08:09:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة نجران]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة نجران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: إطلاق صفارات الإنذار في العاصمة الأوكرانية كييف للتحذير من هجوم…]]></title>
             <link>https://t.me/aljazeeraBrk/242170</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 07:30:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة نجران]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة نجران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[محافظة القدس: قوات الاحتلال تغلق حواجز بلدة حزما شمال شرق القدس المحتلة وتنشر…]]></title>
-            <link>https://t.me/aljazeeraBrk/241779</link>
-            <guid isPermaLink="false">0bfa7af77626019d8803fbe9d13d2a5630300bc927738ed2d247a1941f5fe212</guid>
-            <pubDate>Tue, 27 Oct 2026 07:24:02 GMT</pubDate>
-            <description><![CDATA[محافظة القدس: قوات الاحتلال تغلق حواجز بلدة حزما شمال شرق القدس المحتلة وتنشر جنودها عند البوابات]]></description>
-            <content:encoded><![CDATA[محافظة القدس: قوات الاحتلال تغلق حواجز بلدة حزما شمال شرق القدس المحتلة وتنشر جنودها عند البوابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
