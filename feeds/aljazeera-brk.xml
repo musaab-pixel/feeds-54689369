@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 29 Oct 2026 11:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 11:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: مقتل طفلتين وإصابة 9 أشخاص في هجوم روسي على وسط مدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242184</link>
+            <guid isPermaLink="false">3bfd863b3f0cfdabfdf2bd8f7f7580ea027304b790aba69c4174f25346c7019a</guid>
+            <pubDate>Thu, 29 Oct 2026 11:14:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: مقتل طفلتين وإصابة 9 أشخاص في هجوم روسي على وسط مدينة تشيرنيهيف]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: مقتل طفلتين وإصابة 9 أشخاص في هجوم روسي على وسط مدينة تشيرنيهيف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[آيزنكوت: نتنياهو وشركاؤه يقودون عملية تأثير غير مشروعة على الجمهور الإسرائيلي…]]></title>
             <link>https://t.me/aljazeeraBrk/242183</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 09:04:02 GMT</pubDate>
             <description><![CDATA[لجنة الانتخابات المركزية في إسرائيل: نسبة التصويت في انتخابات الكنيست بلغت حتى الساعة العاشرة صباحا 16.68%]]></description>
             <content:encoded><![CDATA[لجنة الانتخابات المركزية في إسرائيل: نسبة التصويت في انتخابات الكنيست بلغت حتى الساعة العاشرة صباحا 16.68%]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يحطمون مركبة خلال مهاجمتهم قاطفي الزيتون في بلدة عصيرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/241792</link>
-            <guid isPermaLink="false">964b1a575989f9a7d89b541e390a80c3e545be7b3f6ba4a2c8a61a6a8699a147</guid>
-            <pubDate>Tue, 27 Oct 2026 08:59:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يحطمون مركبة خلال مهاجمتهم قاطفي الزيتون في بلدة عصيرة القبلية بنابلس شمالي الضفة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يحطمون مركبة خلال مهاجمتهم قاطفي الزيتون في بلدة عصيرة القبلية بنابلس شمالي الضفة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
