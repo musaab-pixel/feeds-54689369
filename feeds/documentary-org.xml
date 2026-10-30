@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Tue, 27 Oct 2026 20:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 07:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IDA Member Spotlight: Michèle Stephenson]]></title>
+            <link>https://www.documentary.org/blog/ida-member-spotlight-michele-stephenson</link>
+            <guid isPermaLink="false">24368f97c2afb13e59b8b0f534fd5b1b2ee33138737d46e7c9d08f2f5a1fb3f2</guid>
+            <pubDate>Thu, 29 Oct 2026 22:45:32 GMT</pubDate>
+            <description><![CDATA[    IDA Member Spotlight: Michèle Stephenson
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/ida-staff" class="username">idastaff</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-29T15:45:32-07:00" title="Thursday, October 29, 2026 - 15:45" class="datetime">Thu, 10/29/2026 - 15:45</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    IDA Member Spotlight: Michèle Stephenson
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/ida-staff" class="username">idastaff</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-29T15:45:32-07:00" title="Thursday, October 29, 2026 - 15:45" class="datetime">Thu, 10/29/2026 - 15:45</time>
+</span>
+
+
+]]></content:encoded>
+            <author>idastaff</author>
+        </item>
         <item>
             <title><![CDATA[42nd IDA Documentary Awards Shortlists Announced for Best Features and Shorts]]></title>
             <link>https://www.documentary.org/news-blog/42nd-ida-documentary-awards-shortlists-announced-best-features-and-shorts</link>

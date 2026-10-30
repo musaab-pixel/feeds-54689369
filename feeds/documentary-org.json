@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"documentary.org\" (type: native)",
     "items": [
         {
+            "id": "24368f97c2afb13e59b8b0f534fd5b1b2ee33138737d46e7c9d08f2f5a1fb3f2",
+            "content_html": "    IDA Member Spotlight: Michèle Stephenson\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/ida-staff\" class=\"username\">idastaff</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-29T15:45:32-07:00\" title=\"Thursday, October 29, 2026 - 15:45\" class=\"datetime\">Thu, 10/29/2026 - 15:45</time>\n</span>\n\n\n",
+            "url": "https://www.documentary.org/blog/ida-member-spotlight-michele-stephenson",
+            "title": "IDA Member Spotlight: Michèle Stephenson",
+            "summary": "    IDA Member Spotlight: Michèle Stephenson\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/ida-staff\" class=\"username\">idastaff</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-29T15:45:32-07:00\" title=\"Thursday, October 29, 2026 - 15:45\" class=\"datetime\">Thu, 10/29/2026 - 15:45</time>\n</span>\n\n\n",
+            "date_modified": "2026-10-29T22:45:32.000Z",
+            "author": {
+                "name": "idastaff"
+            }
+        },
+        {
             "id": "d961ec58c527fca61e62beaa0fcf812662a7d4fdaa3da0b2d39835a10451ae6f",
             "content_html": "    42nd IDA Documentary Awards Shortlists Announced for Best Features and Shorts\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/ida-staff\" class=\"username\">idastaff</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-27T12:51:09-07:00\" title=\"Tuesday, October 27, 2026 - 12:51\" class=\"datetime\">Tue, 10/27/2026 - 12:51</time>\n</span>\n\n\n",
             "url": "https://www.documentary.org/news-blog/42nd-ida-documentary-awards-shortlists-announced-best-features-and-shorts",
