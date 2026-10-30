@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 07:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 07:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية كفر مالك بقضاء رام…]]></title>
+            <link>https://t.me/aljazeeraBrk/242293</link>
+            <guid isPermaLink="false">2806dcf4e8d672937333c4690b44dd5b652a201d4303ae861a661eb84eff69de</guid>
+            <pubDate>Fri, 30 Oct 2026 07:43:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية كفر مالك بقضاء رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في قرية كفر مالك بقضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قيادة الأمن الداخلي في حلب: القبض على ستة أشخاص لقيامهم بسرقة كابلات نحاسية…]]></title>
             <link>https://t.me/HalabTodayTV/142345</link>
@@ -2125,16 +2134,6 @@
             <description><![CDATA[الحرس الثوري الإيراني: إسقاط طائرة مسيرة من طراز إم كيو 1 شرق مضيق هرمز قبالة مدينة سيريك]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: إسقاط طائرة مسيرة من طراز إم كيو 1 شرق مضيق هرمز قبالة مدينة سيريك]]></content:encoded>
             <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[🌧حالة الطقس في سوريا 29-10-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…]]></title>
-            <link>https://t.me/HalabTodayTV/142295</link>
-            <guid isPermaLink="false">815d765f2711a2c1a31abde4bd3929ac2f04ca20f4d91f89ef37047160867888</guid>
-            <pubDate>Thu, 29 Oct 2026 05:01:29 GMT</pubDate>
-            <description><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CA7.png')"><b>🌧</b></i>حالة الطقس في سوريا 29-10-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8CA7.png')"><b>🌧</b></i>حالة الطقس في سوريا 29-10-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
-            <enclosure url="https://cdn4.telesco.pe/file/QXfs-MJwshsHioWqedpu9LoRlBpKX2eTC8j16BVR93FdMg-hgFsRZFnXGLnmh0tT1_o_fxBHZ1LZ2TO1baeZwv6d6oSrDQ6o90FUH6yd76aNLduQAbnflxOGyEg0kEhvNaIgsZJxOcHhc4MeskL8YbSu-TI0dpBIWh3h-uLTqAreGluUEZNcwS10uPzXUrOkSY2QsitPdBsXr4DWiCgg0C2tdDnaemIh89WQk9K6viXEuH7mPv1SJGXQVtCTAY5v_YE2yHc8LBXTLlakv5K6Q7DxphuFPCgfCOm34W6OrPssKCzWggvniTuEKXJZBE829C0_MvyNt-NHK9qnnUhAow.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
