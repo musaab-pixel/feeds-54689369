@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 07:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 17:54:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IDA Statement on the Sentencing of Jafar Panahi]]></title>
+            <link>https://www.documentary.org/advocacy-blog/ida-statement-sentencing-jafar-panahi</link>
+            <guid isPermaLink="false">19e82f58abfb5d47637ca709c6532b453ab2ed32ebb01ed283123ef7c61208f2</guid>
+            <pubDate>Fri, 30 Oct 2026 17:43:09 GMT</pubDate>
+            <description><![CDATA[    IDA Statement on the Sentencing of Jafar Panahi
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-30T10:43:09-07:00" title="Friday, October 30, 2026 - 10:43" class="datetime">Fri, 10/30/2026 - 10:43</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    IDA Statement on the Sentencing of Jafar Panahi
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-30T10:43:09-07:00" title="Friday, October 30, 2026 - 10:43" class="datetime">Fri, 10/30/2026 - 10:43</time>
+</span>
+
+
+]]></content:encoded>
+            <author>ida-admin</author>
+        </item>
         <item>
             <title><![CDATA[IDA Member Spotlight: Michèle Stephenson]]></title>
             <link>https://www.documentary.org/blog/ida-member-spotlight-michele-stephenson</link>
