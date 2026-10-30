@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 12:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 13:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الادعاء يشمل جرائم الاعتداء على أمن الدولة وحيازة أسلحة ومتفجرات…]]></title>
+            <link>https://t.me/aljazeeraBrk/242329</link>
+            <guid isPermaLink="false">ba2c157c4dd7e4fea398151905254bcd79caf4c00c70431a4158a646832d9b01</guid>
+            <pubDate>Fri, 30 Oct 2026 13:09:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الادعاء يشمل جرائم الاعتداء على أمن الدولة وحيازة أسلحة ومتفجرات وتأليف جمعيات غير مشروعة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الادعاء يشمل جرائم الاعتداء على أمن الدولة وحيازة أسلحة ومتفجرات وتأليف جمعيات غير مشروعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: انفجار ناقلة نفط عملاقة بعد عبورها من مسار مخالف في هرمز…]]></title>
             <link>https://t.me/aljazeeraBrk/242328</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 18:53:02 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: نفذنا 1382 استهدافا خلال الساعات الماضية ضمن عملية فجر اليمن]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا 1382 استهدافا خلال الساعات الماضية ضمن عملية فجر اليمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: هناك محاولات لتخريب العملية الانتخابية…]]></title>
-            <link>https://t.me/aljazeeraBrk/241900</link>
-            <guid isPermaLink="false">bee8618ee921dfda0045bf702b21352338547ac2f35a9a9a986395b9e64d2df9</guid>
-            <pubDate>Tue, 27 Oct 2026 18:31:02 GMT</pubDate>
-            <description><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: هناك محاولات لتخريب العملية الانتخابية بمواقع عدة]]></description>
-            <content:encoded><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: هناك محاولات لتخريب العملية الانتخابية بمواقع عدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
