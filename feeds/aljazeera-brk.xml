@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 12:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 12:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مفوض الحكومة لدى المحكمة العسكرية يدعي على 8 أشخاص ينتمون لحزب…]]></title>
+            <link>https://t.me/aljazeeraBrk/242325</link>
+            <guid isPermaLink="false">5a2fd57f61ca2555d4c3b8bfe590733cc7d01a04cec9b5ea78a5a029aa6c4eba</guid>
+            <pubDate>Fri, 30 Oct 2026 12:40:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مفوض الحكومة لدى المحكمة العسكرية يدعي على 8 أشخاص ينتمون لحزب الله في قضية شاحنة المتفجرات]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مفوض الحكومة لدى المحكمة العسكرية يدعي على 8 أشخاص ينتمون لحزب الله في قضية شاحنة المتفجرات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: القضاء اللبناني يدعي على 8 أشخاص في قضية متفجرات ضهر البيدر]]></title>
             <link>https://t.me/aljazeeraBrk/242324</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 18:28:02 GMT</pubDate>
             <description><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: هدفنا إسقاط حكومة نتنياهو وإتاحة المجال لإقامة حكومة أقل سوءا]]></description>
             <content:encoded><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: هدفنا إسقاط حكومة نتنياهو وإتاحة المجال لإقامة حكومة أقل سوءا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: نريد أن نمنع نتنياهو من أن يصبح رئيسا…]]></title>
-            <link>https://t.me/aljazeeraBrk/241896</link>
-            <guid isPermaLink="false">cf81122483f55d8dce1c8344ad1f5b1a4fde02879e7c4bc286f3ead732d66d87</guid>
-            <pubDate>Tue, 27 Oct 2026 18:27:02 GMT</pubDate>
-            <description><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: نريد أن نمنع نتنياهو من أن يصبح رئيسا لحكومة انتقالية]]></description>
-            <content:encoded><![CDATA[رئيس الحركة العربية للتغيير للجزيرة: نريد أن نمنع نتنياهو من أن يصبح رئيسا لحكومة انتقالية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
