@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 08:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 08:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[السلطات الروسية: تأخر أكثر من 100 رحلة جوية في مطارات موسكو بسبب القيود على…]]></title>
+            <link>https://t.me/aljazeeraBrk/242295</link>
+            <guid isPermaLink="false">339b612b48bfe0abd90c63d6dbecb5c3f94c84856241a362e53498dc77a666be</guid>
+            <pubDate>Fri, 30 Oct 2026 08:05:02 GMT</pubDate>
+            <description><![CDATA[السلطات الروسية: تأخر أكثر من 100 رحلة جوية في مطارات موسكو بسبب القيود على الملاحة]]></description>
+            <content:encoded><![CDATA[السلطات الروسية: تأخر أكثر من 100 رحلة جوية في مطارات موسكو بسبب القيود على الملاحة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الكرملين: بوتين منفتح على الحوار مع الجميع بمن فيهم ماكرون وميرتس]]></title>
             <link>https://t.me/aljazeeraBrk/242294</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 14:54:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: سقوط شظايا صاروخين باليستيين في مدينة الرياض بعد اعتراضهما وتدميرهما]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: سقوط شظايا صاروخين باليستيين في مدينة الرياض بعد اعتراضهما وتدميرهما]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: تمكنا من استهداف مطار أبها الدولي…]]></title>
-            <link>https://t.me/aljazeeraBrk/241845</link>
-            <guid isPermaLink="false">ccee05891c3e23313922774bcc3d0b57ec1eafa287eecbdad6a302f990d10312</guid>
-            <pubDate>Tue, 27 Oct 2026 14:24:02 GMT</pubDate>
-            <description><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: تمكنا من استهداف مطار أبها الدولي بمسيرة وكانت الإصابة دقيقة]]></description>
-            <content:encoded><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: تمكنا من استهداف مطار أبها الدولي بمسيرة وكانت الإصابة دقيقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
