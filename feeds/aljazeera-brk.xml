@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 11:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 12:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الجيش الإيراني: قواتنا استهدفت ودمرت مسيرة بحرية تابعة للعدو في شرق مضيق…]]></title>
+            <link>https://t.me/aljazeeraBrk/242321</link>
+            <guid isPermaLink="false">a98528925174c9f76ee5e213fc2be822bb903ac5515acac5382315c2233f2ca1</guid>
+            <pubDate>Fri, 30 Oct 2026 11:53:02 GMT</pubDate>
+            <description><![CDATA[بحرية الجيش الإيراني: قواتنا استهدفت ودمرت مسيرة بحرية تابعة للعدو في شرق مضيق هرمز فجر اليوم]]></description>
+            <content:encoded><![CDATA[بحرية الجيش الإيراني: قواتنا استهدفت ودمرت مسيرة بحرية تابعة للعدو في شرق مضيق هرمز فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: نريد الحصول على ضمانات بألا تحصل إيران على سلاح نووي إطلاقا]]></title>
             <link>https://t.me/aljazeeraBrk/242320</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 27 Oct 2026 17:28:02 GMT</pubDate>
             <description><![CDATA[بوتين: الاستقرار في سوق الطاقة يعتمد على التنسيق الفعال بين روسيا وقطر]]></description>
             <content:encoded><![CDATA[بوتين: الاستقرار في سوق الطاقة يعتمد على التنسيق الفعال بين روسيا وقطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بوتين: روسيا مستعدة لبذل كل ما في وسعها لحل الوضع المعقد في الشرق الأوسط]]></title>
-            <link>https://t.me/aljazeeraBrk/241892</link>
-            <guid isPermaLink="false">23f235377837df67d6851991b45063872feac5d8b143c33896bf8f6bb8eda54a</guid>
-            <pubDate>Tue, 27 Oct 2026 17:27:02 GMT</pubDate>
-            <description><![CDATA[بوتين: روسيا مستعدة لبذل كل ما في وسعها لحل الوضع المعقد في الشرق الأوسط]]></description>
-            <content:encoded><![CDATA[بوتين: روسيا مستعدة لبذل كل ما في وسعها لحل الوضع المعقد في الشرق الأوسط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
