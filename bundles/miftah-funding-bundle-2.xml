@@ -4,10 +4,17 @@
         <title>Miftah Funding Bundle 2</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 2" (type: bundle)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 07:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 09:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[More about «Swiss woman abducted in Niger in 2025 is free»]]></title>
+            <link>https://www.eda.admin.ch/en/swiss-woman-kidnapped-in-niger</link>
+            <guid isPermaLink="false">186ceaff6429d8ba4bbf6dd67674cb0e7ac273d04c48b123d997fef39c399539</guid>
+            <pubDate>Fri, 30 Oct 2026 09:42:13 GMT</pubDate>
+            <enclosure url="https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/B11JF-LdNl3K/Niger_221026_EN.png?rect=0%2C1%2C1500%2C844&amp;w=1024&amp;auto=format" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[COP31: The Sorry State of Public Climate Finance Will Hamper Needed Ambition Analysis Trust between developed and developing country parties is at a new low. To make progress in advancing required ambitious climate action, the regime needs to address its biggest obstacle: a lack of adequate, predictable and highly concessional climate finance. Liane Schalatek]]></title>
             <link>https://www.boell.de/en/2026/10/29/cop31-antalya-sorry-state-public-climate-finance-will-hamper-needed-ambition</link>
@@ -4786,12 +4793,6 @@ Email us at <u><a href="/cdn-cgi/l/email-protection#8ffffde2cffbeeeef8e0e1a1e0fd
             <guid isPermaLink="false">7c50cae613939b676da6b16134f4f9a94777e8c38d1a023bb16bc55b55287628</guid>
             <pubDate>Wed, 02 Sep 2026 06:51:03 GMT</pubDate>
             <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2025-05/HERO%20BANNER%20GRANTS%20TRAILER_20s.mp4" length="0" type="image/mp4"/>
-        </item>
-        <item>
-            <title><![CDATA[Photo Gallery]]></title>
-            <link>https://www.dohafilm.com/en/press/media-library</link>
-            <guid isPermaLink="false">bbd69aaaf1740f2ae9535cfa181b24fd8778a9b1e05e6d11847c7ec2542545ad</guid>
-            <pubDate>Wed, 02 Sep 2026 06:51:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
