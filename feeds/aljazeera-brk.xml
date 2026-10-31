@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 31 Oct 2026 10:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 12:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع…]]></title>
+            <link>https://t.me/aljazeeraBrk/242438</link>
+            <guid isPermaLink="false">5c089b921a58015c080470f6636305b9d4b33fa9c3fa81c2b562d43a39c21041</guid>
+            <pubDate>Sat, 31 Oct 2026 12:43:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المرشد الإيراني لقادة القوات المسلحة: الدعم الوطني لقواتنا من ركائز الردع…]]></title>
             <link>https://t.me/aljazeeraBrk/242437</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 28 Oct 2026 13:54:02 GMT</pubDate>
             <description><![CDATA[وزارة النقل اليمنية: الحوثيون استهدفوا مطار عدن الدولي مرتين اليوم بصواريخ باليستية]]></description>
             <content:encoded><![CDATA[وزارة النقل اليمنية: الحوثيون استهدفوا مطار عدن الدولي مرتين اليوم بصواريخ باليستية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: 3 شهداء في قصف من مسيرة إسرائيلية على مواصي رفح جنوبي قطاع غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/242076</link>
-            <guid isPermaLink="false">c0173c1f4c07a78d8b45092fa8cf5424d4a7f7e8b58ce17d3f639170cf70a20c</guid>
-            <pubDate>Wed, 28 Oct 2026 13:52:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: 3 شهداء في قصف من مسيرة إسرائيلية على مواصي رفح جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: 3 شهداء في قصف من مسيرة إسرائيلية على مواصي رفح جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
