@@ -4163,11 +4163,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-2143186775" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-67835847" type="button">
           Décryptages
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-2143186775">
+  <div class="fr-collapse" id="accordion-67835847">
         
 
 <div class="my-8 md:my-10 print-para-space">
@@ -4295,11 +4295,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-2143186775" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-67835847" type="button">
           Décryptages
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-2143186775">
+  <div class="fr-collapse" id="accordion-67835847">
         
 
 <div class="my-8 md:my-10 print-para-space">
@@ -4649,6 +4649,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet" class="fr-card__link">Renforcement de la santé maternelle et des droits et santé sexuels et reproductifs</a>
               </h3>
       
@@ -4695,91 +4780,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet.jpg.webp?itok=2z6Yc2CT" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reintegration-durable-des-personnes-migrantes-de-retour-migret" class="fr-card__link">Réintégration durable des personnes migrantes de retour</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/reintegration-durable-des-personnes-migrantes-de-retour-migret.jpg.webp?itok=NFTmsUNY" width="715" height="402" alt>
 
 
 
@@ -5016,7 +5016,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
+                  <a href="https://www.afd.fr/fr/projets/femmes-dignite-et-travail-phase-iii" class="fr-card__link">Femmes, dignité et travail (phase III)</a>
               </h3>
       
               <div class="fr-card__start">
@@ -5029,7 +5029,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Santé et protection sociale
+    Égalité des sexes
   </p>
 
       </li>
@@ -5040,7 +5040,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation à la citoyenneté et à la solidarité internationale
+    Lutte contre les inégalités
   </p>
 
       </li>
@@ -5059,14 +5059,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2026</p>
+          <p class="fr-card__detail">2025 - 2028</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Trois Océans</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -5074,7 +5074,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-11/femmes-dignite-et-travail.jpg.webp?itok=EYgprM8p" width="715" height="402" alt>
 
 
 
@@ -5553,6 +5553,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet" class="fr-card__link">Renforcement de la santé maternelle et des droits et santé sexuels et reproductifs</a>
               </h3>
       
@@ -5599,91 +5684,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet.jpg.webp?itok=2z6Yc2CT" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reintegration-durable-des-personnes-migrantes-de-retour-migret" class="fr-card__link">Réintégration durable des personnes migrantes de retour</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/reintegration-durable-des-personnes-migrantes-de-retour-migret.jpg.webp?itok=NFTmsUNY" width="715" height="402" alt>
 
 
 
@@ -5920,7 +5920,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
+                  <a href="https://www.afd.fr/fr/projets/femmes-dignite-et-travail-phase-iii" class="fr-card__link">Femmes, dignité et travail (phase III)</a>
               </h3>
       
               <div class="fr-card__start">
@@ -5933,7 +5933,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Santé et protection sociale
+    Égalité des sexes
   </p>
 
       </li>
@@ -5944,7 +5944,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation à la citoyenneté et à la solidarité internationale
+    Lutte contre les inégalités
   </p>
 
       </li>
@@ -5963,14 +5963,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2026</p>
+          <p class="fr-card__detail">2025 - 2028</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Trois Océans</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -5978,7 +5978,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-11/femmes-dignite-et-travail.jpg.webp?itok=EYgprM8p" width="715" height="402" alt>
 
 
 
@@ -6651,6 +6651,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet" class="fr-card__link">Renforcement de la santé maternelle et des droits et santé sexuels et reproductifs</a>
               </h3>
       
@@ -6697,91 +6782,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet.jpg.webp?itok=2z6Yc2CT" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reintegration-durable-des-personnes-migrantes-de-retour-migret" class="fr-card__link">Réintégration durable des personnes migrantes de retour</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/reintegration-durable-des-personnes-migrantes-de-retour-migret.jpg.webp?itok=NFTmsUNY" width="715" height="402" alt>
 
 
 
@@ -7542,6 +7542,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet" class="fr-card__link">Renforcement de la santé maternelle et des droits et santé sexuels et reproductifs</a>
               </h3>
       
@@ -7588,91 +7673,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet.jpg.webp?itok=2z6Yc2CT" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reintegration-durable-des-personnes-migrantes-de-retour-migret" class="fr-card__link">Réintégration durable des personnes migrantes de retour</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/reintegration-durable-des-personnes-migrantes-de-retour-migret.jpg.webp?itok=NFTmsUNY" width="715" height="402" alt>
 
 
 
@@ -8440,6 +8440,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet" class="fr-card__link">Renforcement de la santé maternelle et des droits et santé sexuels et reproductifs</a>
               </h3>
       
@@ -8486,91 +8571,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet.jpg.webp?itok=2z6Yc2CT" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reintegration-durable-des-personnes-migrantes-de-retour-migret" class="fr-card__link">Réintégration durable des personnes migrantes de retour</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/reintegration-durable-des-personnes-migrantes-de-retour-migret.jpg.webp?itok=NFTmsUNY" width="715" height="402" alt>
 
 
 
@@ -9331,6 +9331,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet" class="fr-card__link">Renforcement de la santé maternelle et des droits et santé sexuels et reproductifs</a>
               </h3>
       
@@ -9377,91 +9462,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/renforcement-de-la-sante-maternelle-et-des-droits-et-sante-sexuels-et-reproductifs-projet.jpg.webp?itok=2z6Yc2CT" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/reintegration-durable-des-personnes-migrantes-de-retour-migret" class="fr-card__link">Réintégration durable des personnes migrantes de retour</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/reintegration-durable-des-personnes-migrantes-de-retour-migret.jpg.webp?itok=NFTmsUNY" width="715" height="402" alt>
 
 
 
