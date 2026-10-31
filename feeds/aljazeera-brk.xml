@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 31 Oct 2026 10:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 10:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في منطقة وادي الشاعر بقضاء…]]></title>
+            <link>https://t.me/aljazeeraBrk/242430</link>
+            <guid isPermaLink="false">c07fe87e309c82753815235fe3b34a75a8b456cdc774c5e35259fd1a3a90528e</guid>
+            <pubDate>Sat, 31 Oct 2026 10:27:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في منطقة وادي الشاعر بقضاء سلفيت شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على قاطفي الزيتون في منطقة وادي الشاعر بقضاء سلفيت شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مسؤول في جزيرة قشم الإيرانية: العثور على الصيادين المفقودين إثر استهداف مسيرة…]]></title>
             <link>https://t.me/aljazeeraBrk/242429</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 28 Oct 2026 13:23:02 GMT</pubDate>
             <description><![CDATA[أحمد الطيبي رئيس كتلة القائمة المشتركة للجزيرة: معسكر المعارضة تواصل معنا للتنسيق بشأن تغيير رئيس الكنيست]]></description>
             <content:encoded><![CDATA[أحمد الطيبي رئيس كتلة القائمة المشتركة للجزيرة: معسكر المعارضة تواصل معنا للتنسيق بشأن تغيير رئيس الكنيست]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: 3 غارات على مواقع مليشيا الحوثي في جبهتي الأقروض…]]></title>
-            <link>https://t.me/aljazeeraBrk/242068</link>
-            <guid isPermaLink="false">9933be7af69352afaca516f95a4b95a3c170f3fcf50dd886e58be889d49f61d7</guid>
-            <pubDate>Wed, 28 Oct 2026 13:17:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: 3 غارات على مواقع مليشيا الحوثي في جبهتي الأقروض وكحلان جنوب شرقي تعز]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: 3 غارات على مواقع مليشيا الحوثي في جبهتي الأقروض وكحلان جنوب شرقي تعز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
