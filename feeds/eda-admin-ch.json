@@ -5,6 +5,13 @@
     "description": "RSS Factory feed \"eda.admin.ch\" (type: website)",
     "items": [
         {
+            "id": "7b3603b152f7472f5a20c0284525aded0a6476a619ad26476c379a5abce3b892",
+            "url": "https://www.eda.admin.ch/en/leading-by-example-reports-from-the-embassies",
+            "title": "More about «Let's Focus #20: The Architecture of Our Embassies»",
+            "image": "https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/SCfoFfStDQba/lets%20Focus-20_Thumbnail-16x9-GEU.jpg?w=1024&auto=format",
+            "date_modified": "2026-10-31T09:29:49.765Z"
+        },
+        {
             "id": "186ceaff6429d8ba4bbf6dd67674cb0e7ac273d04c48b123d997fef39c399539",
             "url": "https://www.eda.admin.ch/en/swiss-woman-kidnapped-in-niger",
             "title": "More about «Swiss woman abducted in Niger in 2025 is free»",
