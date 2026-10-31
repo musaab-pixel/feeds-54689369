@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 31 Oct 2026 09:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 10:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[موقع المرشد الإيراني: المرشد التقى كبار قادة القوات المسلحة للبلاد وأصدر لهم…]]></title>
+            <link>https://t.me/aljazeeraBrk/242428</link>
+            <guid isPermaLink="false">2745ff5dd4d6284e1d6122898e1dc949ac615ef3b566e3120a7fd13f6a95417f</guid>
+            <pubDate>Sat, 31 Oct 2026 09:59:02 GMT</pubDate>
+            <description><![CDATA[موقع المرشد الإيراني: المرشد التقى كبار قادة القوات المسلحة للبلاد وأصدر لهم توجيهات استراتيجية]]></description>
+            <content:encoded><![CDATA[موقع المرشد الإيراني: المرشد التقى كبار قادة القوات المسلحة للبلاد وأصدر لهم توجيهات استراتيجية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة فارس: إصابة صيادين اثنين وفقدان اثنين في هجوم مسيرة معادية على قاربي صيد…]]></title>
             <link>https://t.me/aljazeeraBrk/242427</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 28 Oct 2026 13:15:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإسرائيلي: علينا فعل المستحيل لعدم الذهاب إلى إعادة الانتخابات]]></description>
             <content:encoded><![CDATA[الرئيس الإسرائيلي: علينا فعل المستحيل لعدم الذهاب إلى إعادة الانتخابات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي رفح جنوبي قطاع غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/242066</link>
-            <guid isPermaLink="false">01ad5de431ef225df5419605146e38259714ed6715ae5665c7dcf11c736e9e3a</guid>
-            <pubDate>Wed, 28 Oct 2026 13:12:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي رفح جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي رفح جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
