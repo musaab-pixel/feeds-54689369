@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 31 Oct 2026 09:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 09:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة فارس: إصابة صيادين اثنين وفقدان اثنين في هجوم مسيرة معادية على قاربي صيد…]]></title>
+            <link>https://t.me/aljazeeraBrk/242427</link>
+            <guid isPermaLink="false">0bf68f94cdc1fd8fdb7082c4e126833aff68a0385b85909d5fece1c4fdbe6520</guid>
+            <pubDate>Sat, 31 Oct 2026 09:34:01 GMT</pubDate>
+            <description><![CDATA[وكالة فارس: إصابة صيادين اثنين وفقدان اثنين في هجوم مسيرة معادية على قاربي صيد جنوبي جزيرة قشم]]></description>
+            <content:encoded><![CDATA[وكالة فارس: إصابة صيادين اثنين وفقدان اثنين في هجوم مسيرة معادية على قاربي صيد جنوبي جزيرة قشم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنذر بهدم منشآت صناعية وتجارية عند…]]></title>
             <link>https://t.me/aljazeeraBrk/242426</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 28 Oct 2026 13:12:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي رفح جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي رفح جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سلطات إقليم كاستيا لا مانتشا الإسباني: ارتفاع عدد قتلى حادث تصادم القطارين إلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/242065</link>
-            <guid isPermaLink="false">ca52b37ba79c3418175a6338a8307485452fcc929e3865547f19a13ba93f14da</guid>
-            <pubDate>Wed, 28 Oct 2026 13:05:02 GMT</pubDate>
-            <description><![CDATA[سلطات إقليم كاستيا لا مانتشا الإسباني: ارتفاع عدد قتلى حادث تصادم القطارين إلى 64]]></description>
-            <content:encoded><![CDATA[سلطات إقليم كاستيا لا مانتشا الإسباني: ارتفاع عدد قتلى حادث تصادم القطارين إلى 64]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
