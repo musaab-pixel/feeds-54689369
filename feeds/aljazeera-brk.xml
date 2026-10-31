@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 31 Oct 2026 10:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 10:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مسؤول في جزيرة قشم الإيرانية: العثور على الصيادين المفقودين إثر استهداف مسيرة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242429</link>
+            <guid isPermaLink="false">7650a0eea8231e66a2960e043333532ef4a92193a5bc2289bb4b5274225b74be</guid>
+            <pubDate>Sat, 31 Oct 2026 10:15:02 GMT</pubDate>
+            <description><![CDATA[مسؤول في جزيرة قشم الإيرانية: العثور على الصيادين المفقودين إثر استهداف مسيرة معادية قاربي صيد قبالة سواحل قشم]]></description>
+            <content:encoded><![CDATA[مسؤول في جزيرة قشم الإيرانية: العثور على الصيادين المفقودين إثر استهداف مسيرة معادية قاربي صيد قبالة سواحل قشم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[موقع المرشد الإيراني: المرشد التقى كبار قادة القوات المسلحة للبلاد وأصدر لهم…]]></title>
             <link>https://t.me/aljazeeraBrk/242428</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 28 Oct 2026 13:17:02 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: 3 غارات على مواقع مليشيا الحوثي في جبهتي الأقروض وكحلان جنوب شرقي تعز]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: 3 غارات على مواقع مليشيا الحوثي في جبهتي الأقروض وكحلان جنوب شرقي تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإسرائيلي: علينا فعل المستحيل لعدم الذهاب إلى إعادة الانتخابات]]></title>
-            <link>https://t.me/aljazeeraBrk/242067</link>
-            <guid isPermaLink="false">decdf4ec9de4ced7d2e08d79264e3fb65aa363c0cbd83ddc51448f6d2c56c089</guid>
-            <pubDate>Wed, 28 Oct 2026 13:15:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الإسرائيلي: علينا فعل المستحيل لعدم الذهاب إلى إعادة الانتخابات]]></description>
-            <content:encoded><![CDATA[الرئيس الإسرائيلي: علينا فعل المستحيل لعدم الذهاب إلى إعادة الانتخابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
