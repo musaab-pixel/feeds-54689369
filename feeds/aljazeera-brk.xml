@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 08:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 08:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الطوارئ الأوكرانية: 6 مصابين في هجمات روسية على مدينة سومي شمال شرق البلاد]]></title>
+            <link>https://t.me/aljazeeraBrk/242518</link>
+            <guid isPermaLink="false">aaf8e6df70d9cab59be625a0307a62753a27e41b7fd6e4cc76fb4239b56ddd09</guid>
+            <pubDate>Sun, 01 Nov 2026 08:18:02 GMT</pubDate>
+            <description><![CDATA[هيئة الطوارئ الأوكرانية: 6 مصابين في هجمات روسية على مدينة سومي شمال شرق البلاد]]></description>
+            <content:encoded><![CDATA[هيئة الطوارئ الأوكرانية: 6 مصابين في هجمات روسية على مدينة سومي شمال شرق البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[شركة قطر لنقل الغاز: الناقلة "المايده" في وضع آمن وقادرة على التحكم بقدراتها…]]></title>
             <link>https://t.me/aljazeeraBrk/242517</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 29 Oct 2026 11:46:02 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: طائرات حربية تشن غارتين على معسكر لمليشيا الحوثي بمنطقة الأشعاب غربي تعز]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: طائرات حربية تشن غارتين على معسكر لمليشيا الحوثي بمنطقة الأشعاب غربي تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف والطوارئ: مصاب في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمال مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/242186</link>
-            <guid isPermaLink="false">e47d06084753f30f11a4f1206b2270f633bfc34cbe14871c3375cdcfdbb655e1</guid>
-            <pubDate>Thu, 29 Oct 2026 11:41:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف والطوارئ: مصاب في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمال مدينة غزة]]></description>
-            <content:encoded><![CDATA[الإسعاف والطوارئ: مصاب في غارة من مسيرة إسرائيلية على منطقة الصفطاوي شمال مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
