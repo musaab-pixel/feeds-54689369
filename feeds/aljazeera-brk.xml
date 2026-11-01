@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 08:51:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 09:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هآرتس: إصابة أحد المتظاهرين الحريديم إثر استخدام الشرطة الإسرائيلية قنابل صوت…]]></title>
+            <link>https://t.me/aljazeeraBrk/242520</link>
+            <guid isPermaLink="false">7d0ad21edbd2b5c64e7280871ef29c0ab3e19a50a968fd3564ef73895548c3d3</guid>
+            <pubDate>Sun, 01 Nov 2026 08:54:01 GMT</pubDate>
+            <description><![CDATA[هآرتس: إصابة أحد المتظاهرين الحريديم إثر استخدام الشرطة الإسرائيلية قنابل صوت لتفريق احتجاج شرق تل أبيب]]></description>
+            <content:encoded><![CDATA[هآرتس: إصابة أحد المتظاهرين الحريديم إثر استخدام الشرطة الإسرائيلية قنابل صوت لتفريق احتجاج شرق تل أبيب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة الطوارئ الأوكرانية: 4 مصابين في هجوم روسي على مبنى سكني في منطقة أوستروغ…]]></title>
             <link>https://t.me/aljazeeraBrk/242519</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 29 Oct 2026 12:05:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الكرملين للجزيرة: مستعدون للعب دور الوساطة بين إيران والولايات المتحدة إذا طلب منا ذلك]]></description>
             <content:encoded><![CDATA[المتحدث باسم الكرملين للجزيرة: مستعدون للعب دور الوساطة بين إيران والولايات المتحدة إذا طلب منا ذلك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[شرطة دنيبرو الأوكرانية: ارتفاع عدد ضحايا الهجوم الروسي على المدينة إلى ١٤ قتيلا…]]></title>
-            <link>https://t.me/aljazeeraBrk/242188</link>
-            <guid isPermaLink="false">46777d3bf431f534c18d16d29002e48304fe4fa5b55e970cf5805563abb68867</guid>
-            <pubDate>Thu, 29 Oct 2026 11:53:02 GMT</pubDate>
-            <description><![CDATA[شرطة دنيبرو الأوكرانية: ارتفاع عدد ضحايا الهجوم الروسي على المدينة إلى ١٤ قتيلا و٢٣ مصابا]]></description>
-            <content:encoded><![CDATA[شرطة دنيبرو الأوكرانية: ارتفاع عدد ضحايا الهجوم الروسي على المدينة إلى ١٤ قتيلا و٢٣ مصابا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
