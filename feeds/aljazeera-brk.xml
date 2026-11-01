@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 07:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 07:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس حزب الديمقراطيين الإسرائيلي يائير غولان: علينا ألا نسمح بتحول أمن إسرائيل…]]></title>
+            <link>https://t.me/aljazeeraBrk/242513</link>
+            <guid isPermaLink="false">64f06275953130eb250dfc2cbf7843e0378ba35a336f9e374499883f45824b94</guid>
+            <pubDate>Sun, 01 Nov 2026 07:34:02 GMT</pubDate>
+            <description><![CDATA[رئيس حزب الديمقراطيين الإسرائيلي يائير غولان: علينا ألا نسمح بتحول أمن إسرائيل لأداة في صراع نتنياهو للبقاء]]></description>
+            <content:encoded><![CDATA[رئيس حزب الديمقراطيين الإسرائيلي يائير غولان: علينا ألا نسمح بتحول أمن إسرائيل لأداة في صراع نتنياهو للبقاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام إسرائيلية: متظاهرون من الحريديم يتجمعون عند معسكر تجنيد شرق تل أبيب…]]></title>
             <link>https://t.me/aljazeeraBrk/242511</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 29 Oct 2026 10:52:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام إسرائيلية: انتهاء فرز نحو 96% من أصوات انتخابات الكنيست دون تغيير في النتائج]]></description>
             <content:encoded><![CDATA[وسائل إعلام إسرائيلية: انتهاء فرز نحو 96% من أصوات انتخابات الكنيست دون تغيير في النتائج]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الصحة في غزة: نطالب بفتح معبر رفح أمام سفر المرضى والجرحى بشكل عاجل دون…]]></title>
-            <link>https://t.me/aljazeeraBrk/242181</link>
-            <guid isPermaLink="false">58bc5d31b8c4620f7e1ce469d96cd36c8a4e60e45638b10abe82573bbc5fe085</guid>
-            <pubDate>Thu, 29 Oct 2026 10:16:02 GMT</pubDate>
-            <description><![CDATA[وزارة الصحة في غزة: نطالب بفتح معبر رفح أمام سفر المرضى والجرحى بشكل عاجل دون قيود أو تعقيدات]]></description>
-            <content:encoded><![CDATA[وزارة الصحة في غزة: نطالب بفتح معبر رفح أمام سفر المرضى والجرحى بشكل عاجل دون قيود أو تعقيدات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

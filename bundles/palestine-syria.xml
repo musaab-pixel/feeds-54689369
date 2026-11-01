@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 07:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 07:38:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس حزب الديمقراطيين الإسرائيلي يائير غولان: علينا ألا نسمح بتحول أمن إسرائيل…]]></title>
+            <link>https://t.me/aljazeeraBrk/242513</link>
+            <guid isPermaLink="false">64f06275953130eb250dfc2cbf7843e0378ba35a336f9e374499883f45824b94</guid>
+            <pubDate>Sun, 01 Nov 2026 07:34:02 GMT</pubDate>
+            <description><![CDATA[رئيس حزب الديمقراطيين الإسرائيلي يائير غولان: علينا ألا نسمح بتحول أمن إسرائيل لأداة في صراع نتنياهو للبقاء]]></description>
+            <content:encoded><![CDATA[رئيس حزب الديمقراطيين الإسرائيلي يائير غولان: علينا ألا نسمح بتحول أمن إسرائيل لأداة في صراع نتنياهو للبقاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام إسرائيلية: متظاهرون من الحريديم يتجمعون عند معسكر تجنيد شرق تل أبيب…]]></title>
             <link>https://t.me/aljazeeraBrk/242511</link>
@@ -1795,15 +1804,6 @@
             <pubDate>Fri, 30 Oct 2026 18:05:02 GMT</pubDate>
             <description><![CDATA[القيادة المركزية الأمريكية: جميع الزوارق المسيرة الأمريكية في الشرق الأوسط موجودة ولم يفقد أي منها]]></description>
             <content:encoded><![CDATA[القيادة المركزية الأمريكية: جميع الزوارق المسيرة الأمريكية في الشرق الأوسط موجودة ولم يفقد أي منها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القيادة المركزية الأمريكية: ادعاء الحرس الثوري أنه دمر زورقا أمريكيا مسيرا…]]></title>
-            <link>https://t.me/aljazeeraBrk/242358</link>
-            <guid isPermaLink="false">164838572a737895bf5fe8ec016437dab86d2fffa987cbbdc639a5b3b3203092</guid>
-            <pubDate>Fri, 30 Oct 2026 18:04:01 GMT</pubDate>
-            <description><![CDATA[القيادة المركزية الأمريكية: ادعاء الحرس الثوري أنه دمر زورقا أمريكيا مسيرا بمضيق هرمز كاذب كالعديد من أكاذيبه]]></description>
-            <content:encoded><![CDATA[القيادة المركزية الأمريكية: ادعاء الحرس الثوري أنه دمر زورقا أمريكيا مسيرا بمضيق هرمز كاذب كالعديد من أكاذيبه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
