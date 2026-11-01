@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 16:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 17:00:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة البث الإسرائيلية: المدير العام للكنيست يدعو رؤساء القوائم إلى الاجتماع في…]]></title>
+            <link>https://t.me/aljazeeraBrk/242571</link>
+            <guid isPermaLink="false">085a82044968f2964b28714a550c5606ec529d575b4a435d095e4c052cfce94b</guid>
+            <pubDate>Sun, 01 Nov 2026 17:00:03 GMT</pubDate>
+            <description><![CDATA[هيئة البث الإسرائيلية: المدير العام للكنيست يدعو رؤساء القوائم إلى الاجتماع في مقر الرئاسة الأربعاء]]></description>
+            <content:encoded><![CDATA[هيئة البث الإسرائيلية: المدير العام للكنيست يدعو رؤساء القوائم إلى الاجتماع في مقر الرئاسة الأربعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئاسة الإيرانية: وزير الخارجية قدم تقريرا للحكومة بشأن مستجدات المفاوضات مع…]]></title>
             <link>https://t.me/aljazeeraBrk/242570</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 08:36:01 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية استهدفت مديرية ماهلية في مأرب وحيفان في تعز وحويشان بالجوف]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية استهدفت مديرية ماهلية في مأرب وحيفان في تعز وحويشان بالجوف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القناة 12 الإسرائيلية عن مصدر: نتنياهو يجتمع مع بن غفير في محاولة لعرقلة تشكيل…]]></title>
-            <link>https://t.me/aljazeeraBrk/242297</link>
-            <guid isPermaLink="false">10c0b43d44f9ee09f649789335f9b1b2c0b2557d9c33f1ad99fd47d4e4530806</guid>
-            <pubDate>Fri, 30 Oct 2026 08:29:03 GMT</pubDate>
-            <description><![CDATA[القناة 12 الإسرائيلية عن مصدر: نتنياهو يجتمع مع بن غفير في محاولة لعرقلة تشكيل معسكر التغيير حكومة أقلية]]></description>
-            <content:encoded><![CDATA[القناة 12 الإسرائيلية عن مصدر: نتنياهو يجتمع مع بن غفير في محاولة لعرقلة تشكيل معسكر التغيير حكومة أقلية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
