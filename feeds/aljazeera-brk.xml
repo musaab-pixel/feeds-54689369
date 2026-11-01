@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 15:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 15:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سانا عن مصدر في الاستخبارات العامة السورية: إحباط مخطط إرهابي لاستهداف مصفاة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242558</link>
+            <guid isPermaLink="false">1bfdcabe3c2cc25816d24601742bbd15891293c5d521f4ad64f7016724b5bfd2</guid>
+            <pubDate>Sun, 01 Nov 2026 15:36:02 GMT</pubDate>
+            <description><![CDATA[سانا عن مصدر في الاستخبارات العامة السورية: إحباط مخطط إرهابي لاستهداف مصفاة بانياس]]></description>
+            <content:encoded><![CDATA[سانا عن مصدر في الاستخبارات العامة السورية: إحباط مخطط إرهابي لاستهداف مصفاة بانياس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الأمين العام لمجلس التعاون الخليجي: ندعم تدابير قطر وإجراءاتها لصون مقدراتها…]]></title>
             <link>https://t.me/aljazeeraBrk/242557</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 05:58:01 GMT</pubDate>
             <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: نؤكد أن قواتنا لم تنفذ اليوم أي عملية باتجاه العمق السعودي]]></description>
             <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: نؤكد أن قواتنا لم تنفذ اليوم أي عملية باتجاه العمق السعودي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة تاس عن حاكم مقاطعة تولا الروسية: تدمير 21 طائرة مسيرة أوكرانية فوق…]]></title>
-            <link>https://t.me/aljazeeraBrk/242284</link>
-            <guid isPermaLink="false">6f979f7a03823f91b633d84c742b7e513baab20c59a7f167b3b0129199ae9ac8</guid>
-            <pubDate>Fri, 30 Oct 2026 04:18:02 GMT</pubDate>
-            <description><![CDATA[وكالة تاس عن حاكم مقاطعة تولا الروسية: تدمير 21 طائرة مسيرة أوكرانية فوق المقاطعة خلال الليل]]></description>
-            <content:encoded><![CDATA[وكالة تاس عن حاكم مقاطعة تولا الروسية: تدمير 21 طائرة مسيرة أوكرانية فوق المقاطعة خلال الليل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
