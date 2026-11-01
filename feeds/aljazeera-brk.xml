@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 13:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 14:00:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[محافظ تعز للجزيرة: 20 % فقط من مستشفيات المدينة تعمل ومئات المرافق الطبية توقفت…]]></title>
+            <link>https://t.me/aljazeeraBrk/242546</link>
+            <guid isPermaLink="false">9876a34158af4434eb615e39a6f6a30763e8d2cf7b91ba84e3c0112d2f193fa7</guid>
+            <pubDate>Sun, 01 Nov 2026 13:46:01 GMT</pubDate>
+            <description><![CDATA[محافظ تعز للجزيرة: 20 % فقط من مستشفيات المدينة تعمل ومئات المرافق الطبية توقفت عن تقديم خدماتها]]></description>
+            <content:encoded><![CDATA[محافظ تعز للجزيرة: 20 % فقط من مستشفيات المدينة تعمل ومئات المرافق الطبية توقفت عن تقديم خدماتها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظ تعز للجزيرة: على المجتمع الدولي العمل على فك الحصار عن المدينة وفتح طريق…]]></title>
             <link>https://t.me/aljazeeraBrk/242545</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 02:38:02 GMT</pubDate>
             <description><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الحادث الأمني ربما نتج عن اختراق حاسوب خاص بأحد مهندسي عمليات التطوير]]></description>
             <content:encoded><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الحادث الأمني ربما نتج عن اختراق حاسوب خاص بأحد مهندسي عمليات التطوير]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: استهدفنا سفينة متجهة إلى ميناء أوديسا كانت تنقل شحنات…]]></title>
-            <link>https://t.me/aljazeeraBrk/242214</link>
-            <guid isPermaLink="false">00a83becec7d85423924ecc2ae5ed8ef6805a50c2ee4d395e94508a5c91561bb</guid>
-            <pubDate>Thu, 29 Oct 2026 15:19:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: استهدفنا سفينة متجهة إلى ميناء أوديسا كانت تنقل شحنات للقوات الأوكرانية]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهدفنا سفينة متجهة إلى ميناء أوديسا كانت تنقل شحنات للقوات الأوكرانية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
