@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 14:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 14:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشار المرشد الإيراني: عقيدتنا الدفاعية تتطور سريعا ونطاق الردع أعيد تعريفه…]]></title>
+            <link>https://t.me/aljazeeraBrk/242547</link>
+            <guid isPermaLink="false">887318c630e7c6a6b5094b758cc13c3a96484a103ac0a079e6f9f0053dbbec43</guid>
+            <pubDate>Sun, 01 Nov 2026 14:20:02 GMT</pubDate>
+            <description><![CDATA[مستشار المرشد الإيراني: عقيدتنا الدفاعية تتطور سريعا ونطاق الردع أعيد تعريفه ليتجاوز الإطار الإقليمي]]></description>
+            <content:encoded><![CDATA[مستشار المرشد الإيراني: عقيدتنا الدفاعية تتطور سريعا ونطاق الردع أعيد تعريفه ليتجاوز الإطار الإقليمي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظ تعز للجزيرة: 20 % فقط من مستشفيات المدينة تعمل ومئات المرافق الطبية توقفت…]]></title>
             <link>https://t.me/aljazeeraBrk/242546</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 02:38:03 GMT</pubDate>
             <description><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الاختراق أتاح للمهاجم تنفيذ عمليات سحب أموال غير مصرح بها]]></description>
             <content:encoded><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الاختراق أتاح للمهاجم تنفيذ عمليات سحب أموال غير مصرح بها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الحادث الأمني ربما نتج عن اختراق حاسوب…]]></title>
-            <link>https://t.me/aljazeeraBrk/242273</link>
-            <guid isPermaLink="false">679a7f123ca4bd596815d53ebd6e35a11704f75427d2f729bb357a51fd525d96</guid>
-            <pubDate>Fri, 30 Oct 2026 02:38:02 GMT</pubDate>
-            <description><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الحادث الأمني ربما نتج عن اختراق حاسوب خاص بأحد مهندسي عمليات التطوير]]></description>
-            <content:encoded><![CDATA[منصة باينانس: تحقيقات أولية تشير إلى أن الحادث الأمني ربما نتج عن اختراق حاسوب خاص بأحد مهندسي عمليات التطوير]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
