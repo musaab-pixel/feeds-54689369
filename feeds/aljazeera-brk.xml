@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 15:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 16:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب لفوكس نيوز: هناك أمور لم تحسم بعد في إيران]]></title>
+            <link>https://t.me/aljazeeraBrk/242561</link>
+            <guid isPermaLink="false">117fa27f29b950e459c89e28406c0197b2436916069e7bd49f9d492efee5304b</guid>
+            <pubDate>Sun, 01 Nov 2026 16:00:02 GMT</pubDate>
+            <description><![CDATA[ترمب لفوكس نيوز: هناك أمور لم تحسم بعد في إيران]]></description>
+            <content:encoded><![CDATA[ترمب لفوكس نيوز: هناك أمور لم تحسم بعد في إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: إسقاط طائرتين مسيرتين للمليشيا الحوثية في جبهة صبر]]></title>
             <link>https://t.me/aljazeeraBrk/242560</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 06:22:02 GMT</pubDate>
             <description><![CDATA[نتنياهو: يجب عدم تشكيل حكومة مع قوائم عربية]]></description>
             <content:encoded><![CDATA[نتنياهو: يجب عدم تشكيل حكومة مع قوائم عربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عمدة موسكو: 862 مسيرة أوكرانية أطلقت باتجاه العاصمة الليلة الماضية وتم إسقاط…]]></title>
-            <link>https://t.me/aljazeeraBrk/242287</link>
-            <guid isPermaLink="false">e7262f7992e89f0ef29f6ab3204279fb7f7198df3d00351087c306a215aaf5bb</guid>
-            <pubDate>Fri, 30 Oct 2026 06:21:02 GMT</pubDate>
-            <description><![CDATA[عمدة موسكو: 862 مسيرة أوكرانية أطلقت باتجاه العاصمة الليلة الماضية وتم إسقاط معظمها على مسافات بعيدة]]></description>
-            <content:encoded><![CDATA[عمدة موسكو: 862 مسيرة أوكرانية أطلقت باتجاه العاصمة الليلة الماضية وتم إسقاط معظمها على مسافات بعيدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
