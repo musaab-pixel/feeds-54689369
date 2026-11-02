@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 06:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 06:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم التحالف: الدفاع الجوي اعترض ودمر صاروخا باليستيا أطلقته المليشيا…]]></title>
+            <link>https://t.me/aljazeeraBrk/242641</link>
+            <guid isPermaLink="false">be77ac05b56788c2b29cd8b17c6040e0d86209331170b3c9a1cec264b66e0bb3</guid>
+            <pubDate>Mon, 02 Nov 2026 06:41:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم التحالف: الدفاع الجوي اعترض ودمر صاروخا باليستيا أطلقته المليشيا الحوثية باتجاه المنطقة الجنوبية]]></description>
+            <content:encoded><![CDATA[المتحدث باسم التحالف: الدفاع الجوي اعترض ودمر صاروخا باليستيا أطلقته المليشيا الحوثية باتجاه المنطقة الجنوبية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس بلدية الخليل للجزيرة: السكان الذين أجبروا على ترك منازلهم في المدينة بدأوا…]]></title>
             <link>https://t.me/aljazeeraBrk/242640</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 17:51:02 GMT</pubDate>
             <description><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يشعر بتفاؤل حذر إزاء الوساطة بين إيران وأمريكا]]></description>
             <content:encoded><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يشعر بتفاؤل حذر إزاء الوساطة بين إيران وأمريكا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يحذر من وجود أطراف قوية تسعى لعرقلة الوساطة…]]></title>
-            <link>https://t.me/aljazeeraBrk/242355</link>
-            <guid isPermaLink="false">791e156b6127e81cba050f27f7f385e1c4d3c0e67b92af54fbaa04705650f5b2</guid>
-            <pubDate>Fri, 30 Oct 2026 17:51:02 GMT</pubDate>
-            <description><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يحذر من وجود أطراف قوية تسعى لعرقلة الوساطة بين إيران وأمريكا]]></description>
-            <content:encoded><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يحذر من وجود أطراف قوية تسعى لعرقلة الوساطة بين إيران وأمريكا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
