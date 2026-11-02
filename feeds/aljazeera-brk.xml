@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 13:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 13:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة مهر: مسلحون هاجموا سيارة مهندسين ومقاولين في سراوان بمحافظة سيستان…]]></title>
+            <link>https://t.me/aljazeeraBrk/242678</link>
+            <guid isPermaLink="false">6ece28e9213f68bcba96330c1cffeabd6daa03f6c6791cce7cef6b65657a19c7</guid>
+            <pubDate>Mon, 02 Nov 2026 13:52:02 GMT</pubDate>
+            <description><![CDATA[وكالة مهر: مسلحون هاجموا سيارة مهندسين ومقاولين في سراوان بمحافظة سيستان وبلوشستان ولا خسائر بشرية]]></description>
+            <content:encoded><![CDATA[وكالة مهر: مسلحون هاجموا سيارة مهندسين ومقاولين في سراوان بمحافظة سيستان وبلوشستان ولا خسائر بشرية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس الإيراني: نسعى إلى حل المشاكل عبر الحوار والمرشد منح الحكومة بعض…]]></title>
             <link>https://t.me/aljazeeraBrk/242677</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 31 Oct 2026 12:52:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الإيراني للجزيرة: درسنا رسالة فانس بدقة وناقشناها في اجتماعات رفيعة المستوى]]></description>
             <content:encoded><![CDATA[وزير الخارجية الإيراني للجزيرة: درسنا رسالة فانس بدقة وناقشناها في اجتماعات رفيعة المستوى]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/242438</link>
-            <guid isPermaLink="false">5c089b921a58015c080470f6636305b9d4b33fa9c3fa81c2b562d43a39c21041</guid>
-            <pubDate>Sat, 31 Oct 2026 12:43:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابون في غارة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
