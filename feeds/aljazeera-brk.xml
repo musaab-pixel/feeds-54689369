@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 09:00:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش السوداني: منشقون من مليشيا الدعم السريع يسلمون أنفسهم للفرقة الرابعة مشاة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242653</link>
+            <guid isPermaLink="false">5b30b5dfcd00789aa9b873a146e04f0caf001448537036b6fd136d3b0f3d6c9f</guid>
+            <pubDate>Mon, 02 Nov 2026 08:49:02 GMT</pubDate>
+            <description><![CDATA[الجيش السوداني: منشقون من مليشيا الدعم السريع يسلمون أنفسهم للفرقة الرابعة مشاة بالدمازين]]></description>
+            <content:encoded><![CDATA[الجيش السوداني: منشقون من مليشيا الدعم السريع يسلمون أنفسهم للفرقة الرابعة مشاة بالدمازين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة…]]></title>
             <link>https://t.me/aljazeeraBrk/242652</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 31 Oct 2026 07:44:02 GMT</pubDate>
             <description><![CDATA[مستشفى شهداء الأقصى: 4 مصابين بنيران قوات الاحتلال في مخيم المغازي وسط قطاع غزة]]></description>
             <content:encoded><![CDATA[مستشفى شهداء الأقصى: 4 مصابين بنيران قوات الاحتلال في مخيم المغازي وسط قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع العودة الطبي: شهيد في قصف إسرائيلي شمالي مخيم النصيرات وسط قطاع غزة]]></title>
-            <link>https://t.me/aljazeeraBrk/242413</link>
-            <guid isPermaLink="false">d00ffe87b2311cac8194dd9e1f1344411aa9ead4b1da13d01c2df9b18a6655b5</guid>
-            <pubDate>Sat, 31 Oct 2026 05:54:02 GMT</pubDate>
-            <description><![CDATA[مجمع العودة الطبي: شهيد في قصف إسرائيلي شمالي مخيم النصيرات وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجمع العودة الطبي: شهيد في قصف إسرائيلي شمالي مخيم النصيرات وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
