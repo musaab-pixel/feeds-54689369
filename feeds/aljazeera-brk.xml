@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 14:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 14:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: سقوط طائرة عسكرية في منطقة بيت شكما قرب عسقلان إثر عطل فني…]]></title>
+            <link>https://t.me/aljazeeraBrk/242688</link>
+            <guid isPermaLink="false">41778aff991f59121494506d0af146193303988dfe1e556a02a56e3da6b62d36</guid>
+            <pubDate>Mon, 02 Nov 2026 14:55:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: سقوط طائرة عسكرية في منطقة بيت شكما قرب عسقلان إثر عطل فني واندلاع حريق دون وقوع إصابات]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: سقوط طائرة عسكرية في منطقة بيت شكما قرب عسقلان إثر عطل فني واندلاع حريق دون وقوع إصابات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تراجع سعر خام برنت إلى ١٠٦ دولارات للبرميل والأمريكي إلى ٩٧ دولارا مع أنباء عن…]]></title>
             <link>https://t.me/aljazeeraBrk/242687</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 31 Oct 2026 13:04:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الإيراني للجزيرة: المقترح الإيراني هو الوحيد المطروح حاليا لإعادة فتح مضيق هرمز]]></description>
             <content:encoded><![CDATA[وزير الخارجية الإيراني للجزيرة: المقترح الإيراني هو الوحيد المطروح حاليا لإعادة فتح مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الإيراني للجزيرة: نشكر قطر وباكستان على جهودهما واتصالاتهما…]]></title>
-            <link>https://t.me/aljazeeraBrk/242448</link>
-            <guid isPermaLink="false">284c9d5513c56e75d0a73965e794585f79ac624d0037378e2b1dec83146cd7b6</guid>
-            <pubDate>Sat, 31 Oct 2026 13:03:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الإيراني للجزيرة: نشكر قطر وباكستان على جهودهما واتصالاتهما المتواصلة]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الإيراني للجزيرة: نشكر قطر وباكستان على جهودهما واتصالاتهما المتواصلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
