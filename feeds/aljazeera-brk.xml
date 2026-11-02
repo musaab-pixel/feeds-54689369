@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 06:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 07:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة مقاومة الجدار والاستيطان: 3133 اعتداء نفذها الاحتلال والمستوطنون في الضفة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242643</link>
+            <guid isPermaLink="false">89f3489a4fdbb9a8f812882e5a093a1ae36ce2693c885e9f049a4df9355c1767</guid>
+            <pubDate>Mon, 02 Nov 2026 07:00:02 GMT</pubDate>
+            <description><![CDATA[هيئة مقاومة الجدار والاستيطان: 3133 اعتداء نفذها الاحتلال والمستوطنون في الضفة الغربية خلال أكتوبر الماضي]]></description>
+            <content:encoded><![CDATA[هيئة مقاومة الجدار والاستيطان: 3133 اعتداء نفذها الاحتلال والمستوطنون في الضفة الغربية خلال أكتوبر الماضي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[منظمة الهجرة الدولية: نزوح أكثر من 300 ألف شخص في اليمن إثر تصاعد القتال معظمهم…]]></title>
             <link>https://t.me/aljazeeraBrk/242642</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 18:01:02 GMT</pubDate>
             <description><![CDATA[متحدث باسم الجيش الباكستاني: إرسال مزيد من القوات للدفاع عن السعودية يعتمد على تطورات الموقف والقرار السياسي]]></description>
             <content:encoded><![CDATA[متحدث باسم الجيش الباكستاني: إرسال مزيد من القوات للدفاع عن السعودية يعتمد على تطورات الموقف والقرار السياسي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[متحدث باسم الجيش الباكستاني: لا مانع من انضمام إيران إلى اتفاقية مكة للدفاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/242356</link>
-            <guid isPermaLink="false">3f1fabb84d214791931209d5ef00f3b661641075dcd517a59cbcacd7f2cceec8</guid>
-            <pubDate>Fri, 30 Oct 2026 18:00:01 GMT</pubDate>
-            <description><![CDATA[متحدث باسم الجيش الباكستاني: لا مانع من انضمام إيران إلى اتفاقية مكة للدفاع المشترك والقرار يعود لأطرافها]]></description>
-            <content:encoded><![CDATA[متحدث باسم الجيش الباكستاني: لا مانع من انضمام إيران إلى اتفاقية مكة للدفاع المشترك والقرار يعود لأطرافها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
