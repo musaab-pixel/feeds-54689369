@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 07:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 08:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242652</link>
+            <guid isPermaLink="false">37a97bb3faa79e2d5db3a54582ccef953be1b37dcc9262ee17e58636767923bd</guid>
+            <pubDate>Mon, 02 Nov 2026 08:19:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة مقترح للحصول على ملاحظات بشأنها]]></description>
+            <content:encoded><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة مقترح للحصول على ملاحظات بشأنها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الإيرانية: زيارة مساعد وزير الخارجية إلى الدوحة هدفها تسهيل تبادل…]]></title>
             <link>https://t.me/aljazeeraBrk/242651</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 31 Oct 2026 05:54:02 GMT</pubDate>
             <description><![CDATA[مجمع العودة الطبي: شهيد في قصف إسرائيلي شمالي مخيم النصيرات وسط قطاع غزة]]></description>
             <content:encoded><![CDATA[مجمع العودة الطبي: شهيد في قصف إسرائيلي شمالي مخيم النصيرات وسط قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بجروح أصيب بها في قصف إسرائيلي سابق…]]></title>
-            <link>https://t.me/aljazeeraBrk/242412</link>
-            <guid isPermaLink="false">3e4620c122c11f003e568154adfd2442a85c9ccb36ac5c1c4da2aca44ff9cd67</guid>
-            <pubDate>Sat, 31 Oct 2026 05:51:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بجروح أصيب بها في قصف إسرائيلي سابق على مدينة غزة]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بجروح أصيب بها في قصف إسرائيلي سابق على مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

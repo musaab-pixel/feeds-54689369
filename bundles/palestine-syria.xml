@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 08:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 08:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة…]]></title>
+            <link>https://t.me/aljazeeraBrk/242652</link>
+            <guid isPermaLink="false">37a97bb3faa79e2d5db3a54582ccef953be1b37dcc9262ee17e58636767923bd</guid>
+            <pubDate>Mon, 02 Nov 2026 08:19:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة مقترح للحصول على ملاحظات بشأنها]]></description>
+            <content:encoded><![CDATA[رويترز عن مسؤول مطلع: المفاوضون الإيرانيون غادروا الدوحة ويجري تداول مسودة مقترح للحصول على ملاحظات بشأنها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نادي الحرية: 📌نرفض استقالة مدرب الفريق الأول لكرة القدم عبد الرزاق الحسين من…]]></title>
             <link>https://t.me/HalabTodayTV/142447</link>
@@ -1572,15 +1581,6 @@
             <pubDate>Sun, 01 Nov 2026 10:33:02 GMT</pubDate>
             <description><![CDATA[وزارة الداخلية بغزة: شهداء ومصابون إثر استهداف الاحتلال عناصر شرطة خلال تأدية واجبهم في مواصي خان يونس]]></description>
             <content:encoded><![CDATA[وزارة الداخلية بغزة: شهداء ومصابون إثر استهداف الاحتلال عناصر شرطة خلال تأدية واجبهم في مواصي خان يونس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في مستشفيات غزة: 9 شهداء بنيران قوات الاحتلال الإسرائيلي في مناطق عدة…]]></title>
-            <link>https://t.me/aljazeeraBrk/242531</link>
-            <guid isPermaLink="false">f079c42074d225aac17a3836eee28eafdce3588181ce7fa4c828b2880e2dfa73</guid>
-            <pubDate>Sun, 01 Nov 2026 10:26:02 GMT</pubDate>
-            <description><![CDATA[مصادر في مستشفيات غزة: 9 شهداء بنيران قوات الاحتلال الإسرائيلي في مناطق عدة بالقطاع منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 9 شهداء بنيران قوات الاحتلال الإسرائيلي في مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
