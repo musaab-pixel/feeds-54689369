@@ -4,10 +4,373 @@
         <title>Miftah Funding Bundle 6</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 6" (type: bundle)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 09:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 10:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Meer lezen]]></title>
+            <link>https://journalismfund.eu/hit-and-run-how-marine-traffic-impacts-mediterraneans-endangered-whales</link>
+            <guid isPermaLink="false">62a2f2cdc9cdb3e5835e3a1eb20ee511b1668b1be23d6ed62385dcb6f53dd60c</guid>
+            <pubDate>Mon, 02 Nov 2026 10:02:10 GMT</pubDate>
+            <description><![CDATA[<p>OSTIA / VALENCIA - When a young sperm whale’s carcass washed ashore near Rome, its scars revealed how it died: in a vessel strike. The animal was just one of the many fin and sperm whales killed by maritime traffic in the busy Mediterranean Sea.</p>
+<p>Collisions with ships are a leading anthropogenic killer of the Mediterranean’s two endangered large-bodied cetacean species, sperm and fin whales. Many of their habitats, including the Pelagos Sanctuary, the Spanish Cetacean Migration Corridor, and the Hellenic Trench increasingly overlap with busy commercial routes.</p>
+<p>Combining fieldwork with vessel data, whale telemetry data, and interviews with marine biologists, captains, policymakers and shipping policy experts, this investigation showed how dense and fast maritime traffic poses a threat to whale habitats, why critics argue current voluntary speed limits are failing, and the technical and regulatory solutions being tested across different Mediterranean hotspots.</p>
+<p>This investigation revealed that major shipping companies continue to travel above recommended speeds in key habitats for endangered whales. </p>
+<p>In 2025, thousands of large vessels travelled through the Mediterranean’s key whale habitats at speeds above 15 knots (28 km/h), the threshold above which vessel strikes are considered to be almost always fatal. This included the International Maritime Organization (IMO) designated Particularly Sensitive Sea Area (PSSA) in the North-Western Mediterranean, where vessels are recommended to slow to 10-13 knots.</p>
+<p><strong>Key Findings</strong></p>
+<ul><li>Based on Global Fishing Watch Data, almost 2,800 unique vessels travelled above 15 knots - the speed above which strikes are almost always fatal - through the Mediterranean's key whale habitats (Pelagos Sanctuary, Hellenic Trench, Cetacean Corridor) in 2025, with roughly large 30 ships exceeding that threshold at any given moment.</li><li>Speeding remained highly concentrated among a few operators in the PSSA in 2025. Just seven vessels – four Baleária fast ferries and three Grimaldi cruiseferries – were responsible for 70% of the hours spent above 25 knots.</li><li>Seven Grimaldi cruiseferries amounted to around 8% of all hours recorded for all vessels at 15 knots or above in 2025.</li><li>Multiple captains at Grimaldi and Moby said they had not been advised by their companies to slow down when travelling through the PSSA.</li></ul>
+<p><strong>Methodology</strong></p>
+<p>This investigation combined data-driven methods, fieldwork, and interviews with a variety of experts.</p>
+<p>Vessel data in the Mediterranean was provided by Global Fishing Watch (GFW) to identify the number of vessels traversing the Pelagos Sanctuary, the Hellenic Trench, the Cetacean Corridor, and the PSSA at 15 knots or above. These calculations were based on vessels with an IMO number. Habitat boundaries were obtained from the IUCN Marine Mammal Protected Areas Task Force (IMMA), Protected Planet, the World Database on Protected Areas (WDPA), and ACCOBAMS. Designated PSSA marine area boundaries based on the provided IMO coordinates. Commercial manager and beneficial owner data were obtained from Veson Nautical. Gross Tonnage from the highest annual speeders in the PSSA was sourced from VesselFinder. The data was processed in R and QGIS. </p>
+<p>Whale telemetry data was provided by the Tethys Research Institute and Edmaktub organisation to animate how whale movements overlap with dense shipping lanes. </p>
+<p>The team also joined a Tethys research in the Pelagos Sanctuary and a cetacean monitoring initiative in the Balearic Sea. Dozens of interviews were conducted with marine biologists, conservation scientists, and ocean-policy specialists, as well as with seafaring personnel who are or were active in the PSSA. </p>
+<h3 class="field-label-above">Themes</h3>
+<ul class="list">
+            <li><a href="/taxonomy/term/894" hreflang="en">Environment</a></li>
+      
+      </ul>
+<h3 class="field-label-above">Publication</h3>
+<p>ONLINE</p>
+<ul><li><a href="https://news.mongabay.com/custom-story/2026/09/can-we-stop-ships-from-killing-the-mediterraneans-last-great-whales/" target="_blank">Can we stop ships from killing the Mediterranean’s last great whales</a>, Mongabay, 15/09/2026</li><li>‘<a href="https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean" target="_blank">They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean</a>, The Guardian, 02/11/2026</li></ul>
+<p>COUNTRIES</p>
+<ul><li>Italy</li><li>Spain</li><li>Turkey</li></ul>
+<h2 class="shape-title field-label-above">Team members</h2>
+<h2>
+  Federica Rossi
+</h2>
+<p>Federica Rossi is an Italian freelance journalist based in Rome.</p>
+<h2>
+  Wouter Massink
+</h2>
+<p>Wouter Massink is a Dutch multimedia journalist currently based in Istanbul.</p>
+<h2>
+  Clea Skopeliti
+</h2>
+<p>Clea Skopeliti is a Greek-British freelance journalist covering the environment, social affairs, and disinformation.</p>
+<h2 class="shape-title field-label-above">Mentors</h2>
+<h2>
+  Aiganysh Aidarbekova
+</h2>
+<p>Aiganysh Aidarbekova is&nbsp;an OSINT researcher and trainer from Kyrgyzstan.</p>
+<h2 class="shape-title field-label-above">Related projects</h2>
+<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2025-07/env1-2024_605_sp_image.jpg?itok=1Fj53q6T" width="800" height="350" alt="View of sea and ships, seaweed on the sand in the forefront. " class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Irene Baños</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Preventing Shipping From Spreading Invasive Species In The Mediterranean
+</h2>
+
+    
+      <div class="teaser"><p>TARIFA - From Spain to Italy, an unassuming Japanese seaweed is wreaking havoc on marine life and coastal livelihoods. This investigation raises urgent questions about our ability to control the cargo that shipping companies unknowingly transport from one part of the world to another, and the potential consequences.</p></div>
+      
+  
+
+
+  <a href="/invasive-species-in-the-mediterranean" class="stretched-link" aria-label="Read more on Preventing Shipping From Spreading Invasive Species In The Mediterranean">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2025-10/env1_2025_733_sp_image.jpg?itok=iFVyuf_Y" width="800" height="350" alt="Replanting of posidonia in Mallorca, Spain" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Mediterranean Institute of Advanced Studies (IMEDEA)</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Mediterranean’s Hidden Forests Under Siege by Tourism
+</h2>
+
+    
+      <div class="teaser"><p>CORSICA / SARDINIA / BALEARICS – This cross-border investigation examines the impact of tourism in the Mediterranean on Posidonia oceanica seagrass, which plays a key role in marine biodiversity, coastal protection, and carbon sequestration.</p></div>
+      
+  
+
+
+  <a href="/posidonia-oceanica-under-siege-tourism" class="stretched-link" aria-label="Read more on Mediterranean’s Hidden Forests Under Siege by Tourism">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2026-01/ENV1_2025_730_SP_Image.jpg?itok=WfK3tUnz" width="800" height="350" alt="Sea of Slime" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Nur Eda Topçu, İstanbul University, Marine Biology Department</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  A Sea of Slime: The Toll of Mucilage in the Mediterranean
+</h2>
+
+    
+      <div class="teaser"><p>TEKİRDAĞ / SAMOTHRAKI / ANCONA - This investigation traces the evolution of mucilage from a shocking surface bloom into an ongoing environmental governance failure and intensifying cross-border marine crisis across the Mediterranean.</p></div>
+      
+  
+
+
+  <a href="/sea-slime-toll-mucilage-mediterranean" class="stretched-link" aria-label="Read more on A Sea of Slime: The Toll of Mucilage in the Mediterranean">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li></ul>
+<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
+<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
+<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
+<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></description>
+            <content:encoded><![CDATA[<p>OSTIA / VALENCIA - When a young sperm whale’s carcass washed ashore near Rome, its scars revealed how it died: in a vessel strike. The animal was just one of the many fin and sperm whales killed by maritime traffic in the busy Mediterranean Sea.</p>
+<p>Collisions with ships are a leading anthropogenic killer of the Mediterranean’s two endangered large-bodied cetacean species, sperm and fin whales. Many of their habitats, including the Pelagos Sanctuary, the Spanish Cetacean Migration Corridor, and the Hellenic Trench increasingly overlap with busy commercial routes.</p>
+<p>Combining fieldwork with vessel data, whale telemetry data, and interviews with marine biologists, captains, policymakers and shipping policy experts, this investigation showed how dense and fast maritime traffic poses a threat to whale habitats, why critics argue current voluntary speed limits are failing, and the technical and regulatory solutions being tested across different Mediterranean hotspots.</p>
+<p>This investigation revealed that major shipping companies continue to travel above recommended speeds in key habitats for endangered whales. </p>
+<p>In 2025, thousands of large vessels travelled through the Mediterranean’s key whale habitats at speeds above 15 knots (28 km/h), the threshold above which vessel strikes are considered to be almost always fatal. This included the International Maritime Organization (IMO) designated Particularly Sensitive Sea Area (PSSA) in the North-Western Mediterranean, where vessels are recommended to slow to 10-13 knots.</p>
+<p><strong>Key Findings</strong></p>
+<ul><li>Based on Global Fishing Watch Data, almost 2,800 unique vessels travelled above 15 knots - the speed above which strikes are almost always fatal - through the Mediterranean's key whale habitats (Pelagos Sanctuary, Hellenic Trench, Cetacean Corridor) in 2025, with roughly large 30 ships exceeding that threshold at any given moment.</li><li>Speeding remained highly concentrated among a few operators in the PSSA in 2025. Just seven vessels – four Baleária fast ferries and three Grimaldi cruiseferries – were responsible for 70% of the hours spent above 25 knots.</li><li>Seven Grimaldi cruiseferries amounted to around 8% of all hours recorded for all vessels at 15 knots or above in 2025.</li><li>Multiple captains at Grimaldi and Moby said they had not been advised by their companies to slow down when travelling through the PSSA.</li></ul>
+<p><strong>Methodology</strong></p>
+<p>This investigation combined data-driven methods, fieldwork, and interviews with a variety of experts.</p>
+<p>Vessel data in the Mediterranean was provided by Global Fishing Watch (GFW) to identify the number of vessels traversing the Pelagos Sanctuary, the Hellenic Trench, the Cetacean Corridor, and the PSSA at 15 knots or above. These calculations were based on vessels with an IMO number. Habitat boundaries were obtained from the IUCN Marine Mammal Protected Areas Task Force (IMMA), Protected Planet, the World Database on Protected Areas (WDPA), and ACCOBAMS. Designated PSSA marine area boundaries based on the provided IMO coordinates. Commercial manager and beneficial owner data were obtained from Veson Nautical. Gross Tonnage from the highest annual speeders in the PSSA was sourced from VesselFinder. The data was processed in R and QGIS. </p>
+<p>Whale telemetry data was provided by the Tethys Research Institute and Edmaktub organisation to animate how whale movements overlap with dense shipping lanes. </p>
+<p>The team also joined a Tethys research in the Pelagos Sanctuary and a cetacean monitoring initiative in the Balearic Sea. Dozens of interviews were conducted with marine biologists, conservation scientists, and ocean-policy specialists, as well as with seafaring personnel who are or were active in the PSSA. </p>
+<h3 class="field-label-above">Themes</h3>
+<ul class="list">
+            <li><a href="/taxonomy/term/894" hreflang="en">Environment</a></li>
+      
+      </ul>
+<h3 class="field-label-above">Publication</h3>
+<p>ONLINE</p>
+<ul><li><a href="https://news.mongabay.com/custom-story/2026/09/can-we-stop-ships-from-killing-the-mediterraneans-last-great-whales/" target="_blank">Can we stop ships from killing the Mediterranean’s last great whales</a>, Mongabay, 15/09/2026</li><li>‘<a href="https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean" target="_blank">They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean</a>, The Guardian, 02/11/2026</li></ul>
+<p>COUNTRIES</p>
+<ul><li>Italy</li><li>Spain</li><li>Turkey</li></ul>
+<h2 class="shape-title field-label-above">Team members</h2>
+<h2>
+  Federica Rossi
+</h2>
+<p>Federica Rossi is an Italian freelance journalist based in Rome.</p>
+<h2>
+  Wouter Massink
+</h2>
+<p>Wouter Massink is a Dutch multimedia journalist currently based in Istanbul.</p>
+<h2>
+  Clea Skopeliti
+</h2>
+<p>Clea Skopeliti is a Greek-British freelance journalist covering the environment, social affairs, and disinformation.</p>
+<h2 class="shape-title field-label-above">Mentors</h2>
+<h2>
+  Aiganysh Aidarbekova
+</h2>
+<p>Aiganysh Aidarbekova is&nbsp;an OSINT researcher and trainer from Kyrgyzstan.</p>
+<h2 class="shape-title field-label-above">Related projects</h2>
+<ul class="related-working-grant-block"><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2025-07/env1-2024_605_sp_image.jpg?itok=1Fj53q6T" width="800" height="350" alt="View of sea and ships, seaweed on the sand in the forefront. " class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Irene Baños</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Preventing Shipping From Spreading Invasive Species In The Mediterranean
+</h2>
+
+    
+      <div class="teaser"><p>TARIFA - From Spain to Italy, an unassuming Japanese seaweed is wreaking havoc on marine life and coastal livelihoods. This investigation raises urgent questions about our ability to control the cargo that shipping companies unknowingly transport from one part of the world to another, and the potential consequences.</p></div>
+      
+  
+
+
+  <a href="/invasive-species-in-the-mediterranean" class="stretched-link" aria-label="Read more on Preventing Shipping From Spreading Invasive Species In The Mediterranean">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2025-10/env1_2025_733_sp_image.jpg?itok=iFVyuf_Y" width="800" height="350" alt="Replanting of posidonia in Mallorca, Spain" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Mediterranean Institute of Advanced Studies (IMEDEA)</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  Mediterranean’s Hidden Forests Under Siege by Tourism
+</h2>
+
+    
+      <div class="teaser"><p>CORSICA / SARDINIA / BALEARICS – This cross-border investigation examines the impact of tourism in the Mediterranean on Posidonia oceanica seagrass, which plays a key role in marine biodiversity, coastal protection, and carbon sequestration.</p></div>
+      
+  
+
+
+  <a href="/posidonia-oceanica-under-siege-tourism" class="stretched-link" aria-label="Read more on Mediterranean’s Hidden Forests Under Siege by Tourism">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li><li><article class="node node--type-workinggrant node--view-mode-teaser" role="presentation">
+
+    
+  <div class="teaser-inner">
+          <div class="teaser__image">
+        
+  
+  <div class="media media--type-image media--view-mode-teaser image-wrapper">
+    
+    <img loading="lazy" src="/sites/default/files/styles/teaser/public/2026-01/ENV1_2025_730_SP_Image.jpg?itok=WfK3tUnz" width="800" height="350" alt="Sea of Slime" class="image-style-teaser">
+
+
+
+    
+      <div class="img-title">© Nur Eda Topçu, İstanbul University, Marine Biology Department</div>
+      
+  
+
+
+  </div>
+
+
+
+      </div>
+    
+          <div class="teaser__content">
+        
+  <h2>
+  A Sea of Slime: The Toll of Mucilage in the Mediterranean
+</h2>
+
+    
+      <div class="teaser"><p>TEKİRDAĞ / SAMOTHRAKI / ANCONA - This investigation traces the evolution of mucilage from a shocking surface bloom into an ongoing environmental governance failure and intensifying cross-border marine crisis across the Mediterranean.</p></div>
+      
+  
+
+
+  <a href="/sea-slime-toll-mucilage-mediterranean" class="stretched-link" aria-label="Read more on A Sea of Slime: The Toll of Mucilage in the Mediterranean">Meer lezen</a>
+
+      </div>
+      </div>
+
+</article>
+
+</li></ul>
+<h2><a href="https://grants.journalismfund.eu/en" target="_blank">Need resources for your own investigative story?</a></h2>
+<p>Journalismfund Europe's&nbsp;flexible grants programmes enable&nbsp;journalists&nbsp;to produce&nbsp;relevant public interest stories&nbsp;with a European mind-set from international, national, and regional perspectives.</p>
+<h2><a href="https://www.journalismfund.eu/independent-investigative-journalism-needs-your-support">Support independent cross-border investigative journalism</a></h2>
+<p>We rely on your support to continue the work that we do. Make a gift of any amount today.</p>]]></content:encoded>
+            <enclosure url="https://journalismfund.eu/sites/default/files/styles/hero_homepage/public/2026-08/ENV1_2026_1018_HP_Image.jpg?itok=kQkzAtHr" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Meer lezen]]></title>
             <link>https://journalismfund.eu/when-warning-never-comes</link>
@@ -17452,163 +17815,6 @@ UN Headquarters, Room 11</p>
 <p class="wp-block-paragraph"></p>
 ]]></content:encoded>
             <author>admin</author>
-        </item>
-        <item>
-            <title><![CDATA[الصورة المتداولة بزعم أنها لشاب توفي في أحداث سبتة تعود لشاب فلسطيني من غزة]]></title>
-            <link>https://arij.net/chatbot-fact/the-circulated-image-claiming-to-show-a-young-man-who-died-during-the-ceuta-events-actually-belongs-to-a-palestinian-youth-from-gaza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-circulated-image-claiming-to-show-a-young-man-who-died-during-the-ceuta-events-actually-belongs-to-a-palestinian-youth-from-gaza</link>
-            <guid isPermaLink="false">b500a4343c1e69e45326f8efbb5fb9f9889346885073a4672b583d89f99217a5</guid>
-            <pubDate>Wed, 12 Aug 2026 11:27:43 GMT</pubDate>
-            <description><![CDATA[<img width="1024" height="1024" src="https://arij.net/wp-content/uploads/2026/08/1-1-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom:15px; height:auto; max-width:100%;" decoding="async" loading="lazy" srcset="https://arij.net/wp-content/uploads/2026/08/1-1-1024x1024.png 1024w, https://arij.net/wp-content/uploads/2026/08/1-1-300x300.png 300w, https://arij.net/wp-content/uploads/2026/08/1-1-150x150.png 150w, https://arij.net/wp-content/uploads/2026/08/1-1-768x768.png 768w, https://arij.net/wp-content/uploads/2026/08/1-1.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph">في سياق محاولات عبور مهاجرين من المغرب إلى مدينة سبتة، الخاضعة للإدارة الإسبانية، في 30 تموز/يوليو 2026، تداولت حسابات على مواقع التواصل الاجتماعي، في 9 آب/أغسطس 2026، <a target="_blank" href="https://archive.fo/Gwyiu" rel="noreferrer noopener">خبراً</a> يزعم وفاة شاب مغربي، مرفقاً بصور قيل إنها توثق حالته بعد تعرضه للضرب على يد عنصر أمن مغربي أثناء محاولات العبور. كما تداولت حسابات أخرى الصورة نفسها عبر <a target="_blank" href="https://www.instagram.com/p/DbloitBCFCS/" rel="noreferrer noopener">إنستغرام</a> و<a target="_blank" href="https://www.facebook.com/algatedz/posts/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D9%8A%D8%A3%D8%B3-%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D9%88%D8%AC%D9%87%D9%87%D9%87%D9%83%D8%B0%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D8%B9%D8%AA%D8%AF%D8%AA-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%AD%D9%88%D8%B4-%D9%88%D9%85/122284932200171102/" rel="noreferrer noopener">فيسبوك</a> من دون الإشارة إلى وفاته، زاعمة أنها تعود لأحد المهاجرين خلال أحداث سبتة.</p>
-
-
-
-<p class="wp-block-paragraph">لكن التحقق من الصور أظهر أن الصورة التي يظهر فيها الشاب مصاباً لا ترتبط بأحداث سبتة. فمن خلال البحث العكسي، تبيّن أنها تعود إلى الشاب الفلسطيني يوسف النجار. وكان الصحفي الفلسطيني عمرو طبش قد نشر الصورة، إلى جانب صور أخرى للنجار من زوايا مختلفة، عبر <a target="_blank" href="https://www.instagram.com/p/Dbii-T6sCkE/" rel="noreferrer noopener">حسابه</a> على &#8220;إنستغرام&#8221; في 2 آب/أغسطس 2026، موضحاً أنه أُجلي إلى مصر لتلقي العلاج.</p>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://arij.net/wp-content/uploads/2026/08/img1.png"><img loading="lazy" decoding="async" width="1024" height="685" src="https://arij.net/wp-content/uploads/2026/08/img1-1024x685.png" alt="" class="wp-image-33433" srcset="https://arij.net/wp-content/uploads/2026/08/img1-1024x685.png 1024w, https://arij.net/wp-content/uploads/2026/08/img1-300x201.png 300w, https://arij.net/wp-content/uploads/2026/08/img1-768x514.png 768w, https://arij.net/wp-content/uploads/2026/08/img1.png 1179w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph">وسبق أن نشرت وكالة الأنباء والمعلومات الفلسطينية &#8220;وفا&#8221;، عبر قناتها على &#8220;<a target="_blank" href="https://www.youtube.com/watch?v=3VGvuyU_g-w" rel="noreferrer noopener">يوتيوب</a>&#8221; في 16 حزيران/يونيو 2026، تقريراً عن النجار، بعد إصابته بقذيفة إسرائيلية أثناء عمله في الصيد قبالة ساحل غزة.</p>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://arij.net/wp-content/uploads/2026/08/img2.png"><img loading="lazy" decoding="async" width="1024" height="629" src="https://arij.net/wp-content/uploads/2026/08/img2-1024x629.png" alt="" class="wp-image-33434" srcset="https://arij.net/wp-content/uploads/2026/08/img2-1024x629.png 1024w, https://arij.net/wp-content/uploads/2026/08/img2-300x184.png 300w, https://arij.net/wp-content/uploads/2026/08/img2-768x471.png 768w, https://arij.net/wp-content/uploads/2026/08/img2.png 1305w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph">أما الصورة الأخرى المتداولة، فأشارت نتائج أدوات الكشف عن المحتوى المولّد أو المعدّل بالذكاء الاصطناعي، ومنها Hive Moderation، إلى احتمال تعديلها باستخدام الذكاء الاصطناعي بنسبة تقارب 99 في المئة. إلا أن المشهد الذي تمثله الصورة حقيقي في أصله، إذ تستند إلى لقطة مأخوذة من <a target="_blank" href="https://www.instagram.com/reel/DbeCCsUt6tE/" rel="noreferrer noopener">مقطع فيديو</a> يعود أقدم تداول عثرنا عليه إلى 31 تموز/يوليو 2026. ويوثق المقطع عبور مهاجرين من المغرب باتجاه سبتة، ويظهر اعتداء أحد عناصر الأمن على أحد المهاجرين. كما جرى توثيق <a target="_blank" href="https://www.instagram.com/reels/Dbq3DddIMGn/" rel="noreferrer noopener">الواقعة</a> نفسها من أكثر من زاوية.</p>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://arij.net/wp-content/uploads/2026/08/img3.jpg"><img loading="lazy" decoding="async" width="1024" height="666" src="https://arij.net/wp-content/uploads/2026/08/img3-1024x666.jpg" alt="" class="wp-image-33435" srcset="https://arij.net/wp-content/uploads/2026/08/img3-1024x666.jpg 1024w, https://arij.net/wp-content/uploads/2026/08/img3-300x195.jpg 300w, https://arij.net/wp-content/uploads/2026/08/img3-768x500.jpg 768w, https://arij.net/wp-content/uploads/2026/08/img3-1536x999.jpg 1536w, https://arij.net/wp-content/uploads/2026/08/img3.jpg 1588w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph">وفي ما يتعلق بواقعة الاعتداء، أعلن رئيس جمعية الدفاع عن حقوق الإنسان، الحبيب حاجي، عبر حسابه على &#8220;<a target="_blank" href="https://www.facebook.com/share/p/18hhbVSnRC/" rel="noreferrer noopener">فيسبوك</a>&#8221; في 3 آب/أغسطس 2026، أن الجمعية راسلت الوكيل العام للملك لدى محكمة الاستئناف بتطوان، مطالبةً بفتح تحقيق في الفيديو المتداول والكشف عن ملابسات الواقعة.</p>
-
-
-
-<p class="wp-block-paragraph">وحتى موعد نشر التدقيق، لم نعثر على إعلان رسمي يؤكد وفاة الشاب الذي يظهر في واقعة الاعتداء أو ينفيها؛ لذلك لا تتوفر أدلة كافية للجزم بصحة الادعاء المتعلق بوفاته.</p>
-]]></description>
-            <content:encoded><![CDATA[<img width="1024" height="1024" src="https://arij.net/wp-content/uploads/2026/08/1-1-1024x1024.png" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom:15px; height:auto; max-width:100%;" decoding="async" loading="lazy" srcset="https://arij.net/wp-content/uploads/2026/08/1-1-1024x1024.png 1024w, https://arij.net/wp-content/uploads/2026/08/1-1-300x300.png 300w, https://arij.net/wp-content/uploads/2026/08/1-1-150x150.png 150w, https://arij.net/wp-content/uploads/2026/08/1-1-768x768.png 768w, https://arij.net/wp-content/uploads/2026/08/1-1.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph">في سياق محاولات عبور مهاجرين من المغرب إلى مدينة سبتة، الخاضعة للإدارة الإسبانية، في 30 تموز/يوليو 2026، تداولت حسابات على مواقع التواصل الاجتماعي، في 9 آب/أغسطس 2026، <a target="_blank" href="https://archive.fo/Gwyiu" rel="noreferrer noopener">خبراً</a> يزعم وفاة شاب مغربي، مرفقاً بصور قيل إنها توثق حالته بعد تعرضه للضرب على يد عنصر أمن مغربي أثناء محاولات العبور. كما تداولت حسابات أخرى الصورة نفسها عبر <a target="_blank" href="https://www.instagram.com/p/DbloitBCFCS/" rel="noreferrer noopener">إنستغرام</a> و<a target="_blank" href="https://www.facebook.com/algatedz/posts/%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D9%87%D8%B1-%D9%88%D8%A7%D9%84%D9%8A%D8%A3%D8%B3-%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D9%88%D8%AC%D9%87%D9%87%D9%87%D9%83%D8%B0%D8%A7-%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D8%B9%D8%AA%D8%AF%D8%AA-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%AD%D9%88%D8%B4-%D9%88%D9%85/122284932200171102/" rel="noreferrer noopener">فيسبوك</a> من دون الإشارة إلى وفاته، زاعمة أنها تعود لأحد المهاجرين خلال أحداث سبتة.</p>
-
-
-
-<p class="wp-block-paragraph">لكن التحقق من الصور أظهر أن الصورة التي يظهر فيها الشاب مصاباً لا ترتبط بأحداث سبتة. فمن خلال البحث العكسي، تبيّن أنها تعود إلى الشاب الفلسطيني يوسف النجار. وكان الصحفي الفلسطيني عمرو طبش قد نشر الصورة، إلى جانب صور أخرى للنجار من زوايا مختلفة، عبر <a target="_blank" href="https://www.instagram.com/p/Dbii-T6sCkE/" rel="noreferrer noopener">حسابه</a> على &#8220;إنستغرام&#8221; في 2 آب/أغسطس 2026، موضحاً أنه أُجلي إلى مصر لتلقي العلاج.</p>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://arij.net/wp-content/uploads/2026/08/img1.png"><img loading="lazy" decoding="async" width="1024" height="685" src="https://arij.net/wp-content/uploads/2026/08/img1-1024x685.png" alt="" class="wp-image-33433" srcset="https://arij.net/wp-content/uploads/2026/08/img1-1024x685.png 1024w, https://arij.net/wp-content/uploads/2026/08/img1-300x201.png 300w, https://arij.net/wp-content/uploads/2026/08/img1-768x514.png 768w, https://arij.net/wp-content/uploads/2026/08/img1.png 1179w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph">وسبق أن نشرت وكالة الأنباء والمعلومات الفلسطينية &#8220;وفا&#8221;، عبر قناتها على &#8220;<a target="_blank" href="https://www.youtube.com/watch?v=3VGvuyU_g-w" rel="noreferrer noopener">يوتيوب</a>&#8221; في 16 حزيران/يونيو 2026، تقريراً عن النجار، بعد إصابته بقذيفة إسرائيلية أثناء عمله في الصيد قبالة ساحل غزة.</p>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://arij.net/wp-content/uploads/2026/08/img2.png"><img loading="lazy" decoding="async" width="1024" height="629" src="https://arij.net/wp-content/uploads/2026/08/img2-1024x629.png" alt="" class="wp-image-33434" srcset="https://arij.net/wp-content/uploads/2026/08/img2-1024x629.png 1024w, https://arij.net/wp-content/uploads/2026/08/img2-300x184.png 300w, https://arij.net/wp-content/uploads/2026/08/img2-768x471.png 768w, https://arij.net/wp-content/uploads/2026/08/img2.png 1305w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph">أما الصورة الأخرى المتداولة، فأشارت نتائج أدوات الكشف عن المحتوى المولّد أو المعدّل بالذكاء الاصطناعي، ومنها Hive Moderation، إلى احتمال تعديلها باستخدام الذكاء الاصطناعي بنسبة تقارب 99 في المئة. إلا أن المشهد الذي تمثله الصورة حقيقي في أصله، إذ تستند إلى لقطة مأخوذة من <a target="_blank" href="https://www.instagram.com/reel/DbeCCsUt6tE/" rel="noreferrer noopener">مقطع فيديو</a> يعود أقدم تداول عثرنا عليه إلى 31 تموز/يوليو 2026. ويوثق المقطع عبور مهاجرين من المغرب باتجاه سبتة، ويظهر اعتداء أحد عناصر الأمن على أحد المهاجرين. كما جرى توثيق <a target="_blank" href="https://www.instagram.com/reels/Dbq3DddIMGn/" rel="noreferrer noopener">الواقعة</a> نفسها من أكثر من زاوية.</p>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://arij.net/wp-content/uploads/2026/08/img3.jpg"><img loading="lazy" decoding="async" width="1024" height="666" src="https://arij.net/wp-content/uploads/2026/08/img3-1024x666.jpg" alt="" class="wp-image-33435" srcset="https://arij.net/wp-content/uploads/2026/08/img3-1024x666.jpg 1024w, https://arij.net/wp-content/uploads/2026/08/img3-300x195.jpg 300w, https://arij.net/wp-content/uploads/2026/08/img3-768x500.jpg 768w, https://arij.net/wp-content/uploads/2026/08/img3-1536x999.jpg 1536w, https://arij.net/wp-content/uploads/2026/08/img3.jpg 1588w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
-
-
-
-<p class="wp-block-paragraph"><br></p>
-
-
-
-<p class="wp-block-paragraph"></p>
-
-
-
-<p class="wp-block-paragraph">وفي ما يتعلق بواقعة الاعتداء، أعلن رئيس جمعية الدفاع عن حقوق الإنسان، الحبيب حاجي، عبر حسابه على &#8220;<a target="_blank" href="https://www.facebook.com/share/p/18hhbVSnRC/" rel="noreferrer noopener">فيسبوك</a>&#8221; في 3 آب/أغسطس 2026، أن الجمعية راسلت الوكيل العام للملك لدى محكمة الاستئناف بتطوان، مطالبةً بفتح تحقيق في الفيديو المتداول والكشف عن ملابسات الواقعة.</p>
-
-
-
-<p class="wp-block-paragraph">وحتى موعد نشر التدقيق، لم نعثر على إعلان رسمي يؤكد وفاة الشاب الذي يظهر في واقعة الاعتداء أو ينفيها؛ لذلك لا تتوفر أدلة كافية للجزم بصحة الادعاء المتعلق بوفاته.</p>
-]]></content:encoded>
-            <author>kamal99</author>
         </item>
     </channel>
 </rss>
