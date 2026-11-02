@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 20:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 20:54:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إيرانية: وفد قطري برئاسة مستشار رئيس الوزراء وزير الخارجية القطري…]]></title>
+            <link>https://t.me/aljazeeraBrk/242740</link>
+            <guid isPermaLink="false">969fbec267318e306dfc65de7ce1e4edd7233373f3bdb3affc614dc147f8d0ce</guid>
+            <pubDate>Mon, 02 Nov 2026 20:49:01 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إيرانية: وفد قطري برئاسة مستشار رئيس الوزراء وزير الخارجية القطري يزور طهران للتشاور مع إيران]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إيرانية: وفد قطري برئاسة مستشار رئيس الوزراء وزير الخارجية القطري يزور طهران للتشاور مع إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نائب الرئيس الأمريكي: يوجد مسار للتوصل إلى اتفاق لكنه يتطلب التزاما إيرانيا…]]></title>
             <link>https://t.me/aljazeeraBrk/242739</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 01 Nov 2026 09:52:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة من مسيرة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة من مسيرة إسرائيلية على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: غارات جوية تستهدف مواقع لمليشيا الحوثي في عزلة الأقروض…]]></title>
-            <link>https://t.me/aljazeeraBrk/242523</link>
-            <guid isPermaLink="false">f35b2e98faba23e9abe9b784ab5ab93c6f0fa696cc721cdec193a7e707ee0cac</guid>
-            <pubDate>Sun, 01 Nov 2026 09:43:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: غارات جوية تستهدف مواقع لمليشيا الحوثي في عزلة الأقروض بمديرية المسراخ جنوبي تعز]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: غارات جوية تستهدف مواقع لمليشيا الحوثي في عزلة الأقروض بمديرية المسراخ جنوبي تعز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
