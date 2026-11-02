@@ -230,7 +230,7 @@
           
 
 
-                       
+                                                                                                            
 
   
 
@@ -247,22 +247,35 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/acces-leau-courante-et-inclusion-urbaine-dans-les-bidonvilles-aux-philippines" class="fr-card__link">Eau potable pour l'inclusion urbaine aux Philippines</a>
+                  <a href="https://www.afd.fr/fr/projets/renforcer-la-protection-des-defenseurs-les-plus-vulnerables" class="fr-card__link"> Renforcer la protection des défenseurs les plus vulnérables </a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
 
 
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
+    Gouvernance
   </p>
 
-      </div>
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Lutte contre les inégalités
+  </p>
+
+      </li>
+      </ul>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -277,14 +290,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2024</p>
+          <p class="fr-card__detail">2023 - 2026</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Algérie, Bangladesh, Cambodge, Colombie, Égypte, Mexique</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 600 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 850 000 €</p>
               </div>
                   </div>
                       </div>
@@ -292,7 +305,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2024-10-10-33-38/projet-ong-water-better-acces-eau-philippines.jpg.webp?itok=Ca9jOucR" width="715" height="402" alt="Ce projet vise à répondre à l’urbanisation rapide des Philippines et à favoriser l’inclusion des bidonvilles, en y améliorant durablement les conditions de vie.">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-10-11-26-06/projet-defense-droits-humains-fidh-.jpg.webp?itok=-MyNbx0T" width="715" height="402" alt="Renforcer la protection des défenseurs les plus vulnérables dans 41 pays, projet FIDH">
 
 
 
@@ -332,7 +345,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/amelioration-de-linclusion-financiere-des-populations" class="fr-card__link">Amélioration de l’inclusion financière des populations</a>
+                  <a href="https://www.afd.fr/fr/projets/appui-la-mise-en-oeuvre-du-programme-national-de-reformes-pour-la-lutte-contre-le" class="fr-card__link">Appui au programme climat et réformes nationales</a>
               </h3>
       
               <div class="fr-card__start">
@@ -345,7 +358,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Systèmes financiers
+    Climat
   </p>
 
       </li>
@@ -356,7 +369,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Lutte contre les inégalités
+    Gouvernance
   </p>
 
       </li>
@@ -375,14 +388,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2020</p>
+          <p class="fr-card__detail">2022</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 150 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -390,7 +403,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-03-03-33-37/projet-inclusion-financiere-populations-philippines.jpg.webp?itok=byi2mkzK" width="715" height="402" alt="Ce projet financé par l'AFD soutient les autorités et les institutions financières afin de faciliter l’accès aux services financiers pour tous.">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-09-02-36-38/L1540706_selection.jpg.webp?itok=P4osMCOV" width="715" height="402" alt="Appui programme national réformes lutte contre changement climatique aux philippines">
 
 
 
@@ -752,6 +765,104 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/renforcer-la-resilience-economique-face-aux-catastrophes" class="fr-card__link">Renforcer la résilience économique face aux catastrophes</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Systèmes financiers
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Lutte contre les inégalités
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2022 - 2042</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Mexique</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 200 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/programme-de-developpement-des-ecosystemes-marins-et-de-economie-bleue" class="fr-card__link">Programme de développement des écosystèmes marins et de l’économie bleue</a>
               </h3>
       
@@ -883,91 +994,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/resilience-des-systemes-cotonniers-du-nord-de-la-cote-divoire-resco" class="fr-card__link">Résilience des Systèmes Cotonniers du Nord de la Côte d'Ivoire </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2021 - 2027</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 40 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/resilience-des-systemes-cotonniers-du-nord-de-la-cote-divoire-resco.jpg.webp?itok=EEqFcXX2" width="715" height="402" alt>
 
 
 
@@ -1151,7 +1177,7 @@
           
 
 
-                       
+                                                                                                            
 
   
 
@@ -1168,22 +1194,35 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/acces-leau-courante-et-inclusion-urbaine-dans-les-bidonvilles-aux-philippines" class="fr-card__link">Eau potable pour l'inclusion urbaine aux Philippines</a>
+                  <a href="https://www.afd.fr/fr/projets/renforcer-la-protection-des-defenseurs-les-plus-vulnerables" class="fr-card__link"> Renforcer la protection des défenseurs les plus vulnérables </a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
 
 
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
+    Gouvernance
   </p>
 
-      </div>
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Lutte contre les inégalités
+  </p>
+
+      </li>
+      </ul>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -1198,14 +1237,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2024</p>
+          <p class="fr-card__detail">2023 - 2026</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Algérie, Bangladesh, Cambodge, Colombie, Égypte, Mexique</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 600 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 850 000 €</p>
               </div>
                   </div>
                       </div>
@@ -1213,7 +1252,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2024-10-10-33-38/projet-ong-water-better-acces-eau-philippines.jpg.webp?itok=Ca9jOucR" width="715" height="402" alt="Ce projet vise à répondre à l’urbanisation rapide des Philippines et à favoriser l’inclusion des bidonvilles, en y améliorant durablement les conditions de vie.">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-10-11-26-06/projet-defense-droits-humains-fidh-.jpg.webp?itok=-MyNbx0T" width="715" height="402" alt="Renforcer la protection des défenseurs les plus vulnérables dans 41 pays, projet FIDH">
 
 
 
@@ -1253,7 +1292,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/amelioration-de-linclusion-financiere-des-populations" class="fr-card__link">Amélioration de l’inclusion financière des populations</a>
+                  <a href="https://www.afd.fr/fr/projets/appui-la-mise-en-oeuvre-du-programme-national-de-reformes-pour-la-lutte-contre-le" class="fr-card__link">Appui au programme climat et réformes nationales</a>
               </h3>
       
               <div class="fr-card__start">
@@ -1266,7 +1305,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Systèmes financiers
+    Climat
   </p>
 
       </li>
@@ -1277,7 +1316,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Lutte contre les inégalités
+    Gouvernance
   </p>
 
       </li>
@@ -1296,14 +1335,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2020</p>
+          <p class="fr-card__detail">2022</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 150 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -1311,7 +1350,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-03-03-33-37/projet-inclusion-financiere-populations-philippines.jpg.webp?itok=byi2mkzK" width="715" height="402" alt="Ce projet financé par l'AFD soutient les autorités et les institutions financières afin de faciliter l’accès aux services financiers pour tous.">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-09-02-36-38/L1540706_selection.jpg.webp?itok=P4osMCOV" width="715" height="402" alt="Appui programme national réformes lutte contre changement climatique aux philippines">
 
 
 
@@ -1673,6 +1712,104 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/renforcer-la-resilience-economique-face-aux-catastrophes" class="fr-card__link">Renforcer la résilience économique face aux catastrophes</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Systèmes financiers
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Lutte contre les inégalités
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2022 - 2042</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Mexique</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 200 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/programme-de-developpement-des-ecosystemes-marins-et-de-economie-bleue" class="fr-card__link">Programme de développement des écosystèmes marins et de l’économie bleue</a>
               </h3>
       
@@ -1804,91 +1941,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/resilience-des-systemes-cotonniers-du-nord-de-la-cote-divoire-resco" class="fr-card__link">Résilience des Systèmes Cotonniers du Nord de la Côte d'Ivoire </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2021 - 2027</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 40 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/resilience-des-systemes-cotonniers-du-nord-de-la-cote-divoire-resco.jpg.webp?itok=EEqFcXX2" width="715" height="402" alt>
 
 
 
