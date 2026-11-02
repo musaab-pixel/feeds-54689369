@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 13:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 13:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الجيش الإيراني: اندلاع النيران في ناقلة نفط إثر اصطدامها بلغم بحري شرقي…]]></title>
+            <link>https://t.me/aljazeeraBrk/242672</link>
+            <guid isPermaLink="false">058f638ee6a41577af5f95425d591235b1b65295d97c7633c2f1a19fa094c0ca</guid>
+            <pubDate>Mon, 02 Nov 2026 13:12:02 GMT</pubDate>
+            <description><![CDATA[بحرية الجيش الإيراني: اندلاع النيران في ناقلة نفط إثر اصطدامها بلغم بحري شرقي مضيق هرمز]]></description>
+            <content:encoded><![CDATA[بحرية الجيش الإيراني: اندلاع النيران في ناقلة نفط إثر اصطدامها بلغم بحري شرقي مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة البث الإسرائيلية: ليبرمان يعلن أنه سيوصي بغادي آيزنكوت لتشكيل الحكومة…]]></title>
             <link>https://t.me/aljazeeraBrk/242671</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 31 Oct 2026 10:36:02 GMT</pubDate>
             <description><![CDATA[المرشد الإيراني لقادة القوات المسلحة: إذا بدأ الأعداء هجمات عسكرية فإن قواتنا وشعبنا سيحددان نهايتها وظروفها]]></description>
             <content:encoded><![CDATA[المرشد الإيراني لقادة القوات المسلحة: إذا بدأ الأعداء هجمات عسكرية فإن قواتنا وشعبنا سيحددان نهايتها وظروفها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المرشد الإيراني لقادة القوات المسلحة: الجاهزية القتالية الدقيقة من متطلبات…]]></title>
-            <link>https://t.me/aljazeeraBrk/242432</link>
-            <guid isPermaLink="false">2e9c10775f8c0e5f9b99b4fc2e003fff2e68b63eb4ea5146da7061e77e9186ca</guid>
-            <pubDate>Sat, 31 Oct 2026 10:35:02 GMT</pubDate>
-            <description><![CDATA[المرشد الإيراني لقادة القوات المسلحة: الجاهزية القتالية الدقيقة من متطلبات الردع الأقصى لمواجهة الأعداء بقوة]]></description>
-            <content:encoded><![CDATA[المرشد الإيراني لقادة القوات المسلحة: الجاهزية القتالية الدقيقة من متطلبات الردع الأقصى لمواجهة الأعداء بقوة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
