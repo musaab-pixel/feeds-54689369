@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 06:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 06:59:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[منظمة الهجرة الدولية: نزوح أكثر من 300 ألف شخص في اليمن إثر تصاعد القتال معظمهم…]]></title>
+            <link>https://t.me/aljazeeraBrk/242642</link>
+            <guid isPermaLink="false">601056a81f12c1ca886ff090a086bfeec5e2995e9ece6eb7533242c405494ad4</guid>
+            <pubDate>Mon, 02 Nov 2026 06:57:02 GMT</pubDate>
+            <description><![CDATA[منظمة الهجرة الدولية: نزوح أكثر من 300 ألف شخص في اليمن إثر تصاعد القتال معظمهم خلال الشهرين الماضيين]]></description>
+            <content:encoded><![CDATA[منظمة الهجرة الدولية: نزوح أكثر من 300 ألف شخص في اليمن إثر تصاعد القتال معظمهم خلال الشهرين الماضيين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم التحالف: الدفاع الجوي اعترض ودمر صاروخا باليستيا أطلقته المليشيا…]]></title>
             <link>https://t.me/aljazeeraBrk/242641</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 30 Oct 2026 18:00:01 GMT</pubDate>
             <description><![CDATA[متحدث باسم الجيش الباكستاني: لا مانع من انضمام إيران إلى اتفاقية مكة للدفاع المشترك والقرار يعود لأطرافها]]></description>
             <content:encoded><![CDATA[متحدث باسم الجيش الباكستاني: لا مانع من انضمام إيران إلى اتفاقية مكة للدفاع المشترك والقرار يعود لأطرافها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يشعر بتفاؤل حذر إزاء الوساطة بين إيران…]]></title>
-            <link>https://t.me/aljazeeraBrk/242354</link>
-            <guid isPermaLink="false">dcddf85ed2f82e335e7f386c40bbb492d84b6c68d3205c68e6ccefe6e2e78f97</guid>
-            <pubDate>Fri, 30 Oct 2026 17:51:02 GMT</pubDate>
-            <description><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يشعر بتفاؤل حذر إزاء الوساطة بين إيران وأمريكا]]></description>
-            <content:encoded><![CDATA[متحدث باسم الجيش الباكستاني: الجيش يشعر بتفاؤل حذر إزاء الوساطة بين إيران وأمريكا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
