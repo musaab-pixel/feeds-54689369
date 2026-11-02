@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 18:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 19:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نتنياهو: نتطلع لتشكيل حكومة موسعة مع شركائنا ومع أي حزب يرغب في ذلك ولا يدعم…]]></title>
+            <link>https://t.me/aljazeeraBrk/242715</link>
+            <guid isPermaLink="false">8f22ec4e696773a67aa05485081d43eb67650782b1de47cbd9ada96eff90fc81</guid>
+            <pubDate>Mon, 02 Nov 2026 18:49:02 GMT</pubDate>
+            <description><![CDATA[نتنياهو: نتطلع لتشكيل حكومة موسعة مع شركائنا ومع أي حزب يرغب في ذلك ولا يدعم الإرهاب وأنا منفتح على الحوار]]></description>
+            <content:encoded><![CDATA[نتنياهو: نتطلع لتشكيل حكومة موسعة مع شركائنا ومع أي حزب يرغب في ذلك ولا يدعم الإرهاب وأنا منفتح على الحوار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تراجع أسعار النفط بنحو 8% إلى 95 دولارا للخام الأمريكي و103 دولارات لخام برنت…]]></title>
             <link>https://t.me/aljazeeraBrk/242714</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 01 Nov 2026 00:24:02 GMT</pubDate>
             <description><![CDATA[ترمب ردا على ما إذا كان سيستأنف الحرب على إيران الأسبوع المقبل: لن أناقش ذلك أمام وسائل الإعلام]]></description>
             <content:encoded><![CDATA[ترمب ردا على ما إذا كان سيستأنف الحرب على إيران الأسبوع المقبل: لن أناقش ذلك أمام وسائل الإعلام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: أعتقد أن الحرب بين روسيا وأوكرانيا ستنتهي في المستقبل القريب]]></title>
-            <link>https://t.me/aljazeeraBrk/242498</link>
-            <guid isPermaLink="false">f67b515b01cfdafedac57c8e68550826f19002698988926dfa834a81071035c2</guid>
-            <pubDate>Sun, 01 Nov 2026 00:17:02 GMT</pubDate>
-            <description><![CDATA[ترمب: أعتقد أن الحرب بين روسيا وأوكرانيا ستنتهي في المستقبل القريب]]></description>
-            <content:encoded><![CDATA[ترمب: أعتقد أن الحرب بين روسيا وأوكرانيا ستنتهي في المستقبل القريب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
