@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 03 Nov 2026 17:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 17:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سي إن إن عن مسؤول في البيت الأبيض: التفاؤل الحذر يسود إدارة ترمب في يوم…]]></title>
+            <link>https://t.me/aljazeeraBrk/242885</link>
+            <guid isPermaLink="false">2d46430bea3e090758f83680b85a64df8239f16f16a7c1eac9fe3e21901f5dea</guid>
+            <pubDate>Tue, 03 Nov 2026 17:08:02 GMT</pubDate>
+            <description><![CDATA[سي إن إن عن مسؤول في البيت الأبيض: التفاؤل الحذر يسود إدارة ترمب في يوم الانتخابات]]></description>
+            <content:encoded><![CDATA[سي إن إن عن مسؤول في البيت الأبيض: التفاؤل الحذر يسود إدارة ترمب في يوم الانتخابات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[انطلاق الانتخابات النصفية في جميع الولايات الأمريكية بعد فتح صناديق الاقتراع في…]]></title>
             <link>https://t.me/aljazeeraBrk/242884</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 02 Nov 2026 11:26:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: رؤساء الأحزاب العربية في إسرائيل بحثوا اليوم تنسيق المواقف بشأن تشكيل الحكومة المقبلة]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: رؤساء الأحزاب العربية في إسرائيل بحثوا اليوم تنسيق المواقف بشأن تشكيل الحكومة المقبلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[اليونسكو: مقتل 189 صحفيا خلال عامي 2024 و2025 وارتفاع معدل الإفلات من العقاب…]]></title>
-            <link>https://t.me/aljazeeraBrk/242664</link>
-            <guid isPermaLink="false">96e087e7a6485682afbce6bdfe61577307e6c000facbeb0ff4cff6a3cb38a330</guid>
-            <pubDate>Mon, 02 Nov 2026 11:16:02 GMT</pubDate>
-            <description><![CDATA[اليونسكو: مقتل 189 صحفيا خلال عامي 2024 و2025 وارتفاع معدل الإفلات من العقاب إلى 86% عالميا]]></description>
-            <content:encoded><![CDATA[اليونسكو: مقتل 189 صحفيا خلال عامي 2024 و2025 وارتفاع معدل الإفلات من العقاب إلى 86% عالميا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
