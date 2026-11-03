@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 03 Nov 2026 15:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 16:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[تواصل عمليات التصويت في الانتخابات النصفية بالولايات الأمريكية]]></title>
+            <link>https://t.me/aljazeeraBrk/242874</link>
+            <guid isPermaLink="false">21cf9c5419428806d2a2919ce4034212c352a154fedf1a13397e7fab3f55ec5a</guid>
+            <pubDate>Tue, 03 Nov 2026 16:07:02 GMT</pubDate>
+            <description><![CDATA[تواصل عمليات التصويت في الانتخابات النصفية بالولايات الأمريكية]]></description>
+            <content:encoded><![CDATA[تواصل عمليات التصويت في الانتخابات النصفية بالولايات الأمريكية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الداخلية اليمني: 21 خبيرا أجنبيا بينهم 14 من الحرس الثوري و7 من حزب_الله…]]></title>
             <link>https://t.me/aljazeeraBrk/242873</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 02 Nov 2026 09:34:02 GMT</pubDate>
             <description><![CDATA[تراجع خام برنت بنسبة 4% إلى ١٠٨ دولارات للبرميل والخام الأمريكي إلى ما دون ١٠٠ دولار]]></description>
             <content:encoded><![CDATA[تراجع خام برنت بنسبة 4% إلى ١٠٨ دولارات للبرميل والخام الأمريكي إلى ما دون ١٠٠ دولار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش السوداني: منشقون من مليشيا الدعم السريع يسلمون أنفسهم للفرقة الرابعة مشاة…]]></title>
-            <link>https://t.me/aljazeeraBrk/242653</link>
-            <guid isPermaLink="false">5b30b5dfcd00789aa9b873a146e04f0caf001448537036b6fd136d3b0f3d6c9f</guid>
-            <pubDate>Mon, 02 Nov 2026 08:49:02 GMT</pubDate>
-            <description><![CDATA[الجيش السوداني: منشقون من مليشيا الدعم السريع يسلمون أنفسهم للفرقة الرابعة مشاة بالدمازين]]></description>
-            <content:encoded><![CDATA[الجيش السوداني: منشقون من مليشيا الدعم السريع يسلمون أنفسهم للفرقة الرابعة مشاة بالدمازين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
