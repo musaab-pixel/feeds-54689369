@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 03 Nov 2026 09:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 09:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مطار وارسو: إغلاق المطار حتى إشعار آخر إثر إنذار بوجود قنبلة على متن طائرة ركاب…]]></title>
+            <link>https://t.me/aljazeeraBrk/242807</link>
+            <guid isPermaLink="false">d72daa947f5722dc89694251b05aff4571b1534d04dc303c19c96fbcf203b90e</guid>
+            <pubDate>Tue, 03 Nov 2026 09:46:02 GMT</pubDate>
+            <description><![CDATA[مطار وارسو: إغلاق المطار حتى إشعار آخر إثر إنذار بوجود قنبلة على متن طائرة ركاب قادمة من لندن]]></description>
+            <content:encoded><![CDATA[مطار وارسو: إغلاق المطار حتى إشعار آخر إثر إنذار بوجود قنبلة على متن طائرة ركاب قادمة من لندن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[وكالة تسنيم الإيرانية: قتيل ومصاب من القوات البرية الإيرانية في هجوم إرهابي…]]></title>
+            <link>https://t.me/aljazeeraBrk/242806</link>
+            <guid isPermaLink="false">883516b615dfb9454244ae362002aea919a9ef1fd7f1cc85e65606b0724b2b7c</guid>
+            <pubDate>Tue, 03 Nov 2026 09:43:02 GMT</pubDate>
+            <description><![CDATA[وكالة تسنيم الإيرانية: قتيل ومصاب من القوات البرية الإيرانية في هجوم إرهابي جنوب شرقي البلاد]]></description>
+            <content:encoded><![CDATA[وكالة تسنيم الإيرانية: قتيل ومصاب من القوات البرية الإيرانية في هجوم إرهابي جنوب شرقي البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: لم ننفذ اليوم أي عملية باتجاه الأراضي…]]></title>
             <link>https://t.me/aljazeeraBrk/242805</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Sun, 01 Nov 2026 18:24:03 GMT</pubDate>
             <description><![CDATA[آيزنكوت: سنجهض أي محاولة لإنكار نتائج الانتخابات الإسرائيلية]]></description>
             <content:encoded><![CDATA[آيزنكوت: سنجهض أي محاولة لإنكار نتائج الانتخابات الإسرائيلية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حزب الليكود: سحابة سوداء تخيم على نتائج الانتخابات الإسرائيلية حتى ينتهي التحقيق]]></title>
-            <link>https://t.me/aljazeeraBrk/242583</link>
-            <guid isPermaLink="false">1420667b4e21bf5973ce5920eced17f6a5cc6471c4df2d2e33a4a8b71935e2f3</guid>
-            <pubDate>Sun, 01 Nov 2026 18:24:02 GMT</pubDate>
-            <description><![CDATA[حزب الليكود: سحابة سوداء تخيم على نتائج الانتخابات الإسرائيلية حتى ينتهي التحقيق]]></description>
-            <content:encoded><![CDATA[حزب الليكود: سحابة سوداء تخيم على نتائج الانتخابات الإسرائيلية حتى ينتهي التحقيق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارة استهدفت شبكة الاتصالات جنوب…]]></title>
-            <link>https://t.me/aljazeeraBrk/242582</link>
-            <guid isPermaLink="false">a18ac326dc3826880fd84856b6c94e2c386e298d8c7ac5b696253ac2c7a6c659</guid>
-            <pubDate>Sun, 01 Nov 2026 18:23:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارة استهدفت شبكة الاتصالات جنوب شرق مدينة صعدة]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لجماعة أنصار الله الحوثيين: غارة استهدفت شبكة الاتصالات جنوب شرق مدينة صعدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
