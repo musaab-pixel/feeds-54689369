@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"sdm.nl\" (type: native)",
     "items": [
         {
+            "id": "ff088328ca1cc70ec687956f783d728462df48684258b38ede5be65084e79168",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/\">Vacature: Senior Programmamaker Evenementen</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/",
+            "title": "Vacature: Senior Programmamaker Evenementen",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/\">Vacature: Senior Programmamaker Evenementen</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-10-28T08:16:19.000Z",
+            "author": {
+                "name": "Wout Vanzaale"
+            }
+        },
+        {
             "id": "7b0c85eaff6b5ee142d2125713640fbf143ce4ef916748c5ef08ac7b2123562f",
             "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/ingo-heijnen-nieuw-rvt-lid-toezichthouden-is-niet-alleen-kritisch-oordelen-maar-juist-ook-meedenken/\">Ingo Heijnen nieuw rvt-lid: ‘Toezichthouden is niet alleen kritisch oordelen, maar juist ook meedenken’</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
             "url": "https://sdm.nl/artikel/ingo-heijnen-nieuw-rvt-lid-toezichthouden-is-niet-alleen-kritisch-oordelen-maar-juist-ook-meedenken/",
@@ -46,17 +57,6 @@
             "date_modified": "2026-10-15T10:29:05.000Z",
             "author": {
                 "name": "Britt Vansloun"
-            }
-        },
-        {
-            "id": "ff088328ca1cc70ec687956f783d728462df48684258b38ede5be65084e79168",
-            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/\">Vacature: Senior Programmamaker Evenementen</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
-            "url": "https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/",
-            "title": "Vacature: Senior Programmamaker Evenementen",
-            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen/\">Vacature: Senior Programmamaker Evenementen</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
-            "date_modified": "2026-10-15T07:16:19.000Z",
-            "author": {
-                "name": "Wout Vanzaale"
             }
         },
         {
