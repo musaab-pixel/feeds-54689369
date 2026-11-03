@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Mon, 02 Nov 2026 13:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 12:00:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Weil es um mehr geht als ums bloße Überleben]]></title>
+            <link>https://bosch-stiftung.de/story/weil-es-um-mehr-geht-als-ums-blosse-ueberleben</link>
+            <guid isPermaLink="false">ce7546c344d6996d37736e4fd1bc96d378b1e5a139ef6d4d50363785f8337514</guid>
+            <pubDate>Tue, 03 Nov 2026 08:17:19 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Weil es um mehr geht als ums bloße Überleben</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-03T09:17:19+01:00" title="Dienstag, 3 November 2026 - 09:17" class="datetime">Di. 3 Nov 2026 - 09:17</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Weil es um mehr geht als ums bloße Überleben</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Regina Mennig</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-03T09:17:19+01:00" title="Dienstag, 3 November 2026 - 09:17" class="datetime">Di. 3 Nov 2026 - 09:17</time>
+</span>
+]]></content:encoded>
+            <author>Regina Mennig</author>
+        </item>
         <item>
             <title><![CDATA[Freiwilliges Praktikum für Absolventen (w/m/div.) für das Thema Migration]]></title>
             <link>https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-wmdiv-fuer-das-thema-migration</link>

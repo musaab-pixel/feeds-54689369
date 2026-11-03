@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "ce7546c344d6996d37736e4fd1bc96d378b1e5a139ef6d4d50363785f8337514",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Weil es um mehr geht als ums bloße Überleben</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-03T09:17:19+01:00\" title=\"Dienstag, 3 November 2026 - 09:17\" class=\"datetime\">Di. 3 Nov 2026 - 09:17</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/weil-es-um-mehr-geht-als-ums-blosse-ueberleben",
+            "title": "Weil es um mehr geht als ums bloße Überleben",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Weil es um mehr geht als ums bloße Überleben</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-03T09:17:19+01:00\" title=\"Dienstag, 3 November 2026 - 09:17\" class=\"datetime\">Di. 3 Nov 2026 - 09:17</time>\n</span>\n",
+            "date_modified": "2026-11-03T08:17:19.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "64ad4e06979e92a307c62aa0abe20faf88fd4deb8da92553ad51425db4b65b83",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (w/m/div.) für das Thema Migration</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-02T12:51:20+01:00\" title=\"Montag, 2 November 2026 - 12:51\" class=\"datetime\">Mo. 2 Nov 2026 - 12:51</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-wmdiv-fuer-das-thema-migration",
