@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "a1fd2c6dce504f6365f070f2e4a6cd3fadece873217f81c17bbd689e81ca0206",
+            "content_html": "وزارة الداخلية في غزة: شهداء وجرحى إثر استهداف طائرات الاحتلال ضباطا وعناصر أمن في مواصي خان يونس",
+            "url": "https://t.me/aljazeeraBrk/242808",
+            "title": "وزارة الداخلية في غزة: شهداء وجرحى إثر استهداف طائرات الاحتلال ضباطا وعناصر أمن…",
+            "summary": "وزارة الداخلية في غزة: شهداء وجرحى إثر استهداف طائرات الاحتلال ضباطا وعناصر أمن في مواصي خان يونس",
+            "date_modified": "2026-11-03T10:07:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "d72daa947f5722dc89694251b05aff4571b1534d04dc303c19c96fbcf203b90e",
             "content_html": "مطار وارسو: إغلاق المطار حتى إشعار آخر إثر إنذار بوجود قنبلة على متن طائرة ركاب قادمة من لندن",
             "url": "https://t.me/aljazeeraBrk/242807",
@@ -1608,18 +1619,6 @@
             "date_modified": "2026-11-02T15:30:12.000Z",
             "author": {
                 "name": "Euronews.com"
-            }
-        },
-        {
-            "id": "a79d4de50a2d0f61d613ced87e73204325ec3ed23beb2474bb4a8561037ef308",
-            "content_html": "حمص الفداء يفوز على الطليعة بنتيجة (3-1) ضمن منافسات الدوري السوري الممتاز لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142461",
-            "title": "حمص الفداء يفوز على الطليعة بنتيجة (3-1) ضمن منافسات الدوري السوري الممتاز لكرة…",
-            "summary": "حمص الفداء يفوز على الطليعة بنتيجة (3-1) ضمن منافسات الدوري السوري الممتاز لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/COv6yDdPU0aOkwrQvkxO5fifU3Dl8UZImilgNbDpYvJyw24aLNzKxKuHM6c6iCN1clMNKexVm2AznsVFBUw_LmXel0xbKKgIQ7SkIssYMMKu_ENs3V2K-EN5uu6-l2jbmhKHvHRyc6llK2UBfZI05DBU5HcucVQ67sp0O-NN8GW7JuovuxmPZzJZnRN1QhAT6KeEqSgNWJUQz5t8gKfuyZbcPp66wi3_o81iuaTsmdlctOLLyQdDIVG6dYyvj6SXZZT8_YpNRWte9UE9GWklSFvXSz4-xPFVncInPOI_rDkaOWtfVxbihbitdSFO6J6fwfpoREJfaHbE90Xoltg-FQ.jpg",
-            "date_modified": "2026-11-02T15:21:30.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
