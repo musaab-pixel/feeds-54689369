@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 03 Nov 2026 12:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 12:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[البيت الأبيض: الرئيس ترمب سيتابع الانتخابات النصفية من البيت الأبيض]]></title>
+            <link>https://t.me/aljazeeraBrk/242824</link>
+            <guid isPermaLink="false">ab40397b022400cf14051b15c4ecda15f57f3e0e48c287629826abbeb12b3b66</guid>
+            <pubDate>Tue, 03 Nov 2026 12:44:02 GMT</pubDate>
+            <description><![CDATA[البيت الأبيض: الرئيس ترمب سيتابع الانتخابات النصفية من البيت الأبيض]]></description>
+            <content:encoded><![CDATA[البيت الأبيض: الرئيس ترمب سيتابع الانتخابات النصفية من البيت الأبيض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة العدل الأمريكية: نراقب الانتخابات في أكثر من 120 منطقة في جميع الولايات]]></title>
             <link>https://t.me/aljazeeraBrk/242822</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 02 Nov 2026 00:49:02 GMT</pubDate>
             <description><![CDATA[وزارة الطوارئ الروسية تعلن عن هجوم إلكتروني واسع النطاق استهدف تطبيقها للهواتف المحمولة]]></description>
             <content:encoded><![CDATA[وزارة الطوارئ الروسية تعلن عن هجوم إلكتروني واسع النطاق استهدف تطبيقها للهواتف المحمولة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[تاس: التطبيق المحمول لوزارة الطوارئ الروسية تعرض لهجوم إلكتروني واسع النطاق]]></title>
-            <link>https://t.me/aljazeeraBrk/242608</link>
-            <guid isPermaLink="false">a345859cb66287c244bc41164b576ecadbd0c1a92f8654eaffce08d91167beef</guid>
-            <pubDate>Mon, 02 Nov 2026 00:31:02 GMT</pubDate>
-            <description><![CDATA[تاس: التطبيق المحمول لوزارة الطوارئ الروسية تعرض لهجوم إلكتروني واسع النطاق]]></description>
-            <content:encoded><![CDATA[تاس: التطبيق المحمول لوزارة الطوارئ الروسية تعرض لهجوم إلكتروني واسع النطاق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
