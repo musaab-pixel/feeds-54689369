@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 04 Nov 2026 09:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 10:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الديمقراطيون يفوزون بـ28 مقعدا في انتخابات حكام الولايات مقابل 20 للجمهوريين مع…]]></title>
+            <link>https://t.me/aljazeeraBrk/243093</link>
+            <guid isPermaLink="false">117ea04b6680e5663f733b8f34899799fd2960b6bfed989ba37de413be61544f</guid>
+            <pubDate>Wed, 04 Nov 2026 09:59:02 GMT</pubDate>
+            <description><![CDATA[الديمقراطيون يفوزون بـ28 مقعدا في انتخابات حكام الولايات مقابل 20 للجمهوريين مع تواصل عمليات الفرز]]></description>
+            <content:encoded><![CDATA[الديمقراطيون يفوزون بـ28 مقعدا في انتخابات حكام الولايات مقابل 20 للجمهوريين مع تواصل عمليات الفرز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[فوز المرشحة الديمقراطية إيمي أكتون بمنصب حاكم ولاية أوهايو على حساب منافسها…]]></title>
             <link>https://t.me/aljazeeraBrk/243092</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 02 Nov 2026 21:32:02 GMT</pubDate>
             <description><![CDATA[وكالة فارس الإيرانية: دوي انفجارات قادمة من جهة البحر في بندر لنجة بمحافظة هرمزغان جنوبي البلاد]]></description>
             <content:encoded><![CDATA[وكالة فارس الإيرانية: دوي انفجارات قادمة من جهة البحر في بندر لنجة بمحافظة هرمزغان جنوبي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة الأنباء الإيرانية: قوة أصوات الانفجارات تشير إلى أن الضربات ربما تكون…]]></title>
-            <link>https://t.me/aljazeeraBrk/242742</link>
-            <guid isPermaLink="false">00416e02c02a7983c8dd106fbe51210f6dc4765ab791ff470db81a2b27ef4763</guid>
-            <pubDate>Mon, 02 Nov 2026 21:10:02 GMT</pubDate>
-            <description><![CDATA[وكالة الأنباء الإيرانية: قوة أصوات الانفجارات تشير إلى أن الضربات ربما تكون أصابت مواقع داخل قشم]]></description>
-            <content:encoded><![CDATA[وكالة الأنباء الإيرانية: قوة أصوات الانفجارات تشير إلى أن الضربات ربما تكون أصابت مواقع داخل قشم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

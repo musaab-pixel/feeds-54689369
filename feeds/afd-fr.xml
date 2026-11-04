@@ -4,7 +4,7 @@
         <title>afd.fr</title>
         <link>https://www.afd.fr/rss.xml</link>
         <description>RSS Factory feed "afd.fr" (type: native)</description>
-        <lastBuildDate>Wed, 04 Nov 2026 09:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 10:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2045,6 +2045,684 @@
             <author>evof@afd.fr</author>
         </item>
         <item>
+            <title><![CDATA[Adaptation climatique : l’IA et le géospatial pour donner les cartes en main aux îles.]]></title>
+            <link>https://www.afd.fr/fr/evenements/adaptation-climatique-lia-et-le-geospatial-pour-donner-les-cartes-en-main-aux-iles</link>
+            <guid isPermaLink="false">b56be4e5f83c9b95fe3d258df0439b4792164bdcf06f3a7b04079848e6eeaff5</guid>
+            <pubDate>Tue, 03 Nov 2026 13:24:21 GMT</pubDate>
+            <description><![CDATA[Adaptation climatique : l’IA et le géospatial pour donner les cartes en main aux îles.
+<span><span>hounyomas@afd.fr</span></span>
+<time datetime="2026-11-03T14:24:21+01:00" title="Mardi 3 novembre 2026 - 14:24">mar 03/11/2026 - 14:24</time>
+    <time datetime="2026-11-04T12:00:00Z">4 novembre 2026</time>
+    1    <a href="https://www.afd.fr/fr/taxonomy/term/113" hreflang="fr">Trois Océans</a>    <a href="https://www.afd.fr/fr/taxonomy/term/48" hreflang="fr">Climat</a><a href="https://www.afd.fr/fr/taxonomy/term/645" hreflang="fr">Numérique et innovation</a><a href="https://www.afd.fr/fr/taxonomy/term/41" hreflang="fr">Biodiversité</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/adam-juman-otjpzw_h8ea-unsplash.jpg.webp?itok=2hFPqrO6" width="792" height="450" alt>
+
+
+    Ouragans, cyclones, montée des eaux, érosion côtière, acidification des océans : du Pacifique aux Caraïbes, en passant par l’océan Indien, les petits États insulaires en développement (PEID) et les outre-mer françaises comptent parmi les territoires les plus exposés au changement climatique. Face à ces risques, l’adaptation est une priorité, à laquelle l’AFD contribue en accompagnant de nombreux territoires insulaires.    TechTalks    
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p><strong>Cette vulnérabilité rappelle que les réponses aux crises climatiques ne peuvent être pensées à l’échelle d’un seul territoire : elles reposent sur des interdépendances régionales et sur une coopération renforcée entre la France, l’Europe et leurs partenaires insulaires.</strong></p>
+<p>Dans ce contexte, <strong>l’IA et les données géospatiales ouvrent de nouvelles perspectives : modélisation prédictive, alertes précoces par capteurs, cartographie par imagerie satellite ou drone.</strong> Là où le manque de données a longtemps limité la précision de la planification climatique et de la gestion des risques, <strong>ces outils permettent de développer des plans nationaux d’adaptation mieux ciblés.</strong></p>
+<p>Pourtant<strong>, leur déploiement se heurte à des freins structurels</strong> : coût élevé des dispositifs, connectivité limitée, manque de littératie numérique. Il soulève aussi des questions de fond : qui collecte, héberge et décide de l’usage des données ? Comment la valeur créée est-elle partagée ? Qui conçoit les outils ? Quelle place pour les savoirs des communautés locales, et quel rôle pour la coopération régionale ? Alors que la COP 31 a remis la vulnérabilité des îles du Pacifique au cœur des discussions, les conditions de succès de ces outils au service de la résilience des îles deviennent un enjeu central.&nbsp;</p>
+<p><em><strong>Comment faire de l’IA et du géospatial des leviers d’adaptation durables, à grande échelle et maîtrisés localement, au bénéfice concret des populations insulaires ?&nbsp;</strong></em></p>
+<p>Ce webinaire réunira acteurs de terrain, porteurs de projet, bailleurs et chercheurs pour en discuter à travers deux dimensions clés :</p>
+<ul>
+<li><strong>Passer à l’échelle :</strong>&nbsp;Quels bénéfices concrets ces technologies apportent-elles aux populations, et comment pérenniser et diffuser leur usage à l’échelle nationale et régionale dans un contexte structurellement contraint ?</li>
+<li><strong>Des technologies inclusives et souveraines :</strong>&nbsp;Comment associer les Etats insulaires et les communautés locales à la conception et à l’appropriation des outils, pour un partage équitable de la valeur et le respect de leurs savoirs ?</li>
+</ul>
+<p><em>Les échanges se tiendront en anglais avec une traduction simultanée en français.</em></p>
+<p><strong>Modération:</strong></p>
+<ul>
+<li>Animé par<strong> </strong><a href="https://www.afd.fr/fr/profils/zanuso" data-entity-type="node" data-entity-uuid="8ea6090b-03c6-47cd-a1e4-21ae44162d1a" data-entity-substitution="canonical" title="ZANUSO"><strong>Claire Zanuso</strong></a>, Responsable de l'<em>Emerging Tech Lab</em>&nbsp;à l'AFD</li>
+</ul>
+<p><strong>Intervenants:</strong></p>
+<ul>
+<li><a href="https://www.linkedin.com/in/letetia-addison/" target="_blank" rel=" noopener external" title="Dr. Letetia Addison - nouvelle fenêtre"><strong>Dr. Letetia Addison</strong></a>, chercheuse et professeure à l’University of West Indies, lauréate du Global AI Innovation Challenge 2024 organisé par l’UNFCCC pour son projet AI4SIDS visant à améliorer la résilience climatique des petits Etats insulaires en développement en se basant sur l’IA</li>
+<li><a href="https://www.linkedin.com/in/valriegrant/" target="_blank" rel=" noopener external" title="Dr. Valrie Grant - nouvelle fenêtre"><strong>Dr. Valrie Grant</strong></a>, entrepreneure, animatrice de podcast et experte géospatiale mobilisée dans le réseau des Nations-Unies (UN-GGIM) et l’OECS pour les Caraïbes</li>
+<li><a href="https://www.linkedin.com/in/nick-simpson-209399205/" target="_blank" rel=" noopener external" title="Dr. Nick Simpson - nouvelle fenêtre"><strong>Dr. Nick Simpson</strong></a>,<strong> </strong>directeur de recherche (Chief Research Officer) à l’African Climate and Development Initiative (Université du Cap), professeur associé à la Stellenbosch School of Climate Studies et auteur principal du GIEC</li>
+</ul>
+
+  </div>
+</div>    <time datetime="2026-12-02T12:00:00Z">Mercredi 2 décembre 2026</time>
+    De 14h à 15h15    En ligne    0    <a href="https://app.livestorm.co/agence-francaise-de-deveoppement/techtalks-adaptation-climatique-lia-et-le-geospatial-pour-donner-les-cartes-en-main-aux-iles?s=cd0b17af-30da-40e6-8f45-e61152ee042b" target="_blank" rel="noopener external" title="S'inscrire - nouvelle fenêtre">S'inscrire</a>]]></description>
+            <content:encoded><![CDATA[Adaptation climatique : l’IA et le géospatial pour donner les cartes en main aux îles.
+<span><span>hounyomas@afd.fr</span></span>
+<time datetime="2026-11-03T14:24:21+01:00" title="Mardi 3 novembre 2026 - 14:24">mar 03/11/2026 - 14:24</time>
+    <time datetime="2026-11-04T12:00:00Z">4 novembre 2026</time>
+    1    <a href="https://www.afd.fr/fr/taxonomy/term/113" hreflang="fr">Trois Océans</a>    <a href="https://www.afd.fr/fr/taxonomy/term/48" hreflang="fr">Climat</a><a href="https://www.afd.fr/fr/taxonomy/term/645" hreflang="fr">Numérique et innovation</a><a href="https://www.afd.fr/fr/taxonomy/term/41" hreflang="fr">Biodiversité</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/adam-juman-otjpzw_h8ea-unsplash.jpg.webp?itok=2hFPqrO6" width="792" height="450" alt>
+
+
+    Ouragans, cyclones, montée des eaux, érosion côtière, acidification des océans : du Pacifique aux Caraïbes, en passant par l’océan Indien, les petits États insulaires en développement (PEID) et les outre-mer françaises comptent parmi les territoires les plus exposés au changement climatique. Face à ces risques, l’adaptation est une priorité, à laquelle l’AFD contribue en accompagnant de nombreux territoires insulaires.    TechTalks    
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p><strong>Cette vulnérabilité rappelle que les réponses aux crises climatiques ne peuvent être pensées à l’échelle d’un seul territoire : elles reposent sur des interdépendances régionales et sur une coopération renforcée entre la France, l’Europe et leurs partenaires insulaires.</strong></p>
+<p>Dans ce contexte, <strong>l’IA et les données géospatiales ouvrent de nouvelles perspectives : modélisation prédictive, alertes précoces par capteurs, cartographie par imagerie satellite ou drone.</strong> Là où le manque de données a longtemps limité la précision de la planification climatique et de la gestion des risques, <strong>ces outils permettent de développer des plans nationaux d’adaptation mieux ciblés.</strong></p>
+<p>Pourtant<strong>, leur déploiement se heurte à des freins structurels</strong> : coût élevé des dispositifs, connectivité limitée, manque de littératie numérique. Il soulève aussi des questions de fond : qui collecte, héberge et décide de l’usage des données ? Comment la valeur créée est-elle partagée ? Qui conçoit les outils ? Quelle place pour les savoirs des communautés locales, et quel rôle pour la coopération régionale ? Alors que la COP 31 a remis la vulnérabilité des îles du Pacifique au cœur des discussions, les conditions de succès de ces outils au service de la résilience des îles deviennent un enjeu central.&nbsp;</p>
+<p><em><strong>Comment faire de l’IA et du géospatial des leviers d’adaptation durables, à grande échelle et maîtrisés localement, au bénéfice concret des populations insulaires ?&nbsp;</strong></em></p>
+<p>Ce webinaire réunira acteurs de terrain, porteurs de projet, bailleurs et chercheurs pour en discuter à travers deux dimensions clés :</p>
+<ul>
+<li><strong>Passer à l’échelle :</strong>&nbsp;Quels bénéfices concrets ces technologies apportent-elles aux populations, et comment pérenniser et diffuser leur usage à l’échelle nationale et régionale dans un contexte structurellement contraint ?</li>
+<li><strong>Des technologies inclusives et souveraines :</strong>&nbsp;Comment associer les Etats insulaires et les communautés locales à la conception et à l’appropriation des outils, pour un partage équitable de la valeur et le respect de leurs savoirs ?</li>
+</ul>
+<p><em>Les échanges se tiendront en anglais avec une traduction simultanée en français.</em></p>
+<p><strong>Modération:</strong></p>
+<ul>
+<li>Animé par<strong> </strong><a href="https://www.afd.fr/fr/profils/zanuso" data-entity-type="node" data-entity-uuid="8ea6090b-03c6-47cd-a1e4-21ae44162d1a" data-entity-substitution="canonical" title="ZANUSO"><strong>Claire Zanuso</strong></a>, Responsable de l'<em>Emerging Tech Lab</em>&nbsp;à l'AFD</li>
+</ul>
+<p><strong>Intervenants:</strong></p>
+<ul>
+<li><a href="https://www.linkedin.com/in/letetia-addison/" target="_blank" rel=" noopener external" title="Dr. Letetia Addison - nouvelle fenêtre"><strong>Dr. Letetia Addison</strong></a>, chercheuse et professeure à l’University of West Indies, lauréate du Global AI Innovation Challenge 2024 organisé par l’UNFCCC pour son projet AI4SIDS visant à améliorer la résilience climatique des petits Etats insulaires en développement en se basant sur l’IA</li>
+<li><a href="https://www.linkedin.com/in/valriegrant/" target="_blank" rel=" noopener external" title="Dr. Valrie Grant - nouvelle fenêtre"><strong>Dr. Valrie Grant</strong></a>, entrepreneure, animatrice de podcast et experte géospatiale mobilisée dans le réseau des Nations-Unies (UN-GGIM) et l’OECS pour les Caraïbes</li>
+<li><a href="https://www.linkedin.com/in/nick-simpson-209399205/" target="_blank" rel=" noopener external" title="Dr. Nick Simpson - nouvelle fenêtre"><strong>Dr. Nick Simpson</strong></a>,<strong> </strong>directeur de recherche (Chief Research Officer) à l’African Climate and Development Initiative (Université du Cap), professeur associé à la Stellenbosch School of Climate Studies et auteur principal du GIEC</li>
+</ul>
+
+  </div>
+</div>    <time datetime="2026-12-02T12:00:00Z">Mercredi 2 décembre 2026</time>
+    De 14h à 15h15    En ligne    0    <a href="https://app.livestorm.co/agence-francaise-de-deveoppement/techtalks-adaptation-climatique-lia-et-le-geospatial-pour-donner-les-cartes-en-main-aux-iles?s=cd0b17af-30da-40e6-8f45-e61152ee042b" target="_blank" rel="noopener external" title="S'inscrire - nouvelle fenêtre">S'inscrire</a>]]></content:encoded>
+            <author>hounyomas@afd.fr</author>
+        </item>
+        <item>
+            <title><![CDATA[Sport en Afrique : un réel potentiel économique à développer]]></title>
+            <link>https://www.afd.fr/fr/actualites/sport-afrique-potentiel-economique</link>
+            <guid isPermaLink="false">efed5adc1c2d643f74beb5a0910c15027429440026fd404f2c974f09ef28d0a8</guid>
+            <pubDate>Tue, 03 Nov 2026 13:21:31 GMT</pubDate>
+            <description><![CDATA[Sport en Afrique : un réel potentiel économique à développer
+<span><span>cataneseb@afd.fr</span></span>
+<time datetime="2026-11-03T14:21:31+01:00" title="Mardi 3 novembre 2026 - 14:21">mar 03/11/2026 - 14:21</time>
+    <a href="https://www.afd.fr/fr/taxonomy/term/738" hreflang="fr">Décryptage</a>    <time datetime="2026-11-04T12:00:00Z">4 novembre 2026</time>
+    Activé    <a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a><a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/ouvrage-sport-kick4life-sesla.jpg.webp?itok=xysZv9GH" width="792" height="450" alt>
+
+
+    Une véritable opportunité économique, mais encore largement sous-exploitée : tel est l’un des enseignements du rapport « Libérer le potentiel du sport en Afrique », publié par l’Agence française de développement (AFD), le Comité international olympique (CIO) et la Banque mondiale à l’occasion des Jeux olympiques de la jeunesse 2026. Il s’appuie notamment sur les données d’une enquête Ipsos Sénégal menée dans neuf pays africains.    
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p>Partout en Afrique, le sport occupe une place importante au quotidien&nbsp;: selon l’enquête réalisée par Ipsos Sénégal, un peu plus de deux personnes sur trois pratiquent au moins un sport en tant que loisir, les sports les plus pratiqués étant le football (31 %), l’athlétisme/course à pied (30 %) et la marche rapide (26 %).&nbsp;</p>
+<p>Cependant, la contribution du sport à l’économie est encore trop peu documentée. C'est pour combler cette lacune que l’AFD, le CIO et la Banque mondiale ont uni leurs expertises autour du rapport <em>Libérer le potentiel du sport en Afrique</em>. Celui-ci met en lumière une dimension souvent méconnue : au-delà des grands événements et du sport professionnel, le sport possède en Afrique des atouts économiques réels mais encore largement inexploités.</p>
+<p><strong>Un gisement d’emplois pour l’insertion des jeunes</strong></p>
+<p>«&nbsp;<em>Dans les enquêtes auprès des ménages, on observe que le sport représente déjà près de 3 % des emplois directs dans les villes africaines étudiées</em>&nbsp;», souligne Thomas Melonio, chef économiste de l’AFD et coauteur du rapport. Si ce chiffre doit être pris avec précaution dans la mesure où l’emploi sportif est largement informel, c’est néanmoins «&nbsp;<em>un vrai gisement d’emplois qu’on peut trouver dans le secteur sportif</em>&nbsp;», ajoute-t-il.</p>
+<p>Pour autant, la pratique du sport pour des motivations économiques – de revenu, de carrière – est encore marginale. «&nbsp;<em>Investir dans les formations techniques liées au sport est nécessaire pour développer les compétences locales et faire du sport un levier d’insertion professionnelle, notamment pour les jeunes</em>&nbsp;», explique Linda Zanfini, coautrice et coordinatrice du rapport pour l’AFD. Au-delà des formations à proprement parler, le rapport confirme qu’encourager la pratique du sport contribue aussi à développer le capital humain des jeunes, de par ses effets sur la santé, l’éducation ou encore les savoir-être.&nbsp;</p>
+<p>D’autres freins restent à lever&nbsp;: les ménages déclarant une activité informelle dans le secteur relèvent notamment la difficulté d’accès au financement (43 %), le manque d’information ou la lourdeur administrative (24,5 %) et le coût des formalités (20,4 %). Autant de pistes dont les pouvoirs publics peuvent se saisir pour développer l’entrepreneuriat dans le secteur du sport.&nbsp;</p>
+
+  </div>
+</div>
+
+
+  <div class="para__txt-btn-edito afd sm:py-8 sm:px-10 p-6 print:px-0 print:py-0 my-4 md:my-10 bg-gray-50 print:bg-white print-para-space">
+            <div class="flex pt-2 print:hidden">
+          
+							
+		<a class="link-btn reset-link py-2 px-6 transition-colors text-center leading-[1.5rem] border text-white border-primary hover:text-primary bg-primary hover:border-primary text-lg block font-bold" href="https://www.afd.fr/fr/ressources/liberer-potentiel-sport-afrique">
+			Télécharger le rapport
+		</a>
+	
+    </div>
+  </div>
+
+
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p><strong>La structuration nécessaire des filières économiques locales&nbsp;</strong></p>
+<p>Au-delà de l’emploi direct, l’économie du sport mobilise de nombreux métiers et entreprises sur tout le continent&nbsp;: fabrication et vente d'équipements, gestion d'infrastructures de proximité, organisation de compétitions, médias, tourisme et services associés… Le développement de la consommation de produits ou de services sportifs se heurte néanmoins à des contraintes d’offre comme de demande, à des degrés variables selon les pays. De plus, les entreprises locales existantes restent largement informelles, tandis qu’une grande partie de la valeur ajoutée produite par le secteur est captée par des entreprises en dehors du continent. Le développement de l’économie sportive en Afrique dépendra donc de la capacité des pays à faire émerger un tissu de PME locales capables de répondre aux besoins des acteurs locaux (clubs, écoles, consommateurs, etc.) et à consolider les chaînes d’approvisionnement nationales.&nbsp;</p>
+
+  </div>
+</div>
+
+
+  <div class="para__txt-btn-edito afd sm:py-8 sm:px-10 p-6 print:px-0 print:py-0 my-4 md:my-10 bg-gray-50 print:bg-white print-para-space">
+            <div class="flex pt-2 print:hidden">
+          
+							
+		<a class="link-btn reset-link py-2 px-6 transition-colors text-center leading-[1.5rem] border text-white border-primary hover:text-primary bg-primary hover:border-primary text-lg block font-bold" href="https://www.afd.fr/fr/actualites/africa-forward-sport-jeunesse-entrepreneuriat">
+			Africa Forward : le sport comme levier pour la jeunesse et l'entrepreneuriat
+		</a>
+	
+    </div>
+  </div>
+
+
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p><strong>Penser le sport comme un investissement économique et social&nbsp;</strong></p>
+<p>«&nbsp;<em>Le potentiel du sport en Afrique est important mais, pour le concrétiser, il faut non seulement investir dans les infrastructures d’une manière durable, mais aussi dans les personnes, par le biais de formations</em>&nbsp;», insiste Thomas Melonio. Ces investissements devront tenir compte des inégalités existantes. Si la pratique sportive se fait largement dans des espaces non dédiés au sport (rue, terrain vague…), c’est souvent en raison de freins financiers et de l’absence d’installations de proximité. Les femmes, elles, rencontrent des obstacles spécifiques.&nbsp;«&nbsp;<em>Des actions ciblées sont nécessaires, comme investir dans des infrastructures adaptées aux besoins des femmes ou adapter l’offre en matière de lieu, de créneaux horaires…&nbsp;»</em>, précise Linda Zanfini.</p>
+<p>Ces enjeux justifient l’engagement du secteur public (État, collectivités, bailleurs…) par des politiques de promotion du sport et des investissements structurés. Des partenariats public-privé pourraient également permettre de développer des espaces accessibles et de proximité, dans une logique d’usage durable pour tous. C’est à ces conditions que le sport pourra devenir un véritable moteur de développement économique, tout en contribuant à répondre aux besoins des populations et, plus largement, aux défis de l’Afrique d’aujourd’hui.</p>
+
+  </div>
+</div>    
+                
+                  
+                  
+  
+    <div class="card-news afd card-news--color">
+  <div class="card-news__main my-content relative z-10">
+    <div class="card-news__title">
+                        
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--cyan-500 pl-[5px] pr-[5px]">
+			Aller plus loin
+						
+						
+		</span>
+	</h2>
+
+                  </div>
+            <div class="pb-10 sm:pb-12">
+      <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/joj-dakar-sport-et-eloquence-jeunes-france-senegal" class="fr-card__link">Sport et éloquence : les jeunesses de France et du Sénégal font équipe</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Sport et développement
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Sénégal
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 2 novembre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/eloquentia.jpg.webp?itok=dF3B-Ay_" alt="Eloquence" title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/ressources/senegal-quand-le-sport-transforme-des-vies" class="fr-card__link">Sénégal : quand le sport transforme des vies</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Sport et développement
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Afrique
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 15 octobre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img play-media">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/vignette_afrique_sport_fr.png.webp?itok=tQZiDJxo" alt title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/insertion-integrale-jeunes-emploi-economie-social-environnemental" class="fr-card__link">L’insertion intégrale des jeunes : lier les enjeux économiques, sociaux et environnementaux</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Afrique
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Emploi décent
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 11 août 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-08/insertion-integrale_0.jpg.webp?itok=sX8ifqki" alt title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+              </div>
+    </div>
+
+                  <div class="card-news__access">
+              
+	
+        </div>
+            </div>
+</div>]]></description>
+            <content:encoded><![CDATA[Sport en Afrique : un réel potentiel économique à développer
+<span><span>cataneseb@afd.fr</span></span>
+<time datetime="2026-11-03T14:21:31+01:00" title="Mardi 3 novembre 2026 - 14:21">mar 03/11/2026 - 14:21</time>
+    <a href="https://www.afd.fr/fr/taxonomy/term/738" hreflang="fr">Décryptage</a>    <time datetime="2026-11-04T12:00:00Z">4 novembre 2026</time>
+    Activé    <a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a><a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/ouvrage-sport-kick4life-sesla.jpg.webp?itok=xysZv9GH" width="792" height="450" alt>
+
+
+    Une véritable opportunité économique, mais encore largement sous-exploitée : tel est l’un des enseignements du rapport « Libérer le potentiel du sport en Afrique », publié par l’Agence française de développement (AFD), le Comité international olympique (CIO) et la Banque mondiale à l’occasion des Jeux olympiques de la jeunesse 2026. Il s’appuie notamment sur les données d’une enquête Ipsos Sénégal menée dans neuf pays africains.    
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p>Partout en Afrique, le sport occupe une place importante au quotidien&nbsp;: selon l’enquête réalisée par Ipsos Sénégal, un peu plus de deux personnes sur trois pratiquent au moins un sport en tant que loisir, les sports les plus pratiqués étant le football (31 %), l’athlétisme/course à pied (30 %) et la marche rapide (26 %).&nbsp;</p>
+<p>Cependant, la contribution du sport à l’économie est encore trop peu documentée. C'est pour combler cette lacune que l’AFD, le CIO et la Banque mondiale ont uni leurs expertises autour du rapport <em>Libérer le potentiel du sport en Afrique</em>. Celui-ci met en lumière une dimension souvent méconnue : au-delà des grands événements et du sport professionnel, le sport possède en Afrique des atouts économiques réels mais encore largement inexploités.</p>
+<p><strong>Un gisement d’emplois pour l’insertion des jeunes</strong></p>
+<p>«&nbsp;<em>Dans les enquêtes auprès des ménages, on observe que le sport représente déjà près de 3 % des emplois directs dans les villes africaines étudiées</em>&nbsp;», souligne Thomas Melonio, chef économiste de l’AFD et coauteur du rapport. Si ce chiffre doit être pris avec précaution dans la mesure où l’emploi sportif est largement informel, c’est néanmoins «&nbsp;<em>un vrai gisement d’emplois qu’on peut trouver dans le secteur sportif</em>&nbsp;», ajoute-t-il.</p>
+<p>Pour autant, la pratique du sport pour des motivations économiques – de revenu, de carrière – est encore marginale. «&nbsp;<em>Investir dans les formations techniques liées au sport est nécessaire pour développer les compétences locales et faire du sport un levier d’insertion professionnelle, notamment pour les jeunes</em>&nbsp;», explique Linda Zanfini, coautrice et coordinatrice du rapport pour l’AFD. Au-delà des formations à proprement parler, le rapport confirme qu’encourager la pratique du sport contribue aussi à développer le capital humain des jeunes, de par ses effets sur la santé, l’éducation ou encore les savoir-être.&nbsp;</p>
+<p>D’autres freins restent à lever&nbsp;: les ménages déclarant une activité informelle dans le secteur relèvent notamment la difficulté d’accès au financement (43 %), le manque d’information ou la lourdeur administrative (24,5 %) et le coût des formalités (20,4 %). Autant de pistes dont les pouvoirs publics peuvent se saisir pour développer l’entrepreneuriat dans le secteur du sport.&nbsp;</p>
+
+  </div>
+</div>
+
+
+  <div class="para__txt-btn-edito afd sm:py-8 sm:px-10 p-6 print:px-0 print:py-0 my-4 md:my-10 bg-gray-50 print:bg-white print-para-space">
+            <div class="flex pt-2 print:hidden">
+          
+							
+		<a class="link-btn reset-link py-2 px-6 transition-colors text-center leading-[1.5rem] border text-white border-primary hover:text-primary bg-primary hover:border-primary text-lg block font-bold" href="https://www.afd.fr/fr/ressources/liberer-potentiel-sport-afrique">
+			Télécharger le rapport
+		</a>
+	
+    </div>
+  </div>
+
+
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p><strong>La structuration nécessaire des filières économiques locales&nbsp;</strong></p>
+<p>Au-delà de l’emploi direct, l’économie du sport mobilise de nombreux métiers et entreprises sur tout le continent&nbsp;: fabrication et vente d'équipements, gestion d'infrastructures de proximité, organisation de compétitions, médias, tourisme et services associés… Le développement de la consommation de produits ou de services sportifs se heurte néanmoins à des contraintes d’offre comme de demande, à des degrés variables selon les pays. De plus, les entreprises locales existantes restent largement informelles, tandis qu’une grande partie de la valeur ajoutée produite par le secteur est captée par des entreprises en dehors du continent. Le développement de l’économie sportive en Afrique dépendra donc de la capacité des pays à faire émerger un tissu de PME locales capables de répondre aux besoins des acteurs locaux (clubs, écoles, consommateurs, etc.) et à consolider les chaînes d’approvisionnement nationales.&nbsp;</p>
+
+  </div>
+</div>
+
+
+  <div class="para__txt-btn-edito afd sm:py-8 sm:px-10 p-6 print:px-0 print:py-0 my-4 md:my-10 bg-gray-50 print:bg-white print-para-space">
+            <div class="flex pt-2 print:hidden">
+          
+							
+		<a class="link-btn reset-link py-2 px-6 transition-colors text-center leading-[1.5rem] border text-white border-primary hover:text-primary bg-primary hover:border-primary text-lg block font-bold" href="https://www.afd.fr/fr/actualites/africa-forward-sport-jeunesse-entrepreneuriat">
+			Africa Forward : le sport comme levier pour la jeunesse et l'entrepreneuriat
+		</a>
+	
+    </div>
+  </div>
+
+
+
+<div class="my-8 print-para-space">
+  
+  <div class="editor-wysiwyg afd">
+    <p><strong>Penser le sport comme un investissement économique et social&nbsp;</strong></p>
+<p>«&nbsp;<em>Le potentiel du sport en Afrique est important mais, pour le concrétiser, il faut non seulement investir dans les infrastructures d’une manière durable, mais aussi dans les personnes, par le biais de formations</em>&nbsp;», insiste Thomas Melonio. Ces investissements devront tenir compte des inégalités existantes. Si la pratique sportive se fait largement dans des espaces non dédiés au sport (rue, terrain vague…), c’est souvent en raison de freins financiers et de l’absence d’installations de proximité. Les femmes, elles, rencontrent des obstacles spécifiques.&nbsp;«&nbsp;<em>Des actions ciblées sont nécessaires, comme investir dans des infrastructures adaptées aux besoins des femmes ou adapter l’offre en matière de lieu, de créneaux horaires…&nbsp;»</em>, précise Linda Zanfini.</p>
+<p>Ces enjeux justifient l’engagement du secteur public (État, collectivités, bailleurs…) par des politiques de promotion du sport et des investissements structurés. Des partenariats public-privé pourraient également permettre de développer des espaces accessibles et de proximité, dans une logique d’usage durable pour tous. C’est à ces conditions que le sport pourra devenir un véritable moteur de développement économique, tout en contribuant à répondre aux besoins des populations et, plus largement, aux défis de l’Afrique d’aujourd’hui.</p>
+
+  </div>
+</div>    
+                
+                  
+                  
+  
+    <div class="card-news afd card-news--color">
+  <div class="card-news__main my-content relative z-10">
+    <div class="card-news__title">
+                        
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--cyan-500 pl-[5px] pr-[5px]">
+			Aller plus loin
+						
+						
+		</span>
+	</h2>
+
+                  </div>
+            <div class="pb-10 sm:pb-12">
+      <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/joj-dakar-sport-et-eloquence-jeunes-france-senegal" class="fr-card__link">Sport et éloquence : les jeunesses de France et du Sénégal font équipe</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Sport et développement
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Sénégal
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 2 novembre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/eloquentia.jpg.webp?itok=dF3B-Ay_" alt="Eloquence" title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/ressources/senegal-quand-le-sport-transforme-des-vies" class="fr-card__link">Sénégal : quand le sport transforme des vies</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Sport et développement
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Afrique
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 15 octobre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img play-media">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/vignette_afrique_sport_fr.png.webp?itok=tQZiDJxo" alt title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/insertion-integrale-jeunes-emploi-economie-social-environnemental" class="fr-card__link">L’insertion intégrale des jeunes : lier les enjeux économiques, sociaux et environnementaux</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Afrique
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Emploi décent
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 11 août 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-08/insertion-integrale_0.jpg.webp?itok=sX8ifqki" alt title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+              </div>
+    </div>
+
+                  <div class="card-news__access">
+              
+	
+        </div>
+            </div>
+</div>]]></content:encoded>
+            <author>cataneseb@afd.fr</author>
+        </item>
+        <item>
             <title><![CDATA[GHARIB_David_20261103_signée]]></title>
             <link>https://www.afd.fr/fr/node/15428</link>
             <guid isPermaLink="false">37612ef7c8412c721ae662f11616538cca0c80945e064ca8be437f4dcee7b263</guid>
@@ -3172,35 +3850,22 @@ La contribution du sport au développement n’est ni automatique ni uniforme : 
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/ameliorer-la-gestion-des-risques-de-catastrophe-au-niveau-local" class="fr-card__link">Améliorer la gestion des risques de catastrophe au niveau local</a>
+                  <a href="https://www.afd.fr/fr/projets/acces-leau-courante-et-inclusion-urbaine-dans-les-bidonvilles-aux-philippines" class="fr-card__link">Eau potable pour l'inclusion urbaine aux Philippines</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
+    Eau et assainissement
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Villes durables
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -3215,14 +3880,14 @@ La contribution du sport au développement n’est ni automatique ni uniforme : 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2021</p>
+          <p class="fr-card__detail">2024</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 250 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 600 000 €</p>
               </div>
                   </div>
                       </div>
@@ -3230,7 +3895,7 @@ La contribution du sport au développement n’est ni automatique ni uniforme : 
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-09-02-19-30/projet-catastrophes-naturelles-aux-philippines.jpg.webp?itok=nO7jUGBG" width="715" height="402" alt="L’AFD accompagne les collectivités locales philippines dans le renforcement de leurs capacités de gestion des risques.">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2024-10-10-33-38/projet-ong-water-better-acces-eau-philippines.jpg.webp?itok=Ca9jOucR" width="715" height="402" alt="Ce projet vise à répondre à l’urbanisation rapide des Philippines et à favoriser l’inclusion des bidonvilles, en y améliorant durablement les conditions de vie.">
 
 
 
@@ -4106,35 +4771,22 @@ La contribution du sport au développement n’est ni automatique ni uniforme : 
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/ameliorer-la-gestion-des-risques-de-catastrophe-au-niveau-local" class="fr-card__link">Améliorer la gestion des risques de catastrophe au niveau local</a>
+                  <a href="https://www.afd.fr/fr/projets/acces-leau-courante-et-inclusion-urbaine-dans-les-bidonvilles-aux-philippines" class="fr-card__link">Eau potable pour l'inclusion urbaine aux Philippines</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
+    Eau et assainissement
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Villes durables
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -4149,14 +4801,14 @@ La contribution du sport au développement n’est ni automatique ni uniforme : 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2021</p>
+          <p class="fr-card__detail">2024</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 250 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 600 000 €</p>
               </div>
                   </div>
                       </div>
@@ -4164,7 +4816,7 @@ La contribution du sport au développement n’est ni automatique ni uniforme : 
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2023-09-02-19-30/projet-catastrophes-naturelles-aux-philippines.jpg.webp?itok=nO7jUGBG" width="715" height="402" alt="L’AFD accompagne les collectivités locales philippines dans le renforcement de leurs capacités de gestion des risques.">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2024-10-10-33-38/projet-ong-water-better-acces-eau-philippines.jpg.webp?itok=Ca9jOucR" width="715" height="402" alt="Ce projet vise à répondre à l’urbanisation rapide des Philippines et à favoriser l’inclusion des bidonvilles, en y améliorant durablement les conditions de vie.">
 
 
 
@@ -156463,116 +157115,6 @@ Accompagner nos voisins aujourd'hui, c'est tenir des positions stratégiques et 
 
 
     <time datetime="2026-09-03T12:00:00Z">jeu 03/09/2026 - 12:00</time>
-]]></content:encoded>
-            <author>constantv@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[BIANCO_Lorena_20260903_signée]]></title>
-            <link>https://www.afd.fr/fr/node/15177</link>
-            <guid isPermaLink="false">fb340bbd5741f8dc3e809752d6a1b638d4fcad87a0e85a46cf0484e599e3a276</guid>
-            <pubDate>Thu, 03 Sep 2026 07:44:48 GMT</pubDate>
-            <description><![CDATA[BIANCO_Lorena_20260903_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-03T09:44:48+02:00" title="Jeudi 3 septembre 2026 - 09:44">jeu 03/09/2026 - 09:44</time>
-    <time datetime="2026-09-03T12:00:00Z">3 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/bianco_lorena_20260903_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    bianco_lorena_20260903_signee.pdf <span class="fr-link__detail">87.09 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-03T12:00:00Z">jeu 03/09/2026 - 12:00</time>
-]]></description>
-            <content:encoded><![CDATA[BIANCO_Lorena_20260903_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-03T09:44:48+02:00" title="Jeudi 3 septembre 2026 - 09:44">jeu 03/09/2026 - 09:44</time>
-    <time datetime="2026-09-03T12:00:00Z">3 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/bianco_lorena_20260903_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    bianco_lorena_20260903_signee.pdf <span class="fr-link__detail">87.09 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-03T12:00:00Z">jeu 03/09/2026 - 12:00</time>
-]]></content:encoded>
-            <author>constantv@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[DE FREMONT_Karine_20260901_signée]]></title>
-            <link>https://www.afd.fr/fr/node/15176</link>
-            <guid isPermaLink="false">cee58270bf5fbb709656774c0514ecbf7fb9b896ec298497541ed641a34316e2</guid>
-            <pubDate>Tue, 01 Sep 2026 18:32:21 GMT</pubDate>
-            <description><![CDATA[DE FREMONT_Karine_20260901_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-01T20:32:21+02:00" title="Mardi 1 septembre 2026 - 20:32">mar 01/09/2026 - 20:32</time>
-    <time datetime="2026-09-01T12:00:00Z">1 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/de-fremont_karine_20260901_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    de-fremont_karine_20260901_signee.pdf <span class="fr-link__detail">129.67 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-01T12:00:00Z">mar 01/09/2026 - 12:00</time>
-]]></description>
-            <content:encoded><![CDATA[DE FREMONT_Karine_20260901_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-01T20:32:21+02:00" title="Mardi 1 septembre 2026 - 20:32">mar 01/09/2026 - 20:32</time>
-    <time datetime="2026-09-01T12:00:00Z">1 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/de-fremont_karine_20260901_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    de-fremont_karine_20260901_signee.pdf <span class="fr-link__detail">129.67 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-01T12:00:00Z">mar 01/09/2026 - 12:00</time>
 ]]></content:encoded>
             <author>constantv@afd.fr</author>
         </item>
