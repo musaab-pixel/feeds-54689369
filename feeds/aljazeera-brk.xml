@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 04 Nov 2026 14:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 14:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحرس الثوري الإيراني: العدو كثف خلال الليالي الماضية أنشطة استطلاع لتحديد…]]></title>
+            <link>https://t.me/aljazeeraBrk/243101</link>
+            <guid isPermaLink="false">acc893cfd76e035fee9867f2c9702adf60e6f329ac832e91970b915b54b1257e</guid>
+            <pubDate>Wed, 04 Nov 2026 14:21:02 GMT</pubDate>
+            <description><![CDATA[الحرس الثوري الإيراني: العدو كثف خلال الليالي الماضية أنشطة استطلاع لتحديد مواقع منظومات الدفاع الجوي بالبلاد]]></description>
+            <content:encoded><![CDATA[الحرس الثوري الإيراني: العدو كثف خلال الليالي الماضية أنشطة استطلاع لتحديد مواقع منظومات الدفاع الجوي بالبلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز إم كيو 1 في…]]></title>
             <link>https://t.me/aljazeeraBrk/243100</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 03 Nov 2026 00:36:01 GMT</pubDate>
             <description><![CDATA[الحكومة البريطانية: لندن تقود تدريبا عسكريا متعدد الجنسيات للتحضير لإرساء السلام في أوكرانيا]]></description>
             <content:encoded><![CDATA[الحكومة البريطانية: لندن تقود تدريبا عسكريا متعدد الجنسيات للتحضير لإرساء السلام في أوكرانيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام أمريكية: ولاية نيويورك تسجل أول حالة وفاة مرتبطة بالحصبة منذ أكثر…]]></title>
-            <link>https://t.me/aljazeeraBrk/242751</link>
-            <guid isPermaLink="false">28bb5af27f08d9bcb666f5cb378e64b2e233f95163ee9ba7c846638621598524</guid>
-            <pubDate>Tue, 03 Nov 2026 00:20:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام أمريكية: ولاية نيويورك تسجل أول حالة وفاة مرتبطة بالحصبة منذ أكثر من 30 عاما]]></description>
-            <content:encoded><![CDATA[وسائل إعلام أمريكية: ولاية نيويورك تسجل أول حالة وفاة مرتبطة بالحصبة منذ أكثر من 30 عاما]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
