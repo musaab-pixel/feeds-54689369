@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 04 Nov 2026 08:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 08:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الديمقراطيون يحققون أغلبية في مجلس الشيوخ بفوزهم بـ54 مقعدا مقابل 44 مقعدا…]]></title>
+            <link>https://t.me/aljazeeraBrk/243087</link>
+            <guid isPermaLink="false">0c591f6799ca958bc8e613ed9f9d85419037492806baa1eb0e6f24c13fa86de0</guid>
+            <pubDate>Wed, 04 Nov 2026 08:44:02 GMT</pubDate>
+            <description><![CDATA[الديمقراطيون يحققون أغلبية في مجلس الشيوخ بفوزهم بـ54 مقعدا مقابل 44 مقعدا للجمهوريين من أصل 100 مع استمرار عمليات فرز الأصوات]]></description>
+            <content:encoded><![CDATA[الديمقراطيون يحققون أغلبية في مجلس الشيوخ بفوزهم بـ54 مقعدا مقابل 44 مقعدا للجمهوريين من أصل 100 مع استمرار عمليات فرز الأصوات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الديمقراطيون يفوزون بـ26 مقعدا في انتخابات حكام الولايات مقابل 20 للجمهوريين مع…]]></title>
             <link>https://t.me/aljazeeraBrk/243086</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 02 Nov 2026 20:39:02 GMT</pubDate>
             <description><![CDATA[نائب الرئيس الأمريكي: لمست اهتمام الإيرانيين الكبير بسيادتهم وإعادة بناء اقتصادهم]]></description>
             <content:encoded><![CDATA[نائب الرئيس الأمريكي: لمست اهتمام الإيرانيين الكبير بسيادتهم وإعادة بناء اقتصادهم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نائب الرئيس الأمريكي: هدفنا تدمير البرنامج النووي الإيراني وضمان عدم إعادة بنائه]]></title>
-            <link>https://t.me/aljazeeraBrk/242736</link>
-            <guid isPermaLink="false">7e620337e47e79e3b342d5dc3be8249269b4d6fd5d8fa1dd66a1c4ee76d627f6</guid>
-            <pubDate>Mon, 02 Nov 2026 20:38:02 GMT</pubDate>
-            <description><![CDATA[نائب الرئيس الأمريكي: هدفنا تدمير البرنامج النووي الإيراني وضمان عدم إعادة بنائه]]></description>
-            <content:encoded><![CDATA[نائب الرئيس الأمريكي: هدفنا تدمير البرنامج النووي الإيراني وضمان عدم إعادة بنائه]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
