@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "5f033dfdfd74745f8ad1b7135972701f1441ee329980b2acf891fb726a6449fd",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصادر محلية: </b>وفاة طالب وإصابة آخرين جراء انفجار لغم داخل مدرسة في ناحية أبو راسين بريف الحسكة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142530",
+            "title": "🛑 #عاجل | مصادر محلية: وفاة طالب وإصابة آخرين جراء انفجار لغم داخل مدرسة في…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصادر محلية: </b>وفاة طالب وإصابة آخرين جراء انفجار لغم داخل مدرسة في ناحية أبو راسين بريف الحسكة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-04T14:18:20.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "9675816bca6e2389ca48281acb9e0186a0fb8de59e4224f01fa5a936c93346a4",
             "content_html": "<b>قوى الأمن الداخلي:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إلقاء القبض على ثلاثة متهمين بسرقة منزل في بلدة عدرا العمالية بريف دمشق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>استُردت المسروقات وسُلّمت إلى مالكها وشملت مبلغ 33 ألف دولار أمريكي ومصاغًا ذهبيًا متنوعًا وسيارة من نوع أودي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142529",
@@ -2279,18 +2290,6 @@
             "summary": "<b>الدفاع المدني: </b>وفاة 3 أشخاص وإصابة 19 آخرين جراء 16 حادث سير في عموم سوريا يوم أمس الأربعاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/hfpVps_acR1keReZbZJ5ng_2tfGHKT4x5VGC2XxVf7e2l9PwT1ANl1Trfc9tCe3r3q78p-XihNB2yrLuBZlCGbW3d-ixyb6X1nQ1ebPQcGRrRn3ZfTR3md0cUgQLDNzkSg60OFFKqU4Cz9Mfk7ik9Or280LDGVEnygEPRWzX1Ob3A2lpFGzxDMlNDE7MLNe9aTzJ_ntvK5jenERFPTnMuSPw1llhhWAO1J0u2B7cd_hLbMmD6tASLa41DaicXzOAl6iIiBmJxXX6loQckdJ3EKfTCupfpJkDb6cNzIqDEqmD6SxRnPXlmAGJ5WVYvrecUUAzUQy5o_xjpU8onTCMnA.jpg",
             "date_modified": "2026-10-29T08:47:28.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "7ca1d8b627de8ae16c42e1672825b1f6157b04adfa78f1ca765712e5fa997fb3",
-            "content_html": "<b>الإخبارية: </b>انطلاق قافلة تضم 229 عائلة من مخيمات النزوح بريف إدلب إلى مناطقها الأصلية في عدة محافظات ضمن رؤية سوريا بلا مخيمات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142303",
-            "title": "الإخبارية: انطلاق قافلة تضم 229 عائلة من مخيمات النزوح بريف إدلب إلى مناطقها…",
-            "summary": "<b>الإخبارية: </b>انطلاق قافلة تضم 229 عائلة من مخيمات النزوح بريف إدلب إلى مناطقها الأصلية في عدة محافظات ضمن رؤية سوريا بلا مخيمات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/OLlKDFOrYFMgVA_U0yq6W2HM40AS69lLcQTkGiq8Yr5K3ygpBysAlLbNSjFbfK5ItpsmzwT13FOWVTc4f06ljD0JsOXIy9PhZRI9Rd-QnFtQolrL-j9L2fx1ZGZgZxJiLQRCbir3kDLjFaDAnzK8aHZzo2kYFFs4PTdqIHl4Ym48g2QYOoLmj87GGXSVPIgUerv11lfAA3GxIe6W75FxKPH-opOnLPcf6pjYp2COip_xMFwbje-oUjt5MQG_MxIKCUt95MQ32AqkLWyznTcYrfcyN22lssxnszU-vS8CejgVkS2NrnoQMX3DLfr_nQScNkG-fyTPDohwRjHbLeDA6w.jpg",
-            "date_modified": "2026-10-29T07:50:47.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
