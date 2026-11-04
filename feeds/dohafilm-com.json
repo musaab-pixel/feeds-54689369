@@ -5,12 +5,33 @@
     "description": "RSS Factory feed \"dohafilm.com\" (type: website)",
     "items": [
         {
+            "id": "3ee44179716abcdae19eede646d5e13af269987faad1285030a5a08a2ef413fc",
+            "url": "https://www.dohafilm.com/en/watch-discover/dff/films",
+            "title": "Doha Film Festival 2026FilmsBuy Your Tickets Now",
+            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFFILMS-706x706.jpg",
+            "date_modified": "2026-11-04T19:09:13.772Z"
+        },
+        {
+            "id": "45a191c588d90c02230f8098811e6c8bb74dfb8f726e98d7fc84935d034e865d",
+            "url": "https://www.dohafilm.com/en/watch-discover/dff/music",
+            "title": "Doha Film Festival 2026MusicBuy Your Tickets Now",
+            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFMUSIC-706x706.jpg",
+            "date_modified": "2026-11-04T19:09:13.772Z"
+        },
+        {
+            "id": "1264000a3757870132fbb9feeb43b298a013807dfcaacd67963049ff70d508b7",
+            "url": "https://www.dohafilm.com/en/watch-discover/dff/talks",
+            "title": "Doha Film Festival 2026TalksBuy Your Tickets Now",
+            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFTALKS-706x706.jpg",
+            "date_modified": "2026-11-04T19:09:13.772Z"
+        },
+        {
             "id": "90016893deeaab45500159000ecdae38e1ebcacb5ee0e7e93929aa6016ae1cca",
             "content_html": "<h2 class=\"HeroNavigation_title__1sUkr\">Accreditation</h2>\n<h2 class=\"HeroNavigation_title__1sUkr\">Accreditation</h2>\n<p>Your access to screenings, talks, industry events and more.<br><br>For the first time, Doha Film Festival offers paid accreditation, a new way for film professionals, members of the creative community and dedicated film fans to experience the Festival from 19 to 27 November 2026.</p>\n<p>Places are limited in this first edition, and every application is personally reviewed, so that everyone who joins us is here to make the most of DFF 2026.</p>\n<h3>Key Dates</h3>\n<ul><li>Applications open: 19 October 2026</li><li>Early Bird pricing ends: 2 November 2026</li><li>Industry Accreditation applications close: 10 November 2026</li><li>Festival Accreditation applications close: 19 November 2026</li><li>Doha Film Festival: 19–27 November 2026</li></ul>\n<h3>Choose Your Accreditation</h3>\n<p><strong>Festival Accreditation</strong><br>For film lovers and members of the creative community. Access to screenings and talks, free or discounted tickets to select Music Programme events, and a DFF Bag (while stocks last).</p>\n<p><strong>Industry Accreditation</strong><br>For those seeking a fuller industry experience. Everything in Festival Accreditation, plus the Industry Days programme, access to our DFF Majlis with complimentary lunch and dinner, and a listing in the Industry Directory.</p>\n<h2 class=\"Grid2Cols_title__RmRbz Grid2Cols_size-xl-xxxl__WVJS5 align-start\" data-grid-title=\"true\">Key Information</h2>\n<p>What’s Included in Both</p>\n<p>Additional Benefits of Industry Accreditation</p>\n<p>How to Apply</p>\n<p>Eligibility</p>\n<p>International Guests: Travel and Accommodation</p>\n<p>Booking and Admission</p>",
             "url": "https://www.dohafilm.com/en/watch-discover/dff/accreditation",
             "title": "Doha Film Festival 2026AccreditationApply Now",
             "summary": "<h2 class=\"HeroNavigation_title__1sUkr\">Accreditation</h2>\n<h2 class=\"HeroNavigation_title__1sUkr\">Accreditation</h2>\n<p>Your access to screenings, talks, industry events and more.<br><br>For the first time, Doha Film Festival offers paid accreditation, a new way for film professionals, members of the creative community and dedicated film fans to experience the Festival from 19 to 27 November 2026.</p>\n<p>Places are limited in this first edition, and every application is personally reviewed, so that everyone who joins us is here to make the most of DFF 2026.</p>\n<h3>Key Dates</h3>\n<ul><li>Applications open: 19 October 2026</li><li>Early Bird pricing ends: 2 November 2026</li><li>Industry Accreditation applications close: 10 November 2026</li><li>Festival Accreditation applications close: 19 November 2026</li><li>Doha Film Festival: 19–27 November 2026</li></ul>\n<h3>Choose Your Accreditation</h3>\n<p><strong>Festival Accreditation</strong><br>For film lovers and members of the creative community. Access to screenings and talks, free or discounted tickets to select Music Programme events, and a DFF Bag (while stocks last).</p>\n<p><strong>Industry Accreditation</strong><br>For those seeking a fuller industry experience. Everything in Festival Accreditation, plus the Industry Days programme, access to our DFF Majlis with complimentary lunch and dinner, and a listing in the Industry Directory.</p>\n<h2 class=\"Grid2Cols_title__RmRbz Grid2Cols_size-xl-xxxl__WVJS5 align-start\" data-grid-title=\"true\">Key Information</h2>\n<p>What’s Included in Both</p>\n<p>Additional Benefits of Industry Accreditation</p>\n<p>How to Apply</p>\n<p>Eligibility</p>\n<p>International Guests: Travel and Accommodation</p>\n<p>Booking and Admission</p>",
-            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-10/DFFFilmMain-706x706.jpg",
+            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-11/Accreditation-706x706.jpg",
             "date_modified": "2026-10-19T11:33:36.533Z"
         },
         {
@@ -137,7 +158,7 @@
             "id": "bf40966462ab42fe4083f845b5522abed5e5806a3464c43a92b88aa5d54a794a",
             "url": "https://www.dohafilm.com/en/watch-discover/dff",
             "title": "Doha Film Festival 202619 - 27 NovemberBuy Your Tickets Now",
-            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFFilmMain-706x706.jpg",
+            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-11/BuyTickets-706x706.jpg",
             "date_modified": "2026-07-24T09:30:13.418Z"
         },
         {

@@ -4,10 +4,31 @@
         <title>dohafilm.com</title>
         <link>https://www.dohafilm.com/</link>
         <description>RSS Factory feed "dohafilm.com" (type: website)</description>
-        <lastBuildDate>Mon, 19 Oct 2026 11:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 19:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Doha Film Festival 2026FilmsBuy Your Tickets Now]]></title>
+            <link>https://www.dohafilm.com/en/watch-discover/dff/films</link>
+            <guid isPermaLink="false">3ee44179716abcdae19eede646d5e13af269987faad1285030a5a08a2ef413fc</guid>
+            <pubDate>Wed, 04 Nov 2026 19:09:13 GMT</pubDate>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFFILMS-706x706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doha Film Festival 2026MusicBuy Your Tickets Now]]></title>
+            <link>https://www.dohafilm.com/en/watch-discover/dff/music</link>
+            <guid isPermaLink="false">45a191c588d90c02230f8098811e6c8bb74dfb8f726e98d7fc84935d034e865d</guid>
+            <pubDate>Wed, 04 Nov 2026 19:09:13 GMT</pubDate>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFMUSIC-706x706.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doha Film Festival 2026TalksBuy Your Tickets Now]]></title>
+            <link>https://www.dohafilm.com/en/watch-discover/dff/talks</link>
+            <guid isPermaLink="false">1264000a3757870132fbb9feeb43b298a013807dfcaacd67963049ff70d508b7</guid>
+            <pubDate>Wed, 04 Nov 2026 19:09:13 GMT</pubDate>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFTALKS-706x706.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Doha Film Festival 2026AccreditationApply Now]]></title>
             <link>https://www.dohafilm.com/en/watch-discover/dff/accreditation</link>
@@ -45,7 +66,7 @@
 <p>Eligibility</p>
 <p>International Guests: Travel and Accommodation</p>
 <p>Booking and Admission</p>]]></content:encoded>
-            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-10/DFFFilmMain-706x706.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-11/Accreditation-706x706.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LearningShort Script LabApply Now]]></title>
@@ -310,7 +331,7 @@
             <link>https://www.dohafilm.com/en/watch-discover/dff</link>
             <guid isPermaLink="false">bf40966462ab42fe4083f845b5522abed5e5806a3464c43a92b88aa5d54a794a</guid>
             <pubDate>Fri, 24 Jul 2026 09:30:13 GMT</pubDate>
-            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-11/DFFFilmMain-706x706.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://media.dohafilm.com/sites/default/files/prod/2026-11/BuyTickets-706x706.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[15 Years of Doha Film InstituteAtlas of Cinematic AffinitiesBuy the Legacy Book]]></title>

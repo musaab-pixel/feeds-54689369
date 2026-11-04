@@ -4,10 +4,40 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 04 Nov 2026 10:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 19:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[#CAP Innovation 2026 : les 8 grands lauréats dévoilés]]></title>
+            <link>https://www.francophonie.org/cap-innovation-2026-les-8-grands-laureats-devoiles-8761</link>
+            <guid isPermaLink="false">2a1f7c6f296a9d8da6903b31f3fab9d61425fb4347e84aedb268b049a7ea18a1</guid>
+            <pubDate>Wed, 04 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : les 8 grands lauréats dévoilés</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : les 8 grands lauréats dévoilés</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[41 projets de films et séries soutenus par l'OIF]]></title>
+            <link>https://www.francophonie.org/41-projets-de-films-et-series-soutenus-par-loif-8760</link>
+            <guid isPermaLink="false">a2e7eb10cbbe4aea34840b43c18f0ac43752b8f413d8925cf0886642bcd141cc</guid>
+            <pubDate>Wed, 04 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">41 projets de films et séries soutenus par l'OIF</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">41 projets de films et séries soutenus par l'OIF</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Destins francophones - 30 femmes au cœur de l’action]]></title>
             <link>https://www.francophonie.org/destins-francophones-30-femmes-au-coeur-de-l-action-8759</link>
