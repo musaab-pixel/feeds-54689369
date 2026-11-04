@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Sun, 01 Nov 2026 07:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 08:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168730</link>
+            <guid isPermaLink="false">b58fea159839259e5d6c908f4712e2f57ab215ad4994d472f8fcadade480ac27</guid>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.]]></description>
+            <content:encoded><![CDATA[Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/10/1168716</link>
