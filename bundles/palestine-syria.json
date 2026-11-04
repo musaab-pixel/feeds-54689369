@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "510fdeb844dbfa7379bfcf90e6f559db5a88bed47572e77a17a91669d268cf87",
+            "content_html": "وسائل إعلام أمريكية: فوز المرشح الديمقراطي عبدول السيد بمقعد ولاية ميشيغن في مجلس الشيوخ الأمريكي",
+            "url": "https://t.me/aljazeeraBrk/243084",
+            "title": "وسائل إعلام أمريكية: فوز المرشح الديمقراطي عبدول السيد بمقعد ولاية ميشيغن في…",
+            "summary": "وسائل إعلام أمريكية: فوز المرشح الديمقراطي عبدول السيد بمقعد ولاية ميشيغن في مجلس الشيوخ الأمريكي",
+            "date_modified": "2026-11-04T08:09:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "a9e34a5b09a01b3a7ebce5f9bca6f50d221b2e1e029aae413bb6ccc289aea871",
             "content_html": "<p data-path-to-node=\"1\" style=\"text-align: justify;\">شنت قوات الاحتلال، مساء الثلاثاء وفجر اليوم الأربعاء الموافق الرابع من تشرين الثاني/نوفمبر، حملة اقتحامات ومداهمات عسكرية واسعة استهدفت عدداً من المخيمات الفلسطينية في الضفة الغربية والقدس المحتلة، تخللتها اعتقالات وتفجيرات وإطلاق كثيف للرصاص الحي وقنابل الغاز والصوت، إلى جانب تشديد الحصار المروري على الفلسطينيين.</p>\n<p data-path-to-node=\"2\" style=\"text-align: justify;\">ففي محافظة نابلس، اقتحمت قوات الاحتلال مخيم العين غرب المدينة، وشنت حملة مداهمات أسفرت عن اعتقال خمسة فلسطينيين من عائلة واحدة، وهم: معتصم أسدي، وكمال أسدي، وأيهم أسدي، ومحمود أسدي، وأحمد أسدي، في حين داهمت قوة عسكرية أخرى منزلاً فلسطينياً خلال اقتحامها مخيم عسكر الجديد شرق المحافظة.</p>\n<p data-path-to-node=\"2\" style=\"text-align: justify;\">وفي طولكرم، اقتحمت آليات الاحتلال مخيم نور شمس شرق المدينة، وفجرت عبوة ناسفة داخل المخيم، ما أدى إلى تصاعد كثيف لأعمدة الدخان في المكان.</p>\n<p data-path-to-node=\"3\" style=\"text-align: justify;\">وفي جنوب الضفة الغربية، نفذت قوات الاحتلال اقتحاماً واسعاً لمخيم العروب شمال الخليل، وسط إطلاق كثيف للرصاص الحي والقنابل الغازية والصوتية باتجاه منازل الأهالي. وبالتزامن مع ذلك، اندلعت مواجهات في محيط مدخل مخيم الدهيشة بمدينة بيت لحم، أطلقت خلالها قوات الاحتلال قنابل الصوت بكثافة، كما امتدت الاقتحامات العسكرية لتطال مخيم عقبة جبر جنوب غربي مدينة أريحا.</p>\n<p data-path-to-node=\"4\" style=\"text-align: justify;\">وفي القدس المحتلة، واصلت قوات الاحتلال فرض إجراءاتها المشددة في محيط مخيم شعفاط شمال المدينة، ما تسبب في أزمة مرورية خانقة وتكدس لمركبات الفلسطينيين على الحاجز العسكري المقام عند مدخل المخيم.</p>",
             "url": "https://refugeesps.net/post/37667/%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B4%D9%86-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84%D8%A9",
@@ -1639,15 +1650,6 @@
             "author": {
                 "name": "الجزيرة عاجل"
             }
-        },
-        {
-            "id": "b58fea159839259e5d6c908f4712e2f57ab215ad4994d472f8fcadade480ac27",
-            "content_html": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-            "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-            "summary": "Safa is 14. Her mother died earlier this year. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image560x340cropped.jpg",
-            "date_modified": "2026-11-03T12:00:00.000Z"
         }
     ]
 }
