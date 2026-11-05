@@ -4,7 +4,7 @@
         <title>afd.fr</title>
         <link>https://www.afd.fr/rss.xml</link>
         <description>RSS Factory feed "afd.fr" (type: native)</description>
-        <lastBuildDate>Wed, 04 Nov 2026 19:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 11:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -300,17 +300,17 @@
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-5594" accept-charset="UTF-8">
+            <form action method="get" id="country-search-2108" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-5594" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-5594" name="country" class="fr-select">
+            <label for="select-country-search-2108" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-2108" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-5594" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-5594');
+          <button type="submit" id="submit-country-search-2108" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-2108');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -628,17 +628,17 @@
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-5594" accept-charset="UTF-8">
+            <form action method="get" id="country-search-2108" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-5594" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-5594" name="country" class="fr-select">
+            <label for="select-country-search-2108" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-2108" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-5594" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-5594');
+          <button type="submit" id="submit-country-search-2108" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-2108');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -1453,104 +1453,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Santé et protection sociale
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation à la citoyenneté et à la solidarité internationale
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/femmes-dignite-et-travail-phase-iii" class="fr-card__link">Femmes, dignité et travail (phase III)</a>
               </h3>
       
@@ -1610,6 +1512,104 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-11/femmes-dignite-et-travail.jpg.webp?itok=EYgprM8p" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                                        
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Santé et protection sociale
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Éducation à la citoyenneté et à la solidarité internationale
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2023 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
 
 
 
@@ -2408,104 +2408,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Santé et protection sociale
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation à la citoyenneté et à la solidarité internationale
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/femmes-dignite-et-travail-phase-iii" class="fr-card__link">Femmes, dignité et travail (phase III)</a>
               </h3>
       
@@ -2577,6 +2479,104 @@
   </div>
 
                 </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                                        
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Santé et protection sociale
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Éducation à la citoyenneté et à la solidarité internationale
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2023 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
                           </div>
                   </div>
       </div>
@@ -2587,6 +2587,55 @@
     Iles de Panay et de Negros/région des Visayas Occidentales, Philippines et France     <a href="https://www.afd.fr/fr/taxonomy/term/3147" hreflang="fr">CAMELEON Association France</a>    <a href="https://www.afd.fr/fr/taxonomy/term/25" hreflang="fr">OSC</a>    700 000    €    1 800 000    <a href="https://www.afd.fr/fr/taxonomy/term/280" hreflang="fr">€</a>    3 ans    CAMELEON Association France  
   <div>Adresse</div>  <a href="https://www.afd.fr/fr/agence-philippines" hreflang="fr">Agence Philippines</a>]]></content:encoded>
             <author>evof@afd.fr</author>
+        </item>
+        <item>
+            <title><![CDATA[Indice de transparence de l'aide 2026 : l’AFD obtient la meilleure performance de son histoire selon une organisation indépendante]]></title>
+            <link>https://www.afd.fr/fr/commmuniques-de-presse/indice-de-transparence-de-laide-2026-lafd-obtient-la-meilleure-performance</link>
+            <guid isPermaLink="false">9844eea0f3655357dd26578b342b2ca9e759b53bae178f877e7f5e51a8559dc2</guid>
+            <pubDate>Wed, 04 Nov 2026 13:29:40 GMT</pubDate>
+            <description><![CDATA[Indice de transparence de l'aide 2026 : l’AFD obtient la meilleure performance de son histoire selon une organisation indépendante
+<span><span>dimariog@afd.fr</span></span>
+<time datetime="2026-11-04T14:29:40+01:00" title="Mercredi 4 novembre 2026 - 14:29">mer 04/11/2026 - 14:29</time>
+    Institutionnel    <time datetime="2026-11-05T12:00:00Z">5 novembre 2026</time>
+    1    <a href="https://www.afd.fr/fr/taxonomy/term/119" hreflang="fr">France</a><a href="https://www.afd.fr/fr/taxonomy/term/2973" hreflang="fr">Europe</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/afd.png_0.webp?itok=f8LD1fYv" width="792" height="450" alt>
+
+
+    L’Agence française de développement (AFD) confirme sa progression en matière de transparence. Avec un score de 66,9 points sur 100 dans l’Indice de transparence de l’aide (Aid Transparency Index) 2026, publié tous les deux ans par l’ONG Publish What You Fund (PWYF), elle gagne près de 10 points par rapport à 2024 et retrouve la catégorie « Good », réservée aux organisations obtenant au moins 60 points.    <p>Cette progression significative témoigne de l’engagement de l’AFD à renforcer la publication de données fiables, complètes et accessibles sur ses activités et ses financements. Un enjeu essentiel pour garantir la transparence de l’action publique, rendre compte de l’utilisation des fonds publics et permettre aux citoyens comme aux pays partenaires de suivre les résultats des projets financés.</p>
+<p>L’indice de transparence de l’aide évalue les pratiques de publication des principaux bailleurs de fonds à travers 35 indicateurs portant sur leurs activités, leurs politiques et leurs stratégies. Il accorde une place prépondérante aux données publiées dans le registre de l’Initiative Internationale pour la transparence de l’aide (International Aid Transparency Initiative – IATI), qui constitue une référence mondiale en matière de transparence de l’aide au développement.</p>
+<p><strong>Christophe LECOURTIER, directeur général du groupe Agence française de développement, déclare&nbsp;:</strong> <em>«&nbsp;La transparence est au cœur de notre responsabilité institutionnelle. Elle est indispensable pour rendre compte aux Français de l’utilisation des fonds publics confiés à l’AFD, mais aussi pour permettre aux pays partenaires, à leurs institutions et à leurs citoyens de mieux comprendre, suivre et évaluer nos interventions. Notre progression dans l’Indice de transparence de l’aide traduit un engagement concret : rendre nos données toujours plus complètes, précises et accessibles, pour que chaque euro investi ait un impact maximal et vérifiable. »</em></p>
+<p><strong>Une progression parmi les plus fortes de l'Indice</strong></p>
+<p>Alors que le score moyen des organisations évaluées recule légèrement, passant de 62,7 points en 2024 à 62,1 en 2026, l'AFD réalise la <strong>troisième plus forte progression du classement</strong>, derrière les agences espagnole et australienne.&nbsp;</p>
+<p>Dans un indice 2026 plus exigeant, marqué par l’introduction de nouveaux tests de qualité et un périmètre resserré à 34 organisations, cette performance est d’autant plus significative. Publish What You Fund salue cette dynamique et cite l’Agence en exemple, illustrant la manière dont un engagement institutionnel fort et des investissements ciblés peuvent accélérer les progrès en matière de transparence.</p>
+<p>L'AFD rejoint ainsi les 20 organisations classées « Good » ou « Very good ». Elle se positionne comme la <strong>deuxième agence bilatérale du G7</strong>, derrière le Royaume-Uni, et la <strong>troisième agence bilatérale de l'Union européenne</strong>, derrière la Belgique et la Suède. Elle devance également plusieurs grandes institutions internationales, dont le Fonds mondial (63,1 points), la Fondation Gates (62,6) et la&nbsp;Banque européenne pour la reconstruction et le développement (59,2).</p>
+<p><strong>Rendre compte de l'usage de l'argent public</strong></p>
+<p>Cette progression repose notamment sur un meilleur suivi de la publication des documents institutionnels et relatifs aux projets, à la publication du cinquième Plan d’orientation stratégique de l’Agence en 2025, ainsi que la mise à disposition de nouvelles stratégies pays. Elle résulte également d’un investissement renforcé dans le suivi de la notation.</p>
+<p>L’AFD entend poursuivre cette dynamique, en portant une attention particulière à la publication des résultats de ses projets et à la traçabilité des financements tout au long de la chaîne de financement. Ces efforts s’inscrivent dans le cadre de la politique de transparence du groupe AFD, révisée conjointement avec Proparco et Expertise France.</p>
+<p>Le classement complet des institutions évaluées est disponible sur <a href="https://www.publishwhatyoufund.org/the-index/2026/" target="_blank" rel=" noopener external" title="Publish What You Fund - nouvelle fenêtre"><em><strong>Publish What You Fund</strong></em></a>.</p>
+<p>&nbsp;</p>
+<p><strong>Contact presse :</strong> _AFDpresse@afd.fr</p>
+]]></description>
+            <content:encoded><![CDATA[Indice de transparence de l'aide 2026 : l’AFD obtient la meilleure performance de son histoire selon une organisation indépendante
+<span><span>dimariog@afd.fr</span></span>
+<time datetime="2026-11-04T14:29:40+01:00" title="Mercredi 4 novembre 2026 - 14:29">mer 04/11/2026 - 14:29</time>
+    Institutionnel    <time datetime="2026-11-05T12:00:00Z">5 novembre 2026</time>
+    1    <a href="https://www.afd.fr/fr/taxonomy/term/119" hreflang="fr">France</a><a href="https://www.afd.fr/fr/taxonomy/term/2973" hreflang="fr">Europe</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/afd.png_0.webp?itok=f8LD1fYv" width="792" height="450" alt>
+
+
+    L’Agence française de développement (AFD) confirme sa progression en matière de transparence. Avec un score de 66,9 points sur 100 dans l’Indice de transparence de l’aide (Aid Transparency Index) 2026, publié tous les deux ans par l’ONG Publish What You Fund (PWYF), elle gagne près de 10 points par rapport à 2024 et retrouve la catégorie « Good », réservée aux organisations obtenant au moins 60 points.    <p>Cette progression significative témoigne de l’engagement de l’AFD à renforcer la publication de données fiables, complètes et accessibles sur ses activités et ses financements. Un enjeu essentiel pour garantir la transparence de l’action publique, rendre compte de l’utilisation des fonds publics et permettre aux citoyens comme aux pays partenaires de suivre les résultats des projets financés.</p>
+<p>L’indice de transparence de l’aide évalue les pratiques de publication des principaux bailleurs de fonds à travers 35 indicateurs portant sur leurs activités, leurs politiques et leurs stratégies. Il accorde une place prépondérante aux données publiées dans le registre de l’Initiative Internationale pour la transparence de l’aide (International Aid Transparency Initiative – IATI), qui constitue une référence mondiale en matière de transparence de l’aide au développement.</p>
+<p><strong>Christophe LECOURTIER, directeur général du groupe Agence française de développement, déclare&nbsp;:</strong> <em>«&nbsp;La transparence est au cœur de notre responsabilité institutionnelle. Elle est indispensable pour rendre compte aux Français de l’utilisation des fonds publics confiés à l’AFD, mais aussi pour permettre aux pays partenaires, à leurs institutions et à leurs citoyens de mieux comprendre, suivre et évaluer nos interventions. Notre progression dans l’Indice de transparence de l’aide traduit un engagement concret : rendre nos données toujours plus complètes, précises et accessibles, pour que chaque euro investi ait un impact maximal et vérifiable. »</em></p>
+<p><strong>Une progression parmi les plus fortes de l'Indice</strong></p>
+<p>Alors que le score moyen des organisations évaluées recule légèrement, passant de 62,7 points en 2024 à 62,1 en 2026, l'AFD réalise la <strong>troisième plus forte progression du classement</strong>, derrière les agences espagnole et australienne.&nbsp;</p>
+<p>Dans un indice 2026 plus exigeant, marqué par l’introduction de nouveaux tests de qualité et un périmètre resserré à 34 organisations, cette performance est d’autant plus significative. Publish What You Fund salue cette dynamique et cite l’Agence en exemple, illustrant la manière dont un engagement institutionnel fort et des investissements ciblés peuvent accélérer les progrès en matière de transparence.</p>
+<p>L'AFD rejoint ainsi les 20 organisations classées « Good » ou « Very good ». Elle se positionne comme la <strong>deuxième agence bilatérale du G7</strong>, derrière le Royaume-Uni, et la <strong>troisième agence bilatérale de l'Union européenne</strong>, derrière la Belgique et la Suède. Elle devance également plusieurs grandes institutions internationales, dont le Fonds mondial (63,1 points), la Fondation Gates (62,6) et la&nbsp;Banque européenne pour la reconstruction et le développement (59,2).</p>
+<p><strong>Rendre compte de l'usage de l'argent public</strong></p>
+<p>Cette progression repose notamment sur un meilleur suivi de la publication des documents institutionnels et relatifs aux projets, à la publication du cinquième Plan d’orientation stratégique de l’Agence en 2025, ainsi que la mise à disposition de nouvelles stratégies pays. Elle résulte également d’un investissement renforcé dans le suivi de la notation.</p>
+<p>L’AFD entend poursuivre cette dynamique, en portant une attention particulière à la publication des résultats de ses projets et à la traçabilité des financements tout au long de la chaîne de financement. Ces efforts s’inscrivent dans le cadre de la politique de transparence du groupe AFD, révisée conjointement avec Proparco et Expertise France.</p>
+<p>Le classement complet des institutions évaluées est disponible sur <a href="https://www.publishwhatyoufund.org/the-index/2026/" target="_blank" rel=" noopener external" title="Publish What You Fund - nouvelle fenêtre"><em><strong>Publish What You Fund</strong></em></a>.</p>
+<p>&nbsp;</p>
+<p><strong>Contact presse :</strong> _AFDpresse@afd.fr</p>
+]]></content:encoded>
+            <author>dimariog@afd.fr</author>
         </item>
         <item>
             <title><![CDATA[Le sport, un moteur de développement en Afrique :  l'AFD, le CIO et la Banque mondiale publient un nouveau rapport]]></title>
@@ -4809,17 +4858,17 @@
     <a href="https://www.afd.fr/fr/taxonomy/term/738" hreflang="fr">Décryptage</a>    Activé    <a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a><a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1174" hreflang="fr">Recherche</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/ouvrage-sport-kick4life-sesla.jpg.webp?itok=xysZv9GH" width="792" height="450" alt>
 
 
-    Une véritable opportunité économique, mais encore largement sous-exploitée : tel est l’un des enseignements du rapport « Libérer le potentiel du sport en Afrique », publié par l’Agence française de développement (AFD), le Comité international olympique (CIO) et le groupe Banque mondiale à l’occasion des Jeux olympiques de la jeunesse 2026. Il s’appuie notamment sur les données d’une enquête Ipsos Sénégal menée dans neuf pays africains.    
+    Une véritable opportunité économique, mais encore largement sous-exploitée : tel est l’un des enseignements du rapport « Libérer le potentiel du sport en Afrique », publié par l’Agence française de développement (AFD), le Comité international olympique (CIO) et le groupe Banque mondiale à l’occasion des Jeux Olympiques de la Jeunesse 2026. Ce constat s’appuie notamment sur les données d’une enquête Ipsos Sénégal menée dans neuf pays africains.    
 
 <div class="my-8 print-para-space">
   
   <div class="editor-wysiwyg afd">
-    <p>Partout en Afrique, le sport occupe une place importante au quotidien&nbsp;: selon l’enquête réalisée par Ipsos Sénégal, un peu plus de deux personnes sur trois pratiquent au moins un sport en tant que loisir, les sports les plus pratiqués étant le football (31 %), l’athlétisme/course à pied (30 %) et la marche rapide (26 %).&nbsp;</p>
-<p>Cependant, la contribution du sport à l’économie est encore trop peu documentée. C'est pour combler cette lacune que l’AFD, le CIO et le groupe Banque mondiale ont uni leurs expertises autour du rapport <em>Libérer le potentiel du sport en Afrique</em>. Celui-ci met en lumière une dimension souvent méconnue : au-delà des grands événements et du sport professionnel, le sport possède en Afrique des atouts économiques réels mais encore largement inexploités.</p>
+    <p>Partout en Afrique, le sport occupe une place importante au quotidien&nbsp;: selon l’enquête réalisée par Ipsos Sénégal, un peu plus de deux personnes sur trois pratiquent au moins un sport en tant que loisir, les sports les plus pratiqués étant le football (31&nbsp;%), l’athlétisme/course à pied (30&nbsp;%) et la marche rapide (26&nbsp;%).&nbsp;</p>
+<p>Cependant, la contribution du sport à l’économie est encore trop peu documentée. C'est pour combler cette lacune que l’AFD, le CIO et le groupe Banque mondiale ont uni leurs expertises autour du rapport <em>Libérer le potentiel du sport en Afrique</em>. Celui-ci met en lumière une dimension souvent méconnue&nbsp;: au-delà des grands événements et du sport professionnel, le sport possède en Afrique des atouts économiques réels mais encore largement inexploités.</p>
 <p><strong>Un gisement d’emplois pour l’insertion des jeunes</strong></p>
-<p>«&nbsp;<em>Dans les enquêtes auprès des ménages, on observe que le sport représente déjà près de 3 % des emplois directs dans les villes africaines étudiées</em>&nbsp;», souligne Thomas Melonio, chef économiste de l’AFD et coauteur du rapport. Si ce chiffre doit être pris avec précaution dans la mesure où l’emploi sportif est largement informel, c’est néanmoins «&nbsp;<em>un vrai gisement d’emplois qu’on peut trouver dans le secteur sportif</em>&nbsp;», ajoute-t-il.</p>
-<p>Pour autant, la pratique du sport pour des motivations économiques – de revenu, de carrière – est encore marginale. «&nbsp;<em>Investir dans les formations techniques liées au sport est nécessaire pour développer les compétences locales et faire du sport un levier d’insertion professionnelle, notamment pour les jeunes</em>&nbsp;», explique Linda Zanfini, coautrice et coordinatrice du rapport pour l’AFD. Au-delà des formations à proprement parler, le rapport confirme qu’encourager la pratique du sport contribue aussi à développer le capital humain des jeunes, de par ses effets sur la santé, l’éducation ou encore les savoir-être.&nbsp;</p>
-<p>D’autres freins restent à lever&nbsp;: les ménages déclarant une activité informelle dans le secteur relèvent notamment la difficulté d’accès au financement (43 %), le manque d’information ou la lourdeur administrative (24,5 %) et le coût des formalités (20,4 %). Autant de pistes dont les pouvoirs publics peuvent se saisir pour développer l’entrepreneuriat dans le secteur du sport.&nbsp;</p>
+<p><em>«&nbsp;Dans les enquêtes auprès des ménages, on observe que le sport représente déjà près de 3&nbsp;% des emplois directs dans les villes africaines étudiées&nbsp;»</em>, souligne Thomas Melonio, chef économiste de l’AFD et coauteur du rapport. Si ce chiffre doit être pris avec précaution dans la mesure où l’emploi sportif est largement informel, c’est néanmoins <em>«&nbsp;un vrai gisement d’emplois qu’on peut trouver dans le secteur sportif&nbsp;»</em>, ajoute-t-il.</p>
+<p>Pour autant, la pratique du sport pour des motivations économiques –&nbsp;de revenu, de carrière&nbsp;– est encore marginale. <em>«</em>&nbsp;<em>Investir dans les formations techniques liées au sport est nécessaire pour développer les compétences locales et faire du sport un levier d’insertion professionnelle, notamment pour les jeunes</em>&nbsp;<em>»</em>, explique Linda Zanfini, coautrice et coordinatrice du rapport pour l’AFD. Au-delà des formations à proprement parler, le rapport confirme qu’encourager la pratique du sport contribue aussi à développer le capital humain des jeunes, de par ses effets sur la santé, l’éducation ou encore les savoir-être.</p>
+<p>D’autres freins restent à lever&nbsp;: les ménages déclarant une activité informelle dans le secteur relèvent notamment la difficulté d’accès au financement (43&nbsp;%), le manque d’information ou la lourdeur administrative (24,5&nbsp;%) et le coût des formalités (20,4&nbsp;%). Autant de pistes dont les pouvoirs publics peuvent se saisir pour développer l’entrepreneuriat dans le secteur du sport.</p>
 
   </div>
 </div>
@@ -4841,8 +4890,8 @@
 <div class="my-8 print-para-space">
   
   <div class="editor-wysiwyg afd">
-    <p><strong>La structuration nécessaire des filières économiques locales&nbsp;</strong></p>
-<p>Au-delà de l’emploi direct, l’économie du sport mobilise de nombreux métiers et entreprises sur tout le continent&nbsp;: fabrication et vente d'équipements, gestion d'infrastructures de proximité, organisation de compétitions, médias, tourisme et services associés… Le développement de la consommation de produits ou de services sportifs se heurte néanmoins à des contraintes d’offre comme de demande, à des degrés variables selon les pays. De plus, les entreprises locales existantes restent largement informelles, tandis qu’une grande partie de la valeur ajoutée produite par le secteur est captée par des entreprises en dehors du continent. Le développement de l’économie sportive en Afrique dépendra donc de la capacité des pays à faire émerger un tissu de PME locales capables de répondre aux besoins des acteurs locaux (clubs, écoles, consommateurs, etc.) et à consolider les chaînes d’approvisionnement nationales.&nbsp;</p>
+    <p><strong>La structuration nécessaire des filières économiques locales</strong></p>
+<p>Au-delà de l’emploi direct, l’économie du sport mobilise de nombreux métiers et entreprises sur tout le continent&nbsp;: fabrication et vente d'équipements, gestion d'infrastructures de proximité, organisation de compétitions, médias, tourisme et services associés… Le développement de la consommation de produits ou de services sportifs se heurte néanmoins à des contraintes d’offre comme de demande, à des degrés variables selon les pays. De plus, les entreprises locales existantes restent largement informelles, tandis qu’une grande partie de la valeur ajoutée produite par le secteur est captée par des entreprises en dehors du continent. Le développement de l’économie sportive en Afrique dépendra donc de la capacité des pays à faire émerger un tissu de PME locales capables de répondre aux besoins des acteurs locaux (clubs, écoles, consommateurs, etc.) et à consolider les chaînes d’approvisionnement nationales.</p>
 
   </div>
 </div>
@@ -4864,8 +4913,8 @@
 <div class="my-8 print-para-space">
   
   <div class="editor-wysiwyg afd">
-    <p><strong>Penser le sport comme un investissement économique et social&nbsp;</strong></p>
-<p>«&nbsp;<em>Le potentiel du sport en Afrique est important mais, pour le concrétiser, il faut non seulement investir dans les infrastructures d’une manière durable, mais aussi dans les personnes, par le biais de formations</em>&nbsp;», insiste Thomas Melonio. Ces investissements devront tenir compte des inégalités existantes. Si la pratique sportive se fait largement dans des espaces non dédiés au sport (rue, terrain vague…), c’est souvent en raison de freins financiers et de l’absence d’installations de proximité. Les femmes, elles, rencontrent des obstacles spécifiques.&nbsp;«&nbsp;<em>Des actions ciblées sont nécessaires, comme investir dans des infrastructures adaptées aux besoins des femmes ou adapter l’offre en matière de lieu, de créneaux horaires…&nbsp;»</em>, précise Linda Zanfini.</p>
+    <p><strong>Penser le sport comme un investissement économique et social</strong></p>
+<p><em>«</em>&nbsp;<em>Le potentiel du sport en Afrique est important mais pour le concrétiser il faut non seulement investir dans les infrastructures d’une manière durable, mais aussi dans les personnes, par le biais de formations</em>&nbsp;<em>»</em>, insiste Thomas Melonio. Ces investissements devront tenir compte des inégalités existantes. Si la pratique sportive se fait largement dans des espaces non dédiés (rue, terrain vague…), c’est souvent en raison de freins financiers et de l’absence d’installations de proximité. Les femmes, elles, rencontrent des obstacles spécifiques.&nbsp;<em>«&nbsp;Des actions ciblées sont nécessaires, comme investir dans des infrastructures adaptées aux besoins des femmes ou adapter l’offre en matière de lieu, de créneaux horaires…&nbsp;»</em>, précise Linda Zanfini.</p>
 <p>Ces enjeux justifient l’engagement du secteur public (État, collectivités, bailleurs…) par des politiques de promotion du sport et des investissements structurés. Des partenariats public-privé pourraient également permettre de développer des espaces accessibles et de proximité, dans une logique d’usage durable pour tous. C’est à ces conditions que le sport pourra devenir un véritable moteur de développement économique, tout en contribuant à répondre aux besoins des populations et, plus largement, aux défis de l’Afrique d’aujourd’hui.</p>
 
   </div>
@@ -5104,17 +5153,17 @@
     <a href="https://www.afd.fr/fr/taxonomy/term/738" hreflang="fr">Décryptage</a>    Activé    <a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/686" hreflang="fr">Sport et développement</a><a href="https://www.afd.fr/fr/taxonomy/term/109" hreflang="fr">Afrique</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1174" hreflang="fr">Recherche</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/ouvrage-sport-kick4life-sesla.jpg.webp?itok=xysZv9GH" width="792" height="450" alt>
 
 
-    Une véritable opportunité économique, mais encore largement sous-exploitée : tel est l’un des enseignements du rapport « Libérer le potentiel du sport en Afrique », publié par l’Agence française de développement (AFD), le Comité international olympique (CIO) et le groupe Banque mondiale à l’occasion des Jeux olympiques de la jeunesse 2026. Il s’appuie notamment sur les données d’une enquête Ipsos Sénégal menée dans neuf pays africains.    
+    Une véritable opportunité économique, mais encore largement sous-exploitée : tel est l’un des enseignements du rapport « Libérer le potentiel du sport en Afrique », publié par l’Agence française de développement (AFD), le Comité international olympique (CIO) et le groupe Banque mondiale à l’occasion des Jeux Olympiques de la Jeunesse 2026. Ce constat s’appuie notamment sur les données d’une enquête Ipsos Sénégal menée dans neuf pays africains.    
 
 <div class="my-8 print-para-space">
   
   <div class="editor-wysiwyg afd">
-    <p>Partout en Afrique, le sport occupe une place importante au quotidien&nbsp;: selon l’enquête réalisée par Ipsos Sénégal, un peu plus de deux personnes sur trois pratiquent au moins un sport en tant que loisir, les sports les plus pratiqués étant le football (31 %), l’athlétisme/course à pied (30 %) et la marche rapide (26 %).&nbsp;</p>
-<p>Cependant, la contribution du sport à l’économie est encore trop peu documentée. C'est pour combler cette lacune que l’AFD, le CIO et le groupe Banque mondiale ont uni leurs expertises autour du rapport <em>Libérer le potentiel du sport en Afrique</em>. Celui-ci met en lumière une dimension souvent méconnue : au-delà des grands événements et du sport professionnel, le sport possède en Afrique des atouts économiques réels mais encore largement inexploités.</p>
+    <p>Partout en Afrique, le sport occupe une place importante au quotidien&nbsp;: selon l’enquête réalisée par Ipsos Sénégal, un peu plus de deux personnes sur trois pratiquent au moins un sport en tant que loisir, les sports les plus pratiqués étant le football (31&nbsp;%), l’athlétisme/course à pied (30&nbsp;%) et la marche rapide (26&nbsp;%).&nbsp;</p>
+<p>Cependant, la contribution du sport à l’économie est encore trop peu documentée. C'est pour combler cette lacune que l’AFD, le CIO et le groupe Banque mondiale ont uni leurs expertises autour du rapport <em>Libérer le potentiel du sport en Afrique</em>. Celui-ci met en lumière une dimension souvent méconnue&nbsp;: au-delà des grands événements et du sport professionnel, le sport possède en Afrique des atouts économiques réels mais encore largement inexploités.</p>
 <p><strong>Un gisement d’emplois pour l’insertion des jeunes</strong></p>
-<p>«&nbsp;<em>Dans les enquêtes auprès des ménages, on observe que le sport représente déjà près de 3 % des emplois directs dans les villes africaines étudiées</em>&nbsp;», souligne Thomas Melonio, chef économiste de l’AFD et coauteur du rapport. Si ce chiffre doit être pris avec précaution dans la mesure où l’emploi sportif est largement informel, c’est néanmoins «&nbsp;<em>un vrai gisement d’emplois qu’on peut trouver dans le secteur sportif</em>&nbsp;», ajoute-t-il.</p>
-<p>Pour autant, la pratique du sport pour des motivations économiques – de revenu, de carrière – est encore marginale. «&nbsp;<em>Investir dans les formations techniques liées au sport est nécessaire pour développer les compétences locales et faire du sport un levier d’insertion professionnelle, notamment pour les jeunes</em>&nbsp;», explique Linda Zanfini, coautrice et coordinatrice du rapport pour l’AFD. Au-delà des formations à proprement parler, le rapport confirme qu’encourager la pratique du sport contribue aussi à développer le capital humain des jeunes, de par ses effets sur la santé, l’éducation ou encore les savoir-être.&nbsp;</p>
-<p>D’autres freins restent à lever&nbsp;: les ménages déclarant une activité informelle dans le secteur relèvent notamment la difficulté d’accès au financement (43 %), le manque d’information ou la lourdeur administrative (24,5 %) et le coût des formalités (20,4 %). Autant de pistes dont les pouvoirs publics peuvent se saisir pour développer l’entrepreneuriat dans le secteur du sport.&nbsp;</p>
+<p><em>«&nbsp;Dans les enquêtes auprès des ménages, on observe que le sport représente déjà près de 3&nbsp;% des emplois directs dans les villes africaines étudiées&nbsp;»</em>, souligne Thomas Melonio, chef économiste de l’AFD et coauteur du rapport. Si ce chiffre doit être pris avec précaution dans la mesure où l’emploi sportif est largement informel, c’est néanmoins <em>«&nbsp;un vrai gisement d’emplois qu’on peut trouver dans le secteur sportif&nbsp;»</em>, ajoute-t-il.</p>
+<p>Pour autant, la pratique du sport pour des motivations économiques –&nbsp;de revenu, de carrière&nbsp;– est encore marginale. <em>«</em>&nbsp;<em>Investir dans les formations techniques liées au sport est nécessaire pour développer les compétences locales et faire du sport un levier d’insertion professionnelle, notamment pour les jeunes</em>&nbsp;<em>»</em>, explique Linda Zanfini, coautrice et coordinatrice du rapport pour l’AFD. Au-delà des formations à proprement parler, le rapport confirme qu’encourager la pratique du sport contribue aussi à développer le capital humain des jeunes, de par ses effets sur la santé, l’éducation ou encore les savoir-être.</p>
+<p>D’autres freins restent à lever&nbsp;: les ménages déclarant une activité informelle dans le secteur relèvent notamment la difficulté d’accès au financement (43&nbsp;%), le manque d’information ou la lourdeur administrative (24,5&nbsp;%) et le coût des formalités (20,4&nbsp;%). Autant de pistes dont les pouvoirs publics peuvent se saisir pour développer l’entrepreneuriat dans le secteur du sport.</p>
 
   </div>
 </div>
@@ -5136,8 +5185,8 @@
 <div class="my-8 print-para-space">
   
   <div class="editor-wysiwyg afd">
-    <p><strong>La structuration nécessaire des filières économiques locales&nbsp;</strong></p>
-<p>Au-delà de l’emploi direct, l’économie du sport mobilise de nombreux métiers et entreprises sur tout le continent&nbsp;: fabrication et vente d'équipements, gestion d'infrastructures de proximité, organisation de compétitions, médias, tourisme et services associés… Le développement de la consommation de produits ou de services sportifs se heurte néanmoins à des contraintes d’offre comme de demande, à des degrés variables selon les pays. De plus, les entreprises locales existantes restent largement informelles, tandis qu’une grande partie de la valeur ajoutée produite par le secteur est captée par des entreprises en dehors du continent. Le développement de l’économie sportive en Afrique dépendra donc de la capacité des pays à faire émerger un tissu de PME locales capables de répondre aux besoins des acteurs locaux (clubs, écoles, consommateurs, etc.) et à consolider les chaînes d’approvisionnement nationales.&nbsp;</p>
+    <p><strong>La structuration nécessaire des filières économiques locales</strong></p>
+<p>Au-delà de l’emploi direct, l’économie du sport mobilise de nombreux métiers et entreprises sur tout le continent&nbsp;: fabrication et vente d'équipements, gestion d'infrastructures de proximité, organisation de compétitions, médias, tourisme et services associés… Le développement de la consommation de produits ou de services sportifs se heurte néanmoins à des contraintes d’offre comme de demande, à des degrés variables selon les pays. De plus, les entreprises locales existantes restent largement informelles, tandis qu’une grande partie de la valeur ajoutée produite par le secteur est captée par des entreprises en dehors du continent. Le développement de l’économie sportive en Afrique dépendra donc de la capacité des pays à faire émerger un tissu de PME locales capables de répondre aux besoins des acteurs locaux (clubs, écoles, consommateurs, etc.) et à consolider les chaînes d’approvisionnement nationales.</p>
 
   </div>
 </div>
@@ -5159,8 +5208,8 @@
 <div class="my-8 print-para-space">
   
   <div class="editor-wysiwyg afd">
-    <p><strong>Penser le sport comme un investissement économique et social&nbsp;</strong></p>
-<p>«&nbsp;<em>Le potentiel du sport en Afrique est important mais, pour le concrétiser, il faut non seulement investir dans les infrastructures d’une manière durable, mais aussi dans les personnes, par le biais de formations</em>&nbsp;», insiste Thomas Melonio. Ces investissements devront tenir compte des inégalités existantes. Si la pratique sportive se fait largement dans des espaces non dédiés au sport (rue, terrain vague…), c’est souvent en raison de freins financiers et de l’absence d’installations de proximité. Les femmes, elles, rencontrent des obstacles spécifiques.&nbsp;«&nbsp;<em>Des actions ciblées sont nécessaires, comme investir dans des infrastructures adaptées aux besoins des femmes ou adapter l’offre en matière de lieu, de créneaux horaires…&nbsp;»</em>, précise Linda Zanfini.</p>
+    <p><strong>Penser le sport comme un investissement économique et social</strong></p>
+<p><em>«</em>&nbsp;<em>Le potentiel du sport en Afrique est important mais pour le concrétiser il faut non seulement investir dans les infrastructures d’une manière durable, mais aussi dans les personnes, par le biais de formations</em>&nbsp;<em>»</em>, insiste Thomas Melonio. Ces investissements devront tenir compte des inégalités existantes. Si la pratique sportive se fait largement dans des espaces non dédiés (rue, terrain vague…), c’est souvent en raison de freins financiers et de l’absence d’installations de proximité. Les femmes, elles, rencontrent des obstacles spécifiques.&nbsp;<em>«&nbsp;Des actions ciblées sont nécessaires, comme investir dans des infrastructures adaptées aux besoins des femmes ou adapter l’offre en matière de lieu, de créneaux horaires…&nbsp;»</em>, précise Linda Zanfini.</p>
 <p>Ces enjeux justifient l’engagement du secteur public (État, collectivités, bailleurs…) par des politiques de promotion du sport et des investissements structurés. Des partenariats public-privé pourraient également permettre de développer des espaces accessibles et de proximité, dans une logique d’usage durable pour tous. C’est à ces conditions que le sport pourra devenir un véritable moteur de développement économique, tout en contribuant à répondre aux besoins des populations et, plus largement, aux défis de l’Afrique d’aujourd’hui.</p>
 
   </div>
@@ -154518,1931 +154567,6 @@ Accompagner nos voisins aujourd'hui, c'est tenir des positions stratégiques et 
           </div>
   </div>
     <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    80 000 000    €    République du Kosovo  
-  <div>Adresse</div>  <a href="https://www.afd.fr/fr/taxonomy/term/3136" hreflang="fr">Agence régionale des Balkans Occidentaux</a>]]></content:encoded>
-            <author>evof@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement dans le centre historique de la ville de Durrës]]></title>
-            <link>https://www.afd.fr/fr/projets/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau</link>
-            <guid isPermaLink="false">0ce83c94735f71b8fe9cc27d53291de7e0d7bfa17c6acf335839092fe4e4dd7c</guid>
-            <pubDate>Thu, 03 Sep 2026 14:03:54 GMT</pubDate>
-            <description><![CDATA[Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement dans le centre historique de la ville de Durrës
-<span><span>evof@afd.fr</span></span>
-<time datetime="2026-09-03T16:03:54+02:00" title="Jeudi 3 septembre 2026 - 16:03">jeu 03/09/2026 - 16:03</time>
-    Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement    <time datetime="2026-09-03T12:00:00Z">3 septembre 2026</time>
-    Désactivé    CAL1037    <a href="https://www.afd.fr/fr/taxonomy/term/27" hreflang="fr">En cours</a>    <a href="https://www.afd.fr/fr/taxonomy/term/3121" hreflang="fr">Albanie</a><a href="https://www.afd.fr/fr/taxonomy/term/953" hreflang="fr">Balkans occidentaux</a>    <a href="https://www.afd.fr/fr/taxonomy/term/42" hreflang="fr">Eau et assainissement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/42" hreflang="fr">Eau et assainissement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/953" hreflang="fr">Balkans occidentaux</a><a href="https://www.afd.fr/fr/taxonomy/term/3121" hreflang="fr">Albanie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2949" hreflang="fr">Eau propre et assainissement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2932" hreflang="fr">Prêt</a><a href="https://www.afd.fr/fr/taxonomy/term/2939" hreflang="fr">Subvention</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-09/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau.jpg.webp?itok=MbAgUAxs" width="792" height="450" alt>
-
-
-    Durrës, principal port maritime et station balnéaire d'Albanie, est aussi la deuxième ville du pays. Son réseau d'assainissement est vétuste et souffre de nombreuses défaillances, entraînant une forte pollution des eaux de surface. En mobilisant une subvention du WBIF (Cadre d'investissement pour les Balkans occidentaux), l'AFD développera un réseau d'assainissement séparatif modernisé ainsi qu'une station d'épuration performante.    
-  
-<div class="my-8 print-para-space">
-      <div class="editor-title">
-      <h2 id="anchor-rich-text81061" class="print-title">Contexte</h2>
-    </div>
-  
-  <div class="editor-wysiwyg afd">
-    <p>Les infrastructures d'assainissement albanaises ne répondent pas aux normes européennes : seulement 54 % des eaux usées sont collectées et 14 % traitées à l'échelle nationale. Durrës, pôle économique et destination touristique majeure, souffre d'un système d'assainissement dysfonctionnel. Moins d'un quart des eaux usées de la ville parvient à la station d'épuration, elle-même peu efficace ; le reste est rejeté sans traitement dans des canaux d'évacuation qui se déversent dans la mer Adriatique. Alors que l'Albanie avance vers son adhésion à l'UE, la mise en conformité avec les directives européennes, notamment sur le traitement des eaux urbaines, est devenue une priorité nationale. Le projet de Durrës s'inscrit dans la stratégie nationale de l'eau 2020-2030, qui vise à renforcer le raccordement aux services d'assainissement afin de préserver l'environnement et la santé de la population.</p>
-
-  </div>
-</div>
-  
-<div class="my-8 print-para-space">
-      <div class="editor-title">
-      <h2 id="anchor-rich-text81062" class="print-title">Description</h2>
-    </div>
-  
-  <div class="editor-wysiwyg afd">
-    <p>Le projet vise à moderniser les infrastructures d'assainissement de Durrës afin de répondre aux normes européennes en matière de traitement des eaux usées urbaines. Il comprend la construction d'un réseau séparatif de 97 km, la rénovation de 3 stations de pompage existantes et la construction d'une station supplémentaire, ainsi que la modernisation/extension de la station d'épuration afin de porter sa capacité à 350 000 EH (équivalents-habitants). Il prévoit également la valorisation des boues et l'aménagement écologique du site (forêt urbaine, zone humide), ainsi qu'un appui technique à l'opérateur, la DWSRU.</p>
-<p>&nbsp;</p>
-<p>Le financement du projet se déroule comme suit : 33 M€ sous forme de prêt AFD, 86M€ sous forme de subvention du WBIF incluant la rémunération.</p>
-
-  </div>
-</div>
-  
-<div class="my-8 print-para-space">
-      <div class="editor-title">
-      <h2 id="anchor-rich-text81063" class="print-title">Impacts</h2>
-    </div>
-  
-  <div class="editor-wysiwyg afd">
-    <p>Le projet améliorera la gestion des eaux usées à Durrës en faisant passer le taux de collecte et de traitement de 20 % à 85 %, au bénéfice de 343 000 habitants. Il contribuera à réduire la pollution côtière et les émissions de gaz à effet de serre (–27 000 tCO2/an) grâce à la modernisation de la station d'épuration et à la valorisation du biogaz. La restauration de 14 hectares d'espaces naturels renforcera la biodiversité locale. Enfin, le projet contribuera à la mise en conformité du pays avec la nouvelle norme européenne relative au traitement des eaux urbaines résiduaires (directive européenne 2024/3019).</p>
-
-  </div>
-</div>    <time datetime="2026-07-01T12:00:00Z">1 juillet 2026</time>
-    <time datetime="2031-12-01T12:00:00Z">1 décembre 2031</time>
-      <div class="card-project afd card-project--color">
-    <div class="card-project__main my-content relative z-10">
-      <div class="card-project__title">
-                              
-
-
-			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
-			Dans la même région
-						
-						
-		</span>
-	</h2>
-
-                        </div>
-
-     <div class="card-project__content pb-10 sm:pb-12">
-                        <div class="card-project__list">
-                                                                                    
-            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-                                            <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/preparation-des-jeux-mediterraneens-2030" class="fr-card__link">Préparation des Jeux Méditerranéens 2030</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Sport et développement
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2038</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 61 200 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/preparation-des-jeux-mediterraneens-2030.jpg.webp?itok=0MjBg7Ka" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc" class="fr-card__link">Partenariat technique entre la Société du Canal de Provence et Iber Lepenc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2027</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc.jpg.webp?itok=vWFCGvhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes" class="fr-card__link">Faire converger les secteurs de l’énergie et du climat avec les normes européennes</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 80 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes.jpg.webp?itok=-JYbh5IO" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                          </div>
-                  </div>
-      </div>
-
-
-          </div>
-  </div>
-  <div class="card-project afd">
-    <div class="card-project__main my-content relative z-10">
-      <div class="card-project__title">
-                              
-
-
-			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--secondary pl-[5px] pr-[5px]">
-			Sur le même thème
-						
-						
-		</span>
-	</h2>
-
-                        </div>
-
-     <div class="card-project__content pb-10 sm:pb-12">
-                        <div class="card-project__list">
-                                                                                    
-            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-                                            <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc" class="fr-card__link">Partenariat technique entre la Société du Canal de Provence et Iber Lepenc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2027</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc.jpg.webp?itok=vWFCGvhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau" class="fr-card__link">Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Albanie</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 118 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau.jpg.webp?itok=B54TDVhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/projet-assainissement-de-la-commune-de-yopougon-pacy" class="fr-card__link">Projet d’Assainissement de la Commune de Yopougon (PACY)</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2022 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                          </div>
-                  </div>
-      </div>
-
-
-          </div>
-  </div>
-  <div class="card-project afd card-project--color">
-    <div class="card-project__main my-content relative z-10">
-      <div class="card-project__title">
-                              
-
-
-			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
-			Même type de bénéficiaire
-						
-						
-		</span>
-	</h2>
-
-                        </div>
-
-     <div class="card-project__content pb-10 sm:pb-12">
-                        <div class="card-project__list">
-                                                                                    
-            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-                                            <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes" class="fr-card__link">Faire converger les secteurs de l’énergie et du climat avec les normes européennes</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 80 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes.jpg.webp?itok=-JYbh5IO" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/preparation-des-jeux-mediterraneens-2030" class="fr-card__link">Préparation des Jeux Méditerranéens 2030</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Sport et développement
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2038</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 61 200 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/preparation-des-jeux-mediterraneens-2030.jpg.webp?itok=0MjBg7Ka" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau" class="fr-card__link">Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Albanie</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 118 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau.jpg.webp?itok=B54TDVhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                          </div>
-                  </div>
-      </div>
-
-
-          </div>
-  </div>
-    Durrës, Albanie    <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    118 500 000    €    65 mois    République d'Albanie  
-  <div>Adresse</div>  <a href="https://www.afd.fr/fr/taxonomy/term/3136" hreflang="fr">Agence régionale des Balkans Occidentaux</a>]]></description>
-            <content:encoded><![CDATA[Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement dans le centre historique de la ville de Durrës
-<span><span>evof@afd.fr</span></span>
-<time datetime="2026-09-03T16:03:54+02:00" title="Jeudi 3 septembre 2026 - 16:03">jeu 03/09/2026 - 16:03</time>
-    Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement    <time datetime="2026-09-03T12:00:00Z">3 septembre 2026</time>
-    Désactivé    CAL1037    <a href="https://www.afd.fr/fr/taxonomy/term/27" hreflang="fr">En cours</a>    <a href="https://www.afd.fr/fr/taxonomy/term/3121" hreflang="fr">Albanie</a><a href="https://www.afd.fr/fr/taxonomy/term/953" hreflang="fr">Balkans occidentaux</a>    <a href="https://www.afd.fr/fr/taxonomy/term/42" hreflang="fr">Eau et assainissement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/42" hreflang="fr">Eau et assainissement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/953" hreflang="fr">Balkans occidentaux</a><a href="https://www.afd.fr/fr/taxonomy/term/3121" hreflang="fr">Albanie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2949" hreflang="fr">Eau propre et assainissement</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2932" hreflang="fr">Prêt</a><a href="https://www.afd.fr/fr/taxonomy/term/2939" hreflang="fr">Subvention</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-09/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau.jpg.webp?itok=MbAgUAxs" width="792" height="450" alt>
-
-
-    Durrës, principal port maritime et station balnéaire d'Albanie, est aussi la deuxième ville du pays. Son réseau d'assainissement est vétuste et souffre de nombreuses défaillances, entraînant une forte pollution des eaux de surface. En mobilisant une subvention du WBIF (Cadre d'investissement pour les Balkans occidentaux), l'AFD développera un réseau d'assainissement séparatif modernisé ainsi qu'une station d'épuration performante.    
-  
-<div class="my-8 print-para-space">
-      <div class="editor-title">
-      <h2 id="anchor-rich-text81061" class="print-title">Contexte</h2>
-    </div>
-  
-  <div class="editor-wysiwyg afd">
-    <p>Les infrastructures d'assainissement albanaises ne répondent pas aux normes européennes : seulement 54 % des eaux usées sont collectées et 14 % traitées à l'échelle nationale. Durrës, pôle économique et destination touristique majeure, souffre d'un système d'assainissement dysfonctionnel. Moins d'un quart des eaux usées de la ville parvient à la station d'épuration, elle-même peu efficace ; le reste est rejeté sans traitement dans des canaux d'évacuation qui se déversent dans la mer Adriatique. Alors que l'Albanie avance vers son adhésion à l'UE, la mise en conformité avec les directives européennes, notamment sur le traitement des eaux urbaines, est devenue une priorité nationale. Le projet de Durrës s'inscrit dans la stratégie nationale de l'eau 2020-2030, qui vise à renforcer le raccordement aux services d'assainissement afin de préserver l'environnement et la santé de la population.</p>
-
-  </div>
-</div>
-  
-<div class="my-8 print-para-space">
-      <div class="editor-title">
-      <h2 id="anchor-rich-text81062" class="print-title">Description</h2>
-    </div>
-  
-  <div class="editor-wysiwyg afd">
-    <p>Le projet vise à moderniser les infrastructures d'assainissement de Durrës afin de répondre aux normes européennes en matière de traitement des eaux usées urbaines. Il comprend la construction d'un réseau séparatif de 97 km, la rénovation de 3 stations de pompage existantes et la construction d'une station supplémentaire, ainsi que la modernisation/extension de la station d'épuration afin de porter sa capacité à 350 000 EH (équivalents-habitants). Il prévoit également la valorisation des boues et l'aménagement écologique du site (forêt urbaine, zone humide), ainsi qu'un appui technique à l'opérateur, la DWSRU.</p>
-<p>&nbsp;</p>
-<p>Le financement du projet se déroule comme suit : 33 M€ sous forme de prêt AFD, 86M€ sous forme de subvention du WBIF incluant la rémunération.</p>
-
-  </div>
-</div>
-  
-<div class="my-8 print-para-space">
-      <div class="editor-title">
-      <h2 id="anchor-rich-text81063" class="print-title">Impacts</h2>
-    </div>
-  
-  <div class="editor-wysiwyg afd">
-    <p>Le projet améliorera la gestion des eaux usées à Durrës en faisant passer le taux de collecte et de traitement de 20 % à 85 %, au bénéfice de 343 000 habitants. Il contribuera à réduire la pollution côtière et les émissions de gaz à effet de serre (–27 000 tCO2/an) grâce à la modernisation de la station d'épuration et à la valorisation du biogaz. La restauration de 14 hectares d'espaces naturels renforcera la biodiversité locale. Enfin, le projet contribuera à la mise en conformité du pays avec la nouvelle norme européenne relative au traitement des eaux urbaines résiduaires (directive européenne 2024/3019).</p>
-
-  </div>
-</div>    <time datetime="2026-07-01T12:00:00Z">1 juillet 2026</time>
-    <time datetime="2031-12-01T12:00:00Z">1 décembre 2031</time>
-      <div class="card-project afd card-project--color">
-    <div class="card-project__main my-content relative z-10">
-      <div class="card-project__title">
-                              
-
-
-			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
-			Dans la même région
-						
-						
-		</span>
-	</h2>
-
-                        </div>
-
-     <div class="card-project__content pb-10 sm:pb-12">
-                        <div class="card-project__list">
-                                                                                    
-            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-                                            <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/preparation-des-jeux-mediterraneens-2030" class="fr-card__link">Préparation des Jeux Méditerranéens 2030</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Sport et développement
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2038</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 61 200 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/preparation-des-jeux-mediterraneens-2030.jpg.webp?itok=0MjBg7Ka" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc" class="fr-card__link">Partenariat technique entre la Société du Canal de Provence et Iber Lepenc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2027</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc.jpg.webp?itok=vWFCGvhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes" class="fr-card__link">Faire converger les secteurs de l’énergie et du climat avec les normes européennes</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 80 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes.jpg.webp?itok=-JYbh5IO" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                          </div>
-                  </div>
-      </div>
-
-
-          </div>
-  </div>
-  <div class="card-project afd">
-    <div class="card-project__main my-content relative z-10">
-      <div class="card-project__title">
-                              
-
-
-			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--secondary pl-[5px] pr-[5px]">
-			Sur le même thème
-						
-						
-		</span>
-	</h2>
-
-                        </div>
-
-     <div class="card-project__content pb-10 sm:pb-12">
-                        <div class="card-project__list">
-                                                                                    
-            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-                                            <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc" class="fr-card__link">Partenariat technique entre la Société du Canal de Provence et Iber Lepenc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2027</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/partenariat-technique-entre-la-societe-du-canal-de-provence-et-iber-lepenc.jpg.webp?itok=vWFCGvhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau" class="fr-card__link">Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Albanie</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 118 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau.jpg.webp?itok=B54TDVhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/projet-assainissement-de-la-commune-de-yopougon-pacy" class="fr-card__link">Projet d’Assainissement de la Commune de Yopougon (PACY)</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2022 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                          </div>
-                  </div>
-      </div>
-
-
-          </div>
-  </div>
-  <div class="card-project afd card-project--color">
-    <div class="card-project__main my-content relative z-10">
-      <div class="card-project__title">
-                              
-
-
-			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
-			Même type de bénéficiaire
-						
-						
-		</span>
-	</h2>
-
-                        </div>
-
-     <div class="card-project__content pb-10 sm:pb-12">
-                        <div class="card-project__list">
-                                                                                    
-            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
-                                            <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes" class="fr-card__link">Faire converger les secteurs de l’énergie et du climat avec les normes européennes</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 80 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/faire-converger-les-secteurs-de-lenergie-et-du-climat-avec-les-normes-europeennes.jpg.webp?itok=-JYbh5IO" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/preparation-des-jeux-mediterraneens-2030" class="fr-card__link">Préparation des Jeux Méditerranéens 2030</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Sport et développement
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2038</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Kosovo</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 61 200 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/preparation-des-jeux-mediterraneens-2030.jpg.webp?itok=0MjBg7Ka" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                                        
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau" class="fr-card__link">Modernisation de la station d'épuration des eaux usées et réhabilitation du réseau d'assainissement</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Balkans occidentaux, Albanie</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 118 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/modernisation-de-la-station-depuration-des-eaux-usees-et-rehabilitation-du-reseau.jpg.webp?itok=B54TDVhK" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                          </div>
-                  </div>
-      </div>
-
-
-          </div>
-  </div>
-    Durrës, Albanie    <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    118 500 000    €    65 mois    République d'Albanie  
   <div>Adresse</div>  <a href="https://www.afd.fr/fr/taxonomy/term/3136" hreflang="fr">Agence régionale des Balkans Occidentaux</a>]]></content:encoded>
             <author>evof@afd.fr</author>
         </item>
