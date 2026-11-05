@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"culturalfoundation.eu\" (type: native)",
     "items": [
         {
+            "id": "561be58ed49fedf8c23b72956fa8eb4e254d7357b29dbd411f3dc59708737609",
+            "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/culture-helps-solidarity-wroclaw-meeting/\">Culture Helps Solidarity: Mutual Support, Personal Stories and Inspiration</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "url": "https://culturalfoundation.eu/stories/culture-helps-solidarity-wroclaw-meeting/",
+            "title": "Culture Helps Solidarity: Mutual Support, Personal Stories and Inspiration",
+            "summary": "<p>The post <a href=\"https://culturalfoundation.eu/stories/culture-helps-solidarity-wroclaw-meeting/\">Culture Helps Solidarity: Mutual Support, Personal Stories and Inspiration</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
+            "date_modified": "2026-11-04T21:46:20.000Z",
+            "author": {
+                "name": "friso"
+            }
+        },
+        {
             "id": "ed52019ded0979d5bbdbd25c6613b632ed8de6c126656a0f64cc8e91cb688787",
             "content_html": "<p>The post <a href=\"https://culturalfoundation.eu/stories/omc-report-public-libraries/\">From Report to Roadmap: EU Libraries Report Officially Launched in Dublin</a> appeared first on <a href=\"https://culturalfoundation.eu\">European Cultural Foundation</a>.</p>\n",
             "url": "https://culturalfoundation.eu/stories/omc-report-public-libraries/",
