@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 20:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 20:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: مضيق هرمز مفتوح ولم نفقد أي جندي خلال الأشهر السبعة الماضية]]></title>
+            <link>https://t.me/aljazeeraBrk/243373</link>
+            <guid isPermaLink="false">b778f9d02ad0b21f4de6f29e2ccb2f7f645fcdb317cec7fe4bdadc712557664d</guid>
+            <pubDate>Fri, 06 Nov 2026 20:07:03 GMT</pubDate>
+            <description><![CDATA[ترمب: مضيق هرمز مفتوح ولم نفقد أي جندي خلال الأشهر السبعة الماضية]]></description>
+            <content:encoded><![CDATA[ترمب: مضيق هرمز مفتوح ولم نفقد أي جندي خلال الأشهر السبعة الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: نحقق نتائج جيدة للغاية مع إيران ونجري محادثات معها]]></title>
             <link>https://t.me/aljazeeraBrk/243372</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 04 Nov 2026 02:16:02 GMT</pubDate>
             <description><![CDATA[الديمقراطيون يحصدون 71 مقعدا في مجلس النواب مقابل 32 للجمهوريين من أصل 435 مقعدا]]></description>
             <content:encoded><![CDATA[الديمقراطيون يحصدون 71 مقعدا في مجلس النواب مقابل 32 للجمهوريين من أصل 435 مقعدا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الديمقراطيون يحصدون 71 مقعدا في مجلس النواب مقابل 31 للجمهوريين من أصل 435 مقعدا]]></title>
-            <link>https://t.me/aljazeeraBrk/242988</link>
-            <guid isPermaLink="false">e037ad02a6ae9bb1f1a4b368f423d002e31e48b1e772bf93a15a3acd8a07a92b</guid>
-            <pubDate>Wed, 04 Nov 2026 02:14:02 GMT</pubDate>
-            <description><![CDATA[الديمقراطيون يحصدون 71 مقعدا في مجلس النواب مقابل 31 للجمهوريين من أصل 435 مقعدا]]></description>
-            <content:encoded><![CDATA[الديمقراطيون يحصدون 71 مقعدا في مجلس النواب مقابل 31 للجمهوريين من أصل 435 مقعدا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
