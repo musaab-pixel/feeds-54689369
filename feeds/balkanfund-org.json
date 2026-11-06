@@ -5,6 +5,27 @@
     "description": "RSS Factory feed \"balkanfund.org\" (type: website)",
     "items": [
         {
+            "id": "2f221eccb6b8a1838957ee8b8fccc9af42e12a0d6c11a3c15c61567e2384b21b",
+            "url": "https://balkanfund.org/news/apply-western-balkans-fellowship-programme-at-the-austrian-parliament-2026-2027",
+            "title": "Western BalkansSeptember 29, 2026Apply for: Western Balkans Fellowship Programme at the Austrian Parliament 2026/2027",
+            "image": "https://balkanfund.org/uploads/news/20261001_img_1790841437354_aa95dadd7e68f7c5.jpg",
+            "date_modified": "2026-11-06T18:31:21.215Z"
+        },
+        {
+            "id": "c6344af4db59c581760527b3544e86a53036383e1f7d66beadd75a00f7be7f0c",
+            "url": "https://balkanfund.org/news/violence-in-history-conference-held-in-athens",
+            "title": "JointHistoryProjectSeptember 26, 2026\"Violence in History\" conference held in Athens",
+            "image": "https://balkanfund.org/uploads/news/20260926_img_1790425674889_92f552226f0322d0.jpg",
+            "date_modified": "2026-11-06T18:31:21.215Z"
+        },
+        {
+            "id": "54193a0be302a3bf21f7703af71ebf3128f989a2f43c192e10d20f14c936f237",
+            "url": "https://balkanfund.org/news/biepag-launches-a-survey-to-hear-from-its-community",
+            "title": "BiEPAGSeptember 6, 2026BiEPAG Launches a Survey to Hear From Its Community",
+            "image": "https://balkanfund.org/uploads/news/20260906_img_1788699639024_2c2ffcc168468cc6.jpg",
+            "date_modified": "2026-11-06T18:31:21.215Z"
+        },
+        {
             "id": "1d5ed0ce64f01d16b9e56c7af4f695b9480e99377e233dca2910e3846176a338",
             "url": "https://balkanfund.org/programme/biepag",
             "title": "BiEPAGBalkans in Europe Policy Advisory GroupInfluencing EU integration and democratization through policy research and advocacy.Explore BiEPAG",
