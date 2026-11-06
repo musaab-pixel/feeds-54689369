@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 22:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 22:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مكتب الإعلام الدولي بقطر: التقارير بأن رئيس الوزراء وزير الخارجية صرح بفشل…]]></title>
+            <link>https://t.me/aljazeeraBrk/243379</link>
+            <guid isPermaLink="false">e70b4e5339b69352031e358227155b5897b04875c938c074f15706d5d791282e</guid>
+            <pubDate>Fri, 06 Nov 2026 22:20:03 GMT</pubDate>
+            <description><![CDATA[مكتب الإعلام الدولي بقطر: التقارير بأن رئيس الوزراء وزير الخارجية صرح بفشل واشنطن وطهران بالتوصل لاتفاق كاذبة]]></description>
+            <content:encoded><![CDATA[مكتب الإعلام الدولي بقطر: التقارير بأن رئيس الوزراء وزير الخارجية صرح بفشل واشنطن وطهران بالتوصل لاتفاق كاذبة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مكتب الإعلام الدولي في قطر: رئيس مجلس الوزراء وزير الخارجية أكد أن واشنطن…]]></title>
             <link>https://t.me/aljazeeraBrk/243378</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 04 Nov 2026 03:06:02 GMT</pubDate>
             <description><![CDATA[الديمقراطيون يحصدون 45 مقعدا في مجلس الشيوخ مقابل 36للجمهوريين من أصل 100]]></description>
             <content:encoded><![CDATA[الديمقراطيون يحصدون 45 مقعدا في مجلس الشيوخ مقابل 36للجمهوريين من أصل 100]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الديمقراطيون يحصدون 102مقعدا في مجلس النواب مقابل 58 للجمهوريين من أصل 435 مقعدا]]></title>
-            <link>https://t.me/aljazeeraBrk/242994</link>
-            <guid isPermaLink="false">4982fc9c775fea5bef53a6a43697ef2fd98e732e381e855ba9c2d47591950747</guid>
-            <pubDate>Wed, 04 Nov 2026 03:06:01 GMT</pubDate>
-            <description><![CDATA[الديمقراطيون يحصدون 102مقعدا في مجلس النواب مقابل 58 للجمهوريين من أصل 435 مقعدا]]></description>
-            <content:encoded><![CDATA[الديمقراطيون يحصدون 102مقعدا في مجلس النواب مقابل 58 للجمهوريين من أصل 435 مقعدا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
