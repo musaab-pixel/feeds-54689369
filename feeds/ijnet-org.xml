@@ -4,7 +4,7 @@
         <title>ijnet.org</title>
         <link>https://ijnet.org/en/opportunities</link>
         <description>RSS Factory feed "ijnet.org" (type: website)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 09:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 09:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -73,6 +73,12 @@
             <link>https://ijnet.org/en/opportunity/award-media-outlets-working-accessible-technology</link>
             <guid isPermaLink="false">f131f3f45fe31cdcdd7816d3dd2e02d9c0e1582b153b9eab082af7dff11e04ee</guid>
             <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Innovation and excellence in the news media industry]]></title>
+            <link>https://ijnet.org/en/opportunity/innovation-and-excellence-news-media-industry</link>
+            <guid isPermaLink="false">06adb7ce2171c0dd72fa3a89bd7f46336207b11b9ae466eb75bbb4381d5f9e87</guid>
+            <pubDate>Fri, 06 Nov 2026 09:22:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Development of a pluralistic media environment]]></title>
