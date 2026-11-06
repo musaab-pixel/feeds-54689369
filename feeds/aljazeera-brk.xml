@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 09:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 10:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطرد مزارعين من أراضيهم في قرية أبو فلاح بقضاء…]]></title>
+            <link>https://t.me/aljazeeraBrk/243330</link>
+            <guid isPermaLink="false">9c2f86e50ea421c02abbf33d9a644c2fda5ae5f8964dee26ad8958b317acbf67</guid>
+            <pubDate>Fri, 06 Nov 2026 10:06:02 GMT</pubDate>
+            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطرد مزارعين من أراضيهم في قرية أبو فلاح بقضاء رام الله]]></description>
+            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تطرد مزارعين من أراضيهم في قرية أبو فلاح بقضاء رام الله]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الشرطة الدنماركية: تعزيزات أمنية في مطار كوبنهاغن على خلفية تهديدات استهدفت…]]></title>
             <link>https://t.me/aljazeeraBrk/243329</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 03 Nov 2026 15:54:02 GMT</pubDate>
             <description><![CDATA[رئيس مجلس القيادة الرئاسي اليمني: الحرس الثوري يشارك في إدارة حرب المليشيات الحوثية لتعويض خسائر أذرعه]]></description>
             <content:encoded><![CDATA[رئيس مجلس القيادة الرئاسي اليمني: الحرس الثوري يشارك في إدارة حرب المليشيات الحوثية لتعويض خسائر أذرعه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[النائب الديمقراطي رو خانا: الديمقراطيون سيعملون على إنهاء تمويل الحرب في إيران…]]></title>
-            <link>https://t.me/aljazeeraBrk/242871</link>
-            <guid isPermaLink="false">c907f5aae00eec7b3528dd691845a88ae1c2825997cbe9d67f865fe648798718</guid>
-            <pubDate>Tue, 03 Nov 2026 15:45:02 GMT</pubDate>
-            <description><![CDATA[النائب الديمقراطي رو خانا: الديمقراطيون سيعملون على إنهاء تمويل الحرب في إيران في حال الحصول على الأغلبية]]></description>
-            <content:encoded><![CDATA[النائب الديمقراطي رو خانا: الديمقراطيون سيعملون على إنهاء تمويل الحرب في إيران في حال الحصول على الأغلبية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
