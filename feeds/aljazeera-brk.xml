@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 12:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 13:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب…]]></title>
+            <link>https://t.me/aljazeeraBrk/243351</link>
+            <guid isPermaLink="false">8604c3284600e9f5ba166835f7284b870d844672835fb343b389666837bc4606</guid>
+            <pubDate>Fri, 06 Nov 2026 13:14:02 GMT</pubDate>
+            <description><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب تهديدات بوجود قنابل]]></description>
+            <content:encoded><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب تهديدات بوجود قنابل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الدفاع المجري: مقاتلات رافقت رحلتين من براغ إلى قبرص وبوخارست بسبب بلاغات…]]></title>
             <link>https://t.me/aljazeeraBrk/243350</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 03 Nov 2026 20:39:02 GMT</pubDate>
             <description><![CDATA[مرشح مجلس الشيوخ الجمهوري بتكساس: الديمقراطيون حصلوا على عدد كبير من الأصوات المبكرة]]></description>
             <content:encoded><![CDATA[مرشح مجلس الشيوخ الجمهوري بتكساس: الديمقراطيون حصلوا على عدد كبير من الأصوات المبكرة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ريل كلير بوليتكس: الديمقراطيون يتقدمون في انتخابات مجلس الشيوخ بـ 52.1% مقابل…]]></title>
-            <link>https://t.me/aljazeeraBrk/242907</link>
-            <guid isPermaLink="false">bfe94e7527aa24278ac83e2d48733274597bb9af640daecea9cfbc5272b072ac</guid>
-            <pubDate>Tue, 03 Nov 2026 20:38:01 GMT</pubDate>
-            <description><![CDATA[ريل كلير بوليتكس: الديمقراطيون يتقدمون في انتخابات مجلس الشيوخ بـ 52.1% مقابل 43.3% للجمهوريين]]></description>
-            <content:encoded><![CDATA[ريل كلير بوليتكس: الديمقراطيون يتقدمون في انتخابات مجلس الشيوخ بـ 52.1% مقابل 43.3% للجمهوريين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
