@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "be53310c268bff7c1d3d575953b6e1a3c349caf38b07a7a1699d1e4a13702494",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال تقصف بقذيفة مدفعية الأراضي الزراعية القريبة من قرية عين زيوان بريف القنيطرة الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142584",
+            "title": "🛑 #عاجل | الإخبارية: قوات الاحتلال تقصف بقذيفة مدفعية الأراضي الزراعية القريبة…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال تقصف بقذيفة مدفعية الأراضي الزراعية القريبة من قرية عين زيوان بريف القنيطرة الجنوبي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-06T11:18:12.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "9db33d2378a83a93fef747f27b09c3dcd7be9080ada944b22d2977099dd1ab3d",
+            "content_html": "مطار براغ: تهديدات بوجود متفجرات في 8 رحلات على الأقل من براغ وإليها",
+            "url": "https://t.me/aljazeeraBrk/243340",
+            "title": "مطار براغ: تهديدات بوجود متفجرات في 8 رحلات على الأقل من براغ وإليها",
+            "summary": "مطار براغ: تهديدات بوجود متفجرات في 8 رحلات على الأقل من براغ وإليها",
+            "date_modified": "2026-11-06T11:14:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "5124f7004773ae11910aff431c72852201e8e5e730b83eae2f13e5f58f039290",
             "content_html": "مكتب رئيس الوزراء الفرنسي: 4 تهديدات جديدة بوجود قنابل تستهدف طائرات تحلق فوق أراضينا",
             "url": "https://t.me/aljazeeraBrk/243339",
@@ -1588,28 +1610,6 @@
             "title": "ترمب: لم أكن لأفعل أي شيء يختلف عما فعلته في إيران وقد دمرنا قدراتهم العسكرية",
             "summary": "ترمب: لم أكن لأفعل أي شيء يختلف عما فعلته في إيران وقد دمرنا قدراتهم العسكرية",
             "date_modified": "2026-11-04T18:24:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "378e8804f046164eb77aec1e9864cd5775077fa4285cf6b27289aab588ef002c",
-            "content_html": "ترمب: سواء أثرت الحرب على نتائج الانتخابات النصفية أم لا فلا يمكن السماح لإيران بامتلاك سلاح نووي",
-            "url": "https://t.me/aljazeeraBrk/243127",
-            "title": "ترمب: سواء أثرت الحرب على نتائج الانتخابات النصفية أم لا فلا يمكن السماح لإيران…",
-            "summary": "ترمب: سواء أثرت الحرب على نتائج الانتخابات النصفية أم لا فلا يمكن السماح لإيران بامتلاك سلاح نووي",
-            "date_modified": "2026-11-04T18:23:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "716549565798bdac3eb406bd711057d4213d59f6b35c0efbefcdae60ced8ad87",
-            "content_html": "ترمب: كنت أعرف أن الحرب ستؤثر على الانتخابات",
-            "url": "https://t.me/aljazeeraBrk/243126",
-            "title": "ترمب: كنت أعرف أن الحرب ستؤثر على الانتخابات",
-            "summary": "ترمب: كنت أعرف أن الحرب ستؤثر على الانتخابات",
-            "date_modified": "2026-11-04T18:22:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
