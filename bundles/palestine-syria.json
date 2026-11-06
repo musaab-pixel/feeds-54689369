@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "d97d0a6374b2fb5ac7236d24865a44f3ab711ab5c241d27fe41c1a13565252b0",
+            "content_html": "التليفزيون الإيراني: اعتراض وتدمير طائرة مسيرة من طراز إم كيو-9 تابعة للجيش الأمريكي",
+            "url": "https://t.me/aljazeeraBrk/243383",
+            "title": "التليفزيون الإيراني: اعتراض وتدمير طائرة مسيرة من طراز إم كيو-9 تابعة للجيش…",
+            "summary": "التليفزيون الإيراني: اعتراض وتدمير طائرة مسيرة من طراز إم كيو-9 تابعة للجيش الأمريكي",
+            "date_modified": "2026-11-06T23:06:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "af19066c977ad020b4d781f2479a4ff0517cf71183dd5924212caad18c470481",
+            "content_html": "التلفزيون الإيراني: اعتراض وتدمير طائرة مسيرة من طراز إم كيو-9 تابعة للجيش الأمريكي",
+            "url": "https://t.me/aljazeeraBrk/243384",
+            "title": "التلفزيون الإيراني: اعتراض وتدمير طائرة مسيرة من طراز إم كيو-9 تابعة للجيش…",
+            "summary": "التلفزيون الإيراني: اعتراض وتدمير طائرة مسيرة من طراز إم كيو-9 تابعة للجيش الأمريكي",
+            "date_modified": "2026-11-06T23:06:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "9843c19b3b955b50b71a2efd456771239328e40c9442483b285eeb8b2fbf5754",
             "content_html": "مسؤول في القيادة المركزية الأمريكية للجزيرة: سمعنا التقارير بشأن جزيرة قشم والأمور هادئة نسبيا ولا تعليق عليها",
             "url": "https://t.me/aljazeeraBrk/243382",
@@ -344,7 +366,7 @@
             "url": "https://t.me/HalabTodayTV/142595",
             "title": "حطين يفوز على قامشلي سبورت بنتيجة 3-2 ضمن الجولة الخامسة من الدوري الممتاز لكرة…",
             "summary": "حطين يفوز على قامشلي سبورت بنتيجة 3-2 ضمن الجولة الخامسة من الدوري الممتاز لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/kCDqV209RRlvhJlxyE3uAZ1Z5kYkVEALDLkGvS8HDMgdC8un1lz1VQZ6c90BK-zN_qFsFUaOLxRk6OrhJP9cklz3yGpXpAmRhjyjDlW-ikZy7F5dJf2b1yA-Aah_IOCPwnqKyw6uoJwqvxGldspO9vh6OG71DtA5KXfkTv_YocC6A-2vLDoPL60mYMR2aSG5sY4NZLPYfwIHT3P454whXSro-dqmJCa65HQ9zW1OpX21v5oxSbOGT4ofK49cADgS7HkByzbkdTvlgu2Cpnjh95L33mg9XLk1oysFxsDBA0PJg_oTbKcfNly5Os_oKvCdD_WWbIm2Kt-LtZn9nM-L0Q.jpg",
+            "image": "https://cdn4.telesco.pe/file/Bqw_AMB7N4yKr0IMzSWxldNOWTDXPkvF3rojnb52zVoZtIdd225YKlWZsvR-RoPLAe1OWlDuNOElbULX4adtJXce_XavdbvYcpDmjN3WGNwr4j15nkcOKII6z4QvDP6Zloz580mYPVi93ZwjuY32p58d7uaiBV8uWowb0S8vkB1DOxH7pu45G7b0H7epc-e7rika91ydgEd7gWQ42BQeEvvCb9u7ucivZarOWXZjLWAm9qwLyRGYqzo6SVjcKp-vFEWuzc9hQfZlduOXsDeMSYNfkeUR3iFWF7FjvIR-TCqqy9UhK-VbDoUMOYx6GTK6mUvDyHfChxebBLZ05xde9w.jpg",
             "date_modified": "2026-11-06T15:27:56.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
@@ -1613,30 +1635,6 @@
             "title": "عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفتي مدفعية أطراف بلدة بيت…",
             "summary": "عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تقصف بقذيفتي مدفعية أطراف بلدة بيت جن في ريف دمشق الغربي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-11-05T16:15:06.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "e3c5600f7e4600e1c66c65ff1005a5523071581b8a8d79ea7abf79eb1d261813",
-            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">الجيش السوري ينشر لقطات من تدريبات قوات التدخل السريع البحرية على مهارات التسلل  ودقة الوصول إلى الأهداف<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "url": "https://t.me/HalabTodayTV/142561",
-            "title": "الجيش السوري ينشر لقطات من تدريبات قوات التدخل السريع البحرية على مهارات التسلل…",
-            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">الجيش السوري ينشر لقطات من تدريبات قوات التدخل السريع البحرية على مهارات التسلل  ودقة الوصول إلى الأهداف<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "image": "https://cdn4.telesco.pe/file/XRFLi0I7g2DJ1lBQa8Laxjlnn0t-Im9IoVKhwgpECAsUyx7Nh7YIgCxkbPb0EiSpim_nUZo9YUKPl8AOf6H0Byk2dwG5JYeGq06oYLexWze3otfI2JoJXzc_Gf5u_Kl5_qiIxAKZBRmhvMCayHi_oYCJd5sDzeee6C9ArioZL7ZEiGoSppi1QOyG2CBBbaETF_6UGZvoOFQCETGMIOEgTIC4aUIaHoSZ7QowdLnpjmiEyA1zAn1JYFLSkS9vMWe_54I2OQEdw37t7hmbq6GKVRYjudHRkxAXMouceoxeg5vzc7LOfVCO5Mhzbhp8dRZ8eAa2xDFi_5pFYJ8aSwAhUg.jpg",
-            "date_modified": "2026-11-05T15:50:23.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "8d8f98aa498d3a5ea664b6faf49619e03137b1a9ee6a1d0d30ff11eb1c9dfaed",
-            "content_html": "وزارة الطاقة: مياه الشرب تبدأ بالوصول من محطة علوك إلى القسم الجنوبي من حي الزهور بالحسكة وتخدم 25 ألف مستفيد وذلك بعد انقطاع دام 10 سنوات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142560",
-            "title": "وزارة الطاقة: مياه الشرب تبدأ بالوصول من محطة علوك إلى القسم الجنوبي من حي…",
-            "summary": "وزارة الطاقة: مياه الشرب تبدأ بالوصول من محطة علوك إلى القسم الجنوبي من حي الزهور بالحسكة وتخدم 25 ألف مستفيد وذلك بعد انقطاع دام 10 سنوات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/fqQZQPfPrQJVGrWdGYiyxyLLPXyIeW6lWirtneBsMGqnwJdDJVKIOD7y4qyBlStUQ96Y4PHAygsImUvt_QWbX0hsvNbxHvebifLDeML1cy8XFGI_0ky4PNDln415i255sv_hE47dz0TKs5tLmZ4mdMoZHAre1eqTL-diOxNdq6d61kouw4M4YiLvgRzZZ2NO2518vES3o9XojEdDa1JKCMyF1weiijK-tsSpDiEsE0ryLRTDKV5qPeK6vW2aY3ZWH2dbYq82I2l5KcjRXR6IED-YQxIHLGrFYTGQP3n0CUEa07NG4fbMQ1X-p8tvhMT7QM7Xcxk2GqpnD91IjXX9CA.jpg",
-            "date_modified": "2026-11-05T15:29:56.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
