@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 11:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 11:55:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الإذاعة والتلفزة الأيرلندية: إخلاء مقر الهيئة ومؤسسات إعلامية في أنحاء…]]></title>
+            <link>https://t.me/aljazeeraBrk/243341</link>
+            <guid isPermaLink="false">82f9d33b3564a07b6bb25f92fcfba84d41819d556597d0b18c6750957a340ef5</guid>
+            <pubDate>Fri, 06 Nov 2026 11:49:03 GMT</pubDate>
+            <description><![CDATA[هيئة الإذاعة والتلفزة الأيرلندية: إخلاء مقر الهيئة ومؤسسات إعلامية في أنحاء البلاد بعد تلقي تهديد بوجود قنبلة]]></description>
+            <content:encoded><![CDATA[هيئة الإذاعة والتلفزة الأيرلندية: إخلاء مقر الهيئة ومؤسسات إعلامية في أنحاء البلاد بعد تلقي تهديد بوجود قنبلة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مطار براغ: تهديدات بوجود متفجرات في 8 رحلات على الأقل من براغ وإليها]]></title>
             <link>https://t.me/aljazeeraBrk/243340</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 03 Nov 2026 16:39:03 GMT</pubDate>
             <description><![CDATA[سي إن إن: ولايات أمريكية عدة تستعين بالحرس الوطني لتقديم دعم في الأمن السيبراني خلال الانتخابات النصفية]]></description>
             <content:encoded><![CDATA[سي إن إن: ولايات أمريكية عدة تستعين بالحرس الوطني لتقديم دعم في الأمن السيبراني خلال الانتخابات النصفية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الوطني الأمريكي: حكام الولايات يملكون صلاحية تكليف قواتنا بمهام لدعم…]]></title>
-            <link>https://t.me/aljazeeraBrk/242882</link>
-            <guid isPermaLink="false">14bad49d0a8babb7ccb1d281eab371e20ace67465f7f844caab69a854bd7f988</guid>
-            <pubDate>Tue, 03 Nov 2026 16:39:02 GMT</pubDate>
-            <description><![CDATA[الحرس الوطني الأمريكي: حكام الولايات يملكون صلاحية تكليف قواتنا بمهام لدعم الانتخابات]]></description>
-            <content:encoded><![CDATA[الحرس الوطني الأمريكي: حكام الولايات يملكون صلاحية تكليف قواتنا بمهام لدعم الانتخابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 07:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 11:55:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine]]></title>
+            <link>https://www.francophonie.org/face-au-changement-climatique-la-francophonie-mobilise-une-ia-localisee-et-souveraine-8764</link>
+            <guid isPermaLink="false">036c699f21008c65c66de17d471768db0745ccf708d355f3a55a7b3a7e1bf0f2</guid>
+            <pubDate>Fri, 06 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-06T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 06/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-06T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 06/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Mauritanie : l'OIF soutient 1200 femmes pour l'acquisition de kits de cuisson propre]]></title>
             <link>https://www.francophonie.org/mauritanie-1200-femmes-soutenues-acquisition-kits-cuisson-propre-8763</link>
