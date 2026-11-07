@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 07 Nov 2026 20:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 21:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الحرس الثوري: ناقلتا نفط أوقفتا أنظمة الملاحة وتحديد المواقع وحاولتا عبور…]]></title>
+            <link>https://t.me/aljazeeraBrk/243555</link>
+            <guid isPermaLink="false">a9e12b495edd061a1292cc274c086cf776e0ed8d2a1f56df50c60bce7442e756</guid>
+            <pubDate>Sat, 07 Nov 2026 21:15:02 GMT</pubDate>
+            <description><![CDATA[بحرية الحرس الثوري: ناقلتا نفط أوقفتا أنظمة الملاحة وتحديد المواقع وحاولتا عبور مسار غير مصرح به في مضيق هرمز]]></description>
+            <content:encoded><![CDATA[بحرية الحرس الثوري: ناقلتا نفط أوقفتا أنظمة الملاحة وتحديد المواقع وحاولتا عبور مسار غير مصرح به في مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية: ننصح البحارة الذين يعبرون قرب سواحل إيران أو المياه…]]></title>
             <link>https://t.me/aljazeeraBrk/243553</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 09:45:01 GMT</pubDate>
             <description><![CDATA[الكرملين: موسكو وواشنطن تحافظان على توجه إيجابي وتبديان استعدادا لمواصلة التنسيق في الملفات الإنسانية]]></description>
             <content:encoded><![CDATA[الكرملين: موسكو وواشنطن تحافظان على توجه إيجابي وتبديان استعدادا لمواصلة التنسيق في الملفات الإنسانية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: لم نتلق أي مقترحات من الجانب الأوروبي بشأن ضمانات أمنية لجميع أطراف…]]></title>
-            <link>https://t.me/aljazeeraBrk/243324</link>
-            <guid isPermaLink="false">63d8d938eea1dba21a19bbba5983e7835cde027b35df6c5e874b30f2e83249fa</guid>
-            <pubDate>Fri, 06 Nov 2026 09:44:02 GMT</pubDate>
-            <description><![CDATA[الكرملين: لم نتلق أي مقترحات من الجانب الأوروبي بشأن ضمانات أمنية لجميع أطراف النزاع الأوكراني]]></description>
-            <content:encoded><![CDATA[الكرملين: لم نتلق أي مقترحات من الجانب الأوروبي بشأن ضمانات أمنية لجميع أطراف النزاع الأوكراني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
