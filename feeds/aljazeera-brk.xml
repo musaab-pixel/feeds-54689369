@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 07 Nov 2026 18:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 18:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام إسرائيلية: مظاهرات وسط تل أبيب للمطالبة بتغيير حكومة نتنياهو وتشكيل…]]></title>
+            <link>https://t.me/aljazeeraBrk/243524</link>
+            <guid isPermaLink="false">260069d0daf17acd61df00d99ec01bb7fe06c193694a47b7987a80618f579c03</guid>
+            <pubDate>Sat, 07 Nov 2026 18:13:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام إسرائيلية: مظاهرات وسط تل أبيب للمطالبة بتغيير حكومة نتنياهو وتشكيل حكومة مع الأحزاب العربية]]></description>
+            <content:encoded><![CDATA[وسائل إعلام إسرائيلية: مظاهرات وسط تل أبيب للمطالبة بتغيير حكومة نتنياهو وتشكيل حكومة مع الأحزاب العربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مكتب الرئيس التركي: أردوغان أكد لترمب في اتصال أن التوترات بين أمريكا وإيران…]]></title>
             <link>https://t.me/aljazeeraBrk/243523</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 02:00:02 GMT</pubDate>
             <description><![CDATA[بلومبرغ عن مارك روته الأمين العام للناتو: لا أعتقد أن يخرج أحد من الحرب الروسية الأوكرانية منتصرا]]></description>
             <content:encoded><![CDATA[بلومبرغ عن مارك روته الأمين العام للناتو: لا أعتقد أن يخرج أحد من الحرب الروسية الأوكرانية منتصرا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة الصحافة الفرنسية: 12 إنذارا منذ صباح اليوم بوجود قنابل على متن طائرات في…]]></title>
-            <link>https://t.me/aljazeeraBrk/243200</link>
-            <guid isPermaLink="false">e87b3612e52a55cf1fd307a8bde540b4f0922e210fb6ce7489ffb371b8e86154</guid>
-            <pubDate>Thu, 05 Nov 2026 10:52:02 GMT</pubDate>
-            <description><![CDATA[وكالة الصحافة الفرنسية: 12 إنذارا منذ صباح اليوم بوجود قنابل على متن طائرات في أوروبا]]></description>
-            <content:encoded><![CDATA[وكالة الصحافة الفرنسية: 12 إنذارا منذ صباح اليوم بوجود قنابل على متن طائرات في أوروبا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
