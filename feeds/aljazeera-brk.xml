@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 07 Nov 2026 17:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 18:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مكتب الرئيس التركي: أردوغان أكد لترمب في اتصال أن التوترات بين أمريكا وإيران…]]></title>
+            <link>https://t.me/aljazeeraBrk/243523</link>
+            <guid isPermaLink="false">c5a9fca173257c1a5a908a976798e15f4da7a6c2482e8a9bf37a95c62c7ae316</guid>
+            <pubDate>Sat, 07 Nov 2026 18:09:02 GMT</pubDate>
+            <description><![CDATA[مكتب الرئيس التركي: أردوغان أكد لترمب في اتصال أن التوترات بين أمريكا وإيران يجب حلها عبر الدبلوماسية]]></description>
+            <content:encoded><![CDATA[مكتب الرئيس التركي: أردوغان أكد لترمب في اتصال أن التوترات بين أمريكا وإيران يجب حلها عبر الدبلوماسية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الشرطة البولندية: ارتفاع عدد قتلى هجوم كراكوف إلى ٦]]></title>
             <link>https://t.me/aljazeeraBrk/243522</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 05 Nov 2026 10:52:02 GMT</pubDate>
             <description><![CDATA[وكالة الصحافة الفرنسية: 12 إنذارا منذ صباح اليوم بوجود قنابل على متن طائرات في أوروبا]]></description>
             <content:encoded><![CDATA[وكالة الصحافة الفرنسية: 12 إنذارا منذ صباح اليوم بوجود قنابل على متن طائرات في أوروبا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: هبوط طائرة ركاب في قاعدة إيفرو شمالي فرنسا إثر تلقي إنذار بوجود…]]></title>
-            <link>https://t.me/aljazeeraBrk/243199</link>
-            <guid isPermaLink="false">6ae7acf194b6471763963e75ffc5c9dd154b74d843da0e64ee82bf0bb5c4c63b</guid>
-            <pubDate>Thu, 05 Nov 2026 10:50:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: هبوط طائرة ركاب في قاعدة إيفرو شمالي فرنسا إثر تلقي إنذار بوجود قنبلة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: هبوط طائرة ركاب في قاعدة إيفرو شمالي فرنسا إثر تلقي إنذار بوجود قنبلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
