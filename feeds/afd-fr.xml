@@ -4545,17 +4545,17 @@
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-3804" accept-charset="UTF-8">
+            <form action method="get" id="country-search-111" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-3804" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-3804" name="country" class="fr-select">
+            <label for="select-country-search-111" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-111" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-3804" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-3804');
+          <button type="submit" id="submit-country-search-111" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-111');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -4873,17 +4873,17 @@
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-3804" accept-charset="UTF-8">
+            <form action method="get" id="country-search-111" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-3804" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-3804" name="country" class="fr-select">
+            <label for="select-country-search-111" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-111" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-3804" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-3804');
+          <button type="submit" id="submit-country-search-111" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-111');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
