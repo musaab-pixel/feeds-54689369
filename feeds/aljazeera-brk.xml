@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 02:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 05:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخين باليستيين أطلقتهما المليشيا الحوثية…]]></title>
+            <link>https://t.me/aljazeeraBrk/243564</link>
+            <guid isPermaLink="false">7dedb05832308042f807231605868f0df3c8f1448327a4d302eaf4fd4672011e</guid>
+            <pubDate>Sun, 08 Nov 2026 05:36:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخين باليستيين أطلقتهما المليشيا الحوثية باتجاه الرياض]]></description>
+            <content:encoded><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخين باليستيين أطلقتهما المليشيا الحوثية باتجاه الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الوطني الإماراتي: أنقذنا 22 شخصا إثر حريق بسفينة شحن في بحر عمان]]></title>
             <link>https://t.me/aljazeeraBrk/243563</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 10:38:03 GMT</pubDate>
             <description><![CDATA[صحيفة لاريبوبليكا الإيطالية: تحويل مسار رحلة كانت متجهة من براغ إلى روما لمطار البندقية إثر بلاغ عن وجود قنبلة]]></description>
             <content:encoded><![CDATA[صحيفة لاريبوبليكا الإيطالية: تحويل مسار رحلة كانت متجهة من براغ إلى روما لمطار البندقية إثر بلاغ عن وجود قنبلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير طائرة مسيرة في منطقة مكة_المكرمة]]></title>
-            <link>https://t.me/aljazeeraBrk/243333</link>
-            <guid isPermaLink="false">04306725041ad48eed04fa139ec90127c27883ea53502c89648f559e814d0599</guid>
-            <pubDate>Fri, 06 Nov 2026 10:26:01 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير طائرة مسيرة في منطقة مكة_المكرمة]]></description>
-            <content:encoded><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير طائرة مسيرة في منطقة مكة_المكرمة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
