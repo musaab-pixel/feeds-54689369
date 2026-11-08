@@ -4,10 +4,73 @@
         <title>jrct.org.uk</title>
         <link>https://www.jrct.org.uk/</link>
         <description>RSS Factory feed "jrct.org.uk" (type: website)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 14:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 15:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/allfie</link>
+            <guid isPermaLink="false">3f3b8e9390a66f8b8e3966fbed4d1e0015dae3ce77c32028d421265ac8773afd</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/images/profiles/Case%20study%20inset%20pix/ALLFIE%201446%20x%20660px%20(Homepage%20slider).png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/BID</link>
+            <guid isPermaLink="false">a6874970ace21358cdb3043b7671b23a84e51147b9acf0dfd869a275ce0f4315</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/BID-slider-compressed-RS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/the-rainbow-project</link>
+            <guid isPermaLink="false">4fb376b6211c653e42ece746f5039b7f2709fb09904fb806b7297440b1b9a064</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/images/profiles/Case%20study%20inset%20pix/1446%20x%20660px%20TRPNI%202.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/voicing-the-void</link>
+            <guid isPermaLink="false">e71346cb33908477fddf1ea7ca9246a669173b313996c1d60835d4534730e1ab</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/images/profiles/Case%20study%20inset%20pix/Voicing%20the%20Void%201446%20x%20660px%201.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/5050-parliament</link>
+            <guid isPermaLink="false">aa742eabe3cfdaa2cc273e84bd2be76d538620518c74730732f9c5126b86064c</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/images/profiles/Case%20study%20inset%20pix/5050%20slider.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/adfree-cities</link>
+            <guid isPermaLink="false">e326c8c6353c1705062167071e451e79b1f7d6fc06e792378bfdacb6f62ebdef</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/s/spacer.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/faith-for-the-climate</link>
+            <guid isPermaLink="false">8185bbf9bda05823ad508dbd55ff78828cf4665657b1c278e2476f29e59d6554</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/s/spacer.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/cemvo-scotland</link>
+            <guid isPermaLink="false">97cca18c31bddf1fee11953c55ed19956ad59bfdd06585d45941e14fda57e6d8</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/s/spacer.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Read more]]></title>
+            <link>https://www.jrct.org.uk/workers-coop</link>
+            <guid isPermaLink="false">e70d75327fcc94de35aace6190ad9b3fed27b2d84a96439554a0b80dcd46130a</guid>
+            <pubDate>Sun, 08 Nov 2026 15:28:19 GMT</pubDate>
+            <enclosure url="https://www.jrct.org.uk/userfiles/s/spacer.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[We're recruiting: Communications and engagement officer, reparations]]></title>
             <link>https://www.jrct.org.uk/communications-engagement-officer-reparations</link>
@@ -30,11 +93,11 @@
             <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/Kindling%20header%20homepage%20compressed.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Covid 19 Bereaved Families for Justice, a Power and Accountability grant holder]]></title>
+            <title><![CDATA[Read more]]></title>
             <link>https://www.jrct.org.uk/covid-19-bereaved-families</link>
             <guid isPermaLink="false">89f45f33c4fc850bcfcbb2110eb84b9cf17ae82c60db28dda4a88c4240d09a7f</guid>
             <pubDate>Fri, 18 Sep 2026 15:05:27 GMT</pubDate>
-            <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/covid%20memorial%20wall.png" length="0" type="image/png"/>
+            <enclosure url="https://www.jrct.org.uk/userfiles/covid-memorial-wall-RS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rainbow Project, a Northern Ireland programme grant holder]]></title>
@@ -44,11 +107,11 @@
             <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/rainbow%20p.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Cooperation Town, a Sustainable Future programme grant holder]]></title>
+            <title><![CDATA[Read more]]></title>
             <link>https://www.jrct.org.uk/cooperation-town</link>
             <guid isPermaLink="false">87554e4300bd6af4ed5cc8431506e203eec286035a16dc0b9ab5667901f0e4a9</guid>
             <pubDate>Fri, 18 Sep 2026 15:05:27 GMT</pubDate>
-            <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/cooperation%20twon%20ehader.png" length="0" type="image/png"/>
+            <enclosure url="https://www.jrct.org.uk/userfiles/images/Headers/Cooperation%20Town%20slider.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[JRCT welcomes three new Northern Ireland co-optees]]></title>
