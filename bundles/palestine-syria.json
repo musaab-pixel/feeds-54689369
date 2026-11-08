@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "b9a13d6b4bed0ef06c2667dbad458fe7aade62e332a3d98658f574947bf6394f",
+            "content_html": "عاجل | مراسلنا: مقتل 3 أشخاص جراء مشاجرة بين عائلتين في حي العامرية بحلب  في حصيلة أولية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142665",
+            "title": "عاجل | مراسلنا: مقتل 3 أشخاص جراء مشاجرة بين عائلتين في حي العامرية بحلب في…",
+            "summary": "عاجل | مراسلنا: مقتل 3 أشخاص جراء مشاجرة بين عائلتين في حي العامرية بحلب  في حصيلة أولية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-08T14:19:29.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "270d8763dc3aa04eec9fe39c4b54a9f79f0b4b3fb1110529d292c914bc2cad07",
             "content_html": "ترمب: أمريكا تراجعت خطوة هائلة إلى الوراء في مسار التاريخ نتيجة للانتخابات الأخيرة",
             "url": "https://t.me/aljazeeraBrk/243594",
@@ -290,7 +301,7 @@
             "url": "https://t.me/HalabTodayTV/142650",
             "title": "قوى الأمن الداخلي: 📌فرع المباحث الجنائية بحلب يلقي القبض على المدعو \"ع.ب\" خلال…",
             "summary": "<b>قوى الأمن الداخلي:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>فرع المباحث الجنائية بحلب يلقي القبض على المدعو \"ع.ب\" خلال ساعات قليلة تورّطه في قتل السيدة فاطمة بظت داخل منزلها بحي الخالدية بعد الاعتداء عليها بعدة طعنات<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تبيّن أن المتورط من أقارب الضحية وضُبط المصاغ الذهبي المسروق بحوزته ويجري اتخاذ الإجراءات القانونية بحقه تمهيدًا لإحالته إلى القضاء المختص<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/b8T-BLF8pKMqRKsX4VqWPEVJ9HYcpC_qhZW19YGVsP3BUNmZn7dKE8EmBznxf_uwJc3R_YShE7Ji5Lb4uOGXjgrlhQ8JdIfJqWMCFzAS23rOss_vcb5KXQjxQ0R_qykDp_nomEfS3hj6I_6ElSWjN6Gnmqc96WYcKuZvVfILtkCULdydBGp4qhaSV2ceRfM5zrlI30J-5-KJpRQDk-qQid384R4B3GFkphb1T5MHYyaLfABVIyuEqewXiB-VWgKepDUSEtmhrEm1kut7iwP2_jEj_byIdf1IXfVngk-bWiNrkUYmS9Wexe_qiqV4IAi8cFjQd7Ym3F1mcAGO1PKPdw.jpg",
+            "image": "https://cdn4.telesco.pe/file/h2z1IcyDIRdWiCahnYMpW5nZV4XK4cIWyKhs6auXw5u0k3m2b1uhHW0urDd4UEk2ubKp2edZY6vDvJghQYGRdwsiS14E5ZnBS6NfOqHPcs41WdZ1lZ1zSoBTDxQui00cnPZXz9su7O3vBnJczyAgZ1wwpcXMsvr8A09g10DrHqfmZt8C6kdIXTrykYkOzzMN3erP5mAa9NqTCwcscZw4Dij0lQV-Jlq-TrSnCtaYdB-Q89EtVyVwo3zP0iKge780M9-DSq0ZlYULCm9ESXqUeKykoONK8k-oOJdwHhAVOB0HVy_qyUa6EK26xYlw7if6KqU6cvfLngKnlJ17w2g6hQ.jpg",
             "date_modified": "2026-11-08T10:37:10.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
@@ -1628,17 +1639,6 @@
             "title": "مدير إدارة العلاقات والتعاون الدولي في الهيئة العامة للمنافذ والجمارك مازن…",
             "summary": "<b>مدير إدارة العلاقات والتعاون الدولي في الهيئة العامة للمنافذ والجمارك مازن علوش:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سنعيد افتتاح منفذ الدبوسية الحدودي مع لبنان الشقيق يوم الاثنين الموافق 9 تشرين الثاني بحضور رسمي رفيع المستوى من كلا البلدين<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>بعد أشهر من العمل المتواصل لإعادة بناء الجسر الواصل بين البلدين وترميم المباني الإدارية والصالات وتأهيل الساحات وتوسعتها يعود هذا المنفذ الحيوي لخدمة أهلنا وتسهيل حركة المسافرين والتبادل التجاري بين سورية ولبنان<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-11-07T13:41:49.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "dc04482dbae8ecf7186f5997a21e4532c349d893e46995cadadc83216bfb02a9",
-            "content_html": "<b>سانا:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>مدير إدارة التعاون الدولي في وزارة الخارجية قتيبة قاديش يبحث في باريس مع المبعوث الفرنسي الخاص إلى سوريا جان فرانسوا غيوم ملف أموال رفعت الأسد المصادرة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرى الاتفاق على تشكيل لجنة حوكمة مشتركة للإشراف على المشاريع التنموية الممولة من هذه الأموال واستكمال الإجراءات اللازمة لتسريع توظيف ‏نحو 54 ‌‏مليون يورو في مشاريع تخدم الشعب السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142624",
-            "title": "سانا: 📌مدير إدارة التعاون الدولي في وزارة الخارجية قتيبة قاديش يبحث في باريس…",
-            "summary": "<b>سانا:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>مدير إدارة التعاون الدولي في وزارة الخارجية قتيبة قاديش يبحث في باريس مع المبعوث الفرنسي الخاص إلى سوريا جان فرانسوا غيوم ملف أموال رفعت الأسد المصادرة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>جرى الاتفاق على تشكيل لجنة حوكمة مشتركة للإشراف على المشاريع التنموية الممولة من هذه الأموال واستكمال الإجراءات اللازمة لتسريع توظيف ‏نحو 54 ‌‏مليون يورو في مشاريع تخدم الشعب السوري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-07T13:36:03.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
