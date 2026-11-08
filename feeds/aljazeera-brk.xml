@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 10:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 10:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في…]]></title>
+            <link>https://t.me/aljazeeraBrk/243582</link>
+            <guid isPermaLink="false">8d729eb28717945bbadf3419fdd96df77ee26c5123d9aa1af4668d4c7360316c</guid>
+            <pubDate>Sun, 08 Nov 2026 10:43:02 GMT</pubDate>
+            <description><![CDATA[بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في مضيق هرمز منذ صباح اليوم]]></description>
+            <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في مضيق هرمز منذ صباح اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة فارس عن بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط…]]></title>
             <link>https://t.me/aljazeeraBrk/243581</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 13:50:02 GMT</pubDate>
             <description><![CDATA[شركة فيلوس تانكرز اليونانية: مقتل بحار في انفجار يعتقد أنه إثر هجوم صاروخي استهدف إحدى ناقلاتنا في الخليج أمس]]></description>
             <content:encoded><![CDATA[شركة فيلوس تانكرز اليونانية: مقتل بحار في انفجار يعتقد أنه إثر هجوم صاروخي استهدف إحدى ناقلاتنا في الخليج أمس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب…]]></title>
-            <link>https://t.me/aljazeeraBrk/243351</link>
-            <guid isPermaLink="false">8604c3284600e9f5ba166835f7284b870d844672835fb343b389666837bc4606</guid>
-            <pubDate>Fri, 06 Nov 2026 13:14:02 GMT</pubDate>
-            <description><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب تهديدات بوجود قنابل]]></description>
-            <content:encoded><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب تهديدات بوجود قنابل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
