@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Thu, 05 Nov 2026 05:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 04:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[‘For the first time I have my own chair’: Gaza siblings find new freedom]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168759</link>
+            <guid isPermaLink="false">61e25bbfe9ca02add303627fc16cf9e888adfe92d38ec2f5ee64404ee1cc60b9</guid>
+            <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.&nbsp;]]></description>
+            <content:encoded><![CDATA[In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.&nbsp;]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-EducAid-Gaza-03.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/11/1168740</link>

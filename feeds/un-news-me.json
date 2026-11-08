@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "61e25bbfe9ca02add303627fc16cf9e888adfe92d38ec2f5ee64404ee1cc60b9",
+            "content_html": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168759",
+            "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+            "summary": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities like eating and writing independently.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-EducAid-Gaza-03.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-07T12:00:00.000Z"
+        },
+        {
             "id": "db7dbda9adf3f15c23dd316692e05f35c0750bb557d8d4bb40c76d9a35186407",
             "content_html": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has&nbsp;said.",
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
