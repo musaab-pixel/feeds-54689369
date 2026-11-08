@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 11:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 12:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الناطق باسم الجيش السوداني: أسقطنا مسيرة معادية من طراز إف إتش 95 في ولاية غرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/243584</link>
+            <guid isPermaLink="false">83e50dd6820e2b27520786527f8ca4d678b44685cb56314b904a270689ccf71b</guid>
+            <pubDate>Sun, 08 Nov 2026 12:17:02 GMT</pubDate>
+            <description><![CDATA[الناطق باسم الجيش السوداني: أسقطنا مسيرة معادية من طراز إف إتش 95 في ولاية غرب كردفان]]></description>
+            <content:encoded><![CDATA[الناطق باسم الجيش السوداني: أسقطنا مسيرة معادية من طراز إف إتش 95 في ولاية غرب كردفان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مدير وزارة الصحة بغزة للجزيرة: نحذر من انتشار الأمراض المعدية بعد غرق عشرات…]]></title>
             <link>https://t.me/aljazeeraBrk/243583</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 14:05:01 GMT</pubDate>
             <description><![CDATA[غادي آيزنكوت: ناقشت مع شركائي في الأيام الأخيرة خطة إنشاء حكومة طوارئ وطنية بإسرائيل]]></description>
             <content:encoded><![CDATA[غادي آيزنكوت: ناقشت مع شركائي في الأيام الأخيرة خطة إنشاء حكومة طوارئ وطنية بإسرائيل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحرس الثوري الإيراني: إسقاط مسيرة أمريكية من طراز إم كيو 1 في أجواء جزيرة قشم…]]></title>
-            <link>https://t.me/aljazeeraBrk/243353</link>
-            <guid isPermaLink="false">2b62fda3158740520e1d1e3e4f3260007f3f884f8821d885bad943247185a820</guid>
-            <pubDate>Fri, 06 Nov 2026 14:04:02 GMT</pubDate>
-            <description><![CDATA[الحرس الثوري الإيراني: إسقاط مسيرة أمريكية من طراز إم كيو 1 في أجواء جزيرة قشم جنوبي البلاد]]></description>
-            <content:encoded><![CDATA[الحرس الثوري الإيراني: إسقاط مسيرة أمريكية من طراز إم كيو 1 في أجواء جزيرة قشم جنوبي البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
