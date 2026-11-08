@@ -5,6 +5,20 @@
     "description": "RSS Factory feed \"jrct.org.uk\" (type: website)",
     "items": [
         {
+            "id": "a86f26e9b74381c7bb128ae08e89d6101e886462282165492e2a687f3fa01239",
+            "url": "https://www.jrct.org.uk/communications-engagement-officer-reparations",
+            "title": "We're recruiting: Communications and engagement officer, reparations",
+            "image": "https://www.jrct.org.uk/userfiles/News/Recruitment%20comms%20engagement%20reparations.png",
+            "date_modified": "2026-11-08T14:02:41.315Z"
+        },
+        {
+            "id": "5457622e67bc42a40bd50b26fb47807f1554985506b9f2a6b77214c9787e240b",
+            "url": "https://www.jrct.org.uk/annual-report-2025",
+            "title": "Supporting lasting change: Our year in review",
+            "image": "https://www.jrct.org.uk/userfiles/images/profiles/News%20and%20press%20release%20pix/Annual%20report%20web%20image%201.png",
+            "date_modified": "2026-11-08T14:02:41.315Z"
+        },
+        {
             "id": "bfd9d543e47f608bbbf1bfaab30fc855e8c01c62eafb1f2f0bf2dd1e242ac8ca",
             "url": "https://www.jrct.org.uk/the-kindling-trust",
             "title": "A Sustainable Future grant holder",
