@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 10:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 10:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة فارس عن بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط…]]></title>
+            <link>https://t.me/aljazeeraBrk/243581</link>
+            <guid isPermaLink="false">627894e14325a939b2f764ab5b470ecf99c26feeb35859fc6b7fc5a3b6ae4d78</guid>
+            <pubDate>Sun, 08 Nov 2026 10:38:02 GMT</pubDate>
+            <description><![CDATA[وكالة فارس عن بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في مضيق هرمز منذ الصباح]]></description>
+            <content:encoded><![CDATA[وكالة فارس عن بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في مضيق هرمز منذ الصباح]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الادعاء البولندي: فتح تحقيق بتهمة الإرهاب في حادثة إطلاق النار بمدينة كراكوف]]></title>
             <link>https://t.me/aljazeeraBrk/243580</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 13:14:02 GMT</pubDate>
             <description><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب تهديدات بوجود قنابل]]></description>
             <content:encoded><![CDATA[وزارة النقل البلغارية: هبوط طائرتين قادمتين من لندن وبروكسل بمطار في صوفيا عقب تهديدات بوجود قنابل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الدفاع المجري: مقاتلات رافقت رحلتين من براغ إلى قبرص وبوخارست بسبب بلاغات…]]></title>
-            <link>https://t.me/aljazeeraBrk/243350</link>
-            <guid isPermaLink="false">081e92f043765a61386320fceaf9fbf8f87c60143f6824e9cd7705ecf4af6c02</guid>
-            <pubDate>Fri, 06 Nov 2026 12:28:02 GMT</pubDate>
-            <description><![CDATA[وزير الدفاع المجري: مقاتلات رافقت رحلتين من براغ إلى قبرص وبوخارست بسبب بلاغات بوجود قنابل]]></description>
-            <content:encoded><![CDATA[وزير الدفاع المجري: مقاتلات رافقت رحلتين من براغ إلى قبرص وبوخارست بسبب بلاغات بوجود قنابل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
