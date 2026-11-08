@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 06:03:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 06:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخين من طراز كروز في الرياض والمنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/243566</link>
+            <guid isPermaLink="false">8c2df402251de0afc025b3fb8c77d0d458e4fcb5ec996446adc7286d4f84a9b7</guid>
+            <pubDate>Sun, 08 Nov 2026 06:08:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخين من طراز كروز في الرياض والمنطقة الجنوبية]]></description>
+            <content:encoded><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخين من طراز كروز في الرياض والمنطقة الجنوبية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هآرتس عن مسؤول في القائمة العربية الموحدة: سندعم حكومة آيزنكوت حتى من دون اتفاق…]]></title>
             <link>https://t.me/aljazeeraBrk/243565</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 10:41:02 GMT</pubDate>
             <description><![CDATA[الشرطة البرتغالية: إنذار كاذب جديد بوجود متفجرات على متن طائرة انطلقت من لشبونة]]></description>
             <content:encoded><![CDATA[الشرطة البرتغالية: إنذار كاذب جديد بوجود متفجرات على متن طائرة انطلقت من لشبونة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: بوتين وأمين المجلس الأعلى للأمن القومي الإيراني بحثا الوضع في الخليج…]]></title>
-            <link>https://t.me/aljazeeraBrk/243335</link>
-            <guid isPermaLink="false">766fb9ac9294c9580157128816e2f8ab897565edd3d9ca4b357f09fdf04d3d32</guid>
-            <pubDate>Fri, 06 Nov 2026 10:39:02 GMT</pubDate>
-            <description><![CDATA[الكرملين: بوتين وأمين المجلس الأعلى للأمن القومي الإيراني بحثا الوضع في الخليج والشرق الأوسط]]></description>
-            <content:encoded><![CDATA[الكرملين: بوتين وأمين المجلس الأعلى للأمن القومي الإيراني بحثا الوضع في الخليج والشرق الأوسط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
