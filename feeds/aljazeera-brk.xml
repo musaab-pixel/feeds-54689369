@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 10:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 11:57:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مدير وزارة الصحة بغزة للجزيرة: نحذر من انتشار الأمراض المعدية بعد غرق عشرات…]]></title>
+            <link>https://t.me/aljazeeraBrk/243583</link>
+            <guid isPermaLink="false">d22765561b6e74759c239f37cc796fbdf3bfd667c65bdc4253524cef3c9e8110</guid>
+            <pubDate>Sun, 08 Nov 2026 11:56:02 GMT</pubDate>
+            <description><![CDATA[مدير وزارة الصحة بغزة للجزيرة: نحذر من انتشار الأمراض المعدية بعد غرق عشرات آلاف الخيام وسط شح الإمكانات]]></description>
+            <content:encoded><![CDATA[مدير وزارة الصحة بغزة للجزيرة: نحذر من انتشار الأمراض المعدية بعد غرق عشرات آلاف الخيام وسط شح الإمكانات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في…]]></title>
             <link>https://t.me/aljazeeraBrk/243582</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 06 Nov 2026 14:04:02 GMT</pubDate>
             <description><![CDATA[الحرس الثوري الإيراني: إسقاط مسيرة أمريكية من طراز إم كيو 1 في أجواء جزيرة قشم جنوبي البلاد]]></description>
             <content:encoded><![CDATA[الحرس الثوري الإيراني: إسقاط مسيرة أمريكية من طراز إم كيو 1 في أجواء جزيرة قشم جنوبي البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[شركة فيلوس تانكرز اليونانية: مقتل بحار في انفجار يعتقد أنه إثر هجوم صاروخي…]]></title>
-            <link>https://t.me/aljazeeraBrk/243352</link>
-            <guid isPermaLink="false">77ed164f56c8fe7d5601514a1ea5431428929dd288505d1d563631fa1ab769a8</guid>
-            <pubDate>Fri, 06 Nov 2026 13:50:02 GMT</pubDate>
-            <description><![CDATA[شركة فيلوس تانكرز اليونانية: مقتل بحار في انفجار يعتقد أنه إثر هجوم صاروخي استهدف إحدى ناقلاتنا في الخليج أمس]]></description>
-            <content:encoded><![CDATA[شركة فيلوس تانكرز اليونانية: مقتل بحار في انفجار يعتقد أنه إثر هجوم صاروخي استهدف إحدى ناقلاتنا في الخليج أمس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
