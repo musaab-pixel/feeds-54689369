@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 17:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 17:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مسؤول أمريكي للجزيرة: الاجتماع بين الرئيس ترمب ورئيس الوزراء وزير الخارجية…]]></title>
+            <link>https://t.me/aljazeeraBrk/243776</link>
+            <guid isPermaLink="false">e339713e375274835ea22376914ba80afa232ab05fdd92b94ce45471382d1944</guid>
+            <pubDate>Mon, 09 Nov 2026 17:30:02 GMT</pubDate>
+            <description><![CDATA[مسؤول أمريكي للجزيرة: الاجتماع بين الرئيس ترمب ورئيس الوزراء وزير الخارجية القطري بدأ في البيت الأبيض]]></description>
+            <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: الاجتماع بين الرئيس ترمب ورئيس الوزراء وزير الخارجية القطري بدأ في البيت الأبيض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أحمد الطيبي رئيس كتلة القائمة المشتركة للجزيرة: سنصوت لمندوب آيزنكوت رئيسا…]]></title>
             <link>https://t.me/aljazeeraBrk/243775</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 20:21:02 GMT</pubDate>
             <description><![CDATA[رئيس كتلة القائمة المشتركة أحمد الطيبي للجزيرة: نتنياهو أكبر مخرب لإسرائيل والمنطقة]]></description>
             <content:encoded><![CDATA[رئيس كتلة القائمة المشتركة أحمد الطيبي للجزيرة: نتنياهو أكبر مخرب لإسرائيل والمنطقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس كتلة القائمة المشتركة للجزيرة: هدفنا الإطاحة بحكومة نتنياهو التي أجرمت بحق…]]></title>
-            <link>https://t.me/aljazeeraBrk/243540</link>
-            <guid isPermaLink="false">2aefeed372a2b4ad6c79b436298edbdafbdeda6b14d4c723013d3c9edfc09562</guid>
-            <pubDate>Sat, 07 Nov 2026 20:19:02 GMT</pubDate>
-            <description><![CDATA[رئيس كتلة القائمة المشتركة للجزيرة: هدفنا الإطاحة بحكومة نتنياهو التي أجرمت بحق كثير من الشرائح]]></description>
-            <content:encoded><![CDATA[رئيس كتلة القائمة المشتركة للجزيرة: هدفنا الإطاحة بحكومة نتنياهو التي أجرمت بحق كثير من الشرائح]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
