@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 14:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 15:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف…]]></title>
+            <link>https://t.me/aljazeeraBrk/243751</link>
+            <guid isPermaLink="false">88c5b9482b29fa2fc5919ee51f1f2b659c02ffe0d537336c9bd60d62ea4f760a</guid>
+            <pubDate>Mon, 09 Nov 2026 14:51:01 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف القنيطرة]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف القنيطرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تسنيم عن مصادر: رئيس وزراء العراق التقى خلال زيارته طهران الرئيس بزشكيان…]]></title>
             <link>https://t.me/aljazeeraBrk/243750</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 15:40:02 GMT</pubDate>
             <description><![CDATA[الناطق العسكري لجماعة أنصار الله الحوثيين: نفذنا 6 عمليات على مواقع نفطية وعسكرية في السعودية واليمن]]></description>
             <content:encoded><![CDATA[الناطق العسكري لجماعة أنصار الله الحوثيين: نفذنا 6 عمليات على مواقع نفطية وعسكرية في السعودية واليمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان قوى وفصائل فلسطينية: ندعو الوسطاء والضامنين إلى ممارسة الضغط لضمان تنفيذ…]]></title>
-            <link>https://t.me/aljazeeraBrk/243515</link>
-            <guid isPermaLink="false">c3b03951713196c2f2c429ed0c4b97f20fae8bf210169172be69b0aed7987d61</guid>
-            <pubDate>Sat, 07 Nov 2026 15:39:02 GMT</pubDate>
-            <description><![CDATA[بيان قوى وفصائل فلسطينية: ندعو الوسطاء والضامنين إلى ممارسة الضغط لضمان تنفيذ البروتوكول الإنساني كاملا]]></description>
-            <content:encoded><![CDATA[بيان قوى وفصائل فلسطينية: ندعو الوسطاء والضامنين إلى ممارسة الضغط لضمان تنفيذ البروتوكول الإنساني كاملا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

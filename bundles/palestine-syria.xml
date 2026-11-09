@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 14:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 15:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف…]]></title>
+            <link>https://t.me/aljazeeraBrk/243751</link>
+            <guid isPermaLink="false">88c5b9482b29fa2fc5919ee51f1f2b659c02ffe0d537336c9bd60d62ea4f760a</guid>
+            <pubDate>Mon, 09 Nov 2026 14:51:01 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف القنيطرة]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف القنيطرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تسنيم عن مصادر: رئيس وزراء العراق التقى خلال زيارته طهران الرئيس بزشكيان…]]></title>
             <link>https://t.me/aljazeeraBrk/243750</link>
@@ -1886,15 +1895,6 @@
             <pubDate>Sun, 08 Nov 2026 21:08:02 GMT</pubDate>
             <description><![CDATA[حماس: سياسات الحصار ومنع إدخال المساعدات ومواد الإعمار فاقمت المأساة الإنسانية وتسببت بكوارث متكررة في غزة]]></description>
             <content:encoded><![CDATA[حماس: سياسات الحصار ومنع إدخال المساعدات ومواد الإعمار فاقمت المأساة الإنسانية وتسببت بكوارث متكررة في غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الكهرباء بكردستان العراق: نحو 2.8 جيجاوات من قدرة توليد الكهرباء خرجت من…]]></title>
-            <link>https://t.me/aljazeeraBrk/243665</link>
-            <guid isPermaLink="false">1e65f23556b575ca1a63b7f1b3fdb40394e63cf066e15eb0ad4c24789c740441</guid>
-            <pubDate>Sun, 08 Nov 2026 20:56:02 GMT</pubDate>
-            <description><![CDATA[وزارة الكهرباء بكردستان العراق: نحو 2.8 جيجاوات من قدرة توليد الكهرباء خرجت من الخدمة عقب هجوم حقل كورمور]]></description>
-            <content:encoded><![CDATA[وزارة الكهرباء بكردستان العراق: نحو 2.8 جيجاوات من قدرة توليد الكهرباء خرجت من الخدمة عقب هجوم حقل كورمور]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
