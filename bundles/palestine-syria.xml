@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 10:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 10:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي…]]></title>
+            <link>https://t.me/aljazeeraBrk/243718</link>
+            <guid isPermaLink="false">2d7107f89a71f7044459bf31bf0f5c615f37af53c3783fb86f03f07ec3d98a7d</guid>
+            <pubDate>Mon, 09 Nov 2026 10:42:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي الوسطى وغزة لعدم توفر قطع غيار]]></description>
+            <content:encoded><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي الوسطى وغزة لعدم توفر قطع غيار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم أوديسا الأوكرانية: 3 قتلى في استهداف روسي للمدينة]]></title>
             <link>https://t.me/aljazeeraBrk/243717</link>
@@ -1818,15 +1827,6 @@
             <pubDate>Sun, 08 Nov 2026 13:19:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: نؤكد أن أمن السعودية جزء لا يتجزأ من أمن قطر ومنظومة الأمن الجماعي لدول مجلس التعاون]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: نؤكد أن أمن السعودية جزء لا يتجزأ من أمن قطر ومنظومة الأمن الجماعي لدول مجلس التعاون]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: نجدد تضامن قطر مع السعودية ووقوفها بجانبها في ما تتخذه من…]]></title>
-            <link>https://t.me/aljazeeraBrk/243589</link>
-            <guid isPermaLink="false">60e8d1a5f6d20681c2a7387db58024496d7588b1b921043d6671186daf5b5535</guid>
-            <pubDate>Sun, 08 Nov 2026 13:18:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: نجدد تضامن قطر مع السعودية ووقوفها بجانبها في ما تتخذه من إجراءات للحفاظ على سيادتها وأمنها]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: نجدد تضامن قطر مع السعودية ووقوفها بجانبها في ما تتخذه من إجراءات للحفاظ على سيادتها وأمنها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "fd437edd0a593493788671d3d944ab6ab22d66ddca8b2cca508c598bdeea0c12",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Zukunftsperspektiven und Netzwerke</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-09T11:30:01+01:00\" title=\"Montag, 9 November 2026 - 11:30\" class=\"datetime\">Mo. 9 Nov 2026 - 11:30</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-wmdiv-fuer-den-bereich-zukunftsperspektiven-und-0",
+            "title": "Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Zukunftsperspektiven und Netzwerke",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Zukunftsperspektiven und Netzwerke</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-09T11:30:01+01:00\" title=\"Montag, 9 November 2026 - 11:30\" class=\"datetime\">Mo. 9 Nov 2026 - 11:30</time>\n</span>\n",
+            "date_modified": "2026-11-09T10:30:01.000Z",
+            "author": {
+                "name": "palasthotel"
+            }
+        },
+        {
             "id": "f1d59b51952a66518029d1e8faa2f05e355c79d762d60e6ad796ce7ccc055733",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Trotz allem zuversichtlich: Die unterschätzte Stärke der deutschen Zivilgesellschaft </span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-04T05:00:00+01:00\" title=\"Mittwoch, 4 November 2026 - 05:00\" class=\"datetime\">Mi. 4 Nov 2026 - 05:00</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/trotz-allem-zuversichtlich-die-unterschaetzte-staerke-der-deutschen-zivilgesellschaft",

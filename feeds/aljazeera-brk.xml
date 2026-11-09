@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 10:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 10:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي…]]></title>
+            <link>https://t.me/aljazeeraBrk/243718</link>
+            <guid isPermaLink="false">2d7107f89a71f7044459bf31bf0f5c615f37af53c3783fb86f03f07ec3d98a7d</guid>
+            <pubDate>Mon, 09 Nov 2026 10:42:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي الوسطى وغزة لعدم توفر قطع غيار]]></description>
+            <content:encoded><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي الوسطى وغزة لعدم توفر قطع غيار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم أوديسا الأوكرانية: 3 قتلى في استهداف روسي للمدينة]]></title>
             <link>https://t.me/aljazeeraBrk/243717</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 09:37:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية غزة للجزيرة: لا أماكن متاحة لنقل النازحين المتضررين بعد غرق آلاف الخيام]]></description>
             <content:encoded><![CDATA[رئيس بلدية غزة للجزيرة: لا أماكن متاحة لنقل النازحين المتضررين بعد غرق آلاف الخيام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المكتب الإعلامي الحكومي بغزة: نحمل الاحتلال الإسرائيلي مسؤولية التداعيات…]]></title>
-            <link>https://t.me/aljazeeraBrk/243459</link>
-            <guid isPermaLink="false">1bdd01052dd314b9a1dc8f8a693e0948be7fad4e9171e5e71ef8478da4725065</guid>
-            <pubDate>Sat, 07 Nov 2026 09:17:02 GMT</pubDate>
-            <description><![CDATA[المكتب الإعلامي الحكومي بغزة: نحمل الاحتلال الإسرائيلي مسؤولية التداعيات الكارثية بسبب استمرار إغلاقه للمعابر]]></description>
-            <content:encoded><![CDATA[المكتب الإعلامي الحكومي بغزة: نحمل الاحتلال الإسرائيلي مسؤولية التداعيات الكارثية بسبب استمرار إغلاقه للمعابر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
