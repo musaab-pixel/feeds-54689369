@@ -2487,11 +2487,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item83316" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-782893869" type="button">
+    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1699642149" type="button">
           Caractéristiques
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-782893869">
+  <div class="fr-collapse" id="accordion-1699642149">
         
   
 <div class="my-8 print-para-space">
@@ -2534,11 +2534,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1005649575" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-70871657" type="button">
           Afrique du Sud - Ville du Cap
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1005649575">
+  <div class="fr-collapse" id="accordion-70871657">
         
 
 <div class="my-8 print-para-space">
@@ -2558,11 +2558,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-867318979" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1788662597" type="button">
           Kenya – KenGen
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-867318979">
+  <div class="fr-collapse" id="accordion-1788662597">
         
 
 <div class="my-8 print-para-space">
@@ -2582,11 +2582,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-148431028" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-158089431" type="button">
           Rwanda - Banque nationale du Rwanda (BNR)
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-148431028">
+  <div class="fr-collapse" id="accordion-158089431">
         
 
 <div class="my-8 print-para-space">
@@ -2717,11 +2717,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item83316" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-782893869" type="button">
+    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1699642149" type="button">
           Caractéristiques
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-782893869">
+  <div class="fr-collapse" id="accordion-1699642149">
         
   
 <div class="my-8 print-para-space">
@@ -2764,11 +2764,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1005649575" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-70871657" type="button">
           Afrique du Sud - Ville du Cap
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1005649575">
+  <div class="fr-collapse" id="accordion-70871657">
         
 
 <div class="my-8 print-para-space">
@@ -2788,11 +2788,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-867318979" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1788662597" type="button">
           Kenya – KenGen
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-867318979">
+  <div class="fr-collapse" id="accordion-1788662597">
         
 
 <div class="my-8 print-para-space">
@@ -2812,11 +2812,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-148431028" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-158089431" type="button">
           Rwanda - Banque nationale du Rwanda (BNR)
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-148431028">
+  <div class="fr-collapse" id="accordion-158089431">
         
 
 <div class="my-8 print-para-space">
@@ -5097,17 +5097,17 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-7692" accept-charset="UTF-8">
+            <form action method="get" id="country-search-9831" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-7692" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-7692" name="country" class="fr-select">
+            <label for="select-country-search-9831" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-9831" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-7692" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-7692');
+          <button type="submit" id="submit-country-search-9831" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-9831');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -5425,17 +5425,17 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-7692" accept-charset="UTF-8">
+            <form action method="get" id="country-search-9831" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-7692" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-7692" name="country" class="fr-select">
+            <label for="select-country-search-9831" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-9831" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-7692" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-7692');
+          <button type="submit" id="submit-country-search-9831" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-9831');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -5562,80 +5562,6 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/pour-une-gestion-durable-des-ressources-marines-de-taytay" class="fr-card__link">Pour une gestion durable des ressources marines de Taytay</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Biodiversité
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 450 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/pour-une-gestion-durable-des-ressources-marines-de-taytay.jpg.webp?itok=HFLFO3fu" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/projet-de-resilience-insecurite-alimentaire-et-nutritionnelle-walang-gutom" class="fr-card__link">Projet de résilience à l’insécurité alimentaire et nutritionnelle - Walang Gutom </a>
               </h3>
       
@@ -5695,6 +5621,80 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/projet-de-resilience-insecurite-alimentaire-et-nutritionnelle-walang-gutom.jpg.webp?itok=pTdCJulp" width="715" height="402" alt="© DSWD">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/pour-une-gestion-durable-des-ressources-marines-de-taytay" class="fr-card__link">Pour une gestion durable des ressources marines de Taytay</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2029</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 450 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/pour-une-gestion-durable-des-ressources-marines-de-taytay.jpg.webp?itok=HFLFO3fu" width="715" height="402" alt>
 
 
 
@@ -6339,7 +6339,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
+                  <a href="https://www.afd.fr/fr/projets/femmes-dignite-et-travail-phase-iii" class="fr-card__link">Femmes, dignité et travail (phase III)</a>
               </h3>
       
               <div class="fr-card__start">
@@ -6352,7 +6352,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Santé et protection sociale
+    Égalité des sexes
   </p>
 
       </li>
@@ -6363,7 +6363,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation à la citoyenneté et à la solidarité internationale
+    Lutte contre les inégalités
   </p>
 
       </li>
@@ -6382,14 +6382,14 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2026</p>
+          <p class="fr-card__detail">2025 - 2028</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Trois Océans</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -6397,7 +6397,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-11/femmes-dignite-et-travail.jpg.webp?itok=EYgprM8p" width="715" height="402" alt>
 
 
 
@@ -6508,80 +6508,6 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/pour-une-gestion-durable-des-ressources-marines-de-taytay" class="fr-card__link">Pour une gestion durable des ressources marines de Taytay</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Biodiversité
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 450 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/pour-une-gestion-durable-des-ressources-marines-de-taytay.jpg.webp?itok=HFLFO3fu" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/projet-de-resilience-insecurite-alimentaire-et-nutritionnelle-walang-gutom" class="fr-card__link">Projet de résilience à l’insécurité alimentaire et nutritionnelle - Walang Gutom </a>
               </h3>
       
@@ -6641,6 +6567,80 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/projet-de-resilience-insecurite-alimentaire-et-nutritionnelle-walang-gutom.jpg.webp?itok=pTdCJulp" width="715" height="402" alt="© DSWD">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/pour-une-gestion-durable-des-ressources-marines-de-taytay" class="fr-card__link">Pour une gestion durable des ressources marines de Taytay</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2029</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Philippines</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 450 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/pour-une-gestion-durable-des-ressources-marines-de-taytay.jpg.webp?itok=HFLFO3fu" width="715" height="402" alt>
 
 
 
@@ -7285,7 +7285,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique" class="fr-card__link">Droits humains et environnementaux au cœur d’une mondialisation économique et d’un développement justes et dur...</a>
+                  <a href="https://www.afd.fr/fr/projets/femmes-dignite-et-travail-phase-iii" class="fr-card__link">Femmes, dignité et travail (phase III)</a>
               </h3>
       
               <div class="fr-card__start">
@@ -7298,7 +7298,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Santé et protection sociale
+    Égalité des sexes
   </p>
 
       </li>
@@ -7309,7 +7309,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Éducation à la citoyenneté et à la solidarité internationale
+    Lutte contre les inégalités
   </p>
 
       </li>
@@ -7328,14 +7328,14 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2026</p>
+          <p class="fr-card__detail">2025 - 2028</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Orients</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Amérique latine, Trois Océans</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 105 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -7343,7 +7343,7 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-12/droits-humains-et-environnementaux-au-coeur-une-mondialisation-economique.jpg.webp?itok=UVePKbfa" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-11/femmes-dignite-et-travail.jpg.webp?itok=EYgprM8p" width="715" height="402" alt>
 
 
 
