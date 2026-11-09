@@ -2487,11 +2487,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item83316" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1234548704" type="button">
+    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1804455537" type="button">
           Caractéristiques
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1234548704">
+  <div class="fr-collapse" id="accordion-1804455537">
         
   
 <div class="my-8 print-para-space">
@@ -2534,11 +2534,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1482837790" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-736622576" type="button">
           Afrique du Sud - Ville du Cap
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1482837790">
+  <div class="fr-collapse" id="accordion-736622576">
         
 
 <div class="my-8 print-para-space">
@@ -2558,11 +2558,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-600588295" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1713270706" type="button">
           Kenya – KenGen
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-600588295">
+  <div class="fr-collapse" id="accordion-1713270706">
         
 
 <div class="my-8 print-para-space">
@@ -2582,11 +2582,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-987959958" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-623460848" type="button">
           Rwanda - Banque nationale du Rwanda (BNR)
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-987959958">
+  <div class="fr-collapse" id="accordion-623460848">
         
 
 <div class="my-8 print-para-space">
@@ -2717,11 +2717,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
   
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 id="anchor-accordion-item83316" class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1234548704" type="button">
+    <button class="fr-accordion__btn" aria-expanded="true" aria-controls="accordion-1804455537" type="button">
           Caractéristiques
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1234548704">
+  <div class="fr-collapse" id="accordion-1804455537">
         
   
 <div class="my-8 print-para-space">
@@ -2764,11 +2764,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1482837790" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-736622576" type="button">
           Afrique du Sud - Ville du Cap
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1482837790">
+  <div class="fr-collapse" id="accordion-736622576">
         
 
 <div class="my-8 print-para-space">
@@ -2788,11 +2788,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-600588295" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1713270706" type="button">
           Kenya – KenGen
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-600588295">
+  <div class="fr-collapse" id="accordion-1713270706">
         
 
 <div class="my-8 print-para-space">
@@ -2812,11 +2812,11 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-987959958" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-623460848" type="button">
           Rwanda - Banque nationale du Rwanda (BNR)
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-987959958">
+  <div class="fr-collapse" id="accordion-623460848">
         
 
 <div class="my-8 print-para-space">
@@ -5097,17 +5097,17 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-3268" accept-charset="UTF-8">
+            <form action method="get" id="country-search-2686" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-3268" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-3268" name="country" class="fr-select">
+            <label for="select-country-search-2686" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-2686" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-3268" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-3268');
+          <button type="submit" id="submit-country-search-2686" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-2686');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -5425,17 +5425,17 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-3268" accept-charset="UTF-8">
+            <form action method="get" id="country-search-2686" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-3268" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-3268" name="country" class="fr-select">
+            <label for="select-country-search-2686" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-2686" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-3268" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-3268');
+          <button type="submit" id="submit-country-search-2686" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-2686');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
