@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 08:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 08:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني في قطاع غزة: نحذر من أن منطقة دير البلح عرضة لانهيارات رملية…]]></title>
+            <link>https://t.me/aljazeeraBrk/243689</link>
+            <guid isPermaLink="false">32483dcd75235ea0df830181e36e3d16fa05fb600083b39be2b88b42310a1f83</guid>
+            <pubDate>Mon, 09 Nov 2026 08:24:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني في قطاع غزة: نحذر من أن منطقة دير البلح عرضة لانهيارات رملية جديدة قد تعرض حياة نازحين للخطر]]></description>
+            <content:encoded><![CDATA[الدفاع المدني في قطاع غزة: نحذر من أن منطقة دير البلح عرضة لانهيارات رملية جديدة قد تعرض حياة نازحين للخطر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تشرع بهدم منزل في قرية الهجري بمدينة دورا جنوب…]]></title>
             <link>https://t.me/aljazeeraBrk/243688</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 00:57:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء وزير الخارجية القطري: في لبنان نرى ما يجري بعد وقف إطلاق النار حيث لا يزال القصف مستمرا]]></description>
             <content:encoded><![CDATA[رئيس الوزراء وزير الخارجية القطري: في لبنان نرى ما يجري بعد وقف إطلاق النار حيث لا يزال القصف مستمرا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الوزراء وزير الخارجية القطري: منذ وقف إطلاق النار في غزة قتل أكثر من ألف…]]></title>
-            <link>https://t.me/aljazeeraBrk/243422</link>
-            <guid isPermaLink="false">339c03fd96fab945b2b1bc5ff1dd86bd125c0489c86c15d447d646a5a134df74</guid>
-            <pubDate>Sat, 07 Nov 2026 00:56:02 GMT</pubDate>
-            <description><![CDATA[رئيس الوزراء وزير الخارجية القطري: منذ وقف إطلاق النار في غزة قتل أكثر من ألف شخص]]></description>
-            <content:encoded><![CDATA[رئيس الوزراء وزير الخارجية القطري: منذ وقف إطلاق النار في غزة قتل أكثر من ألف شخص]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
