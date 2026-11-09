@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 15:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 15:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نتنياهو: مستعد للدخول في نقاش مع أي طرف لبحث تشكيل حكومة وحدة وطنية وهو أمر يعد…]]></title>
+            <link>https://t.me/aljazeeraBrk/243752</link>
+            <guid isPermaLink="false">921af7543f38880885115affbab6014e8361fdab03547de493d3681397f42d97</guid>
+            <pubDate>Mon, 09 Nov 2026 15:24:01 GMT</pubDate>
+            <description><![CDATA[نتنياهو: مستعد للدخول في نقاش مع أي طرف لبحث تشكيل حكومة وحدة وطنية وهو أمر يعد ضرورة قصوى]]></description>
+            <content:encoded><![CDATA[نتنياهو: مستعد للدخول في نقاش مع أي طرف لبحث تشكيل حكومة وحدة وطنية وهو أمر يعد ضرورة قصوى]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون السوري: إصابة شاب برصاص قوات الاحتلال الإسرائيلي في قرية بريقة بريف…]]></title>
             <link>https://t.me/aljazeeraBrk/243751</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 16:58:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد لوزير خارجية السعودية دعم جهود ضمان حرية الملاحة]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد لوزير خارجية السعودية دعم جهود ضمان حرية الملاحة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الناطق العسكري لجماعة أنصار الله الحوثيين: نفذنا 6 عمليات على مواقع نفطية…]]></title>
-            <link>https://t.me/aljazeeraBrk/243516</link>
-            <guid isPermaLink="false">df93dc61cca7f0a4ab061c0379301144d3e342748ac096015c7646e41dcfe629</guid>
-            <pubDate>Sat, 07 Nov 2026 15:40:02 GMT</pubDate>
-            <description><![CDATA[الناطق العسكري لجماعة أنصار الله الحوثيين: نفذنا 6 عمليات على مواقع نفطية وعسكرية في السعودية واليمن]]></description>
-            <content:encoded><![CDATA[الناطق العسكري لجماعة أنصار الله الحوثيين: نفذنا 6 عمليات على مواقع نفطية وعسكرية في السعودية واليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
