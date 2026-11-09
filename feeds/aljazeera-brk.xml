@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 09:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 10:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تجرف أراضي وتقتلع أشجار زيتون في قرية الساوية جنوب…]]></title>
+            <link>https://t.me/aljazeeraBrk/243711</link>
+            <guid isPermaLink="false">b32a1c39a252451d0fa00e28c277ed74b3f5109bfdd39c16d4813005492140a1</guid>
+            <pubDate>Mon, 09 Nov 2026 09:52:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تجرف أراضي وتقتلع أشجار زيتون في قرية الساوية جنوب مدينة نابلس بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تجرف أراضي وتقتلع أشجار زيتون في قرية الساوية جنوب مدينة نابلس بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مدير وزارة الصحة في غزة للجزيرة: المؤسسات التي أدخلها المجتمع الدولي لتحل محل…]]></title>
             <link>https://t.me/aljazeeraBrk/243709</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 08:42:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الدفاع المدني بغزة للجزيرة: تقديراتنا تشير إلى غرق وتضرر جميع مراكز الإيواء بسبب الأمطار والرياح]]></description>
             <content:encoded><![CDATA[المتحدث باسم الدفاع المدني بغزة للجزيرة: تقديراتنا تشير إلى غرق وتضرر جميع مراكز الإيواء بسبب الأمطار والرياح]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الدفاع المدني بغزة للجزيرة: القطاع بحاجة عاجلة إلى 300 ألف خيمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/243452</link>
-            <guid isPermaLink="false">ecb88368b9665874e989686931485821ac89267a358e30bc2a454563f579e3b5</guid>
-            <pubDate>Sat, 07 Nov 2026 08:40:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الدفاع المدني بغزة للجزيرة: القطاع بحاجة عاجلة إلى 300 ألف خيمة لإيواء النازحين]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الدفاع المدني بغزة للجزيرة: القطاع بحاجة عاجلة إلى 300 ألف خيمة لإيواء النازحين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
