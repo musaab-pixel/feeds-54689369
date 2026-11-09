@@ -5097,17 +5097,17 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-9982" accept-charset="UTF-8">
+            <form action method="get" id="country-search-3268" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-9982" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-9982" name="country" class="fr-select">
+            <label for="select-country-search-3268" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-3268" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-9982" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-9982');
+          <button type="submit" id="submit-country-search-3268" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-3268');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">
@@ -5425,17 +5425,17 @@ Face à l’intensification des inondations, sécheresses et cyclones, IDRIMA mo
 
                   </div>
     <div class="para__country-region__main">
-            <form action method="get" id="country-search-9982" accept-charset="UTF-8">
+            <form action method="get" id="country-search-3268" accept-charset="UTF-8">
         <div class="form-search-header form-search-region flex justify-center flex-col">
           <div class="my-4">
-            <label for="select-country-search-9982" class="sr-only">Sélectionner un pays</label>
-            <select id="select-country-search-9982" name="country" class="fr-select">
+            <label for="select-country-search-3268" class="sr-only">Sélectionner un pays</label>
+            <select id="select-country-search-3268" name="country" class="fr-select">
                 <option value>Sélectionner un pays</option>
                                     <option value="/fr/page-region-pays/argentine">Argentine</option>
                             </select>
                                   </div>
-          <button type="submit" id="submit-country-search-9982" class="submit-btn js-form-search-region" onclick="
-              var select = document.getElementById('select-country-search-9982');
+          <button type="submit" id="submit-country-search-3268" class="submit-btn js-form-search-region" onclick="
+              var select = document.getElementById('select-country-search-3268');
               if (select &amp;&amp; select.value) window.location.href = select.value;
               return false;
             ">

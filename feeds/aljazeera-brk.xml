@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 12:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 13:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة الفالوجا…]]></title>
+            <link>https://t.me/aljazeeraBrk/243740</link>
+            <guid isPermaLink="false">eb685fa1650143bc98caab3da63da8fffdc06ddfb132f563350240faa3623662</guid>
+            <pubDate>Mon, 09 Nov 2026 12:59:01 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة الفالوجا بجباليا شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة الفالوجا بجباليا شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الوزراء الفرنسي: نعمل على الاستجابة للتحديات الاجتماعية ومن واجبنا تقديم…]]></title>
             <link>https://t.me/aljazeeraBrk/243739</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 14:09:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني بغزة: القطاع يواجه كارثة إنسانية جراء غرق عشرات المخيمات ومراكز الإيواء بمياه الأمطار]]></description>
             <content:encoded><![CDATA[الدفاع المدني بغزة: القطاع يواجه كارثة إنسانية جراء غرق عشرات المخيمات ومراكز الإيواء بمياه الأمطار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني بغزة: انهيارات جزئية في 3 مبان بالقطاع جراء الأمطار ما شكل خطرا…]]></title>
-            <link>https://t.me/aljazeeraBrk/243504</link>
-            <guid isPermaLink="false">ce38cbf0e3ad9869d01fedcf224df8ba2e92488e8fb1bbc684c29e8c11a06a72</guid>
-            <pubDate>Sat, 07 Nov 2026 14:07:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني بغزة: انهيارات جزئية في 3 مبان بالقطاع جراء الأمطار ما شكل خطرا على حياة المدنيين]]></description>
-            <content:encoded><![CDATA[الدفاع المدني بغزة: انهيارات جزئية في 3 مبان بالقطاع جراء الأمطار ما شكل خطرا على حياة المدنيين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
