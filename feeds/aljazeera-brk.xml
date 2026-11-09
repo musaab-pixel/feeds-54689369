@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 11:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 11:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني: البحرية التابعة للحرس الثوري عطلت أنظمة الملاحة البحرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/243723</link>
+            <guid isPermaLink="false">509ab55c869cedd22e0bb44ea1d1a090f4339c9d909003ca26d896c51d10a8cf</guid>
+            <pubDate>Mon, 09 Nov 2026 11:27:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني: البحرية التابعة للحرس الثوري عطلت أنظمة الملاحة البحرية التابعة للعدو في المياه الإقليمية]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني: البحرية التابعة للحرس الثوري عطلت أنظمة الملاحة البحرية التابعة للعدو في المياه الإقليمية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون الإيراني: استهداف 11 ناقلة غير قانونية خلال الأيام العشرة الماضية]]></title>
             <link>https://t.me/aljazeeraBrk/243722</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 09:47:02 GMT</pubDate>
             <description><![CDATA[حماس: الواقع الإنساني المتفاقم في القطاع يفرض على الوسطاء تحمل مسؤولياتهم تجاه الاتفاقات المبرمة]]></description>
             <content:encoded><![CDATA[حماس: الواقع الإنساني المتفاقم في القطاع يفرض على الوسطاء تحمل مسؤولياتهم تجاه الاتفاقات المبرمة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: المشهد الكارثي الإنساني في غزة وغرق شعبنا في الخيام وصمة عار على جبين…]]></title>
-            <link>https://t.me/aljazeeraBrk/243464</link>
-            <guid isPermaLink="false">af1058e65c250fb5f0934f56ba900b84f765693abc205b7b53308d266e2fd3d1</guid>
-            <pubDate>Sat, 07 Nov 2026 09:45:02 GMT</pubDate>
-            <description><![CDATA[حماس: المشهد الكارثي الإنساني في غزة وغرق شعبنا في الخيام وصمة عار على جبين المجتمع الدولي]]></description>
-            <content:encoded><![CDATA[حماس: المشهد الكارثي الإنساني في غزة وغرق شعبنا في الخيام وصمة عار على جبين المجتمع الدولي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
