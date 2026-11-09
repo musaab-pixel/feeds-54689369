@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 15:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 16:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر: مسؤولون فرنسيون يشتبهون بأن إيران وراء عمليات قرصنة إلكترونية…]]></title>
+            <link>https://t.me/aljazeeraBrk/243756</link>
+            <guid isPermaLink="false">75aed8f404d5b9fcd072d4440554946020bca7b4acae3aaf617853c6b3fc2efd</guid>
+            <pubDate>Mon, 09 Nov 2026 15:58:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر: مسؤولون فرنسيون يشتبهون بأن إيران وراء عمليات قرصنة إلكترونية استهدفت أنظمة تبريد في أكتوبر]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر: مسؤولون فرنسيون يشتبهون بأن إيران وراء عمليات قرصنة إلكترونية استهدفت أنظمة تبريد في أكتوبر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الأمريكية: روبيو بحث مع نظيره الفرنسي الوضع في الشرق الأوسط وجهود…]]></title>
             <link>https://t.me/aljazeeraBrk/243755</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 07 Nov 2026 17:29:02 GMT</pubDate>
             <description><![CDATA[يائير غولان رئيس حزب الديمقراطيين: يجب استبدال حكومة نتنياهو وتشكيل حكومة تغيير وبذل كل الجهود لتحقيق ذلك]]></description>
             <content:encoded><![CDATA[يائير غولان رئيس حزب الديمقراطيين: يجب استبدال حكومة نتنياهو وتشكيل حكومة تغيير وبذل كل الجهود لتحقيق ذلك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نتنياهو: هذا هو وقت تشكيل حكومة وحدة في إسرائيل]]></title>
-            <link>https://t.me/aljazeeraBrk/243520</link>
-            <guid isPermaLink="false">50bc5e27d3ac450150083fe3a02a8cd1b60975c67a758be99c031e203cd21a5e</guid>
-            <pubDate>Sat, 07 Nov 2026 17:27:02 GMT</pubDate>
-            <description><![CDATA[نتنياهو: هذا هو وقت تشكيل حكومة وحدة في إسرائيل]]></description>
-            <content:encoded><![CDATA[نتنياهو: هذا هو وقت تشكيل حكومة وحدة في إسرائيل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
