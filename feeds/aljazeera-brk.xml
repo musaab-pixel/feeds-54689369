@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 17:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 17:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون الإيراني عن بحرية الحرس الثوري: انفجار ناقلة نفط ثالثة اصطدمت بلغم…]]></title>
+            <link>https://t.me/aljazeeraBrk/243973</link>
+            <guid isPermaLink="false">78067364a029c7c22af0a51bdffe759b5e40e43a0256e9585466739d610cc2fe</guid>
+            <pubDate>Tue, 10 Nov 2026 17:14:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون الإيراني عن بحرية الحرس الثوري: انفجار ناقلة نفط ثالثة اصطدمت بلغم خلال عبورها مسارا محظورا في هرمز]]></description>
+            <content:encoded><![CDATA[التلفزيون الإيراني عن بحرية الحرس الثوري: انفجار ناقلة نفط ثالثة اصطدمت بلغم خلال عبورها مسارا محظورا في هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظ تعز: البضائع التي تدخل مدينة تعز لا تتجاوز 10% من الاحتياجات وارتفاع…]]></title>
             <link>https://t.me/aljazeeraBrk/243972</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 08:24:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني في قطاع غزة: نحذر من أن منطقة دير البلح عرضة لانهيارات رملية جديدة قد تعرض حياة نازحين للخطر]]></description>
             <content:encoded><![CDATA[الدفاع المدني في قطاع غزة: نحذر من أن منطقة دير البلح عرضة لانهيارات رملية جديدة قد تعرض حياة نازحين للخطر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تشرع بهدم منزل في قرية الهجري بمدينة دورا جنوب…]]></title>
-            <link>https://t.me/aljazeeraBrk/243688</link>
-            <guid isPermaLink="false">bd0b87f0f9862c206ad24c4546954bedd2785d67b727cb28d19ee92ef365d6ad</guid>
-            <pubDate>Mon, 09 Nov 2026 08:01:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تشرع بهدم منزل في قرية الهجري بمدينة دورا جنوب الخليل بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تشرع بهدم منزل في قرية الهجري بمدينة دورا جنوب الخليل بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
