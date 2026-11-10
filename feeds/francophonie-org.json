@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "30a7b1b060d6df664e7896d5aca6634a3ec68c3d2c06c7743eb95faaed78b5a5",
+            "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Cabo Verde : déploiement d’une Mission électorale de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-10T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 10/11/2026 - 15:43</span>\n",
+            "url": "https://www.francophonie.org/cabo-verde-deploiement-dune-mission-electorale-de-la-francophonie-8765",
+            "title": "Cabo Verde : déploiement d’une Mission électorale de la Francophonie",
+            "summary": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Cabo Verde : déploiement d’une Mission électorale de la Francophonie</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-10T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">mar 10/11/2026 - 15:43</span>\n",
+            "date_modified": "2026-11-10T15:43:13.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "036c699f21008c65c66de17d471768db0745ccf708d355f3a55a7b3a7e1bf0f2",
             "content_html": "<span property=\"schema:name\" class=\"field field--name-title field--type-string field--label-hidden\">Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine</span>\n<span rel=\"schema:author\" class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"\" about=\"https://www.francophonie.org/user/40\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" xml:lang=\"\">skanderh</span></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-06T15:43:13+00:00\" class=\"field field--name-created field--type-created field--label-hidden\">ven 06/11/2026 - 15:43</span>\n",
             "url": "https://www.francophonie.org/face-au-changement-climatique-la-francophonie-mobilise-une-ia-localisee-et-souveraine-8764",

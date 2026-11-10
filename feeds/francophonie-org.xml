@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 06 Nov 2026 11:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Cabo Verde : déploiement d’une Mission électorale de la Francophonie]]></title>
+            <link>https://www.francophonie.org/cabo-verde-deploiement-dune-mission-electorale-de-la-francophonie-8765</link>
+            <guid isPermaLink="false">30a7b1b060d6df664e7896d5aca6634a3ec68c3d2c06c7743eb95faaed78b5a5</guid>
+            <pubDate>Tue, 10 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cabo Verde : déploiement d’une Mission électorale de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-10T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 10/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cabo Verde : déploiement d’une Mission électorale de la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-10T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 10/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine]]></title>
             <link>https://www.francophonie.org/face-au-changement-climatique-la-francophonie-mobilise-une-ia-localisee-et-souveraine-8764</link>

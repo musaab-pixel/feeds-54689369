@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 12:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المنظمة الدولية للهجرة: نزوح 15,930 شخصا في اليمن خلال الأسبوع الأول من نوفمبر…]]></title>
+            <link>https://t.me/aljazeeraBrk/243900</link>
+            <guid isPermaLink="false">0af9052fa57c8f9902c4bddf4a369e1af7cc3ffcee478658046df09ac7aa8d74</guid>
+            <pubDate>Tue, 10 Nov 2026 12:28:02 GMT</pubDate>
+            <description><![CDATA[المنظمة الدولية للهجرة: نزوح 15,930 شخصا في اليمن خلال الأسبوع الأول من نوفمبر الجاري]]></description>
+            <content:encoded><![CDATA[المنظمة الدولية للهجرة: نزوح 15,930 شخصا في اليمن خلال الأسبوع الأول من نوفمبر الجاري]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[منصور عباس رئيس القائمة العربية الموحدة: نمد يدنا للتعاون مع آيزنكوت ومستعدون…]]></title>
             <link>https://t.me/aljazeeraBrk/243899</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 08 Nov 2026 10:11:02 GMT</pubDate>
             <description><![CDATA[الادعاء البولندي: فتح تحقيق بتهمة الإرهاب في حادثة إطلاق النار بمدينة كراكوف]]></description>
             <content:encoded><![CDATA[الادعاء البولندي: فتح تحقيق بتهمة الإرهاب في حادثة إطلاق النار بمدينة كراكوف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الحرس الثوري الإيراني: اتخذنا جميع التدابير اللازمة لتعزيز…]]></title>
-            <link>https://t.me/aljazeeraBrk/243579</link>
-            <guid isPermaLink="false">e5414b0e98bbf756459ea6c7023c1f37e7f6c6f710fbff55d19924ff1488b72f</guid>
-            <pubDate>Sun, 08 Nov 2026 09:35:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الحرس الثوري الإيراني: اتخذنا جميع التدابير اللازمة لتعزيز علاقاتنا مع الدول المجاورة]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الحرس الثوري الإيراني: اتخذنا جميع التدابير اللازمة لتعزيز علاقاتنا مع الدول المجاورة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
