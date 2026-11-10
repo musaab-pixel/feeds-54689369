@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 12:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في المستشفى المعمداني: شهيد ومصابون في غارة إسرائيلية على خيمة نازحين بحي…]]></title>
+            <link>https://t.me/aljazeeraBrk/243901</link>
+            <guid isPermaLink="false">3f8a2c77e39860e695a7fd461acfcd13afafa60268d629237f8630c36d3c1ff4</guid>
+            <pubDate>Tue, 10 Nov 2026 12:43:02 GMT</pubDate>
+            <description><![CDATA[مصدر في المستشفى المعمداني: شهيد ومصابون في غارة إسرائيلية على خيمة نازحين بحي الدرج شرقي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في المستشفى المعمداني: شهيد ومصابون في غارة إسرائيلية على خيمة نازحين بحي الدرج شرقي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المنظمة الدولية للهجرة: نزوح 15,930 شخصا في اليمن خلال الأسبوع الأول من نوفمبر…]]></title>
             <link>https://t.me/aljazeeraBrk/243900</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 08 Nov 2026 10:38:02 GMT</pubDate>
             <description><![CDATA[وكالة فارس عن بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في مضيق هرمز منذ الصباح]]></description>
             <content:encoded><![CDATA[وكالة فارس عن بحرية الحرس الثوري الإيراني: انفجارات وحرائق ضخمة في 3 ناقلات نفط مخالفة في مضيق هرمز منذ الصباح]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الادعاء البولندي: فتح تحقيق بتهمة الإرهاب في حادثة إطلاق النار بمدينة كراكوف]]></title>
-            <link>https://t.me/aljazeeraBrk/243580</link>
-            <guid isPermaLink="false">a22885b636d7048b177fe8b63c57de4da43709c6659f80ad3ef2c3b4017a349a</guid>
-            <pubDate>Sun, 08 Nov 2026 10:11:02 GMT</pubDate>
-            <description><![CDATA[الادعاء البولندي: فتح تحقيق بتهمة الإرهاب في حادثة إطلاق النار بمدينة كراكوف]]></description>
-            <content:encoded><![CDATA[الادعاء البولندي: فتح تحقيق بتهمة الإرهاب في حادثة إطلاق النار بمدينة كراكوف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
