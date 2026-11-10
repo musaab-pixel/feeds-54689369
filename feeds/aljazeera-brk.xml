@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 09:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 09:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الأمين العام لمجلس التعاون الخليجي: وزراء الدفاع أقروا اليوم فتح قيادة متقدمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/243883</link>
+            <guid isPermaLink="false">e845db58b37ab46c77e43c69117869538dc88343e084624a769440986aea078a</guid>
+            <pubDate>Tue, 10 Nov 2026 09:40:02 GMT</pubDate>
+            <description><![CDATA[الأمين العام لمجلس التعاون الخليجي: وزراء الدفاع أقروا اليوم فتح قيادة متقدمة للقيادة العسكرية الموحدة بالكويت]]></description>
+            <content:encoded><![CDATA[الأمين العام لمجلس التعاون الخليجي: وزراء الدفاع أقروا اليوم فتح قيادة متقدمة للقيادة العسكرية الموحدة بالكويت]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزيرة خارجية كندا: إعادة فرض عقوبات على 11 كيانا إيرانيا]]></title>
             <link>https://t.me/aljazeeraBrk/243882</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 08 Nov 2026 02:33:02 GMT</pubDate>
             <description><![CDATA[الحرس الوطني الإماراتي: أنقذنا 22 شخصا إثر حريق بسفينة شحن في بحر عمان]]></description>
             <content:encoded><![CDATA[الحرس الوطني الإماراتي: أنقذنا 22 شخصا إثر حريق بسفينة شحن في بحر عمان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم التحالف: دمرنا صاروخا باليستيا أطلقته المليشيا الحوثية باتجاه…]]></title>
-            <link>https://t.me/aljazeeraBrk/243562</link>
-            <guid isPermaLink="false">01bee396b302c2492bb94e7209c22634a3a5e99a7ce67f7263c7d0e00e29d97b</guid>
-            <pubDate>Sun, 08 Nov 2026 02:31:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم التحالف: دمرنا صاروخا باليستيا أطلقته المليشيا الحوثية باتجاه المنطقة الشرقية في السعودية]]></description>
-            <content:encoded><![CDATA[المتحدث باسم التحالف: دمرنا صاروخا باليستيا أطلقته المليشيا الحوثية باتجاه المنطقة الشرقية في السعودية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
