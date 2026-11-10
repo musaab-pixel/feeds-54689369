@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 19:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 20:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة العدل الأمريكية: توجيه 8 تهم تتعلق بالإرهاب لـ 3 إيرانيين بتهمة دعم كتائب…]]></title>
+            <link>https://t.me/aljazeeraBrk/243991</link>
+            <guid isPermaLink="false">2c90b85a6cc5f0cc96a9818f22f86a47423c7144cad46a6b28835ff88a0d9814</guid>
+            <pubDate>Tue, 10 Nov 2026 20:56:02 GMT</pubDate>
+            <description><![CDATA[وزارة العدل الأمريكية: توجيه 8 تهم تتعلق بالإرهاب لـ 3 إيرانيين بتهمة دعم كتائب حزب_الله والحرس الثوري]]></description>
+            <content:encoded><![CDATA[وزارة العدل الأمريكية: توجيه 8 تهم تتعلق بالإرهاب لـ 3 إيرانيين بتهمة دعم كتائب حزب_الله والحرس الثوري]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة فارس عن مساعد وزير النفط الإيراني: حريق بمنصة بحقل بارس الجنوبي والوضع…]]></title>
             <link>https://t.me/aljazeeraBrk/243990</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 09:38:02 GMT</pubDate>
             <description><![CDATA[مدير وزارة الصحة في غزة للجزيرة: نناشد العالم التدخل سريعا لإنقاذ كثير من النازحين في مبان عدة آيلة للسقوط]]></description>
             <content:encoded><![CDATA[مدير وزارة الصحة في غزة للجزيرة: نناشد العالم التدخل سريعا لإنقاذ كثير من النازحين في مبان عدة آيلة للسقوط]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مدير وزارة الصحة في غزة للجزيرة: ما يقارب 74 ألف شهيد ونحو 175 ألف جريح حصيلة…]]></title>
-            <link>https://t.me/aljazeeraBrk/243706</link>
-            <guid isPermaLink="false">13d623f608288be8eb3d410b87ccecd62c7d94667be2c7aba2cf6e2268c136ce</guid>
-            <pubDate>Mon, 09 Nov 2026 09:36:02 GMT</pubDate>
-            <description><![CDATA[مدير وزارة الصحة في غزة للجزيرة: ما يقارب 74 ألف شهيد ونحو 175 ألف جريح حصيلة الحرب الإسرائيلية حتى الآن]]></description>
-            <content:encoded><![CDATA[مدير وزارة الصحة في غزة للجزيرة: ما يقارب 74 ألف شهيد ونحو 175 ألف جريح حصيلة الحرب الإسرائيلية حتى الآن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
