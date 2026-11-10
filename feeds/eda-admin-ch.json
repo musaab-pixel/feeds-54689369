@@ -5,6 +5,13 @@
     "description": "RSS Factory feed \"eda.admin.ch\" (type: website)",
     "items": [
         {
+            "id": "ca1d4a7c70c6b4d50e51168aa6fe5311818594cc58522e5485621a325cb2c4a8",
+            "url": "https://www.eda.admin.ch/en/relations-between-switzerland-and-the-democratic-peoples-republic-of-korea-key-dates",
+            "title": "More about «The history of relations between Switzerland and the Democratic People's Republic of Korea»",
+            "image": "https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/FvMbMSRiR--y/ignazio-cassis-choe-son-hui.jpg?w=1024&auto=format",
+            "date_modified": "2026-11-10T10:59:24.261Z"
+        },
+        {
             "id": "7b3603b152f7472f5a20c0284525aded0a6476a619ad26476c379a5abce3b892",
             "url": "https://www.eda.admin.ch/en/leading-by-example-reports-from-the-embassies",
             "title": "More about «Let's Focus #20: The Architecture of Our Embassies»",

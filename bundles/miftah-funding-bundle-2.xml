@@ -4,10 +4,17 @@
         <title>Miftah Funding Bundle 2</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 2" (type: bundle)</description>
-        <lastBuildDate>Mon, 09 Nov 2026 10:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 10:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[More about «The history of relations between Switzerland and the Democratic People's Republic of Korea»]]></title>
+            <link>https://www.eda.admin.ch/en/relations-between-switzerland-and-the-democratic-peoples-republic-of-korea-key-dates</link>
+            <guid isPermaLink="false">ca1d4a7c70c6b4d50e51168aa6fe5311818594cc58522e5485621a325cb2c4a8</guid>
+            <pubDate>Tue, 10 Nov 2026 10:59:24 GMT</pubDate>
+            <enclosure url="https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/FvMbMSRiR--y/ignazio-cassis-choe-son-hui.jpg?w=1024&amp;auto=format" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How an insider peacebuilder in Somalia helped turn young men away from violence]]></title>
             <link>https://berghof-foundation.org/impact/insider-peacebuilder-turns-young-men-away-from-violence-somalia</link>
@@ -4839,13 +4846,6 @@ The results of these conversations are real: teenage pregnancies have dropped. P
         Your support enables us to keep publishing.</p>
 <p class="link-btn"><a href="/donate" class="a">Donate</a></p>]]></content:encoded>
             <enclosure url="https://berghof-foundation.org/pdfThumbnails/_1000x1400_crop_center-center_82_line/2026_Navigating-climate-and-conflict_EN.pdf-36580794.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More about «In New York, Switzerland champions dialogue in a fragmented world»]]></title>
-            <link>https://www.eda.admin.ch/en/newnsb/Fc6MCTtQIBr-</link>
-            <guid isPermaLink="false">bdad74ce7e39a7f82126f1660f2b2b837adf0fcef205cdbedf31748e7c308c7e</guid>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/sjwqNE3uu7uw/cassis-wadephul.jpg?w=1024&amp;auto=format" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
