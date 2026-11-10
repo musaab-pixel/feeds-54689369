@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 18:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 19:00:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر أمني لبناني للجزيرة: العثور على جثة النائب العراقي السابق أحمد العلواني في…]]></title>
+            <link>https://t.me/aljazeeraBrk/243986</link>
+            <guid isPermaLink="false">32c1640734b64eeacabec108d9653cad6ab281bf8f0e8117881d13381186f214</guid>
+            <pubDate>Tue, 10 Nov 2026 18:52:02 GMT</pubDate>
+            <description><![CDATA[مصدر أمني لبناني للجزيرة: العثور على جثة النائب العراقي السابق أحمد العلواني في منطقة الطريق الجديدة ببيروت]]></description>
+            <content:encoded><![CDATA[مصدر أمني لبناني للجزيرة: العثور على جثة النائب العراقي السابق أحمد العلواني في منطقة الطريق الجديدة ببيروت]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر أمني لبناني للجزيرة: فقدان أثر النائب العراقي السابق أحمد العلواني في بيروت]]></title>
             <link>https://t.me/aljazeeraBrk/243984</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 09:34:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تهدم منشأة تجارية في بلدة حزما شمال شرق القدس]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تهدم منشأة تجارية في بلدة حزما شمال شرق القدس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مدير وزارة الصحة في غزة للجزيرة: الوزارة تعاني من عدم وجود أدوية وقلة الحضانات…]]></title>
-            <link>https://t.me/aljazeeraBrk/243701</link>
-            <guid isPermaLink="false">4ba8bf45adba86cc3ca7de64beee326da99b6621e0a29b4dfba0b953390aec58</guid>
-            <pubDate>Mon, 09 Nov 2026 09:33:02 GMT</pubDate>
-            <description><![CDATA[مدير وزارة الصحة في غزة للجزيرة: الوزارة تعاني من عدم وجود أدوية وقلة الحضانات وشح المستلزمات الطبية]]></description>
-            <content:encoded><![CDATA[مدير وزارة الصحة في غزة للجزيرة: الوزارة تعاني من عدم وجود أدوية وقلة الحضانات وشح المستلزمات الطبية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
