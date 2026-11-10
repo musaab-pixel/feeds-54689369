@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "8d2a2497512f1a02509ceb78c15a094702aa6dfa09d2bb70e195751108b970a2",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbFZMeXJBSXh2QlFYdkJ6YUNjbjBIUXdWOFU4ZnhFakFrZGJFRHdET3ByUWg0RldFU2VMSXA1bzFIb0Y3Zm81Q01NQUt3UQ?oc=5\" target=\"_blank\">الأونروا تطلق برنامج العودة الطوعية للاجئي فلسطين من سوريا.. مساعدات نقدية وتسهيلات للانتقال</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة روز اليوسف</font>",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbFZMeXJBSXh2QlFYdkJ6YUNjbjBIUXdWOFU4ZnhFakFrZGJFRHdET3ByUWg0RldFU2VMSXA1bzFIb0Y3Zm81Q01NQUt3UQ?oc=5",
+            "title": "الأونروا تطلق برنامج العودة الطوعية للاجئي فلسطين من سوريا.. مساعدات نقدية وتسهيلات للانتقال - بوابة روز اليوسف",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbFZMeXJBSXh2QlFYdkJ6YUNjbjBIUXdWOFU4ZnhFakFrZGJFRHdET3ByUWg0RldFU2VMSXA1bzFIb0Y3Zm81Q01NQUt3UQ?oc=5\" target=\"_blank\">الأونروا تطلق برنامج العودة الطوعية للاجئي فلسطين من سوريا.. مساعدات نقدية وتسهيلات للانتقال</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة روز اليوسف</font>",
+            "date_modified": "2026-11-10T19:53:17.000Z",
+            "author": {
+                "name": "بوابة روز اليوسف"
+            }
+        },
+        {
             "id": "391d8318cd91d6f746581df8068d02de61f6825ca3849a8a971f145c0917f136",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi3wRBVV95cUxPOFlTUzBqbjhNS3NBZXJrVzdlQ2g5N3hqdWo2Y2tBaGVKRzV3bXBrTE5YMTJUZ1N1R1ZjYmd4OFg4WjM5YnhmcFN4VDdYOXNGdS1NTlpETWpYUk9EbzJwTnQwU21xWFVmWEZNUHl1bUVBNTNRRG14b3AyUTJhYTJ0WnItajVBaFp6clplbzE0XzdkNVZzc1BpakhtQW1BRk1TYUJiYWtpb1hZOVlVSEx6Z0RhcEZhV0xtMlg4VGhOMlY0eDM4SHhRZmk0N21jOGQyNVdyOGgtOVIzdmxHcnNZZTdjY3EyX2NZRVNITTZjLWdCUjFBNzYxVWVaR3VSZkRFS2s4LXJGZ004ckZ5VXBpUXZ0ay1HMC1VLTNXZFpkeFM0UkdlcXVNQndGNjhIbHI0VHdPUDdRNGsyMWpIWTlaYmF4djlkcXlrNWt1N1lIa1NnbktuT1dULTNGVExjdkUtRHBXcjhrTElqSTRHWWNIOXdPMzdoVTRrcHg4MkR4dGZCSXBMWjJyejB6dnNocDZ1cHhVaF9YLXFTR3NZbGRfZy1BNHVPbDJ1M1RIbXB0RVFOYnVUajJJV2FFd0FFM1lsZE1VeXVsTy1HWm1sT3VVNU9jaXBUUTVhaFlESUpyMF80MjItelpkbVBKeXVnR0szRThXOWhrTWoxSGxsYmV2c1lTbENBRWc2VXFSd256Yy0zdmRnVlpjeVNjOVhLOUlXTmY0TVl5TGF4b1ZyZWZBaXJvZVpmMkh2XzlaR1FGVmhVWGFnYVRPTFVSRU1YaUtxYkN0eTlPUTJVUWxtRGkw?oc=5\" target=\"_blank\">\"أونروا\" تطلق برنامجاً للعودة الطوعية لفلسطينيي سوريا في لبنان وتحدد المساعدات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxPOFlTUzBqbjhNS3NBZXJrVzdlQ2g5N3hqdWo2Y2tBaGVKRzV3bXBrTE5YMTJUZ1N1R1ZjYmd4OFg4WjM5YnhmcFN4VDdYOXNGdS1NTlpETWpYUk9EbzJwTnQwU21xWFVmWEZNUHl1bUVBNTNRRG14b3AyUTJhYTJ0WnItajVBaFp6clplbzE0XzdkNVZzc1BpakhtQW1BRk1TYUJiYWtpb1hZOVlVSEx6Z0RhcEZhV0xtMlg4VGhOMlY0eDM4SHhRZmk0N21jOGQyNVdyOGgtOVIzdmxHcnNZZTdjY3EyX2NZRVNITTZjLWdCUjFBNzYxVWVaR3VSZkRFS2s4LXJGZ004ckZ5VXBpUXZ0ay1HMC1VLTNXZFpkeFM0UkdlcXVNQndGNjhIbHI0VHdPUDdRNGsyMWpIWTlaYmF4djlkcXlrNWt1N1lIa1NnbktuT1dULTNGVExjdkUtRHBXcjhrTElqSTRHWWNIOXdPMzdoVTRrcHg4MkR4dGZCSXBMWjJyejB6dnNocDZ1cHhVaF9YLXFTR3NZbGRfZy1BNHVPbDJ1M1RIbXB0RVFOYnVUajJJV2FFd0FFM1lsZE1VeXVsTy1HWm1sT3VVNU9jaXBUUTVhaFlESUpyMF80MjItelpkbVBKeXVnR0szRThXOWhrTWoxSGxsYmV2c1lTbENBRWc2VXFSd256Yy0zdmRnVlpjeVNjOVhLOUlXTmY0TVl5TGF4b1ZyZWZBaXJvZVpmMkh2XzlaR1FGVmhVWGFnYVRPTFVSRU1YaUtxYkN0eTlPUTJVUWxtRGkw?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-02-02T08:00:00.000Z",
             "author": {
                 "name": "Al Akhbar"
-            }
-        },
-        {
-            "id": "6bf9b33a2572cd1e9e0b42551d96575280c551f0ec4f8b386e202a4cb7cb9415",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMitwRBVV95cUxQYUlCTTcxb0FSUnhqU2dhVUFJOU9ZUEpsVGlwaTR1U3gzZ2M2Q3hKbWhHOUl0WmtOck5GWkJkTS1zQVNoV1RyT0VxSzN2QUYtbVJGWUN3Mmh2OW9CWkZkQXNCNXFJc1dRd0xSSXR2ajJFN29XNlp0a044UUhOUUpXOEl5WUJxdUJpZ2VZYm5ZX2R4WjNUMzVCdXkwWlpOMU1KRkRKRWNra3hSc0owX19sdE0yV1hvamVDdWUxaTR6RmJmYVdZXzZtSmU1S08zcGtIZ0p6cG8zejdTSWpMdnFZVnZXWlNjX0xIcEdMcW9XUjFrOHF6eTlSOC1UTEplMlo2R21OT2xyd0pZMjFVbjRnWFViSjJESHRIanB2VndWdkNpOFl3cjBFN0c3UmxQOVhyVldQbEhLZjJOSDc1dEdPR191SnBBQTN1T01GaXBOQnNXa0Jmc0RkX2JqV1BtbUFKd1Npa2VwVGJ1cUN2ZGF2VzdqczZTU1kyR3p2VjJvU1RWVWE3dzIxZ2hDVE5EdUNMX3JSV0R4b2tOYUVRdExNaEstc2czekdSdWNUcFJJVDdSb2lXXzhXR2I1ZGVscnJVUWRXLXdXXzVoXzF3ZG9oVTBCSGZjTjJlYXlqZ2prb1F4ZFVPaDlDSzBUNmZqZUN5UzZaa2NGc29aSGtUOVFOLVdEVldfYnY2bE9HUk5VUnhITktSOU52eGx1czEyQW81cFlaLVc1VW1ZLXE1c0FtNDA5UkhOT2c?oc=5\" target=\"_blank\">انتقادات لتقليص وكالة \"أونروا\" في سوريا عدد ساعات الدوام ورواتب الموظفين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxQYUlCTTcxb0FSUnhqU2dhVUFJOU9ZUEpsVGlwaTR1U3gzZ2M2Q3hKbWhHOUl0WmtOck5GWkJkTS1zQVNoV1RyT0VxSzN2QUYtbVJGWUN3Mmh2OW9CWkZkQXNCNXFJc1dRd0xSSXR2ajJFN29XNlp0a044UUhOUUpXOEl5WUJxdUJpZ2VZYm5ZX2R4WjNUMzVCdXkwWlpOMU1KRkRKRWNra3hSc0owX19sdE0yV1hvamVDdWUxaTR6RmJmYVdZXzZtSmU1S08zcGtIZ0p6cG8zejdTSWpMdnFZVnZXWlNjX0xIcEdMcW9XUjFrOHF6eTlSOC1UTEplMlo2R21OT2xyd0pZMjFVbjRnWFViSjJESHRIanB2VndWdkNpOFl3cjBFN0c3UmxQOVhyVldQbEhLZjJOSDc1dEdPR191SnBBQTN1T01GaXBOQnNXa0Jmc0RkX2JqV1BtbUFKd1Npa2VwVGJ1cUN2ZGF2VzdqczZTU1kyR3p2VjJvU1RWVWE3dzIxZ2hDVE5EdUNMX3JSV0R4b2tOYUVRdExNaEstc2czekdSdWNUcFJJVDdSb2lXXzhXR2I1ZGVscnJVUWRXLXdXXzVoXzF3ZG9oVTBCSGZjTjJlYXlqZ2prb1F4ZFVPaDlDSzBUNmZqZUN5UzZaa2NGc29aSGtUOVFOLVdEVldfYnY2bE9HUk5VUnhITktSOU52eGx1czEyQW81cFlaLVc1VW1ZLXE1c0FtNDA5UkhOT2c?oc=5",
-            "title": "انتقادات لتقليص وكالة \"أونروا\" في سوريا عدد ساعات الدوام ورواتب الموظفين - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwRBVV95cUxQYUlCTTcxb0FSUnhqU2dhVUFJOU9ZUEpsVGlwaTR1U3gzZ2M2Q3hKbWhHOUl0WmtOck5GWkJkTS1zQVNoV1RyT0VxSzN2QUYtbVJGWUN3Mmh2OW9CWkZkQXNCNXFJc1dRd0xSSXR2ajJFN29XNlp0a044UUhOUUpXOEl5WUJxdUJpZ2VZYm5ZX2R4WjNUMzVCdXkwWlpOMU1KRkRKRWNra3hSc0owX19sdE0yV1hvamVDdWUxaTR6RmJmYVdZXzZtSmU1S08zcGtIZ0p6cG8zejdTSWpMdnFZVnZXWlNjX0xIcEdMcW9XUjFrOHF6eTlSOC1UTEplMlo2R21OT2xyd0pZMjFVbjRnWFViSjJESHRIanB2VndWdkNpOFl3cjBFN0c3UmxQOVhyVldQbEhLZjJOSDc1dEdPR191SnBBQTN1T01GaXBOQnNXa0Jmc0RkX2JqV1BtbUFKd1Npa2VwVGJ1cUN2ZGF2VzdqczZTU1kyR3p2VjJvU1RWVWE3dzIxZ2hDVE5EdUNMX3JSV0R4b2tOYUVRdExNaEstc2czekdSdWNUcFJJVDdSb2lXXzhXR2I1ZGVscnJVUWRXLXdXXzVoXzF3ZG9oVTBCSGZjTjJlYXlqZ2prb1F4ZFVPaDlDSzBUNmZqZUN5UzZaa2NGc29aSGtUOVFOLVdEVldfYnY2bE9HUk5VUnhITktSOU52eGx1czEyQW81cFlaLVc1VW1ZLXE1c0FtNDA5UkhOT2c?oc=5\" target=\"_blank\">انتقادات لتقليص وكالة \"أونروا\" في سوريا عدد ساعات الدوام ورواتب الموظفين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-02-01T08:00:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]
