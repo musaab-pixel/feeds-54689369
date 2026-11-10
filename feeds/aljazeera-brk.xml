@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 21:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 21:42:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين في قرية اللبن الشرقي جنوب نابلس…]]></title>
+            <link>https://t.me/aljazeeraBrk/243994</link>
+            <guid isPermaLink="false">69d4164b268feca3db187c5478186c3821f483640ec07f55b5d7e18e1f6c8c6e</guid>
+            <pubDate>Tue, 10 Nov 2026 21:34:01 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين في قرية اللبن الشرقي جنوب نابلس ويحرقون سيارات]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين في قرية اللبن الشرقي جنوب نابلس ويحرقون سيارات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء الإيرانية: عراقجي يدعو الأمم المتحدة لإدانة رصد واشنطن مكافأة…]]></title>
             <link>https://t.me/aljazeeraBrk/243993</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 09:40:02 GMT</pubDate>
             <description><![CDATA[مدير وزارة الصحة في غزة للجزيرة: المؤسسات التي أدخلها المجتمع الدولي لتحل محل الأونروا لا تؤدي الدور المطلوب]]></description>
             <content:encoded><![CDATA[مدير وزارة الصحة في غزة للجزيرة: المؤسسات التي أدخلها المجتمع الدولي لتحل محل الأونروا لا تؤدي الدور المطلوب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: انفجارات متتالية تسمع في وسط العاصمة الأوكرانية كييف مع تفعيل…]]></title>
-            <link>https://t.me/aljazeeraBrk/243710</link>
-            <guid isPermaLink="false">4b5e83e1227f99d4b6c68e7e8fdced15434b3e7abdb4b295b6e7ae88f1a90e55</guid>
-            <pubDate>Mon, 09 Nov 2026 09:40:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: انفجارات متتالية تسمع في وسط العاصمة الأوكرانية كييف مع تفعيل صفارات الإنذار]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: انفجارات متتالية تسمع في وسط العاصمة الأوكرانية كييف مع تفعيل صفارات الإنذار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
