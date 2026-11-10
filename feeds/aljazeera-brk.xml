@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 21:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 22:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية اللبن الشرقي جنوب نابلس…]]></title>
+            <link>https://t.me/aljazeeraBrk/243995</link>
+            <guid isPermaLink="false">a7bd52560eef77c470266fb05374e7b1f4474c352b76a909333fe9f3fd13145d</guid>
+            <pubDate>Tue, 10 Nov 2026 21:54:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية اللبن الشرقي جنوب نابلس بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال الإسرائيلي تقتحم قرية اللبن الشرقي جنوب نابلس بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون فلسطينيين في قرية اللبن الشرقي جنوب نابلس…]]></title>
             <link>https://t.me/aljazeeraBrk/243994</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 09:52:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تجرف أراضي وتقتلع أشجار زيتون في قرية الساوية جنوب مدينة نابلس بالضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تجرف أراضي وتقتلع أشجار زيتون في قرية الساوية جنوب مدينة نابلس بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مدير وزارة الصحة في غزة للجزيرة: المؤسسات التي أدخلها المجتمع الدولي لتحل محل…]]></title>
-            <link>https://t.me/aljazeeraBrk/243709</link>
-            <guid isPermaLink="false">0c4bcda778922233bb7bcc57efd4e9e9ddc34323a660d385fb36465abafa8bb7</guid>
-            <pubDate>Mon, 09 Nov 2026 09:40:02 GMT</pubDate>
-            <description><![CDATA[مدير وزارة الصحة في غزة للجزيرة: المؤسسات التي أدخلها المجتمع الدولي لتحل محل الأونروا لا تؤدي الدور المطلوب]]></description>
-            <content:encoded><![CDATA[مدير وزارة الصحة في غزة للجزيرة: المؤسسات التي أدخلها المجتمع الدولي لتحل محل الأونروا لا تؤدي الدور المطلوب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
