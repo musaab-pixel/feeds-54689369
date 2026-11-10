@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 18:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 18:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حزب الليكود: نتنياهو مصر على ما ورد بخطابه بعدم التعاون مع داعمي الإرهاب…]]></title>
+            <link>https://t.me/aljazeeraBrk/243980</link>
+            <guid isPermaLink="false">e2892efca28444b605512070b2530f2157c3cddf02460402ae6023b031f18164</guid>
+            <pubDate>Tue, 10 Nov 2026 18:09:02 GMT</pubDate>
+            <description><![CDATA[حزب الليكود: نتنياهو مصر على ما ورد بخطابه بعدم التعاون مع داعمي الإرهاب والاستعداد للجلوس مع من يريد الوحدة]]></description>
+            <content:encoded><![CDATA[حزب الليكود: نتنياهو مصر على ما ورد بخطابه بعدم التعاون مع داعمي الإرهاب والاستعداد للجلوس مع من يريد الوحدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[يسرائيل هيوم: آيزنكوت وجه فريقه بإلغاء جلسة مفاوضات مع حزب الليكود كانت مقررة…]]></title>
             <link>https://t.me/aljazeeraBrk/243979</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 08:50:03 GMT</pubDate>
             <description><![CDATA[مدير مكتب الإعلام الحكومي بغزة: نوجه نداء عاجلا لكل المؤسسات الدولية للتدخل وإلزام الاحتلال بفتح المعابر]]></description>
             <content:encoded><![CDATA[مدير مكتب الإعلام الحكومي بغزة: نوجه نداء عاجلا لكل المؤسسات الدولية للتدخل وإلزام الاحتلال بفتح المعابر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مدير المكتب الإعلامي الحكومي في غزة: نوجه نداء عاجلا لكل الجهات بضرورة فتح…]]></title>
-            <link>https://t.me/aljazeeraBrk/243696</link>
-            <guid isPermaLink="false">b470f7cc888b4dc430ae61c61e46f73a7b6ac74edc231142a820e2d915080070</guid>
-            <pubDate>Mon, 09 Nov 2026 08:50:03 GMT</pubDate>
-            <description><![CDATA[مدير المكتب الإعلامي الحكومي في غزة: نوجه نداء عاجلا لكل الجهات بضرورة فتح المعابر لإدخال المساعدات فورا]]></description>
-            <content:encoded><![CDATA[مدير المكتب الإعلامي الحكومي في غزة: نوجه نداء عاجلا لكل الجهات بضرورة فتح المعابر لإدخال المساعدات فورا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
