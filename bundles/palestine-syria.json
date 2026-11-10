@@ -5,6 +5,39 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "df2149ce486592786ef5a9bfbbe9cfa71258b812d2046bb1cbb7dceebb43dafd",
+            "content_html": "مصادر في مستشفيات غزة: 7 شهداء بينهم طفل بنيران قوات الاحتلال الإسرائيلي منذ صباح اليوم 6 منهم في مدينة غزة",
+            "url": "https://t.me/aljazeeraBrk/243968",
+            "title": "مصادر في مستشفيات غزة: 7 شهداء بينهم طفل بنيران قوات الاحتلال الإسرائيلي منذ…",
+            "summary": "مصادر في مستشفيات غزة: 7 شهداء بينهم طفل بنيران قوات الاحتلال الإسرائيلي منذ صباح اليوم 6 منهم في مدينة غزة",
+            "date_modified": "2026-11-10T16:07:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "09eb52b5fce1fb20dbcd5c7019daffbc16d9e00d9c9dc554070573e050c01b1e",
+            "content_html": "مصدر في مستشفى الشفاء بغزة: 3 شهداء إثر غارة إسرائيلية على حي تل الهوى بمدينة غزة",
+            "url": "https://t.me/aljazeeraBrk/243967",
+            "title": "مصدر في مستشفى الشفاء بغزة: 3 شهداء إثر غارة إسرائيلية على حي تل الهوى بمدينة…",
+            "summary": "مصدر في مستشفى الشفاء بغزة: 3 شهداء إثر غارة إسرائيلية على حي تل الهوى بمدينة غزة",
+            "date_modified": "2026-11-10T15:56:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2c3da13801207595c86a3ce8377a34233bb9e1fefa80f523f4434ae2effb68a5",
+            "content_html": "يسرائيل هيوم: حزب يشار قدم مقترحات لإلغاء مشاريع القوانين التي قلصت صلاحيات قضاة المحكمة العليا",
+            "url": "https://t.me/aljazeeraBrk/243966",
+            "title": "يسرائيل هيوم: حزب يشار قدم مقترحات لإلغاء مشاريع القوانين التي قلصت صلاحيات…",
+            "summary": "يسرائيل هيوم: حزب يشار قدم مقترحات لإلغاء مشاريع القوانين التي قلصت صلاحيات قضاة المحكمة العليا",
+            "date_modified": "2026-11-10T15:55:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "1d7e17b9e6f5f16962742b68e6b319b47d6a56f51ee4add91e2601f91740b885",
             "content_html": "يسرائيل هيوم: حزب يشار قدم مشروع قانون لتشكيل لجنة تحقيق رسمية في أحداث 7 أكتوبر",
             "url": "https://t.me/aljazeeraBrk/243965",
@@ -1587,40 +1620,6 @@
             "title": "مستشار قائد القوة الجوفضائية في الحرس الثوري الإيراني: صناعة الصواريخ لدينا…",
             "summary": "مستشار قائد القوة الجوفضائية في الحرس الثوري الإيراني: صناعة الصواريخ لدينا بلغت مرحلة النضج والاكتفاء الذاتي",
             "date_modified": "2026-11-10T04:48:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "5a49d0bfced93f250e368619de8bc4dfc3f99e6601e1cef39b4795b57292df7f",
-            "content_html": "محافظ الكرمك بإقليم النيل الأزرق جنوبي السودان: مقتل 9 في قرية بني شكو إثر استهدافهم بمسيرات الدعم السريع",
-            "url": "https://t.me/aljazeeraBrk/243867",
-            "title": "محافظ الكرمك بإقليم النيل الأزرق جنوبي السودان: مقتل 9 في قرية بني شكو إثر…",
-            "summary": "محافظ الكرمك بإقليم النيل الأزرق جنوبي السودان: مقتل 9 في قرية بني شكو إثر استهدافهم بمسيرات الدعم السريع",
-            "date_modified": "2026-11-10T04:41:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "0aba3c72da1f70126ad6e7e1d44edf154c6071a8b0db163590462659de5fef44",
-            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B85.png')\"><b>⛅️</b></i>حالة الطقس في سوريا 10-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142724",
-            "title": "⛅️حالة الطقس في سوريا 10-11-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…",
-            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B85.png')\"><b>⛅️</b></i>حالة الطقس في سوريا 10-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/ZS1ZR6OdTrvYwee9k3RzNctQDCPKLFnLaEg58KV0R16i9Q5CNbFG_EjnxvWzlYXLf_HJDmWkBHvpP4T6wqDfj8bz364iV98-krPqo-UOyBqKjmsTXdxcja4K9r3RDzQ36Sej3T9HNJuyRngSEvIipCNBjkcrXP85mYWh5y4CDcEPqukC695rTvZRcNAkzPI5YSVzG8v0n71FK6ameC7bN3w6we5QpAec-bqVnWlj7Yoovri_YScKH6BvGA8XoSbqslz84dTjOOOD9xTIoyF6KUv5UpGGXYUyb9GbJgodG6wDwDLTmYPueBT0Vux0T-fw-ZCTPshVK5EaQC9iHF4keA.jpg",
-            "date_modified": "2026-11-10T04:38:56.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "567c8be95311d3e7f2b5c511bed9b7224ac67e7ed3c598fdcd7b4def713e8d37",
-            "content_html": "وسائل إعلام تابعة لجماعة الحوثيين: غارات استهدفت مواقع في العاصمة صنعاء بينها مبنى شركة النفط بمديرية الوحدة",
-            "url": "https://t.me/aljazeeraBrk/243866",
-            "title": "وسائل إعلام تابعة لجماعة الحوثيين: غارات استهدفت مواقع في العاصمة صنعاء بينها…",
-            "summary": "وسائل إعلام تابعة لجماعة الحوثيين: غارات استهدفت مواقع في العاصمة صنعاء بينها مبنى شركة النفط بمديرية الوحدة",
-            "date_modified": "2026-11-10T03:45:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
