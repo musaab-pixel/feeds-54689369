@@ -5,6 +5,61 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "abefc19c71c728647d1e6cb168df46ae90160f6ce502ed9b1b3fcd26f34b0eeb",
+            "content_html": "بدء جلسة أداء اليمين في الكنيست للأعضاء الفائزين في الانتخابات الأخيرة",
+            "url": "https://t.me/aljazeeraBrk/243933",
+            "title": "بدء جلسة أداء اليمين في الكنيست للأعضاء الفائزين في الانتخابات الأخيرة",
+            "summary": "بدء جلسة أداء اليمين في الكنيست للأعضاء الفائزين في الانتخابات الأخيرة",
+            "date_modified": "2026-11-10T14:04:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "9961b702216b7ec29f2107bde948959cc6a30734ad246024830cd8eef272d994",
+            "content_html": "مراسل الجزيرة: قوات الاحتلال تعتقل عددا من عناصر الشرطة الفلسطينية عند مدخل قرية عابا بقضاء جنين شمالي الضفة",
+            "url": "https://t.me/aljazeeraBrk/243931",
+            "title": "مراسل الجزيرة: قوات الاحتلال تعتقل عددا من عناصر الشرطة الفلسطينية عند مدخل…",
+            "summary": "مراسل الجزيرة: قوات الاحتلال تعتقل عددا من عناصر الشرطة الفلسطينية عند مدخل قرية عابا بقضاء جنين شمالي الضفة",
+            "date_modified": "2026-11-10T13:59:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "413c1f3f5bfd951994447f12ee1b7abed9d98475fbb521ed679fe506f012af28",
+            "content_html": "موقع واللا: معسكر التغيير جمع 67 توقيعا لأعضاء في الكنيست يؤيدون عزل رئيس الكنيست الحالي",
+            "url": "https://t.me/aljazeeraBrk/243932",
+            "title": "موقع واللا: معسكر التغيير جمع 67 توقيعا لأعضاء في الكنيست يؤيدون عزل رئيس…",
+            "summary": "موقع واللا: معسكر التغيير جمع 67 توقيعا لأعضاء في الكنيست يؤيدون عزل رئيس الكنيست الحالي",
+            "date_modified": "2026-11-10T13:59:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "ab455869218d9d4be8623f2bb41603bca477d38c210f16fc2fd28e1ecab56b16",
+            "content_html": "حزب يشار: قدمنا طلبا رسميا مدعوما بأكثر من 61 عضوا في الكنيست لاستبدال رئيس الكنيست الحالي",
+            "url": "https://t.me/aljazeeraBrk/243930",
+            "title": "حزب يشار: قدمنا طلبا رسميا مدعوما بأكثر من 61 عضوا في الكنيست لاستبدال رئيس…",
+            "summary": "حزب يشار: قدمنا طلبا رسميا مدعوما بأكثر من 61 عضوا في الكنيست لاستبدال رئيس الكنيست الحالي",
+            "date_modified": "2026-11-10T13:57:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "df3689b7ac5bd6a7e1b66535f7ef64df90cf1bed3338f949c838275236ca8f15",
+            "content_html": "روبيو: تحدثت مع نظيري السعودي بشأن الهجمات التي تتعرض لها بلاده ولدينا اتفاق دفاع مع السعودية",
+            "url": "https://t.me/aljazeeraBrk/243929",
+            "title": "روبيو: تحدثت مع نظيري السعودي بشأن الهجمات التي تتعرض لها بلاده ولدينا اتفاق…",
+            "summary": "روبيو: تحدثت مع نظيري السعودي بشأن الهجمات التي تتعرض لها بلاده ولدينا اتفاق دفاع مع السعودية",
+            "date_modified": "2026-11-10T13:56:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "756859dadf8e7d6a2755372ffce9234aa71997e8414dee8218360812136a0466",
             "content_html": "روبيو: منخرطون في محادثات السلام بين لبنان وإسرائيل ونود أن يستمر انسحاب إسرائيل من جنوب لبنان",
             "url": "https://t.me/aljazeeraBrk/243928",
@@ -1576,59 +1631,6 @@
             "date_modified": "2026-11-09T15:52:06.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "43b153efbe4cd3f744a85f84ab30774614d74a92dfeae7abba30108960fa5b9a",
-            "content_html": "الخارجية الأمريكية: روبيو بحث مع نظيره الفرنسي الوضع في الشرق الأوسط وجهود تسوية سلمية بين روسيا وأوكرانيا",
-            "url": "https://t.me/aljazeeraBrk/243755",
-            "title": "الخارجية الأمريكية: روبيو بحث مع نظيره الفرنسي الوضع في الشرق الأوسط وجهود…",
-            "summary": "الخارجية الأمريكية: روبيو بحث مع نظيره الفرنسي الوضع في الشرق الأوسط وجهود تسوية سلمية بين روسيا وأوكرانيا",
-            "date_modified": "2026-11-09T15:46:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "902f80603576848d1497c44d4b80c3cbe4d724288e06ac4482335e99c3870887",
-            "content_html": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">دعت القيادة المركزية لتحالف القوى الفلسطينية إلى تنظيم أوسع تحرك شعبي ودولي تضامناً مع قطاع غزة، أيام الجمعة والسبت والأحد، 13 و14 و15 تشرين الثاني/نوفمبر </span></span></span><span lang=\"AR-LB\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">الجاري</span></span></span><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">، تحت شعار: \"أنقذوا غزة… أوقفوا العدوان والحصار والتجويع\"، في ظل تفاقم الكارثة الإنسانية واستمرار العدوان والحصار وإغلاق المعابر</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وقالت القيادة المركزية، في بيان اليوم الاثنين 9 تشرين الثاني/ نوفمبر، إن الدعوة تأتي في ظل ما يعيشه الفلسطينيون في قطاع غزة من قتل وتهجير وتجويع وتدمير ممنهج، وحرمان من أبسط مقومات الحياة، محذرة من ازدياد معاناتهم مع حلول فصل الشتاء واستمرار نقص الغذاء والدواء والوقود والمساعدات الإنسانية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكد البيان أن استمرار الحصار وإغلاق المعابر ومنع إدخال المساعدات والمواد الغذائية والطبية والوقود، إلى جانب استهداف البنية التحتية ومقومات الحياة، يشكّل انتهاكاً صارخاً للقانون الدولي الإنساني، ويضع المجتمع الدولي أمام مسؤولياته السياسية والأخلاقية والقانونية تجاه الشعب الفلسطيني</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وطالب التحالف بوقف عدوان الاحتلال المتواصل على قطاع غزة، وإنهاء الحصار وفتح المعابر بصورة دائمة، وضمان تدفق المساعدات الإنسانية والإغاثية والطبية والوقود من دون قيود</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما دعا الأمم المتحدة والمؤسسات الدولية والمنظمات الإنسانية والحقوقية إلى تحرك عاجل لحماية المدنيين، وتوفير الاحتياجات الأساسية للفلسطينيين في القطاع، والعمل على محاسبة المسؤولين عن الجرائم والانتهاكات المرتكبة بحقهم</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وطالب البيان الحكومات العربية والإسلامية وسائر حكومات العالم باتخاذ خطوات عملية وفورية للضغط من أجل وقف العدوان وإنهاء الحصار، وعدم الاكتفاء ببيانات الإدانة والتعبير عن القلق، في وقت تتسع فيه تداعيات الكارثة الإنسانية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ودعا التحالف القوى الشعبية والنقابية والطلابية والحقوقية، والمنظمات الإنسانية والجاليات الفلسطينية والعربية والإسلامية وأحرار العالم، إلى تنظيم المسيرات والاعتصامات والوقفات التضامنية أمام السفارات والمؤسسات الدولية وفي الساحات والميادين العامة، خلال أيام التحرك الثلاثة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وحثّ وسائل الإعلام والمنصات الإعلامية والناشطين والمؤثرين على تكثيف تغطية معاناة الفلسطينيين في غزة، وكشف تداعيات الحصار والتجويع والعدوان، وإبقاء المأساة الإنسانية حاضرة أمام الرأي العام العالمي</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكدت القيادة المركزية لتحالف القوى الفلسطينية أن الأيام العالمية الثلاثة يُراد لها أن تشكّل محطة لتحرك شعبي وإنساني واسع، تتوحد خلالها أصوات المتضامنين في مختلف دول العالم للمطالبة بإنقاذ سكان غزة، وتوفير مقومات الحياة الكريمة لهم، ووقف العدوان وكسر الحصار</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وشددت على أن التضامن مع غزة لا ينبغي أن يقتصر على التعاطف والبيانات، بل يتطلب تحركاً عملياً متواصلاً يحوّل المواقف إلى ضغوط وخطوات ومبادرات إنسانية فاعلة، مؤكدة أن القطاع، الذي قدّم تضحيات كبيرة وصمد في مواجهة العدوان، لا يجوز أن يُترك وحيداً أمام الموت والجوع والبرد والدمار</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>",
-            "url": "https://refugeesps.net/post/37731/%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A7%D9%84%D9%82%D9%88%D9%89-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%8A%D8%AF%D8%B9%D9%88-%D8%A5%D9%84%D9%89-%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%84%D9%86%D8%B5%D8%B1%D8%A9-%D8%BA%D8%B2%D8%A9-%D9%88%D9%83%D8%B3%D8%B1-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1",
-            "title": "تحالف القوى الفلسطينية يدعو إلى ثلاثة أيام عالمية لنصرة غزة وكسر الحصار",
-            "summary": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">دعت القيادة المركزية لتحالف القوى الفلسطينية إلى تنظيم أوسع تحرك شعبي ودولي تضامناً مع قطاع غزة، أيام الجمعة والسبت والأحد، 13 و14 و15 تشرين الثاني/نوفمبر </span></span></span><span lang=\"AR-LB\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">الجاري</span></span></span><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">، تحت شعار: \"أنقذوا غزة… أوقفوا العدوان والحصار والتجويع\"، في ظل تفاقم الكارثة الإنسانية واستمرار العدوان والحصار وإغلاق المعابر</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وقالت القيادة المركزية، في بيان اليوم الاثنين 9 تشرين الثاني/ نوفمبر، إن الدعوة تأتي في ظل ما يعيشه الفلسطينيون في قطاع غزة من قتل وتهجير وتجويع وتدمير ممنهج، وحرمان من أبسط مقومات الحياة، محذرة من ازدياد معاناتهم مع حلول فصل الشتاء واستمرار نقص الغذاء والدواء والوقود والمساعدات الإنسانية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكد البيان أن استمرار الحصار وإغلاق المعابر ومنع إدخال المساعدات والمواد الغذائية والطبية والوقود، إلى جانب استهداف البنية التحتية ومقومات الحياة، يشكّل انتهاكاً صارخاً للقانون الدولي الإنساني، ويضع المجتمع الدولي أمام مسؤولياته السياسية والأخلاقية والقانونية تجاه الشعب الفلسطيني</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وطالب التحالف بوقف عدوان الاحتلال المتواصل على قطاع غزة، وإنهاء الحصار وفتح المعابر بصورة دائمة، وضمان تدفق المساعدات الإنسانية والإغاثية والطبية والوقود من دون قيود</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما دعا الأمم المتحدة والمؤسسات الدولية والمنظمات الإنسانية والحقوقية إلى تحرك عاجل لحماية المدنيين، وتوفير الاحتياجات الأساسية للفلسطينيين في القطاع، والعمل على محاسبة المسؤولين عن الجرائم والانتهاكات المرتكبة بحقهم</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وطالب البيان الحكومات العربية والإسلامية وسائر حكومات العالم باتخاذ خطوات عملية وفورية للضغط من أجل وقف العدوان وإنهاء الحصار، وعدم الاكتفاء ببيانات الإدانة والتعبير عن القلق، في وقت تتسع فيه تداعيات الكارثة الإنسانية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">ودعا التحالف القوى الشعبية والنقابية والطلابية والحقوقية، والمنظمات الإنسانية والجاليات الفلسطينية والعربية والإسلامية وأحرار العالم، إلى تنظيم المسيرات والاعتصامات والوقفات التضامنية أمام السفارات والمؤسسات الدولية وفي الساحات والميادين العامة، خلال أيام التحرك الثلاثة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وحثّ وسائل الإعلام والمنصات الإعلامية والناشطين والمؤثرين على تكثيف تغطية معاناة الفلسطينيين في غزة، وكشف تداعيات الحصار والتجويع والعدوان، وإبقاء المأساة الإنسانية حاضرة أمام الرأي العام العالمي</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكدت القيادة المركزية لتحالف القوى الفلسطينية أن الأيام العالمية الثلاثة يُراد لها أن تشكّل محطة لتحرك شعبي وإنساني واسع، تتوحد خلالها أصوات المتضامنين في مختلف دول العالم للمطالبة بإنقاذ سكان غزة، وتوفير مقومات الحياة الكريمة لهم، ووقف العدوان وكسر الحصار</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وشددت على أن التضامن مع غزة لا ينبغي أن يقتصر على التعاطف والبيانات، بل يتطلب تحركاً عملياً متواصلاً يحوّل المواقف إلى ضغوط وخطوات ومبادرات إنسانية فاعلة، مؤكدة أن القطاع، الذي قدّم تضحيات كبيرة وصمد في مواجهة العدوان، لا يجوز أن يُترك وحيداً أمام الموت والجوع والبرد والدمار</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>",
-            "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/11/SEwtt.jpeg",
-            "date_modified": "2026-11-09T15:37:30.511Z"
-        },
-        {
-            "id": "8d6e63382bdf3f33dd4107549ec331a853d8b453400ddf7e7656c2d0acc738f2",
-            "content_html": "رئيسة المفوضية الأوروبية: وقف إطلاق النار في أوكرانيا يجب أن يسبق أي نقاش يخص الترتيبات الأمنية في أوروبا",
-            "url": "https://t.me/aljazeeraBrk/243754",
-            "title": "رئيسة المفوضية الأوروبية: وقف إطلاق النار في أوكرانيا يجب أن يسبق أي نقاش يخص…",
-            "summary": "رئيسة المفوضية الأوروبية: وقف إطلاق النار في أوكرانيا يجب أن يسبق أي نقاش يخص الترتيبات الأمنية في أوروبا",
-            "date_modified": "2026-11-09T15:31:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "069bffa95521529f52f6a2d22e336d255455a0a1285f057a77bbf43e42c2bcb2",
-            "content_html": "واس: وزيرا خارجية السعودية وعمان بحثا هاتفيا الأوضاع الإقليمية وأكدا ضرورة مواصلة الدبلوماسية لاحتواء الأزمة",
-            "url": "https://t.me/aljazeeraBrk/243753",
-            "title": "واس: وزيرا خارجية السعودية وعمان بحثا هاتفيا الأوضاع الإقليمية وأكدا ضرورة…",
-            "summary": "واس: وزيرا خارجية السعودية وعمان بحثا هاتفيا الأوضاع الإقليمية وأكدا ضرورة مواصلة الدبلوماسية لاحتواء الأزمة",
-            "date_modified": "2026-11-09T15:30:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "921af7543f38880885115affbab6014e8361fdab03547de493d3681397f42d97",
-            "content_html": "نتنياهو: مستعد للدخول في نقاش مع أي طرف لبحث تشكيل حكومة وحدة وطنية وهو أمر يعد ضرورة قصوى",
-            "url": "https://t.me/aljazeeraBrk/243752",
-            "title": "نتنياهو: مستعد للدخول في نقاش مع أي طرف لبحث تشكيل حكومة وحدة وطنية وهو أمر يعد…",
-            "summary": "نتنياهو: مستعد للدخول في نقاش مع أي طرف لبحث تشكيل حكومة وحدة وطنية وهو أمر يعد ضرورة قصوى",
-            "date_modified": "2026-11-09T15:24:01.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
