@@ -4,7 +4,7 @@
         <title>afd.fr</title>
         <link>https://www.afd.fr/rss.xml</link>
         <description>RSS Factory feed "afd.fr" (type: native)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 14:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 15:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2008,104 +2008,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2012 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/soutien-la-feuille-de-route-education-2022-2026" class="fr-card__link">Soutien à la Feuille de route éducation 2022-2026</a>
               </h3>
       
@@ -2250,6 +2152,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati" class="fr-card__link">Appui à la stratégie Forêts du Maroc 2020-2030 – «Ghabati, Hayati»</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2022 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 103 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati.jpg.webp?itok=vI9dcyX2" width="715" height="402" alt>
 
 
 
@@ -2587,6 +2574,189 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Infrastructures
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2012 - 2029</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/inspiree-efficacite-energetique-des-batiments-publics" class="fr-card__link">Efficacité énergétique des bâtiments publics</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2040</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 30 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=BKuZNsXa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati" class="fr-card__link">Appui à la stratégie Forêts du Maroc 2020-2030 – «Ghabati, Hayati»</a>
               </h3>
       
@@ -2633,189 +2803,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati.jpg.webp?itok=vI9dcyX2" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques" class="fr-card__link">Irrigation durable et adaptation de l’agriculture oasienne aux changements climatiques</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2017 - 2024</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra" class="fr-card__link">La ligne ferroviaire à grande vitesse (LGV) entre Tanger et Kénitra</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2012 - 2037</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 300 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra.jpg.webp?itok=q6goJyGA" width="715" height="402" alt>
 
 
 
@@ -2951,104 +2938,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2012 - 2029</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/soutien-la-feuille-de-route-education-2022-2026" class="fr-card__link">Soutien à la Feuille de route éducation 2022-2026</a>
               </h3>
       
@@ -3193,6 +3082,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati" class="fr-card__link">Appui à la stratégie Forêts du Maroc 2020-2030 – «Ghabati, Hayati»</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2022 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 103 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati.jpg.webp?itok=vI9dcyX2" width="715" height="402" alt>
 
 
 
@@ -3530,6 +3504,189 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Infrastructures
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2012 - 2029</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/inspiree-efficacite-energetique-des-batiments-publics" class="fr-card__link">Efficacité énergétique des bâtiments publics</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2040</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 30 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=BKuZNsXa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati" class="fr-card__link">Appui à la stratégie Forêts du Maroc 2020-2030 – «Ghabati, Hayati»</a>
               </h3>
       
@@ -3576,189 +3733,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati.jpg.webp?itok=vI9dcyX2" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques" class="fr-card__link">Irrigation durable et adaptation de l’agriculture oasienne aux changements climatiques</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2017 - 2024</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra" class="fr-card__link">La ligne ferroviaire à grande vitesse (LGV) entre Tanger et Kénitra</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Mobilités et transports
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2012 - 2037</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 300 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra.jpg.webp?itok=q6goJyGA" width="715" height="402" alt>
 
 
 
@@ -5803,7 +5777,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/extension-de-la-deuxieme-ligne-du-reseau-de-tramway-de-rabat-sale" class="fr-card__link">Extension de la deuxième ligne du réseau de tramway de Rabat-Salé</a>
+                  <a href="https://www.afd.fr/fr/projets/soutien-la-feuille-de-route-education-2022-2026" class="fr-card__link">Soutien à la Feuille de route éducation 2022-2026</a>
               </h3>
       
               <div class="fr-card__start">
@@ -5815,7 +5789,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Villes durables
+    Éducation et formation
   </p>
 
       </div>
@@ -5833,14 +5807,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2017 - 2037</p>
+          <p class="fr-card__detail">2023 - 2027</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 40 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 134 700 000 €</p>
               </div>
                   </div>
                       </div>
@@ -5848,7 +5822,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/extension-de-la-deuxieme-ligne-du-reseau-de-tramway-de-rabat-sale.jpg.webp?itok=SQ3G-j9X" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-feuille-de-route-education-2022-2026.jpg.webp?itok=OqvFAD7S" width="715" height="402" alt>
 
 
 
@@ -5888,92 +5862,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-des-regies-multiservices" class="fr-card__link">Appui des régies multiservices</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2022 - 2030</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 118 800 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-des-regies-multiservices.jpg.webp?itok=IXvvrHaH" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
+                  <a href="https://www.afd.fr/fr/projets/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques" class="fr-card__link">Irrigation durable et adaptation de l’agriculture oasienne aux changements climatiques</a>
               </h3>
       
               <div class="fr-card__start">
@@ -5986,7 +5875,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
+    Agriculture et développement rural
   </p>
 
       </li>
@@ -5997,7 +5886,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
+    Climat
   </p>
 
       </li>
@@ -6010,20 +5899,20 @@
 
 
 <p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
+      Achevé
 </p>
 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2012 - 2029</p>
+          <p class="fr-card__detail">2017 - 2024</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -6031,7 +5920,92 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati" class="fr-card__link">Appui à la stratégie Forêts du Maroc 2020-2030 – «Ghabati, Hayati»</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2022 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 103 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati.jpg.webp?itok=vI9dcyX2" width="715" height="402" alt>
 
 
 
@@ -6454,7 +6428,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/extension-de-la-deuxieme-ligne-du-reseau-de-tramway-de-rabat-sale" class="fr-card__link">Extension de la deuxième ligne du réseau de tramway de Rabat-Salé</a>
+                  <a href="https://www.afd.fr/fr/projets/soutien-la-feuille-de-route-education-2022-2026" class="fr-card__link">Soutien à la Feuille de route éducation 2022-2026</a>
               </h3>
       
               <div class="fr-card__start">
@@ -6466,7 +6440,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Villes durables
+    Éducation et formation
   </p>
 
       </div>
@@ -6484,14 +6458,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2017 - 2037</p>
+          <p class="fr-card__detail">2023 - 2027</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 40 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 134 700 000 €</p>
               </div>
                   </div>
                       </div>
@@ -6499,7 +6473,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/extension-de-la-deuxieme-ligne-du-reseau-de-tramway-de-rabat-sale.jpg.webp?itok=SQ3G-j9X" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-feuille-de-route-education-2022-2026.jpg.webp?itok=OqvFAD7S" width="715" height="402" alt>
 
 
 
@@ -6539,92 +6513,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-des-regies-multiservices" class="fr-card__link">Appui des régies multiservices</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2022 - 2030</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 118 800 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-des-regies-multiservices.jpg.webp?itok=IXvvrHaH" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
+                  <a href="https://www.afd.fr/fr/projets/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques" class="fr-card__link">Irrigation durable et adaptation de l’agriculture oasienne aux changements climatiques</a>
               </h3>
       
               <div class="fr-card__start">
@@ -6637,7 +6526,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Énergie
+    Agriculture et développement rural
   </p>
 
       </li>
@@ -6648,7 +6537,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Infrastructures
+    Climat
   </p>
 
       </li>
@@ -6661,20 +6550,20 @@
 
 
 <p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
+      Achevé
 </p>
 
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2012 - 2029</p>
+          <p class="fr-card__detail">2017 - 2024</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -6682,7 +6571,92 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati" class="fr-card__link">Appui à la stratégie Forêts du Maroc 2020-2030 – «Ghabati, Hayati»</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2022 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 103 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-strategie-forets-du-maroc-2020-2030-ghabati-hayati.jpg.webp?itok=vI9dcyX2" width="715" height="402" alt>
 
 
 
@@ -101717,6 +101691,1309 @@ Alexis Ghosn (Expertise France)    91    12    En cours d’attribution    Docum
             <author>cataneseb@afd.fr</author>
         </item>
         <item>
+            <title><![CDATA[Energy efficiency in public buildings - INSPIREE]]></title>
+            <link>https://www.afd.fr/en/projects/energy-efficiency-public-buildings-inspiree</link>
+            <guid isPermaLink="false">b1a7b661d46325ceb33fd09fe3e0f8de8bbedfeacce8d952f92399ece7047f18</guid>
+            <pubDate>Mon, 05 Oct 2026 09:57:11 GMT</pubDate>
+            <description><![CDATA[INSPIREE – Efficacité énergétique des bâtiments publics
+<span><span>yollum@afd.fr</span></span>
+<time datetime="2026-11-10T14:31:55+01:00" title="Mardi 10 novembre 2026 - 14:31">mar 10/11/2026 - 14:31</time>
+    Efficacité énergétique des bâtiments publics    <time datetime="2026-11-10T12:00:00Z">10 novembre 2026</time>
+    Désactivé    CMD 1013    <a href="https://www.afd.fr/fr/taxonomy/term/27" hreflang="fr">En cours</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1087" hreflang="fr">Moldavie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/43" hreflang="fr">Énergie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/43" hreflang="fr">Énergie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1087" hreflang="fr">Moldavie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2950" hreflang="fr">Énergie propre et d'un coût abordable</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2934" hreflang="fr">Prêt souverain</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=SuX7rXxy" width="792" height="450" alt>
+
+
+    Dans un contexte où la Moldavie s’est engagée à réduire l’intensité énergétique du pays, le projet INSPIREE vise à améliorer l’efficacité énergétique des bâtiments publics et l’accès aux services pu-blics, grâce à la rénovation des bâtiments de l’enseignement supérieur et du secteur de la santé.    
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83485" class="print-title">Context</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>La République de Moldavie est fortement dépendante des importations pour son approvisionnement énergétique : en 2021, elles représentaient près de 85 % de sa consommation totale d’énergie. Cette situation constitue un défi géopolitique et socio-économique majeur. Dans sa Contribution déterminée au niveau national (CDN) révisée, la Moldavie prévoit ainsi de réduire de 10 % l’intensité énergétique et d’améliorer de 2 % par an l’efficacité énergétique.</p>
+<p>Le secteur du bâtiment représente 55 % de la consommation finale d’énergie du pays. Les bâtiments publics, majoritairement construits à l’époque soviétique, sont particulièrement énergivores et nécessitent d’importants travaux de rénovation pour améliorer leur confort et leur résilience face aux risques climatiques, notamment aux vagues de chaleur et au froid.</p>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83486" class="print-title">Description</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p class="Intertitre">Le projet vise à contribuer à la sécurité énergétique de la Moldavie et à améliorer les services publics grâce à la rénovation énergétique des bâtiments publics.&nbsp;</p>
+<p class="Intertitre">Les objectifs spécifiques sont les suivants :</p>
+<ul>
+<li>
+<p class="Intertitre">Améliorer l’efficacité énergétique des bâtiments publics ;&nbsp;</p>
+</li>
+<li>
+<p class="Intertitre">Réduire les dépenses publiques liées à leur approvisionnement énergétique ;</p>
+</li>
+<li>
+<p class="Intertitre">Améliorer l’accès aux services publics dans les bâtiments rénovés ;</p>
+</li>
+<li>
+<p class="Intertitre">Renforcer la résilience des bâtiments publics face aux événements climatiques extrêmes.</p>
+</li>
+</ul>
+<p class="Intertitre">Le projet portera sur la rénovation des infrastructures sociales des secteurs de l’éducation et de la santé, notamment des établissements scolaires et leurs internats, ainsi que des hôpitaux régionaux. Il comprend également une assistance technique pour accompagner sa mise en œuvre, renforcer les capacités institutionnelles et garantir la pérennité des résultats.</p>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83487" class="print-title">Résultats</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p class="Intertitre">Les principaux résultats attendus sont les suivants :</p>
+<ul>
+<li>12,3 GWh/an d’économies d’énergie, soit une réduction moyenne de 60 % sur près de 100 000 m² de bâtiments rénovés ;</li>
+<li>4,2 kt éq. CO₂/an d’émissions de gaz à effet de serre évitées ;</li>
+<li>2 M€/an d’économies sur les dépenses publiques liées aux factures énergétiques ;</li>
+<li>200 000 bénéficiaires, dont 65 % de femmes, avec une amélioration du confort thermique et de l’accès aux services ;</li>
+<li>Une meilleure résilience des bâtiments, notamment grâce à une réduction de la consommation d’eau ;</li>
+<li>
+<p class="Textecourant">La création d’emplois décents dans le secteur de la construction.</p>
+</li>
+</ul>
+
+  </div>
+</div>    <time datetime="2025-03-10T12:00:00Z">10 mars 2025</time>
+    <time datetime="2040-03-10T12:00:00Z">10 mars 2040</time>
+      <div class="card-project afd card-project--color">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
+			Dans la même région
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-de-developpement-integre-de-agriculture-et-de-irrigation" class="fr-card__link">Programme de développement intégré de l’agriculture et de l’irrigation</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Agriculture et développement rural
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 45 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-de-developpement-integre-de-agriculture-et-de-irrigation.jpg.webp?itok=jo35nphq" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/inspiree-efficacite-energetique-des-batiments-publics" class="fr-card__link">Efficacité énergétique des bâtiments publics</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2040</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 30 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=BKuZNsXa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-de-reforme-du-secteur-forestier" class="fr-card__link">Programme de Réforme du Secteur Forestier</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2039</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 200 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/forestry-sector-reform-program.jpg.webp?itok=MTh68fy0" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+  <div class="card-project afd card-project--color">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
+			Sur le même thème
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Infrastructures
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2012 - 2029</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/inspiree-efficacite-energetique-des-batiments-publics" class="fr-card__link">Efficacité énergétique des bâtiments publics</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2040</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 30 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=BKuZNsXa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+    Moldavie    <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    30 000 000    €    15 ans    République de Moldavie  
+  <div>Adresse</div>  <a href="https://www.afd.fr/fr/taxonomy/term/3141" hreflang="fr">Agence AFD Sud-Caucase</a>]]></description>
+            <content:encoded><![CDATA[INSPIREE – Efficacité énergétique des bâtiments publics
+<span><span>yollum@afd.fr</span></span>
+<time datetime="2026-11-10T14:31:55+01:00" title="Mardi 10 novembre 2026 - 14:31">mar 10/11/2026 - 14:31</time>
+    Efficacité énergétique des bâtiments publics    <time datetime="2026-11-10T12:00:00Z">10 novembre 2026</time>
+    Désactivé    CMD 1013    <a href="https://www.afd.fr/fr/taxonomy/term/27" hreflang="fr">En cours</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1087" hreflang="fr">Moldavie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/43" hreflang="fr">Énergie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/43" hreflang="fr">Énergie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1087" hreflang="fr">Moldavie</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2950" hreflang="fr">Énergie propre et d'un coût abordable</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2934" hreflang="fr">Prêt souverain</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=SuX7rXxy" width="792" height="450" alt>
+
+
+    Dans un contexte où la Moldavie s’est engagée à réduire l’intensité énergétique du pays, le projet INSPIREE vise à améliorer l’efficacité énergétique des bâtiments publics et l’accès aux services pu-blics, grâce à la rénovation des bâtiments de l’enseignement supérieur et du secteur de la santé.    
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83485" class="print-title">Context</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>La République de Moldavie est fortement dépendante des importations pour son approvisionnement énergétique : en 2021, elles représentaient près de 85 % de sa consommation totale d’énergie. Cette situation constitue un défi géopolitique et socio-économique majeur. Dans sa Contribution déterminée au niveau national (CDN) révisée, la Moldavie prévoit ainsi de réduire de 10 % l’intensité énergétique et d’améliorer de 2 % par an l’efficacité énergétique.</p>
+<p>Le secteur du bâtiment représente 55 % de la consommation finale d’énergie du pays. Les bâtiments publics, majoritairement construits à l’époque soviétique, sont particulièrement énergivores et nécessitent d’importants travaux de rénovation pour améliorer leur confort et leur résilience face aux risques climatiques, notamment aux vagues de chaleur et au froid.</p>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83486" class="print-title">Description</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p class="Intertitre">Le projet vise à contribuer à la sécurité énergétique de la Moldavie et à améliorer les services publics grâce à la rénovation énergétique des bâtiments publics.&nbsp;</p>
+<p class="Intertitre">Les objectifs spécifiques sont les suivants :</p>
+<ul>
+<li>
+<p class="Intertitre">Améliorer l’efficacité énergétique des bâtiments publics ;&nbsp;</p>
+</li>
+<li>
+<p class="Intertitre">Réduire les dépenses publiques liées à leur approvisionnement énergétique ;</p>
+</li>
+<li>
+<p class="Intertitre">Améliorer l’accès aux services publics dans les bâtiments rénovés ;</p>
+</li>
+<li>
+<p class="Intertitre">Renforcer la résilience des bâtiments publics face aux événements climatiques extrêmes.</p>
+</li>
+</ul>
+<p class="Intertitre">Le projet portera sur la rénovation des infrastructures sociales des secteurs de l’éducation et de la santé, notamment des établissements scolaires et leurs internats, ainsi que des hôpitaux régionaux. Il comprend également une assistance technique pour accompagner sa mise en œuvre, renforcer les capacités institutionnelles et garantir la pérennité des résultats.</p>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83487" class="print-title">Résultats</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p class="Intertitre">Les principaux résultats attendus sont les suivants :</p>
+<ul>
+<li>12,3 GWh/an d’économies d’énergie, soit une réduction moyenne de 60 % sur près de 100 000 m² de bâtiments rénovés ;</li>
+<li>4,2 kt éq. CO₂/an d’émissions de gaz à effet de serre évitées ;</li>
+<li>2 M€/an d’économies sur les dépenses publiques liées aux factures énergétiques ;</li>
+<li>200 000 bénéficiaires, dont 65 % de femmes, avec une amélioration du confort thermique et de l’accès aux services ;</li>
+<li>Une meilleure résilience des bâtiments, notamment grâce à une réduction de la consommation d’eau ;</li>
+<li>
+<p class="Textecourant">La création d’emplois décents dans le secteur de la construction.</p>
+</li>
+</ul>
+
+  </div>
+</div>    <time datetime="2025-03-10T12:00:00Z">10 mars 2025</time>
+    <time datetime="2040-03-10T12:00:00Z">10 mars 2040</time>
+      <div class="card-project afd card-project--color">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
+			Dans la même région
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-de-developpement-integre-de-agriculture-et-de-irrigation" class="fr-card__link">Programme de développement intégré de l’agriculture et de l’irrigation</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Agriculture et développement rural
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 45 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-de-developpement-integre-de-agriculture-et-de-irrigation.jpg.webp?itok=jo35nphq" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/inspiree-efficacite-energetique-des-batiments-publics" class="fr-card__link">Efficacité énergétique des bâtiments publics</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2040</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 30 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=BKuZNsXa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-de-reforme-du-secteur-forestier" class="fr-card__link">Programme de Réforme du Secteur Forestier</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2039</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 200 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/forestry-sector-reform-program.jpg.webp?itok=MTh68fy0" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+  <div class="card-project afd card-project--color">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
+			Sur le même thème
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/renforcement-du-reseau-electrique" class="fr-card__link">Renforcement du réseau électrique</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Infrastructures
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2012 - 2029</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 57 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/renforcement-du-reseau-electrique.jpg.webp?itok=3-iL94LG" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/inspiree-efficacite-energetique-des-batiments-publics" class="fr-card__link">Efficacité énergétique des bâtiments publics</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2040</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Moldavie</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 30 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/energy-efficiency-public-buildings-inspiree.jpg.webp?itok=BKuZNsXa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-wasuna-water-and-sun-alliance" class="fr-card__link">Programme WASUNA – Water and Sun Alliance</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Énergie
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2032</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 130 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-wasuna-water-and-sun-alliance.jpg.webp?itok=OVmbiC9B" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+    Moldavie    <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    30 000 000    €    15 ans    République de Moldavie  
+  <div>Adresse</div>  <a href="https://www.afd.fr/fr/taxonomy/term/3141" hreflang="fr">Agence AFD Sud-Caucase</a>]]></content:encoded>
+            <author>evof@afd.fr</author>
+        </item>
+        <item>
             <title><![CDATA[Programme de développement intégré de l’agriculture et de l’irrigation (iDRIP)]]></title>
             <link>https://www.afd.fr/fr/projets/programme-de-developpement-integre-de-agriculture-et-de-irrigation</link>
             <guid isPermaLink="false">f282db5bdac02d74530842d92bd6f9890ab7c1943989302a4d96faa6145f1f53</guid>
@@ -155831,61 +157108,6 @@ Il illustre pleinement ce que la Team Europe peut accomplir lorsque l’Union eu
 
   
 <a href="https://www.afd.fr/sites/default/files/2026-09/king_leila_20260906_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    king_leila_20260906_signee.pdf <span class="fr-link__detail">87.23 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-06T12:00:00Z">dim 06/09/2026 - 12:00</time>
-]]></content:encoded>
-            <author>constantv@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[BOUCHER_Sandrine_20260906_signée]]></title>
-            <link>https://www.afd.fr/fr/node/15199</link>
-            <guid isPermaLink="false">74722923cce17792c37b3cb356149ace29601c0b32e718d08bd3b89cb5f6429c</guid>
-            <pubDate>Sun, 06 Sep 2026 20:38:03 GMT</pubDate>
-            <description><![CDATA[BOUCHER_Sandrine_20260906_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-06T22:38:03+02:00" title="Dimanche 6 septembre 2026 - 22:38">dim 06/09/2026 - 22:38</time>
-    <time datetime="2026-09-06T12:00:00Z">6 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/boucher_sandrine_20260906_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    boucher_sandrine_20260906_signee.pdf <span class="fr-link__detail">104.94 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-06T12:00:00Z">dim 06/09/2026 - 12:00</time>
-]]></description>
-            <content:encoded><![CDATA[BOUCHER_Sandrine_20260906_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-06T22:38:03+02:00" title="Dimanche 6 septembre 2026 - 22:38">dim 06/09/2026 - 22:38</time>
-    <time datetime="2026-09-06T12:00:00Z">6 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/boucher_sandrine_20260906_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    boucher_sandrine_20260906_signee.pdf <span class="fr-link__detail">104.94 Ko</span>
   </a>
 
 
