@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 10:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 11:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود…]]></title>
+            <link>https://t.me/aljazeeraBrk/244031</link>
+            <guid isPermaLink="false">150573fab233c01ed19c713794fda6b556dd68f4f0f79167471046656e0fcf6c</guid>
+            <pubDate>Wed, 11 Nov 2026 10:57:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود قنابل]]></description>
+            <content:encoded><![CDATA[رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود قنابل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إنترفاكس عن مصدر روسي: اختتام المفاوضات الثلاثية في أبوظبي بشأن التسوية…]]></title>
             <link>https://t.me/aljazeeraBrk/244030</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 13:46:03 GMT</pubDate>
             <description><![CDATA[السفير العراقي في طهران: زيارة رئيس الوزراء إلى إيران تأتي في إطار تحرك دبلوماسي لخفض التوتر ومنع التصعيد]]></description>
             <content:encoded><![CDATA[السفير العراقي في طهران: زيارة رئيس الوزراء إلى إيران تأتي في إطار تحرك دبلوماسي لخفض التوتر ومنع التصعيد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة فارس عن مصدر: قاليباف أكد لرئيس وزراء العراق ضرورة احترام أمريكا لحقوق…]]></title>
-            <link>https://t.me/aljazeeraBrk/243746</link>
-            <guid isPermaLink="false">411534cd10ce77d681ea0fd63e12a21f380f484415bf5b2f3009783be9322687</guid>
-            <pubDate>Mon, 09 Nov 2026 13:45:02 GMT</pubDate>
-            <description><![CDATA[وكالة فارس عن مصدر: قاليباف أكد لرئيس وزراء العراق ضرورة احترام أمريكا لحقوق إيران للمضي قدما بالمفاوضات]]></description>
-            <content:encoded><![CDATA[وكالة فارس عن مصدر: قاليباف أكد لرئيس وزراء العراق ضرورة احترام أمريكا لحقوق إيران للمضي قدما بالمفاوضات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
