@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 10:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 10:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحرس الثوري الإيراني: انفجارات في ناقلتي نفط الليلة الماضية إثر اصطدامهما…]]></title>
+            <link>https://t.me/aljazeeraBrk/244029</link>
+            <guid isPermaLink="false">6ea6b535460d25a3ad5ef3cf2a36cd05d1f204582b8be9441d5c650b4a503ccf</guid>
+            <pubDate>Wed, 11 Nov 2026 10:22:02 GMT</pubDate>
+            <description><![CDATA[الحرس الثوري الإيراني: انفجارات في ناقلتي نفط الليلة الماضية إثر اصطدامهما بألغام في مسار غير آمن بمضيق هرمز]]></description>
+            <content:encoded><![CDATA[الحرس الثوري الإيراني: انفجارات في ناقلتي نفط الليلة الماضية إثر اصطدامهما بألغام في مسار غير آمن بمضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام إسرائيلية: تعليق الرحلات في مطار رامون بإيلات إثر هزة أرضية بقوة…]]></title>
             <link>https://t.me/aljazeeraBrk/244028</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 13:44:02 GMT</pubDate>
             <description><![CDATA[وكالة فارس عن مصدر: رئيس الوزراء العراقي زار طهران الجمعة والتقى رئيس البرلمان قاليباف]]></description>
             <content:encoded><![CDATA[وكالة فارس عن مصدر: رئيس الوزراء العراقي زار طهران الجمعة والتقى رئيس البرلمان قاليباف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[جمعية عير عاميم الإسرائيلية: 6 أحياء فلسطينية في القدس الشرقية تواجه خطر التهجير]]></title>
-            <link>https://t.me/aljazeeraBrk/243744</link>
-            <guid isPermaLink="false">13fcb6e392c69258c4bd399ad1c96fbd079848b8cf36a030c1288694033bf180</guid>
-            <pubDate>Mon, 09 Nov 2026 13:21:03 GMT</pubDate>
-            <description><![CDATA[جمعية عير عاميم الإسرائيلية: 6 أحياء فلسطينية في القدس الشرقية تواجه خطر التهجير]]></description>
-            <content:encoded><![CDATA[جمعية عير عاميم الإسرائيلية: 6 أحياء فلسطينية في القدس الشرقية تواجه خطر التهجير]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
