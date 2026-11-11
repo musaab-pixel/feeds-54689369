@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 11:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 11:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين بحي الشيخ…]]></title>
+            <link>https://t.me/aljazeeraBrk/244043</link>
+            <guid isPermaLink="false">88744856a54528f90dfa08d34aa659f263174347196717daf8000a8459822b01</guid>
+            <pubDate>Wed, 11 Nov 2026 11:41:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين بحي الشيخ رضوان شمالي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين بحي الشيخ رضوان شمالي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كوشنر: سأتوجه الخميس رفقة ويتكوف إلى موسكو للقاء بوتين ثم إلى دبلن للقاء زيلنسكي]]></title>
             <link>https://t.me/aljazeeraBrk/244042</link>
@@ -1759,15 +1768,6 @@
             <pubDate>Tue, 10 Nov 2026 14:23:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس مجلس الوزراء وزير الخارجية بحث باجتماع باريس حرية الملاحة والتوصل إلى سلام بالمنطقة]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس مجلس الوزراء وزير الخارجية بحث باجتماع باريس حرية الملاحة والتوصل إلى سلام بالمنطقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: رئيس مجلس الوزراء وزير الخارجية شارك باجتماع وزاري بباريس بحث…]]></title>
-            <link>https://t.me/aljazeeraBrk/243940</link>
-            <guid isPermaLink="false">04129a894fe704ba3def86ec2096b6dd21e50205dbcd3373a0fe14256fc31546</guid>
-            <pubDate>Tue, 10 Nov 2026 14:21:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: رئيس مجلس الوزراء وزير الخارجية شارك باجتماع وزاري بباريس بحث جهود خفض التصعيد في المنطقة]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: رئيس مجلس الوزراء وزير الخارجية شارك باجتماع وزاري بباريس بحث جهود خفض التصعيد في المنطقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
