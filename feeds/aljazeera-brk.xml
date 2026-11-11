@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 08:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 09:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: منظومات الدفاع الجوي أسقطت 1085 مسيرة أوكرانية خلال…]]></title>
+            <link>https://t.me/aljazeeraBrk/244027</link>
+            <guid isPermaLink="false">f825058c236b003b6685eb3e9dff08ce445a94c5113751fb887390e92e325563</guid>
+            <pubDate>Wed, 11 Nov 2026 09:09:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: منظومات الدفاع الجوي أسقطت 1085 مسيرة أوكرانية خلال الساعات الـ24 الماضية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: منظومات الدفاع الجوي أسقطت 1085 مسيرة أوكرانية خلال الساعات الـ24 الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في مستشفى الشفاء: استشهاد فلسطيني متأثرا بإصابته في قصف إسرائيلي بحي الدرج…]]></title>
             <link>https://t.me/aljazeeraBrk/244026</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 13:21:02 GMT</pubDate>
             <description><![CDATA[جمعية عير عاميم الإسرائيلية: 19 جهة حكومية وعامة ضالعة بتهجير فلسطينيين في القدس الشرقية]]></description>
             <content:encoded><![CDATA[جمعية عير عاميم الإسرائيلية: 19 جهة حكومية وعامة ضالعة بتهجير فلسطينيين في القدس الشرقية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مسؤول أمريكي للجزيرة: توقعات بوصول وحدة المارينز الاستكشافية ١٣ ومجموعة للإنزال…]]></title>
-            <link>https://t.me/aljazeeraBrk/243742</link>
-            <guid isPermaLink="false">b3bc7f48bf52a7898fb8113f8aff24a81c058707dd1d3835d7e1c5e2e86c9d6a</guid>
-            <pubDate>Mon, 09 Nov 2026 13:12:02 GMT</pubDate>
-            <description><![CDATA[مسؤول أمريكي للجزيرة: توقعات بوصول وحدة المارينز الاستكشافية ١٣ ومجموعة للإنزال إلى المنطقة هذا الشهر]]></description>
-            <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: توقعات بوصول وحدة المارينز الاستكشافية ١٣ ومجموعة للإنزال إلى المنطقة هذا الشهر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
