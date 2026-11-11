@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 05:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 05:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة معادية جنوب شرق الضعين بولاية شرق دارفور وهي…]]></title>
+            <link>https://t.me/aljazeeraBrk/244014</link>
+            <guid isPermaLink="false">3c31de28c342619bd403c6c70b597bfc071fd600805331e869bfc99687cc6211</guid>
+            <pubDate>Wed, 11 Nov 2026 05:34:02 GMT</pubDate>
+            <description><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة معادية جنوب شرق الضعين بولاية شرق دارفور وهي الثانية اليوم]]></description>
+            <content:encoded><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة معادية جنوب شرق الضعين بولاية شرق دارفور وهي الثانية اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[حاكم زابوروجيا الأوكراني: قتيل و15 مصابا في هجمات روسية على 54 بلدة في الإقليم…]]></title>
             <link>https://t.me/aljazeeraBrk/244013</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 12:06:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الأردني: وقعنا 11 اتفاقية تغطي أوجه تعاون مختلفة مع سوريا]]></description>
             <content:encoded><![CDATA[وزير الخارجية الأردني: وقعنا 11 اتفاقية تغطي أوجه تعاون مختلفة مع سوريا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الأردني: العلاقات الأردنية السورية الآن هي في أفضل حالاتها]]></title>
-            <link>https://t.me/aljazeeraBrk/243729</link>
-            <guid isPermaLink="false">a534f8db53152346e6989f3c2f9f122560d77e40ff8eed3122374b8e96eb3dcd</guid>
-            <pubDate>Mon, 09 Nov 2026 12:06:01 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الأردني: العلاقات الأردنية السورية الآن هي في أفضل حالاتها]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الأردني: العلاقات الأردنية السورية الآن هي في أفضل حالاتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

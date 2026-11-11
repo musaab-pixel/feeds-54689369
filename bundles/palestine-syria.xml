@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 05:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 05:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة معادية جنوب شرق الضعين بولاية شرق دارفور وهي…]]></title>
+            <link>https://t.me/aljazeeraBrk/244014</link>
+            <guid isPermaLink="false">3c31de28c342619bd403c6c70b597bfc071fd600805331e869bfc99687cc6211</guid>
+            <pubDate>Wed, 11 Nov 2026 05:34:02 GMT</pubDate>
+            <description><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة معادية جنوب شرق الضعين بولاية شرق دارفور وهي الثانية اليوم]]></description>
+            <content:encoded><![CDATA[الجيش السوداني: أسقطنا طائرة مسيرة معادية جنوب شرق الضعين بولاية شرق دارفور وهي الثانية اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محافظة حلب: 📌مواصلة أعمال تركيب أجهزة الإنارة بالطاقة الشمسية في بلدتي الشيوخ…]]></title>
             <link>https://t.me/HalabTodayTV/142756</link>
@@ -1831,15 +1840,6 @@
             <pubDate>Tue, 10 Nov 2026 10:43:02 GMT</pubDate>
             <description><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بينهم طفل بنيران قوات الاحتلال في مدينتي غزة وخان يونس منذ صباح اليوم]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 3 شهداء بينهم طفل بنيران قوات الاحتلال في مدينتي غزة وخان يونس منذ صباح اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في المستشفى المعمداني: شهيدان ومصابون في غارة من مسيرة إسرائيلية على حي…]]></title>
-            <link>https://t.me/aljazeeraBrk/243897</link>
-            <guid isPermaLink="false">25390a5d0bb09a0243913bd0fe23a5f64beb9dc9877204fdde92ce9f64916e7c</guid>
-            <pubDate>Tue, 10 Nov 2026 10:40:02 GMT</pubDate>
-            <description><![CDATA[مصدر في المستشفى المعمداني: شهيدان ومصابون في غارة من مسيرة إسرائيلية على حي الزيتون جنوب شرقي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مصدر في المستشفى المعمداني: شهيدان ومصابون في غارة من مسيرة إسرائيلية على حي الزيتون جنوب شرقي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
