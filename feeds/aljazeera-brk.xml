@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 01:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 01:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام أمريكية: اعتقال راكب أبلغ أن بحوزته قنبلة على متن رحلة طيران متجهة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244002</link>
+            <guid isPermaLink="false">aa88a0915a1831871ac4446d8fb6e3d761612394e8572c4493ea084ae966f13a</guid>
+            <pubDate>Wed, 11 Nov 2026 01:36:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام أمريكية: اعتقال راكب أبلغ أن بحوزته قنبلة على متن رحلة طيران متجهة من نيويورك إلى نيو أورليانز]]></description>
+            <content:encoded><![CDATA[وسائل إعلام أمريكية: اعتقال راكب أبلغ أن بحوزته قنبلة على متن رحلة طيران متجهة من نيويورك إلى نيو أورليانز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نيويورك تايمز عن متحدث باسم وزارة الخزانة الأمريكية: التهديدات لن تثني وزير…]]></title>
             <link>https://t.me/aljazeeraBrk/244001</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 10:42:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي الوسطى وغزة لعدم توفر قطع غيار]]></description>
             <content:encoded><![CDATA[الدفاع المدني بغزة: مركباتنا توقفت عن الاستجابة للتدخلات الإنسانية بمحافظتي الوسطى وغزة لعدم توفر قطع غيار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حاكم أوديسا الأوكرانية: 3 قتلى في استهداف روسي للمدينة]]></title>
-            <link>https://t.me/aljazeeraBrk/243717</link>
-            <guid isPermaLink="false">cbf00c4a7c5ada28f6da448e0f85347e1db4f811bfe4eb908ff25149ea60bc6c</guid>
-            <pubDate>Mon, 09 Nov 2026 10:30:02 GMT</pubDate>
-            <description><![CDATA[حاكم أوديسا الأوكرانية: 3 قتلى في استهداف روسي للمدينة]]></description>
-            <content:encoded><![CDATA[حاكم أوديسا الأوكرانية: 3 قتلى في استهداف روسي للمدينة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
