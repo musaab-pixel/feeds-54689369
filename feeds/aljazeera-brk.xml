@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 10:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 10:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إنترفاكس عن مصدر روسي: اختتام المفاوضات الثلاثية في أبوظبي بشأن التسوية…]]></title>
+            <link>https://t.me/aljazeeraBrk/244030</link>
+            <guid isPermaLink="false">534d1aa4d1b739905ffa2666c541ec985531bb360839bb0eef0389ee0ae38ca1</guid>
+            <pubDate>Wed, 11 Nov 2026 10:34:02 GMT</pubDate>
+            <description><![CDATA[إنترفاكس عن مصدر روسي: اختتام المفاوضات الثلاثية في أبوظبي بشأن التسوية الأوكرانية]]></description>
+            <content:encoded><![CDATA[إنترفاكس عن مصدر روسي: اختتام المفاوضات الثلاثية في أبوظبي بشأن التسوية الأوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: انفجارات في ناقلتي نفط الليلة الماضية إثر اصطدامهما…]]></title>
             <link>https://t.me/aljazeeraBrk/244029</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 13:45:02 GMT</pubDate>
             <description><![CDATA[وكالة فارس عن مصدر: قاليباف أكد لرئيس وزراء العراق ضرورة احترام أمريكا لحقوق إيران للمضي قدما بالمفاوضات]]></description>
             <content:encoded><![CDATA[وكالة فارس عن مصدر: قاليباف أكد لرئيس وزراء العراق ضرورة احترام أمريكا لحقوق إيران للمضي قدما بالمفاوضات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وكالة فارس عن مصدر: رئيس الوزراء العراقي زار طهران الجمعة والتقى رئيس البرلمان…]]></title>
-            <link>https://t.me/aljazeeraBrk/243745</link>
-            <guid isPermaLink="false">3b11fbbae32777a6e3be4e82f82cee467f9dc77b49e9a1b818626b9da1620f28</guid>
-            <pubDate>Mon, 09 Nov 2026 13:44:02 GMT</pubDate>
-            <description><![CDATA[وكالة فارس عن مصدر: رئيس الوزراء العراقي زار طهران الجمعة والتقى رئيس البرلمان قاليباف]]></description>
-            <content:encoded><![CDATA[وكالة فارس عن مصدر: رئيس الوزراء العراقي زار طهران الجمعة والتقى رئيس البرلمان قاليباف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
