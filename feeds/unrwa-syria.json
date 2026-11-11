@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "7285ebeb402f80d05aaa9fcd28ea7dd480a9f4789b27193de49a9a143575b7b5",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5hTy14TFRqZlpoNW4ybk9qZ1hudkJtZGZWUGJseXZqYXNaa0Nsbl8xMjV3RmRud2tFUXhjMklsMm1ST3JNbDNaTDJfMHJaNS1UMzVQY2c1VTNhOWh4LVMzZ0NCRUVzRDI2d1A5LUgzWE1JSmpvMW5vVDZrWF9VdTlWQkk1dTc5Z0tOWExuYUVFVnpfal80R2lyT29SekdHY0dSR2VUTjNBT3ptNEx4MGl6SmE4R09vVGc4UUVB?oc=5\" target=\"_blank\">خدمات الرعاية الصحية في الأونروا تغطي الاحتياجات الطبية الأساسية للاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5hTy14TFRqZlpoNW4ybk9qZ1hudkJtZGZWUGJseXZqYXNaa0Nsbl8xMjV3RmRud2tFUXhjMklsMm1ST3JNbDNaTDJfMHJaNS1UMzVQY2c1VTNhOWh4LVMzZ0NCRUVzRDI2d1A5LUgzWE1JSmpvMW5vVDZrWF9VdTlWQkk1dTc5Z0tOWExuYUVFVnpfal80R2lyT29SekdHY0dSR2VUTjNBT3ptNEx4MGl6SmE4R09vVGc4UUVB?oc=5",
+            "title": "خدمات الرعاية الصحية في الأونروا تغطي الاحتياجات الطبية الأساسية للاجئين الفلسطينيين في سوريا - UNRWA",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUm5hTy14TFRqZlpoNW4ybk9qZ1hudkJtZGZWUGJseXZqYXNaa0Nsbl8xMjV3RmRud2tFUXhjMklsMm1ST3JNbDNaTDJfMHJaNS1UMzVQY2c1VTNhOWh4LVMzZ0NCRUVzRDI2d1A5LUgzWE1JSmpvMW5vVDZrWF9VdTlWQkk1dTc5Z0tOWExuYUVFVnpfal80R2lyT29SekdHY0dSR2VUTjNBT3ptNEx4MGl6SmE4R09vVGc4UUVB?oc=5\" target=\"_blank\">خدمات الرعاية الصحية في الأونروا تغطي الاحتياجات الطبية الأساسية للاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
+            "date_modified": "2026-11-11T15:40:45.000Z",
+            "author": {
+                "name": "UNRWA"
+            }
+        },
+        {
             "id": "8d2a2497512f1a02509ceb78c15a094702aa6dfa09d2bb70e195751108b970a2",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbFZMeXJBSXh2QlFYdkJ6YUNjbjBIUXdWOFU4ZnhFakFrZGJFRHdET3ByUWg0RldFU2VMSXA1bzFIb0Y3Zm81Q01NQUt3UQ?oc=5\" target=\"_blank\">الأونروا تطلق برنامج العودة الطوعية للاجئي فلسطين من سوريا.. مساعدات نقدية وتسهيلات للانتقال</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة روز اليوسف</font>",
             "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbFZMeXJBSXh2QlFYdkJ6YUNjbjBIUXdWOFU4ZnhFakFrZGJFRHdET3ByUWg0RldFU2VMSXA1bzFIb0Y3Zm81Q01NQUt3UQ?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-02-02T08:00:00.000Z",
             "author": {
                 "name": "شبكة يافا الإخبارية"
-            }
-        },
-        {
-            "id": "f82cc64d9918197356bc6c759e7c8d6201749c26af10be729bf99e7e7e8b2635",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxOM1hpMXhHTjEwWktGbHZ2LWptaUljNkVuZ2NfZDdMZDBhaTNrM3oyV3BvV0Exajh5azNfT2JyRTEzWDZlVzgxZHY1dWktOHJLeU9hLXVPdkxtUTZFQlYxZ3RDcFVjNU93ZlB1cmZpZ3U2aE1YXy14N2ZVcUpjN0E5LUQxRk5mWnZmN0QzOTNFLXVUSGlHdGZmQll4czRoWUhMLUo5NENyWHhTTUdoZ3RldE9qRjdvcTkyUnlicnkzaE5CMmp4SEdfOEhaUWNBRkhBZENoTUtFaDNtSXNaV1B4aUpmSURnTk5jampkTGluUjdHYXdoZUFray1jMDZPakpMcnJidHM4SlprcWV0a0NCSS1MRkRac0dITnlBblJFaVlLNExSZ2hXOEU1dklBYVBKUHdfbEFka3ctWExnYTlBNHFybXdFQm1kTmRsOXZjTjFJazlwS3JqYXpjXzcxYllkVWwxdlJJdnVvaHdCNkREN2hYektDaUk5QWcwb0l5WVl6cWpvbmtrbzRBRG0xdw?oc=5\" target=\"_blank\">«صرخة تحذير أخيرة» رفضاً لتقليص خدمات «الأونروا»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Akhbar</font>",
-            "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOM1hpMXhHTjEwWktGbHZ2LWptaUljNkVuZ2NfZDdMZDBhaTNrM3oyV3BvV0Exajh5azNfT2JyRTEzWDZlVzgxZHY1dWktOHJLeU9hLXVPdkxtUTZFQlYxZ3RDcFVjNU93ZlB1cmZpZ3U2aE1YXy14N2ZVcUpjN0E5LUQxRk5mWnZmN0QzOTNFLXVUSGlHdGZmQll4czRoWUhMLUo5NENyWHhTTUdoZ3RldE9qRjdvcTkyUnlicnkzaE5CMmp4SEdfOEhaUWNBRkhBZENoTUtFaDNtSXNaV1B4aUpmSURnTk5jampkTGluUjdHYXdoZUFray1jMDZPakpMcnJidHM4SlprcWV0a0NCSS1MRkRac0dITnlBblJFaVlLNExSZ2hXOEU1dklBYVBKUHdfbEFka3ctWExnYTlBNHFybXdFQm1kTmRsOXZjTjFJazlwS3JqYXpjXzcxYllkVWwxdlJJdnVvaHdCNkREN2hYektDaUk5QWcwb0l5WVl6cWpvbmtrbzRBRG0xdw?oc=5",
-            "title": "«صرخة تحذير أخيرة» رفضاً لتقليص خدمات «الأونروا» - Al Akhbar",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxOM1hpMXhHTjEwWktGbHZ2LWptaUljNkVuZ2NfZDdMZDBhaTNrM3oyV3BvV0Exajh5azNfT2JyRTEzWDZlVzgxZHY1dWktOHJLeU9hLXVPdkxtUTZFQlYxZ3RDcFVjNU93ZlB1cmZpZ3U2aE1YXy14N2ZVcUpjN0E5LUQxRk5mWnZmN0QzOTNFLXVUSGlHdGZmQll4czRoWUhMLUo5NENyWHhTTUdoZ3RldE9qRjdvcTkyUnlicnkzaE5CMmp4SEdfOEhaUWNBRkhBZENoTUtFaDNtSXNaV1B4aUpmSURnTk5jampkTGluUjdHYXdoZUFray1jMDZPakpMcnJidHM4SlprcWV0a0NCSS1MRkRac0dITnlBblJFaVlLNExSZ2hXOEU1dklBYVBKUHdfbEFka3ctWExnYTlBNHFybXdFQm1kTmRsOXZjTjFJazlwS3JqYXpjXzcxYllkVWwxdlJJdnVvaHdCNkREN2hYektDaUk5QWcwb0l5WVl6cWpvbmtrbzRBRG0xdw?oc=5\" target=\"_blank\">«صرخة تحذير أخيرة» رفضاً لتقليص خدمات «الأونروا»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Akhbar</font>",
-            "date_modified": "2026-02-02T08:00:00.000Z",
-            "author": {
-                "name": "Al Akhbar"
             }
         }
     ]
