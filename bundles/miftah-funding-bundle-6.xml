@@ -4,10 +4,27 @@
         <title>Miftah Funding Bundle 6</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 6" (type: bundle)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 09:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 13:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Donate]]></title>
+            <link>https://arij.net/uncategorized/donate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=donate</link>
+            <guid isPermaLink="false">078d4b4b08eb300b270dffae107bea3270e47c892f6a6435f64636ab2c3dbc54</guid>
+            <pubDate>Wed, 11 Nov 2026 11:58:07 GMT</pubDate>
+            <description><![CDATA[
+<script>window.location.replace("https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000");
+window.location.href = "https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000";
+ </script>
+]]></description>
+            <content:encoded><![CDATA[
+<script>window.location.replace("https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000");
+window.location.href = "https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000";
+ </script>
+]]></content:encoded>
+            <author>admin</author>
+        </item>
         <item>
             <title><![CDATA[Meer lezen]]></title>
             <link>https://journalismfund.eu/green-transition-or-shrinking-fertile-fields</link>
@@ -21531,19 +21548,6 @@ UN Headquarters, Room 11</p>
 ]]></description>
             <content:encoded><![CDATA[<p>The Iraqi-UK documentary project Kings of Babel has been named the winner of The Whickers MENA Bursary 2026, securing £3,000 in seed funding&#8230;</p>
 <p>The post <a href="https://www.whickerawards.com/docedgebursarywinner2023-3-2-3-2/">Kings of Babel Wins The Whickers MENA Bursary 2026</a> appeared first on <a href="https://www.whickerawards.com">The Whickers</a>.</p>
-]]></content:encoded>
-            <author>Denise Barren</author>
-        </item>
-        <item>
-            <title><![CDATA[Kings of Babel Wins The Whickers MENA Bursary 2026]]></title>
-            <link>https://www.whickerawards.com/menabursarywinner2023-3-2-3-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=menabursarywinner2023-3-2-3-2</link>
-            <guid isPermaLink="false">37edf5451662115cbfc48d946a90144e896e3ac391fd6bacb31863d29ff850d9</guid>
-            <pubDate>Wed, 26 Aug 2026 15:00:14 GMT</pubDate>
-            <description><![CDATA[<p>The Iraqi-UK documentary project Kings of Babel has been named the winner of The Whickers MENA Bursary 2026, securing £3,000 in seed funding&#8230;</p>
-<p>The post <a href="https://www.whickerawards.com/menabursarywinner2023-3-2-3-2/">Kings of Babel Wins The Whickers MENA Bursary 2026</a> appeared first on <a href="https://www.whickerawards.com">The Whickers</a>.</p>
-]]></description>
-            <content:encoded><![CDATA[<p>The Iraqi-UK documentary project Kings of Babel has been named the winner of The Whickers MENA Bursary 2026, securing £3,000 in seed funding&#8230;</p>
-<p>The post <a href="https://www.whickerawards.com/menabursarywinner2023-3-2-3-2/">Kings of Babel Wins The Whickers MENA Bursary 2026</a> appeared first on <a href="https://www.whickerawards.com">The Whickers</a>.</p>
 ]]></content:encoded>
             <author>Denise Barren</author>
         </item>

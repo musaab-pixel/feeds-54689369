@@ -4,10 +4,27 @@
         <title>arij.net</title>
         <link>https://arij.net/feed/</link>
         <description>RSS Factory feed "arij.net" (type: native)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 09:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 13:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Donate]]></title>
+            <link>https://arij.net/uncategorized/donate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=donate</link>
+            <guid isPermaLink="false">078d4b4b08eb300b270dffae107bea3270e47c892f6a6435f64636ab2c3dbc54</guid>
+            <pubDate>Wed, 11 Nov 2026 11:58:07 GMT</pubDate>
+            <description><![CDATA[
+<script>window.location.replace("https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000");
+window.location.href = "https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000";
+ </script>
+]]></description>
+            <content:encoded><![CDATA[
+<script>window.location.replace("https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000");
+window.location.href = "https://buy.stripe.com/eVq5kw7wEfSU0OIfsXco000";
+ </script>
+]]></content:encoded>
+            <author>admin</author>
+        </item>
         <item>
             <title><![CDATA[فيديو استقبال أهالي المقاطرة للحوثيين قديم وصوته مأخوذ من مقطع آخر]]></title>
             <link>https://arij.net/chatbot-fact/the-video-showing-residents-of-al-maqatirah-welcoming-the-houthis-is-old-and-its-audio-has-been-taken-from-a-different-clip/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-video-showing-residents-of-al-maqatirah-welcoming-the-houthis-is-old-and-its-audio-has-been-taken-from-a-different-clip</link>
