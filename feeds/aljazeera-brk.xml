@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 08:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 08:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على حي النصر غربي…]]></title>
+            <link>https://t.me/aljazeeraBrk/244025</link>
+            <guid isPermaLink="false">1d1342e402985e323b10582cd61b3086d5454ca24ff152f267ea4e52de289e32</guid>
+            <pubDate>Wed, 11 Nov 2026 08:10:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على حي النصر غربي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على حي النصر غربي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الأمن الفيدرالي الروسي: توقيف شخصين يعملان لحساب الاستخبارات البولندية في روسيا]]></title>
             <link>https://t.me/aljazeeraBrk/244024</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 13:08:02 GMT</pubDate>
             <description><![CDATA[مسؤول أمريكي للجزيرة: حاملة الطائرات روزفلت ومجموعتها الضاربة لن تصل إلى الشرق الأوسط قبل منتصف الشهر]]></description>
             <content:encoded><![CDATA[مسؤول أمريكي للجزيرة: حاملة الطائرات روزفلت ومجموعتها الضاربة لن تصل إلى الشرق الأوسط قبل منتصف الشهر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة الفالوجا…]]></title>
-            <link>https://t.me/aljazeeraBrk/243740</link>
-            <guid isPermaLink="false">eb685fa1650143bc98caab3da63da8fffdc06ddfb132f563350240faa3623662</guid>
-            <pubDate>Mon, 09 Nov 2026 12:59:01 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة الفالوجا بجباليا شمالي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة الفالوجا بجباليا شمالي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
