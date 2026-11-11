@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 05:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 05:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حاكم زابوروجيا الأوكراني: قتيل و15 مصابا في هجمات روسية على 54 بلدة في الإقليم…]]></title>
+            <link>https://t.me/aljazeeraBrk/244013</link>
+            <guid isPermaLink="false">d0142b8d70ea35a2fdfc42ed4a95a502945f743c2c0b4d3a7825582dc8b2e21d</guid>
+            <pubDate>Wed, 11 Nov 2026 05:20:02 GMT</pubDate>
+            <description><![CDATA[حاكم زابوروجيا الأوكراني: قتيل و15 مصابا في هجمات روسية على 54 بلدة في الإقليم خلال الليل]]></description>
+            <content:encoded><![CDATA[حاكم زابوروجيا الأوكراني: قتيل و15 مصابا في هجمات روسية على 54 بلدة في الإقليم خلال الليل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر بالجيش السوداني للجزيرة: أسقطنا مسيرة ثانية بولاية غرب كردفان صباح اليوم]]></title>
             <link>https://t.me/aljazeeraBrk/244012</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 12:06:01 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الأردني: العلاقات الأردنية السورية الآن هي في أفضل حالاتها]]></description>
             <content:encoded><![CDATA[وزير الخارجية الأردني: العلاقات الأردنية السورية الآن هي في أفضل حالاتها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية السوري: نؤكد أن شراكتنا الاستراتيجية مع الأردن ستبقى أقوى من أي…]]></title>
-            <link>https://t.me/aljazeeraBrk/243728</link>
-            <guid isPermaLink="false">b97dda1aa3e515894fee8568bba8a86b1cc19d3de80dd9d15b8f9ddbefda53ff</guid>
-            <pubDate>Mon, 09 Nov 2026 12:04:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية السوري: نؤكد أن شراكتنا الاستراتيجية مع الأردن ستبقى أقوى من أي عارض]]></description>
-            <content:encoded><![CDATA[وزير الخارجية السوري: نؤكد أن شراكتنا الاستراتيجية مع الأردن ستبقى أقوى من أي عارض]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
