@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 04:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 04:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الإيراني: نتائج الانتخابات في الولايات المتحدة وإسرائيل وأوروبا كانت…]]></title>
+            <link>https://t.me/aljazeeraBrk/244010</link>
+            <guid isPermaLink="false">675aa399e0fd0f1677549f24725ddfabbd5532cdb7379a002d002724ae5967cc</guid>
+            <pubDate>Wed, 11 Nov 2026 04:30:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الإيراني: نتائج الانتخابات في الولايات المتحدة وإسرائيل وأوروبا كانت مخالفة لتوجهات دعاة الحرب]]></description>
+            <content:encoded><![CDATA[الرئيس الإيراني: نتائج الانتخابات في الولايات المتحدة وإسرائيل وأوروبا كانت مخالفة لتوجهات دعاة الحرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش السوداني: دفاعاتنا الجوية أسقطت مسيرة بولاية غرب كردفان فجر اليوم الأربعاء]]></title>
             <link>https://t.me/aljazeeraBrk/244009</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 09 Nov 2026 12:01:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية السوري: التبادل التجاري مع الأردن تضاعف نحو 3 مرات في عام واحد مسجلا 330 مليون دولار]]></description>
             <content:encoded><![CDATA[وزير الخارجية السوري: التبادل التجاري مع الأردن تضاعف نحو 3 مرات في عام واحد مسجلا 330 مليون دولار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية السوري: نؤمن أن الأردن امتداد لأمن سوريا ونواصل ضبط حدودنا وشبكات…]]></title>
-            <link>https://t.me/aljazeeraBrk/243725</link>
-            <guid isPermaLink="false">ceeae769929c2a422197ed830d704d20b1cf85715bf7c9229b24306baa92983c</guid>
-            <pubDate>Mon, 09 Nov 2026 11:59:01 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية السوري: نؤمن أن الأردن امتداد لأمن سوريا ونواصل ضبط حدودنا وشبكات التهريب بكل حزم]]></description>
-            <content:encoded><![CDATA[وزير الخارجية السوري: نؤمن أن الأردن امتداد لأمن سوريا ونواصل ضبط حدودنا وشبكات التهريب بكل حزم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
