@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Wed, 11 Nov 2026 18:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 18:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: نستهدف منشآت نفطية وعسكرية ولا صحة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244112</link>
+            <guid isPermaLink="false">776ad919d719864a691c10cadec46ab9c45a9001a8837565010f6637134d6295</guid>
+            <pubDate>Wed, 11 Nov 2026 18:42:02 GMT</pubDate>
+            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: نستهدف منشآت نفطية وعسكرية ولا صحة لادعاء اعتراض مسيرة بأجواء مكة]]></description>
+            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: نستهدف منشآت نفطية وعسكرية ولا صحة لادعاء اعتراض مسيرة بأجواء مكة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا محطة ضخ بمنطقة ينبع في…]]></title>
             <link>https://t.me/aljazeeraBrk/244111</link>
@@ -1678,15 +1687,6 @@
             <pubDate>Tue, 10 Nov 2026 19:36:02 GMT</pubDate>
             <description><![CDATA[فارس عن مساعد وزير النفط الإيراني: حريق في منصة بحقل بارس الجنوبي والوضع تحت السيطرة وسبب الحريق قيد التحقيق]]></description>
             <content:encoded><![CDATA[فارس عن مساعد وزير النفط الإيراني: حريق في منصة بحقل بارس الجنوبي والوضع تحت السيطرة وسبب الحريق قيد التحقيق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[اليونيفيل: تعرض دورية لقواتنا لإطلاق رصاص بالقرب من وادي جيلو جنوبي لبنان دون…]]></title>
-            <link>https://t.me/aljazeeraBrk/243987</link>
-            <guid isPermaLink="false">efab12e03aaa201271af9684b9200bc7ca299823e8eee6d1f6b1579bb60ef97d</guid>
-            <pubDate>Tue, 10 Nov 2026 19:21:02 GMT</pubDate>
-            <description><![CDATA[اليونيفيل: تعرض دورية لقواتنا لإطلاق رصاص بالقرب من وادي جيلو جنوبي لبنان دون تسجيل أي إصابات]]></description>
-            <content:encoded><![CDATA[اليونيفيل: تعرض دورية لقواتنا لإطلاق رصاص بالقرب من وادي جيلو جنوبي لبنان دون تسجيل أي إصابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
