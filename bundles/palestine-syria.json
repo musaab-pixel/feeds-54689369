@@ -5,6 +5,61 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "c463a6993efdfd437547ee87960179b0fb047bbcfc13fe140d28e683e99a7ed2",
+            "content_html": "سي إن إن عن مصادر: صدور إشعار بالبقاء في المنازل لسكان الأحياء القريبة من موقع إطلاق النار في واشنطن",
+            "url": "https://t.me/aljazeeraBrk/244195",
+            "title": "سي إن إن عن مصادر: صدور إشعار بالبقاء في المنازل لسكان الأحياء القريبة من موقع…",
+            "summary": "سي إن إن عن مصادر: صدور إشعار بالبقاء في المنازل لسكان الأحياء القريبة من موقع إطلاق النار في واشنطن",
+            "date_modified": "2026-11-12T14:14:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "63ba87a65ce23e1bbe0c68e919599ff4fb3d7f11bb0180336338b96b8b6dce9d",
+            "content_html": "شبكة إيه بي سي عن مسؤول أمريكي: قوات الحرس الوطني تساعد في تأمين محيط منطقة إطلاق النار",
+            "url": "https://t.me/aljazeeraBrk/244194",
+            "title": "شبكة إيه بي سي عن مسؤول أمريكي: قوات الحرس الوطني تساعد في تأمين محيط منطقة…",
+            "summary": "شبكة إيه بي سي عن مسؤول أمريكي: قوات الحرس الوطني تساعد في تأمين محيط منطقة إطلاق النار",
+            "date_modified": "2026-11-12T14:12:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "7124f7e60cc65ba326f017befddf713b9c74eb91c2cf9ce10dacb728ddf99ff0",
+            "content_html": "واشنطن بوست عن متحدث باسم شرطة واشنطن: لم نتمكن بعد من تحديد هوية مطلق النار",
+            "url": "https://t.me/aljazeeraBrk/244193",
+            "title": "واشنطن بوست عن متحدث باسم شرطة واشنطن: لم نتمكن بعد من تحديد هوية مطلق النار",
+            "summary": "واشنطن بوست عن متحدث باسم شرطة واشنطن: لم نتمكن بعد من تحديد هوية مطلق النار",
+            "date_modified": "2026-11-12T14:10:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "306b8bf532f93bf60bc5f8c24460857e4c8c96db8d88157c6e20236f0f4abec1",
+            "content_html": "واشنطن بوست عن متحدث باسم شرطة واشنطن: نلاحق مشتبها به بعد حادث إطلاق النار",
+            "url": "https://t.me/aljazeeraBrk/244192",
+            "title": "واشنطن بوست عن متحدث باسم شرطة واشنطن: نلاحق مشتبها به بعد حادث إطلاق النار",
+            "summary": "واشنطن بوست عن متحدث باسم شرطة واشنطن: نلاحق مشتبها به بعد حادث إطلاق النار",
+            "date_modified": "2026-11-12T14:08:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "95ea4cf19d9792aedb64b0d74ce67c912fb889db86aa872c133fe6b54e95885b",
+            "content_html": "شرطة واشنطن: نتعامل مع حادث إطلاق نار في المنطقة الشمالية الغربية من العاصمة",
+            "url": "https://t.me/aljazeeraBrk/244191",
+            "title": "شرطة واشنطن: نتعامل مع حادث إطلاق نار في المنطقة الشمالية الغربية من العاصمة",
+            "summary": "شرطة واشنطن: نتعامل مع حادث إطلاق نار في المنطقة الشمالية الغربية من العاصمة",
+            "date_modified": "2026-11-12T14:04:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "e1de2f44810434835cfdb2211706e999d05b3d1dc9a748f5dba64855b59623ea",
             "content_html": "استقالة الرئيس التنفيذي لشركة إنفيديا جنسن هونغ",
             "url": "https://t.me/aljazeeraBrk/244190",
@@ -1574,62 +1629,6 @@
             "date_modified": "2026-11-11T16:34:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "3fb07cacb60a127bcaaea2e41f69c187ca4d24311867461c29aa038294ffc09f",
-            "content_html": "قاليباف للحزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها",
-            "url": "https://t.me/aljazeeraBrk/244089",
-            "title": "قاليباف للحزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها",
-            "summary": "قاليباف للحزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها",
-            "date_modified": "2026-11-11T16:33:03.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e2614dcb682244b1c74428bdd3d6955138f36722c560601dc6a384961d4b8b41",
-            "content_html": "قاليباف للحزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي هجوم",
-            "url": "https://t.me/aljazeeraBrk/244087",
-            "title": "قاليباف للحزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي…",
-            "summary": "قاليباف للحزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي هجوم",
-            "date_modified": "2026-11-11T16:33:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "9903f58edcb367e30b69bae0902beaf1e859cc93f37364a35623adacf32c7c09",
-            "content_html": "قاليباف للحزيرة: أولويتنا السلام إذا قبلوا بشروطنا ولا نرغب في استمرار الحرب",
-            "url": "https://t.me/aljazeeraBrk/244088",
-            "title": "قاليباف للحزيرة: أولويتنا السلام إذا قبلوا بشروطنا ولا نرغب في استمرار الحرب",
-            "summary": "قاليباف للحزيرة: أولويتنا السلام إذا قبلوا بشروطنا ولا نرغب في استمرار الحرب",
-            "date_modified": "2026-11-11T16:33:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "24cacf02beb1290a9cc4555000571c72fdf0227baab907db46ecb04fd9adebe8",
-            "content_html": "ملتقى \"تكافل\" لدعم التعليم في داريا يجمع أكثر من 850 ألف دولار تُدفع على مدار العام الدراسي لتأمين الاستقرار التعليمي وتغطية النفقات التشغيلية واللوجستية لمدارس المدينة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142788",
-            "title": "ملتقى \"تكافل\" لدعم التعليم في داريا يجمع أكثر من 850 ألف دولار تُدفع على مدار…",
-            "summary": "ملتقى \"تكافل\" لدعم التعليم في داريا يجمع أكثر من 850 ألف دولار تُدفع على مدار العام الدراسي لتأمين الاستقرار التعليمي وتغطية النفقات التشغيلية واللوجستية لمدارس المدينة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/IsXrHKHRO6phgJ--Z8ChCf11IuH63pWbVCW_7YKFZuJ0sFkkPDSDA_EGTf63lo6OBTi9AI1RjHkQoQ461bdN5-QXdTwjsY6IB2qkj7qbVd19r0CIeU8PcbwW8ZFiEMuIw6wqlRGvq4pwJvkdv4GJp3fS-CCJBQF0QAtUMwdW6tbnnc2fQY3LBIVkFMiPIKLkdzrQuLzB5YuWbwfVUe4kWCYw-JEjbeaAZs13Dk0Kwtj0-yQh0lUwxZYIbWVfPauvtybP1PDHXHWQWQzWuOWF5C6FE5IDJ80G1jZBTOKp6KwEGx48HQZ2nokzxbziv-aMHDvBiu4q4fKE_WdpdOY-Xw.jpg",
-            "date_modified": "2026-11-11T16:31:12.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "c2cd9b04046732de2268e324fb1719a977461240270a79a5fe3ea28f5f3aeb87",
-            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصادر محلية: </b>قوات الاحتلال الإسـرائيلي تستهدف بالمدفعية محيط سد المنطرة بريف القنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142787",
-            "title": "🛑 #عاجل | مصادر محلية: قوات الاحتلال الإسـرائيلي تستهدف بالمدفعية محيط سد…",
-            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | مصادر محلية: </b>قوات الاحتلال الإسـرائيلي تستهدف بالمدفعية محيط سد المنطرة بريف القنيطرة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-11T16:26:40.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
