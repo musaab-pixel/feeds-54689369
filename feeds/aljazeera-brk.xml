@@ -4,7 +4,7 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 22:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 22:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -15,6 +15,15 @@
             <pubDate>Thu, 12 Nov 2026 22:27:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي محافظة تعز]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي محافظة تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على نقيل الهجمة بمنطقة المقارمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244262</link>
+            <guid isPermaLink="false">7286d611fe9ddf597e41cc315ca7801e6dbdbd273dde442b0a6118e3f92bd8ec</guid>
+            <pubDate>Thu, 12 Nov 2026 22:27:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على نقيل الهجمة بمنطقة المقارمة وغارتان على مدينة التربة]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على نقيل الهجمة بمنطقة المقارمة وغارتان على مدينة التربة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
         <item>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 11:14:02 GMT</pubDate>
             <description><![CDATA[رئيس الوفد الروسي المفاوض: محادثات أبوظبي جرت في أجواء ودية تتسم بطابع عملي]]></description>
             <content:encoded><![CDATA[رئيس الوفد الروسي المفاوض: محادثات أبوظبي جرت في أجواء ودية تتسم بطابع عملي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود…]]></title>
-            <link>https://t.me/aljazeeraBrk/244031</link>
-            <guid isPermaLink="false">150573fab233c01ed19c713794fda6b556dd68f4f0f79167471046656e0fcf6c</guid>
-            <pubDate>Wed, 11 Nov 2026 10:57:02 GMT</pubDate>
-            <description><![CDATA[رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود قنابل]]></description>
-            <content:encoded><![CDATA[رويترز عن وزير التعليم الإيطالي: إخلاء أكثر من 300 مدرسة بعد تلقي تحذيرات بوجود قنابل]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
