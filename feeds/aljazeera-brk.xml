@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 20:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 21:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244258</link>
+            <guid isPermaLink="false">42aace90ce4b8753c9af8ec2106e506c4298fc3a00787d9084e7bbab548e5c49</guid>
+            <pubDate>Thu, 12 Nov 2026 21:49:02 GMT</pubDate>
+            <description><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا]]></description>
+            <content:encoded><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجلس الأمن: نطالب بالإفراج الفوري عن موظفي الأمم المتحدة والمنظمات والبعثات…]]></title>
             <link>https://t.me/aljazeeraBrk/244257</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 10:08:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام إسرائيلية: تعليق الرحلات في مطار رامون بإيلات إثر هزة أرضية بقوة 4.5 على مقياس ريختر]]></description>
             <content:encoded><![CDATA[وسائل إعلام إسرائيلية: تعليق الرحلات في مطار رامون بإيلات إثر هزة أرضية بقوة 4.5 على مقياس ريختر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: منظومات الدفاع الجوي أسقطت 1085 مسيرة أوكرانية خلال…]]></title>
-            <link>https://t.me/aljazeeraBrk/244027</link>
-            <guid isPermaLink="false">f825058c236b003b6685eb3e9dff08ce445a94c5113751fb887390e92e325563</guid>
-            <pubDate>Wed, 11 Nov 2026 09:09:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: منظومات الدفاع الجوي أسقطت 1085 مسيرة أوكرانية خلال الساعات الـ24 الماضية]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: منظومات الدفاع الجوي أسقطت 1085 مسيرة أوكرانية خلال الساعات الـ24 الماضية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

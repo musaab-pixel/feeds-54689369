@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 21:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 21:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244258</link>
+            <guid isPermaLink="false">42aace90ce4b8753c9af8ec2106e506c4298fc3a00787d9084e7bbab548e5c49</guid>
+            <pubDate>Thu, 12 Nov 2026 21:49:02 GMT</pubDate>
+            <description><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا]]></description>
+            <content:encoded><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA["طفلة الكاراتيه السورية" نور ستوت تحرز المركز الثالث وعمر ليلاف الثاني في بطولة…]]></title>
             <link>https://t.me/HalabTodayTV/142824</link>
@@ -2183,16 +2192,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <description><![CDATA[مصادر في مستشفيات غزة: 7 شهداء بنيران قوات الاحتلال منذ فجر اليوم بينهم 6 داخل مجمع ناصر الطبي في خان يونس]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 7 شهداء بنيران قوات الاحتلال منذ فجر اليوم بينهم 6 داخل مجمع ناصر الطبي في خان يونس]]></content:encoded>
             <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإخبارية: 370 عائلة تعود إلى مناطقها الأصلية في رأس العين بريف الحسكة ضمن…]]></title>
-            <link>https://t.me/HalabTodayTV/142798</link>
-            <guid isPermaLink="false">49af1d0dbe18edf81e3b2cdf1dbcca0214d3ff6ab93ff1c86ee5149d6bc2e261</guid>
-            <pubDate>Thu, 12 Nov 2026 06:31:08 GMT</pubDate>
-            <description><![CDATA[<b>الإخبارية: </b>370 عائلة تعود إلى مناطقها الأصلية في رأس العين بريف الحسكة ضمن القافلة الـ 8 للعودة الطوعية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[<b>الإخبارية: </b>370 عائلة تعود إلى مناطقها الأصلية في رأس العين بريف الحسكة ضمن القافلة الـ 8 للعودة الطوعية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
-            <enclosure url="https://cdn4.telesco.pe/file/Xx-CnbQ7r-1y9ImQqtvfjKVGOQs0SVYKmVmS2pS5fkQrPGjHrlK1uY4IiidsosgYhWjphdo1iJkSVAV7mT9rc45LDleXDb3MQcSlZPBSaM1sW0yUrM9787lwzoGLB04ZtMVcJ93lVXoi_TJTGLb5kvzzKO65wb1FRqC0d5eHvc9Ng7sElOeW_7YJK1Qa0UHKbeCJOqrWxDIEIzU0CCvaB5jtTzTNWMTKeFgcoiFqrDCDjRvAGa5BdXcJMWpHcXfFidRXOXpTQQbU_rv1W1rqz_qzdrngNQ0uIYPCB_cyt3kQOH_1wECNUtZTpyLzcwMD7pMSgXEfEkR6ovQqEKiaWw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

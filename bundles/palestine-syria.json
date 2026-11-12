@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "42aace90ce4b8753c9af8ec2106e506c4298fc3a00787d9084e7bbab548e5c49",
+            "content_html": "الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا",
+            "url": "https://t.me/aljazeeraBrk/244258",
+            "title": "الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة…",
+            "summary": "الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا",
+            "date_modified": "2026-11-12T21:49:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "73706fdd8118a7cc067435e50a4dc48ec2e009662983b608e0c824ede02454c0",
             "content_html": "\"طفلة الكاراتيه السورية\" نور ستوت تحرز المركز الثالث وعمر ليلاف الثاني في بطولة غرب آسيا<br><br><br><a href=\"https://halabtodaytv.net/archives/292420\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://halabtodaytv.net/archives/292420</a>",
             "url": "https://t.me/HalabTodayTV/142824",
@@ -1628,18 +1639,6 @@
             "date_modified": "2026-11-12T06:46:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "49af1d0dbe18edf81e3b2cdf1dbcca0214d3ff6ab93ff1c86ee5149d6bc2e261",
-            "content_html": "<b>الإخبارية: </b>370 عائلة تعود إلى مناطقها الأصلية في رأس العين بريف الحسكة ضمن القافلة الـ 8 للعودة الطوعية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142798",
-            "title": "الإخبارية: 370 عائلة تعود إلى مناطقها الأصلية في رأس العين بريف الحسكة ضمن…",
-            "summary": "<b>الإخبارية: </b>370 عائلة تعود إلى مناطقها الأصلية في رأس العين بريف الحسكة ضمن القافلة الـ 8 للعودة الطوعية<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/Xx-CnbQ7r-1y9ImQqtvfjKVGOQs0SVYKmVmS2pS5fkQrPGjHrlK1uY4IiidsosgYhWjphdo1iJkSVAV7mT9rc45LDleXDb3MQcSlZPBSaM1sW0yUrM9787lwzoGLB04ZtMVcJ93lVXoi_TJTGLb5kvzzKO65wb1FRqC0d5eHvc9Ng7sElOeW_7YJK1Qa0UHKbeCJOqrWxDIEIzU0CCvaB5jtTzTNWMTKeFgcoiFqrDCDjRvAGa5BdXcJMWpHcXfFidRXOXpTQQbU_rv1W1rqz_qzdrngNQ0uIYPCB_cyt3kQOH_1wECNUtZTpyLzcwMD7pMSgXEfEkR6ovQqEKiaWw.jpg",
-            "date_modified": "2026-11-12T06:31:08.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
