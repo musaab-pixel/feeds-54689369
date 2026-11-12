@@ -10094,30 +10094,32 @@
 
   </div>
 </div>    
-<div class="card-resource afd card-resource--color card-resource-standard">
+                
+                  
+            
+  
+    <div class="card-news afd card-news--color">
   <div class="card-news__main my-content relative z-10">
     <div class="card-news__title">
                         
 
 
 			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
-			Publications &amp; médias
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--cyan-500 pl-[5px] pr-[5px]">
+			Aller plus loin
 						
 						
 		</span>
 	</h2>
 
                   </div>
-
-    <div class="card-news__content pb-10 sm:pb-12">
-                  <div class="card-news__list fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
-                  
-<div class="card-news__node fr-col-12">
-  
+            <div class="pb-10 sm:pb-12">
+      <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
                     
-    
-  
+          
 
 
 
@@ -10125,11 +10127,143 @@
 
 
 
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/adaptaction-ensemble-face-au-changement-climatique" class="fr-card__link">Adapt'Action : ensemble face au changeme...</a>
+                  <a href="https://www.afd.fr/fr/actualites/role-groupe-afd-negociations-environnementales-internationales" class="fr-card__link">Quel rôle joue le groupe AFD dans les négociations environnementales internationales ?</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Climat
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 7 octobre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/cop31.jpg.webp?itok=-Ii4dNIP" alt title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/atlas-trois-oceans-territoires-insulaires" class="fr-card__link">Atlas Trois Océans : changer de regard sur les territoires insulaires</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Trois Océans
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Climat
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 5 octobre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/maurice.jpg.webp?itok=vjYDL78Y" alt="Maurice" title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                          
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/adaptation-climat-christophe-buffet" class="fr-card__link">« Considérons l’adaptation climatique comme une trajectoire et non comme une somme de solutions »</a>
               </h3>
       
               <div class="fr-card__start">
@@ -10141,7 +10275,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Publications institutionnelles
+    Climat
   </p>
 
       </div>
@@ -10149,133 +10283,31 @@
                             </div>
                                             <div class="fr-card__end">
                       <p class="fr-card__detail ">
-              Publié le     <time datetime="2022-11-09T12:00:00Z">9 novembre 2022</time>
-
+              Publié le 2 octobre 2026
             </p>
                   </div>
           </div>
       </div>
 
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-11-10-58-42/programme-adaptaction.jpg.webp?itok=g9dlq5ho" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-11-10-58-42/programme-adaptaction.jpg.webp?itok=g9dlq5ho" alt="Brochure AdapAction : ensemble face au changement climatique">
-    </div>
-  </div>
-  
-  </div>
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/copy-of-sundarbans-afd-sequenceafd-photography-mission-sundarbans-and-adjacent-community-112-1.jpg.webp?itok=SfReaTiZ" alt title>
 
-</div>
-
-<div class="card-news__node fr-col-12">
-  
-                    
-    
-  
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/philippines-lafd-met-le-developpement-au-service-de-la-resilience-climatique" class="fr-card__link">Philippines : l'AFD met le développement...</a>
-              </h3>
+      </div>
       
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Vidéo
-  </p>
-
-      </div>
-
-                            </div>
-                                            <div class="fr-card__end">
-                      <p class="fr-card__detail ">
-              Publié le     <time datetime="2022-07-21T12:00:00Z">21 juillet 2022</time>
-
-            </p>
-                  </div>
-          </div>
-      </div>
-
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img play-media">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-07-05-17-45/trait%20d%27union.PNG.webp?itok=N3Bo_6q_" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-07-05-17-45/trait%20d%27union.PNG.webp?itok=N3Bo_6q_" alt="Trait d'Union">
     </div>
-  </div>
   
   </div>
 
-</div>
-
-<div class="card-news__node fr-col-12">
-  
-                    
-    
-  
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/convergence-de-ladaptation-au-changement-climatique-acc-et-de-la-gestion-des-risques-de" class="fr-card__link">Convergence de l’adaptation au changemen...</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Document de recherche
-  </p>
-
-      </div>
-
-                            </div>
-                                            <div class="fr-card__end">
-                      <p class="fr-card__detail ">
-              Publié le     <time datetime="2023-09-01T12:00:00Z">1 septembre 2023</time>
-
-            </p>
-                  </div>
-          </div>
-      </div>
-
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2023-09-05-33-18/Adaptation%20au%20changement%20climatique_Gestion%20des%20risques%20de%20catastrophe_couv1.jpg.webp?itok=M8HvIt4H" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2023-09-05-33-18/Adaptation%20au%20changement%20climatique_Gestion%20des%20risques%20de%20catastrophe_couv1.jpg.webp?itok=M8HvIt4H" alt="Adaptation au changement climatique_Gestion des risques de catastrophe_couv1">
-    </div>
-  </div>
-  
-  </div>
-
-</div>
-
-                                        </div>
+        </div>
+              </div>
     </div>
 
-                </div>
+                  <div class="card-news__access">
+              
+	
+        </div>
+            </div>
 </div>]]></description>
             <content:encoded><![CDATA[Prévenir plutôt que subir : comment l’AFD pare aux risques climatiques ?
 <span><span>scappaticcie@afd.fr</span></span>
@@ -10403,30 +10435,32 @@
 
   </div>
 </div>    
-<div class="card-resource afd card-resource--color card-resource-standard">
+                
+                  
+            
+  
+    <div class="card-news afd card-news--color">
   <div class="card-news__main my-content relative z-10">
     <div class="card-news__title">
                         
 
 
 			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
-		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
-			Publications &amp; médias
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--cyan-500 pl-[5px] pr-[5px]">
+			Aller plus loin
 						
 						
 		</span>
 	</h2>
 
                   </div>
-
-    <div class="card-news__content pb-10 sm:pb-12">
-                  <div class="card-news__list fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
-                  
-<div class="card-news__node fr-col-12">
-  
+            <div class="pb-10 sm:pb-12">
+      <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
                     
-    
-  
+          
 
 
 
@@ -10434,11 +10468,143 @@
 
 
 
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/adaptaction-ensemble-face-au-changement-climatique" class="fr-card__link">Adapt'Action : ensemble face au changeme...</a>
+                  <a href="https://www.afd.fr/fr/actualites/role-groupe-afd-negociations-environnementales-internationales" class="fr-card__link">Quel rôle joue le groupe AFD dans les négociations environnementales internationales ?</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Climat
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Biodiversité
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 7 octobre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/cop31.jpg.webp?itok=-Ii4dNIP" alt title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                                                
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/atlas-trois-oceans-territoires-insulaires" class="fr-card__link">Atlas Trois Océans : changer de regard sur les territoires insulaires</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Trois Océans
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Climat
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le 5 octobre 2026
+            </p>
+                  </div>
+          </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/maurice.jpg.webp?itok=vjYDL78Y" alt="Maurice" title>
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+        </div>
+        
+                                          
+                              <div class="fr-col-12 card-standard fr-col-md-4">
+                    
+          
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/actualites/adaptation-climat-christophe-buffet" class="fr-card__link">« Considérons l’adaptation climatique comme une trajectoire et non comme une somme de solutions »</a>
               </h3>
       
               <div class="fr-card__start">
@@ -10450,7 +10616,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Publications institutionnelles
+    Climat
   </p>
 
       </div>
@@ -10458,133 +10624,31 @@
                             </div>
                                             <div class="fr-card__end">
                       <p class="fr-card__detail ">
-              Publié le     <time datetime="2022-11-09T12:00:00Z">9 novembre 2022</time>
-
+              Publié le 2 octobre 2026
             </p>
                   </div>
           </div>
       </div>
 
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-11-10-58-42/programme-adaptaction.jpg.webp?itok=g9dlq5ho" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-11-10-58-42/programme-adaptaction.jpg.webp?itok=g9dlq5ho" alt="Brochure AdapAction : ensemble face au changement climatique">
-    </div>
-  </div>
-  
-  </div>
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                <img src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/copy-of-sundarbans-afd-sequenceafd-photography-mission-sundarbans-and-adjacent-community-112-1.jpg.webp?itok=SfReaTiZ" alt title>
 
-</div>
-
-<div class="card-news__node fr-col-12">
-  
-                    
-    
-  
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/philippines-lafd-met-le-developpement-au-service-de-la-resilience-climatique" class="fr-card__link">Philippines : l'AFD met le développement...</a>
-              </h3>
+      </div>
       
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Vidéo
-  </p>
-
-      </div>
-
-                            </div>
-                                            <div class="fr-card__end">
-                      <p class="fr-card__detail ">
-              Publié le     <time datetime="2022-07-21T12:00:00Z">21 juillet 2022</time>
-
-            </p>
-                  </div>
-          </div>
-      </div>
-
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img play-media">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-07-05-17-45/trait%20d%27union.PNG.webp?itok=N3Bo_6q_" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2022-07-05-17-45/trait%20d%27union.PNG.webp?itok=N3Bo_6q_" alt="Trait d'Union">
     </div>
-  </div>
   
   </div>
 
-</div>
-
-<div class="card-news__node fr-col-12">
-  
-                    
-    
-  
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/convergence-de-ladaptation-au-changement-climatique-acc-et-de-la-gestion-des-risques-de" class="fr-card__link">Convergence de l’adaptation au changemen...</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Document de recherche
-  </p>
-
-      </div>
-
-                            </div>
-                                            <div class="fr-card__end">
-                      <p class="fr-card__detail ">
-              Publié le     <time datetime="2023-09-01T12:00:00Z">1 septembre 2023</time>
-
-            </p>
-                  </div>
-          </div>
-      </div>
-
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2023-09-05-33-18/Adaptation%20au%20changement%20climatique_Gestion%20des%20risques%20de%20catastrophe_couv1.jpg.webp?itok=M8HvIt4H" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2023-09-05-33-18/Adaptation%20au%20changement%20climatique_Gestion%20des%20risques%20de%20catastrophe_couv1.jpg.webp?itok=M8HvIt4H" alt="Adaptation au changement climatique_Gestion des risques de catastrophe_couv1">
-    </div>
-  </div>
-  
-  </div>
-
-</div>
-
-                                        </div>
+        </div>
+              </div>
     </div>
 
-                </div>
+                  <div class="card-news__access">
+              
+	
+        </div>
+            </div>
 </div>]]></content:encoded>
             <author>scappaticcie@afd.fr</author>
         </item>
