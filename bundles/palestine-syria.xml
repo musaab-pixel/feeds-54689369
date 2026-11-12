@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 19:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 19:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية بمنطقة الرياض]]></title>
+            <link>https://t.me/aljazeeraBrk/244243</link>
+            <guid isPermaLink="false">7f4419abc65faa9c051a067e60f53d71aefe02c7cb7153a9db48faac3e28c198</guid>
+            <pubDate>Thu, 12 Nov 2026 19:15:02 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية بمنطقة الرياض]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية بمنطقة الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ماذا لو انتهى دور الأونروا؟]]></title>
             <link>https://actionpal.org.uk/post/999136660</link>
@@ -2185,15 +2194,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 05:15:02 GMT</pubDate>
             <description><![CDATA[مدير مجمع ناصر الطبي للجزيرة: مجمع ناصر يقدم خدمات لنحو مليون مواطن وهو المجمع الوحيد الذي يقدم عمليات جراحة]]></description>
             <content:encoded><![CDATA[مدير مجمع ناصر الطبي للجزيرة: مجمع ناصر يقدم خدمات لنحو مليون مواطن وهو المجمع الوحيد الذي يقدم عمليات جراحة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مدير مجمع ناصر الطبي للجزيرة: الهجوم الإسرائيلي على المجمع الطبي أدى لخروج كامل…]]></title>
-            <link>https://t.me/aljazeeraBrk/244135</link>
-            <guid isPermaLink="false">5b193987291afa867eaef053e029bd688a5315e8df6266db3ce404cdf4ec695c</guid>
-            <pubDate>Thu, 12 Nov 2026 05:12:07 GMT</pubDate>
-            <description><![CDATA[مدير مجمع ناصر الطبي للجزيرة: الهجوم الإسرائيلي على المجمع الطبي أدى لخروج كامل المبنى عن الخدمة]]></description>
-            <content:encoded><![CDATA[مدير مجمع ناصر الطبي للجزيرة: الهجوم الإسرائيلي على المجمع الطبي أدى لخروج كامل المبنى عن الخدمة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

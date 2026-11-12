@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 18:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 19:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية بمنطقة الرياض]]></title>
+            <link>https://t.me/aljazeeraBrk/244243</link>
+            <guid isPermaLink="false">7f4419abc65faa9c051a067e60f53d71aefe02c7cb7153a9db48faac3e28c198</guid>
+            <pubDate>Thu, 12 Nov 2026 19:15:02 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية بمنطقة الرياض]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية بمنطقة الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القيادة المركزية الأمريكية للجزيرة: التقارير عن طلبنا من إسرائيل الاستعداد…]]></title>
             <link>https://t.me/aljazeeraBrk/244242</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 05:20:02 GMT</pubDate>
             <description><![CDATA[حاكم زابوروجيا الأوكراني: قتيل و15 مصابا في هجمات روسية على 54 بلدة في الإقليم خلال الليل]]></description>
             <content:encoded><![CDATA[حاكم زابوروجيا الأوكراني: قتيل و15 مصابا في هجمات روسية على 54 بلدة في الإقليم خلال الليل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر بالجيش السوداني للجزيرة: أسقطنا مسيرة ثانية بولاية غرب كردفان صباح اليوم]]></title>
-            <link>https://t.me/aljazeeraBrk/244012</link>
-            <guid isPermaLink="false">e50a52a49cc95b72224fa7e14fd55ffb4af22833f972ab33020563e4023ab4f9</guid>
-            <pubDate>Wed, 11 Nov 2026 05:00:02 GMT</pubDate>
-            <description><![CDATA[مصدر بالجيش السوداني للجزيرة: أسقطنا مسيرة ثانية بولاية غرب كردفان صباح اليوم]]></description>
-            <content:encoded><![CDATA[مصدر بالجيش السوداني للجزيرة: أسقطنا مسيرة ثانية بولاية غرب كردفان صباح اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
