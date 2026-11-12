@@ -19,7 +19,7 @@
     <div class="field__label">Date de l'événement (Début)</div>
               <div class="field__item"><time datetime="2026-11-09T00:00:00Z" class="datetime">lun 09/11/2026 - 01:00</time></div>
           </div>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span class="field field--name-created field--type-created field--label-hidden">mar 10/11/2026 - 17:14</span>
 
   <div class="field field--name-field-date-de-l-evenement-fin field--type-datetime field--label-above">
@@ -127,7 +127,7 @@
     <div class="field__label">Date de l'événement (Début)</div>
               <div class="field__item"><time datetime="2026-11-09T00:00:00Z" class="datetime">lun 09/11/2026 - 01:00</time></div>
           </div>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span class="field field--name-created field--type-created field--label-hidden">mar 10/11/2026 - 17:14</span>
 
   <div class="field field--name-field-date-de-l-evenement-fin field--type-datetime field--label-above">
@@ -252,11 +252,11 @@
             <guid isPermaLink="false">30bb55ceb0f8208fbffc26419cf7b39de0937540e36bda8bece4e00f0e21f79f</guid>
             <pubDate>Tue, 10 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cabo Verde : déploiement d’une Mission électorale de la Francophonie</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-10T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 10/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cabo Verde : déploiement d’une Mission électorale de la Francophonie</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-10T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 10/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -267,11 +267,11 @@
             <guid isPermaLink="false">036c699f21008c65c66de17d471768db0745ccf708d355f3a55a7b3a7e1bf0f2</guid>
             <pubDate>Fri, 06 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-06T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 06/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Face au changement climatique, la Francophonie mobilise une IA localisée et souveraine</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-06T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">ven 06/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -282,11 +282,11 @@
             <guid isPermaLink="false">e0d36a57ff4ef1022698edbccbcbf4888763739f06a263ba11969bd7e2bb73f2</guid>
             <pubDate>Thu, 05 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Mauritanie : l'OIF soutient 1200 femmes pour l'acquisition de kits de cuisson propre</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-05T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 05/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Mauritanie : l'OIF soutient 1200 femmes pour l'acquisition de kits de cuisson propre</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-05T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 05/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -297,11 +297,11 @@
             <guid isPermaLink="false">2a1f7c6f296a9d8da6903b31f3fab9d61425fb4347e84aedb268b049a7ea18a1</guid>
             <pubDate>Wed, 04 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : les 8 grands lauréats dévoilés</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">#CAP Innovation 2026 : les 8 grands lauréats dévoilés</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -312,11 +312,11 @@
             <guid isPermaLink="false">a2e7eb10cbbe4aea34840b43c18f0ac43752b8f413d8925cf0886642bcd141cc</guid>
             <pubDate>Wed, 04 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">41 projets de films et séries soutenus par l'OIF</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">41 projets de films et séries soutenus par l'OIF</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-04T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 04/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -327,11 +327,11 @@
             <guid isPermaLink="false">0abe525add7b4442c43b0d6080af8b0b3dc15973d6a1547def46c8a08325075a</guid>
             <pubDate>Tue, 03 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Destins francophones - 30 femmes au cœur de l’action</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-03T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 03/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Destins francophones - 30 femmes au cœur de l’action</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-03T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mar 03/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -357,11 +357,11 @@
             <guid isPermaLink="false">05747fd053e8479fd78363beb72c441444f14eb9bc924ba3be890ab2b79fd02d</guid>
             <pubDate>Mon, 02 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Bénin : 8 500 enfants bénéficient d’un accès à l’identité légale avec l’appui de l’OIF</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-02T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 02/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Bénin : 8 500 enfants bénéficient d’un accès à l’identité légale avec l’appui de l’OIF</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-02T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 02/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -417,11 +417,11 @@
             <guid isPermaLink="false">999177bd20876baa6da76d19ebc4c8ce7a478f3c09bef79140b08374b5b895a4</guid>
             <pubDate>Mon, 02 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Togo : 500 jeunes formés aux métiers du numérique</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-02T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 02/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Togo : 500 jeunes formés aux métiers du numérique</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-02T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 02/11/2026 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
@@ -4040,11 +4040,11 @@
             <guid isPermaLink="false">05a9c7283d5bc802cc65642056f8f9bc742baa344698e859d3920637dc0b9e46</guid>
             <pubDate>Wed, 17 Dec 2025 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cameroun : « Savoirs et Saveurs », une ferme pédagogique au service de l’agriculture durable et de la sécurité alimentaire</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2025-12-17T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 17/12/2025 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Cameroun : « Savoirs et Saveurs », une ferme pédagogique au service de l’agriculture durable et de la sécurité alimentaire</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/index.php/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2025-12-17T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">mer 17/12/2025 - 15:43</span>
 ]]></content:encoded>
             <author>skanderh</author>
