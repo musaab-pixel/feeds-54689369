@@ -4,10 +4,28 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 14:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 14:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[شرطة واشنطن: فريق الاستجابة للطوارئ موجود في الموقع وندعو المواطنين إلى تجنب…]]></title>
+            <link>https://t.me/aljazeeraBrk/244199</link>
+            <guid isPermaLink="false">e2935941bafb48ebd54b3d139a5fac26f925289e2ff3fe0909e6b26ca767a1d1</guid>
+            <pubDate>Thu, 12 Nov 2026 14:32:02 GMT</pubDate>
+            <description><![CDATA[شرطة واشنطن: فريق الاستجابة للطوارئ موجود في الموقع وندعو المواطنين إلى تجنب المنطقة]]></description>
+            <content:encoded><![CDATA[شرطة واشنطن: فريق الاستجابة للطوارئ موجود في الموقع وندعو المواطنين إلى تجنب المنطقة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[شرطة واشنطن: المشتبه به في إطلاق النار تحصن داخل مبنى في المنطقة الشمالية…]]></title>
+            <link>https://t.me/aljazeeraBrk/244198</link>
+            <guid isPermaLink="false">62c793463c8686f1cd449e228a5ae450883eda23311f205d7e7320b5e6d3b0f4</guid>
+            <pubDate>Thu, 12 Nov 2026 14:30:02 GMT</pubDate>
+            <description><![CDATA[شرطة واشنطن: المشتبه به في إطلاق النار تحصن داخل مبنى في المنطقة الشمالية الغربية من العاصمة]]></description>
+            <content:encoded><![CDATA[شرطة واشنطن: المشتبه به في إطلاق النار تحصن داخل مبنى في المنطقة الشمالية الغربية من العاصمة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[شبكة إيه بي سي عن شرطة واشنطن: 4 جرحى على الأقل في حادث إطلاق نار في العاصمة]]></title>
             <link>https://t.me/aljazeeraBrk/244197</link>
@@ -2216,24 +2234,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Wed, 11 Nov 2026 16:38:03 GMT</pubDate>
             <description><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></description>
             <content:encoded><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور…]]></title>
-            <link>https://t.me/aljazeeraBrk/244095</link>
-            <guid isPermaLink="false">e7b7178a967563a140c39bc067f271abe36963eb8170e7ad90bd6fa21f438482</guid>
-            <pubDate>Wed, 11 Nov 2026 16:38:03 GMT</pubDate>
-            <description><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور في مضيق هرمز]]></description>
-            <content:encoded><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قاليباف للجزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي…]]></title>
-            <link>https://t.me/aljazeeraBrk/244093</link>
-            <guid isPermaLink="false">3adaec72f25d4b2ad0346adef42c7d1f2952451559c8df40220a6dcb546b40e8</guid>
-            <pubDate>Wed, 11 Nov 2026 16:38:02 GMT</pubDate>
-            <description><![CDATA[قاليباف للجزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي هجوم]]></description>
-            <content:encoded><![CDATA[قاليباف للجزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي هجوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
