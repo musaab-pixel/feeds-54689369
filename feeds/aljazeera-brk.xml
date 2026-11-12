@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 19:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 19:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة بالمنطقة الشرقية في السعودية]]></title>
+            <link>https://t.me/aljazeeraBrk/244248</link>
+            <guid isPermaLink="false">272800b958de29ee62a2028897669233bff773f9b99b5b239630cdbdf2b50213</guid>
+            <pubDate>Thu, 12 Nov 2026 19:33:02 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة بالمنطقة الشرقية في السعودية]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة بالمنطقة الشرقية في السعودية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء الإيرانية عن مصادر: مدينة سيريك في محافظة هرمزغان تعرضت لهجوم…]]></title>
             <link>https://t.me/aljazeeraBrk/244247</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 06:28:01 GMT</pubDate>
             <description><![CDATA[حاكم مقاطعة سمولينسك الروسية: مقتل شخصين في هجوم أوكراني ليلي بطائرات مسيرة على مناطق بالمقاطعة]]></description>
             <content:encoded><![CDATA[حاكم مقاطعة سمولينسك الروسية: مقتل شخصين في هجوم أوكراني ليلي بطائرات مسيرة على مناطق بالمقاطعة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[موقع واللا عن مصادر: نتنياهو أنشأ فريقا خاصا للعمل على إحباط مساعي آيزنكوت…]]></title>
-            <link>https://t.me/aljazeeraBrk/244017</link>
-            <guid isPermaLink="false">50c95a6344a1b087c2b43be66d4cf1523b61a024a5b082b30fab0a39d7acd16d</guid>
-            <pubDate>Wed, 11 Nov 2026 06:19:02 GMT</pubDate>
-            <description><![CDATA[موقع واللا عن مصادر: نتنياهو أنشأ فريقا خاصا للعمل على إحباط مساعي آيزنكوت لتشكيل حكومة]]></description>
-            <content:encoded><![CDATA[موقع واللا عن مصادر: نتنياهو أنشأ فريقا خاصا للعمل على إحباط مساعي آيزنكوت لتشكيل حكومة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

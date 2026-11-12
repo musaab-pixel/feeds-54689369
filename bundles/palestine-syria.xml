@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 19:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 19:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة بالمنطقة الشرقية في السعودية]]></title>
+            <link>https://t.me/aljazeeraBrk/244248</link>
+            <guid isPermaLink="false">272800b958de29ee62a2028897669233bff773f9b99b5b239630cdbdf2b50213</guid>
+            <pubDate>Thu, 12 Nov 2026 19:33:02 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة بالمنطقة الشرقية في السعودية]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرة مسيرة بالمنطقة الشرقية في السعودية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء الإيرانية عن مصادر: مدينة سيريك في محافظة هرمزغان تعرضت لهجوم…]]></title>
             <link>https://t.me/aljazeeraBrk/244247</link>
@@ -2185,15 +2194,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 05:30:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة بغزة: نطالب المجتمع الدولي بالتدخل العاجل وتوفير الحماية للمستشفيات والطواقم الطبية والمرضى]]></description>
             <content:encoded><![CDATA[وزارة الصحة بغزة: نطالب المجتمع الدولي بالتدخل العاجل وتوفير الحماية للمستشفيات والطواقم الطبية والمرضى]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الصحة بغزة: ندين استهداف مبنى الجراحات بمجمع ناصر الطبي والذي أسفر عن 6…]]></title>
-            <link>https://t.me/aljazeeraBrk/244140</link>
-            <guid isPermaLink="false">e69c44d768ab4432c6f3e63db6a80456b5d5bf3130922cd4ddd973af119510bd</guid>
-            <pubDate>Thu, 12 Nov 2026 05:29:02 GMT</pubDate>
-            <description><![CDATA[وزارة الصحة بغزة: ندين استهداف مبنى الجراحات بمجمع ناصر الطبي والذي أسفر عن 6 شهداء من الطاقم الطبي والمرضى]]></description>
-            <content:encoded><![CDATA[وزارة الصحة بغزة: ندين استهداف مبنى الجراحات بمجمع ناصر الطبي والذي أسفر عن 6 شهداء من الطاقم الطبي والمرضى]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
