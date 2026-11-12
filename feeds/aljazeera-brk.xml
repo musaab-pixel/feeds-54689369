@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 08:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 08:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: هاجمنا في مجمع ناصر الطبي محمد أبو إسماعيل قائد لواء خان يونس…]]></title>
+            <link>https://t.me/aljazeeraBrk/244155</link>
+            <guid isPermaLink="false">5b5fe21200ec3eed66a4a5c338580c55f874e25c2767a787610a8ee8b8388016</guid>
+            <pubDate>Thu, 12 Nov 2026 08:32:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: هاجمنا في مجمع ناصر الطبي محمد أبو إسماعيل قائد لواء خان يونس في حركة حماس]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: هاجمنا في مجمع ناصر الطبي محمد أبو إسماعيل قائد لواء خان يونس في حركة حماس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة كييف: قتيلة و6 مصابين في اصطدام مسيرة روسية بمبنى سكني في منطقة سولوميانكا…]]></title>
             <link>https://t.me/aljazeeraBrk/244154</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 10 Nov 2026 13:53:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الأمريكي: الشعب الإيراني هو من يدفع الثمن بسبب قيادته]]></description>
             <content:encoded><![CDATA[وزير الخارجية الأمريكي: الشعب الإيراني هو من يدفع الثمن بسبب قيادته]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الأمريكي: لا حاجة لعمليات قتالية كبيرة ضد إيران مع الحملة…]]></title>
-            <link>https://t.me/aljazeeraBrk/243924</link>
-            <guid isPermaLink="false">380c5b0d5cba5e57c4c701b8515c2373aac7f0c27ba3ead4387fd7d0dbbac997</guid>
-            <pubDate>Tue, 10 Nov 2026 13:51:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الأمريكي: لا حاجة لعمليات قتالية كبيرة ضد إيران مع الحملة الاقتصادية]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الأمريكي: لا حاجة لعمليات قتالية كبيرة ضد إيران مع الحملة الاقتصادية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
