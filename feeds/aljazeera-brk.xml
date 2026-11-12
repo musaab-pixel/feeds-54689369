@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 11:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 12:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 9 شهداء بنيران الاحتلال منذ فجر اليوم منهم 6 في غارة على…]]></title>
+            <link>https://t.me/aljazeeraBrk/244174</link>
+            <guid isPermaLink="false">3d4beb29d40a2a9c7fc531170ae4b7603bb0437c63a8f1f32764afebcd9bb0e3</guid>
+            <pubDate>Thu, 12 Nov 2026 12:07:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 9 شهداء بنيران الاحتلال منذ فجر اليوم منهم 6 في غارة على مجمع ناصر الطبي بخان يونس]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 9 شهداء بنيران الاحتلال منذ فجر اليوم منهم 6 في غارة على مجمع ناصر الطبي بخان يونس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ: شهيد ومصابون في غارة إسرائيلية أمام بوابة مجمع الشفاء…]]></title>
             <link>https://t.me/aljazeeraBrk/244173</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 10 Nov 2026 14:24:03 GMT</pubDate>
             <description><![CDATA[الرئيس الإسرائيلي: على أعضاء الكنيست أن يمدوا أيديهم للوحدة وتجنب الذهاب إلى انتخابات معادة]]></description>
             <content:encoded><![CDATA[الرئيس الإسرائيلي: على أعضاء الكنيست أن يمدوا أيديهم للوحدة وتجنب الذهاب إلى انتخابات معادة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإسرائيلي: من الواجب التحقيق في كيفية حدوث كارثة 7 أكتوبر واستخلاص العبر]]></title>
-            <link>https://t.me/aljazeeraBrk/243944</link>
-            <guid isPermaLink="false">e1ae59eb9713607da0b141e94aef0293e52f472b5b68884075224c9ae28c2751</guid>
-            <pubDate>Tue, 10 Nov 2026 14:24:03 GMT</pubDate>
-            <description><![CDATA[الرئيس الإسرائيلي: من الواجب التحقيق في كيفية حدوث كارثة 7 أكتوبر واستخلاص العبر]]></description>
-            <content:encoded><![CDATA[الرئيس الإسرائيلي: من الواجب التحقيق في كيفية حدوث كارثة 7 أكتوبر واستخلاص العبر]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
