@@ -5,6 +5,40 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "dd5464db9a632bb3217408e89e74dec4a7f5ddfdc2b1f3bee90ec95802b97973",
+            "content_html": "سي بي إس عن شرطة واشنطن: إصابة 5 أشخاص بإطلاق نار في حي لوغان سيركل بالعاصمة الأمريكية",
+            "url": "https://t.me/aljazeeraBrk/244201",
+            "title": "سي بي إس عن شرطة واشنطن: إصابة 5 أشخاص بإطلاق نار في حي لوغان سيركل بالعاصمة…",
+            "summary": "سي بي إس عن شرطة واشنطن: إصابة 5 أشخاص بإطلاق نار في حي لوغان سيركل بالعاصمة الأمريكية",
+            "date_modified": "2026-11-12T14:48:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "8af6412e5ace7bd8c4d1436335d2a61353836905fdb7db2d66de4439c44edf0d",
+            "content_html": "موقع ذا واشنطن صن: حادث إطلاق نار  وقع داخل مركز رياضي وفي محيطه بمنطقة لوغان سيركل شمال غربي واشنطن",
+            "url": "https://t.me/aljazeeraBrk/244200",
+            "title": "موقع ذا واشنطن صن: حادث إطلاق نار وقع داخل مركز رياضي وفي محيطه بمنطقة لوغان…",
+            "summary": "موقع ذا واشنطن صن: حادث إطلاق نار  وقع داخل مركز رياضي وفي محيطه بمنطقة لوغان سيركل شمال غربي واشنطن",
+            "date_modified": "2026-11-12T14:46:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "85faac8d1b685435d0acdd1a9ae5edb0c74f4e85e50f6d01073234cba7b867e2",
+            "content_html": "الهيئة العامة للطيران المدني:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إقلاع أول رحلة مباشرة للخطوط الجوية السورية من مطار دمشق الدولي إلى مدينة ميونخ الألمانية إيذانًا بانطلاق الرحلات الجوية المنتظمة بين المدينتين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142818",
+            "title": "الهيئة العامة للطيران المدني: 📌إقلاع أول رحلة مباشرة للخطوط الجوية السورية من…",
+            "summary": "الهيئة العامة للطيران المدني:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>إقلاع أول رحلة مباشرة للخطوط الجوية السورية من مطار دمشق الدولي إلى مدينة ميونخ الألمانية إيذانًا بانطلاق الرحلات الجوية المنتظمة بين المدينتين<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/otcvxZfbTs9WQvdn60HKTU5aJ4WsNDk9hkE-XShnjZ4LbgiUt_V-nJBTfzkwe2dBSl4mF_R3VYRqrQfPQIA9DW7IdxmeMEQWM5xMSklY-BHlVjQ-CFAqQKJ9wuyrSw1Snw4XK81n0x7BcFl9OplEb1EQuQNBzlb9BuuBfseXZRiItRgY2ZAQF99j2lef4OfFFkvVJB0T2RAqTQmFU3KFAze1xBr1ngiHDxoaRynbF9pYHLz4KZ2UhSBnvGr6bQ-otVv5DdtWajwPxDAURB4kjYbZ2AdsjeCUBcBNIRx0LnKCcXACky595Rcs933qFsD4fg6J-02XIFORa0Rl1MXs8w.jpg",
+            "date_modified": "2026-11-12T14:45:27.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "e2935941bafb48ebd54b3d139a5fac26f925289e2ff3fe0909e6b26ca767a1d1",
             "content_html": "شرطة واشنطن: فريق الاستجابة للطوارئ موجود في الموقع وندعو المواطنين إلى تجنب المنطقة",
             "url": "https://t.me/aljazeeraBrk/244199",
@@ -1595,39 +1629,6 @@
             "title": "قاليباف للجزيرة: مستعدون لمساعدة السعودية وأنصار الله على حل الخلافات بينهما…",
             "summary": "قاليباف للجزيرة: مستعدون لمساعدة السعودية وأنصار الله على حل الخلافات بينهما إذا طلبا منا ذلك",
             "date_modified": "2026-11-11T16:40:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "57f37d1d4e88d0e63e1e4a6480e8f0e0395ae39155e9c80f87e4717126d4e292",
-            "content_html": "قاليباف للجزيرة: يجب ألا يتدخل أحد في في شؤون اليمن وعلى اليمنيين حل خلافاتهم بأنفسهم",
-            "url": "https://t.me/aljazeeraBrk/244098",
-            "title": "قاليباف للجزيرة: يجب ألا يتدخل أحد في في شؤون اليمن وعلى اليمنيين حل خلافاتهم…",
-            "summary": "قاليباف للجزيرة: يجب ألا يتدخل أحد في في شؤون اليمن وعلى اليمنيين حل خلافاتهم بأنفسهم",
-            "date_modified": "2026-11-11T16:40:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "253acde5e8e9d0c2adce180f429a539e8de4695070060eb4d5dc609ad4a57809",
-            "content_html": "قاليباف للجزيرة: لا نفرق بين إسرائيل وواشنطن بالمفاوضات أو الحرب  فهما جبهة واحدة ونحن والمقاومة جبهة واحدة",
-            "url": "https://t.me/aljazeeraBrk/244096",
-            "title": "قاليباف للجزيرة: لا نفرق بين إسرائيل وواشنطن بالمفاوضات أو الحرب فهما جبهة…",
-            "summary": "قاليباف للجزيرة: لا نفرق بين إسرائيل وواشنطن بالمفاوضات أو الحرب  فهما جبهة واحدة ونحن والمقاومة جبهة واحدة",
-            "date_modified": "2026-11-11T16:39:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "b6ef868ab0ec0f8042a3006edf34cde9d4ae5a900701652c1e6e2e4f9bade54b",
-            "content_html": "قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها",
-            "url": "https://t.me/aljazeeraBrk/244094",
-            "title": "قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها",
-            "summary": "قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها",
-            "date_modified": "2026-11-11T16:38:03.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
