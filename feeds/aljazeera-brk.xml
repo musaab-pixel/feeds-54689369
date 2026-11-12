@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 16:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:00:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع التركية: مقتل 4 عسكريين إثر تحطم مروحيتهم في ولاية ملاطية]]></title>
+            <link>https://t.me/aljazeeraBrk/244229</link>
+            <guid isPermaLink="false">00c5e4fb9daafd97e6d6ec8bee34b9573c9905a6b6046d20c403035566545927</guid>
+            <pubDate>Thu, 12 Nov 2026 16:55:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع التركية: مقتل 4 عسكريين إثر تحطم مروحيتهم في ولاية ملاطية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع التركية: مقتل 4 عسكريين إثر تحطم مروحيتهم في ولاية ملاطية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تركية: مصرع 4 أشخاص في حادث سقوط طائرة مروحية في البلاد]]></title>
             <link>https://t.me/aljazeeraBrk/244228</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 10 Nov 2026 23:10:02 GMT</pubDate>
             <description><![CDATA[مجلس النواب الأميركي بقيادة الجمهوريين يحبط مسعى لعزل وزير الدفاع بيت هيغسيث]]></description>
             <content:encoded><![CDATA[مجلس النواب الأميركي بقيادة الجمهوريين يحبط مسعى لعزل وزير الدفاع بيت هيغسيث]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجلس النواب الأمريكي بقيادة الجمهوريين يحبط مسعى لعزل وزير الدفاع بيت هيغسيث]]></title>
-            <link>https://t.me/aljazeeraBrk/243999</link>
-            <guid isPermaLink="false">e9ff7564a4b159e749843c65207176740ba00089fa3193b71b17defdd7e01231</guid>
-            <pubDate>Tue, 10 Nov 2026 23:10:02 GMT</pubDate>
-            <description><![CDATA[مجلس النواب الأمريكي بقيادة الجمهوريين يحبط مسعى لعزل وزير الدفاع بيت هيغسيث]]></description>
-            <content:encoded><![CDATA[مجلس النواب الأمريكي بقيادة الجمهوريين يحبط مسعى لعزل وزير الدفاع بيت هيغسيث]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

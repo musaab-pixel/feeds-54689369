@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "00c5e4fb9daafd97e6d6ec8bee34b9573c9905a6b6046d20c403035566545927",
+            "content_html": "وزارة الدفاع التركية: مقتل 4 عسكريين إثر تحطم مروحيتهم في ولاية ملاطية",
+            "url": "https://t.me/aljazeeraBrk/244229",
+            "title": "وزارة الدفاع التركية: مقتل 4 عسكريين إثر تحطم مروحيتهم في ولاية ملاطية",
+            "summary": "وزارة الدفاع التركية: مقتل 4 عسكريين إثر تحطم مروحيتهم في ولاية ملاطية",
+            "date_modified": "2026-11-12T16:55:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2d2ac51e997ac344976bf7fafe8e2ee51d63cb4217640dc1c76d7f73a2e4fb23",
+            "content_html": "وسائل إعلام تركية: وفاة 4 أشخاص في حادث سقوط طائرة مروحية في البلاد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142821",
+            "title": "وسائل إعلام تركية: وفاة 4 أشخاص في حادث سقوط طائرة مروحية في البلاد لمتابعة…",
+            "summary": "وسائل إعلام تركية: وفاة 4 أشخاص في حادث سقوط طائرة مروحية في البلاد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-12T16:50:06.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "a85af9e9a797b5096eb01bcc4320e84e64993a8eed31b8e04fffe66aa626c9e0",
             "content_html": "وسائل إعلام تركية: مصرع 4 أشخاص في حادث سقوط طائرة مروحية في البلاد",
             "url": "https://t.me/aljazeeraBrk/244228",
@@ -1620,28 +1642,6 @@
             "date_modified": "2026-11-11T20:58:01.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "afb9858dd5d632303b899626fb6e7184314c4105b6cfb311b3b3c0055f5b1470",
-            "content_html": "الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بصواريخ باليستية مقر قيادة وغرفة عمليات بالبريقة في عدن",
-            "url": "https://t.me/aljazeeraBrk/244118",
-            "title": "الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بصواريخ باليستية مقر قيادة…",
-            "summary": "الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بصواريخ باليستية مقر قيادة وغرفة عمليات بالبريقة في عدن",
-            "date_modified": "2026-11-11T20:37:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "bfa425af72420177b4bd15cd92755be41814b34cf6ff56f2e7ebbcdb137e913a",
-            "content_html": "الإخبارية: قوات الاحتلال الإسرائيلي تتوغل بآليات عسكرية في قرية الصمدانية الشرقية بريف القنيطرة الأوسط<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142792",
-            "title": "الإخبارية: قوات الاحتلال الإسرائيلي تتوغل بآليات عسكرية في قرية الصمدانية…",
-            "summary": "الإخبارية: قوات الاحتلال الإسرائيلي تتوغل بآليات عسكرية في قرية الصمدانية الشرقية بريف القنيطرة الأوسط<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-11T20:15:56.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
