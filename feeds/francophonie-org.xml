@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 16:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 16:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -57,6 +57,21 @@
             <title><![CDATA[République centrafricaine : l'OIF renforce les compétences des jeunes et soutient l'entrepreneuriat agricole durable]]></title>
             <link>https://www.francophonie.org/republique-centrafricaine-loif-renforce-les-competences-des-jeunes-et-soutient-lentrepreneuriat</link>
             <guid isPermaLink="false">31b5486d5ca4f11f864a11e351fe641d45be43fc9340bcd9af8494cd5cec71bf</guid>
+            <pubDate>Thu, 12 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">République centrafricaine : l'OIF renforce les compétences des jeunes et soutient l'entrepreneuriat agricole durable</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-12T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 12/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">République centrafricaine : l'OIF renforce les compétences des jeunes et soutient l'entrepreneuriat agricole durable</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-12T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 12/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[République centrafricaine : l'OIF renforce les compétences des jeunes et soutient l'entrepreneuriat agricole durable]]></title>
+            <link>https://www.francophonie.org/rca-renforcement-competences-jeunes-et-entrepreneuriat-agricole-durable-8771</link>
+            <guid isPermaLink="false">2306934bbe70642745b0956c169506d07df9617aa076ab5110acfaae3cde6b4e</guid>
             <pubDate>Thu, 12 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">République centrafricaine : l'OIF renforce les compétences des jeunes et soutient l'entrepreneuriat agricole durable</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
