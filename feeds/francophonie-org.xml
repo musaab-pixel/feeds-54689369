@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Tue, 10 Nov 2026 17:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 11:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Sommet Afric’innov 2026 : l’OIF contribue à la réflexion sur l’accompagnement entrepreneurial en Afrique à l’ère de l’IA]]></title>
+            <link>https://www.francophonie.org/l-OIF-au-sommet-africinnov-2026-8768</link>
+            <guid isPermaLink="false">799bfea3bbd0b0e7ed8403986a19fd706f114c0f39fa4ad6fb6c47350923a6e4</guid>
+            <pubDate>Thu, 12 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Sommet Afric’innov 2026 : l’OIF contribue à la réflexion sur l’accompagnement entrepreneurial en Afrique à l’ère de l’IA</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-12T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 12/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Sommet Afric’innov 2026 : l’OIF contribue à la réflexion sur l’accompagnement entrepreneurial en Afrique à l’ère de l’IA</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-12T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">jeu 12/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[La Francophonie à la COP31]]></title>
             <link>https://www.francophonie.org/la-francophonie-la-cop31-8767</link>
