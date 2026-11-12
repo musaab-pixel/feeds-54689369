@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 17:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></title>
+            <link>https://t.me/aljazeeraBrk/244240</link>
+            <guid isPermaLink="false">966e06552e3dc7dd47e7be7b1686da36866db8b6d49f49a7c26b6f2122f88eeb</guid>
+            <pubDate>Thu, 12 Nov 2026 17:45:02 GMT</pubDate>
+            <description><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></description>
+            <content:encoded><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: أدعو قيادة مجلس الشيوخ إلى التحرك فورا لتمرير تمويل إضافي للبنتاغون يصل…]]></title>
             <link>https://t.me/aljazeeraBrk/244239</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 04:30:02 GMT</pubDate>
             <description><![CDATA[الرئيس الإيراني: نتائج الانتخابات في الولايات المتحدة وإسرائيل وأوروبا كانت مخالفة لتوجهات دعاة الحرب]]></description>
             <content:encoded><![CDATA[الرئيس الإيراني: نتائج الانتخابات في الولايات المتحدة وإسرائيل وأوروبا كانت مخالفة لتوجهات دعاة الحرب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش السوداني: دفاعاتنا الجوية أسقطت مسيرة بولاية غرب كردفان فجر اليوم الأربعاء]]></title>
-            <link>https://t.me/aljazeeraBrk/244009</link>
-            <guid isPermaLink="false">30d27083c989b5f706c35033b9c6d4a90ce38ef8b85e0f94425cbbd851835119</guid>
-            <pubDate>Wed, 11 Nov 2026 03:53:02 GMT</pubDate>
-            <description><![CDATA[الجيش السوداني: دفاعاتنا الجوية أسقطت مسيرة بولاية غرب كردفان فجر اليوم الأربعاء]]></description>
-            <content:encoded><![CDATA[الجيش السوداني: دفاعاتنا الجوية أسقطت مسيرة بولاية غرب كردفان فجر اليوم الأربعاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

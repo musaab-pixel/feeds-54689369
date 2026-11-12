@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 17:35:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></title>
+            <link>https://t.me/aljazeeraBrk/244240</link>
+            <guid isPermaLink="false">966e06552e3dc7dd47e7be7b1686da36866db8b6d49f49a7c26b6f2122f88eeb</guid>
+            <pubDate>Thu, 12 Nov 2026 17:45:02 GMT</pubDate>
+            <description><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></description>
+            <content:encoded><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: أدعو قيادة مجلس الشيوخ إلى التحرك فورا لتمرير تمويل إضافي للبنتاغون يصل…]]></title>
             <link>https://t.me/aljazeeraBrk/244239</link>
@@ -2140,15 +2149,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 03:50:02 GMT</pubDate>
             <description><![CDATA[حماس: الاحتلال لا يكترث بمساعي الوسطاء والدول الضامنة والإدارة الأمريكية ويتصرف بصورة منفلتة من أي مساءلة]]></description>
             <content:encoded><![CDATA[حماس: الاحتلال لا يكترث بمساعي الوسطاء والدول الضامنة والإدارة الأمريكية ويتصرف بصورة منفلتة من أي مساءلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: قصف مستشفى ناصر بخان يونس جريمة حرب تفضح إفلات الاحتلال من العقاب وتضع…]]></title>
-            <link>https://t.me/aljazeeraBrk/244127</link>
-            <guid isPermaLink="false">86e119391dc66fae7c96d9cb5e84ba23cdd6fcbb71bcb8aa79cc8e959db5f91a</guid>
-            <pubDate>Thu, 12 Nov 2026 03:49:01 GMT</pubDate>
-            <description><![CDATA[حماس: قصف مستشفى ناصر بخان يونس جريمة حرب تفضح إفلات الاحتلال من العقاب وتضع المجتمع الدولي أمام مسؤولياته]]></description>
-            <content:encoded><![CDATA[حماس: قصف مستشفى ناصر بخان يونس جريمة حرب تفضح إفلات الاحتلال من العقاب وتضع المجتمع الدولي أمام مسؤولياته]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
