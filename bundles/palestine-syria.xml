@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 17:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 18:44:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي…]]></title>
+            <link>https://t.me/HalabTodayTV/142822</link>
+            <guid isPermaLink="false">340eb19ba50db2191c1ba65ebb4ddd87549b1d9a2c4776b112e4b4b84cab1f9d</guid>
+            <pubDate>Thu, 12 Nov 2026 18:32:38 GMT</pubDate>
+            <description><![CDATA[سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي<br><br><a href="https://halabtodaytv.net/archives/292417" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">https://halabtodaytv.net/archives/292417</a>]]></description>
+            <content:encoded><![CDATA[سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي<br><br><a href="https://halabtodaytv.net/archives/292417" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">https://halabtodaytv.net/archives/292417</a>]]></content:encoded>
+            <author>Halab Today TV قناة حلب اليوم</author>
+        </item>
         <item>
             <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بمسيرة شركة أرامكو في الرياض]]></title>
             <link>https://t.me/aljazeeraBrk/244241</link>
@@ -2140,15 +2149,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 03:51:01 GMT</pubDate>
             <description><![CDATA[حماس: على الوسطاء والإدارة الأمريكية التحرك لوقف انتهاكات الاحتلال المستمرة وضمان التزامه بوقف إطلاق النار]]></description>
             <content:encoded><![CDATA[حماس: على الوسطاء والإدارة الأمريكية التحرك لوقف انتهاكات الاحتلال المستمرة وضمان التزامه بوقف إطلاق النار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم…]]></title>
-            <link>https://t.me/aljazeeraBrk/244128</link>
-            <guid isPermaLink="false">a7b28fce1b0458a4e53d9935986e29f8606b71a9dc4b42b8a73fea7f1ca1c662</guid>
-            <pubDate>Thu, 12 Nov 2026 03:50:02 GMT</pubDate>
-            <description><![CDATA[حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم الاحتلال وعجزه عن وقفها]]></description>
-            <content:encoded><![CDATA[حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم الاحتلال وعجزه عن وقفها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "340eb19ba50db2191c1ba65ebb4ddd87549b1d9a2c4776b112e4b4b84cab1f9d",
+            "content_html": "سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي<br><br><a href=\"https://halabtodaytv.net/archives/292417\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://halabtodaytv.net/archives/292417</a>",
+            "url": "https://t.me/HalabTodayTV/142822",
+            "title": "سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي…",
+            "summary": "سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي<br><br><a href=\"https://halabtodaytv.net/archives/292417\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://halabtodaytv.net/archives/292417</a>",
+            "date_modified": "2026-11-12T18:32:38.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "2d2ac51e997ac344976bf7fafe8e2ee51d63cb4217640dc1c76d7f73a2e4fb23",
             "content_html": "وسائل إعلام تركية: وفاة 4 أشخاص في حادث سقوط طائرة مروحية في البلاد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/142821",
@@ -2315,18 +2326,6 @@
             "summary": "حطين يفوز على قامشلي سبورت بنتيجة 3-2 ضمن الجولة الخامسة من الدوري الممتاز لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/Bqw_AMB7N4yKr0IMzSWxldNOWTDXPkvF3rojnb52zVoZtIdd225YKlWZsvR-RoPLAe1OWlDuNOElbULX4adtJXce_XavdbvYcpDmjN3WGNwr4j15nkcOKII6z4QvDP6Zloz580mYPVi93ZwjuY32p58d7uaiBV8uWowb0S8vkB1DOxH7pu45G7b0H7epc-e7rika91ydgEd7gWQ42BQeEvvCb9u7ucivZarOWXZjLWAm9qwLyRGYqzo6SVjcKp-vFEWuzc9hQfZlduOXsDeMSYNfkeUR3iFWF7FjvIR-TCqqy9UhK-VbDoUMOYx6GTK6mUvDyHfChxebBLZ05xde9w.jpg",
             "date_modified": "2026-11-06T15:27:56.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "050e2424bd42df5ef72d1da7da18f7e5343bbf1b0aa9e14f08e7a82591d66406",
-            "content_html": "الطليعة يفوز على النواعير بنتيجة 1-0 ضمن الجولة الخامسة من الدوري الممتاز لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142594",
-            "title": "الطليعة يفوز على النواعير بنتيجة 1-0 ضمن الجولة الخامسة من الدوري الممتاز لكرة…",
-            "summary": "الطليعة يفوز على النواعير بنتيجة 1-0 ضمن الجولة الخامسة من الدوري الممتاز لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/qaHiDmN4edcXXeOIJhQJJVu5Z3DLsQVTl9qj8dK53QZDdQypih0bw1s-LrSW1m4RW22RgsC5kkYvgtEZ3As8QGLqbtY9uRpbHKXpTsU_Nql50cVQFJpzzyGGMU9-llW-eRQbMttv_F92RQaGstzbCqo-Vdespg23rlCCcPuVts8dPqMQnsAqkjh47KJjPk4f2DC8mNLEmCOW2K8V8b-sw4KM2dp_dEz_x9hZkix8mn_wKDhjagy86C7c7vw6d69KDRkrqSXukfabxpVGBq0AjPKu5Hbq7XIExDwJlCH3DQP8dZV5HiTXh8RF2s-THDRVr7HjFqfHt5ZbeLnO6VfzXA.jpg",
-            "date_modified": "2026-11-06T15:14:32.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }

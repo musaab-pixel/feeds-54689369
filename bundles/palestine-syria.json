@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "340eb19ba50db2191c1ba65ebb4ddd87549b1d9a2c4776b112e4b4b84cab1f9d",
+            "content_html": "سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي<br><br><a href=\"https://halabtodaytv.net/archives/292417\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://halabtodaytv.net/archives/292417</a>",
+            "url": "https://t.me/HalabTodayTV/142822",
+            "title": "سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي…",
+            "summary": "سوريا تستعيد طائرة تابعة لقواتها الجوية كانت متوقفة في مطار بنغازي الليبي<br><br><a href=\"https://halabtodaytv.net/archives/292417\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://halabtodaytv.net/archives/292417</a>",
+            "date_modified": "2026-11-12T18:32:38.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "1c46ffa9da073ea08e32b7f7b8cfaa66ed43e4037daa3c63e03e58d2917a0532",
             "content_html": "الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بمسيرة شركة أرامكو في الرياض",
             "url": "https://t.me/aljazeeraBrk/244241",
@@ -1628,17 +1639,6 @@
             "title": "حماس: على الوسطاء والإدارة الأمريكية التحرك لوقف انتهاكات الاحتلال المستمرة…",
             "summary": "حماس: على الوسطاء والإدارة الأمريكية التحرك لوقف انتهاكات الاحتلال المستمرة وضمان التزامه بوقف إطلاق النار",
             "date_modified": "2026-11-12T03:51:01.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a7b28fce1b0458a4e53d9935986e29f8606b71a9dc4b42b8a73fea7f1ca1c662",
-            "content_html": "حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم الاحتلال وعجزه عن وقفها",
-            "url": "https://t.me/aljazeeraBrk/244128",
-            "title": "حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم…",
-            "summary": "حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم الاحتلال وعجزه عن وقفها",
-            "date_modified": "2026-11-12T03:50:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
