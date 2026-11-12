@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 12:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 13:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى شهداء الأقصى: مصابون في غارة من مسيرة إسرائيلية على مركبة جنوبي دير…]]></title>
+            <link>https://t.me/aljazeeraBrk/244176</link>
+            <guid isPermaLink="false">5c1d0e96129372a0c5674b56278aa646e3e0ecdc614317647bcdfe6cf7ca7e3c</guid>
+            <pubDate>Thu, 12 Nov 2026 12:56:02 GMT</pubDate>
+            <description><![CDATA[مستشفى شهداء الأقصى: مصابون في غارة من مسيرة إسرائيلية على مركبة جنوبي دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مستشفى شهداء الأقصى: مصابون في غارة من مسيرة إسرائيلية على مركبة جنوبي دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن جرحى إثر إصابة ناقلة نفط بمقذوف…]]></title>
             <link>https://t.me/aljazeeraBrk/244175</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 10 Nov 2026 14:26:02 GMT</pubDate>
             <description><![CDATA[زيلنسكي: المفاوضون في أبو ظبي ناقشوا تبادل الأسرى وضمانات أمنية]]></description>
             <content:encoded><![CDATA[زيلنسكي: المفاوضون في أبو ظبي ناقشوا تبادل الأسرى وضمانات أمنية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الإسرائيلي: يجب إيجاد حل لموضوع التجنيد وأخذه على محمل الجد]]></title>
-            <link>https://t.me/aljazeeraBrk/243945</link>
-            <guid isPermaLink="false">cdd33aac216cbaa48e06cfa91cb9c0f17364e51f8a865c31bf0c8c4517a33569</guid>
-            <pubDate>Tue, 10 Nov 2026 14:25:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الإسرائيلي: يجب إيجاد حل لموضوع التجنيد وأخذه على محمل الجد]]></description>
-            <content:encoded><![CDATA[الرئيس الإسرائيلي: يجب إيجاد حل لموضوع التجنيد وأخذه على محمل الجد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
