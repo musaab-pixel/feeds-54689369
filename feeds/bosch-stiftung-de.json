@@ -148,6 +148,17 @@
             }
         },
         {
+            "id": "ec2b3dd9350704100b4701227aaaa257f020de2906c3f7ef9dbe12d3e0aec0b1",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Für mehr Nachrichtenkompetenz in Baden-Württemberg</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T15:16:15+02:00\" title=\"Freitag, 9 Oktober 2026 - 15:16\" class=\"datetime\">Fr. 9 Okt 2026 - 15:16</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/fuer-mehr-nachrichtenkompetenz-baden-wuerttemberg",
+            "title": "Für mehr Nachrichtenkompetenz in Baden-Württemberg",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Für mehr Nachrichtenkompetenz in Baden-Württemberg</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T15:16:15+02:00\" title=\"Freitag, 9 Oktober 2026 - 15:16\" class=\"datetime\">Fr. 9 Okt 2026 - 15:16</time>\n</span>\n",
+            "date_modified": "2026-10-09T13:16:15.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "aac94606d7b013af3a6732e96c12f95b3092fd1fcaa5f758df6426e3401ad654",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Die neue Logik der Pandemieplanung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-09T12:49:04+02:00\" title=\"Freitag, 9 Oktober 2026 - 12:49\" class=\"datetime\">Fr. 9 Okt 2026 - 12:49</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/die-neue-logik-der-pandemieplanung",
