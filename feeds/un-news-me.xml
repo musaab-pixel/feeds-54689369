@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Sun, 08 Nov 2026 04:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 08:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168784</link>
+            <guid isPermaLink="false">cf886cd6267ba1020acd49b6101598c563bd30671e89399b8b95be55bb0e2e1a</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.&nbsp;]]></description>
+            <content:encoded><![CDATA[The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.&nbsp;]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-05-2021-UNIFIL8.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘For the first time I have my own chair’: Gaza siblings find new freedom]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/11/1168759</link>
