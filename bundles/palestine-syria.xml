@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 17:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 17:57:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بمسيرة شركة أرامكو في الرياض]]></title>
+            <link>https://t.me/aljazeeraBrk/244241</link>
+            <guid isPermaLink="false">1c46ffa9da073ea08e32b7f7b8cfaa66ed43e4037daa3c63e03e58d2917a0532</guid>
+            <pubDate>Thu, 12 Nov 2026 17:56:02 GMT</pubDate>
+            <description><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بمسيرة شركة أرامكو في الرياض]]></description>
+            <content:encoded><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا بمسيرة شركة أرامكو في الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة مدينة نيويورك: 8 قتلى و18مصابا إثر انهيار مبنى سكني في بروكلين]]></title>
             <link>https://t.me/aljazeeraBrk/244240</link>
@@ -2140,15 +2149,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 03:50:02 GMT</pubDate>
             <description><![CDATA[حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم الاحتلال وعجزه عن وقفها]]></description>
             <content:encoded><![CDATA[حماس: نحمل مجلس السلام المسؤولية عن جريمة قصف مستشفى ناصر بسبب صمته إزاء جرائم الاحتلال وعجزه عن وقفها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: الاحتلال لا يكترث بمساعي الوسطاء والدول الضامنة والإدارة الأمريكية ويتصرف…]]></title>
-            <link>https://t.me/aljazeeraBrk/244129</link>
-            <guid isPermaLink="false">73a9393dda4d8cfc8842f6722a9ac5ede65ca9609be0dc01810739e90b59f905</guid>
-            <pubDate>Thu, 12 Nov 2026 03:50:02 GMT</pubDate>
-            <description><![CDATA[حماس: الاحتلال لا يكترث بمساعي الوسطاء والدول الضامنة والإدارة الأمريكية ويتصرف بصورة منفلتة من أي مساءلة]]></description>
-            <content:encoded><![CDATA[حماس: الاحتلال لا يكترث بمساعي الوسطاء والدول الضامنة والإدارة الأمريكية ويتصرف بصورة منفلتة من أي مساءلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
