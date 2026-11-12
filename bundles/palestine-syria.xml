@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 16:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 16:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إن بي سي: مقتل المشتبه به في حادثة إطلاق نار بواشنطن العاصمة]]></title>
+            <link>https://t.me/aljazeeraBrk/244223</link>
+            <guid isPermaLink="false">0e859cf4738686efee8dd160afbba53d3a4fbe90c9ce4e2a10842b2178937c1b</guid>
+            <pubDate>Thu, 12 Nov 2026 16:03:02 GMT</pubDate>
+            <description><![CDATA[إن بي سي: مقتل المشتبه به في حادثة إطلاق نار بواشنطن العاصمة]]></description>
+            <content:encoded><![CDATA[إن بي سي: مقتل المشتبه به في حادثة إطلاق نار بواشنطن العاصمة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ويتكوف: الأوروبيون سيشاركون في المحادثات المقبلة بشأن أوكرانيا]]></title>
             <link>https://t.me/aljazeeraBrk/244222</link>
@@ -2160,15 +2169,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Wed, 11 Nov 2026 18:59:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من الخطر في محافظات الطائف وخميس مشيط وينبع]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من الخطر في محافظات الطائف وخميس مشيط وينبع]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من الخطر في محافظة الطائف]]></title>
-            <link>https://t.me/aljazeeraBrk/244113</link>
-            <guid isPermaLink="false">17210f87a72cb58ff04d5086a2223e3e7668e224245d7a36b185237d36d362a3</guid>
-            <pubDate>Wed, 11 Nov 2026 18:58:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من الخطر في محافظة الطائف]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار للتحذير من الخطر في محافظة الطائف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
