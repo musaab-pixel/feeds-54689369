@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 22:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 22:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/244261</link>
+            <guid isPermaLink="false">516c0bee8deaa39b95a50de878062fe90e4e2f071d61a1b7f4aaff396749427f</guid>
+            <pubDate>Thu, 12 Nov 2026 22:27:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي محافظة تعز]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي محافظة تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة المالية تدعو المكلفين الذين لم يتقدموا ببياناتهم الضريبية عن الأعوام من…]]></title>
             <link>https://t.me/HalabTodayTV/142825</link>
@@ -2181,16 +2190,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <description><![CDATA[حماس: مزاعم الاحتلال عن استخدام مجمع ناصر لأغراض عسكرية أكاذيب مكررة للتغطية على جريمة استهداف منشأة طبية]]></description>
             <content:encoded><![CDATA[حماس: مزاعم الاحتلال عن استخدام مجمع ناصر لأغراض عسكرية أكاذيب مكررة للتغطية على جريمة استهداف منشأة طبية]]></content:encoded>
             <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني: وفاة شخص وإصابة 18 آخرين جراء 9 حوادث سير في عموم سوريا يوم أمس…]]></title>
-            <link>https://t.me/HalabTodayTV/142800</link>
-            <guid isPermaLink="false">f6d1d9478f635d0ff4019472ea9e813743e4f484233ef62dee211fd48bdc0419</guid>
-            <pubDate>Thu, 12 Nov 2026 07:10:10 GMT</pubDate>
-            <description><![CDATA[<b>الدفاع المدني: </b>وفاة شخص وإصابة 18 آخرين جراء 9 حوادث سير في عموم سوريا يوم أمس الأربعاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></description>
-            <content:encoded><![CDATA[<b>الدفاع المدني: </b>وفاة شخص وإصابة 18 آخرين جراء 9 حوادث سير في عموم سوريا يوم أمس الأربعاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9187.png')"><b>👇</b></i><br><a href="https://t.me/HalabTodayTV" target="_blank">@HalabTodayTV</a>]]></content:encoded>
-            <author>Halab Today TV قناة حلب اليوم</author>
-            <enclosure url="https://cdn4.telesco.pe/file/G9LneFHgyXJMHuow8pJXOrC8xXeDtPOu7DSZJRVyg71EWFpx5sz78yYGvuBJvXAyfC95Ue_kfehmYIOssGhage9P2-8kR6EEvWviH99ZmyYWDZ4c_msWJfDK9u0MRX7Q8bvWUp_kmLGjHbD2t3U_LlfwyABBfJ4S8aOjJywZGpwB66g-OLDpcOVFV4MrlUrcd1d5JvLyTv5LHqEaGt9th2KS66Bg87Jw9gz5V0GqHj3VVqPH_so387G7rs1Olpc-B0e2QQm7LsO3I_KNC39bNuV0Ue9ghXgpo_HZmtQPqepmQPvmyPYkDplmcjtP_Hl1odnIX0NP1fvAocGAz5bcKQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
