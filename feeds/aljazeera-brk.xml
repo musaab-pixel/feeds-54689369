@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 09:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 10:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيسة المفوضية الأوروبية: يجب أن تكون أوروبا طرفا مشاركا في محادثات السلام بشأن…]]></title>
+            <link>https://t.me/aljazeeraBrk/244298</link>
+            <guid isPermaLink="false">62bda6bfae2a0f6445e8d97b0b2dc3ca85d8faa94033b9e055f44f8bd6305a92</guid>
+            <pubDate>Fri, 13 Nov 2026 10:02:02 GMT</pubDate>
+            <description><![CDATA[رئيسة المفوضية الأوروبية: يجب أن تكون أوروبا طرفا مشاركا في محادثات السلام بشأن أوكرانيا لحماية مصالحنا]]></description>
+            <content:encoded><![CDATA[رئيسة المفوضية الأوروبية: يجب أن تكون أوروبا طرفا مشاركا في محادثات السلام بشأن أوكرانيا لحماية مصالحنا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال في بيت لاهيا شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/244297</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 16:39:02 GMT</pubDate>
             <description><![CDATA[قاليباف للجزيرة: لا نفرق بين إسرائيل وواشنطن بالمفاوضات أو الحرب  فهما جبهة واحدة ونحن والمقاومة جبهة واحدة]]></description>
             <content:encoded><![CDATA[قاليباف للجزيرة: لا نفرق بين إسرائيل وواشنطن بالمفاوضات أو الحرب  فهما جبهة واحدة ونحن والمقاومة جبهة واحدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></title>
-            <link>https://t.me/aljazeeraBrk/244094</link>
-            <guid isPermaLink="false">b6ef868ab0ec0f8042a3006edf34cde9d4ae5a900701652c1e6e2e4f9bade54b</guid>
-            <pubDate>Wed, 11 Nov 2026 16:38:03 GMT</pubDate>
-            <description><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></description>
-            <content:encoded><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
