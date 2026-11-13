@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 00:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 01:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[كوشنر: الرئيس ترمب عازم على إنهاء هذه الحرب ونشعر بتفاؤل إزاء التقدم الذي تم…]]></title>
+            <link>https://t.me/aljazeeraBrk/244274</link>
+            <guid isPermaLink="false">de1003fd1550c33ba97477154e01324ec11c8e5bcc6e12695135dfac58b55354</guid>
+            <pubDate>Fri, 13 Nov 2026 01:01:01 GMT</pubDate>
+            <description><![CDATA[كوشنر: الرئيس ترمب عازم على إنهاء هذه الحرب ونشعر بتفاؤل إزاء التقدم الذي تم إحرازه رغم الخلافات الجوهرية]]></description>
+            <content:encoded><![CDATA[كوشنر: الرئيس ترمب عازم على إنهاء هذه الحرب ونشعر بتفاؤل إزاء التقدم الذي تم إحرازه رغم الخلافات الجوهرية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كوشنر: نتوقع الإعلان عن مسارات تفاوض وجدول زمني وتفاصيل إضافية في القريب العاجل]]></title>
             <link>https://t.me/aljazeeraBrk/244273</link>
@@ -2126,15 +2135,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
 <p>في ظل غياب حلول جذرية، تتوالى النداءات من الكوادر التعليمية والأهالي إلى المنظمات الإنسانية والدولية للتدخل العاجل وإنقاذ ما تبقى من العملية التعليمية. وتتركز المطالب على إعادة تأهيل المدارس الثلاث المتضررة، وتوفير الخدمات الأساسية من مياه وكهرباء، ودعم الكوادر التدريسية التي تعمل في ظروف بالغة الصعوبة، إلى جانب تأمين مستلزمات الطلاب وتوسيع الطاقة الاستيعابية عبر فتح مراكز تعليمية بديلة.</p>
 <p>ويبقى السؤال الأكثر إلحاحاً: إلى متى سيظل أطفال مخيم اليرموك يدفعون ثمن أزمة لم يختاروها، في وقت يتراجع فيه الحق في التعليم من أولوية إلى رفاهية لا يستطيع كثيرون تحملها؟</p>]]></content:encoded>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/11/4-5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: وفاة طفل بسبب البرد في خيام النزوح بمواصي خان يونس جنوبي قطاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/244156</link>
-            <guid isPermaLink="false">88402e74a32699b47b2597f349ec597fb3533887cecb2c16bb7b07874abd9395</guid>
-            <pubDate>Thu, 12 Nov 2026 08:48:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: وفاة طفل بسبب البرد في خيام النزوح بمواصي خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: وفاة طفل بسبب البرد في خيام النزوح بمواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>

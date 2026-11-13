@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 00:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 01:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[كوشنر: الرئيس ترمب عازم على إنهاء هذه الحرب ونشعر بتفاؤل إزاء التقدم الذي تم…]]></title>
+            <link>https://t.me/aljazeeraBrk/244274</link>
+            <guid isPermaLink="false">de1003fd1550c33ba97477154e01324ec11c8e5bcc6e12695135dfac58b55354</guid>
+            <pubDate>Fri, 13 Nov 2026 01:01:01 GMT</pubDate>
+            <description><![CDATA[كوشنر: الرئيس ترمب عازم على إنهاء هذه الحرب ونشعر بتفاؤل إزاء التقدم الذي تم إحرازه رغم الخلافات الجوهرية]]></description>
+            <content:encoded><![CDATA[كوشنر: الرئيس ترمب عازم على إنهاء هذه الحرب ونشعر بتفاؤل إزاء التقدم الذي تم إحرازه رغم الخلافات الجوهرية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كوشنر: نتوقع الإعلان عن مسارات تفاوض وجدول زمني وتفاصيل إضافية في القريب العاجل]]></title>
             <link>https://t.me/aljazeeraBrk/244273</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 11:50:02 GMT</pubDate>
             <description><![CDATA[مجمع الشفاء الطبي: 3 شهداء في غارات إسرائيلية على مناطق عدة بمدينة غزة منذ صباح اليوم]]></description>
             <content:encoded><![CDATA[مجمع الشفاء الطبي: 3 شهداء في غارات إسرائيلية على مناطق عدة بمدينة غزة منذ صباح اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين بحي الشيخ…]]></title>
-            <link>https://t.me/aljazeeraBrk/244043</link>
-            <guid isPermaLink="false">88744856a54528f90dfa08d34aa659f263174347196717daf8000a8459822b01</guid>
-            <pubDate>Wed, 11 Nov 2026 11:41:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين بحي الشيخ رضوان شمالي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين بحي الشيخ رضوان شمالي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
