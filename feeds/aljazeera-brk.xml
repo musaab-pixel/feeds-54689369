@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 08:58:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 09:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال في بيت لاهيا شمالي…]]></title>
+            <link>https://t.me/aljazeeraBrk/244297</link>
+            <guid isPermaLink="false">a12be0e8ad15c5f9e75524e1c8d1925d0c320ccb6a87d35ff055634dc0f88e76</guid>
+            <pubDate>Fri, 13 Nov 2026 09:36:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال في بيت لاهيا شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال في بيت لاهيا شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة الأنباء العراقية: دخول لجنة شكلها الزيدي إلى منطقة جرف النصر للتحقيق في…]]></title>
             <link>https://t.me/aljazeeraBrk/244296</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 16:38:03 GMT</pubDate>
             <description><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></description>
             <content:encoded><![CDATA[قاليباف للجزيرة: استمرار الحرب سيضر بدول المنطقة وأمنها واقتصادها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور…]]></title>
-            <link>https://t.me/aljazeeraBrk/244095</link>
-            <guid isPermaLink="false">e7b7178a967563a140c39bc067f271abe36963eb8170e7ad90bd6fa21f438482</guid>
-            <pubDate>Wed, 11 Nov 2026 16:38:03 GMT</pubDate>
-            <description><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور في مضيق هرمز]]></description>
-            <content:encoded><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور في مضيق هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
