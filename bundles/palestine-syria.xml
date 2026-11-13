@@ -4,10 +4,28 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 00:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 00:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[كوشنر: نتوقع الإعلان عن مسارات تفاوض وجدول زمني وتفاصيل إضافية في القريب العاجل]]></title>
+            <link>https://t.me/aljazeeraBrk/244273</link>
+            <guid isPermaLink="false">c8024b217bb3e6a5f880432cd79ae09621c23dcfceeb7bffc8bd81eeeb5d2632</guid>
+            <pubDate>Fri, 13 Nov 2026 00:58:02 GMT</pubDate>
+            <description><![CDATA[كوشنر: نتوقع الإعلان عن مسارات تفاوض وجدول زمني وتفاصيل إضافية في القريب العاجل]]></description>
+            <content:encoded><![CDATA[كوشنر: نتوقع الإعلان عن مسارات تفاوض وجدول زمني وتفاصيل إضافية في القريب العاجل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[كوشنر: اختتمت ثلاثة أيام من الدبلوماسية المكثفة الهادفة إلى إنهاء الحرب المروعة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244272</link>
+            <guid isPermaLink="false">81e1c4e6f65a63481bffb25ce554b3a8e280ac5c7cbe204c8dcafd5fa6997550</guid>
+            <pubDate>Fri, 13 Nov 2026 00:57:02 GMT</pubDate>
+            <description><![CDATA[كوشنر: اختتمت ثلاثة أيام من الدبلوماسية المكثفة الهادفة إلى إنهاء الحرب المروعة بين روسيا وأوكرانيا]]></description>
+            <content:encoded><![CDATA[كوشنر: اختتمت ثلاثة أيام من الدبلوماسية المكثفة الهادفة إلى إنهاء الحرب المروعة بين روسيا وأوكرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التسرب المدرسي يالمخيمات الفلسطينية في سورية]]></title>
             <link>https://actionpal.org.uk/wp-content/uploads/2026/08/school.pdf</link>
@@ -2116,22 +2134,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 08:48:02 GMT</pubDate>
             <description><![CDATA[مجمع ناصر الطبي: وفاة طفل بسبب البرد في خيام النزوح بمواصي خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مجمع ناصر الطبي: وفاة طفل بسبب البرد في خيام النزوح بمواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[«سراج».. مبادرة لدعم طلاب الجامعات في مخيم العائدين حمص]]></title>
-            <link>https://actionpal.org.uk/post/999136640</link>
-            <guid isPermaLink="false">115ab727ad90075e55088d3cfb23ed7fd8fcf9723d34e46f510aa2c29dd6852e</guid>
-            <pubDate>Thu, 12 Nov 2026 08:41:42 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/11/3-6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: هاجمنا في مجمع ناصر الطبي محمد أبو إسماعيل قائد لواء خان يونس…]]></title>
-            <link>https://t.me/aljazeeraBrk/244155</link>
-            <guid isPermaLink="false">5b5fe21200ec3eed66a4a5c338580c55f874e25c2767a787610a8ee8b8388016</guid>
-            <pubDate>Thu, 12 Nov 2026 08:32:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: هاجمنا في مجمع ناصر الطبي محمد أبو إسماعيل قائد لواء خان يونس في حركة حماس]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: هاجمنا في مجمع ناصر الطبي محمد أبو إسماعيل قائد لواء خان يونس في حركة حماس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
