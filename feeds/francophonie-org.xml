@@ -4,10 +4,97 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 16:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 10:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Cérémonie d'ouverture du 20e Sommet | 15/11 (direct + rediffusion)]]></title>
+            <link>https://www.francophonie.org/node/8773</link>
+            <guid isPermaLink="false">6133f046ea1ee3543c182c0b70bc676ce63199b3df5c3b69e700f919d91d296a</guid>
+            <pubDate>Fri, 13 Nov 2026 10:25:28 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Cérémonie d'ouverture du 20e Sommet | 15/11 (direct + rediffusion)</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 13/11/2026 - 10:25</span>
+
+  <div class="field field--name-field-visuel-video field--type-image field--label-above">
+    <div class="field__label">Visuel</div>
+              <div class="field__item">  <img src="https://www.francophonie.org/sites/default/files/2026-11/Sans%20titre%204_0.jpg" width="815" height="1067" alt="c" typeof="foaf:Image" /></div>
+          </div>
+
+  <div class="field field--name-field-lien-de-la-video field--type-link field--label-above">
+    <div class="field__label">Lien de la vidéo</div>
+              <div class="field__item"><a href="https://www.youtube.com/watch?v=Lj9oDmIzo_0">https://www.youtube.com/watch?v=Lj9oDmIzo_0</a></div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page Actualités et médias</div>
+              <div class="field__item">Activé</div>
+          </div>
+
+  <div class="field field--name-field-mots-cles-evenement field--type-entity-reference field--label-above">
+    <div class="field__label">Mots-Clés Evénement</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/636" hreflang="fr">Sommet Phnom Penh</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-mots-cles-instance field--type-entity-reference field--label-above">
+    <div class="field__label">Mots-Clés Instance</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/472" hreflang="fr">Sommet</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-mots-cles-personnalite field--type-entity-reference field--label-above">
+    <div class="field__label">Mots-Clés Personnalité</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/actualites-louise-mushikiwabo" hreflang="fr">Louise Mushikiwabo</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Cérémonie d'ouverture du 20e Sommet | 15/11 (direct + rediffusion)</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 13/11/2026 - 10:25</span>
+
+  <div class="field field--name-field-visuel-video field--type-image field--label-above">
+    <div class="field__label">Visuel</div>
+              <div class="field__item">  <img src="https://www.francophonie.org/sites/default/files/2026-11/Sans%20titre%204_0.jpg" width="815" height="1067" alt="c" typeof="foaf:Image" /></div>
+          </div>
+
+  <div class="field field--name-field-lien-de-la-video field--type-link field--label-above">
+    <div class="field__label">Lien de la vidéo</div>
+              <div class="field__item"><a href="https://www.youtube.com/watch?v=Lj9oDmIzo_0">https://www.youtube.com/watch?v=Lj9oDmIzo_0</a></div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page Actualités et médias</div>
+              <div class="field__item">Activé</div>
+          </div>
+
+  <div class="field field--name-field-mots-cles-evenement field--type-entity-reference field--label-above">
+    <div class="field__label">Mots-Clés Evénement</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/636" hreflang="fr">Sommet Phnom Penh</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-mots-cles-instance field--type-entity-reference field--label-above">
+    <div class="field__label">Mots-Clés Instance</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/472" hreflang="fr">Sommet</a></div>
+              </div>
+      </div>
+
+  <div class="field field--name-field-mots-cles-personnalite field--type-entity-reference field--label-above">
+    <div class="field__label">Mots-Clés Personnalité</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/actualites-louise-mushikiwabo" hreflang="fr">Louise Mushikiwabo</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Sommet Afric’innov 2026 : l’OIF contribue à la réflexion sur l’accompagnement entrepreneurial en Afrique à l’ère de l’IA]]></title>
             <link>https://www.francophonie.org/l-OIF-au-sommet-africinnov-2026-8768</link>
