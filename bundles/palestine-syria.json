@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "8b6a8a5f91084a4f00f102bcf822904cca963b863a95651ee25cd1fd55bfb7b7",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B85.png')\"><b>⛅️</b></i> حالة الطقس في سوريا  13-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142827",
+            "title": "⛅️ حالة الطقس في سوريا 13-11-2026 لمتابعة أحدث الأخبار والتطورات في سوريا…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29B85.png')\"><b>⛅️</b></i> حالة الطقس في سوريا  13-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/RzPepcWetfwAe8HAO6ZRmpoKzenezZnt2-3uRafgHeSSfb8grWZ2SV2DLvatNTZDZQimPjHI5QUHxUz6-ZbbpBx6o_lMvPjR03_V-lRuqICgsb7O_d4srWiZ8ORLuNPJQuf8utIlaGqO6AH93qMcHBFMdTJCGJL82i1zFYz1jTNjeHtXoLdMD0Voukq0LHwyPMMdQJxIhDDbCh1FnCn45d8tYR54TsBGGvkq2N0b_AdfbJgSsoBgs13c0kjsx5JAhC4BDHwpTQiNpbjqzF42nAI2t8dZm3xZK-rfaU6PIblItAQEsZHjcmJ-UN6PlAA0H4YEgr8sx04QXu1GBpvt4A.jpg",
+            "date_modified": "2026-11-13T05:21:17.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "fe3b4852a6ebf046ee3e0058cc017574b1313956b0a7382ef32b6cbb45f860af",
             "content_html": "الحرس الثوري الإيراني: قواتنا الجوفضائية في حالة تأهب كامل لمواجهة أي عدوان",
             "url": "https://t.me/aljazeeraBrk/244280",
@@ -1628,17 +1640,6 @@
             "title": "مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنصب أبراجا عسكرية داخل معسكر الجابريات…",
             "summary": "مراسل الجزيرة: قوات الاحتلال الإسرائيلي تنصب أبراجا عسكرية داخل معسكر الجابريات المطل على مخيم جنين",
             "date_modified": "2026-11-12T09:34:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "c03d2e1eab38e8024fc8284e02a57299827ffce1ea13590bd1173e1c6459afb9",
-            "content_html": "مراسل الجزيرة: قوات الاحتلال الإسرائيلي تشرع بهدم منزل في بلدة سيلة الظهر جنوب جنين",
-            "url": "https://t.me/aljazeeraBrk/244161",
-            "title": "مراسل الجزيرة: قوات الاحتلال الإسرائيلي تشرع بهدم منزل في بلدة سيلة الظهر جنوب…",
-            "summary": "مراسل الجزيرة: قوات الاحتلال الإسرائيلي تشرع بهدم منزل في بلدة سيلة الظهر جنوب جنين",
-            "date_modified": "2026-11-12T09:33:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
