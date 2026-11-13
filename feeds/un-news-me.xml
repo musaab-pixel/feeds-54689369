@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 08:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 02:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Six killed in Israeli airstrike on Gaza’s Nasser Hospital]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168796</link>
+            <guid isPermaLink="false">23e5aead6df2bbc4ce74e2aa368713bb70aa1f809137b968e655a03056d8cd18</guid>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;]]></description>
+            <content:encoded><![CDATA[An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/07-11-2026-UNNews-Gaza-Winer-Building.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/11/1168784</link>

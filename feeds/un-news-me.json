@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "23e5aead6df2bbc4ce74e2aa368713bb70aa1f809137b968e655a03056d8cd18",
+            "content_html": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+            "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+            "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/07-11-2026-UNNews-Gaza-Winer-Building.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-12T12:00:00.000Z"
+        },
+        {
             "id": "cf886cd6267ba1020acd49b6101598c563bd30671e89399b8b95be55bb0e2e1a",
             "content_html": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.&nbsp;",
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
