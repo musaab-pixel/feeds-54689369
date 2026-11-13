@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 05:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 06:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نائب قائد الحرس الثوري الإيراني: سنرد على أي تهديد مهما كان مستواه أو نوعه ردا…]]></title>
+            <link>https://t.me/aljazeeraBrk/244284</link>
+            <guid isPermaLink="false">03d73dfc2394459236fb0a10d2fb195fa1f46f775e616394d9851120a3fc45a4</guid>
+            <pubDate>Fri, 13 Nov 2026 05:55:02 GMT</pubDate>
+            <description><![CDATA[نائب قائد الحرس الثوري الإيراني: سنرد على أي تهديد مهما كان مستواه أو نوعه ردا فوريا ورادعا دون قيود جغرافية]]></description>
+            <content:encoded><![CDATA[نائب قائد الحرس الثوري الإيراني: سنرد على أي تهديد مهما كان مستواه أو نوعه ردا فوريا ورادعا دون قيود جغرافية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عمدة موسكو: تصدينا لهجمات 467 مسيرة على العاصمة وضواحيها منذ مساء أمس حتى صباح…]]></title>
             <link>https://t.me/aljazeeraBrk/244283</link>
@@ -2106,15 +2115,6 @@ if(document.readyState==='loading') document.addEventListener('DOMContentLoaded'
             <pubDate>Thu, 12 Nov 2026 09:47:02 GMT</pubDate>
             <description><![CDATA[زيلنسكي: سجلنا اضطرابات في عمل منظومة ستارشيلد للاتصالات في أوكرانيا وتبين أنها ناجمة عن قيود منهجية]]></description>
             <content:encoded><![CDATA[زيلنسكي: سجلنا اضطرابات في عمل منظومة ستارشيلد للاتصالات في أوكرانيا وتبين أنها ناجمة عن قيود منهجية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أمبري للأمن البحري: إصابة سفينة تجارية بمقذوف على بعد 14 ميلا من رأس الخيمة أمس…]]></title>
-            <link>https://t.me/aljazeeraBrk/244164</link>
-            <guid isPermaLink="false">4818165192d7719f4f6fbd9fa995e0d4f486e24ecc45049d7910d124454d9663</guid>
-            <pubDate>Thu, 12 Nov 2026 09:45:03 GMT</pubDate>
-            <description><![CDATA[أمبري للأمن البحري: إصابة سفينة تجارية بمقذوف على بعد 14 ميلا من رأس الخيمة أمس ولا أنباء عن إصابات]]></description>
-            <content:encoded><![CDATA[أمبري للأمن البحري: إصابة سفينة تجارية بمقذوف على بعد 14 ميلا من رأس الخيمة أمس ولا أنباء عن إصابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
