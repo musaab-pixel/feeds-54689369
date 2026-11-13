@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 13 Nov 2026 08:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 08:58:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الأنباء العراقية: دخول لجنة شكلها الزيدي إلى منطقة جرف النصر للتحقيق في…]]></title>
+            <link>https://t.me/aljazeeraBrk/244296</link>
+            <guid isPermaLink="false">a99ef4cffcec704b63ee4300974cfd71de4461449765b576c06e93a43adbbc31</guid>
+            <pubDate>Fri, 13 Nov 2026 08:57:02 GMT</pubDate>
+            <description><![CDATA[وكالة الأنباء العراقية: دخول لجنة شكلها الزيدي إلى منطقة جرف النصر للتحقيق في معلومات عن تهريب مشتقات نفطية]]></description>
+            <content:encoded><![CDATA[وكالة الأنباء العراقية: دخول لجنة شكلها الزيدي إلى منطقة جرف النصر للتحقيق في معلومات عن تهريب مشتقات نفطية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لا نعرف الموقع الدقيق لمنشأة أصفهان وإذا…]]></title>
             <link>https://t.me/aljazeeraBrk/244294</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 11 Nov 2026 16:38:03 GMT</pubDate>
             <description><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور في مضيق هرمز]]></description>
             <content:encoded><![CDATA[قاليباف للجزيرة: توصلنا لتفاهم مع عمان بشأن الممر الملاحي ونظام فصل حركة المرور في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قاليباف للجزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي…]]></title>
-            <link>https://t.me/aljazeeraBrk/244093</link>
-            <guid isPermaLink="false">3adaec72f25d4b2ad0346adef42c7d1f2952451559c8df40220a6dcb546b40e8</guid>
-            <pubDate>Wed, 11 Nov 2026 16:38:02 GMT</pubDate>
-            <description><![CDATA[قاليباف للجزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي هجوم]]></description>
-            <content:encoded><![CDATA[قاليباف للجزيرة: إذا بدأت أمريكا أو إسرائيل الحرب فسنواجههما معا وسنرد على أي هجوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
