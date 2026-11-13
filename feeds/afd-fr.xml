@@ -4,7 +4,7 @@
         <title>afd.fr</title>
         <link>https://www.afd.fr/rss.xml</link>
         <description>RSS Factory feed "afd.fr" (type: native)</description>
-        <lastBuildDate>Thu, 12 Nov 2026 16:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 09:34:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -243,104 +243,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-innovation-agricole-et-entreprenariat-maroc" class="fr-card__link">Tamkin li Tanmia « soutenir l’innovation agricole et l’entreprenariat »</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
               </h3>
       
@@ -474,6 +376,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -861,80 +848,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/programme-de-transition-energetique-verte" class="fr-card__link">Programme de Transition Energétique Verte</a>
               </h3>
       
@@ -1079,6 +992,80 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Eau et assainissement
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -1205,104 +1192,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-innovation-agricole-et-entreprenariat-maroc" class="fr-card__link">Tamkin li Tanmia « soutenir l’innovation agricole et l’entreprenariat »</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
               </h3>
       
@@ -1436,6 +1325,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -1823,80 +1797,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/programme-de-transition-energetique-verte" class="fr-card__link">Programme de Transition Energétique Verte</a>
               </h3>
       
@@ -2041,6 +1941,80 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Eau et assainissement
+  </p>
+
+      </div>
+
+                            </div>
+                          <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -2178,178 +2152,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-innovation-agricole-et-entreprenariat-maroc" class="fr-card__link">Tamkin li Tanmia « soutenir l’innovation agricole et l’entreprenariat »</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
               </h3>
       
@@ -2409,6 +2211,189 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/soutenir-innovation-agricole-et-entreprenariat-maroc" class="fr-card__link">Tamkin li Tanmia « soutenir l’innovation agricole et l’entreprenariat »</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Agriculture et développement rural
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Emploi
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2020 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
 
 
 
@@ -2573,6 +2558,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/credit-agricole-du-maroc-appui-la-lutte-contre-le-changement-climatique-et-la-securite" class="fr-card__link">Crédit Agricole du Maroc : appui à la lutte contre le changement climatique et à la sécurité alimentaire</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Agriculture et développement rural
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2036</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 72 100 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/credit-agricole-du-maroc-appui-la-lutte-contre-le-changement-climatique-et-la-securite.jpg.webp?itok=L_SW9nKa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/programme-de-developpement-integre-de-agriculture-et-de-irrigation" class="fr-card__link">Programme de développement intégré de l’agriculture et de l’irrigation</a>
               </h3>
       
@@ -2619,104 +2689,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-de-developpement-integre-de-agriculture-et-de-irrigation.jpg.webp?itok=jo35nphq" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques" class="fr-card__link">Irrigation durable et adaptation de l’agriculture oasienne aux changements climatiques</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2017 - 2024</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
 
 
 
@@ -2847,178 +2819,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutenir-innovation-agricole-et-entreprenariat-maroc" class="fr-card__link">Tamkin li Tanmia « soutenir l’innovation agricole et l’entreprenariat »</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Emploi
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2020 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
               </h3>
       
@@ -3078,6 +2878,189 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/soutenir-innovation-agricole-et-entreprenariat-maroc" class="fr-card__link">Tamkin li Tanmia « soutenir l’innovation agricole et l’entreprenariat »</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Agriculture et développement rural
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Emploi
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2020 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
 
 
 
@@ -3242,6 +3225,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/credit-agricole-du-maroc-appui-la-lutte-contre-le-changement-climatique-et-la-securite" class="fr-card__link">Crédit Agricole du Maroc : appui à la lutte contre le changement climatique et à la sécurité alimentaire</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Agriculture et développement rural
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2036</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 72 100 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/credit-agricole-du-maroc-appui-la-lutte-contre-le-changement-climatique-et-la-securite.jpg.webp?itok=L_SW9nKa" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/programme-de-developpement-integre-de-agriculture-et-de-irrigation" class="fr-card__link">Programme de développement intégré de l’agriculture et de l’irrigation</a>
               </h3>
       
@@ -3288,104 +3356,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-de-developpement-integre-de-agriculture-et-de-irrigation.jpg.webp?itok=jo35nphq" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques" class="fr-card__link">Irrigation durable et adaptation de l’agriculture oasienne aux changements climatiques</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Agriculture et développement rural
-  </p>
-
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Climat
-  </p>
-
-      </li>
-      </ul>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2017 - 2024</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 41 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/irrigation-durable-et-adaptation-de-lagriculture-oasienne-aux-changements-climatiques.jpg.webp?itok=685AYZx-" width="715" height="402" alt>
 
 
 
@@ -3524,7 +3494,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
+                  <a href="https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports" class="fr-card__link">Investissement pour la réhabilitation et le verdissement des ports </a>
               </h3>
       
               <div class="fr-card__start">
@@ -3536,13 +3506,24 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
+    Mobilités et transports
   </p>
 
       </div>
 
                             </div>
-                          <div class="fr-card__start">
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
           <p class="fr-card__detail">2026 - 2031</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
@@ -3550,7 +3531,7 @@
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -3558,7 +3539,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=8bgymxP8" width="715" height="402" alt>
 
 
 
@@ -3808,91 +3789,6 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      En cours
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2025 - 2028</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
               </h3>
       
@@ -3952,6 +3848,91 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -4168,7 +4149,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
+                  <a href="https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports" class="fr-card__link">Investissement pour la réhabilitation et le verdissement des ports </a>
               </h3>
       
               <div class="fr-card__start">
@@ -4180,13 +4161,24 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
+    Mobilités et transports
   </p>
 
       </div>
 
                             </div>
-                          <div class="fr-card__start">
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
           <p class="fr-card__detail">2026 - 2031</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
@@ -4194,7 +4186,7 @@
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -4202,7 +4194,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=8bgymxP8" width="715" height="402" alt>
 
 
 
@@ -4452,6 +4444,104 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Égalité des sexes
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 51 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
               </h3>
       
@@ -4498,6 +4588,274 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/programme-appui-au-renforcement-du-systeme-judiciaire-et-penitentiaire-c2d-justice" class="fr-card__link">Programme d'appui au renforcement du système judiciaire et pénitentiaire </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2014 - 2030</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 124 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-dappui-au-renforcement-du-systeme-judiciaire-et-penitentiaire-c2d-justice.jpg.webp?itok=Q8NiT4_z" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+    National    5 000 000    €    7 000 000    <a href="https://www.afd.fr/fr/taxonomy/term/280" hreflang="fr">€</a>    3 ans    Administrations déconcentrées et décentralisées des régions de l’Oriental et du Souss-Massa OSC locales  
+  <div>Adresse</div>  <a href="https://www.afd.fr/fr/agence-maroc-0" hreflang="fr">Agence Maroc</a>]]></content:encoded>
+            <author>evof@afd.fr</author>
+        </item>
+        <item>
+            <title><![CDATA[Investissement pour la réhabilitation et le verdissement des ports]]></title>
+            <link>https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports</link>
+            <guid isPermaLink="false">54786d0492f41f7e2273a0a54686a0aa53b5dd21657d4a65945fdf4e9474fa87</guid>
+            <pubDate>Thu, 12 Nov 2026 10:21:29 GMT</pubDate>
+            <description><![CDATA[Investissement pour la réhabilitation et le verdissement des ports 
+<span><span>evof@afd.fr</span></span>
+<time datetime="2026-11-12T11:21:29+01:00" title="Jeudi 12 novembre 2026 - 11:21">jeu 12/11/2026 - 11:21</time>
+    <time datetime="2026-11-13T12:00:00Z">13 novembre 2026</time>
+    Désactivé    CMA 1365    <a href="https://www.afd.fr/fr/taxonomy/term/27" hreflang="fr">En cours</a>    <a href="https://www.afd.fr/fr/taxonomy/term/80" hreflang="fr">Maroc</a>    <a href="https://www.afd.fr/fr/taxonomy/term/697" hreflang="fr">Mobilités et transports</a>    <a href="https://www.afd.fr/fr/taxonomy/term/697" hreflang="fr">Mobilités et transports</a>    <a href="https://www.afd.fr/fr/taxonomy/term/80" hreflang="fr">Maroc</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2955" hreflang="fr">Consommation et production responsables</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2932" hreflang="fr">Prêt</a><a href="https://www.afd.fr/fr/taxonomy/term/2939" hreflang="fr">Subvention</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=irikG-ws" width="792" height="450" alt>
+
+
+    <a href="https://www.afd.fr/fr/taxonomy/term/1329" hreflang="fr">Mention légale UE (projet)</a>    Le programme d’investissement Ports verts et résilients répond aux principaux défis du sec-teur portuaire marocain : adaptation au changement climatique, transition énergétique, protection des milieux marins et renforcement du rôle social et territorial des ports.    
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83582" class="print-title">Contexte</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>Le secteur portuaire assure plus de 98% des échanges extérieurs du Royaume et constitue un pilier essentiel de l’économie marocaine. La stratégie portuaire marocaine à l’horizon 2030 anticipe une croissance importante du trafic, estimée entre 290 et 370 millions de tonnes, contre 195 millions de tonnes en 2022. Cette évolution impose d’adapter et de moderniser des infrastructures afin d’assurer la continuité du service public portuaire et de répondre aux besoins croissants des usagers dans des conditions durables.&nbsp;</p>
+<p>Le programme « Ports verts et résilients » répond aux principaux défis du secteur : adaptation au changement climatique, transition énergétique, protection des milieux marins et renforcement du rôle social et territorial des ports.&nbsp;</p>
+<p>Le secteur est en effet confronté à des risques climatiques et environnementaux majeurs. Les ports marocains sont exposés à l’élévation du niveau de la mer, à l’érosion côtière, aux tempêtes et houles extrêmes, qui menacent directement la sécurité des personnes et des installations.&nbsp;</p>
+<p>En outre, les activités portuaires sont fortement consommatrices d’énergie et reposent encore largement sur les énergies fossiles. Elles génèrent aussi des pressions environnementales sur les milieux marins (pollution, déchets, émissions).&nbsp;</p>
+<p>Enfin, les ports jouent un rôle essentiel dans le développement territorial et social, en particulier à travers l’économie bleue et les activités de pêche qui constituent une source majeure d’emplois et de revenus pour les communautés côtières.&nbsp;</p>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83583" class="print-title">Descriptif</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>Le programme vise à contribuer au développement d’un système portuaire marocain durable, résilient et performant, capable de soutenir la croissance économique du pays tout en réduisant son empreinte environnementale et en s’adaptant aux effets du changement climatique.&nbsp;</p>
+<p>Pour atteindre cet objectif, le programme comprend deux composantes complémentaires&nbsp;:&nbsp;</p>
+<ul>
+<li>Un programme d’investissements structurels ciblant (i) des travaux de réhabilitation et d’extension des ports (confortement des ouvrages de protection des ports, des quais et terre-pleins) et (ii) des investissements visant à améliorer la performance environnementale des ports, accélérer leur transition énergétique et limiter leur empreinte carbone (électrification des quais, mesures visant la dépollution et l’assainissement des eaux de ruissellement, réalisation de stations de dessalement, investissements relatifs à la digitalisation et à l’amélioration de la sécurité portuaire etc.)&nbsp;;</li>
+<li>Une composante d’assistance technique comportant un appui transversal, de l’expertise technique et un appui à la certification des ports aux standards internationaux. Cette composante inclut également la promotion de projets pilotes et de démarches de recherche et développement innovantes, ainsi que du renforcement de capacité.</li>
+</ul>
+<p>Ce concours s'inscrit dans un partenariat de long terme entre l'AFD et l'ANP, engagé depuis 2012, et marque le passage d'une approche projet à une approche programme : le prêt de l'AFD (100 M€) finance les investissements structurants de modernisation, de verdissement et de résilience des ports.</p>
+<p>Il est complété par deux subventions aux objets distincts.&nbsp;</p>
+<ul>
+<li>Une subvention de l'Union européenne (15 M€) appuie le verdissement, la digitalisation et la sécurité portuaire, ainsi que l'assistance technique et l'accompagnement des ports vers la certification aux standards internationaux (ISO 9001, 14001 et 45001).&nbsp;</li>
+<li>Une subvention du&nbsp;<em>Blue Mediterranean Partnership</em> (2 M€), dédié à l'économie bleue en Méditerranée, soutient la gestion durable de l'eau et la lutte contre la pollution portuaire. L'ensemble s'inscrit dans une exigence environnementale et sociale forte, en cohérence avec la feuille de route développement durable portée par l'ANP.</li>
+</ul>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83584" class="print-title">Impacts</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>Le&nbsp;programme contribue&nbsp;au développement d’un système portuaire :&nbsp;</p>
+<ul>
+<li>plus résilient via la réalisation d’infrastructures portuaires résistantes à l’élévation du niveau de la mer, aux houles extrêmes et aux événements climatiques intenses, afin de garantir la continuité des opérations ;</li>
+<li>plus performant&nbsp;via l’extension et la modernisation de ports de pêche, ainsi que la mise en œuvre d’activités de digitalisation et de formation ;&nbsp;</li>
+<li>plus durable&nbsp;non seulement via l’introduction de changements dans les modes de fonctionnement des ports réduisant l’empreinte carbone et les impacts environnementaux des activités portuaires, mais aussi en améliorant la gouvernance de ces sujets.</li>
+</ul>
+
+  </div>
+</div>    <time datetime="2026-07-23T12:00:00Z">23 juillet 2026</time>
+    <time datetime="2031-07-23T12:00:00Z">23 juillet 2031</time>
+      <div class="card-project afd card-project--color">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
+			Dans la même région
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports" class="fr-card__link">Investissement pour la réhabilitation et le verdissement des ports </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=8bgymxP8" width="715" height="402" alt>
 
 
 
@@ -4635,7 +4993,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/programme-appui-au-renforcement-du-systeme-judiciaire-et-penitentiaire-c2d-justice" class="fr-card__link">Programme d'appui au renforcement du système judiciaire et pénitentiaire </a>
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
               </h3>
       
               <div class="fr-card__start">
@@ -4665,14 +5023,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2014 - 2030</p>
+          <p class="fr-card__detail">2025 - 2028</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Côte d'Ivoire</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 124 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
               </div>
                   </div>
                       </div>
@@ -4680,7 +5038,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/programme-dappui-au-renforcement-du-systeme-judiciaire-et-penitentiaire-c2d-justice.jpg.webp?itok=Q8NiT4_z" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -4700,7 +5058,956 @@
 
           </div>
   </div>
-    National    5 000 000    €    7 000 000    <a href="https://www.afd.fr/fr/taxonomy/term/280" hreflang="fr">€</a>    3 ans    Administrations déconcentrées et décentralisées des régions de l’Oriental et du Souss-Massa OSC locales  
+  <div class="card-project afd">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--secondary pl-[5px] pr-[5px]">
+			Sur le même thème
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports" class="fr-card__link">Investissement pour la réhabilitation et le verdissement des ports </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=8bgymxP8" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra" class="fr-card__link">La ligne ferroviaire à grande vitesse (LGV) entre Tanger et Kénitra</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2012 - 2037</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 300 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra.jpg.webp?itok=q6goJyGA" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/acces-aux-zones-rurales-et-de-commercialisation-agricole-raamp" class="fr-card__link">Accès aux zones rurales et de commercialisation agricole</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Villes durables
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2020 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Nigéria</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 200 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/acces-aux-zones-rurales-et-de-commercialisation-agricole-raamp.jpg.webp?itok=Wzu4pOHG" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+    Casablanca    100 000 000     €    5 ans    Agence nationale des ports (ANP)  
+  <div>Adresse</div>  <a href="https://www.afd.fr/fr/agence-maroc-0" hreflang="fr">Agence Maroc</a>]]></description>
+            <content:encoded><![CDATA[Investissement pour la réhabilitation et le verdissement des ports 
+<span><span>evof@afd.fr</span></span>
+<time datetime="2026-11-12T11:21:29+01:00" title="Jeudi 12 novembre 2026 - 11:21">jeu 12/11/2026 - 11:21</time>
+    <time datetime="2026-11-13T12:00:00Z">13 novembre 2026</time>
+    Désactivé    CMA 1365    <a href="https://www.afd.fr/fr/taxonomy/term/27" hreflang="fr">En cours</a>    <a href="https://www.afd.fr/fr/taxonomy/term/80" hreflang="fr">Maroc</a>    <a href="https://www.afd.fr/fr/taxonomy/term/697" hreflang="fr">Mobilités et transports</a>    <a href="https://www.afd.fr/fr/taxonomy/term/697" hreflang="fr">Mobilités et transports</a>    <a href="https://www.afd.fr/fr/taxonomy/term/80" hreflang="fr">Maroc</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2955" hreflang="fr">Consommation et production responsables</a>    <a href="https://www.afd.fr/fr/taxonomy/term/2932" hreflang="fr">Prêt</a><a href="https://www.afd.fr/fr/taxonomy/term/2939" hreflang="fr">Subvention</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=irikG-ws" width="792" height="450" alt>
+
+
+    <a href="https://www.afd.fr/fr/taxonomy/term/1329" hreflang="fr">Mention légale UE (projet)</a>    Le programme d’investissement Ports verts et résilients répond aux principaux défis du sec-teur portuaire marocain : adaptation au changement climatique, transition énergétique, protection des milieux marins et renforcement du rôle social et territorial des ports.    
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83582" class="print-title">Contexte</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>Le secteur portuaire assure plus de 98% des échanges extérieurs du Royaume et constitue un pilier essentiel de l’économie marocaine. La stratégie portuaire marocaine à l’horizon 2030 anticipe une croissance importante du trafic, estimée entre 290 et 370 millions de tonnes, contre 195 millions de tonnes en 2022. Cette évolution impose d’adapter et de moderniser des infrastructures afin d’assurer la continuité du service public portuaire et de répondre aux besoins croissants des usagers dans des conditions durables.&nbsp;</p>
+<p>Le programme « Ports verts et résilients » répond aux principaux défis du secteur : adaptation au changement climatique, transition énergétique, protection des milieux marins et renforcement du rôle social et territorial des ports.&nbsp;</p>
+<p>Le secteur est en effet confronté à des risques climatiques et environnementaux majeurs. Les ports marocains sont exposés à l’élévation du niveau de la mer, à l’érosion côtière, aux tempêtes et houles extrêmes, qui menacent directement la sécurité des personnes et des installations.&nbsp;</p>
+<p>En outre, les activités portuaires sont fortement consommatrices d’énergie et reposent encore largement sur les énergies fossiles. Elles génèrent aussi des pressions environnementales sur les milieux marins (pollution, déchets, émissions).&nbsp;</p>
+<p>Enfin, les ports jouent un rôle essentiel dans le développement territorial et social, en particulier à travers l’économie bleue et les activités de pêche qui constituent une source majeure d’emplois et de revenus pour les communautés côtières.&nbsp;</p>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83583" class="print-title">Descriptif</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>Le programme vise à contribuer au développement d’un système portuaire marocain durable, résilient et performant, capable de soutenir la croissance économique du pays tout en réduisant son empreinte environnementale et en s’adaptant aux effets du changement climatique.&nbsp;</p>
+<p>Pour atteindre cet objectif, le programme comprend deux composantes complémentaires&nbsp;:&nbsp;</p>
+<ul>
+<li>Un programme d’investissements structurels ciblant (i) des travaux de réhabilitation et d’extension des ports (confortement des ouvrages de protection des ports, des quais et terre-pleins) et (ii) des investissements visant à améliorer la performance environnementale des ports, accélérer leur transition énergétique et limiter leur empreinte carbone (électrification des quais, mesures visant la dépollution et l’assainissement des eaux de ruissellement, réalisation de stations de dessalement, investissements relatifs à la digitalisation et à l’amélioration de la sécurité portuaire etc.)&nbsp;;</li>
+<li>Une composante d’assistance technique comportant un appui transversal, de l’expertise technique et un appui à la certification des ports aux standards internationaux. Cette composante inclut également la promotion de projets pilotes et de démarches de recherche et développement innovantes, ainsi que du renforcement de capacité.</li>
+</ul>
+<p>Ce concours s'inscrit dans un partenariat de long terme entre l'AFD et l'ANP, engagé depuis 2012, et marque le passage d'une approche projet à une approche programme : le prêt de l'AFD (100 M€) finance les investissements structurants de modernisation, de verdissement et de résilience des ports.</p>
+<p>Il est complété par deux subventions aux objets distincts.&nbsp;</p>
+<ul>
+<li>Une subvention de l'Union européenne (15 M€) appuie le verdissement, la digitalisation et la sécurité portuaire, ainsi que l'assistance technique et l'accompagnement des ports vers la certification aux standards internationaux (ISO 9001, 14001 et 45001).&nbsp;</li>
+<li>Une subvention du&nbsp;<em>Blue Mediterranean Partnership</em> (2 M€), dédié à l'économie bleue en Méditerranée, soutient la gestion durable de l'eau et la lutte contre la pollution portuaire. L'ensemble s'inscrit dans une exigence environnementale et sociale forte, en cohérence avec la feuille de route développement durable portée par l'ANP.</li>
+</ul>
+
+  </div>
+</div>
+  
+<div class="my-8 print-para-space">
+      <div class="editor-title">
+      <h2 id="anchor-rich-text83584" class="print-title">Impacts</h2>
+    </div>
+  
+  <div class="editor-wysiwyg afd">
+    <p>Le&nbsp;programme contribue&nbsp;au développement d’un système portuaire :&nbsp;</p>
+<ul>
+<li>plus résilient via la réalisation d’infrastructures portuaires résistantes à l’élévation du niveau de la mer, aux houles extrêmes et aux événements climatiques intenses, afin de garantir la continuité des opérations ;</li>
+<li>plus performant&nbsp;via l’extension et la modernisation de ports de pêche, ainsi que la mise en œuvre d’activités de digitalisation et de formation ;&nbsp;</li>
+<li>plus durable&nbsp;non seulement via l’introduction de changements dans les modes de fonctionnement des ports réduisant l’empreinte carbone et les impacts environnementaux des activités portuaires, mais aussi en améliorant la gouvernance de ces sujets.</li>
+</ul>
+
+  </div>
+</div>    <time datetime="2026-07-23T12:00:00Z">23 juillet 2026</time>
+    <time datetime="2031-07-23T12:00:00Z">23 juillet 2031</time>
+      <div class="card-project afd card-project--color">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--primary pl-[5px] pr-[5px]">
+			Dans la même région
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports" class="fr-card__link">Investissement pour la réhabilitation et le verdissement des ports </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=8bgymxP8" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Égalité des sexes
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 51 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2025 - 2028</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+  <div class="card-project afd">
+    <div class="card-project__main my-content relative z-10">
+      <div class="card-project__title">
+                              
+
+
+			<h2 class="font-bold leading-tight mb-9 text-center text-[2.5rem] sm:text-5xl text-neutral-850 print-title">
+		<span class="inline no-underline leading-[1.3] bg-[linear-gradient(transparent_calc(100%_-_20px),var(--uline-bg-color)_1px)] sm:bg-[linear-gradient(transparent_calc(100%_-_29px),var(--uline-bg-color)_1px)] bg-no-repeat bg-[100%_100%] bg-[left_0%_bottom_-3px] uline--secondary pl-[5px] pr-[5px]">
+			Sur le même thème
+						
+						
+		</span>
+	</h2>
+
+                        </div>
+
+     <div class="card-project__content pb-10 sm:pb-12">
+                        <div class="card-project__list">
+                                                                                    
+            <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
+                                            <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports" class="fr-card__link">Investissement pour la réhabilitation et le verdissement des ports </a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/investissement-pour-la-rehabilitation-et-le-verdissement-des-ports.jpg.webp?itok=8bgymxP8" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra" class="fr-card__link">La ligne ferroviaire à grande vitesse (LGV) entre Tanger et Kénitra</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2012 - 2037</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 300 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/la-ligne-ferroviaire-grande-vitesse-lgv-entre-tanger-et-kenitra.jpg.webp?itok=q6goJyGA" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/acces-aux-zones-rurales-et-de-commercialisation-agricole-raamp" class="fr-card__link">Accès aux zones rurales et de commercialisation agricole</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Villes durables
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Mobilités et transports
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2020 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Nigéria</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 200 000 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/acces-aux-zones-rurales-et-de-commercialisation-agricole-raamp.jpg.webp?itok=Wzu4pOHG" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                          </div>
+                  </div>
+      </div>
+
+
+          </div>
+  </div>
+    Casablanca    100 000 000     €    5 ans    Agence nationale des ports (ANP)  
   <div>Adresse</div>  <a href="https://www.afd.fr/fr/agence-maroc-0" hreflang="fr">Agence Maroc</a>]]></content:encoded>
             <author>evof@afd.fr</author>
         </item>
@@ -4800,6 +6107,104 @@
                                                                                     
             <div class="fr-cards-grid--list fr-grid-row fr-grid-row--gutters fr-grid-row--center">
                                             <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Égalité des sexes
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 51 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
                   
 
 
@@ -4970,80 +6375,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -5737,6 +7068,104 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes" class="fr-card__link">Appui à la politique publique d’égalité entre les femmes et les hommes</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Égalité des sexes
+  </p>
+
+      </li>
+          <li>
+        
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </li>
+      </ul>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2024 - 2027</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 51 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/appui-la-politique-publique-egalite-entre-les-femmes-et-les-hommes.jpg.webp?itok=SFFUp_5q" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/regionalisation-de-la-politique-migratoire-marocaine-prim-phase-2" class="fr-card__link">Régionalisation de la politique migratoire marocaine</a>
               </h3>
       
@@ -5881,80 +7310,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutenir-innovation-agricole-et-entreprenariat.jpg.webp?itok=wSVmaONs" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/appui-la-politique-nationale-de-leau-du-maroc" class="fr-card__link">Appui à la politique nationale de l’eau du Maroc</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
-  </p>
-
-      </div>
-
-                            </div>
-                          <div class="fr-card__start">
-          <p class="fr-card__detail">2026 - 2031</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Maroc</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 100 400 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2025-06/projets_fallback.png.webp?itok=5Y0Qsnbg" width="715" height="402" alt="Image Projets Fallback">
 
 
 
@@ -158152,61 +159507,6 @@ Enfin, grâce à leur expertise en financement des politiques publiques et des p
     <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    8 000 000    €    13,5 ans    République du Sénégal  
   <div>Adresse</div>  <a href="https://www.afd.fr/fr/agence-senegal" hreflang="fr">Agence Sénégal</a>]]></content:encoded>
             <author>evof@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[HAUTBERGUE_Dominique_20260909_signée]]></title>
-            <link>https://www.afd.fr/fr/node/15211</link>
-            <guid isPermaLink="false">18de6e5b44908c200fc6187d0e87ddb948d90cbb325ceed06a6f345ceb46509f</guid>
-            <pubDate>Wed, 09 Sep 2026 17:27:05 GMT</pubDate>
-            <description><![CDATA[HAUTBERGUE_Dominique_20260909_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-09T19:27:05+02:00" title="Mercredi 9 septembre 2026 - 19:27">mer 09/09/2026 - 19:27</time>
-    <time datetime="2026-09-09T12:00:00Z">9 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/hautbergue_dominique_20260909_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    hautbergue_dominique_20260909_signee.pdf <span class="fr-link__detail">128.05 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-09T12:00:00Z">mer 09/09/2026 - 12:00</time>
-]]></description>
-            <content:encoded><![CDATA[HAUTBERGUE_Dominique_20260909_signée
-<span><span>constantv@afd.fr</span></span>
-<time datetime="2026-09-09T19:27:05+02:00" title="Mercredi 9 septembre 2026 - 19:27">mer 09/09/2026 - 19:27</time>
-    <time datetime="2026-09-09T12:00:00Z">9 septembre 2026</time>
-    0    Délégations de signature – Décisions DG    
-
-      
-        
-  
-  
-  
-
-
-
-
-
-  
-<a href="https://www.afd.fr/sites/default/files/2026-09/hautbergue_dominique_20260909_signee.pdf" type="application/pdf" class="file file--mime-application-pdf file--application-pdf fr-link--download fr-link" data-component-id="dsfr4drupal:link" data-component-variant="download">    hautbergue_dominique_20260909_signee.pdf <span class="fr-link__detail">128.05 Ko</span>
-  </a>
-
-
-
-    <time datetime="2026-09-09T12:00:00Z">mer 09/09/2026 - 12:00</time>
-]]></content:encoded>
-            <author>constantv@afd.fr</author>
         </item>
     </channel>
 </rss>
