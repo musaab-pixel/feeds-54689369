@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 14 Nov 2026 22:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 22:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي…]]></title>
+            <link>https://t.me/aljazeeraBrk/244604</link>
+            <guid isPermaLink="false">10b672f15be9a59b680866d5f66ec5864e0ff14eb07408d7dfe8d660c971f7f1</guid>
+            <pubDate>Sat, 14 Nov 2026 22:01:02 GMT</pubDate>
+            <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بحرية الحرس الثوري الإيراني: اندلاع حريق في ناقلتي نفط مخالفتين جنوب مضيق هرمز…]]></title>
             <link>https://t.me/aljazeeraBrk/244603</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 13:11:02 GMT</pubDate>
             <description><![CDATA[وزير شؤون الشرق الأوسط البريطاني: الهجوم الذي استهدف منشأة صحية في قطاع غزة يثير الرعب الشديد]]></description>
             <content:encoded><![CDATA[وزير شؤون الشرق الأوسط البريطاني: الهجوم الذي استهدف منشأة صحية في قطاع غزة يثير الرعب الشديد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة جنوبي…]]></title>
-            <link>https://t.me/aljazeeraBrk/244177</link>
-            <guid isPermaLink="false">86b91448284f77d4b15bf55d4c61891bc906cd7ef6568f73a2188f6e341f9606</guid>
-            <pubDate>Thu, 12 Nov 2026 13:08:02 GMT</pubDate>
-            <description><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة جنوبي دير البلح وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مستشفى شهداء الأقصى: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة جنوبي دير البلح وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
