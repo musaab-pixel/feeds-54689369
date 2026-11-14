@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 14 Nov 2026 22:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 23:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التلفزيون السوري عن مصدر أمني: ننفي وقوع أي استهداف لحاجز الأمن الداخلي في…]]></title>
+            <link>https://t.me/aljazeeraBrk/244606</link>
+            <guid isPermaLink="false">ad96b06bff2b82ff176a839f465b1592c46d3583eb199bb848934f9a916122aa</guid>
+            <pubDate>Sat, 14 Nov 2026 23:01:02 GMT</pubDate>
+            <description><![CDATA[التلفزيون السوري عن مصدر أمني: ننفي وقوع أي استهداف لحاجز الأمن الداخلي في منطقة حريصون بطرطوس]]></description>
+            <content:encoded><![CDATA[التلفزيون السوري عن مصدر أمني: ننفي وقوع أي استهداف لحاجز الأمن الداخلي في منطقة حريصون بطرطوس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية…]]></title>
             <link>https://t.me/aljazeeraBrk/244605</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 13:16:01 GMT</pubDate>
             <description><![CDATA[ترمب: حصلنا على مئات مليارات الدولارات من أموال إيران ونسيطر على مضيق هرمز ولا نحتاج إلى إبرام اتفاق معها]]></description>
             <content:encoded><![CDATA[ترمب: حصلنا على مئات مليارات الدولارات من أموال إيران ونسيطر على مضيق هرمز ولا نحتاج إلى إبرام اتفاق معها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: لا نحتاج إلى اتفاق مع إيران]]></title>
-            <link>https://t.me/aljazeeraBrk/244179</link>
-            <guid isPermaLink="false">cadc354011fbdd9d4419fb310bbd769594203eb23cd4f4aa9b2f1fbe3ea44f31</guid>
-            <pubDate>Thu, 12 Nov 2026 13:12:02 GMT</pubDate>
-            <description><![CDATA[ترمب: لا نحتاج إلى اتفاق مع إيران]]></description>
-            <content:encoded><![CDATA[ترمب: لا نحتاج إلى اتفاق مع إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
