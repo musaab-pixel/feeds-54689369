@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "552b5cc46895ff6c8ac0a8aedba55e21c9b32b7fff2d70b8fe45a5dcb6f81306",
+            "content_html": "وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية شعوب في العاصمة صنعاء",
+            "url": "https://t.me/aljazeeraBrk/244605",
+            "title": "وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية…",
+            "summary": "وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية شعوب في العاصمة صنعاء",
+            "date_modified": "2026-11-14T22:37:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "10b672f15be9a59b680866d5f66ec5864e0ff14eb07408d7dfe8d660c971f7f1",
             "content_html": "مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة",
             "url": "https://t.me/aljazeeraBrk/244604",
@@ -1587,17 +1598,6 @@
             "date_modified": "2026-11-13T10:28:01.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e288f5cce64b1d77051e85f09e322e168babc53d239cab82791f6aa47f9e67da",
-            "content_html": "<b>الأناضول: </b>شركة \"صن إكسبريس\" تطلق رحلات مباشرة من ولايتي أنطاليا وإزمير في تركيا إلى دمشق على أن تُنظم رحلتين أسبوعيًا يومي الخميس والسبت<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142834",
-            "title": "الأناضول: شركة \"صن إكسبريس\" تطلق رحلات مباشرة من ولايتي أنطاليا وإزمير في تركيا…",
-            "summary": "<b>الأناضول: </b>شركة \"صن إكسبريس\" تطلق رحلات مباشرة من ولايتي أنطاليا وإزمير في تركيا إلى دمشق على أن تُنظم رحلتين أسبوعيًا يومي الخميس والسبت<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-13T10:21:02.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

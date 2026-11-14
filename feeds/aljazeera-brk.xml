@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 14 Nov 2026 22:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 22:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/244605</link>
+            <guid isPermaLink="false">552b5cc46895ff6c8ac0a8aedba55e21c9b32b7fff2d70b8fe45a5dcb6f81306</guid>
+            <pubDate>Sat, 14 Nov 2026 22:37:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية شعوب في العاصمة صنعاء]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية شعوب في العاصمة صنعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي…]]></title>
             <link>https://t.me/aljazeeraBrk/244604</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 13:12:02 GMT</pubDate>
             <description><![CDATA[ترمب: لا نحتاج إلى اتفاق مع إيران]]></description>
             <content:encoded><![CDATA[ترمب: لا نحتاج إلى اتفاق مع إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير شؤون الشرق الأوسط البريطاني: الهجوم الذي استهدف منشأة صحية في قطاع غزة…]]></title>
-            <link>https://t.me/aljazeeraBrk/244178</link>
-            <guid isPermaLink="false">d868b4b20ec2906f48abf862e6419d0f4ee12c10af6ff0595a7add64764055c2</guid>
-            <pubDate>Thu, 12 Nov 2026 13:11:02 GMT</pubDate>
-            <description><![CDATA[وزير شؤون الشرق الأوسط البريطاني: الهجوم الذي استهدف منشأة صحية في قطاع غزة يثير الرعب الشديد]]></description>
-            <content:encoded><![CDATA[وزير شؤون الشرق الأوسط البريطاني: الهجوم الذي استهدف منشأة صحية في قطاع غزة يثير الرعب الشديد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
