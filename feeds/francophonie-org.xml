@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Sun, 15 Nov 2026 11:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 11:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[La Secrétaire générale présente aux Etats et gouvernements son rapport 2024-2026]]></title>
+            <link>https://www.francophonie.org/la-secretaire-generale-presente-aux-etats-et-gouvernements-son-rapport-2024-2026-8777</link>
+            <guid isPermaLink="false">100cc7343a04d1325fc6c0276dcbb9b4dd4ddd86f7b436c8b26a17cd92f75814</guid>
+            <pubDate>Sun, 15 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">La Secrétaire générale présente aux Etats et gouvernements son rapport 2024-2026</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-15T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">dim 15/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">La Secrétaire générale présente aux Etats et gouvernements son rapport 2024-2026</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-15T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">dim 15/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Rapport de la Secrétaire générale (2024-2026)]]></title>
             <link>https://www.francophonie.org/node/8776</link>
