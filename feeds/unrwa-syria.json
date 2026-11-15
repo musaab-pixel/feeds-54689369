@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "343030dff0a5b05e4948366d1798153f54d7588cd03fd97d9e354f4f658170ba",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNCWW1YSzd0c0sxUlBERXI1eFJzSkJxMURUTkY5UWhlNm85aGJYMTRMZ3A4RlRaQUtOWlpyLUZlVENZWkhiN2VHR3Y0Y3VLaUhRUWkwbTY0S0JrVHlkQ0IyZEZENHIzMmxvNWZMOW5MaWp3WEdySm56ZGdvckVuM2c1d3Y2NXNYdjFzNU5LOWJwbjBWYlpnMUNFajZyZ1M2TXRQbg?oc=5\" target=\"_blank\">طالبة سابقة في الأونروا ضمن أوائل الثانوية العامة في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNCWW1YSzd0c0sxUlBERXI1eFJzSkJxMURUTkY5UWhlNm85aGJYMTRMZ3A4RlRaQUtOWlpyLUZlVENZWkhiN2VHR3Y0Y3VLaUhRUWkwbTY0S0JrVHlkQ0IyZEZENHIzMmxvNWZMOW5MaWp3WEdySm56ZGdvckVuM2c1d3Y2NXNYdjFzNU5LOWJwbjBWYlpnMUNFajZyZ1M2TXRQbg?oc=5",
+            "title": "طالبة سابقة في الأونروا ضمن أوائل الثانوية العامة في سوريا - UNRWA",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNCWW1YSzd0c0sxUlBERXI1eFJzSkJxMURUTkY5UWhlNm85aGJYMTRMZ3A4RlRaQUtOWlpyLUZlVENZWkhiN2VHR3Y0Y3VLaUhRUWkwbTY0S0JrVHlkQ0IyZEZENHIzMmxvNWZMOW5MaWp3WEdySm56ZGdvckVuM2c1d3Y2NXNYdjFzNU5LOWJwbjBWYlpnMUNFajZyZ1M2TXRQbg?oc=5\" target=\"_blank\">طالبة سابقة في الأونروا ضمن أوائل الثانوية العامة في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
+            "date_modified": "2026-11-15T10:49:41.000Z",
+            "author": {
+                "name": "UNRWA"
+            }
+        },
+        {
             "id": "578f4f46beb1c9f72d119903f14dae91d54760934d871ba48284b4799785f52e",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMilwRBVV95cUxNSXdJUS16OGVoWGhVd0U5c0h6cVp6X1NlZTRISHd0RFAyak9EU2VjaHJ2bUpUNXh6TWFUX2c2Y1MxR2tiM2hqYVRTY19pNU9KRlNOVnl3b2lNRTJ4eWZDX205dDcxaHd0eEM2Y2FZLXpNYVNlWXo3S2pKNExOOTlmcGpTM3dCTjdLTHpnVC1TZHlGdEZEb1N5cDdIa1dmcnl0SjE5WW1tQks4ekVJV1gyNmZ6NmtjcGt4ZzVPQi0yVW1Fc2VUUGR4eV8waDVDQU1nZWd3aXYxUWlOVmNTRTJsZXhQUWNMYzRPc01fRzFieGNXTW9PN1plR2hUbXlWbHlxM0dlcEltN0tMOUQwM3hReFdJM3RVZy1pMV91RHZzaEpIRHF6aXhNYnoySFpBTmR6WWdRTlVaeUZEOTFYXzl3dF9fUld5S21LS2NKc1FfR095Q055NURaSENjVm91QXlLVFdUWERPbF9FUnVMaVlMTlh1bG1XTXl2anNHdEx6RmxuamNOcFlnc2l0eHZueU1OZTE0MWsxX2l6RHFHVkZzOUlaWkZmVm5MSzMzWXFVa3NRcUV6OWpCTVM0eEozaC0tQ0hQNURCWmk4X01YaEo3UVRfRm9YeURfb3doVThDNkVya1YtbmlyRmZnY1NGbDN4b3RwNWIxZDdPNG1Mc1NxOFBxMFl0a3dtN2dRNGdqaHRVWlh6UGhF?oc=5\" target=\"_blank\">\"أونروا\" تمدد التسجيل لدعم المشاريع الصغيرة في سوريا حتى نهاية العام</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNSXdJUS16OGVoWGhVd0U5c0h6cVp6X1NlZTRISHd0RFAyak9EU2VjaHJ2bUpUNXh6TWFUX2c2Y1MxR2tiM2hqYVRTY19pNU9KRlNOVnl3b2lNRTJ4eWZDX205dDcxaHd0eEM2Y2FZLXpNYVNlWXo3S2pKNExOOTlmcGpTM3dCTjdLTHpnVC1TZHlGdEZEb1N5cDdIa1dmcnl0SjE5WW1tQks4ekVJV1gyNmZ6NmtjcGt4ZzVPQi0yVW1Fc2VUUGR4eV8waDVDQU1nZWd3aXYxUWlOVmNTRTJsZXhQUWNMYzRPc01fRzFieGNXTW9PN1plR2hUbXlWbHlxM0dlcEltN0tMOUQwM3hReFdJM3RVZy1pMV91RHZzaEpIRHF6aXhNYnoySFpBTmR6WWdRTlVaeUZEOTFYXzl3dF9fUld5S21LS2NKc1FfR095Q055NURaSENjVm91QXlLVFdUWERPbF9FUnVMaVlMTlh1bG1XTXl2anNHdEx6RmxuamNOcFlnc2l0eHZueU1OZTE0MWsxX2l6RHFHVkZzOUlaWkZmVm5MSzMzWXFVa3NRcUV6OWpCTVM0eEozaC0tQ0hQNURCWmk4X01YaEo3UVRfRm9YeURfb3doVThDNkVya1YtbmlyRmZnY1NGbDN4b3RwNWIxZDdPNG1Mc1NxOFBxMFl0a3dtN2dRNGdqaHRVWlh6UGhF?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-03-02T08:00:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "8e36ef5f3ab6b6e27d8e14a2491939ce3064867cc2524c467c4f49beac260991",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiyARBVV95cUxOT1dUZWlVS0lCV09YX0ptalhrdXcxZ0xHem5EeTNNSnRxa29kcDJ4TnNnbmsyWGhuTWpHVXpqOWZNT3IxS1kzVHB4NGl4d2VOUy0ya0ZlYlgxVWZlTTJqQi0zUFNFUUk0Qm9OdF8zM2NxNEI3OVNYdXFtSzlDTnJSZjV1UmEwcmxQeTJEUGJ2dVR1Nk1aaE5RLTVyTGtxX3lOSk9kT2RsVHpYbW0wUGZfOU1TVk05ZHFfNXM4OHFzV1dKQ3FUN3FxZGlPNmpZR08zWGdmakJBb19Pd3VxOEtEZG8tM0NpTWVzWEZmTVJ3TlpfaFZTRng0Sy0wenNzVnhwdGxKTFdiM0w0X1NLbUtrS0R3bXp6TXNUREVxSUZJNGZ5VDlSZmxOLVNtLUtBSEZVMmFHeTZDcGJQdHFucGlwd2NOX1pSMFlrUW52TGtwbUk4d0xyRGpRTVdfWmp3b3YxbkpVdDFWVWVaR2NwZTFtWkt1X2xnUVl1Z3pjTm5HclNyM2lTcG95MmF4TV9GWEdxdmhKYlRGcEc3TmJuNjZaZmZ3RTdtdHVpaTJjS2E1b0lPRHNzZTR1amttcHotYW1EWUp5alB6MXc2SXBtTFg2VmVzb09vckIxakpGTG9fSW9fWTJvQ05Hem11c21WMVdiSGFsaG9Fa2QxTW96eUFuQWZLeHNMU09xTXcyRDdQblBMOU9uQktPcjU0YlRoRXpkUkZsXy02SGNhVDdzelpDLUZtZktpR3ZMM3pfdkFlX2tRZ013YUx2ag?oc=5\" target=\"_blank\">تعليق الدوام المدرسي في جنوب سوريا يشمل مدارس \"أونروا\" بسبب التوترات الأمنية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة مصدر الاخبارية</font>",
-            "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOT1dUZWlVS0lCV09YX0ptalhrdXcxZ0xHem5EeTNNSnRxa29kcDJ4TnNnbmsyWGhuTWpHVXpqOWZNT3IxS1kzVHB4NGl4d2VOUy0ya0ZlYlgxVWZlTTJqQi0zUFNFUUk0Qm9OdF8zM2NxNEI3OVNYdXFtSzlDTnJSZjV1UmEwcmxQeTJEUGJ2dVR1Nk1aaE5RLTVyTGtxX3lOSk9kT2RsVHpYbW0wUGZfOU1TVk05ZHFfNXM4OHFzV1dKQ3FUN3FxZGlPNmpZR08zWGdmakJBb19Pd3VxOEtEZG8tM0NpTWVzWEZmTVJ3TlpfaFZTRng0Sy0wenNzVnhwdGxKTFdiM0w0X1NLbUtrS0R3bXp6TXNUREVxSUZJNGZ5VDlSZmxOLVNtLUtBSEZVMmFHeTZDcGJQdHFucGlwd2NOX1pSMFlrUW52TGtwbUk4d0xyRGpRTVdfWmp3b3YxbkpVdDFWVWVaR2NwZTFtWkt1X2xnUVl1Z3pjTm5HclNyM2lTcG95MmF4TV9GWEdxdmhKYlRGcEc3TmJuNjZaZmZ3RTdtdHVpaTJjS2E1b0lPRHNzZTR1amttcHotYW1EWUp5alB6MXc2SXBtTFg2VmVzb09vckIxakpGTG9fSW9fWTJvQ05Hem11c21WMVdiSGFsaG9Fa2QxTW96eUFuQWZLeHNMU09xTXcyRDdQblBMOU9uQktPcjU0YlRoRXpkUkZsXy02SGNhVDdzelpDLUZtZktpR3ZMM3pfdkFlX2tRZ013YUx2ag?oc=5",
-            "title": "تعليق الدوام المدرسي في جنوب سوريا يشمل مدارس \"أونروا\" بسبب التوترات الأمنية - شبكة مصدر الاخبارية",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyARBVV95cUxOT1dUZWlVS0lCV09YX0ptalhrdXcxZ0xHem5EeTNNSnRxa29kcDJ4TnNnbmsyWGhuTWpHVXpqOWZNT3IxS1kzVHB4NGl4d2VOUy0ya0ZlYlgxVWZlTTJqQi0zUFNFUUk0Qm9OdF8zM2NxNEI3OVNYdXFtSzlDTnJSZjV1UmEwcmxQeTJEUGJ2dVR1Nk1aaE5RLTVyTGtxX3lOSk9kT2RsVHpYbW0wUGZfOU1TVk05ZHFfNXM4OHFzV1dKQ3FUN3FxZGlPNmpZR08zWGdmakJBb19Pd3VxOEtEZG8tM0NpTWVzWEZmTVJ3TlpfaFZTRng0Sy0wenNzVnhwdGxKTFdiM0w0X1NLbUtrS0R3bXp6TXNUREVxSUZJNGZ5VDlSZmxOLVNtLUtBSEZVMmFHeTZDcGJQdHFucGlwd2NOX1pSMFlrUW52TGtwbUk4d0xyRGpRTVdfWmp3b3YxbkpVdDFWVWVaR2NwZTFtWkt1X2xnUVl1Z3pjTm5HclNyM2lTcG95MmF4TV9GWEdxdmhKYlRGcEc3TmJuNjZaZmZ3RTdtdHVpaTJjS2E1b0lPRHNzZTR1amttcHotYW1EWUp5alB6MXc2SXBtTFg2VmVzb09vckIxakpGTG9fSW9fWTJvQ05Hem11c21WMVdiSGFsaG9Fa2QxTW96eUFuQWZLeHNMU09xTXcyRDdQblBMOU9uQktPcjU0YlRoRXpkUkZsXy02SGNhVDdzelpDLUZtZktpR3ZMM3pfdkFlX2tRZ013YUx2ag?oc=5\" target=\"_blank\">تعليق الدوام المدرسي في جنوب سوريا يشمل مدارس \"أونروا\" بسبب التوترات الأمنية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة مصدر الاخبارية</font>",
-            "date_modified": "2026-03-02T08:00:00.000Z",
-            "author": {
-                "name": "شبكة مصدر الاخبارية"
             }
         }
     ]
