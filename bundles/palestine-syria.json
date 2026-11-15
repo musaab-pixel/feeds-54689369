@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "86aa5a39b2ee070bc7e910a2953f0c1636d01caf326ebf748db5986fe5d36e8d",
+            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">من السوق المسقوف في مدينة اعزاز أحد أشهر الأسواق في المدينة.. مساء الخير<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
+            "url": "https://t.me/HalabTodayTV/142933",
+            "title": "من السوق المسقوف في مدينة اعزاز أحد أشهر الأسواق في المدينة.. مساء الخير…",
+            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">من السوق المسقوف في مدينة اعزاز أحد أشهر الأسواق في المدينة.. مساء الخير<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
+            "image": "https://cdn4.telesco.pe/file/pHYOXHNdrihaFfw_yXwZiXLNQPX-yOVafHU1VC8d1cT0t-EC1Brw0Rb27PFEvaxBrgBaKQ6XsJ5FMRaZ7k6JPIJsrODUBirHF3iABEc7cJ1N5ILDMz2e57bp1C00PYwl2MWb8uuCiSd0_0XAkF_S78SlSOZVYW1bHDK6Ey4pt1ASs_BBopr2Afxe9pd_aVKES5vN-dB9WeNmiibVZSs-qUgkjuJvJmFiIPmiQhr8Oe33KUaoJnrDkNxdn70PQFO_JCWTxmyS4V5TPlEtPqm_ou5LWs5jMWR96qwfJu7q9laGOJx5w4h-5eUljJvbIlAD-M13zq6_s2zzL3sUhYCNwg.jpg",
+            "date_modified": "2026-11-15T13:00:51.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "ee4c227d734bcb51339340678cfb572e8237656e1c0cf4c50f938b63038072ae",
             "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">غرفة تجارة حلب تستقبل وفدًا من رجال الأعمال الكنديين وتجمعهم بتجار المدينة العاملين في قطاع الثروة الحيوانية والمواشي لفتح آفاق التبادل التجاري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
             "url": "https://t.me/HalabTodayTV/142929",
@@ -1596,17 +1608,6 @@
             "title": "نيويورك تايمز عن فلايت رادار 24: سمح لبعض الرحلات الدولية بالمغادرة من الولايات…",
             "summary": "نيويورك تايمز عن فلايت رادار 24: سمح لبعض الرحلات الدولية بالمغادرة من الولايات المتحدة رغم سريان قرار وقف الإقلاع على مستوى البلاد",
             "date_modified": "2026-11-13T23:14:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "88089c2b15f92837c563d4575bb2e2fc1a4f14423735e8b6d503a403f7a6523c",
-            "content_html": "وول ستريت جورنال عن فلايت أوير: إلغاء أكثر من 1100 رحلة جوية داخل الولايات المتحدة وتأخر قرابة 10 آلاف رحلة",
-            "url": "https://t.me/aljazeeraBrk/244448",
-            "title": "وول ستريت جورنال عن فلايت أوير: إلغاء أكثر من 1100 رحلة جوية داخل الولايات…",
-            "summary": "وول ستريت جورنال عن فلايت أوير: إلغاء أكثر من 1100 رحلة جوية داخل الولايات المتحدة وتأخر قرابة 10 آلاف رحلة",
-            "date_modified": "2026-11-13T23:11:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
