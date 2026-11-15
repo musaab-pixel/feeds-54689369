@@ -4,10 +4,113 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Sat, 14 Nov 2026 20:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 00:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Marie-Ange Nguci 14 Feb 2027 / 18:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/marie-ange-nguci/</link>
+            <guid isPermaLink="false">1f1c8dec5fc8da1f4551997572553792da16425a008f1855cc42910f593cfb24</guid>
+            <pubDate>Sun, 14 Feb 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Sunday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>25% – Under 30<br>
+10% – Over 65</p>
+<p>Cartão Gulbenkian:<br>
+50% – Under 30<br>
+20% – Over 65<br>
+10% – 30 to 64</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Marie-Ange Nguci											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Ludwig van Beethoven</h4>
+<h4 class="fcg-programme__title">Maurice Ravel</h4>
+<h4 class="fcg-programme__title">Robert Schumann</h4>
+<h4 class="fcg-programme__title">Johannes Brahms</h4>
+<p>One of the most dazzling and exciting pianistic talents to emerge in recent decades, Marie-Ange Nguci increasingly combines virtuosity with insatiable artistic curiosity and unusual interpretative intensity. The precocious Franco-Albanian pianist began appearing in the world’s leading concert halls while still a teenager, at the time she recorded her debut album En Miroir (2017). Her position has since been reinforced through a wide-ranging repertoire, demonstrating the remarkable ease with which she approaches Baroque, Classical, Romantic and contemporary works alike.</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<h3 class="fcg-sponsors__title">Sponsor Piano Series</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Event Slider</h2>
+<h4 class="assist">Date</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelled							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Sold out							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									Sunday, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Location</h4>
+<h4 class="assist">Pricing</h4>
+<p>25% – Under 30<br>
+10% – Over 65</p>
+<p>Cartão Gulbenkian:<br>
+50% – Under 30<br>
+20% – Over 65<br>
+10% – 30 to 64</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Marie-Ange Nguci											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Ludwig van Beethoven</h4>
+<h4 class="fcg-programme__title">Maurice Ravel</h4>
+<h4 class="fcg-programme__title">Robert Schumann</h4>
+<h4 class="fcg-programme__title">Johannes Brahms</h4>
+<p>One of the most dazzling and exciting pianistic talents to emerge in recent decades, Marie-Ange Nguci increasingly combines virtuosity with insatiable artistic curiosity and unusual interpretative intensity. The precocious Franco-Albanian pianist began appearing in the world’s leading concert halls while still a teenager, at the time she recorded her debut album En Miroir (2017). Her position has since been reinforced through a wide-ranging repertoire, demonstrating the remarkable ease with which she approaches Baroque, Classical, Romantic and contemporary works alike.</p>
+<h3 class="fcg-sponsors__title">Sponsor Gulbenkian Music</h3>
+<h3 class="fcg-sponsors__title">Sponsor Piano Series</h3>
+<p class="tw-text-xs tw-mb-0">
+		The Calouste Gulbenkian Foundation reserves the right to collect and keep records of images, sounds and voice for the diffusion and preservation of the memory of its cultural and artistic activity. For further information, please contact us through the <a href="https://gulbenkian.pt/en/information-request/">Information Request</a> form.	</p>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/42_Marie-Ange-Nguci-C-Caroline-Doutre_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Conference Museums Today 12 Feb 2027 / 09:30]]></title>
             <link>https://gulbenkian.pt/en/agenda/museums-today/</link>
@@ -4972,10 +5075,10 @@ How are applications assessed?				</h4>
             <enclosure url="https://gulbenkian.pt/wp-content/uploads/2026/10/CJoaoVersosRoldao_2025_TerraAmarela_AMeioDoTejo_Espetaculo_TorresNovas_17out_HighRes-0062_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dance Shikama, by Dorothée Munyaneza 14 Nov 2026 / 19:00]]></title>
+            <title><![CDATA[Dance Shikama, by Dorothée Munyaneza 15 Nov 2026 / 17:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/dorothee-munyaneza/</link>
             <guid isPermaLink="false">c768f343df92b6a548f79345e11ea57d5cb66ef95fa31e64495380919754d87b</guid>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul class="fcg-media-modal__list">
 																				<li class="fcg-media-modal__item tw-p-0">
 																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">

@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 14 Nov 2026 23:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 00:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حماس تنعى قائد لواء رفح سمير محمود الذي استشهد في قصف إسرائيلي على مواصي خان…]]></title>
+            <link>https://t.me/aljazeeraBrk/244607</link>
+            <guid isPermaLink="false">62b761eb14a9a27e0d5c68fc831bd9da0085066f43a4a9668309207198035c17</guid>
+            <pubDate>Sat, 14 Nov 2026 23:58:02 GMT</pubDate>
+            <description><![CDATA[حماس تنعى قائد لواء رفح سمير محمود الذي استشهد في قصف إسرائيلي على مواصي خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[حماس تنعى قائد لواء رفح سمير محمود الذي استشهد في قصف إسرائيلي على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون السوري عن مصدر أمني: ننفي وقوع أي استهداف لحاجز الأمن الداخلي في…]]></title>
             <link>https://t.me/aljazeeraBrk/244606</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 13:20:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة أمام بوابة مجمع الشفاء الطبي بغزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: شهيدان ومصابون في غارة إسرائيلية على مركبة أمام بوابة مجمع الشفاء الطبي بغزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: حصلنا على مئات مليارات الدولارات من أموال إيران ونسيطر على مضيق هرمز ولا…]]></title>
-            <link>https://t.me/aljazeeraBrk/244180</link>
-            <guid isPermaLink="false">b91a4bd9cfe321453bf8b738c2f8cec6072fd6556325d0bbe0c69f0b6155d519</guid>
-            <pubDate>Thu, 12 Nov 2026 13:16:01 GMT</pubDate>
-            <description><![CDATA[ترمب: حصلنا على مئات مليارات الدولارات من أموال إيران ونسيطر على مضيق هرمز ولا نحتاج إلى إبرام اتفاق معها]]></description>
-            <content:encoded><![CDATA[ترمب: حصلنا على مئات مليارات الدولارات من أموال إيران ونسيطر على مضيق هرمز ولا نحتاج إلى إبرام اتفاق معها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
