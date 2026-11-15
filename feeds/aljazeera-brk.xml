@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 15 Nov 2026 22:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 22:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أكسيوس عن مسؤول أمريكي: حاملة الطائرات روزفلت وصلت إلى منطقة مسؤولية القيادة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244681</link>
+            <guid isPermaLink="false">44953ecb52df4e4d3bfa1667a0d1eedde33327801d68b82a67cfae87cdb7c458</guid>
+            <pubDate>Sun, 15 Nov 2026 22:31:02 GMT</pubDate>
+            <description><![CDATA[أكسيوس عن مسؤول أمريكي: حاملة الطائرات روزفلت وصلت إلى منطقة مسؤولية القيادة المركزية الأمريكية]]></description>
+            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: حاملة الطائرات روزفلت وصلت إلى منطقة مسؤولية القيادة المركزية الأمريكية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على منطقة الغودرة بعزلة زريقة…]]></title>
             <link>https://t.me/aljazeeraBrk/244680</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 20:43:02 GMT</pubDate>
             <description><![CDATA[مجلس الأمن: ندعو الدول الأعضاء لتعزيز التعاون مع الحكومة اليمنية لمنع الحوثيين من الحصول على الأسلحة وتهريبها]]></description>
             <content:encoded><![CDATA[مجلس الأمن: ندعو الدول الأعضاء لتعزيز التعاون مع الحكومة اليمنية لمنع الحوثيين من الحصول على الأسلحة وتهريبها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجلس الأمن: نعبر عن تضامننا مع السعودية ونؤكد حقها في الدفاع عن النفس ونشدد على…]]></title>
-            <link>https://t.me/aljazeeraBrk/244254</link>
-            <guid isPermaLink="false">46d2c5f8a8e53b215e9a5a8cd4b2a271c4ef771eeb5434d058c4d99c1b146518</guid>
-            <pubDate>Thu, 12 Nov 2026 20:42:02 GMT</pubDate>
-            <description><![CDATA[مجلس الأمن: نعبر عن تضامننا مع السعودية ونؤكد حقها في الدفاع عن النفس ونشدد على ألا حل عسكريا للنزاع في اليمن]]></description>
-            <content:encoded><![CDATA[مجلس الأمن: نعبر عن تضامننا مع السعودية ونؤكد حقها في الدفاع عن النفس ونشدد على ألا حل عسكريا للنزاع في اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
