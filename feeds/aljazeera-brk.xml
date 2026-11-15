@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 15 Nov 2026 08:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 09:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244632</link>
+            <guid isPermaLink="false">8191de03463e9dd6c6d63c06636bad7a400ed52b546769815eef30c61f4954eb</guid>
+            <pubDate>Sun, 15 Nov 2026 09:36:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مدينة غزة قبل أيام]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مدينة غزة قبل أيام]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي زيتون فلسطينيين في بلدة السيلة الحارثية…]]></title>
             <link>https://t.me/aljazeeraBrk/244631</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 15:12:02 GMT</pubDate>
             <description><![CDATA[مندوبة بريطانيا بالأمم المتحدة نيابة عن 53 دولة ومنظمة: ندعو حكومة إسرائيل المقبلة للسماح بوصول إنساني لكل غزة]]></description>
             <content:encoded><![CDATA[مندوبة بريطانيا بالأمم المتحدة نيابة عن 53 دولة ومنظمة: ندعو حكومة إسرائيل المقبلة للسماح بوصول إنساني لكل غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إن بي سي عن شرطة واشنطن: المشتبه به في إطلاق النار بواشنطن لم يتم القبض عليه بعد]]></title>
-            <link>https://t.me/aljazeeraBrk/244204</link>
-            <guid isPermaLink="false">3d72c605597536343d9bcb501a20594c7eaad7e3b3c2950096758402c29f01a8</guid>
-            <pubDate>Thu, 12 Nov 2026 15:11:02 GMT</pubDate>
-            <description><![CDATA[إن بي سي عن شرطة واشنطن: المشتبه به في إطلاق النار بواشنطن لم يتم القبض عليه بعد]]></description>
-            <content:encoded><![CDATA[إن بي سي عن شرطة واشنطن: المشتبه به في إطلاق النار بواشنطن لم يتم القبض عليه بعد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
