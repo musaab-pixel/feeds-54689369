@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 15 Nov 2026 08:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 08:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي زيتون فلسطينيين في بلدة السيلة الحارثية…]]></title>
+            <link>https://t.me/aljazeeraBrk/244631</link>
+            <guid isPermaLink="false">c7e14640e1191451119d53a345d03694d9f13f2f08de79f553b20e1085ea04a8</guid>
+            <pubDate>Sun, 15 Nov 2026 08:46:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي زيتون فلسطينيين في بلدة السيلة الحارثية بجنين شمالي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يهاجمون قاطفي زيتون فلسطينيين في بلدة السيلة الحارثية بجنين شمالي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: غارة جوية على مخزن أسلحة لجماعة الحوثي في مناطق…]]></title>
             <link>https://t.me/aljazeeraBrk/244630</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 15:11:02 GMT</pubDate>
             <description><![CDATA[إن بي سي عن شرطة واشنطن: المشتبه به في إطلاق النار بواشنطن لم يتم القبض عليه بعد]]></description>
             <content:encoded><![CDATA[إن بي سي عن شرطة واشنطن: المشتبه به في إطلاق النار بواشنطن لم يتم القبض عليه بعد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[إن بي سي عن مصدر فيدرالي: مطلق النار يتحصن بطابق مرتفع من المبنى السكني فوق…]]></title>
-            <link>https://t.me/aljazeeraBrk/244205</link>
-            <guid isPermaLink="false">3ff7704c8551f4ecd26edf12ca5081fc3222ad2d1f8e0d56aed3bcba89908270</guid>
-            <pubDate>Thu, 12 Nov 2026 15:11:02 GMT</pubDate>
-            <description><![CDATA[إن بي سي عن مصدر فيدرالي: مطلق النار يتحصن بطابق مرتفع من المبنى السكني فوق صالة رياضية وقع فيها إطلاق النار]]></description>
-            <content:encoded><![CDATA[إن بي سي عن مصدر فيدرالي: مطلق النار يتحصن بطابق مرتفع من المبنى السكني فوق صالة رياضية وقع فيها إطلاق النار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
