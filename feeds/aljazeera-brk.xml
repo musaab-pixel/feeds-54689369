@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 15 Nov 2026 10:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 11:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[زيلنسكي: الكثير من الهجمات الروسية لم تكن ممكنة لولا القيود المفروضة على خدمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244636</link>
+            <guid isPermaLink="false">e32a3676670efa3f66a9c6ebd8faa403687286bca970543f7d877d9d4c47aab9</guid>
+            <pubDate>Sun, 15 Nov 2026 10:52:02 GMT</pubDate>
+            <description><![CDATA[زيلنسكي: الكثير من الهجمات الروسية لم تكن ممكنة لولا القيود المفروضة على خدمة ستارشيلد للاتصالات]]></description>
+            <content:encoded><![CDATA[زيلنسكي: الكثير من الهجمات الروسية لم تكن ممكنة لولا القيود المفروضة على خدمة ستارشيلد للاتصالات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[زيلنسكي: القوات الروسية هاجمت البنية التحتية للطاقة والسكك الحديدية في 8 مناطق…]]></title>
             <link>https://t.me/aljazeeraBrk/244635</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 15:18:02 GMT</pubDate>
             <description><![CDATA[سهم شركةإنفيديا يتراجع 13% بعد استقالة المدير التنفيذي للشركة]]></description>
             <content:encoded><![CDATA[سهم شركةإنفيديا يتراجع 13% بعد استقالة المدير التنفيذي للشركة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مؤشر ناسداك يتراجع 1.5% عند الافتتاح بضغط من سهم إنفيديا]]></title>
-            <link>https://t.me/aljazeeraBrk/244210</link>
-            <guid isPermaLink="false">6ec7e557999df01a534301970ccfde9b0c74d865e74336cc1f5f8cd93ac3412e</guid>
-            <pubDate>Thu, 12 Nov 2026 15:18:02 GMT</pubDate>
-            <description><![CDATA[مؤشر ناسداك يتراجع 1.5% عند الافتتاح بضغط من سهم إنفيديا]]></description>
-            <content:encoded><![CDATA[مؤشر ناسداك يتراجع 1.5% عند الافتتاح بضغط من سهم إنفيديا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
