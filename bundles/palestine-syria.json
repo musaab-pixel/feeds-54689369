@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "e42cd1510e37024c75b03bcb5c7819230a93db282f6756e02c5810b9cc22f202",
+            "content_html": "مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية",
+            "url": "https://t.me/aljazeeraBrk/244803",
+            "title": "مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية",
+            "summary": "مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية",
+            "date_modified": "2026-11-16T23:11:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "19fc15cc39a180b66ba2c152dbb307484e8f6da8857d9684bcc4a45cc4a6b87e",
             "content_html": "مراسل الجزيرة عن مصادر طبية: استشهاد فلسطينية برصاص مستوطنين في مدينة أريحا شرقي الضفة الغربية",
             "url": "https://t.me/aljazeeraBrk/244802",
@@ -1629,17 +1640,6 @@
             "date_modified": "2026-11-16T05:26:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "964cc3d9f5317cf95227c3ae72c8cef5675cca5f2fae44fbfaa55ec3383a014a",
-            "content_html": "وزارة الصحة تصدر تعميمًا يمنح الممرضين والممرضات والقابلات من خريجي مدارس التمريض التابعة لها المستنكفين عن التعيين مهلة إضافية لاستكمال إجراءات تعيينهم حتى 31 كانون الأول 2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142948",
-            "title": "وزارة الصحة تصدر تعميمًا يمنح الممرضين والممرضات والقابلات من خريجي مدارس…",
-            "summary": "وزارة الصحة تصدر تعميمًا يمنح الممرضين والممرضات والقابلات من خريجي مدارس التمريض التابعة لها المستنكفين عن التعيين مهلة إضافية لاستكمال إجراءات تعيينهم حتى 31 كانون الأول 2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-16T05:24:50.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]

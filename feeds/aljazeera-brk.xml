@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 23:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 23:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية]]></title>
+            <link>https://t.me/aljazeeraBrk/244803</link>
+            <guid isPermaLink="false">e42cd1510e37024c75b03bcb5c7819230a93db282f6756e02c5810b9cc22f202</guid>
+            <pubDate>Mon, 16 Nov 2026 23:11:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة عن مصادر طبية: استشهاد فلسطينية برصاص مستوطنين في مدينة أريحا…]]></title>
             <link>https://t.me/aljazeeraBrk/244802</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 14 Nov 2026 22:01:02 GMT</pubDate>
             <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بحرية الحرس الثوري الإيراني: اندلاع حريق في ناقلتي نفط مخالفتين جنوب مضيق هرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/244603</link>
-            <guid isPermaLink="false">f01d58e6d0839addb5f69ee4be4cc165de3312f27d722fc3e634323876f2d6fd</guid>
-            <pubDate>Sat, 14 Nov 2026 21:46:02 GMT</pubDate>
-            <description><![CDATA[بحرية الحرس الثوري الإيراني: اندلاع حريق في ناقلتي نفط مخالفتين جنوب مضيق هرمز إثر اصطدامهما بألغام]]></description>
-            <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: اندلاع حريق في ناقلتي نفط مخالفتين جنوب مضيق هرمز إثر اصطدامهما بألغام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
