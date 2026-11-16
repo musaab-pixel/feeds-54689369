@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 06:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 07:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن استهداف ناقلة نفط…]]></title>
+            <link>https://t.me/aljazeeraBrk/244718</link>
+            <guid isPermaLink="false">8d7f124fa556e431b28615ff2765009f3d7e0349638003fcba31e6391af23103</guid>
+            <pubDate>Mon, 16 Nov 2026 07:19:01 GMT</pubDate>
+            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن استهداف ناقلة نفط بمقذوف مجهول في مضيق هرمز]]></description>
+            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن استهداف ناقلة نفط بمقذوف مجهول في مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر في مستشفى الشفاء: شهيد برصاص قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع…]]></title>
             <link>https://t.me/aljazeeraBrk/244717</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 08:35:02 GMT</pubDate>
             <description><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتمكن من الوصول للمنشآت النووية الإيرانية منذ هجمات يونيو 2025]]></description>
             <content:encoded><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتمكن من الوصول للمنشآت النووية الإيرانية منذ هجمات يونيو 2025]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن تقرير للوكالة الدولية للطاقة الذرية: عدم توفر معلومات عن اليورانيوم…]]></title>
-            <link>https://t.me/aljazeeraBrk/244291</link>
-            <guid isPermaLink="false">2c41a47dae76ffff6f2eb6a2deae9bf5cbc145b1f567c94d585f572f35eb22d9</guid>
-            <pubDate>Fri, 13 Nov 2026 08:34:02 GMT</pubDate>
-            <description><![CDATA[رويترز عن تقرير للوكالة الدولية للطاقة الذرية: عدم توفر معلومات عن اليورانيوم الإيراني المخصب يثير مخاوف جدية]]></description>
-            <content:encoded><![CDATA[رويترز عن تقرير للوكالة الدولية للطاقة الذرية: عدم توفر معلومات عن اليورانيوم الإيراني المخصب يثير مخاوف جدية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
