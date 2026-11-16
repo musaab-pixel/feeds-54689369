@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Sun, 15 Nov 2026 04:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 16:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -2997,6 +2997,126 @@ Como são avaliadas as candidaturas?				</h4>
 	<li>Adequação do orçamento (15%)</li>
 </ul>
 <p>(Artigo 6.º, n.os 1 a 3)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Apoios արդ եւս|in view 2026-2027 Apoio a iniciativas culturais contemporâneas concebidas e implementadas em arménio ocidental. 17 nov 2026 – 07 mar 2027]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/%d5%a1%d6%80%d5%a4-%d5%a5%d6%82%d5%bdin-view/</link>
+            <guid isPermaLink="false">2bff007c961503e0ca8ea0b08b98908bc93d9229b12c2d79751521501dab392c</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Este apoio tem como objetivo promover iniciativas culturais contemporâneas, concebidas e implementadas em Arménio Ocidental.</p>
+<p>Afastando-se dos modelos convencionais de apoio às artes, este ciclo reposiciona a cultura como um laboratório ativo de reinvenção da sociedade, onde a expressão ousada se cruza diretamente com a imaginação cívica e com o impacto. Procuramos iniciativas que explorem tecnologias criativas emergentes, experimentem novas formas de narrativa descentralizada, promovam um diálogo equitativo e deem voz a perspetivas sub-representadas através de métodos participativos e inovadores.</p>
+<p>As candidaturas serão avaliadas por um júri composto por membros da Fundação Calouste Gulbenkian, com o contributo de especialistas externos sempre que necessário. Os resultados serão comunicados até seis semanas após o prazo de candidatura.</p>
+<h2>Prioridades do արդ եւս | in view</h2>
+<ul class="list-format-bar">
+<li>Celebrar a criatividade em arménio ocidental.</li>
+<li>Reforçar a relação intrínseca entre língua e cultura, garantindo a evolução de ambas.</li>
+<li>Valorizar o poder coesivo da cultura.</li>
+<li>Promover práticas sustentáveis para uma cultura arménia ocidental duradoura.</li>
+<li>Garantir a vitalidade das diversas comunidades arménias através da cultura.</li>
+<li>Dar visibilidade a práticas culturais inovadoras no mundo arménio.</li>
+<li>Promover o equilíbrio de género e a inclusão na participação cultural.</li>
+<li>Envolver os jovens e novas práticas culturais na construção de um ambiente e identidade cultural comuns.</li>
+<li>Criar espaços abertos e inclusivos para a participação de todas as pessoas na criação e preservação cultural.</li>
+<li>Abordar desafios globais e fomentar o diálogo intercultural através do arménio ocidental.</li>
+<li>Usar a cultura como catalisador do pensamento crítico, do pluralismo, da transformação social e do envolvimento cívico.</li>
+</ul>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Este concurso é destinado a todas as pessoas e organizações que queiram desenvolver iniciativas culturais em arménio ocidental, tanto na Diáspora como na Arménia, no âmbito das prioridades centrais do programa.</p>
+<p>O programa արդ եւս | in view acolhe candidaturas de indivíduos, pequenos grupos e organizações ou instituições sem fins lucrativos. Todos os candidatos devem ter mais de 18 anos. Entidades com fins lucrativos não são elegíveis. Não é necessário que os candidatos sejam artistas estabelecidos.</p>
+<p>Serão apoiados até 10 projetos por ano, com um apoio máximo de 10 000 € por projeto.</p>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Só serão aceites candidaturas online.</li>
+	<li>Faça o seu registo.</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de documentos).</li>
+	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o upload da documentação exigida no Regulamento.</li>
+	<li>No final, clicar no botão “submeter candidatura”. De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>]]></description>
+            <content:encoded><![CDATA[<p>Este apoio tem como objetivo promover iniciativas culturais contemporâneas, concebidas e implementadas em Arménio Ocidental.</p>
+<p>Afastando-se dos modelos convencionais de apoio às artes, este ciclo reposiciona a cultura como um laboratório ativo de reinvenção da sociedade, onde a expressão ousada se cruza diretamente com a imaginação cívica e com o impacto. Procuramos iniciativas que explorem tecnologias criativas emergentes, experimentem novas formas de narrativa descentralizada, promovam um diálogo equitativo e deem voz a perspetivas sub-representadas através de métodos participativos e inovadores.</p>
+<p>As candidaturas serão avaliadas por um júri composto por membros da Fundação Calouste Gulbenkian, com o contributo de especialistas externos sempre que necessário. Os resultados serão comunicados até seis semanas após o prazo de candidatura.</p>
+<h2>Prioridades do արդ եւս | in view</h2>
+<ul class="list-format-bar">
+<li>Celebrar a criatividade em arménio ocidental.</li>
+<li>Reforçar a relação intrínseca entre língua e cultura, garantindo a evolução de ambas.</li>
+<li>Valorizar o poder coesivo da cultura.</li>
+<li>Promover práticas sustentáveis para uma cultura arménia ocidental duradoura.</li>
+<li>Garantir a vitalidade das diversas comunidades arménias através da cultura.</li>
+<li>Dar visibilidade a práticas culturais inovadoras no mundo arménio.</li>
+<li>Promover o equilíbrio de género e a inclusão na participação cultural.</li>
+<li>Envolver os jovens e novas práticas culturais na construção de um ambiente e identidade cultural comuns.</li>
+<li>Criar espaços abertos e inclusivos para a participação de todas as pessoas na criação e preservação cultural.</li>
+<li>Abordar desafios globais e fomentar o diálogo intercultural através do arménio ocidental.</li>
+<li>Usar a cultura como catalisador do pensamento crítico, do pluralismo, da transformação social e do envolvimento cívico.</li>
+</ul>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Este concurso é destinado a todas as pessoas e organizações que queiram desenvolver iniciativas culturais em arménio ocidental, tanto na Diáspora como na Arménia, no âmbito das prioridades centrais do programa.</p>
+<p>O programa արդ եւս | in view acolhe candidaturas de indivíduos, pequenos grupos e organizações ou instituições sem fins lucrativos. Todos os candidatos devem ter mais de 18 anos. Entidades com fins lucrativos não são elegíveis. Não é necessário que os candidatos sejam artistas estabelecidos.</p>
+<p>Serão apoiados até 10 projetos por ano, com um apoio máximo de 10 000 € por projeto.</p>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Só serão aceites candidaturas online.</li>
+	<li>Faça o seu registo.</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de documentos).</li>
+	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o upload da documentação exigida no Regulamento.</li>
+	<li>No final, clicar no botão “submeter candidatura”. De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Conferência Entre Mapas 16 nov 2026 / 14:30]]></title>
