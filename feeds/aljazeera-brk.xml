@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 09:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 10:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تعلن قرية أم الخير منطقة عسكرية مغلقة وتجبر وفد…]]></title>
+            <link>https://t.me/aljazeeraBrk/244730</link>
+            <guid isPermaLink="false">3077f6006e367e7be1f5239fa8da6e04e3e30b56240d9fdee6d350175f067ba3</guid>
+            <pubDate>Mon, 16 Nov 2026 10:06:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تعلن قرية أم الخير منطقة عسكرية مغلقة وتجبر وفد الاتحاد الأوروبي على المغادرة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تعلن قرية أم الخير منطقة عسكرية مغلقة وتجبر وفد الاتحاد الأوروبي على المغادرة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: أسقطنا مسيرة أمريكية من طراز إم كيو 170 ضمن الحرب…]]></title>
             <link>https://t.me/aljazeeraBrk/244729</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 11:17:02 GMT</pubDate>
             <description><![CDATA[مايكروسوفت: أحرزنا تقدما إضافيا في استعادة الخدمة بأجزاء من البنية التحتية في منطقة آسيا والمحيط الهادئ]]></description>
             <content:encoded><![CDATA[مايكروسوفت: أحرزنا تقدما إضافيا في استعادة الخدمة بأجزاء من البنية التحتية في منطقة آسيا والمحيط الهادئ]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الكرملين: إشراك الاتحاد الأوروبي في عملية السلام بشأن أوكرانيا ممكن عندما يتضح…]]></title>
-            <link>https://t.me/aljazeeraBrk/244303</link>
-            <guid isPermaLink="false">fc2cd369d71475941a7dd863ba469fffbc93d693e7eaabd3d6b80120c2edbe33</guid>
-            <pubDate>Fri, 13 Nov 2026 10:28:01 GMT</pubDate>
-            <description><![CDATA[الكرملين: إشراك الاتحاد الأوروبي في عملية السلام بشأن أوكرانيا ممكن عندما يتضح استعدادهم لذلك]]></description>
-            <content:encoded><![CDATA[الكرملين: إشراك الاتحاد الأوروبي في عملية السلام بشأن أوكرانيا ممكن عندما يتضح استعدادهم لذلك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
