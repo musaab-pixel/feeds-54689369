@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 06:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 06:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[البحرية الإيرانية: اندلاع حريق وتوقف ناقلة نفط مخالفة فجر اليوم بعد اصطدامها…]]></title>
+            <link>https://t.me/aljazeeraBrk/244716</link>
+            <guid isPermaLink="false">bcf0d08ece0080c929b22a6715a952b1c53e6881f3d246e5b60434ea4eeff8bd</guid>
+            <pubDate>Mon, 16 Nov 2026 06:39:02 GMT</pubDate>
+            <description><![CDATA[البحرية الإيرانية: اندلاع حريق وتوقف ناقلة نفط مخالفة فجر اليوم بعد اصطدامها بألغام شرقي مضيق هرمز]]></description>
+            <content:encoded><![CDATA[البحرية الإيرانية: اندلاع حريق وتوقف ناقلة نفط مخالفة فجر اليوم بعد اصطدامها بألغام شرقي مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إنترفاكس: توقف السير على جسر القرم بعد استهدافه بهجمات أوكرانية]]></title>
             <link>https://t.me/aljazeeraBrk/244715</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 08:31:02 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: تصدينا لهجوم واسع شنته جماعة_الحوثي في جبهة الأقروض جنوب شرقي محافظة تعز]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: تصدينا لهجوم واسع شنته جماعة_الحوثي في جبهة الأقروض جنوب شرقي محافظة تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الشرطة الأوكرانية: مقتل 4 أشخاص في قصف روسي على مقاطعة دونيتسك]]></title>
-            <link>https://t.me/aljazeeraBrk/244289</link>
-            <guid isPermaLink="false">b98d1cf4d75de9c99b483f45a189a3f778c264bc9c5ad21a38b73371a3b68127</guid>
-            <pubDate>Fri, 13 Nov 2026 07:42:01 GMT</pubDate>
-            <description><![CDATA[الشرطة الأوكرانية: مقتل 4 أشخاص في قصف روسي على مقاطعة دونيتسك]]></description>
-            <content:encoded><![CDATA[الشرطة الأوكرانية: مقتل 4 أشخاص في قصف روسي على مقاطعة دونيتسك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
