@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 16:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 17:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة 8 فلسطينيين جراء دهسهم من مستوطن إسرائيلي في بلدة تقوع…]]></title>
+            <link>https://t.me/aljazeeraBrk/244779</link>
+            <guid isPermaLink="false">00b98c90789058601ec3dcfb9793895cf29ec70b481c455e333102c54ba85ea2</guid>
+            <pubDate>Mon, 16 Nov 2026 17:01:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة 8 فلسطينيين جراء دهسهم من مستوطن إسرائيلي في بلدة تقوع جنوب بيت لحم بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة 8 فلسطينيين جراء دهسهم من مستوطن إسرائيلي في بلدة تقوع جنوب بيت لحم بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: بلاغ محاولة الدهس جنوب نابلس يتعلق بتوتر بين إسرائيليين…]]></title>
             <link>https://t.me/aljazeeraBrk/244778</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 23:52:03 GMT</pubDate>
             <description><![CDATA[فلايت رادار: انخفاض عدد الطائرات في الأجواء الأمريكية إلى أقل من 700 طائرة وسط استمرار أزمة الطيران]]></description>
             <content:encoded><![CDATA[فلايت رادار: انخفاض عدد الطائرات في الأجواء الأمريكية إلى أقل من 700 طائرة وسط استمرار أزمة الطيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نيويورك تايمز: إلغاء أكثر من 370 رحلة جوية مقررة اليوم السبت في الولايات…]]></title>
-            <link>https://t.me/aljazeeraBrk/244457</link>
-            <guid isPermaLink="false">4f927a03d3f8b3ce9823d5abfaf681af8145fbffc78347181a5286440c0a6373</guid>
-            <pubDate>Fri, 13 Nov 2026 23:51:02 GMT</pubDate>
-            <description><![CDATA[نيويورك تايمز: إلغاء أكثر من 370 رحلة جوية مقررة اليوم السبت في الولايات المتحدة وسط استمرار تداعيات أزمة الطيران]]></description>
-            <content:encoded><![CDATA[نيويورك تايمز: إلغاء أكثر من 370 رحلة جوية مقررة اليوم السبت في الولايات المتحدة وسط استمرار تداعيات أزمة الطيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

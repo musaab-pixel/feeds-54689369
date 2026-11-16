@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 16:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 17:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: إصابة 8 فلسطينيين جراء دهسهم من مستوطن إسرائيلي في بلدة تقوع…]]></title>
+            <link>https://t.me/aljazeeraBrk/244779</link>
+            <guid isPermaLink="false">00b98c90789058601ec3dcfb9793895cf29ec70b481c455e333102c54ba85ea2</guid>
+            <pubDate>Mon, 16 Nov 2026 17:01:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: إصابة 8 فلسطينيين جراء دهسهم من مستوطن إسرائيلي في بلدة تقوع جنوب بيت لحم بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: إصابة 8 فلسطينيين جراء دهسهم من مستوطن إسرائيلي في بلدة تقوع جنوب بيت لحم بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخطوط الجوية السورية تطلق أولى رحلاتها بين دمشق وحلب يوم الأربعاء المقبل وتعلن…]]></title>
             <link>https://t.me/HalabTodayTV/142976</link>
@@ -1745,15 +1754,6 @@
 <p data-path-to-node="9" dir="rtl" style="text-align: justify;">ودعا العوض الوسطاء إلى تحمّل مسؤولياتهم تجاه قطاع غزة، والعمل على الاستجابة للاحتياجات الإنسانية والإغاثية العاجلة لسكانه.</p>
 <p data-path-to-node="10" dir="rtl" style="text-align: justify;">وتأتي هذه الوقفة في سياق التحركات والمواقف الفلسطينية في مخيمات لبنان؛ للتعبير عن التضامن مع قطاع غزة، والمطالبة بفتح المعابر أمام المساعدات الإنسانية، وضمان وصول الإغاثة العاجلة إلى السكان الذين يواجهون أوضاعاً معيشية وإنسانية متفاقمة.</p>]]></content:encoded>
             <enclosure url="https://refugeesps.net/thumb/620x430/uploads/images/2026/11/GZ1eT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: مصابان جراء تعرضهما للدهس من عربة عسكرية إسرائيلية شرق…]]></title>
-            <link>https://t.me/aljazeeraBrk/244679</link>
-            <guid isPermaLink="false">106c2a9564be71bddf08d8b5748f665e06315512b270ded649cc17e942e7906b</guid>
-            <pubDate>Sun, 15 Nov 2026 20:30:02 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: مصابان جراء تعرضهما للدهس من عربة عسكرية إسرائيلية شرق مدينة جنين بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: مصابان جراء تعرضهما للدهس من عربة عسكرية إسرائيلية شرق مدينة جنين بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>
