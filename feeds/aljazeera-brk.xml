@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 15:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 16:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[قاليباف: لن يتحقق الهدوء في المنطقة دون إنهاء الحرب وترسيخ سيادة لبنان]]></title>
+            <link>https://t.me/aljazeeraBrk/244776</link>
+            <guid isPermaLink="false">71ebb0fe10cc299a6386216291eb33646eef96f827e6ba181a6217b04aa5610f</guid>
+            <pubDate>Mon, 16 Nov 2026 16:05:02 GMT</pubDate>
+            <description><![CDATA[قاليباف: لن يتحقق الهدوء في المنطقة دون إنهاء الحرب وترسيخ سيادة لبنان]]></description>
+            <content:encoded><![CDATA[قاليباف: لن يتحقق الهدوء في المنطقة دون إنهاء الحرب وترسيخ سيادة لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إذاعة الجيش الإسرائيلي: فرض طوق أمني على قرية ياسوف قضاء سلفيت قرب موقع محاولة…]]></title>
             <link>https://t.me/aljazeeraBrk/244775</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 23:48:02 GMT</pubDate>
             <description><![CDATA[رويترز: المنظمة الأوروبية لسلامة الملاحة الجوية تعلق رحلاتها نحو الولايات المتحدة بطلب من إدارة الطيران الفيدرالية الأمريكية]]></description>
             <content:encoded><![CDATA[رويترز: المنظمة الأوروبية لسلامة الملاحة الجوية تعلق رحلاتها نحو الولايات المتحدة بطلب من إدارة الطيران الفيدرالية الأمريكية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نيويورك تايمز عن وكالة الطيران الفيدرالية المكسيكية: إدارة الطيران الفيدرالية…]]></title>
-            <link>https://t.me/aljazeeraBrk/244454</link>
-            <guid isPermaLink="false">69dfddc492aa791a4ad0073f0c73865ace171a7b1673eea4dc109dd9aa617f0a</guid>
-            <pubDate>Fri, 13 Nov 2026 23:31:02 GMT</pubDate>
-            <description><![CDATA[نيويورك تايمز عن وكالة الطيران الفيدرالية المكسيكية: إدارة الطيران الفيدرالية الأمريكية طلبت عدم إقلاع الطائرات إلى أمريكا]]></description>
-            <content:encoded><![CDATA[نيويورك تايمز عن وكالة الطيران الفيدرالية المكسيكية: إدارة الطيران الفيدرالية الأمريكية طلبت عدم إقلاع الطائرات إلى أمريكا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
