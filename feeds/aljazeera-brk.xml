@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 10:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 10:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: انتخاب أحمد الطيبي من القائمة المشتركة ووليد طه من القائمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244732</link>
+            <guid isPermaLink="false">3c953d37a55a383c23fef682f9c733f837fc63983aa20f829e73b2af6ec4ebaa</guid>
+            <pubDate>Mon, 16 Nov 2026 10:21:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: انتخاب أحمد الطيبي من القائمة المشتركة ووليد طه من القائمة العربية الموحدة نائبين لرئيس الكنيست]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: انتخاب أحمد الطيبي من القائمة المشتركة ووليد طه من القائمة العربية الموحدة نائبين لرئيس الكنيست]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الكرملين: عمليتنا الخاصة مستمرة فلا نريد هدنة بل سلاما يمتد لقرون ولن نمنح نظام…]]></title>
             <link>https://t.me/aljazeeraBrk/244731</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 12:08:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: قوات الاحتلال تطرد مزارعين أثناء قطافهم الزيتون في مجدل بني فاضل جنوبي نابلس]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: قوات الاحتلال تطرد مزارعين أثناء قطافهم الزيتون في مجدل بني فاضل جنوبي نابلس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مايكروسوفت: نركز حاليا على توسيع نطاق إجراءات إصلاح الأعطال لتشمل البنية…]]></title>
-            <link>https://t.me/aljazeeraBrk/244305</link>
-            <guid isPermaLink="false">598a19906d881092fec3af997b89138132766642e4a0cffd65ea279072593aa6</guid>
-            <pubDate>Fri, 13 Nov 2026 11:18:02 GMT</pubDate>
-            <description><![CDATA[مايكروسوفت: نركز حاليا على توسيع نطاق إجراءات إصلاح الأعطال لتشمل البنية التحتية المتضررة بمناطق أخرى]]></description>
-            <content:encoded><![CDATA[مايكروسوفت: نركز حاليا على توسيع نطاق إجراءات إصلاح الأعطال لتشمل البنية التحتية المتضررة بمناطق أخرى]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
