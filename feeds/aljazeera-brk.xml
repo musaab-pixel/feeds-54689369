@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 01:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 02:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم يستهدف مطار الحديدة الدولي]]></title>
+            <link>https://t.me/aljazeeraBrk/244688</link>
+            <guid isPermaLink="false">ec82d927f043c71e92936100689307b94cb98d75e0df12c20c42d7fd7aa963c5</guid>
+            <pubDate>Mon, 16 Nov 2026 01:58:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم يستهدف مطار الحديدة الدولي]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم يستهدف مطار الحديدة الدولي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزيرة الخارجية الأسترالية: نحث إلى جانب كندا وإيطاليا وبريطانيا إسرائيل على…]]></title>
             <link>https://t.me/aljazeeraBrk/244687</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 22:27:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي محافظة تعز]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على مديرية الشمايتين جنوبي محافظة تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على نقيل الهجمة بمنطقة المقارمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/244262</link>
-            <guid isPermaLink="false">7286d611fe9ddf597e41cc315ca7801e6dbdbd273dde442b0a6118e3f92bd8ec</guid>
-            <pubDate>Thu, 12 Nov 2026 22:27:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على نقيل الهجمة بمنطقة المقارمة وغارتان على مدينة التربة]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 4 غارات على نقيل الهجمة بمنطقة المقارمة وغارتان على مدينة التربة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
