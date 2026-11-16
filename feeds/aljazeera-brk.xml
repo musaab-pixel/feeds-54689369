@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 20:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 20:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإيراني: اندلاع حريق في ناقلة نفط مخالفة إثر اصطدامها بلغم بحري شرق مضيق…]]></title>
+            <link>https://t.me/aljazeeraBrk/244792</link>
+            <guid isPermaLink="false">1e9babe7dcfea9fc5c84198b7e7c103acf8b9bb707f938f2692fb9248edac0ee</guid>
+            <pubDate>Mon, 16 Nov 2026 20:21:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإيراني: اندلاع حريق في ناقلة نفط مخالفة إثر اصطدامها بلغم بحري شرق مضيق هرمز]]></description>
+            <content:encoded><![CDATA[الجيش الإيراني: اندلاع حريق في ناقلة نفط مخالفة إثر اصطدامها بلغم بحري شرق مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تراجع العقود الآجلة لمزيج نفط برنت بنسبة 3.5% لتصل إلى نحو 92 دولارا للبرميل…]]></title>
             <link>https://t.me/aljazeeraBrk/244791</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 14 Nov 2026 19:04:02 GMT</pubDate>
             <description><![CDATA[آيزنكوت: دعوة نتنياهو للتفاوض بشأن تشكيل حكومة وحدة وطنية مجرد مناورة سياسية]]></description>
             <content:encoded><![CDATA[آيزنكوت: دعوة نتنياهو للتفاوض بشأن تشكيل حكومة وحدة وطنية مجرد مناورة سياسية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم القائد العام للقوات العراقية: الزيدي وجه بتحمل قادة العمليات…]]></title>
-            <link>https://t.me/aljazeeraBrk/244592</link>
-            <guid isPermaLink="false">36c2af2bc766d80d546f2982a3cb24620d073924dab2842675a1d07ab7f983e9</guid>
-            <pubDate>Sat, 14 Nov 2026 18:45:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم القائد العام للقوات العراقية: الزيدي وجه بتحمل قادة العمليات والشرطة مسؤولية حالات تهريب النفط]]></description>
-            <content:encoded><![CDATA[المتحدث باسم القائد العام للقوات العراقية: الزيدي وجه بتحمل قادة العمليات والشرطة مسؤولية حالات تهريب النفط]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
