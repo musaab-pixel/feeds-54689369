@@ -5,6 +5,29 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "01867346c0ec7a44ed3902b1d150f8c2615a0f380d32d12825ab3f5d0ff9e085",
+            "content_html": "حالة الطقس في سوريا 16-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/142947",
+            "title": "حالة الطقس في سوريا 16-11-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…",
+            "summary": "حالة الطقس في سوريا 16-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/FxexQCHo5pSL33kfAd4h5V29jZpeaW7-eWS-yLMFiYDUK-gXsVslzVfVb2Vo_tZEInxWMasYqpL0GBhHGMqKgBdmvRsLXGZQSvM_DtZsOkCle6D1UWeNqhY7fwKo_EHjWpfqJCttUkq4QkEg4zEHtm0wV9Q2a3QeLYAA9fkeJtQTZoU1MhoKDX0wnzDr_IZ0lCfD26BXxVvpa5PS5dfj4Z2Du437hkVUFP-oFaCAMoHqSveeCGk2F4bPELIilufYpIQoPjgiI-sB9dRhgGy9WGiY3RzSaDA_FBoHJ2e3BGEsG_lwNbZ2Zm2YUH4TZWLyTTKtJ7fqZFUq0xFyUv7HTg.jpg",
+            "date_modified": "2026-11-16T04:52:22.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "258f4bed773d05e0fc7e11039eb8854c3ae76483e09263dfaad18cd123e74f7e",
+            "content_html": "غوتيريش: أؤكد التزام الأمم المتحدة غير المشروط بحماية حرية الملاحة في جميع الظروف",
+            "url": "https://t.me/aljazeeraBrk/244704",
+            "title": "غوتيريش: أؤكد التزام الأمم المتحدة غير المشروط بحماية حرية الملاحة في جميع…",
+            "summary": "غوتيريش: أؤكد التزام الأمم المتحدة غير المشروط بحماية حرية الملاحة في جميع الظروف",
+            "date_modified": "2026-11-16T04:48:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "a15c06bc6d74b75d6d66bd6e52fdf2ab9a797a83fe0f0d2aaf25cc6868ab3ac9",
             "content_html": "الحرس الثوري: نحذر من أن الممر الجنوبي في هرمز ملغم والسفن التي تستجيب لتعليمات أمريكا ستحترق",
             "url": "https://t.me/aljazeeraBrk/244703",
@@ -1616,28 +1639,6 @@
             "title": "سي بي إس نيوز عن مصدر مطلع: مدير الموساد الإسرائيلي التقى مدير وكالة…",
             "summary": "سي بي إس نيوز عن مصدر مطلع: مدير الموساد الإسرائيلي التقى مدير وكالة الاستخبارات المركزية الأمريكية في واشنطن",
             "date_modified": "2026-11-15T02:38:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "19441963bf0fa78f486bb4994407994bdc98e032501af0ffcc1a7d59340b0438",
-            "content_html": "المتحدث العسكري باسم أنصار الله الحوثيين: إسقاط طائرة استطلاع أثناء قيامها بأعمال عدائية في أجواء محافظة الجوف",
-            "url": "https://t.me/aljazeeraBrk/244612",
-            "title": "المتحدث العسكري باسم أنصار الله الحوثيين: إسقاط طائرة استطلاع أثناء قيامها…",
-            "summary": "المتحدث العسكري باسم أنصار الله الحوثيين: إسقاط طائرة استطلاع أثناء قيامها بأعمال عدائية في أجواء محافظة الجوف",
-            "date_modified": "2026-11-15T02:25:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e955a3861beb4e289b9aa9066d55e1892488c0037b9b49596c7237332b992603",
-            "content_html": "تراجع حاد يضرب سوق العملات المشفرة مع هبوط البتكوين 9% إلى 62 ألف دولار والإيثريوم 11% وسولانا 15%",
-            "url": "https://t.me/aljazeeraBrk/244611",
-            "title": "تراجع حاد يضرب سوق العملات المشفرة مع هبوط البتكوين 9% إلى 62 ألف دولار…",
-            "summary": "تراجع حاد يضرب سوق العملات المشفرة مع هبوط البتكوين 9% إلى 62 ألف دولار والإيثريوم 11% وسولانا 15%",
-            "date_modified": "2026-11-15T02:14:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
