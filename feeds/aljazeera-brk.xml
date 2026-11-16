@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 22:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 22:34:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة 5 فلسطينيين بينهم امرأة برصاص مستوطنين بمنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244798</link>
+            <guid isPermaLink="false">53be17adbf180aa6a668f73fe2f12f40b2722b74ae57328750019675ba9b8c6a</guid>
+            <pubDate>Mon, 16 Nov 2026 22:34:02 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة 5 فلسطينيين بينهم امرأة برصاص مستوطنين بمنطقة الديوك التحتا بمدينة أريحا بالضفة]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة 5 فلسطينيين بينهم امرأة برصاص مستوطنين بمنطقة الديوك التحتا بمدينة أريحا بالضفة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الحرس الثوري الإيراني: السيطرة على مسيرة أمريكية من طراز إم كيو إم ١٧٠ في أجواء…]]></title>
             <link>https://t.me/aljazeeraBrk/244797</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 14 Nov 2026 20:30:02 GMT</pubDate>
             <description><![CDATA[كوشنر: حلف الناتو سيبقى ركيزة أساسية لأمن أوروبا مع تعزيز آليات التنسيق العسكري والاتصال واحتواء الخلافات]]></description>
             <content:encoded><![CDATA[كوشنر: حلف الناتو سيبقى ركيزة أساسية لأمن أوروبا مع تعزيز آليات التنسيق العسكري والاتصال واحتواء الخلافات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[كوشنر: السلام الدائم يتطلب ضمانات أمنية موثوقة لأوكرانيا وترتيبات تحول دون تجدد…]]></title>
-            <link>https://t.me/aljazeeraBrk/244598</link>
-            <guid isPermaLink="false">7947f77d134fccddbc5998857db3087568243248c30609046b96e046202bee6b</guid>
-            <pubDate>Sat, 14 Nov 2026 20:27:02 GMT</pubDate>
-            <description><![CDATA[كوشنر: السلام الدائم يتطلب ضمانات أمنية موثوقة لأوكرانيا وترتيبات تحول دون تجدد الحرب]]></description>
-            <content:encoded><![CDATA[كوشنر: السلام الدائم يتطلب ضمانات أمنية موثوقة لأوكرانيا وترتيبات تحول دون تجدد الحرب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
