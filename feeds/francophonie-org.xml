@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 13:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 14:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -48,6 +48,21 @@
 <span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
 ]]></description>
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Clôture du 20e Sommet de la Francophonie à Phnom Penh</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Financement de l’éducation en Afrique : transformer les contraintes budgétaires en leviers d’action]]></title>
+            <link>https://www.francophonie.org/kenya-5e-symposium-recherche-gpe-kix-afrique-financement-education-8783</link>
+            <guid isPermaLink="false">2d0902335ad039eabb8923f3480e0eb5ab4535887d315f373e1a7490d75640f7</guid>
+            <pubDate>Mon, 16 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Financement de l’éducation en Afrique : transformer les contraintes budgétaires en leviers d’action</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Financement de l’éducation en Afrique : transformer les contraintes budgétaires en leviers d’action</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
 ]]></content:encoded>
