@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 07:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 08:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الخارجية الأيرلندي: وزراء خارجية الاتحاد الأوروبي سيتفقون اليوم على حزمة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244719</link>
+            <guid isPermaLink="false">05d331670b31bd90a9c0fa107179e6d617fb2d6da57f5eaa5a0f4dc6c060912f</guid>
+            <pubDate>Mon, 16 Nov 2026 07:53:02 GMT</pubDate>
+            <description><![CDATA[وزير الخارجية الأيرلندي: وزراء خارجية الاتحاد الأوروبي سيتفقون اليوم على حزمة عقوبات جديدة على روسيا]]></description>
+            <content:encoded><![CDATA[وزير الخارجية الأيرلندي: وزراء خارجية الاتحاد الأوروبي سيتفقون اليوم على حزمة عقوبات جديدة على روسيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن استهداف ناقلة نفط…]]></title>
             <link>https://t.me/aljazeeraBrk/244718</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 08:39:02 GMT</pubDate>
             <description><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتلق معلومات من إيران عن منشآتها وموادها النووية باستثناء محطة بوشهر]]></description>
             <content:encoded><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتلق معلومات من إيران عن منشآتها وموادها النووية باستثناء محطة بوشهر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتمكن من الوصول للمنشآت النووية…]]></title>
-            <link>https://t.me/aljazeeraBrk/244292</link>
-            <guid isPermaLink="false">d9859148c60c3954eaab44c652f02486ef6083564f52867444f3cb41386bf242</guid>
-            <pubDate>Fri, 13 Nov 2026 08:35:02 GMT</pubDate>
-            <description><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتمكن من الوصول للمنشآت النووية الإيرانية منذ هجمات يونيو 2025]]></description>
-            <content:encoded><![CDATA[تقرير للوكالة الدولية للطاقة الذرية: لم نتمكن من الوصول للمنشآت النووية الإيرانية منذ هجمات يونيو 2025]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
