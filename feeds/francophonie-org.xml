@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 10:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 12:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Deux nouveaux Etats et gouvernements rejoignent la Francophonie]]></title>
+            <link>https://www.francophonie.org/deux-nouveaux-etats-et-gouvernements-rejoignent-la-francophonie-8782</link>
+            <guid isPermaLink="false">3618ddd9a509233b33ca2f5faebda15222efa8ea0f3dac59c7e7eacd50788d2b</guid>
+            <pubDate>Mon, 16 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Deux nouveaux Etats et gouvernements rejoignent la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Deux nouveaux Etats et gouvernements rejoignent la Francophonie</span>
+<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
+<span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Déclaration de Phnom Penh]]></title>
             <link>https://www.francophonie.org/node/8780</link>
