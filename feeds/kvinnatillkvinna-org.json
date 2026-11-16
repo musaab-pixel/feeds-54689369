@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"kvinnatillkvinna.org\" (type: native)",
     "items": [
         {
+            "id": "1408b10de8f5b7a31cf8bfab852a2a4448cc4579fc141b99a9e084f8931c2db7",
+            "url": "https://kvinnatillkvinna.org/2026/11/16/how-violence-affects-womens-mental-health-during-war-and-conflict/",
+            "title": "How violence affects women’s mental health during war and conflict",
+            "date_modified": "2026-11-16T12:52:09.000Z",
+            "author": {
+                "name": "Hanna"
+            }
+        },
+        {
             "id": "e12ee1cd6f79475eda56710559a5efaf0647e5214a252f9eabb4b7758a895919",
             "url": "https://kvinnatillkvinna.org/2026/10/27/when-ai-becomes-a-weapon-new-threats-to-women-and-human-rights-defenders/",
             "title": "When AI becomes a weapon—new threats to women and human rights defenders",
