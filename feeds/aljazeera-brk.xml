@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 21:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 21:59:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر أمنية: إطلاق صفارات الإنذار بعد تحليق مسيرة فوق حقل غاز كورمور…]]></title>
+            <link>https://t.me/aljazeeraBrk/244796</link>
+            <guid isPermaLink="false">5e8ab7965b50e64d0d6238de06a213b1ba7d405631f850b9f18125cdb02e251d</guid>
+            <pubDate>Mon, 16 Nov 2026 21:51:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر أمنية: إطلاق صفارات الإنذار بعد تحليق مسيرة فوق حقل غاز كورمور في إقليم كردستان العراق]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر أمنية: إطلاق صفارات الإنذار بعد تحليق مسيرة فوق حقل غاز كورمور في إقليم كردستان العراق]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن هجوم استهدف ناقلة نفط بمضيق…]]></title>
             <link>https://t.me/aljazeeraBrk/244795</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 14 Nov 2026 20:26:02 GMT</pubDate>
             <description><![CDATA[كوشنر: نعمل على تيسير التواصل بين موسكو والأوروبيين والإعداد للجولة المقبلة من المحادثات الثلاثية]]></description>
             <content:encoded><![CDATA[كوشنر: نعمل على تيسير التواصل بين موسكو والأوروبيين والإعداد للجولة المقبلة من المحادثات الثلاثية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[كوشنر: تركيزنا ينصب على تسهيل التواصل المباشر بين موسكو والشركاء الأوروبيين]]></title>
-            <link>https://t.me/aljazeeraBrk/244596</link>
-            <guid isPermaLink="false">308d37af713d62815c3fd6955468cb38a2fc170636e8e88846574c957ad3cbd3</guid>
-            <pubDate>Sat, 14 Nov 2026 20:25:02 GMT</pubDate>
-            <description><![CDATA[كوشنر: تركيزنا ينصب على تسهيل التواصل المباشر بين موسكو والشركاء الأوروبيين]]></description>
-            <content:encoded><![CDATA[كوشنر: تركيزنا ينصب على تسهيل التواصل المباشر بين موسكو والشركاء الأوروبيين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

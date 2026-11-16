@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"documentary.org\" (type: native)",
     "items": [
         {
+            "id": "03e935bc984e5271557283dbbe4ad1e5d3793a23efb5563fac2f9363e39bcc73",
+            "content_html": "    Documentary Needs Europe. Democracies Need Documentary.\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/dominic-asmall-willsdon\" class=\"username\">dominicwillsdon</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-16T13:48:35-08:00\" title=\"Monday, November 16, 2026 - 13:48\" class=\"datetime\">Mon, 11/16/2026 - 13:48</time>\n</span>\n\n\n",
+            "url": "https://www.documentary.org/advocacy-blog/documentary-needs-europe-democracies-need-documentary",
+            "title": "Documentary Needs Europe. Democracies Need Documentary.",
+            "summary": "    Documentary Needs Europe. Democracies Need Documentary.\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/dominic-asmall-willsdon\" class=\"username\">dominicwillsdon</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-16T13:48:35-08:00\" title=\"Monday, November 16, 2026 - 13:48\" class=\"datetime\">Mon, 11/16/2026 - 13:48</time>\n</span>\n\n\n",
+            "date_modified": "2026-11-16T21:48:35.000Z",
+            "author": {
+                "name": "dominicwillsdon"
+            }
+        },
+        {
             "id": "19e82f58abfb5d47637ca709c6532b453ab2ed32ebb01ed283123ef7c61208f2",
             "content_html": "    IDA Statement on the Sentencing of Jafar Panahi\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/users/admin\" class=\"username\">ida-admin</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-10-30T10:43:09-07:00\" title=\"Friday, October 30, 2026 - 10:43\" class=\"datetime\">Fri, 10/30/2026 - 10:43</time>\n</span>\n\n\n",
             "url": "https://www.documentary.org/advocacy-blog/ida-statement-sentencing-jafar-panahi",

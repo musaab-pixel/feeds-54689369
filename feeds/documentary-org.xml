@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Fri, 30 Oct 2026 17:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 22:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Documentary Needs Europe. Democracies Need Documentary.]]></title>
+            <link>https://www.documentary.org/advocacy-blog/documentary-needs-europe-democracies-need-documentary</link>
+            <guid isPermaLink="false">03e935bc984e5271557283dbbe4ad1e5d3793a23efb5563fac2f9363e39bcc73</guid>
+            <pubDate>Mon, 16 Nov 2026 21:48:35 GMT</pubDate>
+            <description><![CDATA[    Documentary Needs Europe. Democracies Need Documentary.
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/dominic-asmall-willsdon" class="username">dominicwillsdon</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-16T13:48:35-08:00" title="Monday, November 16, 2026 - 13:48" class="datetime">Mon, 11/16/2026 - 13:48</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    Documentary Needs Europe. Democracies Need Documentary.
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/dominic-asmall-willsdon" class="username">dominicwillsdon</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-16T13:48:35-08:00" title="Monday, November 16, 2026 - 13:48" class="datetime">Mon, 11/16/2026 - 13:48</time>
+</span>
+
+
+]]></content:encoded>
+            <author>dominicwillsdon</author>
+        </item>
         <item>
             <title><![CDATA[IDA Statement on the Sentencing of Jafar Panahi]]></title>
             <link>https://www.documentary.org/advocacy-blog/ida-statement-sentencing-jafar-panahi</link>
