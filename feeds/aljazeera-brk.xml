@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 23:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 23:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مستشفى أريحا الحكومي: استشهاد مواطنة وإصابة 10 آخرين برصاص المستوطنين بمنطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/244804</link>
+            <guid isPermaLink="false">74035c5cc4f3a166b1068ed20c268af064646152ba7e4ed1b1187ad08b72cc20</guid>
+            <pubDate>Mon, 16 Nov 2026 23:21:02 GMT</pubDate>
+            <description><![CDATA[مستشفى أريحا الحكومي: استشهاد مواطنة وإصابة 10 آخرين برصاص المستوطنين بمنطقة الديوك التحتا في المدينة]]></description>
+            <content:encoded><![CDATA[مستشفى أريحا الحكومي: استشهاد مواطنة وإصابة 10 آخرين برصاص المستوطنين بمنطقة الديوك التحتا في المدينة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية]]></title>
             <link>https://t.me/aljazeeraBrk/244803</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 14 Nov 2026 22:37:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية شعوب في العاصمة صنعاء]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: إصابة امرأتين وطفلين بقصف استهدف مديرية شعوب في العاصمة صنعاء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي…]]></title>
-            <link>https://t.me/aljazeeraBrk/244604</link>
-            <guid isPermaLink="false">10b672f15be9a59b680866d5f66ec5864e0ff14eb07408d7dfe8d660c971f7f1</guid>
-            <pubDate>Sat, 14 Nov 2026 22:01:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد ومصابان في قصف إسرائيلي على مواصي مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

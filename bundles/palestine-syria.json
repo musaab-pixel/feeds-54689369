@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "74035c5cc4f3a166b1068ed20c268af064646152ba7e4ed1b1187ad08b72cc20",
+            "content_html": "مستشفى أريحا الحكومي: استشهاد مواطنة وإصابة 10 آخرين برصاص المستوطنين بمنطقة الديوك التحتا في المدينة",
+            "url": "https://t.me/aljazeeraBrk/244804",
+            "title": "مستشفى أريحا الحكومي: استشهاد مواطنة وإصابة 10 آخرين برصاص المستوطنين بمنطقة…",
+            "summary": "مستشفى أريحا الحكومي: استشهاد مواطنة وإصابة 10 آخرين برصاص المستوطنين بمنطقة الديوك التحتا في المدينة",
+            "date_modified": "2026-11-16T23:21:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "e42cd1510e37024c75b03bcb5c7819230a93db282f6756e02c5810b9cc22f202",
             "content_html": "مراسل الجزيرة: قوات الاحتلال تقتحم مدينة أريحا شرقي الضفة الغربية",
             "url": "https://t.me/aljazeeraBrk/244803",
@@ -1046,6 +1057,15 @@
             "date_modified": "2026-11-16T12:00:00.000Z"
         },
         {
+            "id": "817cd1e1918fbbb5e0af6b4412e09bc6c16f7e3074154d49500c8dd6e6ec790f",
+            "content_html": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend,&nbsp;where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+            "title": "Lebanon leading the way in mental health support",
+            "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend,&nbsp;where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-UNHCR-Lebanon-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-16T12:00:00.000Z"
+        },
+        {
             "id": "17d17fb447d735d54d1781010eabd07710d7bc2c8dd998bdd9d1c0da903d7948",
             "content_html": "المتحدث باسم الحكومة العراقية: لجنة التحقيق رصدت تلاعبا في أنابيب النفط ووجود مصاف وخزانات داخل جرف النصر",
             "url": "https://t.me/aljazeeraBrk/244741",
@@ -1616,28 +1636,6 @@
             "title": "وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على العاصمة اليمنية صنعاء",
             "summary": "وسائل إعلام تابعة لأنصار الله الحوثيين: غارات جوية على العاصمة اليمنية صنعاء",
             "date_modified": "2026-11-16T05:49:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "696a140ee706bf25156ad1f22d71805c6807ff4b27b640a2ac63c3e4ab22333f",
-            "content_html": "وكالة تاس الروسية: الهجوم بمئات المسيرات أمس على موسكو هو الأكبر منذ بداية العام",
-            "url": "https://t.me/aljazeeraBrk/244708",
-            "title": "وكالة تاس الروسية: الهجوم بمئات المسيرات أمس على موسكو هو الأكبر منذ بداية العام",
-            "summary": "وكالة تاس الروسية: الهجوم بمئات المسيرات أمس على موسكو هو الأكبر منذ بداية العام",
-            "date_modified": "2026-11-16T05:28:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a48941a2be5fe0a1156bb60f1de6e722c40edb80e2025ea7ddd1640bf6e74e89",
-            "content_html": "مجمع ناصر الطبي: 3 مصابين أحدهم طفل داخل مدرسة برصاص قوات الاحتلال خارج مناطق سيطرتها جنوبي خان يونس",
-            "url": "https://t.me/aljazeeraBrk/244707",
-            "title": "مجمع ناصر الطبي: 3 مصابين أحدهم طفل داخل مدرسة برصاص قوات الاحتلال خارج مناطق…",
-            "summary": "مجمع ناصر الطبي: 3 مصابين أحدهم طفل داخل مدرسة برصاص قوات الاحتلال خارج مناطق سيطرتها جنوبي خان يونس",
-            "date_modified": "2026-11-16T05:26:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
