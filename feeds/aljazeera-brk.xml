@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 06:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 06:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إنترفاكس: توقف السير على جسر القرم بعد استهدافه بهجمات أوكرانية]]></title>
+            <link>https://t.me/aljazeeraBrk/244715</link>
+            <guid isPermaLink="false">f080d859b1c56da6577151f2d3e22c23916f54337dac36664793cbdcb9a84426</guid>
+            <pubDate>Mon, 16 Nov 2026 06:24:02 GMT</pubDate>
+            <description><![CDATA[إنترفاكس: توقف السير على جسر القرم بعد استهدافه بهجمات أوكرانية]]></description>
+            <content:encoded><![CDATA[إنترفاكس: توقف السير على جسر القرم بعد استهدافه بهجمات أوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سلاح الجو الأوكراني: أحبطنا هجوما بـ131 مسيرة أطلقتها روسيا بينها مسيرات نفاثة]]></title>
             <link>https://t.me/aljazeeraBrk/244714</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 13 Nov 2026 07:42:01 GMT</pubDate>
             <description><![CDATA[الشرطة الأوكرانية: مقتل 4 أشخاص في قصف روسي على مقاطعة دونيتسك]]></description>
             <content:encoded><![CDATA[الشرطة الأوكرانية: مقتل 4 أشخاص في قصف روسي على مقاطعة دونيتسك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس الإدارة العسكرية بأوديسا: مقتل شخصين في هجوم روسي على المدينة]]></title>
-            <link>https://t.me/aljazeeraBrk/244288</link>
-            <guid isPermaLink="false">59520fda1fa85f7b0d479758b3410cc92a0e232a7ea674134fc74d53fb19cc96</guid>
-            <pubDate>Fri, 13 Nov 2026 07:41:02 GMT</pubDate>
-            <description><![CDATA[رئيس الإدارة العسكرية بأوديسا: مقتل شخصين في هجوم روسي على المدينة]]></description>
-            <content:encoded><![CDATA[رئيس الإدارة العسكرية بأوديسا: مقتل شخصين في هجوم روسي على المدينة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
