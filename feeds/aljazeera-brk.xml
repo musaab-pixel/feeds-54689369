@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 00:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 01:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة تستهدف منطقة هيجة العبد في مديرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/244685</link>
+            <guid isPermaLink="false">37dae93342a14ca11ed1bfb27ffbf85e24187dbe4eea9223dbcedd955d95700d</guid>
+            <pubDate>Mon, 16 Nov 2026 00:55:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة تستهدف منطقة هيجة العبد في مديرية الشمايتين في تعز]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة تستهدف منطقة هيجة العبد في مديرية الشمايتين في تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[السفارة الأمريكية في البحرين: ندعو مواطنينا لتوخي الحذر تحسبا لهجمات محتملة من…]]></title>
             <link>https://t.me/aljazeeraBrk/244684</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 12 Nov 2026 22:10:02 GMT</pubDate>
             <description><![CDATA[مجمع ناصر الطبي: شهيد في قصف من مسيرة إسرائيلية على فلسطينيين في مواصي خان يونس]]></description>
             <content:encoded><![CDATA[مجمع ناصر الطبي: شهيد في قصف من مسيرة إسرائيلية على فلسطينيين في مواصي خان يونس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/244258</link>
-            <guid isPermaLink="false">42aace90ce4b8753c9af8ec2106e506c4298fc3a00787d9084e7bbab548e5c49</guid>
-            <pubDate>Thu, 12 Nov 2026 21:49:02 GMT</pubDate>
-            <description><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا]]></description>
-            <content:encoded><![CDATA[الإسعاف والطوارئ في غزة: مصابون في قصف مسيرات إسرائيلية على فلسطينيين بمدينة خان يونس وبلدة بيت لاهيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
