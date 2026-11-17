@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 16:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 16:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[نائب محافظ هرمزغان الإيرانية: الهجوم الأمريكي على مواقع بجزيرة قشم لم يلحق ضررا…]]></title>
+            <link>https://t.me/aljazeeraBrk/244934</link>
+            <guid isPermaLink="false">57e9d75d7ec91a1aa9523e1095c2ca64c061bc271d25f8d4e5af5a35a8761a74</guid>
+            <pubDate>Tue, 17 Nov 2026 16:22:02 GMT</pubDate>
+            <description><![CDATA[نائب محافظ هرمزغان الإيرانية: الهجوم الأمريكي على مواقع بجزيرة قشم لم يلحق ضررا بمناطق سكنية أو بنى تحتية]]></description>
+            <content:encoded><![CDATA[نائب محافظ هرمزغان الإيرانية: الهجوم الأمريكي على مواقع بجزيرة قشم لم يلحق ضررا بمناطق سكنية أو بنى تحتية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: ما نشرته وسائل إعلام مؤيدة لإسرائيل عن التخطيط لاستخدام أسلحة كيميائية…]]></title>
             <link>https://t.me/aljazeeraBrk/244933</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 11:25:02 GMT</pubDate>
             <description><![CDATA[رئيس الحكومة اللبنانية: نؤكد ضرورة استمرار الحضور الدولي في الجنوب اللبناني بتفويض من مجلس الأمن]]></description>
             <content:encoded><![CDATA[رئيس الحكومة اللبنانية: نؤكد ضرورة استمرار الحضور الدولي في الجنوب اللبناني بتفويض من مجلس الأمن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفجر منزل الأسير عبد الله الخطيب في بلدة كفر نعمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/244734</link>
-            <guid isPermaLink="false">76eb0f4bffaa6a73ea6628e98bd62f4e936b436139a68d0a00186fc1c4753f62</guid>
-            <pubDate>Mon, 16 Nov 2026 11:21:02 GMT</pubDate>
-            <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفجر منزل الأسير عبد الله الخطيب في بلدة كفر نعمة شمالي رام الله]]></description>
-            <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفجر منزل الأسير عبد الله الخطيب في بلدة كفر نعمة شمالي رام الله]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
