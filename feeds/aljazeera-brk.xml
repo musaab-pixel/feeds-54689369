@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 15:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 16:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عراقجي: ما نشرته وسائل إعلام مؤيدة لإسرائيل عن التخطيط لاستخدام أسلحة كيميائية…]]></title>
+            <link>https://t.me/aljazeeraBrk/244933</link>
+            <guid isPermaLink="false">371b4f3d3aba55a625e749cb9f1049b8c0c69cd8befaad56ee545de7acd36fec</guid>
+            <pubDate>Tue, 17 Nov 2026 16:04:02 GMT</pubDate>
+            <description><![CDATA[عراقجي: ما نشرته وسائل إعلام مؤيدة لإسرائيل عن التخطيط لاستخدام أسلحة كيميائية في واشنطن تقارير كاذبة]]></description>
+            <content:encoded><![CDATA[عراقجي: ما نشرته وسائل إعلام مؤيدة لإسرائيل عن التخطيط لاستخدام أسلحة كيميائية في واشنطن تقارير كاذبة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سي إن إن عن مصادر: تعطل شبكة بالغة السرية تستخدمها وكالة الأمن القومي الأمريكية…]]></title>
             <link>https://t.me/aljazeeraBrk/244932</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 11:21:02 GMT</pubDate>
             <description><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفجر منزل الأسير عبد الله الخطيب في بلدة كفر نعمة شمالي رام الله]]></description>
             <content:encoded><![CDATA[مراسلة الجزيرة: قوات الاحتلال تفجر منزل الأسير عبد الله الخطيب في بلدة كفر نعمة شمالي رام الله]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المندوب الأمريكي في الأمم المتحدة: الحوار الثلاثي بين واشنطن ولبنان وإسرائيل…]]></title>
-            <link>https://t.me/aljazeeraBrk/244733</link>
-            <guid isPermaLink="false">e0fcf04ae10b074684ea096c58162b41fd58a88b1b38e89960332d23993b0fc2</guid>
-            <pubDate>Mon, 16 Nov 2026 10:56:02 GMT</pubDate>
-            <description><![CDATA[المندوب الأمريكي في الأمم المتحدة: الحوار الثلاثي بين واشنطن ولبنان وإسرائيل يسير في الاتجاه الصحيح]]></description>
-            <content:encoded><![CDATA[المندوب الأمريكي في الأمم المتحدة: الحوار الثلاثي بين واشنطن ولبنان وإسرائيل يسير في الاتجاه الصحيح]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
