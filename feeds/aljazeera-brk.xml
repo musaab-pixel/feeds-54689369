@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 06:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 07:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الداخلية البحرينية: تنبيه بوجود خطر وندعو المواطنين والمقيمين للتوجه إلى أقرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/244823</link>
+            <guid isPermaLink="false">8c056a99b171255591dbffa7d1a20e6cd445ee07d0126c0cd3d1aeeec7d4971d</guid>
+            <pubDate>Tue, 17 Nov 2026 07:00:02 GMT</pubDate>
+            <description><![CDATA[الداخلية البحرينية: تنبيه بوجود خطر وندعو المواطنين والمقيمين للتوجه إلى أقرب مكان آمن]]></description>
+            <content:encoded><![CDATA[الداخلية البحرينية: تنبيه بوجود خطر وندعو المواطنين والمقيمين للتوجه إلى أقرب مكان آمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[أ.ف.ب عن سلطات كييف: إغلاق جسرين رئيسيين في العاصمة عقب غارات روسية]]></title>
             <link>https://t.me/aljazeeraBrk/244822</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 15 Nov 2026 07:15:02 GMT</pubDate>
             <description><![CDATA[قوة دفاع البحرين: إيران تواصل نهجها العدائي الممنهج عبر اعتداءاتها الآثمة التي تستهدف مملكة البحرين]]></description>
             <content:encoded><![CDATA[قوة دفاع البحرين: إيران تواصل نهجها العدائي الممنهج عبر اعتداءاتها الآثمة التي تستهدف مملكة البحرين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[قوة دفاع البحرين: تصدت منظومات الدفاع الجوي لعدد من الاعتداءات الجوية الإيرانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/244623</link>
-            <guid isPermaLink="false">5f187b1078c130e840b19ea0b126c83f405083e93a94964770741708d08daed7</guid>
-            <pubDate>Sun, 15 Nov 2026 07:14:02 GMT</pubDate>
-            <description><![CDATA[قوة دفاع البحرين: تصدت منظومات الدفاع الجوي لعدد من الاعتداءات الجوية الإيرانية الغادرة اليوم]]></description>
-            <content:encoded><![CDATA[قوة دفاع البحرين: تصدت منظومات الدفاع الجوي لعدد من الاعتداءات الجوية الإيرانية الغادرة اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
