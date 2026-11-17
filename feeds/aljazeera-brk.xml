@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 09:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 09:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيد ومصابون بنيران قوات الاحتلال الإسرائيلي شرق…]]></title>
+            <link>https://t.me/aljazeeraBrk/244841</link>
+            <guid isPermaLink="false">3f26827b5f14eaf8b3cc90a9ef9b3b1916e11c551b39b615fea30887fc3824ff</guid>
+            <pubDate>Tue, 17 Nov 2026 09:05:02 GMT</pubDate>
+            <description><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيد ومصابون بنيران قوات الاحتلال الإسرائيلي شرق مدينة دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيد ومصابون بنيران قوات الاحتلال الإسرائيلي شرق مدينة دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: جرافات الاحتلال تشرع في هدم منزل ثان بمنطقة الديرات جنوب الخليل…]]></title>
             <link>https://t.me/aljazeeraBrk/244840</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 15 Nov 2026 13:32:02 GMT</pubDate>
             <description><![CDATA[مسوؤل أمريكي للجزيرة: الهجوم على قاعدة في البحرين لم يلحق أضرارا بالقوات الأمريكية وإيران أخفقت مرة أخرى]]></description>
             <content:encoded><![CDATA[مسوؤل أمريكي للجزيرة: الهجوم على قاعدة في البحرين لم يلحق أضرارا بالقوات الأمريكية وإيران أخفقت مرة أخرى]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التحالف: اعتراض وتدمير طائرتين مسيرتين بمنطقة مكة_المكرمة أطلقتهما المليشيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/244641</link>
-            <guid isPermaLink="false">ded6f8521689082c8417b636392c07cf7a3b7d31eb68851edd0a3a4825c9df5f</guid>
-            <pubDate>Sun, 15 Nov 2026 13:28:02 GMT</pubDate>
-            <description><![CDATA[التحالف: اعتراض وتدمير طائرتين مسيرتين بمنطقة مكة_المكرمة أطلقتهما المليشيا الحوثية]]></description>
-            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرتين مسيرتين بمنطقة مكة_المكرمة أطلقتهما المليشيا الحوثية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

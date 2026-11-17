@@ -4,7 +4,7 @@
         <title>afd.fr</title>
         <link>https://www.afd.fr/rss.xml</link>
         <description>RSS Factory feed "afd.fr" (type: native)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 06:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 09:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -16,7 +16,7 @@
             <description><![CDATA[L’engagement citoyen, force vive de la résilience face aux crises
 <span><span>dutheils@afd.fr</span></span>
 <time datetime="2026-11-16T14:50:02+01:00" title="Lundi 16 novembre 2026 - 14:50">lun 16/11/2026 - 14:50</time>
-    L’engagement citoyen, force vive de la résilience face aux crises    <time datetime="2026-11-16T12:00:00Z">16 novembre 2026</time>
+    Synthèse de la conférence "L’engagement citoyen, force vive de la résilience face aux crises"    <time datetime="2026-11-16T12:00:00Z">16 novembre 2026</time>
     1    <a href="https://www.afd.fr/fr/taxonomy/term/3146" hreflang="fr">Outre-mer</a><a href="https://www.afd.fr/fr/taxonomy/term/1262" hreflang="fr">Ukraine</a><a href="https://www.afd.fr/fr/taxonomy/term/84" hreflang="fr">Mayotte</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1178" hreflang="fr">Crises et conflits</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=EBsczCUk" width="355" height="482" alt="L’engagement citoyen, force vive de la résilience face aux crises">
 
 
@@ -58,6 +58,59 @@
     <div class="card-news__content pb-10 sm:pb-12">
                   <div class="card-news__list fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
                   
+<div class="card-news__node fr-col-12">
+  
+                    
+    
+  
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/ressources/engagement-citoyen-force-vive-resilience-crises-synthese" class="fr-card__link">Synthèse de la conférence "L’engagement ...</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Publications spécialisées
+  </p>
+
+      </div>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le     <time datetime="2026-09-21T12:00:00Z">21 septembre 2026</time>
+
+            </p>
+                  </div>
+          </div>
+      </div>
+
+    <div class="fr-card__header card-portrait" aria-hidden="true">
+    <div class="fr-card__img ">
+      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" alt="L’engagement citoyen, force vive de la résilience face aux crises">
+    </div>
+  </div>
+  
+  </div>
+
+</div>
+
 <div class="card-news__node fr-col-12">
   
           
@@ -110,59 +163,6 @@
       </div>
       
     </div>
-  
-  </div>
-
-</div>
-
-<div class="card-news__node fr-col-12">
-  
-                    
-    
-  
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/engagement-citoyen-force-vive-resilience-crises-synthese" class="fr-card__link">L’engagement citoyen, force vive de la r...</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Publications spécialisées
-  </p>
-
-      </div>
-
-                            </div>
-                                            <div class="fr-card__end">
-                      <p class="fr-card__detail ">
-              Publié le     <time datetime="2026-09-21T12:00:00Z">21 septembre 2026</time>
-
-            </p>
-                  </div>
-          </div>
-      </div>
-
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" alt="L’engagement citoyen, force vive de la résilience face aux crises">
-    </div>
-  </div>
   
   </div>
 
@@ -308,7 +308,7 @@
             <content:encoded><![CDATA[L’engagement citoyen, force vive de la résilience face aux crises
 <span><span>dutheils@afd.fr</span></span>
 <time datetime="2026-11-16T14:50:02+01:00" title="Lundi 16 novembre 2026 - 14:50">lun 16/11/2026 - 14:50</time>
-    L’engagement citoyen, force vive de la résilience face aux crises    <time datetime="2026-11-16T12:00:00Z">16 novembre 2026</time>
+    Synthèse de la conférence "L’engagement citoyen, force vive de la résilience face aux crises"    <time datetime="2026-11-16T12:00:00Z">16 novembre 2026</time>
     1    <a href="https://www.afd.fr/fr/taxonomy/term/3146" hreflang="fr">Outre-mer</a><a href="https://www.afd.fr/fr/taxonomy/term/1262" hreflang="fr">Ukraine</a><a href="https://www.afd.fr/fr/taxonomy/term/84" hreflang="fr">Mayotte</a>    <a href="https://www.afd.fr/fr/taxonomy/term/1178" hreflang="fr">Crises et conflits</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=EBsczCUk" width="355" height="482" alt="L’engagement citoyen, force vive de la résilience face aux crises">
 
 
@@ -350,6 +350,59 @@
     <div class="card-news__content pb-10 sm:pb-12">
                   <div class="card-news__list fr-cards-grid--list fr-grid-row fr-grid-row--gutters">
                   
+<div class="card-news__node fr-col-12">
+  
+                    
+    
+  
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/ressources/engagement-citoyen-force-vive-resilience-crises-synthese" class="fr-card__link">Synthèse de la conférence "L’engagement ...</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Publications spécialisées
+  </p>
+
+      </div>
+
+                            </div>
+                                            <div class="fr-card__end">
+                      <p class="fr-card__detail ">
+              Publié le     <time datetime="2026-09-21T12:00:00Z">21 septembre 2026</time>
+
+            </p>
+                  </div>
+          </div>
+      </div>
+
+    <div class="fr-card__header card-portrait" aria-hidden="true">
+    <div class="fr-card__img ">
+      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" alt="L’engagement citoyen, force vive de la résilience face aux crises">
+    </div>
+  </div>
+  
+  </div>
+
+</div>
+
 <div class="card-news__node fr-col-12">
   
           
@@ -402,59 +455,6 @@
       </div>
       
     </div>
-  
-  </div>
-
-</div>
-
-<div class="card-news__node fr-col-12">
-  
-                    
-    
-  
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive card-portrait">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/ressources/engagement-citoyen-force-vive-resilience-crises-synthese" class="fr-card__link">L’engagement citoyen, force vive de la r...</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Publications spécialisées
-  </p>
-
-      </div>
-
-                            </div>
-                                            <div class="fr-card__end">
-                      <p class="fr-card__detail ">
-              Publié le     <time datetime="2026-09-21T12:00:00Z">21 septembre 2026</time>
-
-            </p>
-                  </div>
-          </div>
-      </div>
-
-    <div class="fr-card__header card-portrait" aria-hidden="true">
-    <div class="fr-card__img ">
-      <img class srcset="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" src="https://www.afd.fr/sites/default/files/styles/cards_vertical/public/2026-11/engagement-citoyen-crises-synthese.jpg.webp?itok=XUdAVLLq" alt="L’engagement citoyen, force vive de la résilience face aux crises">
-    </div>
-  </div>
   
   </div>
 
@@ -598,6 +598,53 @@
 </div>    3    Publications spécialisées    Français    <time datetime="2026-09-21T12:00:00Z">21 septembre 2026</time>
     1    <a href="https://www.afd.fr/fr/taxonomy/term/1178" hreflang="fr">Crises et conflits</a>]]></content:encoded>
             <author>dutheils@afd.fr</author>
+        </item>
+        <item>
+            <title><![CDATA[Uzbekistan and AFD Group sign two agreements at COP31 to advance sustainable cities, critical raw materials and a just transition]]></title>
+            <link>https://www.afd.fr/en/press-releases/uzbekistan-and-afd-group-sign-two-agreements-cop31-advance-sustainable-cities</link>
+            <guid isPermaLink="false">995d51b32581913c57540ce1b1618d9ac625c2c594505885d0710c5d74b4e187</guid>
+            <pubDate>Mon, 16 Nov 2026 10:14:27 GMT</pubDate>
+            <description><![CDATA[L’Ouzbékistan et le groupe AFD signent deux accords à la COP31 pour promouvoir des villes durables, les matières premières critiques et une transition juste
+<span><span>dimariog@afd.fr</span></span>
+<time datetime="2026-11-16T11:47:50+01:00" title="Lundi 16 novembre 2026 - 11:47">lun 16/11/2026 - 11:47</time>
+    Institutionnel    <time datetime="2026-11-17T12:00:00Z">17 novembre 2026</time>
+    1    <a href="https://www.afd.fr/fr/taxonomy/term/108" hreflang="fr">Ouzbékistan</a>    <a href="https://www.afd.fr/fr/taxonomy/term/47" hreflang="fr">Villes durables</a><a href="https://www.afd.fr/fr/taxonomy/term/1309" hreflang="fr">JET- Transition Énergétique Juste</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/visuel-communique-de-presse.jpeg.webp?itok=drlfoPEh" width="792" height="450" alt>
+
+
+    Le ministère de l’Économie et des Finances de la République d’Ouzbékistan, l’Agence française de développement (AFD) et Expertise France ont signé aujourd’hui deux protocoles d’accord (MoU) en marge de la COP31. Ces accords portent sur les villes durables, les matières premières critiques et la transition juste.    <p><strong>Accompagner la transformation des villes ouzbèkes</strong></p>
+<p>L’AFD prévoit de s’associer à la Banque mondiale pour cofinancer la deuxième phase du programme <em>Livable and Productive Cities Operation</em> (LPCO). Ce programme accompagne les quartiers et les villes dans la planification et la mise en œuvre d’infrastructures et de services urbains adaptés aux besoins des habitants.</p>
+<p>Afin de soutenir cette dynamique, l’AFD financera également, à travers une subvention pouvant aller jusqu’à 400 000 euros, la mobilisation de longue durée d’un expert français en urbanisme auprès du ministère.</p>
+<p><strong>Faire des ressources minières un levier de développement durable</strong></p>
+<p>Le second protocole d’accord, conclu avec Expertise France, ouvre une nouvelle coopération sur les matières premières critiques, dont l’Ouzbékistan possède d’importantes réserves.</p>
+<p>L’objectif : accompagner le pays dans le financement à long terme de ses capacités de production, le renforcement de la gouvernance du secteur minier et le développement de chaînes de valeur plus durables. Cette coopération s’appuiera notamment sur l’expertise d’acteurs français et européens, parmi lesquels le Bureau de recherches géologiques et minières (BRGM).</p>
+<p>L’accord ouvre par ailleurs un dialogue sur les conditions d’une transition juste. Il s’inscrit dans le prolongement du soutien budgétaire apporté par le groupe AFD à l’économie verte et à la transition énergétique en Ouzbékistan, qui devrait atteindre au total 1,2 milliard d’euros.</p>
+<p><strong>Une ambition partagée</strong></p>
+<p>« <em>Ces protocoles d’accord constituent une étape importante dans le renforcement du partenariat stratégique entre l’Ouzbékistan et l’AFD. Ils permettent de faire avancer nos priorités communes en matière de développement urbain durable et de transition verte</em> »,<strong> a déclaré Ilkhom Norkulov, premier vice-ministre de l’Économie et des Finances de la République d’Ouzbékistan</strong>.</p>
+<p>« <em>Ces deux accords ouvrent un nouveau chapitre de notre partenariat avec l’Ouzbékistan </em>»,<strong> a déclaré Christophe Lecourtier, directeur général du groupe AFD</strong>. « <em>Nous mobilisons l’ensemble des financements et de l’expertise du groupe AFD au service des priorités définies par le pays.</em> »</p>
+<p>« <em>En associant financements et coopération technique, nous pouvons aider l’Ouzbékistan à valoriser durablement ses ressources minérales, au bénéfice de sa population</em> », <strong>a déclaré le directeur général d’Expertise France</strong>.</p>
+<p>L’AFD et Expertise France travailleront de concert afin d’assurer la cohérence de leurs appuis financiers et techniques. Des plans de travail conjoints préciseront les actions à mettre en œuvre au cours des deux prochaines années.</p>
+]]></description>
+            <content:encoded><![CDATA[L’Ouzbékistan et le groupe AFD signent deux accords à la COP31 pour promouvoir des villes durables, les matières premières critiques et une transition juste
+<span><span>dimariog@afd.fr</span></span>
+<time datetime="2026-11-16T11:47:50+01:00" title="Lundi 16 novembre 2026 - 11:47">lun 16/11/2026 - 11:47</time>
+    Institutionnel    <time datetime="2026-11-17T12:00:00Z">17 novembre 2026</time>
+    1    <a href="https://www.afd.fr/fr/taxonomy/term/108" hreflang="fr">Ouzbékistan</a>    <a href="https://www.afd.fr/fr/taxonomy/term/47" hreflang="fr">Villes durables</a><a href="https://www.afd.fr/fr/taxonomy/term/1309" hreflang="fr">JET- Transition Énergétique Juste</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-11/visuel-communique-de-presse.jpeg.webp?itok=drlfoPEh" width="792" height="450" alt>
+
+
+    Le ministère de l’Économie et des Finances de la République d’Ouzbékistan, l’Agence française de développement (AFD) et Expertise France ont signé aujourd’hui deux protocoles d’accord (MoU) en marge de la COP31. Ces accords portent sur les villes durables, les matières premières critiques et la transition juste.    <p><strong>Accompagner la transformation des villes ouzbèkes</strong></p>
+<p>L’AFD prévoit de s’associer à la Banque mondiale pour cofinancer la deuxième phase du programme <em>Livable and Productive Cities Operation</em> (LPCO). Ce programme accompagne les quartiers et les villes dans la planification et la mise en œuvre d’infrastructures et de services urbains adaptés aux besoins des habitants.</p>
+<p>Afin de soutenir cette dynamique, l’AFD financera également, à travers une subvention pouvant aller jusqu’à 400 000 euros, la mobilisation de longue durée d’un expert français en urbanisme auprès du ministère.</p>
+<p><strong>Faire des ressources minières un levier de développement durable</strong></p>
+<p>Le second protocole d’accord, conclu avec Expertise France, ouvre une nouvelle coopération sur les matières premières critiques, dont l’Ouzbékistan possède d’importantes réserves.</p>
+<p>L’objectif : accompagner le pays dans le financement à long terme de ses capacités de production, le renforcement de la gouvernance du secteur minier et le développement de chaînes de valeur plus durables. Cette coopération s’appuiera notamment sur l’expertise d’acteurs français et européens, parmi lesquels le Bureau de recherches géologiques et minières (BRGM).</p>
+<p>L’accord ouvre par ailleurs un dialogue sur les conditions d’une transition juste. Il s’inscrit dans le prolongement du soutien budgétaire apporté par le groupe AFD à l’économie verte et à la transition énergétique en Ouzbékistan, qui devrait atteindre au total 1,2 milliard d’euros.</p>
+<p><strong>Une ambition partagée</strong></p>
+<p>« <em>Ces protocoles d’accord constituent une étape importante dans le renforcement du partenariat stratégique entre l’Ouzbékistan et l’AFD. Ils permettent de faire avancer nos priorités communes en matière de développement urbain durable et de transition verte</em> »,<strong> a déclaré Ilkhom Norkulov, premier vice-ministre de l’Économie et des Finances de la République d’Ouzbékistan</strong>.</p>
+<p>« <em>Ces deux accords ouvrent un nouveau chapitre de notre partenariat avec l’Ouzbékistan </em>»,<strong> a déclaré Christophe Lecourtier, directeur général du groupe AFD</strong>. « <em>Nous mobilisons l’ensemble des financements et de l’expertise du groupe AFD au service des priorités définies par le pays.</em> »</p>
+<p>« <em>En associant financements et coopération technique, nous pouvons aider l’Ouzbékistan à valoriser durablement ses ressources minérales, au bénéfice de sa population</em> », <strong>a déclaré le directeur général d’Expertise France</strong>.</p>
+<p>L’AFD et Expertise France travailleront de concert afin d’assurer la cohérence de leurs appuis financiers et techniques. Des plans de travail conjoints préciseront les actions à mettre en œuvre au cours des deux prochaines années.</p>
+]]></content:encoded>
+            <author>dimariog@afd.fr</author>
         </item>
         <item>
             <title><![CDATA[Accès à l'énergie : faut-il forcément sacrifier le climat ?]]></title>
@@ -3740,6 +3787,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique" class="fr-card__link">Soutien à la réforme de la gestion des finances publiques mobilisant l’expertise publique française</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2019 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique.jpg.webp?itok=OftmN2ou" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/centre-national-de-recherche-en-intelligence-artificielle-et-science-des-donnees" class="fr-card__link">Centre national de recherche en intelligence artificielle et science des données</a>
               </h3>
       
@@ -3871,91 +4003,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/projet-dalimentation-en-eau-de-bakheng-phase-3.jpg.webp?itok=mztfOhRW" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique" class="fr-card__link">Soutien à la réforme de la gestion des finances publiques mobilisant l’expertise publique française</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2019 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique.jpg.webp?itok=OftmN2ou" width="715" height="402" alt>
 
 
 
@@ -4304,7 +4351,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/projet-dalimentation-en-eau-de-bakheng-phase-3" class="fr-card__link">Projet d’alimentation en eau de Bakheng</a>
+                  <a href="https://www.afd.fr/fr/projets/programme-pilote-de-gestion-urbaine-au-ghana-gumpp" class="fr-card__link">Programme pilote de gestion urbaine au Ghana (GUMPP)</a>
               </h3>
       
               <div class="fr-card__start">
@@ -4316,7 +4363,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
+    Villes durables
   </p>
 
       </div>
@@ -4334,99 +4381,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2043</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 200 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/projet-dalimentation-en-eau-de-bakheng-phase-3.jpg.webp?itok=mztfOhRW" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/suivi-reforme-et-gouvernance-des-entreprises-publiques-du-ghana-ghasorg" class="fr-card__link">Suivi, réforme et gouvernance des entreprises publiques du Ghana </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2021 - 2026</p>
+          <p class="fr-card__detail">2011 - 2016</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Ghana</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 40 500 000 €</p>
               </div>
                   </div>
                       </div>
@@ -4434,7 +4396,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/suivi-reforme-et-gouvernance-des-entreprises-publiques-du-ghana-ghasorg.jpg.webp?itok=Cktjviyk" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/gumpp.jpg.webp?itok=iy0_bfzS" width="715" height="402" alt>
 
 
 
@@ -4474,7 +4436,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique" class="fr-card__link">Soutien à la réforme de la gestion des finances publiques mobilisant l’expertise publique française</a>
+                  <a href="https://www.afd.fr/fr/projets/centre-national-de-recherche-en-intelligence-artificielle-et-science-des-donnees" class="fr-card__link">Centre national de recherche en intelligence artificielle et science des données</a>
               </h3>
       
               <div class="fr-card__start">
@@ -4486,7 +4448,92 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
+    Numérique et innovation
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 750 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/entre-national-de-recherche-en-intelligence-artificielle-et-science-des-donnees.jpg.webp?itok=WRpJPiyn" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/soutien-au-developpement-de-lindustrie-musicale-ghaneenne-segmi" class="fr-card__link">Soutien au développement de l’industrie musicale ghanéenne</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Industries culturelles et créatives
   </p>
 
       </div>
@@ -4504,14 +4551,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2019 - 2026</p>
+          <p class="fr-card__detail">2023 - 2025</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Ghana</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 620 000 €</p>
               </div>
                   </div>
                       </div>
@@ -4519,7 +4566,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique.jpg.webp?itok=OftmN2ou" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/fexte-icc.jpg.webp?itok=7sQkA5rQ" width="715" height="402" alt>
 
 
 
@@ -4650,6 +4697,91 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique" class="fr-card__link">Soutien à la réforme de la gestion des finances publiques mobilisant l’expertise publique française</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Gouvernance
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      Achevé
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2019 - 2026</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique.jpg.webp?itok=OftmN2ou" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
                   <a href="https://www.afd.fr/fr/projets/centre-national-de-recherche-en-intelligence-artificielle-et-science-des-donnees" class="fr-card__link">Centre national de recherche en intelligence artificielle et science des données</a>
               </h3>
       
@@ -4781,91 +4913,6 @@
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
                       <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/projet-dalimentation-en-eau-de-bakheng-phase-3.jpg.webp?itok=mztfOhRW" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique" class="fr-card__link">Soutien à la réforme de la gestion des finances publiques mobilisant l’expertise publique française</a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2019 - 2026</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique.jpg.webp?itok=OftmN2ou" width="715" height="402" alt>
 
 
 
@@ -5214,7 +5261,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/projet-dalimentation-en-eau-de-bakheng-phase-3" class="fr-card__link">Projet d’alimentation en eau de Bakheng</a>
+                  <a href="https://www.afd.fr/fr/projets/programme-pilote-de-gestion-urbaine-au-ghana-gumpp" class="fr-card__link">Programme pilote de gestion urbaine au Ghana (GUMPP)</a>
               </h3>
       
               <div class="fr-card__start">
@@ -5226,7 +5273,7 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Eau et assainissement
+    Villes durables
   </p>
 
       </div>
@@ -5244,99 +5291,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2023 - 2043</p>
-        </div>
-                    <div class="fr-card__details order-3 mt-3 pr-8">
-                        <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
-              </div>
-                                  <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 200 000 000 €</p>
-              </div>
-                  </div>
-                      </div>
-      </div>
-
-      <div class="fr-card__header" aria-hidden="true">
-      <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/projet-dalimentation-en-eau-de-bakheng-phase-3.jpg.webp?itok=mztfOhRW" width="715" height="402" alt>
-
-
-
-      </div>
-      
-    </div>
-  
-  </div>
-
-  </div>
-
-                </div>
-                              <div class="fr-col-12 fr-col-md-4">
-                  
-
-
-
-      
-
-          
-
-
-                       
-
-  
-
-  <div class="card-project__node h-full">
-    
-
-
-
-  
-
-
-
-<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
-  <div class="fr-card__body ">
-    <div class="fr-card__content">
-      <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/suivi-reforme-et-gouvernance-des-entreprises-publiques-du-ghana-ghasorg" class="fr-card__link">Suivi, réforme et gouvernance des entreprises publiques du Ghana </a>
-              </h3>
-      
-              <div class="fr-card__start">
-                      
-  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
-  </p>
-
-      </div>
-
-                            </div>
-                    <div class="fr-card__start fr-card__start--badge">
-                      <div class=" mb-2">
-              
-
-
-<p data-component-id="dsfr4drupal:badge" class="fr-badge">
-      Achevé
-</p>
-
-            </div>
-                            </div>
-                    <div class="fr-card__start">
-          <p class="fr-card__detail">2021 - 2026</p>
+          <p class="fr-card__detail">2011 - 2016</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
                 <p class="fr-card__detail fr-icon-map-pin-2-fill">Ghana</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 5 000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 40 500 000 €</p>
               </div>
                   </div>
                       </div>
@@ -5344,7 +5306,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/suivi-reforme-et-gouvernance-des-entreprises-publiques-du-ghana-ghasorg.jpg.webp?itok=Cktjviyk" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/gumpp.jpg.webp?itok=iy0_bfzS" width="715" height="402" alt>
 
 
 
@@ -5384,7 +5346,7 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique" class="fr-card__link">Soutien à la réforme de la gestion des finances publiques mobilisant l’expertise publique française</a>
+                  <a href="https://www.afd.fr/fr/projets/centre-national-de-recherche-en-intelligence-artificielle-et-science-des-donnees" class="fr-card__link">Centre national de recherche en intelligence artificielle et science des données</a>
               </h3>
       
               <div class="fr-card__start">
@@ -5396,7 +5358,92 @@
   
   
   <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Gouvernance
+    Numérique et innovation
+  </p>
+
+      </div>
+
+                            </div>
+                    <div class="fr-card__start fr-card__start--badge">
+                      <div class=" mb-2">
+              
+
+
+<p data-component-id="dsfr4drupal:badge" class="fr-badge">
+      En cours
+</p>
+
+            </div>
+                            </div>
+                    <div class="fr-card__start">
+          <p class="fr-card__detail">2026 - 2031</p>
+        </div>
+                    <div class="fr-card__details order-3 mt-3 pr-8">
+                        <div class="mb-2">
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
+              </div>
+                                  <div class="mb-2">
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 20 750 000 €</p>
+              </div>
+                  </div>
+                      </div>
+      </div>
+
+      <div class="fr-card__header" aria-hidden="true">
+      <div class="fr-card__img ">
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/entre-national-de-recherche-en-intelligence-artificielle-et-science-des-donnees.jpg.webp?itok=WRpJPiyn" width="715" height="402" alt>
+
+
+
+      </div>
+      
+    </div>
+  
+  </div>
+
+  </div>
+
+                </div>
+                              <div class="fr-col-12 fr-col-md-4">
+                  
+
+
+
+      
+
+          
+
+
+                       
+
+  
+
+  <div class="card-project__node h-full">
+    
+
+
+
+  
+
+
+
+<div data-component-id="afd_default_theme:card" class="fr-enlarge-link fr-card img-card-responsive">
+  <div class="fr-card__body ">
+    <div class="fr-card__content">
+      <h3 class="fr-card__title">
+                  <a href="https://www.afd.fr/fr/projets/soutien-au-developpement-de-lindustrie-musicale-ghaneenne-segmi" class="fr-card__link">Soutien au développement de l’industrie musicale ghanéenne</a>
+              </h3>
+      
+              <div class="fr-card__start">
+                      
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
+
+
+  
+  
+  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
+    Industries culturelles et créatives
   </p>
 
       </div>
@@ -5414,14 +5461,14 @@
             </div>
                             </div>
                     <div class="fr-card__start">
-          <p class="fr-card__detail">2019 - 2026</p>
+          <p class="fr-card__detail">2023 - 2025</p>
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Cambodge</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Ghana</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 1 500 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 620 000 €</p>
               </div>
                   </div>
                       </div>
@@ -5429,7 +5476,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/soutien-la-reforme-de-la-gestion-des-finances-publiques-mobilisant-lexpertise-publique.jpg.webp?itok=OftmN2ou" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-11/fexte-icc.jpg.webp?itok=7sQkA5rQ" width="715" height="402" alt>
 
 
 
@@ -160756,45 +160803,6 @@ Enfin, grâce à leur expertise en financement des politiques publiques et des p
     <a href="https://www.afd.fr/fr/taxonomy/term/28" hreflang="fr">Etat</a>    100 000 000     €    20 ans    République du Costa Rica  
   <div>Adresse</div>  <a href="https://www.afd.fr/fr/agence-costa-rica" hreflang="fr">Agence Costa Rica</a>]]></content:encoded>
             <author>evof@afd.fr</author>
-        </item>
-        <item>
-            <title><![CDATA[Benoît VERDEAUX devient Directeur de la communication de l’Agence française de développement (AFD)]]></title>
-            <link>https://www.afd.fr/fr/commmuniques-de-presse/benoit-verdeaux-devient-directeur-de-la-communication-de-lagence-francaise</link>
-            <guid isPermaLink="false">5f87418951fde95934240fbeb15fe5d53e21bdb6ae24f780c92b913381533e0c</guid>
-            <pubDate>Fri, 11 Sep 2026 09:58:24 GMT</pubDate>
-            <description><![CDATA[Benoît VERDEAUX devient Directeur de la communication de l’Agence française de développement (AFD)
-<span><span>sarrazinp@afd.fr</span></span>
-<time datetime="2026-09-11T11:58:24+02:00" title="Vendredi 11 septembre 2026 - 11:58">ven 11/09/2026 - 11:58</time>
-    Institutionnel    <time datetime="2026-09-11T12:00:00Z">11 septembre 2026</time>
-    1    <a href="https://www.afd.fr/fr/taxonomy/term/119" hreflang="fr">France</a>    <a href="https://www.afd.fr/fr/taxonomy/term/39" hreflang="fr">Gouvernance</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-09/design-sans-titre-3_0.png.webp?itok=aSDJoLQT" width="792" height="450" alt>
-
-
-    Depuis le 1er septembre, Benoît Verdeaux, 53 ans, est le nouveau Directeur de la communication de l’Agence française de développement. Fort de plus de vingt-cinq ans d’expérience dans les domaines du développement, de la diplomatie et de la communication, il retrouve l’AFD après cinq années au service de la diplomatie française et de la Présidence de la République.    <p>Depuis septembre 2022, Benoît Verdeaux occupait les fonctions de Premier Conseiller à l’Ambassade de France en Côte d’Ivoire, à Abidjan. À ce titre, il était notamment chargé de l’animation des services français dans le pays, du suivi politique et des enjeux d’influence et de sécurité. Entre 2021 et 2022, il est sollicité par la Présidence de la République pour assurer le Secrétariat général du Sommet Afrique-France de Montpellier dont il coordonne la préparation et les suites.</p>
-<p>Son parcours professionnel est étroitement lié au groupe AFD, qu’il rejoint en 2007 comme responsable de la stratégie et de la communication de Proparco, sa filiale dédiée au secteur privé. Il occupe ensuite différentes fonctions au sein de l’AFD à Paris et en Afrique, en lien avec le Nigéria puis au Mali, avant de devenir Directeur adjoint de l’AFD en Côte d’Ivoire de 2017 à 2021. Depuis le 1er septembre 2026, il a rejoint le Groupe AFD pour en diriger la communication et le marketing.</p>
-<p>Benoît Verdeaux a une formation initiale en histoire et en socio-économie, suivie à la Sorbonne.</p>
-<p>&nbsp;</p>
-<p><strong>Contact presse</strong> : Sophie NOEL –<em> </em><a href="mailto:noels@afd.fr"><em>noels@afd.fr</em></a><em> &nbsp;– 06 48 97 79 30</em></p>
-<p>&nbsp;</p>
-<p><strong>A propos de l’AFD</strong></p>
-<p>L’Agence française de développement (AFD) contribue à mettre en œuvre la politique de la France en matière d’investissement durable et de solidarité à l’international. À travers ses activités de financement du secteur public et des ONG, ses travaux et publications de recherche (Éditions AFD), de formation sur le développement durable (Campus AFD) et de sensibilisation en France, elle finance, accompagne et accélère les transitions vers un monde plus juste et résilient.&nbsp;<br>Nous construisons avec nos partenaires des solutions durables, avec et pour les populations. Nos équipes sont engagées dans plus de 2 700 projets sur le terrain, dans les Outre-mer, et plus de 115 pays, pour le climat, la biodiversité, la paix, l’égalité femmes-hommes, ou encore la santé mondiale. En complémentarité avec Proparco et Expertise France, l’AFD contribue ainsi à l’engagement de la France et des Français en faveur des Objectifs de développement durable (ODD). Du côté des autres, pour un monde en commun.&nbsp;<br>&nbsp;</p>
-]]></description>
-            <content:encoded><![CDATA[Benoît VERDEAUX devient Directeur de la communication de l’Agence française de développement (AFD)
-<span><span>sarrazinp@afd.fr</span></span>
-<time datetime="2026-09-11T11:58:24+02:00" title="Vendredi 11 septembre 2026 - 11:58">ven 11/09/2026 - 11:58</time>
-    Institutionnel    <time datetime="2026-09-11T12:00:00Z">11 septembre 2026</time>
-    1    <a href="https://www.afd.fr/fr/taxonomy/term/119" hreflang="fr">France</a>    <a href="https://www.afd.fr/fr/taxonomy/term/39" hreflang="fr">Gouvernance</a>      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/header_content/public/2026-09/design-sans-titre-3_0.png.webp?itok=aSDJoLQT" width="792" height="450" alt>
-
-
-    Depuis le 1er septembre, Benoît Verdeaux, 53 ans, est le nouveau Directeur de la communication de l’Agence française de développement. Fort de plus de vingt-cinq ans d’expérience dans les domaines du développement, de la diplomatie et de la communication, il retrouve l’AFD après cinq années au service de la diplomatie française et de la Présidence de la République.    <p>Depuis septembre 2022, Benoît Verdeaux occupait les fonctions de Premier Conseiller à l’Ambassade de France en Côte d’Ivoire, à Abidjan. À ce titre, il était notamment chargé de l’animation des services français dans le pays, du suivi politique et des enjeux d’influence et de sécurité. Entre 2021 et 2022, il est sollicité par la Présidence de la République pour assurer le Secrétariat général du Sommet Afrique-France de Montpellier dont il coordonne la préparation et les suites.</p>
-<p>Son parcours professionnel est étroitement lié au groupe AFD, qu’il rejoint en 2007 comme responsable de la stratégie et de la communication de Proparco, sa filiale dédiée au secteur privé. Il occupe ensuite différentes fonctions au sein de l’AFD à Paris et en Afrique, en lien avec le Nigéria puis au Mali, avant de devenir Directeur adjoint de l’AFD en Côte d’Ivoire de 2017 à 2021. Depuis le 1er septembre 2026, il a rejoint le Groupe AFD pour en diriger la communication et le marketing.</p>
-<p>Benoît Verdeaux a une formation initiale en histoire et en socio-économie, suivie à la Sorbonne.</p>
-<p>&nbsp;</p>
-<p><strong>Contact presse</strong> : Sophie NOEL –<em> </em><a href="mailto:noels@afd.fr"><em>noels@afd.fr</em></a><em> &nbsp;– 06 48 97 79 30</em></p>
-<p>&nbsp;</p>
-<p><strong>A propos de l’AFD</strong></p>
-<p>L’Agence française de développement (AFD) contribue à mettre en œuvre la politique de la France en matière d’investissement durable et de solidarité à l’international. À travers ses activités de financement du secteur public et des ONG, ses travaux et publications de recherche (Éditions AFD), de formation sur le développement durable (Campus AFD) et de sensibilisation en France, elle finance, accompagne et accélère les transitions vers un monde plus juste et résilient.&nbsp;<br>Nous construisons avec nos partenaires des solutions durables, avec et pour les populations. Nos équipes sont engagées dans plus de 2 700 projets sur le terrain, dans les Outre-mer, et plus de 115 pays, pour le climat, la biodiversité, la paix, l’égalité femmes-hommes, ou encore la santé mondiale. En complémentarité avec Proparco et Expertise France, l’AFD contribue ainsi à l’engagement de la France et des Français en faveur des Objectifs de développement durable (ODD). Du côté des autres, pour un monde en commun.&nbsp;<br>&nbsp;</p>
-]]></content:encoded>
-            <author>sarrazinp@afd.fr</author>
         </item>
     </channel>
 </rss>
