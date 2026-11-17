@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 12:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 12:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة الإسعاف والطوارىء: شهيد بنيران قوات الاحتلال الإسرائيلي في مواصي مدينة رفح…]]></title>
+            <link>https://t.me/aljazeeraBrk/244904</link>
+            <guid isPermaLink="false">af52090493b11c0da68f56a092d4595b14fc4f820869626a77e3400ad5484429</guid>
+            <pubDate>Tue, 17 Nov 2026 12:54:02 GMT</pubDate>
+            <description><![CDATA[هيئة الإسعاف والطوارىء: شهيد بنيران قوات الاحتلال الإسرائيلي في مواصي مدينة رفح جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[هيئة الإسعاف والطوارىء: شهيد بنيران قوات الاحتلال الإسرائيلي في مواصي مدينة رفح جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة إيسنا عن الجيش الإيراني: الدفاع الجوي دمر مسيرة أمريكية من طراز لوكاس فوق…]]></title>
             <link>https://t.me/aljazeeraBrk/244903</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 05:21:02 GMT</pubDate>
             <description><![CDATA[حاكم روستوف الروسية: اندلاع حريق في4 منشآت صناعية في المقاطعة بسبب هجوم بالمسيرات]]></description>
             <content:encoded><![CDATA[حاكم روستوف الروسية: اندلاع حريق في4 منشآت صناعية في المقاطعة بسبب هجوم بالمسيرات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[غوتيريش: أؤكد التزام الأمم المتحدة غير المشروط بحماية حرية الملاحة في جميع…]]></title>
-            <link>https://t.me/aljazeeraBrk/244704</link>
-            <guid isPermaLink="false">258f4bed773d05e0fc7e11039eb8854c3ae76483e09263dfaad18cd123e74f7e</guid>
-            <pubDate>Mon, 16 Nov 2026 04:48:01 GMT</pubDate>
-            <description><![CDATA[غوتيريش: أؤكد التزام الأمم المتحدة غير المشروط بحماية حرية الملاحة في جميع الظروف]]></description>
-            <content:encoded><![CDATA[غوتيريش: أؤكد التزام الأمم المتحدة غير المشروط بحماية حرية الملاحة في جميع الظروف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
