@@ -4,10 +4,302 @@
         <title>gulbenkian.pt</title>
         <link>https://gulbenkian.pt/en/</link>
         <description>RSS Factory feed "gulbenkian.pt" (type: website)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 16:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 00:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Grants արդ եւս|in view 2026-2027 Supporting creative minds to develop contemporary cultural initiatives conceived and implemented in the Western Armenian language. closes 07 Mar 2027 Open call]]></title>
+            <link>https://gulbenkian.pt/en/bolsas-lista/%d5%a1%d6%80%d5%a4-%d5%a5%d6%82%d5%bdin-view/</link>
+            <guid isPermaLink="false">b85bc15de927c6a12254a26df936ae41c599b6fdd1d79e4d899432209698932d</guid>
+            <pubDate>Sun, 07 Mar 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>The aim of this grant programme is to give creative minds the chance to develop contemporary cultural initiatives conceived and implemented in the Western Armenian language.</p>
+<p>Steering away from conventional modes of artistic support, this cycle repositions culture as an active laboratory for societal reinvention, one where bold expression directly intersects with civic imagination and real-world impact. We are looking for initiatives that test emerging creative technologies, experiment with decentralized storytelling, build equitable dialogue across deep societal fractures, and give voice to underrepresented perspectives through brave, participatory methods.</p>
+<p>Submissions will be evaluated by a committee made up of Gulbenkian Foundation staff, with input from external experts where appropriate. Results will be communicated within six weeks following the submission deadline.</p>
+<h2>Priorities of արդ եւս | in view</h2>
+<ul class="list-format-bar">
+<li>Celebrate creativity in Western Armenian.</li>
+<li>Enhance the intrinsic relationship between language and culture, ensuring the evolution of both.</li>
+<li>Highlight the cohesive power of culture.</li>
+<li>Enhance lifelong practices for a sustainable Western Armenian culture.</li>
+<li>Ensure the vitality of different Armenian communities through culture.</li>
+<li>Give visibility to innovative cultural practices taking place all over the Armenian world.</li>
+<li>Promote gender balance and inclusion in cultural participation.</li>
+<li>Include the youth and new cultural practices in shaping our common cultural environment and identity.</li>
+<li>Create open, inclusive spaces for everyone to take part in cultural creation and preservation.</li>
+<li>Address global challenges and foster intercultural dialogue through Western Armenian.</li>
+<li>Use culture as a catalyst for critical thinking, pluralism, social transformation, and civic engagement.</li>
+</ul>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>This call for proposals is open to all individuals and organisations wishing to engage in cultural production in Western Armenian across the Diaspora and in Armenia, within the framework of the programme’s core priorities.</p>
+<p>The արդ եւս | in view programme welcomes submissions from individuals, small groups, and non-profit organisations or institutions. All applicants must be over 18 years of age. For-profit entities are not eligible. Applicants are not required to be established artists.</p>
+<p>Up to 10 projects will be supported each year, each receiving a maximum grant of €10,000.</p>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>We only accept online applications.</li>
+	<li>You need to register before applying.</li>
+	<li>Please read the “Call for Proposals” document available in the documents section above before applying.</li>
+	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded.&nbsp;</li>
+	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.</li>
+</ul>]]></description>
+            <content:encoded><![CDATA[<p>The aim of this grant programme is to give creative minds the chance to develop contemporary cultural initiatives conceived and implemented in the Western Armenian language.</p>
+<p>Steering away from conventional modes of artistic support, this cycle repositions culture as an active laboratory for societal reinvention, one where bold expression directly intersects with civic imagination and real-world impact. We are looking for initiatives that test emerging creative technologies, experiment with decentralized storytelling, build equitable dialogue across deep societal fractures, and give voice to underrepresented perspectives through brave, participatory methods.</p>
+<p>Submissions will be evaluated by a committee made up of Gulbenkian Foundation staff, with input from external experts where appropriate. Results will be communicated within six weeks following the submission deadline.</p>
+<h2>Priorities of արդ եւս | in view</h2>
+<ul class="list-format-bar">
+<li>Celebrate creativity in Western Armenian.</li>
+<li>Enhance the intrinsic relationship between language and culture, ensuring the evolution of both.</li>
+<li>Highlight the cohesive power of culture.</li>
+<li>Enhance lifelong practices for a sustainable Western Armenian culture.</li>
+<li>Ensure the vitality of different Armenian communities through culture.</li>
+<li>Give visibility to innovative cultural practices taking place all over the Armenian world.</li>
+<li>Promote gender balance and inclusion in cultural participation.</li>
+<li>Include the youth and new cultural practices in shaping our common cultural environment and identity.</li>
+<li>Create open, inclusive spaces for everyone to take part in cultural creation and preservation.</li>
+<li>Address global challenges and foster intercultural dialogue through Western Armenian.</li>
+<li>Use culture as a catalyst for critical thinking, pluralism, social transformation, and civic engagement.</li>
+</ul>
+<h2 class="fcg-section__title" id="eligibility">
+			<span>Eligibility</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>This call for proposals is open to all individuals and organisations wishing to engage in cultural production in Western Armenian across the Diaspora and in Armenia, within the framework of the programme’s core priorities.</p>
+<p>The արդ եւս | in view programme welcomes submissions from individuals, small groups, and non-profit organisations or institutions. All applicants must be over 18 years of age. For-profit entities are not eligible. Applicants are not required to be established artists.</p>
+<p>Up to 10 projects will be supported each year, each receiving a maximum grant of €10,000.</p>
+<h2 class="fcg-section__title" id="how-to-apply">
+			<span>How to Apply</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Close</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>We only accept online applications.</li>
+	<li>You need to register before applying.</li>
+	<li>Please read the “Call for Proposals” document available in the documents section above before applying.</li>
+	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded.&nbsp;</li>
+	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Concert Around Beethoven 21 Feb 2027 / 11:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/around-beethoven/</link>
+            <guid isPermaLink="false">9df74ea703a711c78391d3a5e0f2fd266ca1ad4ab30df2f4fc2ba42cae3ca6c7</guid>
+            <pubDate>Sun, 21 Feb 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Gulbenkian Orchestra</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-sans"><p>In 1962, the Calouste Gulbenkian Foundation decided to establish a permanent orchestral ensemble. Originally with only twelve musicians (strings and continuo) it was named “Orquestra de Câmara Gulbenkian”. This collective was successively enlarged and today the “Orquestra Gulbenkian” (the name it has adopted since 1971) has a permanent body of sixty instrumentalists, a number that can be expanded depending on the repertoire.</p>
+<p>This structure allows the Gulbenkian Orchestra to interpret works from the Baroque and Classical periods, a significant part of 19th century orchestral literature and much of the music of the 20th century, including works belonging to the current repertoire of the traditional symphonic orchestras. In each season, the orchestra performs on a regular series of concerts at the Gulbenkian Grand Auditorium in Lisbon, where it has had the opportunity of working together with some of leading names of the world of music (conductors and soloists). It has also performed on numerous locations all over Portugal, in an effort to decentralize music and culture.</p>
+<p>The orchestra has been constantly expanding its activities in the international level, performing in Europe, Asia Africa, and the Americas.&nbsp;In the recording field, Orquestra Gulbenkian is associated to labels as Philips, Deutsche Grammophon, Hyperion, Teldec,&nbsp;Erato, Adès, Nimbus, Lyrinx, Naïve and Pentatone, among others, and this activity was recognized with several international prizes.</p>
+<p><a href="https://gulbenkian.pt/musica/en/biography/hannu-lintu/">Hannu Lintu</a> is the Music Director of the Gulbenkian Orchestra since 2023.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Anna Paliwoda</h1>
+								<p class="fcg-entry-header__subtitle">Violin</p>
+								<div class="tw-font-sans"><p>Anna Paliwoda was born in Katowice in Poland in 1992. She began her musical studies at the age of seven at the Karol Szymanowski Academy of Music in Katowice, continuing at the Ignacy Jan Paderewski Academy of Music in Poznan, also in Poland. Between 2013 and 2017, she studied violin under Professor Marco Rizzi and viola under professor Diemut Poppen at the Reina Sofía School of Music. She has attended masterclasses by Vadim Gluzman, Nils Mönkemeyer, Günter Pichler and Mauricio Fuks, and has won prizes for violin in various competitions: Bohdan Warchal International Strings Competition (Dolný Kubín, Slovakia), Sochaczew Violin Competition (Poland), and 2nd Tadeusz Wronski Young Violinists Competition (solo violin, Tomaszów Mazowiecki, Poland). In 2012, she was also a finalist at the 9th Andrea Postacchini International Violin Competition (Fermo, Italy). She has been a member of the Freixenet Symphony Orchestra, conducted by Víctor Pablo Pérez, Zubin Mehta, Pablo Heras-Casado and Stefan Lano; Freixenet Chamber Orchestra, conducted by András Schiﬀ and Eldar Nebolsin; and Camerata Viesgo, conducted by Gordan Nikolic and Peter Eötvös. She has also been a member of the Cuarteto Mendelssohn and the Cuarteto Óscar Esplá de Asisa. In 2016, she completed a bachelor’s degree at the Karol Szymanowski Academy of Music in Katowice and in 2017 joined the first violins of the Basque National Orchestra in San Sebastián. She has participated regularly in the Festival Cantabile, presenting chamber music concerts beside soloists such as Diemut Poppen, Ivan Monigetti and Christel Lee. She has lived in Lisbon since 2018, is studying at the Escola Superior de Música de Lisboa, under Professor Ana Beatriz Manzanilla, and is leader of the second violins of the Gulbenkian Orchestra. In 2019, she won the Concurso de Interpretação do Estoril.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Orquestra-Gulbenkian-C-Jorge-Carmona_4x3_2-1.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Gulbenkian Orchestra</h1>
+								<p class="fcg-entry-header__subtitle"></p>
+								<div class="tw-font-sans"><p>In 1962, the Calouste Gulbenkian Foundation decided to establish a permanent orchestral ensemble. Originally with only twelve musicians (strings and continuo) it was named “Orquestra de Câmara Gulbenkian”. This collective was successively enlarged and today the “Orquestra Gulbenkian” (the name it has adopted since 1971) has a permanent body of sixty instrumentalists, a number that can be expanded depending on the repertoire.</p>
+<p>This structure allows the Gulbenkian Orchestra to interpret works from the Baroque and Classical periods, a significant part of 19th century orchestral literature and much of the music of the 20th century, including works belonging to the current repertoire of the traditional symphonic orchestras. In each season, the orchestra performs on a regular series of concerts at the Gulbenkian Grand Auditorium in Lisbon, where it has had the opportunity of working together with some of leading names of the world of music (conductors and soloists). It has also performed on numerous locations all over Portugal, in an effort to decentralize music and culture.</p>
+<p>The orchestra has been constantly expanding its activities in the international level, performing in Europe, Asia Africa, and the Americas.&nbsp;In the recording field, Orquestra Gulbenkian is associated to labels as Philips, Deutsche Grammophon, Hyperion, Teldec,&nbsp;Erato, Adès, Nimbus, Lyrinx, Naïve and Pentatone, among others, and this activity was recognized with several international prizes.</p>
+<p><a href="https://gulbenkian.pt/musica/en/biography/hannu-lintu/">Hannu Lintu</a> is the Music Director of the Gulbenkian Orchestra since 2023.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2024/01/Anna-Paliwoda_4x3.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Anna Paliwoda</h1>
+								<p class="fcg-entry-header__subtitle">Violin</p>
+								<div class="tw-font-sans"><p>Anna Paliwoda was born in Katowice in Poland in 1992. She began her musical studies at the age of seven at the Karol Szymanowski Academy of Music in Katowice, continuing at the Ignacy Jan Paderewski Academy of Music in Poznan, also in Poland. Between 2013 and 2017, she studied violin under Professor Marco Rizzi and viola under professor Diemut Poppen at the Reina Sofía School of Music. She has attended masterclasses by Vadim Gluzman, Nils Mönkemeyer, Günter Pichler and Mauricio Fuks, and has won prizes for violin in various competitions: Bohdan Warchal International Strings Competition (Dolný Kubín, Slovakia), Sochaczew Violin Competition (Poland), and 2nd Tadeusz Wronski Young Violinists Competition (solo violin, Tomaszów Mazowiecki, Poland). In 2012, she was also a finalist at the 9th Andrea Postacchini International Violin Competition (Fermo, Italy). She has been a member of the Freixenet Symphony Orchestra, conducted by Víctor Pablo Pérez, Zubin Mehta, Pablo Heras-Casado and Stefan Lano; Freixenet Chamber Orchestra, conducted by András Schiﬀ and Eldar Nebolsin; and Camerata Viesgo, conducted by Gordan Nikolic and Peter Eötvös. She has also been a member of the Cuarteto Mendelssohn and the Cuarteto Óscar Esplá de Asisa. In 2016, she completed a bachelor’s degree at the Karol Szymanowski Academy of Music in Katowice and in 2017 joined the first violins of the Basque National Orchestra in San Sebastián. She has participated regularly in the Festival Cantabile, presenting chamber music concerts beside soloists such as Diemut Poppen, Ivan Monigetti and Christel Lee. She has lived in Lisbon since 2018, is studying at the Escola Superior de Música de Lisboa, under Professor Ana Beatriz Manzanilla, and is leader of the second violins of the Gulbenkian Orchestra. In 2019, she won the Concurso de Interpretação do Estoril.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/44_Agata-Zajac-C-Zuzanna-Specjal_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concert Perianes, Queyras and Zimmermann 19 Feb 2027 / 19:00]]></title>
+            <link>https://gulbenkian.pt/en/agenda/perianes-queyras-and-zimmermann/</link>
+            <guid isPermaLink="false">5f68477bee4938d12e9a6c7832268f2441f3ab5ed2f00544b4dabc836a20aa67</guid>
+            <pubDate>Fri, 19 Feb 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="200" height="300" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2019/03/Javier-Perianes-C-Igor-Studio-3_200x300.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Javier Perianes</h1>
+								<p class="fcg-entry-header__subtitle">Piano</p>
+								<div class="tw-font-sans"><p>The international career of Javier Perianes has led him to perform in the most prestigious concert halls, with the world’s foremost orchestras, working with celebrated conductors including Daniel Barenboim, Charles Dutoit, Zubin Mehta, Gustavo Dudamel, Klaus Mäkelä, Gianandrea Noseda, Gustavo Gimeno, Santtu-Matias Rouvali, Simone Young and Vladimir Jurowski.</p>
+<p>The 2025/26 season features an array of high-profile concerts, including San Francisco, San Diego, Dallas and Baltimore symphony orchestras, Bamberger Symphoniker, Orquestra Sinfônica do Estado de São Paulo, Orquestra Sinfónica de Castilla y León, Teatro Real and Orchestre Philharmonique de Monte Carlo, Sydney and Tasmanian symphony orchestras. Perianes returns to Orquestra de la Comunitat Valencia to play-direct all five Beethoven Concerti, and concludes the play-direct Beethoven cycle with the Galicia Symphony Orchestra.</p>
+<p>Perianes frequently appears in recitals across the globe, with performances this season at Heidelberger Frühling, Gulbenkian, Ostrava, Barcelona, Alicante, Scherzo Madrid, Bozar, Liege, Künzelsau and Sydney Opera House. He also appears at prestigious festivals such as the BBC Proms, Lucerne Festival, Argerich Festival, Salzburg Whitsun, La Roque d’Anthéron, Grafenegg, Prague Spring, Ravello, Stresa, San Sebastián, Santander, Granada, Vail, Blossom, Ravinia, and the Canary Island Music Festival. As a natural and keen chamber musician, he regularly collaborates with violist Tabea Zimmermann. The duo will tour Germany and North America including dates at Carnegie Hall, Montreal Salle Bourgie, Princeton, Club Musical de Quebec, and Library of Congress.</p>
+<p>Career highlights have included concerts with Wiener Philhamoniker, Leipzig Gewandhausorchester, Chicago, Boston, San Francisco, Washington’s National, Yomiuri Nippon and Danish National symphony orchestras, Oslo, London, New York, Los Angeles and Czech Philharmonic orchestras, Orchestre de Paris, Cleveland, Orchestre Symphonique de Montréal and Swedish and Norwegian Radio orchestras, Mahler Chamber Orchestra and Budapest Festival Orchestra.</p>
+<p>Perianes exclusively records for harmonia mundi. His most recent releases feature a selection of Scarlatti’s Sonatas, Granados’ Goyescas, and Chopin’s Sonatas No.2 and No.3 interspersed with the three Mazurkas from Op.63. In 2025, Euroarts released a documentary recorded with Perianes at the Reales Alcazares in Seville, showing the special relationship between Scarlatti and Albéniz, linked to the city of Seville.</p>
+<p>Perianes was awarded the National Music Prize in 2012 by the Ministry of Culture of Spain and named Artist of the Year at the International Classical Music Awards (ICMA) in 2019.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="533" height="800" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525.jpg 533w, https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525-200x300.jpg 200w, https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525-288x432.jpg 288w" sizes="(max-width: 533px) 100vw, 533px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Jean-Guihen Queyras</h1>
+								<p class="fcg-entry-header__subtitle">Cello</p>
+								<div class="tw-font-sans"><p>Curiosity, diversity and a firm focus on the music itself characterize the artistic work of Jean-Guihen Queyras. Whether on stage or on record, one experiences an artist dedicated completely and passionately to the music, whose humble and quite unpretentious treatment of the score reflects its clear, undistorted essence. The inner motivations of composer, performer and audience must all be in tune with one another in order to bring about an outstanding concert experience.</p>
+<p>Jean-Guihen Queyras learnt this interpretative approach from Pierre Boulez, with whom he established a long artistic partnership. This philosophy, alongside a flawless technique and a clear, engaging tone, also shapes Jean-Guihen Queyras’ approach to every performance and his absolute commitment to the music itself.</p>
+<p>His approaches to early music – as in his collaborations with the Freiburg Baroque Orchestra and the Akademie für Alte Musik Berlin – and to contemporary music are equally thorough. He has given world premieres of works by, among others, Ivan Fedele, Gilbert Amy, Bruno Mantovani, Michael Jarrell, Johannes-Maria Staud, Thomas Larcher and Tristan Murail. Conducted by the composer, he recorded Peter Eötvös’ Cello Concerto to mark his 70th birthday in November 2014.</p>
+<p>Jean-Guihen Queyras was a founding member of the Arcanto Quartet and forms a celebrated trio with Isabelle Faust and Alexander Melnikov; the latter is, alongside Alexandre Tharaud, a regular accompanist. He has also collaborated with zarb specialists Bijan and Keyvan Chemirani on a Mediterranean programme.</p>
+<p>The versatility in his music-making has led to many concert halls, festivals and orchestras inviting Jean-Guihen to be Artist in Residence, including the Concertgebouw Amsterdam and the Festival d’Aix-en-Provence, Vredenburg Utrecht, De Bijloke Ghent, the Orchestre Philharmonique de Strasbourg and Wigmore Hall London.</p>
+<p>Jean-Guihen Queyras often appears with renowned orchestras such as the Philadelphia Orchestra, the Symphonieorchester des Bayerischen Rundfunks, Mahler Chamber Orchestra, the Orchestre de Paris, London Symphony Orchestra, the Gewandhausorchester and the Tonhalle Orchestra Zurich, working with conductors such as Iván Fischer, Philippe Herreweghe, Yannick Nézet-Séguin, François-Xavier Roth, Sir John Eliot Gardiner and Sir Roger Norrington.</p>
+<p>Jean-Guihen Queyras’ discography is impressive. His recordings of cello concertos by Edward Elgar, Antonín Dvořák, Philippe Schoeller and Gilbert Amy have been released to critical acclaim. As part of a harmonia mundi project dedicated to Schumann, he has recorded the complete piano trios with Isabelle Faust and Alexander Melnikov and at the same time the Schumann cello concerto with the Freiburg Baroque Orchestra under Pablo Heras-Casado. The recording “THRACE – Sunday Morning Sessions“ explores, in collaboration with the Chemirani brothers and Sokratis Sinopoulos, the intersections of contemporary music, improvisation and Mediterranean traditions. In 2018, two highly acclaimed recordings with works by Carl Philipp Emanuel Bach and Antonio Vivaldi have been released.</p>
+<p>Jean-Guihen Queyras holds a professorship at the University of Music Freiburg and is Artistic Director of the “Rencontres Musicales de Haute-Provence” festival in Forcalquier. He plays a 1696 instrument by Gioffredo Cappa, made available to him by the&nbsp;Mécénat Musical Société Générale.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="200" height="300" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2019/03/Javier-Perianes-C-Igor-Studio-3_200x300.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Javier Perianes</h1>
+								<p class="fcg-entry-header__subtitle">Piano</p>
+								<div class="tw-font-sans"><p>The international career of Javier Perianes has led him to perform in the most prestigious concert halls, with the world’s foremost orchestras, working with celebrated conductors including Daniel Barenboim, Charles Dutoit, Zubin Mehta, Gustavo Dudamel, Klaus Mäkelä, Gianandrea Noseda, Gustavo Gimeno, Santtu-Matias Rouvali, Simone Young and Vladimir Jurowski.</p>
+<p>The 2025/26 season features an array of high-profile concerts, including San Francisco, San Diego, Dallas and Baltimore symphony orchestras, Bamberger Symphoniker, Orquestra Sinfônica do Estado de São Paulo, Orquestra Sinfónica de Castilla y León, Teatro Real and Orchestre Philharmonique de Monte Carlo, Sydney and Tasmanian symphony orchestras. Perianes returns to Orquestra de la Comunitat Valencia to play-direct all five Beethoven Concerti, and concludes the play-direct Beethoven cycle with the Galicia Symphony Orchestra.</p>
+<p>Perianes frequently appears in recitals across the globe, with performances this season at Heidelberger Frühling, Gulbenkian, Ostrava, Barcelona, Alicante, Scherzo Madrid, Bozar, Liege, Künzelsau and Sydney Opera House. He also appears at prestigious festivals such as the BBC Proms, Lucerne Festival, Argerich Festival, Salzburg Whitsun, La Roque d’Anthéron, Grafenegg, Prague Spring, Ravello, Stresa, San Sebastián, Santander, Granada, Vail, Blossom, Ravinia, and the Canary Island Music Festival. As a natural and keen chamber musician, he regularly collaborates with violist Tabea Zimmermann. The duo will tour Germany and North America including dates at Carnegie Hall, Montreal Salle Bourgie, Princeton, Club Musical de Quebec, and Library of Congress.</p>
+<p>Career highlights have included concerts with Wiener Philhamoniker, Leipzig Gewandhausorchester, Chicago, Boston, San Francisco, Washington’s National, Yomiuri Nippon and Danish National symphony orchestras, Oslo, London, New York, Los Angeles and Czech Philharmonic orchestras, Orchestre de Paris, Cleveland, Orchestre Symphonique de Montréal and Swedish and Norwegian Radio orchestras, Mahler Chamber Orchestra and Budapest Festival Orchestra.</p>
+<p>Perianes exclusively records for harmonia mundi. His most recent releases feature a selection of Scarlatti’s Sonatas, Granados’ Goyescas, and Chopin’s Sonatas No.2 and No.3 interspersed with the three Mazurkas from Op.63. In 2025, Euroarts released a documentary recorded with Perianes at the Reales Alcazares in Seville, showing the special relationship between Scarlatti and Albéniz, linked to the city of Seville.</p>
+<p>Perianes was awarded the National Music Prize in 2012 by the Ministry of Culture of Spain and named Artist of the Year at the International Classical Music Awards (ICMA) in 2019.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="533" height="800" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525.jpg 533w, https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525-200x300.jpg 200w, https://gulbenkian.pt/wp-content/uploads/sites/3/2022/01/Jean-Guihen-Queyras-C-Arturs-Kondrats_350x525-288x432.jpg 288w" sizes="(max-width: 533px) 100vw, 533px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Jean-Guihen Queyras</h1>
+								<p class="fcg-entry-header__subtitle">Cello</p>
+								<div class="tw-font-sans"><p>Curiosity, diversity and a firm focus on the music itself characterize the artistic work of Jean-Guihen Queyras. Whether on stage or on record, one experiences an artist dedicated completely and passionately to the music, whose humble and quite unpretentious treatment of the score reflects its clear, undistorted essence. The inner motivations of composer, performer and audience must all be in tune with one another in order to bring about an outstanding concert experience.</p>
+<p>Jean-Guihen Queyras learnt this interpretative approach from Pierre Boulez, with whom he established a long artistic partnership. This philosophy, alongside a flawless technique and a clear, engaging tone, also shapes Jean-Guihen Queyras’ approach to every performance and his absolute commitment to the music itself.</p>
+<p>His approaches to early music – as in his collaborations with the Freiburg Baroque Orchestra and the Akademie für Alte Musik Berlin – and to contemporary music are equally thorough. He has given world premieres of works by, among others, Ivan Fedele, Gilbert Amy, Bruno Mantovani, Michael Jarrell, Johannes-Maria Staud, Thomas Larcher and Tristan Murail. Conducted by the composer, he recorded Peter Eötvös’ Cello Concerto to mark his 70th birthday in November 2014.</p>
+<p>Jean-Guihen Queyras was a founding member of the Arcanto Quartet and forms a celebrated trio with Isabelle Faust and Alexander Melnikov; the latter is, alongside Alexandre Tharaud, a regular accompanist. He has also collaborated with zarb specialists Bijan and Keyvan Chemirani on a Mediterranean programme.</p>
+<p>The versatility in his music-making has led to many concert halls, festivals and orchestras inviting Jean-Guihen to be Artist in Residence, including the Concertgebouw Amsterdam and the Festival d’Aix-en-Provence, Vredenburg Utrecht, De Bijloke Ghent, the Orchestre Philharmonique de Strasbourg and Wigmore Hall London.</p>
+<p>Jean-Guihen Queyras often appears with renowned orchestras such as the Philadelphia Orchestra, the Symphonieorchester des Bayerischen Rundfunks, Mahler Chamber Orchestra, the Orchestre de Paris, London Symphony Orchestra, the Gewandhausorchester and the Tonhalle Orchestra Zurich, working with conductors such as Iván Fischer, Philippe Herreweghe, Yannick Nézet-Séguin, François-Xavier Roth, Sir John Eliot Gardiner and Sir Roger Norrington.</p>
+<p>Jean-Guihen Queyras’ discography is impressive. His recordings of cello concertos by Edward Elgar, Antonín Dvořák, Philippe Schoeller and Gilbert Amy have been released to critical acclaim. As part of a harmonia mundi project dedicated to Schumann, he has recorded the complete piano trios with Isabelle Faust and Alexander Melnikov and at the same time the Schumann cello concerto with the Freiburg Baroque Orchestra under Pablo Heras-Casado. The recording “THRACE – Sunday Morning Sessions“ explores, in collaboration with the Chemirani brothers and Sokratis Sinopoulos, the intersections of contemporary music, improvisation and Mediterranean traditions. In 2018, two highly acclaimed recordings with works by Carl Philipp Emanuel Bach and Antonio Vivaldi have been released.</p>
+<p>Jean-Guihen Queyras holds a professorship at the University of Music Freiburg and is Artistic Director of the “Rencontres Musicales de Haute-Provence” festival in Forcalquier. He plays a 1696 instrument by Gioffredo Cappa, made available to him by the&nbsp;Mécénat Musical Société Générale.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/43_Tabea-Zimmermann%E2%80%94Jean-Guihen-Queyras%E2%80%94Javier-Perianes_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Concert Gulbenkian Orchestra Soloists 15 Feb 2027 / 20:00]]></title>
             <link>https://gulbenkian.pt/en/agenda/gulbenkian-orchestra-soloists-57/</link>
@@ -5102,126 +5394,6 @@ How are applications assessed?				</h4>
 	<li>contribution to strengthening Portuguese think tanks and to knowledge on international affairs (30%);</li>
 	<li>expected impact and reach (25%);</li>
 	<li>appropriateness of the budget (15%).</li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Grants արդ եւս|in view 2026-2027 Supporting creative minds to develop contemporary cultural initiatives conceived and implemented in the Western Armenian language. 17 Nov 2026 – 07 Mar 2027]]></title>
-            <link>https://gulbenkian.pt/en/bolsas-lista/%d5%a1%d6%80%d5%a4-%d5%a5%d6%82%d5%bdin-view/</link>
-            <guid isPermaLink="false">b85bc15de927c6a12254a26df936ae41c599b6fdd1d79e4d899432209698932d</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>The aim of this grant programme is to give creative minds the chance to develop contemporary cultural initiatives conceived and implemented in the Western Armenian language.</p>
-<p>Steering away from conventional modes of artistic support, this cycle repositions culture as an active laboratory for societal reinvention, one where bold expression directly intersects with civic imagination and real-world impact. We are looking for initiatives that test emerging creative technologies, experiment with decentralized storytelling, build equitable dialogue across deep societal fractures, and give voice to underrepresented perspectives through brave, participatory methods.</p>
-<p>Submissions will be evaluated by a committee made up of Gulbenkian Foundation staff, with input from external experts where appropriate. Results will be communicated within six weeks following the submission deadline.</p>
-<h2>Priorities of արդ եւս | in view</h2>
-<ul class="list-format-bar">
-<li>Celebrate creativity in Western Armenian.</li>
-<li>Enhance the intrinsic relationship between language and culture, ensuring the evolution of both.</li>
-<li>Highlight the cohesive power of culture.</li>
-<li>Enhance lifelong practices for a sustainable Western Armenian culture.</li>
-<li>Ensure the vitality of different Armenian communities through culture.</li>
-<li>Give visibility to innovative cultural practices taking place all over the Armenian world.</li>
-<li>Promote gender balance and inclusion in cultural participation.</li>
-<li>Include the youth and new cultural practices in shaping our common cultural environment and identity.</li>
-<li>Create open, inclusive spaces for everyone to take part in cultural creation and preservation.</li>
-<li>Address global challenges and foster intercultural dialogue through Western Armenian.</li>
-<li>Use culture as a catalyst for critical thinking, pluralism, social transformation, and civic engagement.</li>
-</ul>
-<h2 class="fcg-section__title" id="eligibility">
-			<span>Eligibility</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>This call for proposals is open to all individuals and organisations wishing to engage in cultural production in Western Armenian across the Diaspora and in Armenia, within the framework of the programme’s core priorities.</p>
-<p>The արդ եւս | in view programme welcomes submissions from individuals, small groups, and non-profit organisations or institutions. All applicants must be over 18 years of age. For-profit entities are not eligible. Applicants are not required to be established artists.</p>
-<p>Up to 10 projects will be supported each year, each receiving a maximum grant of €10,000.</p>
-<h2 class="fcg-section__title" id="how-to-apply">
-			<span>How to Apply</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>We only accept online applications.</li>
-	<li>You need to register before applying.</li>
-	<li>Please read the “Call for Proposals” document available in the documents section above before applying.</li>
-	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded.&nbsp;</li>
-	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.</li>
-</ul>]]></description>
-            <content:encoded><![CDATA[<p>The aim of this grant programme is to give creative minds the chance to develop contemporary cultural initiatives conceived and implemented in the Western Armenian language.</p>
-<p>Steering away from conventional modes of artistic support, this cycle repositions culture as an active laboratory for societal reinvention, one where bold expression directly intersects with civic imagination and real-world impact. We are looking for initiatives that test emerging creative technologies, experiment with decentralized storytelling, build equitable dialogue across deep societal fractures, and give voice to underrepresented perspectives through brave, participatory methods.</p>
-<p>Submissions will be evaluated by a committee made up of Gulbenkian Foundation staff, with input from external experts where appropriate. Results will be communicated within six weeks following the submission deadline.</p>
-<h2>Priorities of արդ եւս | in view</h2>
-<ul class="list-format-bar">
-<li>Celebrate creativity in Western Armenian.</li>
-<li>Enhance the intrinsic relationship between language and culture, ensuring the evolution of both.</li>
-<li>Highlight the cohesive power of culture.</li>
-<li>Enhance lifelong practices for a sustainable Western Armenian culture.</li>
-<li>Ensure the vitality of different Armenian communities through culture.</li>
-<li>Give visibility to innovative cultural practices taking place all over the Armenian world.</li>
-<li>Promote gender balance and inclusion in cultural participation.</li>
-<li>Include the youth and new cultural practices in shaping our common cultural environment and identity.</li>
-<li>Create open, inclusive spaces for everyone to take part in cultural creation and preservation.</li>
-<li>Address global challenges and foster intercultural dialogue through Western Armenian.</li>
-<li>Use culture as a catalyst for critical thinking, pluralism, social transformation, and civic engagement.</li>
-</ul>
-<h2 class="fcg-section__title" id="eligibility">
-			<span>Eligibility</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>This call for proposals is open to all individuals and organisations wishing to engage in cultural production in Western Armenian across the Diaspora and in Armenia, within the framework of the programme’s core priorities.</p>
-<p>The արդ եւս | in view programme welcomes submissions from individuals, small groups, and non-profit organisations or institutions. All applicants must be over 18 years of age. For-profit entities are not eligible. Applicants are not required to be established artists.</p>
-<p>Up to 10 projects will be supported each year, each receiving a maximum grant of €10,000.</p>
-<h2 class="fcg-section__title" id="how-to-apply">
-			<span>How to Apply</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Close</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>We only accept online applications.</li>
-	<li>You need to register before applying.</li>
-	<li>Please read the “Call for Proposals” document available in the documents section above before applying.</li>
-	<li>Your application will only be valid after all the mandatory fields of the application form are complete and the mandatory documents are uploaded.&nbsp;</li>
-	<li>At the end click on the “Submit” button. We strongly advise candidates not to wait until the last few days before applying.</li>
 </ul>]]></content:encoded>
         </item>
         <item>
