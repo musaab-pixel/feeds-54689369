@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 17:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 18:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الشرطة البريطانية: الجيش الأمريكي تسلم أحد أفراده بعدما اعتقلناه قبل أسبوع…]]></title>
+            <link>https://t.me/aljazeeraBrk/244943</link>
+            <guid isPermaLink="false">4bb198b4d332c92fcb22faacf630f146d80575bc0d3bd27b7980de808b1ae6ac</guid>
+            <pubDate>Tue, 17 Nov 2026 18:44:02 GMT</pubDate>
+            <description><![CDATA[الشرطة البريطانية: الجيش الأمريكي تسلم أحد أفراده بعدما اعتقلناه  قبل أسبوع بشبهات تتعلق بالأمن القومي والتجسس]]></description>
+            <content:encoded><![CDATA[الشرطة البريطانية: الجيش الأمريكي تسلم أحد أفراده بعدما اعتقلناه  قبل أسبوع بشبهات تتعلق بالأمن القومي والتجسس]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا محطتي ضخ في خط شرق غرب للنفط…]]></title>
             <link>https://t.me/aljazeeraBrk/244942</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 12:17:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الحكومة العراقية: هناك تنسيق مع إقليم كردستان ومؤشرات على التعاون معنا بتعقب شبهات تهريب النفط]]></description>
             <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية: هناك تنسيق مع إقليم كردستان ومؤشرات على التعاون معنا بتعقب شبهات تهريب النفط]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الحكومة العراقية: هناك إمكانية دخول قوات الجيش إلى مناطق إقليم…]]></title>
-            <link>https://t.me/aljazeeraBrk/244743</link>
-            <guid isPermaLink="false">d0ad0ebc179963a7915f927d7d225b1ba0315c893dafee4eec1bbd8df8c0c690</guid>
-            <pubDate>Mon, 16 Nov 2026 12:16:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الحكومة العراقية: هناك إمكانية دخول قوات الجيش إلى مناطق إقليم كردستان]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية: هناك إمكانية دخول قوات الجيش إلى مناطق إقليم كردستان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
