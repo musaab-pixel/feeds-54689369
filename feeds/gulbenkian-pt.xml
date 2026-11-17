@@ -4,10 +4,130 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Mon, 16 Nov 2026 16:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 00:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Apoios արդ եւս|in view 2026-2027 Apoio a iniciativas culturais contemporâneas concebidas e implementadas em arménio ocidental. até 07 mar 2027 Candidatura aberta]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/%d5%a1%d6%80%d5%a4-%d5%a5%d6%82%d5%bdin-view/</link>
+            <guid isPermaLink="false">2bff007c961503e0ca8ea0b08b98908bc93d9229b12c2d79751521501dab392c</guid>
+            <pubDate>Sun, 07 Mar 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Este apoio tem como objetivo promover iniciativas culturais contemporâneas, concebidas e implementadas em Arménio Ocidental.</p>
+<p>Afastando-se dos modelos convencionais de apoio às artes, este ciclo reposiciona a cultura como um laboratório ativo de reinvenção da sociedade, onde a expressão ousada se cruza diretamente com a imaginação cívica e com o impacto. Procuramos iniciativas que explorem tecnologias criativas emergentes, experimentem novas formas de narrativa descentralizada, promovam um diálogo equitativo e deem voz a perspetivas sub-representadas através de métodos participativos e inovadores.</p>
+<p>As candidaturas serão avaliadas por um júri composto por membros da Fundação Calouste Gulbenkian, com o contributo de especialistas externos sempre que necessário. Os resultados serão comunicados até seis semanas após o prazo de candidatura.</p>
+<h2>Prioridades do արդ եւս | in view</h2>
+<ul class="list-format-bar">
+<li>Celebrar a criatividade em arménio ocidental.</li>
+<li>Reforçar a relação intrínseca entre língua e cultura, garantindo a evolução de ambas.</li>
+<li>Valorizar o poder coesivo da cultura.</li>
+<li>Promover práticas sustentáveis para uma cultura arménia ocidental duradoura.</li>
+<li>Garantir a vitalidade das diversas comunidades arménias através da cultura.</li>
+<li>Dar visibilidade a práticas culturais inovadoras no mundo arménio.</li>
+<li>Promover o equilíbrio de género e a inclusão na participação cultural.</li>
+<li>Envolver os jovens e novas práticas culturais na construção de um ambiente e identidade cultural comuns.</li>
+<li>Criar espaços abertos e inclusivos para a participação de todas as pessoas na criação e preservação cultural.</li>
+<li>Abordar desafios globais e fomentar o diálogo intercultural através do arménio ocidental.</li>
+<li>Usar a cultura como catalisador do pensamento crítico, do pluralismo, da transformação social e do envolvimento cívico.</li>
+</ul>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Este concurso é destinado a todas as pessoas e organizações que queiram desenvolver iniciativas culturais em arménio ocidental, tanto na Diáspora como na Arménia, no âmbito das prioridades centrais do programa.</p>
+<p>O programa արդ եւս | in view acolhe candidaturas de indivíduos, pequenos grupos e organizações ou instituições sem fins lucrativos. Todos os candidatos devem ter mais de 18 anos. Entidades com fins lucrativos não são elegíveis. Não é necessário que os candidatos sejam artistas estabelecidos.</p>
+<p>Serão apoiados até 10 projetos por ano, com um apoio máximo de 10 000 € por projeto.</p>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Só serão aceites candidaturas online.</li>
+	<li>Faça o seu registo.</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de documentos).</li>
+	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o upload da documentação exigida no Regulamento.</li>
+	<li>No final, clicar no botão “submeter candidatura”. De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>]]></description>
+            <content:encoded><![CDATA[<p>Este apoio tem como objetivo promover iniciativas culturais contemporâneas, concebidas e implementadas em Arménio Ocidental.</p>
+<p>Afastando-se dos modelos convencionais de apoio às artes, este ciclo reposiciona a cultura como um laboratório ativo de reinvenção da sociedade, onde a expressão ousada se cruza diretamente com a imaginação cívica e com o impacto. Procuramos iniciativas que explorem tecnologias criativas emergentes, experimentem novas formas de narrativa descentralizada, promovam um diálogo equitativo e deem voz a perspetivas sub-representadas através de métodos participativos e inovadores.</p>
+<p>As candidaturas serão avaliadas por um júri composto por membros da Fundação Calouste Gulbenkian, com o contributo de especialistas externos sempre que necessário. Os resultados serão comunicados até seis semanas após o prazo de candidatura.</p>
+<h2>Prioridades do արդ եւս | in view</h2>
+<ul class="list-format-bar">
+<li>Celebrar a criatividade em arménio ocidental.</li>
+<li>Reforçar a relação intrínseca entre língua e cultura, garantindo a evolução de ambas.</li>
+<li>Valorizar o poder coesivo da cultura.</li>
+<li>Promover práticas sustentáveis para uma cultura arménia ocidental duradoura.</li>
+<li>Garantir a vitalidade das diversas comunidades arménias através da cultura.</li>
+<li>Dar visibilidade a práticas culturais inovadoras no mundo arménio.</li>
+<li>Promover o equilíbrio de género e a inclusão na participação cultural.</li>
+<li>Envolver os jovens e novas práticas culturais na construção de um ambiente e identidade cultural comuns.</li>
+<li>Criar espaços abertos e inclusivos para a participação de todas as pessoas na criação e preservação cultural.</li>
+<li>Abordar desafios globais e fomentar o diálogo intercultural através do arménio ocidental.</li>
+<li>Usar a cultura como catalisador do pensamento crítico, do pluralismo, da transformação social e do envolvimento cívico.</li>
+</ul>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>Este concurso é destinado a todas as pessoas e organizações que queiram desenvolver iniciativas culturais em arménio ocidental, tanto na Diáspora como na Arménia, no âmbito das prioridades centrais do programa.</p>
+<p>O programa արդ եւս | in view acolhe candidaturas de indivíduos, pequenos grupos e organizações ou instituições sem fins lucrativos. Todos os candidatos devem ter mais de 18 anos. Entidades com fins lucrativos não são elegíveis. Não é necessário que os candidatos sejam artistas estabelecidos.</p>
+<p>Serão apoiados até 10 projetos por ano, com um apoio máximo de 10 000 € por projeto.</p>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Só serão aceites candidaturas online.</li>
+	<li>Faça o seu registo.</li>
+	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de documentos).</li>
+	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o upload da documentação exigida no Regulamento.</li>
+	<li>No final, clicar no botão “submeter candidatura”. De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Concerto Solistas da Orquestra Gulbenkian 25 jan 2027 / 20:00]]></title>
             <link>https://gulbenkian.pt/agenda/solistas-da-orquestra-gulbenkian-69/</link>
@@ -1866,6 +1986,256 @@
             <enclosure url="https://gulbenkian.pt/wp-content/uploads/2026/05/Coloquio_ao-vivo_1200x900_1-576x432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Concerto Marie-Ange Nguci 14 fev 2027 / 18:00]]></title>
+            <link>https://gulbenkian.pt/agenda/marie-ange-nguci/</link>
+            <guid isPermaLink="false">a41962dfe09b10126f53b85b472a8a8614f98716c6b13077fdb1bb476265d0fe</guid>
+            <pubDate>Tue, 17 Nov 2026 00:18:49 GMT</pubDate>
+            <description><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>25% – Menores de 30<br>
+10% – Maiores de 65</p>
+<p>Cartão Gulbenkian:<br>
+50% – Menores de 30<br>
+20% – Maiores de 65<br>
+10% – 30 a 64</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Marie-Ange Nguci											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Ludwig van Beethoven</h4>
+<h4 class="fcg-programme__title">Maurice Ravel</h4>
+<h4 class="fcg-programme__title">Robert Schumann</h4>
+<h4 class="fcg-programme__title">Johannes Brahms</h4>
+<p>Um dos mais fulgurantes e entusiasmantes talentos pianísticos surgidos nas últimas décadas, Marie-Ange Nguci é cada vez mais um caso de virtuosismo acompanhado de uma insaciável curiosidade artística e uma invulgar intensidade interpretativa. A precocidade da pianista franco-albanesa levou a que começasse a apresentar-se nas maiores salas mundiais ainda adolescente, altura em que gravou o seu álbum de estreia <em>En Miroir</em> (2017). Tal posição seria depois reforçada graças a um amplo repertório, sinal da notável familiaridade com que aborda obras barrocas, clássicas, românticas ou contemporâneas.</p>
+<h3 class="fcg-sponsors__title">Mecenas Gulbenkian Música</h3>
+<h3 class="fcg-sponsors__title">Mecenas Ciclo de Piano</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></description>
+            <content:encoded><![CDATA[<h2 class="assist">Slider de Eventos</h2>
+<h4 class="assist">Data</h4>
+<ul class="fcg-event-schedule">
+					<li class="fcg-event-schedule__item">
+						<span x-cloak="" x-show="isCancelled()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Cancelado							</span>
+						</span>
+						<span x-show="isSoldOut()">
+							<span x-bind="sessionStartTime">
+								18:00							</span>
+							/
+							<span class="tw-text-red-500">
+								Esgotado							</span>
+						</span>
+						<span x-cloak="" x-show="!isSoldOut()">
+															<span x-bind="sessionDuration">
+									domingo, 18:00								</span>
+													</span>
+					</li>
+				</ul>
+<h4 class="assist">Local</h4>
+<h4 class="assist">Preço</h4>
+<p>25% – Menores de 30<br>
+10% – Maiores de 65</p>
+<p>Cartão Gulbenkian:<br>
+50% – Menores de 30<br>
+20% – Maiores de 65<br>
+10% – 30 a 64</p>
+<ul class="fcg-list-unstyled">
+							<li class="tw-mb-xs">
+									<span class="tw-mb-0 tw-text-lg">
+													Marie-Ange Nguci											</span>
+														<span class="tw-ml-xs tw-text-sm">Piano</span>
+									</li>
+					</ul>
+<h4 class="fcg-programme__title">Ludwig van Beethoven</h4>
+<h4 class="fcg-programme__title">Maurice Ravel</h4>
+<h4 class="fcg-programme__title">Robert Schumann</h4>
+<h4 class="fcg-programme__title">Johannes Brahms</h4>
+<p>Um dos mais fulgurantes e entusiasmantes talentos pianísticos surgidos nas últimas décadas, Marie-Ange Nguci é cada vez mais um caso de virtuosismo acompanhado de uma insaciável curiosidade artística e uma invulgar intensidade interpretativa. A precocidade da pianista franco-albanesa levou a que começasse a apresentar-se nas maiores salas mundiais ainda adolescente, altura em que gravou o seu álbum de estreia <em>En Miroir</em> (2017). Tal posição seria depois reforçada graças a um amplo repertório, sinal da notável familiaridade com que aborda obras barrocas, clássicas, românticas ou contemporâneas.</p>
+<h3 class="fcg-sponsors__title">Mecenas Gulbenkian Música</h3>
+<h3 class="fcg-sponsors__title">Mecenas Ciclo de Piano</h3>
+<p class="tw-text-xs tw-mb-0">
+		A Fundação Calouste Gulbenkian reserva-se o direito de recolher e conservar registos de imagens, sons e voz para a difusão e preservação da memória da sua atividade cultural e artística. Caso pretenda obter algum esclarecimento, poderá contactar-nos através do formulário <a href="https://gulbenkian.pt/pedido-informacao/" target="_blank">Pedido de Informação</a>.	</p>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/42_Marie-Ange-Nguci-C-Caroline-Doutre_4x3-1-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Concerto Solistas da Orquestra Gulbenkian 15 fev 2027 / 20:00]]></title>
+            <link>https://gulbenkian.pt/agenda/solistas-da-orquestra-gulbenkian-68/</link>
+            <guid isPermaLink="false">3f92b82a644ef026e5044a3db2bf70e414bf5012453f06db8b291e33ab963823</guid>
+            <pubDate>Tue, 17 Nov 2026 00:18:49 GMT</pubDate>
+            <description><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Ana Beatriz Manzanilla</h1>
+								<p class="fcg-entry-header__subtitle">Violino</p>
+								<div class="tw-font-sans"><p>Violinista venezuelana, membro da Orquestra Gulbenkian desde 1996. Fundadora e diretora artística da Camerata Atlântica, é também professora de violino na Escola Superior de Música de Lisboa.</p>
+<p>Em Portugal, tem desenvolvido variadas atividades musicais onde inclui um trabalho dinâmico na formação de jovens músicos, sendo a criadora e diretora do Concurso Nacional de Cordas Vasco Barbosa, iniciativa que rendeu uma homenagem em vida a este grande violinista português, convertendo o concurso numa referência musical a nível nacional. Desde 2013, é tutora do Estágio Gulbenkian para Orquestra. É convidada regularmente a trabalhar com a seção de cordas da Orquestra Sinfónica Juvenil e convidada a ministrar <em>masterclasses</em> de violino e orquestra de cordas em Academias e Conservatórios em diferentes cidades do país. É cofundadora do projeto Orquestra Geração. Desde 2018 colabora estreitamente com o Palácio Fronteira, em Lisboa, como diretora do Ciclo Jovens Talentos e do Festival de Música Fernando Mascarenhas. Em 2019 recebeu o Prémio Relevância na Comunidade, na área das Artes, outorgado pelo Instituto Politécnico de Lisboa.</p>
+<p>Em 2022 foi convidada a ministrar <em>masterclasses</em> de violino na Academy of Music and Drama da Universidade de Gotemburgo, na Suécia, e em 2023 foi convidada pelo XIV Festival Internacional de Campina Grande, no Brasil, como docente de violino e da orquestra da Universidade Federal de Campina Grande, e ainda para se apresentar em recital de violino e piano. Colaborou com a Orquestra Sinfónica do Porto Casa da Música como concertino adjunto e com a Orquestra Filarmónica de Munique.</p>
+<p>Ana Beatriz Manzanilla formou-se no <em>El Sistema </em>de Orquestras Juvenis da Venezuela. Conta no seu currículo com uma extensa atividade musical, tendo atuado em recitais e concertos acompanhada pelas orquestras mais importantes do seu país – como a Orquestra Sinfónica Simón Bolívar e a Orquestra Municipal de Caracas –, além da Orquestra Nacional do Panamá , a Orquestra da Juventude de Munique, a Philharmonique Rhodanien de França e, em Portugal, a Orquestra Gulbenkian, com os maestro Lawrence Foster e Simone Young, a Orquestra Sinfónica Portuguesa, com Julia Jones, a Orquestra do Norte, a Orquestra do Algarve, a Sinfonietta de Lisboa, a Orquestra de Cascais e Oeiras e a Orquestra Clássica do Centro. Apresentou-se em música de câmara na Colômbia, na Argentina, na Costa Rica e em Espanha, Itália, Inglaterra, Alemanha, Polónia, Hungria, Républica Checa e Bélgica.</p>
+<p>Nascida em Barquisimeto, Venezuela, estudou violino com o Professor José Francisco del Castillo. A partir de 1989 estudou na Alemanha e na Polónia, com Rony Rogoff, e na European Mozart Academy, em Cracóvia. Durante vários anos, fez parte da Orquestra Sinfónica de Lara (Venezuela) como concertino adjunto. Em Portugal foi concertino da Orquestra do Norte. Gravou dois discos de duos para Violino e Viola, com Pedro Saglimbeni Muñoz e, com a Orquestra Gulbenkian gravou o concerto em Sol maior de Mozart, no ano das comemorações dos 50 anos da orquestra. Com a Camerata Atlântica gravou vários discos, destacando-se a música de compositores portugueses, para a etiqueta Naxos.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Maria José Laginha</h1>
+								<p class="fcg-entry-header__subtitle">Violino</p>
+								<div class="tw-font-sans"><p>Maria José Laginha nasceu em Lisboa. Estudou na Fundação Musical dos Amigos das Crianças e na Escola Profissional Artística do Vale do Ave (Artave) com Filomena Cardoso, Leonor Prado, Alberto Gaio Lima e Suzanne Lidegran. Como bolseira da Fundação Calouste Gulbenkian, finalizou os seus estudos na Academia Nacional Superior de Orquestra na classe de Aníbal Lima. Ganhou o Prémio Jovens Músicos em 2005. Participou em cursos de aperfeiçoamento orientados por Christoph Schikedanz (Kissingen Sommer), Roman Nodel, Igor Oistrakh, Igor Volochine, Chistophe Poiget (Rencontres Musicales en Lorraine), Boris Kuniev, Daniel Rowland (Stift International Music Festival), Richard Gwilt (violino barroco), Alexei Mijlin e Felix Andrievsky.</p>
+<p>Durante os seus anos de formação, integrou várias orquestras juvenis como a Orquestra Juvenil da União Europeia ou a World Orchestra, tendo realizado digressões a nível mundial. Colaborou ainda com a Orquestra Aproarte, a Sinfonietta de Lisboa, a Lisbon Chamber Orchestra, a Orquestra Metropolitana de Lisboa e a Orquestra de Câmara Portuguesa e tocou a solo com a Orquestra Artave, a Filarmonia da Beiras e a Orquestra Gulbenkian. Integra a Camerata Atlântica desde a sua formação, em 2013. Foi docente da Orquestra Geração. É membro da Orquestra Gulbenkian desde 2007.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1536x1152.jpg 1536w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1200x900.jpg 1200w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Sara Moreira</h1>
+								<p class="fcg-entry-header__subtitle">Viola</p>
+								<div class="tw-font-sans"><p>Sara Moreira nasceu em Vila Nova de Famalicão em 1996. Iniciou os seus estudos musicais aos treze anos na Escola Profissional e Artística do Vale do Ave na classe de viola do professor António Pereira e da professora Teresa Correia. Mais tarde, concluiu a licenciatura na Universidade do Minho, tendo trabalhado com Mateusz Stasto, e o mestrado em interpretação na Staatliche Hochschule für Musik und Darstellende Kunst Mannheim. Foi premiada com o 3.º lugar no concurso “Paços Premium” (2012) e com o 2º lugar no Concurso de Música de Vila Verde (trio de cordas).</p>
+<p>Como membro de orquestra, teve a possibilidade de colaborar com a Orquestra Sinfónica do Porto - Casa da Música, a Orquestra XXI, a Orquestra de Câmara Portuguesa, a Jovem Orquestra Portuguesa, a Orquestra de Guimarães, a Sinfonietta de Braga, a Orquestra Clássica do Centro, a Orquestra da Costa Atlântica, a Orquestra Clássica de Espinho, a Deutsches Kammerorchester Berlin, a Joven Orquesta Nacional de España, a orquestra do Real Concertgebouw de Amesterdão ou a Orchestre de Picardie entre outras.</p>
+<p>No ano letivo 2020- 2021 foi bolseira da Fundação GDA. Como academista e mais tarde com contrato temporário, foi membro da orquestra Nürnberger Symphoniker, entre 2021 e 2023. Atualmente frequenta, em Mannheim, uma pós-graduação como solista de orquestra, na classe da professora Hideko Kobayashi.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Martin Henneken</h1>
+								<p class="fcg-entry-header__subtitle">Violoncelo</p>
+								<div class="tw-font-sans"><p>Martin Henneken recebeu as suas primeiras aulas de violoncelo aos seis anos de idade. Estudou na Musikhochschule Lübeck (Alemanha) com Troels Svane. Posteriormente ingressou na classe de Reinhard Latzko na Universidade de Música de Viena (Áustria) onde concluiu o Mestrado com distinção. Músicos como o violoncelista Lynn Harrell e o violinista Walter Levin (Quarteto Lassalle) complementaram a sua formação. Foi premiado várias vezes no Concurso Nacional Alemão para Jovens Músicos. Foi bolseiro da Fundação Live Music Now, criada por Yehudi Menuhin.</p>
+<p>Durante os seus estudos, colaborou regularmente com várias orquestras como a Filarmónica de Lübeck, a Orquestra da Volksoper Wien, a Sinfónica de Viena e a Sinfónica da Índia, Mumbai. Entre 2009 e 2010, integrou a Orquestra da Ópera Nacional de Viena (Filarmónica de Viena) com a qual teve a oportunidade de participar em gravações, digressões internacionais e festivais (Salzburgo, Lucerna, <em>BBC Proms</em>). Desde 2010, é 2.º Violoncelo Solista da Orquestra Gulbenkian.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></description>
+            <content:encoded><![CDATA[<ul class="fcg-media-modal__list">
+																				<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Ana-Beatriz-Manzanilla-4x3-1.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Ana Beatriz Manzanilla</h1>
+								<p class="fcg-entry-header__subtitle">Violino</p>
+								<div class="tw-font-sans"><p>Violinista venezuelana, membro da Orquestra Gulbenkian desde 1996. Fundadora e diretora artística da Camerata Atlântica, é também professora de violino na Escola Superior de Música de Lisboa.</p>
+<p>Em Portugal, tem desenvolvido variadas atividades musicais onde inclui um trabalho dinâmico na formação de jovens músicos, sendo a criadora e diretora do Concurso Nacional de Cordas Vasco Barbosa, iniciativa que rendeu uma homenagem em vida a este grande violinista português, convertendo o concurso numa referência musical a nível nacional. Desde 2013, é tutora do Estágio Gulbenkian para Orquestra. É convidada regularmente a trabalhar com a seção de cordas da Orquestra Sinfónica Juvenil e convidada a ministrar <em>masterclasses</em> de violino e orquestra de cordas em Academias e Conservatórios em diferentes cidades do país. É cofundadora do projeto Orquestra Geração. Desde 2018 colabora estreitamente com o Palácio Fronteira, em Lisboa, como diretora do Ciclo Jovens Talentos e do Festival de Música Fernando Mascarenhas. Em 2019 recebeu o Prémio Relevância na Comunidade, na área das Artes, outorgado pelo Instituto Politécnico de Lisboa.</p>
+<p>Em 2022 foi convidada a ministrar <em>masterclasses</em> de violino na Academy of Music and Drama da Universidade de Gotemburgo, na Suécia, e em 2023 foi convidada pelo XIV Festival Internacional de Campina Grande, no Brasil, como docente de violino e da orquestra da Universidade Federal de Campina Grande, e ainda para se apresentar em recital de violino e piano. Colaborou com a Orquestra Sinfónica do Porto Casa da Música como concertino adjunto e com a Orquestra Filarmónica de Munique.</p>
+<p>Ana Beatriz Manzanilla formou-se no <em>El Sistema </em>de Orquestras Juvenis da Venezuela. Conta no seu currículo com uma extensa atividade musical, tendo atuado em recitais e concertos acompanhada pelas orquestras mais importantes do seu país – como a Orquestra Sinfónica Simón Bolívar e a Orquestra Municipal de Caracas –, além da Orquestra Nacional do Panamá , a Orquestra da Juventude de Munique, a Philharmonique Rhodanien de França e, em Portugal, a Orquestra Gulbenkian, com os maestro Lawrence Foster e Simone Young, a Orquestra Sinfónica Portuguesa, com Julia Jones, a Orquestra do Norte, a Orquestra do Algarve, a Sinfonietta de Lisboa, a Orquestra de Cascais e Oeiras e a Orquestra Clássica do Centro. Apresentou-se em música de câmara na Colômbia, na Argentina, na Costa Rica e em Espanha, Itália, Inglaterra, Alemanha, Polónia, Hungria, Républica Checa e Bélgica.</p>
+<p>Nascida em Barquisimeto, Venezuela, estudou violino com o Professor José Francisco del Castillo. A partir de 1989 estudou na Alemanha e na Polónia, com Rony Rogoff, e na European Mozart Academy, em Cracóvia. Durante vários anos, fez parte da Orquestra Sinfónica de Lara (Venezuela) como concertino adjunto. Em Portugal foi concertino da Orquestra do Norte. Gravou dois discos de duos para Violino e Viola, com Pedro Saglimbeni Muñoz e, com a Orquestra Gulbenkian gravou o concerto em Sol maior de Mozart, no ano das comemorações dos 50 anos da orquestra. Com a Camerata Atlântica gravou vários discos, destacando-se a música de compositores portugueses, para a etiqueta Naxos.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Maria-Jose-Laginha-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Maria José Laginha</h1>
+								<p class="fcg-entry-header__subtitle">Violino</p>
+								<div class="tw-font-sans"><p>Maria José Laginha nasceu em Lisboa. Estudou na Fundação Musical dos Amigos das Crianças e na Escola Profissional Artística do Vale do Ave (Artave) com Filomena Cardoso, Leonor Prado, Alberto Gaio Lima e Suzanne Lidegran. Como bolseira da Fundação Calouste Gulbenkian, finalizou os seus estudos na Academia Nacional Superior de Orquestra na classe de Aníbal Lima. Ganhou o Prémio Jovens Músicos em 2005. Participou em cursos de aperfeiçoamento orientados por Christoph Schikedanz (Kissingen Sommer), Roman Nodel, Igor Oistrakh, Igor Volochine, Chistophe Poiget (Rencontres Musicales en Lorraine), Boris Kuniev, Daniel Rowland (Stift International Music Festival), Richard Gwilt (violino barroco), Alexei Mijlin e Felix Andrievsky.</p>
+<p>Durante os seus anos de formação, integrou várias orquestras juvenis como a Orquestra Juvenil da União Europeia ou a World Orchestra, tendo realizado digressões a nível mundial. Colaborou ainda com a Orquestra Aproarte, a Sinfonietta de Lisboa, a Lisbon Chamber Orchestra, a Orquestra Metropolitana de Lisboa e a Orquestra de Câmara Portuguesa e tocou a solo com a Orquestra Artave, a Filarmonia da Beiras e a Orquestra Gulbenkian. Integra a Camerata Atlântica desde a sua formação, em 2013. Foi docente da Orquestra Geração. É membro da Orquestra Gulbenkian desde 2007.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1536x1152.jpg 1536w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3-1200x900.jpg 1200w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/10/Sara-Moreira_4x3.jpg 1600w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Sara Moreira</h1>
+								<p class="fcg-entry-header__subtitle">Viola</p>
+								<div class="tw-font-sans"><p>Sara Moreira nasceu em Vila Nova de Famalicão em 1996. Iniciou os seus estudos musicais aos treze anos na Escola Profissional e Artística do Vale do Ave na classe de viola do professor António Pereira e da professora Teresa Correia. Mais tarde, concluiu a licenciatura na Universidade do Minho, tendo trabalhado com Mateusz Stasto, e o mestrado em interpretação na Staatliche Hochschule für Musik und Darstellende Kunst Mannheim. Foi premiada com o 3.º lugar no concurso “Paços Premium” (2012) e com o 2º lugar no Concurso de Música de Vila Verde (trio de cordas).</p>
+<p>Como membro de orquestra, teve a possibilidade de colaborar com a Orquestra Sinfónica do Porto - Casa da Música, a Orquestra XXI, a Orquestra de Câmara Portuguesa, a Jovem Orquestra Portuguesa, a Orquestra de Guimarães, a Sinfonietta de Braga, a Orquestra Clássica do Centro, a Orquestra da Costa Atlântica, a Orquestra Clássica de Espinho, a Deutsches Kammerorchester Berlin, a Joven Orquesta Nacional de España, a orquestra do Real Concertgebouw de Amesterdão ou a Orchestre de Picardie entre outras.</p>
+<p>No ano letivo 2020- 2021 foi bolseira da Fundação GDA. Como academista e mais tarde com contrato temporário, foi membro da orquestra Nürnberger Symphoniker, entre 2021 e 2023. Atualmente frequenta, em Mannheim, uma pós-graduação como solista de orquestra, na classe da professora Hideko Kobayashi.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																											<li class="fcg-media-modal__item tw-p-0">
+																<div class="tw-self-start tw-overflow-y-auto tw-w-full tw-h-full">
+				<div class="md:tw-mx-2xl">
+					<div class="fcg-container tw-py-3xl">
+						<div class="fcg-row">
+							<div class="fcg-col-md-4 md:tw-pr-xl"><img width="992" height="744" src="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg" class="attachment-original_lg size-original_lg" alt="" decoding="async" srcset="https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-992x744.jpg 992w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-300x225.jpg 300w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-1024x768.jpg 1024w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-768x576.jpg 768w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-288x216.jpg 288w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80-576x432.jpg 576w, https://gulbenkian.pt/wp-content/uploads/sites/3/2023/09/Martin-Henneken-80.jpg 1200w" sizes="(max-width: 992px) 100vw, 992px"></div>
+							<div class="fcg-col-md-8 tw-mt-lg md:tw-mt-0 md:tw-pl-0">
+								<h1 class="fcg-entry-header__title">Martin Henneken</h1>
+								<p class="fcg-entry-header__subtitle">Violoncelo</p>
+								<div class="tw-font-sans"><p>Martin Henneken recebeu as suas primeiras aulas de violoncelo aos seis anos de idade. Estudou na Musikhochschule Lübeck (Alemanha) com Troels Svane. Posteriormente ingressou na classe de Reinhard Latzko na Universidade de Música de Viena (Áustria) onde concluiu o Mestrado com distinção. Músicos como o violoncelista Lynn Harrell e o violinista Walter Levin (Quarteto Lassalle) complementaram a sua formação. Foi premiado várias vezes no Concurso Nacional Alemão para Jovens Músicos. Foi bolseiro da Fundação Live Music Now, criada por Yehudi Menuhin.</p>
+<p>Durante os seus estudos, colaborou regularmente com várias orquestras como a Filarmónica de Lübeck, a Orquestra da Volksoper Wien, a Sinfónica de Viena e a Sinfónica da Índia, Mumbai. Entre 2009 e 2010, integrou a Orquestra da Ópera Nacional de Viena (Filarmónica de Viena) com a qual teve a oportunidade de participar em gravações, digressões internacionais e festivais (Salzburgo, Lucerna, <em>BBC Proms</em>). Desde 2010, é 2.º Violoncelo Solista da Orquestra Gulbenkian.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>							</li>
+																		</ul>]]></content:encoded>
+            <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/06/05-15-fev-27_618653_Temporada-2025-2026_-Solistas-da-Orquestra-Gulbenkian-obras-de-Puccini-e-Golijov_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dzudza, de Idio Chichava 17 nov 2026 / 19:00]]></title>
             <link>https://gulbenkian.pt/agenda/dzudza-de-idio-chichava/</link>
             <guid isPermaLink="false">65b951bbf79194ce2e3ff7da5bc5e21e8e8df88ec0e75f3681648c9caaed8d38</guid>
@@ -2997,126 +3367,6 @@ Como são avaliadas as candidaturas?				</h4>
 	<li>Adequação do orçamento (15%)</li>
 </ul>
 <p>(Artigo 6.º, n.os 1 a 3)</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Apoios արդ եւս|in view 2026-2027 Apoio a iniciativas culturais contemporâneas concebidas e implementadas em arménio ocidental. 17 nov 2026 – 07 mar 2027]]></title>
-            <link>https://gulbenkian.pt/bolsas-lista/%d5%a1%d6%80%d5%a4-%d5%a5%d6%82%d5%bdin-view/</link>
-            <guid isPermaLink="false">2bff007c961503e0ca8ea0b08b98908bc93d9229b12c2d79751521501dab392c</guid>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Este apoio tem como objetivo promover iniciativas culturais contemporâneas, concebidas e implementadas em Arménio Ocidental.</p>
-<p>Afastando-se dos modelos convencionais de apoio às artes, este ciclo reposiciona a cultura como um laboratório ativo de reinvenção da sociedade, onde a expressão ousada se cruza diretamente com a imaginação cívica e com o impacto. Procuramos iniciativas que explorem tecnologias criativas emergentes, experimentem novas formas de narrativa descentralizada, promovam um diálogo equitativo e deem voz a perspetivas sub-representadas através de métodos participativos e inovadores.</p>
-<p>As candidaturas serão avaliadas por um júri composto por membros da Fundação Calouste Gulbenkian, com o contributo de especialistas externos sempre que necessário. Os resultados serão comunicados até seis semanas após o prazo de candidatura.</p>
-<h2>Prioridades do արդ եւս | in view</h2>
-<ul class="list-format-bar">
-<li>Celebrar a criatividade em arménio ocidental.</li>
-<li>Reforçar a relação intrínseca entre língua e cultura, garantindo a evolução de ambas.</li>
-<li>Valorizar o poder coesivo da cultura.</li>
-<li>Promover práticas sustentáveis para uma cultura arménia ocidental duradoura.</li>
-<li>Garantir a vitalidade das diversas comunidades arménias através da cultura.</li>
-<li>Dar visibilidade a práticas culturais inovadoras no mundo arménio.</li>
-<li>Promover o equilíbrio de género e a inclusão na participação cultural.</li>
-<li>Envolver os jovens e novas práticas culturais na construção de um ambiente e identidade cultural comuns.</li>
-<li>Criar espaços abertos e inclusivos para a participação de todas as pessoas na criação e preservação cultural.</li>
-<li>Abordar desafios globais e fomentar o diálogo intercultural através do arménio ocidental.</li>
-<li>Usar a cultura como catalisador do pensamento crítico, do pluralismo, da transformação social e do envolvimento cívico.</li>
-</ul>
-<h2 class="fcg-section__title" id="elegibilidade">
-			<span>Elegibilidade</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Fechar</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>Este concurso é destinado a todas as pessoas e organizações que queiram desenvolver iniciativas culturais em arménio ocidental, tanto na Diáspora como na Arménia, no âmbito das prioridades centrais do programa.</p>
-<p>O programa արդ եւս | in view acolhe candidaturas de indivíduos, pequenos grupos e organizações ou instituições sem fins lucrativos. Todos os candidatos devem ter mais de 18 anos. Entidades com fins lucrativos não são elegíveis. Não é necessário que os candidatos sejam artistas estabelecidos.</p>
-<p>Serão apoiados até 10 projetos por ano, com um apoio máximo de 10 000 € por projeto.</p>
-<h2 class="fcg-section__title" id="como-concorrer">
-			<span>Como concorrer</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Fechar</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>Só serão aceites candidaturas online.</li>
-	<li>Faça o seu registo.</li>
-	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de documentos).</li>
-	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o upload da documentação exigida no Regulamento.</li>
-	<li>No final, clicar no botão “submeter candidatura”. De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
-</ul>]]></description>
-            <content:encoded><![CDATA[<p>Este apoio tem como objetivo promover iniciativas culturais contemporâneas, concebidas e implementadas em Arménio Ocidental.</p>
-<p>Afastando-se dos modelos convencionais de apoio às artes, este ciclo reposiciona a cultura como um laboratório ativo de reinvenção da sociedade, onde a expressão ousada se cruza diretamente com a imaginação cívica e com o impacto. Procuramos iniciativas que explorem tecnologias criativas emergentes, experimentem novas formas de narrativa descentralizada, promovam um diálogo equitativo e deem voz a perspetivas sub-representadas através de métodos participativos e inovadores.</p>
-<p>As candidaturas serão avaliadas por um júri composto por membros da Fundação Calouste Gulbenkian, com o contributo de especialistas externos sempre que necessário. Os resultados serão comunicados até seis semanas após o prazo de candidatura.</p>
-<h2>Prioridades do արդ եւս | in view</h2>
-<ul class="list-format-bar">
-<li>Celebrar a criatividade em arménio ocidental.</li>
-<li>Reforçar a relação intrínseca entre língua e cultura, garantindo a evolução de ambas.</li>
-<li>Valorizar o poder coesivo da cultura.</li>
-<li>Promover práticas sustentáveis para uma cultura arménia ocidental duradoura.</li>
-<li>Garantir a vitalidade das diversas comunidades arménias através da cultura.</li>
-<li>Dar visibilidade a práticas culturais inovadoras no mundo arménio.</li>
-<li>Promover o equilíbrio de género e a inclusão na participação cultural.</li>
-<li>Envolver os jovens e novas práticas culturais na construção de um ambiente e identidade cultural comuns.</li>
-<li>Criar espaços abertos e inclusivos para a participação de todas as pessoas na criação e preservação cultural.</li>
-<li>Abordar desafios globais e fomentar o diálogo intercultural através do arménio ocidental.</li>
-<li>Usar a cultura como catalisador do pensamento crítico, do pluralismo, da transformação social e do envolvimento cívico.</li>
-</ul>
-<h2 class="fcg-section__title" id="elegibilidade">
-			<span>Elegibilidade</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Fechar</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<p>Este concurso é destinado a todas as pessoas e organizações que queiram desenvolver iniciativas culturais em arménio ocidental, tanto na Diáspora como na Arménia, no âmbito das prioridades centrais do programa.</p>
-<p>O programa արդ եւս | in view acolhe candidaturas de indivíduos, pequenos grupos e organizações ou instituições sem fins lucrativos. Todos os candidatos devem ter mais de 18 anos. Entidades com fins lucrativos não são elegíveis. Não é necessário que os candidatos sejam artistas estabelecidos.</p>
-<p>Serão apoiados até 10 projetos por ano, com um apoio máximo de 10 000 € por projeto.</p>
-<h2 class="fcg-section__title" id="como-concorrer">
-			<span>Como concorrer</span>
-
-						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
-				<span x-show="open" class="assist">Fechar</span>
-				<span x-show="!open" class="assist">Open</span>
-				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M15.41 302.7l191.1-183.1C212 114.2 218 111.1 224 111.1s11.97 2.219 16.59 6.688l191.1 183.1c9.594 9.152 9.906 24.34 .7187 33.9c-9.125 9.625-24.38 9.938-33.91 .7187L224 169.2l-175.4 168c-9.5 9.219-24.78 8.906-33.91-.7187C5.502 327 5.814 311.8 15.41 302.7z"></path></svg>
-</span>
-				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
-		<path d="M432.6 209.3l-191.1 183.1C235.1 397.8 229.1 400 224 400s-11.97-2.219-16.59-6.688L15.41 209.3C5.814 200.2 5.502 184.1 14.69 175.4c9.125-9.625 24.38-9.938 33.91-.7187L224 342.8l175.4-168c9.5-9.219 24.78-8.906 33.91 .7187C442.5 184.1 442.2 200.2 432.6 209.3z"></path></svg>
-</span>
-			</button>
-			
-		</h2>
-<ul class="list-format-bar">
-	<li>Só serão aceites candidaturas online.</li>
-	<li>Faça o seu registo.</li>
-	<li>Antes de submeter o formulário de candidatura, verifique todos os critérios de elegibilidade. Aconselhamos a leitura do Regulamento (disponível na zona de documentos).</li>
-	<li>A candidatura só será submissível depois de preenchidos todos os campos obrigatórios do formulário e feito o upload da documentação exigida no Regulamento.</li>
-	<li>No final, clicar no botão “submeter candidatura”. De forma a prevenir dificuldades na submissão das candidaturas, evite submeter a sua candidatura nos últimos dias do prazo.</li>
-</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Conferência Entre Mapas 16 nov 2026 / 14:30]]></title>
