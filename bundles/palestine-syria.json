@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "f9a17fa0d83910b39e4000102906abbd3464fc90ddee209d8b31897a68271133",
+            "content_html": "مراسل الجزيرة: دوي انفجارات متتالية في العاصمة الأوكرانية كييف في ظل تفعيل صفارات الإنذار",
+            "url": "https://t.me/aljazeeraBrk/244811",
+            "title": "مراسل الجزيرة: دوي انفجارات متتالية في العاصمة الأوكرانية كييف في ظل تفعيل…",
+            "summary": "مراسل الجزيرة: دوي انفجارات متتالية في العاصمة الأوكرانية كييف في ظل تفعيل صفارات الإنذار",
+            "date_modified": "2026-11-17T03:45:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "1c91437743f3f78c474c0406eeb08f97998bf331a144963d6265e335cd1a29fc",
             "content_html": "فانس لفوكس نيوز: لن نسمح بتحول الحرب على إيران إلى التزام عسكري يمتد 10 أو 15 عاما أو حتى عامين",
             "url": "https://t.me/aljazeeraBrk/244810",
@@ -1627,17 +1638,6 @@
             "date_modified": "2026-11-16T06:24:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "4f971d73567163da9420cb43dc1cf76c76d44d6a31bb67038aab5955ddc68083",
-            "content_html": "إصابة 23 شخصًا جراء 22 حادث سير في عموم سوريا يوم أمس الأحد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/142949",
-            "title": "إصابة 23 شخصًا جراء 22 حادث سير في عموم سوريا يوم أمس الأحد لمتابعة أحدث…",
-            "summary": "إصابة 23 شخصًا جراء 22 حادث سير في عموم سوريا يوم أمس الأحد<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-16T06:22:27.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
             }
         }
     ]
