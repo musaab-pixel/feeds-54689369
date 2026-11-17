@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 05:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 05:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: استهداف مؤسسات المجمع الصناعي العسكري لإنتاج صواريخ…]]></title>
+            <link>https://t.me/aljazeeraBrk/244814</link>
+            <guid isPermaLink="false">896737e328d065c54553d403f07780b670ba658909d619362a1a411798382016</guid>
+            <pubDate>Tue, 17 Nov 2026 05:33:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: استهداف مؤسسات المجمع الصناعي العسكري لإنتاج صواريخ ومسيرات في كييف وزابوروجيا]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: استهداف مؤسسات المجمع الصناعي العسكري لإنتاج صواريخ ومسيرات في كييف وزابوروجيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الخارجية العماني: أكدت مع وزير الخارجية الإيراني أهمية الحوار والتشاور…]]></title>
             <link>https://t.me/aljazeeraBrk/244813</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 15 Nov 2026 03:40:02 GMT</pubDate>
             <description><![CDATA[وول ستريت جورنال عن إدارة الطيران الفيدرالي: تعطل نظام الاتصال الأخير بدأ عقب تركيب جهاز توجيه جديد في أركنسو]]></description>
             <content:encoded><![CDATA[وول ستريت جورنال عن إدارة الطيران الفيدرالي: تعطل نظام الاتصال الأخير بدأ عقب تركيب جهاز توجيه جديد في أركنسو]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وول ستريت جورنال عن إدارة الطيران الفيدرالي: عقب تركيب جهاز التوجيه الجديد حدث…]]></title>
-            <link>https://t.me/aljazeeraBrk/244615</link>
-            <guid isPermaLink="false">7e9e23b64da655d6914667a681300d0c6795e8ea9ddc62caf0ff3ec5133f088a</guid>
-            <pubDate>Sun, 15 Nov 2026 03:40:02 GMT</pubDate>
-            <description><![CDATA[وول ستريت جورنال عن إدارة الطيران الفيدرالي: عقب تركيب جهاز التوجيه الجديد حدث تدفق غير طبيعي للبيانات]]></description>
-            <content:encoded><![CDATA[وول ستريت جورنال عن إدارة الطيران الفيدرالي: عقب تركيب جهاز التوجيه الجديد حدث تدفق غير طبيعي للبيانات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
