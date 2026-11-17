@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 14:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 14:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر عراقي مسؤول للجزيرة: اللجنة القضائية لم تتوصل إلى اتفاق مع الفصائل لدخول…]]></title>
+            <link>https://t.me/aljazeeraBrk/244917</link>
+            <guid isPermaLink="false">427aef0e93574fdddd3d55551f31dae9b8190f3121a6c3430d1471b6d1ecd666</guid>
+            <pubDate>Tue, 17 Nov 2026 14:29:02 GMT</pubDate>
+            <description><![CDATA[مصدر عراقي مسؤول للجزيرة: اللجنة القضائية لم تتوصل إلى اتفاق مع الفصائل لدخول منطقة الجرف في بابل]]></description>
+            <content:encoded><![CDATA[مصدر عراقي مسؤول للجزيرة: اللجنة القضائية لم تتوصل إلى اتفاق مع الفصائل لدخول منطقة الجرف في بابل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إحصاء لرويترز: أكثر من 8000 بلاغ كاذب بوجود قنابل أرسلت لمؤسسات وشركات بجميع…]]></title>
             <link>https://t.me/aljazeeraBrk/244916</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 07:19:01 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن استهداف ناقلة نفط بمقذوف مجهول في مضيق هرمز]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: تلقينا بلاغا عن استهداف ناقلة نفط بمقذوف مجهول في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في مستشفى الشفاء: شهيد برصاص قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع…]]></title>
-            <link>https://t.me/aljazeeraBrk/244717</link>
-            <guid isPermaLink="false">866214e637acec359dd78aebad82b4e820b6b7b8455b5ec1826d9008fc78861f</guid>
-            <pubDate>Mon, 16 Nov 2026 06:49:02 GMT</pubDate>
-            <description><![CDATA[مصدر في مستشفى الشفاء: شهيد برصاص قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في مستشفى الشفاء: شهيد برصاص قوات الاحتلال الإسرائيلي في جباليا شمالي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
