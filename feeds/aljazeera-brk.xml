@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 11:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 12:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية غرب مخيم جباليا…]]></title>
+            <link>https://t.me/aljazeeraBrk/244896</link>
+            <guid isPermaLink="false">69033ccb93e592a28b32d0dce446e3b881bfba7bebac772b9903393b39bb14d7</guid>
+            <pubDate>Tue, 17 Nov 2026 12:05:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية غرب مخيم جباليا شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة من مسيرة إسرائيلية غرب مخيم جباليا شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس لجنة الدفاع في البوندستاغ للجزيرة: لن نتمكن من ضمان السلام في أوروبا إلا…]]></title>
             <link>https://t.me/aljazeeraBrk/244895</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 04:24:02 GMT</pubDate>
             <description><![CDATA[هآرتس عن مصادر: الاتصالات بين حزب يهدوت هتوراة وممثلين عن كتلة آيزنكوت تحقق تقدما سريعا وتجري في ظل سرية تامة]]></description>
             <content:encoded><![CDATA[هآرتس عن مصادر: الاتصالات بين حزب يهدوت هتوراة وممثلين عن كتلة آيزنكوت تحقق تقدما سريعا وتجري في ظل سرية تامة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[معاريف عن مصدر أمني: رئيس الموساد ناقش في واشنطن التهديدات التي تواجه أمن…]]></title>
-            <link>https://t.me/aljazeeraBrk/244696</link>
-            <guid isPermaLink="false">a202d4880a29e526c241f50b14d1abd39af949e17385d4919f972eade63f0a13</guid>
-            <pubDate>Mon, 16 Nov 2026 04:23:02 GMT</pubDate>
-            <description><![CDATA[معاريف عن مصدر أمني: رئيس الموساد ناقش في واشنطن التهديدات التي تواجه أمن إسرائيل بسبب إيران]]></description>
-            <content:encoded><![CDATA[معاريف عن مصدر أمني: رئيس الموساد ناقش في واشنطن التهديدات التي تواجه أمن إسرائيل بسبب إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
