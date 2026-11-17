@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "ce9c4a15fec925d69433a551782e0dbc50f124df8c33b319e4ed25ecc12e97c7",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mehrheit der Lehrkräfte befürwortet verpflichtende Arbeitszeiterfassung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-17T10:30:00+01:00\" title=\"Dienstag, 17 November 2026 - 10:30\" class=\"datetime\">Di. 17 Nov 2026 - 10:30</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/presse/mehrheit-der-lehrkraefte-befuerwortet-verpflichtende-arbeitszeiterfassung",
+            "title": "Mehrheit der Lehrkräfte befürwortet verpflichtende Arbeitszeiterfassung",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mehrheit der Lehrkräfte befürwortet verpflichtende Arbeitszeiterfassung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-17T10:30:00+01:00\" title=\"Dienstag, 17 November 2026 - 10:30\" class=\"datetime\">Di. 17 Nov 2026 - 10:30</time>\n</span>\n",
+            "date_modified": "2026-11-17T09:30:00.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "fd437edd0a593493788671d3d944ab6ab22d66ddca8b2cca508c598bdeea0c12",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Zukunftsperspektiven und Netzwerke</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>palasthotel</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-11T16:30:02+01:00\" title=\"Mittwoch, 11 November 2026 - 16:30\" class=\"datetime\">Mi. 11 Nov 2026 - 16:30</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/karriere/freiwilliges-praktikum-fuer-absolventen-wmdiv-fuer-den-bereich-zukunftsperspektiven-und-0",
