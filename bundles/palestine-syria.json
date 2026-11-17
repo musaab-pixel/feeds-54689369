@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "922ce4295c4b5f0981553872ff1279f91c55cbedde46044a7fdbe3f8c92e8387",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | قوى الأمن الداخلي: </b>إلقاء القبض على أفراد العصابة المتورطة باختطاف المواطن فادي بركات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143027",
+            "title": "🛑 #عاجل | قوى الأمن الداخلي: إلقاء القبض على أفراد العصابة المتورطة باختطاف…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | قوى الأمن الداخلي: </b>إلقاء القبض على أفراد العصابة المتورطة باختطاف المواطن فادي بركات<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-17T17:51:07.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "104fc8058e64731d59dcabcd7efa1265dae0c6c37ed8265d872ce521e0fed2f2",
             "content_html": "المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا محطتي ضخ في خط شرق غرب للنفط غربي الرياض بـ5 مسيرات",
             "url": "https://t.me/aljazeeraBrk/244942",
@@ -1636,17 +1647,6 @@
             "date_modified": "2026-11-17T08:36:03.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "4a8e339d56bdc13b92a765d27e7c1675f285f1955d654ca9bad07da113c05bc2",
-            "content_html": "حركة السلام الآن الإسرائيلية: مجموعة من المتطرفين فرضت وقائع على الأرض وجرت المنطقة إلى بؤرة توتر متفجرة",
-            "url": "https://t.me/aljazeeraBrk/244839",
-            "title": "حركة السلام الآن الإسرائيلية: مجموعة من المتطرفين فرضت وقائع على الأرض وجرت…",
-            "summary": "حركة السلام الآن الإسرائيلية: مجموعة من المتطرفين فرضت وقائع على الأرض وجرت المنطقة إلى بؤرة توتر متفجرة",
-            "date_modified": "2026-11-17T08:31:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
