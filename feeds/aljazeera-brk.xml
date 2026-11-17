@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 18:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 19:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سي إن إن عن مسؤول أمريكي: تعطل شبكة اتصال وكالة الأمن القومي لن يمنع إيصالها…]]></title>
+            <link>https://t.me/aljazeeraBrk/244945</link>
+            <guid isPermaLink="false">b97cd4354ba228435ca152dd8959ca9d361a5a3c3624cfdbc62f5ee0455ecf07</guid>
+            <pubDate>Tue, 17 Nov 2026 18:58:02 GMT</pubDate>
+            <description><![CDATA[سي إن إن عن مسؤول أمريكي: تعطل شبكة اتصال وكالة الأمن القومي لن يمنع إيصالها المعلومات العاجلة لترمب في آسيا]]></description>
+            <content:encoded><![CDATA[سي إن إن عن مسؤول أمريكي: تعطل شبكة اتصال وكالة الأمن القومي لن يمنع إيصالها المعلومات العاجلة لترمب في آسيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رويترز عن مصادر أمنية في كردستان العراق: مسيرتان استهدفتا مواقع للمعارضة…]]></title>
             <link>https://t.me/aljazeeraBrk/244944</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 16 Nov 2026 12:22:02 GMT</pubDate>
             <description><![CDATA[رئيس بلدية الخليل للجزيرة: الاحتلال يخطر بهدم منزل وبنايتين تضمان 65 شقة برأس الجورة وفرش الهوى في المدينة]]></description>
             <content:encoded><![CDATA[رئيس بلدية الخليل للجزيرة: الاحتلال يخطر بهدم منزل وبنايتين تضمان 65 شقة برأس الجورة وفرش الهوى في المدينة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الحكومة العراقية: كل من يعرقل أداء قواتنا الأمنية في تهريب النفط…]]></title>
-            <link>https://t.me/aljazeeraBrk/244745</link>
-            <guid isPermaLink="false">d0b98cc47aa790bcb35bf3154b31b44076b88677a78d94c8f05296149243d038</guid>
-            <pubDate>Mon, 16 Nov 2026 12:19:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الحكومة العراقية: كل من يعرقل أداء قواتنا الأمنية في تهريب النفط سيكون في مواجهة القانون]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية: كل من يعرقل أداء قواتنا الأمنية في تهريب النفط سيكون في مواجهة القانون]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
