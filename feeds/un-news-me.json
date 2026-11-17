@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "72928fed140e8c54b09958e3189e8924a75201b1dfd8886cbfd6c997e727e983",
+            "content_html": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+            "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+            "summary": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026-UNICEF-Gaza.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-17T12:00:00.000Z"
+        },
+        {
             "id": "7dba4c4308c8a62a1111bd421adb758aafb8199410cd5ecfbab78f1cdd462f1e",
             "content_html": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
