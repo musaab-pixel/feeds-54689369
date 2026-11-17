@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 07:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 07:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في مستشفى العودة: إصابة فلسطيني بجروح خطيرة في غارة إسرائيلية على مخيم…]]></title>
+            <link>https://t.me/aljazeeraBrk/244832</link>
+            <guid isPermaLink="false">38163e5101a34c3bc11f1fe414e93a564d3a9b19183183a36c619bc7ae403b1b</guid>
+            <pubDate>Tue, 17 Nov 2026 07:37:02 GMT</pubDate>
+            <description><![CDATA[مصدر في مستشفى العودة: إصابة فلسطيني بجروح خطيرة في غارة إسرائيلية على مخيم النصيرات وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في مستشفى العودة: إصابة فلسطيني بجروح خطيرة في غارة إسرائيلية على مخيم النصيرات وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التلفزيون البحريني: منظومات الدفاع الجوي تعترض هجمات جوية إيرانية في سماء…]]></title>
             <link>https://t.me/aljazeeraBrk/244831</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 15 Nov 2026 10:42:03 GMT</pubDate>
             <description><![CDATA[السلطات الروسية: 3 مصابين منهم طفلان إثر غارة جوية أوكرانية بمسيرة على مدينة كورسك]]></description>
             <content:encoded><![CDATA[السلطات الروسية: 3 مصابين منهم طفلان إثر غارة جوية أوكرانية بمسيرة على مدينة كورسك]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/244632</link>
-            <guid isPermaLink="false">8191de03463e9dd6c6d63c06636bad7a400ed52b546769815eef30c61f4954eb</guid>
-            <pubDate>Sun, 15 Nov 2026 09:36:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مدينة غزة قبل أيام]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: استشهاد فلسطيني متأثرا بإصابته في غارة إسرائيلية على مدينة غزة قبل أيام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
