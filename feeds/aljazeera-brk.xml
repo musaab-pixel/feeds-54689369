@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 18:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 19:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عراقجي: أجريت في سلطنة عمان محادثات بناءة بشأن إنشاء إطار أمني إقليمي جديد…]]></title>
+            <link>https://t.me/aljazeeraBrk/245132</link>
+            <guid isPermaLink="false">d00acb7b9edc6af9cab971611b92e64a76b88d76c9fb133c2e88dad048bde417</guid>
+            <pubDate>Wed, 18 Nov 2026 18:59:02 GMT</pubDate>
+            <description><![CDATA[عراقجي: أجريت في سلطنة عمان محادثات بناءة بشأن إنشاء إطار أمني إقليمي جديد ومستقل]]></description>
+            <content:encoded><![CDATA[عراقجي: أجريت في سلطنة عمان محادثات بناءة بشأن إنشاء إطار أمني إقليمي جديد ومستقل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الحرب الأمريكي: وقعنا اتفاقا مع فنزويلا بشأن التدريب العسكري والشراكة…]]></title>
             <link>https://t.me/aljazeeraBrk/245131</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 17 Nov 2026 11:16:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله الحوثيين تقول انه ناجم عن غارات]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله الحوثيين تقول انه ناجم عن غارات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سلطات القرم: استئناف حركة القطارات على جسر القرم بينما تبقى حركة السيارات معلقة]]></title>
-            <link>https://t.me/aljazeeraBrk/244883</link>
-            <guid isPermaLink="false">b4c6befb41b88008516ad88032804493282c16a4d3b42ff14cd5689e3287002d</guid>
-            <pubDate>Tue, 17 Nov 2026 11:16:02 GMT</pubDate>
-            <description><![CDATA[سلطات القرم: استئناف حركة القطارات على جسر القرم بينما تبقى حركة السيارات معلقة]]></description>
-            <content:encoded><![CDATA[سلطات القرم: استئناف حركة القطارات على جسر القرم بينما تبقى حركة السيارات معلقة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
