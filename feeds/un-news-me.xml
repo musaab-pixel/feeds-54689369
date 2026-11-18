@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Tue, 17 Nov 2026 18:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 18:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Dozens more children killed in Yemen amid escalating hostilities]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168830</link>
+            <guid isPermaLink="false">5c8f207ad1b0ea8078a8217ff362c5fee09a1bf5a37813cf190b728828538ecf</guid>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.]]></description>
+            <content:encoded><![CDATA[The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/22-09-2026_UNICEF_Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Winter rains deepen Gaza crisis amid restricted access and aid cuts]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/11/1168821</link>
