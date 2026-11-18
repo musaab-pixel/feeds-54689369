@@ -4,10 +4,184 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 11:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Déclaration de Phnom Penh]]></title>
+            <link>https://www.francophonie.org/node/8779</link>
+            <guid isPermaLink="false">aa8906d05fbabd64a7ea3c45a335a19b6758ab03fdba255429f9b323a4bb5959</guid>
+            <pubDate>Wed, 18 Nov 2026 12:12:18 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Déclaration de Phnom Penh</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:12</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Declaration_de_Phnom_Penh.pdf" type="application/pdf">Declaration_de_Phnom_Penh.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Déclaration de Phnom Penh</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:12</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Declaration_de_Phnom_Penh.pdf" type="application/pdf">Declaration_de_Phnom_Penh.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Appel de Phnom Penh (patrimoine et diversité culturelle)]]></title>
+            <link>https://www.francophonie.org/node/8778</link>
+            <guid isPermaLink="false">1520a6a50f9a7d15f5b4d1bf2996bdf8e4c4dc659245719755efecd0ce30980e</guid>
+            <pubDate>Wed, 18 Nov 2026 12:11:29 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Appel de Phnom Penh (patrimoine et diversité culturelle)</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:11</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Appel_de_Phnom_Penh.pdf" type="application/pdf">Appel_de_Phnom_Penh.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Appel de Phnom Penh (patrimoine et diversité culturelle)</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:11</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Appel_de_Phnom_Penh.pdf" type="application/pdf">Appel_de_Phnom_Penh.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone]]></title>
+            <link>https://www.francophonie.org/node/8777</link>
+            <guid isPermaLink="false">9c01ec0b7ae395c169a7259ac5e1820e22ffe6c9e31573f157ab265a3d85ddec</guid>
+            <pubDate>Wed, 18 Nov 2026 12:08:19 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:08</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf" type="application/pdf">Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:08</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf" type="application/pdf">Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Clôture du 20e  Sommet de la Francophonie à Phnom Penh]]></title>
+            <link>https://www.francophonie.org/cloture-du-20e-sommet-de-la-francophonie-a-phnom-penh-8781</link>
+            <guid isPermaLink="false">a413e9a95568767843ef2e22ba2dac1e64a16f156c3e91233fefe9be3c3a382e</guid>
+            <pubDate>Wed, 18 Nov 2026 12:03:34 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:03</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:03</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Présidentielle au Cabo Verde : premier bilan de la Mission électorale de la Francophonie]]></title>
             <link>https://www.francophonie.org/presidentielle-cabo-verde-premier-bilan-mission-electorale-francophonie-8784</link>
@@ -42,21 +216,6 @@
             <title><![CDATA[Clôture du 20e Sommet de la Francophonie à Phnom Penh]]></title>
             <link>https://www.francophonie.org/cloture-du-20e-sommet-de-la-francophonie-phnom-penh-8781</link>
             <guid isPermaLink="false">2baa363e0724073ad0b333f025d14f37482e395664fbc3c682a4f54b0872d177</guid>
-            <pubDate>Mon, 16 Nov 2026 15:43:13 GMT</pubDate>
-            <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Clôture du 20e Sommet de la Francophonie à Phnom Penh</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
-<span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
-]]></description>
-            <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Clôture du 20e Sommet de la Francophonie à Phnom Penh</span>
-<span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
-<span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
-]]></content:encoded>
-            <author>skanderh</author>
-        </item>
-        <item>
-            <title><![CDATA[Clôture du 20e Sommet de la Francophonie à Phnom Penh]]></title>
-            <link>https://www.francophonie.org/cloture-du-20e-sommet-de-la-francophonie-a-phnom-penh-8781</link>
-            <guid isPermaLink="false">a413e9a95568767843ef2e22ba2dac1e64a16f156c3e91233fefe9be3c3a382e</guid>
             <pubDate>Mon, 16 Nov 2026 15:43:13 GMT</pubDate>
             <description><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Clôture du 20e Sommet de la Francophonie à Phnom Penh</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
@@ -119,112 +278,6 @@
     <div class="field__label">Document</div>
               <div class="field__item">
 <span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Declaration_de_Phnom_Penh.pdf" type="application/pdf; length=386347">Declaration_de_Phnom_Penh.pdf</a></span>
-</div>
-          </div>
-
-  <div class="field field--name-field-public field--type-boolean field--label-above">
-    <div class="field__label">Aparait sur la page ressources</div>
-              <div class="field__item">Publié</div>
-          </div>
-
-  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
-    <div class="field__label">Type de ressource</div>
-          <div class="field__items">
-              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
-              </div>
-      </div>
-]]></content:encoded>
-            <author>skanderh</author>
-        </item>
-        <item>
-            <title><![CDATA[Appel de Phnom Penh (patrimoine et diversité culturelle)]]></title>
-            <link>https://www.francophonie.org/node/8779</link>
-            <guid isPermaLink="false">aa8906d05fbabd64a7ea3c45a335a19b6758ab03fdba255429f9b323a4bb5959</guid>
-            <pubDate>Mon, 16 Nov 2026 10:53:14 GMT</pubDate>
-            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Appel de Phnom Penh (patrimoine et diversité culturelle)</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 10:53</span>
-
-  <div class="field field--name-field-document-ressource field--type-file field--label-above">
-    <div class="field__label">Document</div>
-              <div class="field__item">
-<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Appel_de_Phnom_Penh.pdf" type="application/pdf; length=210106">Appel_de_Phnom_Penh.pdf</a></span>
-</div>
-          </div>
-
-  <div class="field field--name-field-public field--type-boolean field--label-above">
-    <div class="field__label">Aparait sur la page ressources</div>
-              <div class="field__item">Publié</div>
-          </div>
-
-  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
-    <div class="field__label">Type de ressource</div>
-          <div class="field__items">
-              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
-              </div>
-      </div>
-]]></description>
-            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Appel de Phnom Penh (patrimoine et diversité culturelle)</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 10:53</span>
-
-  <div class="field field--name-field-document-ressource field--type-file field--label-above">
-    <div class="field__label">Document</div>
-              <div class="field__item">
-<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Appel_de_Phnom_Penh.pdf" type="application/pdf; length=210106">Appel_de_Phnom_Penh.pdf</a></span>
-</div>
-          </div>
-
-  <div class="field field--name-field-public field--type-boolean field--label-above">
-    <div class="field__label">Aparait sur la page ressources</div>
-              <div class="field__item">Publié</div>
-          </div>
-
-  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
-    <div class="field__label">Type de ressource</div>
-          <div class="field__items">
-              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
-              </div>
-      </div>
-]]></content:encoded>
-            <author>skanderh</author>
-        </item>
-        <item>
-            <title><![CDATA[Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone]]></title>
-            <link>https://www.francophonie.org/node/8778</link>
-            <guid isPermaLink="false">1520a6a50f9a7d15f5b4d1bf2996bdf8e4c4dc659245719755efecd0ce30980e</guid>
-            <pubDate>Mon, 16 Nov 2026 10:52:06 GMT</pubDate>
-            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 10:52</span>
-
-  <div class="field field--name-field-document-ressource field--type-file field--label-above">
-    <div class="field__label">Document</div>
-              <div class="field__item">
-<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf" type="application/pdf; length=492452">Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf</a></span>
-</div>
-          </div>
-
-  <div class="field field--name-field-public field--type-boolean field--label-above">
-    <div class="field__label">Aparait sur la page ressources</div>
-              <div class="field__item">Publié</div>
-          </div>
-
-  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
-    <div class="field__label">Type de ressource</div>
-          <div class="field__items">
-              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/637" hreflang="fr">XXe Sommet - Phnom Penh, Cambodge (2026)</a></div>
-              </div>
-      </div>
-]]></description>
-            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 10:52</span>
-
-  <div class="field field--name-field-document-ressource field--type-file field--label-above">
-    <div class="field__label">Document</div>
-              <div class="field__item">
-<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf" type="application/pdf; length=492452">Resolution_de_Phnom_Penh_situations_de_crise_et_consolidation_de_la_paix.pdf</a></span>
 </div>
           </div>
 
