@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 19:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 20:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: بدأنا في وقت سابق اليوم نشاطا عملياتيا وسط قطاع غزة لتدمير…]]></title>
+            <link>https://t.me/aljazeeraBrk/245135</link>
+            <guid isPermaLink="false">66c18ca2ffff27686c7973b76477752846526dd80d7ecaa69e46d51cd6243455</guid>
+            <pubDate>Wed, 18 Nov 2026 19:56:01 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: بدأنا في وقت سابق اليوم نشاطا عملياتيا وسط قطاع غزة لتدمير نفق غرب الخط الأصفر شكل تهديدا لقواتنا]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: بدأنا في وقت سابق اليوم نشاطا عملياتيا وسط قطاع غزة لتدمير نفق غرب الخط الأصفر شكل تهديدا لقواتنا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: بدأنا في وقت سابق اليوم نشاطا عملياتيا لتدمير نفق غرب الخط…]]></title>
             <link>https://t.me/aljazeeraBrk/245134</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 17 Nov 2026 11:21:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله الحوثيين تقول إنه ناجم عن غارات]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله الحوثيين تقول إنه ناجم عن غارات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عراقجي خلال لقائه سلطان عمان: جادون دائما في اللجوء للدبلوماسية وحازمون في…]]></title>
-            <link>https://t.me/aljazeeraBrk/244885</link>
-            <guid isPermaLink="false">36567555dd14ea20cddafe3b84e8e96a62b220efa6354dd48062788caf73e296</guid>
-            <pubDate>Tue, 17 Nov 2026 11:20:02 GMT</pubDate>
-            <description><![CDATA[عراقجي خلال لقائه سلطان عمان: جادون دائما في اللجوء للدبلوماسية وحازمون في الدفاع عن وحدة أراضينا]]></description>
-            <content:encoded><![CDATA[عراقجي خلال لقائه سلطان عمان: جادون دائما في اللجوء للدبلوماسية وحازمون في الدفاع عن وحدة أراضينا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
