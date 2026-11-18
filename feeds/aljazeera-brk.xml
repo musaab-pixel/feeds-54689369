@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 12:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: بدء عملية عسكرية وسط قطاع غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/245060</link>
+            <guid isPermaLink="false">bf183820a0479d78a910ce49b1fee635c0a562dec7c0ebcbf56496a7b541517e</guid>
+            <pubDate>Wed, 18 Nov 2026 12:22:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: بدء عملية عسكرية وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: بدء عملية عسكرية وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: نحتفظ بحرية العمل والتحرك كلما اقتضت الضرورة لإزالة أي تهديد…]]></title>
             <link>https://t.me/aljazeeraBrk/245059</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 17 Nov 2026 09:36:02 GMT</pubDate>
             <description><![CDATA[بحرية الجيش الإيراني: اندلاع حريق بناقلة نفط مخالفة قبل ساعات بعد اصطدامها بلغم شرقي مضيق هرمز وتعرضها لأضرار]]></description>
             <content:encoded><![CDATA[بحرية الجيش الإيراني: اندلاع حريق بناقلة نفط مخالفة قبل ساعات بعد اصطدامها بلغم شرقي مضيق هرمز وتعرضها لأضرار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة بحرية بريطانية: تعرض سفينة لضربة ثانية على بعد 7 أميال شمال مدينة خصب…]]></title>
-            <link>https://t.me/aljazeeraBrk/244843</link>
-            <guid isPermaLink="false">c3c0b21ba4bdb3e2a29615f6c6909b0dcbee55229b774b4e11e4db3ea145ef99</guid>
-            <pubDate>Tue, 17 Nov 2026 09:17:02 GMT</pubDate>
-            <description><![CDATA[هيئة بحرية بريطانية: تعرض سفينة لضربة ثانية على بعد 7 أميال شمال مدينة خصب العمانية واندلاع النيران فيها]]></description>
-            <content:encoded><![CDATA[هيئة بحرية بريطانية: تعرض سفينة لضربة ثانية على بعد 7 أميال شمال مدينة خصب العمانية واندلاع النيران فيها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

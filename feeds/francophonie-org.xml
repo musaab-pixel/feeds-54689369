@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 12:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Deux Etats et gouvernement rejoignent l'OIF]]></title>
+            <link>https://www.francophonie.org/deux-etats-et-gouvernement-rejoignent-loif-8780</link>
+            <guid isPermaLink="false">6faef09b831c14f435b9d012aa710369dad0443df46c1b9eda8c0085f62cf645</guid>
+            <pubDate>Wed, 18 Nov 2026 12:17:32 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Deux Etats et gouvernement rejoignent l'OIF</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:17</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Deux Etats et gouvernement rejoignent l'OIF</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:17</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Déclaration de Phnom Penh]]></title>
             <link>https://www.francophonie.org/node/8779</link>
@@ -168,21 +183,6 @@
             <author>skanderh</author>
         </item>
         <item>
-            <title><![CDATA[Clôture du 20e  Sommet de la Francophonie à Phnom Penh]]></title>
-            <link>https://www.francophonie.org/cloture-du-20e-sommet-de-la-francophonie-a-phnom-penh-8781</link>
-            <guid isPermaLink="false">a413e9a95568767843ef2e22ba2dac1e64a16f156c3e91233fefe9be3c3a382e</guid>
-            <pubDate>Wed, 18 Nov 2026 12:03:34 GMT</pubDate>
-            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:03</span>
-]]></description>
-            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
-<span class="field field--name-created field--type-created field--label-hidden">mer 18/11/2026 - 12:03</span>
-]]></content:encoded>
-            <author>skanderh</author>
-        </item>
-        <item>
             <title><![CDATA[Présidentielle au Cabo Verde : premier bilan de la Mission électorale de la Francophonie]]></title>
             <link>https://www.francophonie.org/presidentielle-cabo-verde-premier-bilan-mission-electorale-francophonie-8784</link>
             <guid isPermaLink="false">b560c1d26e0e53adfacc07f18f70cff56a55767a8c66523c77e552e35e6455c1</guid>
@@ -239,6 +239,21 @@
             <content:encoded><![CDATA[<span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Financement de l’éducation en Afrique : transformer les contraintes budgétaires en leviers d’action</span>
 <span rel="schema:author" class="field field--name-uid field--type-entity-reference field--label-hidden"><span lang="" about="https://www.francophonie.org/user/40" typeof="schema:Person" property="schema:name" datatype="" xml:lang="">skanderh</span></span>
 <span property="schema:dateCreated" content="2026-11-16T15:43:13+00:00" class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Clôture du 20e  Sommet de la Francophonie à Phnom Penh]]></title>
+            <link>https://www.francophonie.org/cloture-du-20e-sommet-de-la-francophonie-a-phnom-penh-8781</link>
+            <guid isPermaLink="false">a413e9a95568767843ef2e22ba2dac1e64a16f156c3e91233fefe9be3c3a382e</guid>
+            <pubDate>Mon, 16 Nov 2026 12:03:34 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 12:03</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 12:03</span>
 ]]></content:encoded>
             <author>skanderh</author>
         </item>
