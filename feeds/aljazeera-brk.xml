@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 19:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 19:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[عراقجي: ناقشت خلال زيارتي لسلطنة عمان التطورات الإقليمية بما فيها العدوان…]]></title>
+            <link>https://t.me/aljazeeraBrk/245133</link>
+            <guid isPermaLink="false">84715afc2c2e176147f620f5660d62ae10ebd1f0b8de438a7651798e118ffae5</guid>
+            <pubDate>Wed, 18 Nov 2026 19:16:02 GMT</pubDate>
+            <description><![CDATA[عراقجي: ناقشت خلال زيارتي لسلطنة عمان التطورات الإقليمية بما فيها العدوان الأمريكي وجهود منع عودة الحرب]]></description>
+            <content:encoded><![CDATA[عراقجي: ناقشت خلال زيارتي لسلطنة عمان التطورات الإقليمية بما فيها العدوان الأمريكي وجهود منع عودة الحرب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: أجريت في سلطنة عمان محادثات بناءة بشأن إنشاء إطار أمني إقليمي جديد…]]></title>
             <link>https://t.me/aljazeeraBrk/245132</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 17 Nov 2026 11:17:02 GMT</pubDate>
             <description><![CDATA[وزارة الاستخبارات الإيرانية: تفكيك خليتين لجماعات إرهابية وانفصالية بمحافظة كردستان الإيرانية واعتقال 9 أشخاص]]></description>
             <content:encoded><![CDATA[وزارة الاستخبارات الإيرانية: تفكيك خليتين لجماعات إرهابية وانفصالية بمحافظة كردستان الإيرانية واعتقال 9 أشخاص]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله…]]></title>
-            <link>https://t.me/aljazeeraBrk/244882</link>
-            <guid isPermaLink="false">e24e254a9b2df80ef04bf9839892588ffef208243e782efa46bca3462c0999e1</guid>
-            <pubDate>Tue, 17 Nov 2026 11:16:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله الحوثيين تقول انه ناجم عن غارات]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجارات في صنعاء ووسائل إعلام تابعة لجماعة أنصار الله الحوثيين تقول انه ناجم عن غارات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
