@@ -4,7 +4,7 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 12:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:37:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -254,6 +254,21 @@
             <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Clôture du 20e  Sommet de la Francophonie à Phnom Penh</span>
 <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
 <span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 12:03</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
+        <item>
+            <title><![CDATA[Deux nouveaux membres observateurs rejoignent l'OIF]]></title>
+            <link>https://www.francophonie.org/deux-nouveaux-membres-observateurs-rejoignent-loif-8780</link>
+            <guid isPermaLink="false">9439ad2fbbac9f538b3018e9b7af1fe03f0e65633beea0b6f9034e99dc92f132</guid>
+            <pubDate>Mon, 16 Nov 2026 11:17:32 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Deux nouveaux membres observateurs rejoignent l'OIF</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 11:17</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Deux nouveaux membres observateurs rejoignent l'OIF</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">lun 16/11/2026 - 11:17</span>
 ]]></content:encoded>
             <author>skanderh</author>
         </item>
