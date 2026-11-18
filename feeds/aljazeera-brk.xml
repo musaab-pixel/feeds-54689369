@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 20:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 20:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بلومبرغ عن مسؤولين أمريكيين: حاملة الطائرات جورج واشنطن غادرت الخليج ويرجح أنها…]]></title>
+            <link>https://t.me/aljazeeraBrk/245144</link>
+            <guid isPermaLink="false">e5e612ea1136b1cccc3e81812e65c7ded6a945dbb94d0bb2187e4b8585211a10</guid>
+            <pubDate>Wed, 18 Nov 2026 20:26:02 GMT</pubDate>
+            <description><![CDATA[بلومبرغ عن مسؤولين أمريكيين: حاملة الطائرات جورج واشنطن غادرت الخليج ويرجح أنها عائدة لقاعدتها في اليابان]]></description>
+            <content:encoded><![CDATA[بلومبرغ عن مسؤولين أمريكيين: حاملة الطائرات جورج واشنطن غادرت الخليج ويرجح أنها عائدة لقاعدتها في اليابان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: استهدفنا مطار الملك خالد والمركز…]]></title>
             <link>https://t.me/aljazeeraBrk/245143</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 17 Nov 2026 11:55:02 GMT</pubDate>
             <description><![CDATA[رئيس لجنة الدفاع في البوندستاغ للجزيرة: لن نتمكن من ضمان السلام في أوروبا إلا عبر تعزيز القدرات العسكرية]]></description>
             <content:encoded><![CDATA[رئيس لجنة الدفاع في البوندستاغ للجزيرة: لن نتمكن من ضمان السلام في أوروبا إلا عبر تعزيز القدرات العسكرية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[زعيم حزب البديل الألماني المعارض للجزيرة: لا أريد أن توصم روسيا بالعدو ويجب أن…]]></title>
-            <link>https://t.me/aljazeeraBrk/244894</link>
-            <guid isPermaLink="false">1b4af5e96a231c0ec539089e8d6f6cd67f737d6b26aeb551973ca923724ba920</guid>
-            <pubDate>Tue, 17 Nov 2026 11:52:02 GMT</pubDate>
-            <description><![CDATA[زعيم حزب البديل الألماني المعارض للجزيرة: لا أريد أن توصم روسيا بالعدو ويجب أن نعود إلى الحوار والتفاهم معها]]></description>
-            <content:encoded><![CDATA[زعيم حزب البديل الألماني المعارض للجزيرة: لا أريد أن توصم روسيا بالعدو ويجب أن نعود إلى الحوار والتفاهم معها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
