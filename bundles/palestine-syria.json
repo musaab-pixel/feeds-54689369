@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "3ea5a93ce3390e87995b502e6a1f7add39e9344e335a0d56944cd50ca36f593d",
+            "content_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال الإسرائيلي تتوغل بـ3 آليات في قرية الصمدانية الشرقية بريف القنيطرة بالتزامن مع تحليق طيران الاستطلاع في أجواء المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143060",
+            "title": "🛑 #عاجل | الإخبارية: قوات الاحتلال الإسرائيلي تتوغل بـ3 آليات في قرية…",
+            "summary": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B91.png')\"><b>🛑</b></i> </b><a href=\"https://t.me/?q=%23%D8%B9%D8%A7%D8%AC%D9%84\"><b>#عاجل</b></a><b> | الإخبارية: </b>قوات الاحتلال الإسرائيلي تتوغل بـ3 آليات في قرية الصمدانية الشرقية بريف القنيطرة بالتزامن مع تحليق طيران الاستطلاع في أجواء المنطقة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-18T13:47:04.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "ffc66253b713b22df8c5659167c7101a863fb312d39881bdd93ad1b5845971fd",
             "content_html": "الجبهة الشعبية: نحذر من تنفيذ الاحتلال تصعيدا عسكريا واسعا يستهدف المدنيين في قطاع غزة",
             "url": "https://t.me/aljazeeraBrk/245077",
@@ -1625,17 +1636,6 @@
             "title": "وكالة الأنباء الإيرانية: مقتل جندي بمواجهة مع مجموعة من حزب الحياة الحرة…",
             "summary": "وكالة الأنباء الإيرانية: مقتل جندي بمواجهة مع مجموعة من حزب الحياة الحرة الكردستاني أمس شمال غربي البلاد",
             "date_modified": "2026-11-17T19:26:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "113303954aad016a0af498b9246fe1c38e0f00dd1c2e9bd62b34661f21774122",
-            "content_html": "مراسل الجزيرة: سلسلة انفجارات عنيفة في العاصمة اليمنية صنعاء",
-            "url": "https://t.me/aljazeeraBrk/244948",
-            "title": "مراسل الجزيرة: سلسلة انفجارات عنيفة في العاصمة اليمنية صنعاء",
-            "summary": "مراسل الجزيرة: سلسلة انفجارات عنيفة في العاصمة اليمنية صنعاء",
-            "date_modified": "2026-11-17T19:24:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
