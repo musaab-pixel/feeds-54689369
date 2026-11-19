@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Thu, 19 Nov 2026 11:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 12:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Chaque enfant compte : le droit à l’identité comme fondement d’une paix durable]]></title>
+            <link>https://www.francophonie.org/chaque-enfant-compte-le-droit-a-l-identite-comme-fondement-d-une-paix-durable-8790</link>
+            <guid isPermaLink="false">224665d9eef6a63ee7a75ceb06a93f3efc3383253592b8484cb84b326836c588</guid>
+            <pubDate>Thu, 19 Nov 2026 12:05:05 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Chaque enfant compte : le droit à l’identité comme fondement d’une paix durable</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 19/11/2026 - 12:05</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Chaque enfant compte : le droit à l’identité comme fondement d’une paix durable</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 19/11/2026 - 12:05</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Recommandations de la jeunesse francophone en vue du 20e Sommet de la Francophonie]]></title>
             <link>https://www.francophonie.org/node/8787</link>
