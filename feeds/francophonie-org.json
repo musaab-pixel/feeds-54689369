@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "846e2ca07346dd4a8957eaa6c28635b0a4cc2fe00a95619bb12bb9297aa9c589",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Tchad : À N’Djamena, l’état civil entre dans l’ère du numérique</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">jeu 19/11/2026 - 12:23</span>\n",
+            "url": "https://www.francophonie.org/tchad-ndjamena-letat-civil-entre-dans-lere-du-numerique-8791",
+            "title": "Tchad : À N’Djamena, l’état civil entre dans l’ère du numérique",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Tchad : À N’Djamena, l’état civil entre dans l’ère du numérique</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">jeu 19/11/2026 - 12:23</span>\n",
+            "date_modified": "2026-11-19T12:23:35.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "224665d9eef6a63ee7a75ceb06a93f3efc3383253592b8484cb84b326836c588",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Chaque enfant compte : le droit à l’identité comme fondement d’une paix durable</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">jeu 19/11/2026 - 12:05</span>\n",
             "url": "https://www.francophonie.org/chaque-enfant-compte-le-droit-a-l-identite-comme-fondement-d-une-paix-durable-8790",
