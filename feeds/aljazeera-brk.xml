@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 19 Nov 2026 20:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 20:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم الخارجية الإيرانية: اتهام واشنطن لنا بتطوير أسلحة كيميائية…]]></title>
+            <link>https://t.me/aljazeeraBrk/245378</link>
+            <guid isPermaLink="false">03e9525d28f6a7d05474801dc1c11cdca837f33f2223f099bc6ea2da1bea9228</guid>
+            <pubDate>Thu, 19 Nov 2026 20:40:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم الخارجية الإيرانية: اتهام واشنطن لنا بتطوير أسلحة كيميائية وبيولوجية يهدف إلى تبرير العمل العسكري]]></description>
+            <content:encoded><![CDATA[المتحدث باسم الخارجية الإيرانية: اتهام واشنطن لنا بتطوير أسلحة كيميائية وبيولوجية يهدف إلى تبرير العمل العسكري]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سعر الذهب يتراجع بأكثر من 1.5% ليصل سعر الأونصة إلى 3670 دولارا]]></title>
             <link>https://t.me/aljazeeraBrk/245377</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 06:00:02 GMT</pubDate>
             <description><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></description>
             <content:encoded><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مساعد الرئيس الروسي: اجتماع بوتين وترمب سار على نحو جيد]]></title>
-            <link>https://t.me/aljazeeraBrk/245178</link>
-            <guid isPermaLink="false">6c11764d5269c9e4e340431d55b91996ae7ca619a45d02fd6b3ff6457a08c698</guid>
-            <pubDate>Thu, 19 Nov 2026 05:50:02 GMT</pubDate>
-            <description><![CDATA[مساعد الرئيس الروسي: اجتماع بوتين وترمب سار على نحو جيد]]></description>
-            <content:encoded><![CDATA[مساعد الرئيس الروسي: اجتماع بوتين وترمب سار على نحو جيد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
