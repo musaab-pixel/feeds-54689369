@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 19 Nov 2026 16:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 16:39:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[فوكس نيوز عن مصادر: تعطل جزئي لأنظمة الاتصالات الداخلية السرية لوكالة الأمن…]]></title>
+            <link>https://t.me/aljazeeraBrk/245321</link>
+            <guid isPermaLink="false">1a090de7798612b5191597406b10992974082cfa59adb88b98bef7d8a02afe7a</guid>
+            <pubDate>Thu, 19 Nov 2026 16:33:02 GMT</pubDate>
+            <description><![CDATA[فوكس نيوز عن مصادر: تعطل جزئي لأنظمة الاتصالات الداخلية السرية لوكالة الأمن القومي الأمريكية لليوم الثالث]]></description>
+            <content:encoded><![CDATA[فوكس نيوز عن مصادر: تعطل جزئي لأنظمة الاتصالات الداخلية السرية لوكالة الأمن القومي الأمريكية لليوم الثالث]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية القطرية: قطر تدين اعتداءات الحوثيين على السعودية التي طالت منشآت بينها…]]></title>
             <link>https://t.me/aljazeeraBrk/245320</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 18 Nov 2026 16:57:01 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: لقاء رئيسي الأركان والموساد مع كوبر بحث تحديات أمنية ورفع الجاهزية مع الجيش الأمريكي]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: لقاء رئيسي الأركان والموساد مع كوبر بحث تحديات أمنية ورفع الجاهزية مع الجيش الأمريكي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإسرائيلي: اجتماع ثلاثي بين رئيسي الأركان والموساد وقائد القيادة…]]></title>
-            <link>https://t.me/aljazeeraBrk/245121</link>
-            <guid isPermaLink="false">13cf7d9a7a7172f71099537f34f1ca21217f1499f452d90b7f60d059f712de6a</guid>
-            <pubDate>Wed, 18 Nov 2026 16:55:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإسرائيلي: اجتماع ثلاثي بين رئيسي الأركان والموساد وقائد القيادة المركزية الأمريكية بحث تقييما للأوضاع]]></description>
-            <content:encoded><![CDATA[الجيش الإسرائيلي: اجتماع ثلاثي بين رئيسي الأركان والموساد وقائد القيادة المركزية الأمريكية بحث تقييما للأوضاع]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
