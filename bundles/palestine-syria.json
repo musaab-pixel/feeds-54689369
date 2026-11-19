@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "d9c288e7e208d264e4dd6df9561fa49057720a0843bfee8d2595c7b19d70b220",
+            "content_html": "عاجل | وزير الداخلية أنس خطاب: <br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>لا يمكن لأحد أن ينسى تلك اللحظة الأليمة التي شهدتها بلدة العتيبة في الغوطة الشرقية عام 2014 ولا أرواح الشهداء الذين ارتقوا في مجزرة \"كمين العتيبة\" التي راح ضحيتها أكثر من 150 شهيدًا<br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>اليوم وبعد سنوات من تلك المجزرة أصبح المخطِّط والآمر بتلك العملية الإرهابية العميد المجرم رواد زيدان في قبضة أجهزتنا الأمنية",
+            "url": "https://t.me/HalabTodayTV/143120",
+            "title": "عاجل | وزير الداخلية أنس خطاب: 📌لا يمكن لأحد أن ينسى تلك اللحظة الأليمة التي…",
+            "summary": "عاجل | وزير الداخلية أنس خطاب: <br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>لا يمكن لأحد أن ينسى تلك اللحظة الأليمة التي شهدتها بلدة العتيبة في الغوطة الشرقية عام 2014 ولا أرواح الشهداء الذين ارتقوا في مجزرة \"كمين العتيبة\" التي راح ضحيتها أكثر من 150 شهيدًا<br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>اليوم وبعد سنوات من تلك المجزرة أصبح المخطِّط والآمر بتلك العملية الإرهابية العميد المجرم رواد زيدان في قبضة أجهزتنا الأمنية",
+            "image": "https://cdn4.telesco.pe/file/nP9NE6vdys0XwsEAtTx0yIkaha7rWgUh5NmVfsx9EmYWac898_115HWsfQ-z1e83jXiD3BUlv_2B8Fqu3fl6U31gqNQ6fzhbYwjTmlPEhYYP5q1tf9RxCgyzXfE6WvTUZh5V0vgP7sthHcq4kCEZNnRmUtOVj4e7Lb746ztSoXkRMfvGRvkkRMcX6I-h07jom-ajp7MpJlOMVDAgUab-cOZzHI0B-n8T02bYHD8iRXlDvkfVvyFWO4-q0WDzKlSw8iloyykbwtMcjnpH903OPjUzBlwWnzAQZuWf5lcY8Xq_Vq8QWnPIVB7lh4-3TNLMPs_3WHcO2WBJjdmuZqd_bA.jpg",
+            "date_modified": "2026-11-19T19:09:19.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "c7b051ef8da6d58450ef5b8f294b679001f0fda73978e9517a101a541dda89a8",
             "content_html": "بيان لقادة ألمانيا وفرنسا وبريطانيا وأوكرانيا: يجب توفير ضمانات لأوكرانيا ملزمة قانونيا مع بدء وقف إطلاق النار",
             "url": "https://t.me/aljazeeraBrk/245367",
@@ -1638,17 +1650,6 @@
             "title": "الرئيس الصيني: اللقاء مع ترمب وبوتين إيجابي وبناء ومثمر",
             "summary": "الرئيس الصيني: اللقاء مع ترمب وبوتين إيجابي وبناء ومثمر",
             "date_modified": "2026-11-19T11:29:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2e837763d68c32e1465fc970bdf125137290539ab9b9e123ecbffe6c1cb36de6",
-            "content_html": "بيان حكومي عراقي: المقر المسيطر في الجرف يتولى القيادة والسيطرة على جميع القطعات الأمنية المرتبطة به",
-            "url": "https://t.me/aljazeeraBrk/245243",
-            "title": "بيان حكومي عراقي: المقر المسيطر في الجرف يتولى القيادة والسيطرة على جميع…",
-            "summary": "بيان حكومي عراقي: المقر المسيطر في الجرف يتولى القيادة والسيطرة على جميع القطعات الأمنية المرتبطة به",
-            "date_modified": "2026-11-19T11:27:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
