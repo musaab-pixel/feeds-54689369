@@ -4,10 +4,63 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 18:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 11:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Recommandations de la jeunesse francophone en vue du 20e Sommet de la Francophonie]]></title>
+            <link>https://www.francophonie.org/node/8787</link>
+            <guid isPermaLink="false">ffb948ea1e110096f0ac7e85615f35ac0c5d3f952b82c83be8d1f1d42fd04125</guid>
+            <pubDate>Thu, 19 Nov 2026 11:12:37 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Recommandations de la jeunesse francophone en vue du 20e Sommet de la Francophonie</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 19/11/2026 - 11:12</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Rcommandations_jeunes_francophones_Phnom_Penh.pdf" type="application/pdf">Rcommandations_jeunes_francophones_Phnom_Penh.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/403" hreflang="fr">Rapports sur la jeunesse</a></div>
+              </div>
+      </div>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Recommandations de la jeunesse francophone en vue du 20e Sommet de la Francophonie</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">jeu 19/11/2026 - 11:12</span>
+
+  <div class="field field--name-field-document-ressource field--type-file field--label-above">
+    <div class="field__label">Document</div>
+              <div class="field__item">
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Rcommandations_jeunes_francophones_Phnom_Penh.pdf" type="application/pdf">Rcommandations_jeunes_francophones_Phnom_Penh.pdf</a></span>
+</div>
+          </div>
+
+  <div class="field field--name-field-public field--type-boolean field--label-above">
+    <div class="field__label">Aparait sur la page ressources</div>
+              <div class="field__item">Publié</div>
+          </div>
+
+  <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
+    <div class="field__label">Type de ressource</div>
+          <div class="field__items">
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/403" hreflang="fr">Rapports sur la jeunesse</a></div>
+              </div>
+      </div>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Deux Etats et gouvernement rejoignent l'OIF]]></title>
             <link>https://www.francophonie.org/deux-etats-et-gouvernement-rejoignent-loif-8780</link>
