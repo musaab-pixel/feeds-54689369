@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 19 Nov 2026 20:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 20:55:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات جوية مواقع للحوثي في المطالي والخلل…]]></title>
+            <link>https://t.me/aljazeeraBrk/245379</link>
+            <guid isPermaLink="false">e80a6062619afb038caf58f16751e0bfe97ad9fa0ff13227aaa8685c9ced60fb</guid>
+            <pubDate>Thu, 19 Nov 2026 20:47:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات جوية مواقع للحوثي في المطالي والخلل والنقيل بعزلة الأقروض جنوب تعز]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات جوية مواقع للحوثي في المطالي والخلل والنقيل بعزلة الأقروض جنوب تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم الخارجية الإيرانية: اتهام واشنطن لنا بتطوير أسلحة كيميائية…]]></title>
             <link>https://t.me/aljazeeraBrk/245378</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 06:07:02 GMT</pubDate>
             <description><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية بالسعودية]]></description>
             <content:encoded><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية بالسعودية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245179</link>
-            <guid isPermaLink="false">5aa3e6c49c374fe10edd701a2569c9ad7c5163d1bff912f4652abd1c6dd16b80</guid>
-            <pubDate>Thu, 19 Nov 2026 06:00:02 GMT</pubDate>
-            <description><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></description>
-            <content:encoded><![CDATA[التحالف: الدفاع الجوي اعترض ودمر 4 صواريخ باليستية أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
