@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 19 Nov 2026 15:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 16:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المستشار الألماني: نريد مساعدة أوكرانيا في الدفاع عن حريتها ووحدة أراضيها لأن…]]></title>
+            <link>https://t.me/aljazeeraBrk/245318</link>
+            <guid isPermaLink="false">6eb653406433b775236964b3e2666718d9cee7bcd1aa39f784720438cd60c206</guid>
+            <pubDate>Thu, 19 Nov 2026 15:59:02 GMT</pubDate>
+            <description><![CDATA[المستشار الألماني: نريد مساعدة أوكرانيا في الدفاع عن حريتها ووحدة أراضيها لأن الدفاع عنها معركتنا أيضا]]></description>
+            <content:encoded><![CDATA[المستشار الألماني: نريد مساعدة أوكرانيا في الدفاع عن حريتها ووحدة أراضيها لأن الدفاع عنها معركتنا أيضا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب لشبكة إن بي سي نيوز: أتفق مع زيلنسكي على ضرورة عدم اتخاذ قرارات بشأن…]]></title>
             <link>https://t.me/aljazeeraBrk/245317</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 18 Nov 2026 16:50:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: عناصر حزب الله الخمسة ألقي القبض عليهم الأسبوع الماضي في بشري شمالي لبنان]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: عناصر حزب الله الخمسة ألقي القبض عليهم الأسبوع الماضي في بشري شمالي لبنان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مفوض الحكومة لدى المحكمة العسكرية في لبنان يوجه لـ5 عناصر من حزب…]]></title>
-            <link>https://t.me/aljazeeraBrk/245118</link>
-            <guid isPermaLink="false">3f3f1bbfdc8f0fa6977725147e681333757ee489c9aef6d245385c7330263722</guid>
-            <pubDate>Wed, 18 Nov 2026 16:49:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مفوض الحكومة لدى المحكمة العسكرية في لبنان يوجه لـ5 عناصر من حزب الله تهمة تأليف مجموعة مسلحة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مفوض الحكومة لدى المحكمة العسكرية في لبنان يوجه لـ5 عناصر من حزب الله تهمة تأليف مجموعة مسلحة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
