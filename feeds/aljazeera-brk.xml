@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 20 Nov 2026 14:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 14:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات تجمعات للمليشيات الحوثية في جبل حبشي…]]></title>
+            <link>https://t.me/aljazeeraBrk/245498</link>
+            <guid isPermaLink="false">0d4833b626ccdb5278355294a559e472cc13384c775de80f11c65fa3000e85c5</guid>
+            <pubDate>Fri, 20 Nov 2026 14:23:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات تجمعات للمليشيات الحوثية في جبل حبشي غربي محافظة تعز]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات تجمعات للمليشيات الحوثية في جبل حبشي غربي محافظة تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر في منطقة جازان]]></title>
             <link>https://t.me/aljazeeraBrk/245497</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 12:09:02 GMT</pubDate>
             <description><![CDATA[بوتين: نأمل بأن يستمر المزاج الإيجابي لإعادة العلاقات بين روسيا والولايات المتحدة]]></description>
             <content:encoded><![CDATA[بوتين: نأمل بأن يستمر المزاج الإيجابي لإعادة العلاقات بين روسيا والولايات المتحدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بوتين: الأمن الدولي يعتمد اليوم إلى حد كبير على روسيا والصين والولايات المتحدة]]></title>
-            <link>https://t.me/aljazeeraBrk/245262</link>
-            <guid isPermaLink="false">314a498d92307626096d8275e3f26878553f0fa15d6b7ac9b2b31ba097392a1d</guid>
-            <pubDate>Thu, 19 Nov 2026 12:08:02 GMT</pubDate>
-            <description><![CDATA[بوتين: الأمن الدولي يعتمد اليوم إلى حد كبير على روسيا والصين والولايات المتحدة]]></description>
-            <content:encoded><![CDATA[بوتين: الأمن الدولي يعتمد اليوم إلى حد كبير على روسيا والصين والولايات المتحدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
