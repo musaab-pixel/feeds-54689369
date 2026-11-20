@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 20 Nov 2026 00:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 00:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ويتكوف: الرئيس ترمب عازم على إنهاء حرب روسيا ونحن مصممون على تحقيق ذلك بطريقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245403</link>
+            <guid isPermaLink="false">98665779d17a2668751c6fe6ecb7cb84fec5c1b7160248d110ed3b4ad0f52c33</guid>
+            <pubDate>Fri, 20 Nov 2026 00:12:03 GMT</pubDate>
+            <description><![CDATA[ويتكوف: الرئيس ترمب عازم على إنهاء حرب روسيا ونحن مصممون على تحقيق ذلك بطريقة تحفظ أمن أوكرانيا]]></description>
+            <content:encoded><![CDATA[ويتكوف: الرئيس ترمب عازم على إنهاء حرب روسيا ونحن مصممون على تحقيق ذلك بطريقة تحفظ أمن أوكرانيا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ويتكوف: النقاشات مع الحلفاء الأوروبيين في برلين خلال اجتماع تحالف الراغبين كانت…]]></title>
             <link>https://t.me/aljazeeraBrk/245402</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 09:12:02 GMT</pubDate>
             <description><![CDATA[منسق أعمال الحكومة الإسرائيلية في المناطق الفلسطينية: نحذر سكان غزة من تجاوز الخط الأصفر والاقتراب من قواتنا]]></description>
             <content:encoded><![CDATA[منسق أعمال الحكومة الإسرائيلية في المناطق الفلسطينية: نحذر سكان غزة من تجاوز الخط الأصفر والاقتراب من قواتنا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[منسق أعمال الحكومة الإسرائيلية في المناطق الفلسطينية: حركة حماس تدفع المواطنين…]]></title>
-            <link>https://t.me/aljazeeraBrk/245203</link>
-            <guid isPermaLink="false">ff68e8121b141dff0eaf710fb1d706d3fbed4d2d645acbdd6335f661073e817b</guid>
-            <pubDate>Thu, 19 Nov 2026 09:10:02 GMT</pubDate>
-            <description><![CDATA[منسق أعمال الحكومة الإسرائيلية في المناطق الفلسطينية: حركة حماس تدفع المواطنين نحو مناطق انتشار الجيش]]></description>
-            <content:encoded><![CDATA[منسق أعمال الحكومة الإسرائيلية في المناطق الفلسطينية: حركة حماس تدفع المواطنين نحو مناطق انتشار الجيش]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
