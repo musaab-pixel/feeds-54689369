@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 20 Nov 2026 13:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 18:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Mobilité artistique : poursuivre la circulation des créations francophones]]></title>
+            <link>https://www.francophonie.org/mobilite-artistique-poursuivre-la-circulation-des-creations-francophones-8754</link>
+            <guid isPermaLink="false">480830fc0eeb9cbf3b802274e114bd4901cca77fed3950aaba6d414af2b7d6cb</guid>
+            <pubDate>Fri, 20 Nov 2026 15:43:13 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Mobilité artistique : poursuivre la circulation des créations francophones</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 20/11/2026 - 15:43</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Mobilité artistique : poursuivre la circulation des créations francophones</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 20/11/2026 - 15:43</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Appel à projet : mobilité des artistes et circulation des biens culturels]]></title>
             <link>https://www.francophonie.org/appel-projet-mobilite-des-artistes-et-circulation-des-biens-culturels-8794</link>
