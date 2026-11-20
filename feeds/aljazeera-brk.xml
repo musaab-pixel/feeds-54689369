@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 19 Nov 2026 23:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 23:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم على العاصمة صنعاء]]></title>
+            <link>https://t.me/aljazeeraBrk/245395</link>
+            <guid isPermaLink="false">9356b91ce9a3326c197b299ab068405edf992af174d9f89ea9971bf0dadc54a3</guid>
+            <pubDate>Thu, 19 Nov 2026 23:40:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم على العاصمة صنعاء]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم على العاصمة صنعاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجلس الأمن الدولي: نجدد التزامنا الراسخ بسيادة لبنان واستقلاله وسلامة أراضيه…]]></title>
             <link>https://t.me/aljazeeraBrk/245394</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 08:40:01 GMT</pubDate>
             <description><![CDATA[ترمب: يجب خفض مخاطر استخدام الأسلحة النووية في العالم]]></description>
             <content:encoded><![CDATA[ترمب: يجب خفض مخاطر استخدام الأسلحة النووية في العالم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب: هذه القمة التاريخية تمنحنا فرصة لبحث آفاق جديدة لنا جميعا]]></title>
-            <link>https://t.me/aljazeeraBrk/245194</link>
-            <guid isPermaLink="false">06572bea430f5d12061ff1d6124d4deece96b4b523196a2bbbd530433f507d27</guid>
-            <pubDate>Thu, 19 Nov 2026 08:39:02 GMT</pubDate>
-            <description><![CDATA[ترمب: هذه القمة التاريخية تمنحنا فرصة لبحث آفاق جديدة لنا جميعا]]></description>
-            <content:encoded><![CDATA[ترمب: هذه القمة التاريخية تمنحنا فرصة لبحث آفاق جديدة لنا جميعا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
