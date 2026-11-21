@@ -5,6 +5,51 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "259fc2c7bae678830a66b0f3f09dfdc11230a458bc2909400e532959a7ac6e94",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE53blAwbTZybkoyNEFBRDNvTndtNFkxb0cxRkFwREttVFFGejNFd25zQi1QYjNLVHdKOTFJLUtkQlNCNExJcFlqMm1XLTNOOU14?oc=5\" target=\"_blank\">أبو هولي والرفاعي يبحثان أوضاع المخيمات الفلسطينية في سوريا وتعزيز التعاون المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة يافا الإخبارية</font>",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53blAwbTZybkoyNEFBRDNvTndtNFkxb0cxRkFwREttVFFGejNFd25zQi1QYjNLVHdKOTFJLUtkQlNCNExJcFlqMm1XLTNOOU14?oc=5",
+            "title": "أبو هولي والرفاعي يبحثان أوضاع المخيمات الفلسطينية في سوريا وتعزيز التعاون المشترك - شبكة يافا الإخبارية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE53blAwbTZybkoyNEFBRDNvTndtNFkxb0cxRkFwREttVFFGejNFd25zQi1QYjNLVHdKOTFJLUtkQlNCNExJcFlqMm1XLTNOOU14?oc=5\" target=\"_blank\">أبو هولي والرفاعي يبحثان أوضاع المخيمات الفلسطينية في سوريا وتعزيز التعاون المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة يافا الإخبارية</font>",
+            "date_modified": "2026-11-21T11:44:13.000Z",
+            "author": {
+                "name": "شبكة يافا الإخبارية"
+            }
+        },
+        {
+            "id": "04daacf5b31ed6c06780eddc321b679fa4c652aa222eb18131d35088a769c12a",
+            "content_html": "مديرية الطوارئ في حلب: وفاة شاب متأثرًا بإصابته جراء انفجار مخلفات حرب أثناء رعيه الأغنام في قرية كفر صغير بريف حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143165",
+            "title": "مديرية الطوارئ في حلب: وفاة شاب متأثرًا بإصابته جراء انفجار مخلفات حرب أثناء…",
+            "summary": "مديرية الطوارئ في حلب: وفاة شاب متأثرًا بإصابته جراء انفجار مخلفات حرب أثناء رعيه الأغنام في قرية كفر صغير بريف حلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/OLAOOqY4Xcr2_9klnfv8K3MDnREhjxbHnVbdFU7BPy3YlS0TA5ItmI8eQRtJGAIecQ_8qAMMn0rAp1rXjH_F2sTIhlXFOBUF0QeaUkBlidvT7ZLbfBSYFt8N4IoY672FBanaFpGZOCu_7tjMZLMl1u0ttwDfoGWPiSC__OZ0SKMAQjsZhJNR3SUC3a5BXshF2njIbV7B42AKPCgUZ928gPOm0UvZAGJ3sMTIFV1XGAEaONOCsCdWA8wQiCFjWkhRSbcQGJuvLFRorjM2S6UhJ_3GrR65qcQ432j0_PoJAAoqZzSDPGY7Uh5WrkF9m_HbIS1hl14ujfO0FMbPn7tBvg.jpg",
+            "date_modified": "2026-11-21T11:40:59.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "a601e5906f40e4724d17dc440128c1a1263ed62833b53f2bd967b5e26be5af8b",
+            "content_html": "بحرية الجيش الإيراني: حريق في ناقلة نفط مخالفة شرقي مضيق هرمز بعد اصطدامها بألغام بحرية",
+            "url": "https://t.me/aljazeeraBrk/245641",
+            "title": "بحرية الجيش الإيراني: حريق في ناقلة نفط مخالفة شرقي مضيق هرمز بعد اصطدامها…",
+            "summary": "بحرية الجيش الإيراني: حريق في ناقلة نفط مخالفة شرقي مضيق هرمز بعد اصطدامها بألغام بحرية",
+            "date_modified": "2026-11-21T11:37:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "ea3bdfd913df09596ccd7bfc789e1965939c25b3bb904f0138dfd6fbec15a6fb",
+            "content_html": "حرس الحدود الفنلندي: حريق في سفينة شحن روسية شرقي خليج فنلندا وقواتنا تقود عملية الإنقاذ",
+            "url": "https://t.me/aljazeeraBrk/245640",
+            "title": "حرس الحدود الفنلندي: حريق في سفينة شحن روسية شرقي خليج فنلندا وقواتنا تقود…",
+            "summary": "حرس الحدود الفنلندي: حريق في سفينة شحن روسية شرقي خليج فنلندا وقواتنا تقود عملية الإنقاذ",
+            "date_modified": "2026-11-21T11:35:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "d7556eb9b2ea4211e43fff8dfbaed4278ff7655310dba9b3714c1a31e683d24d",
             "content_html": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">اتفق مسؤولون فلسطينيون مع الهيئة العامة للاجئين الفلسطينيين العرب في سوريا،&nbsp;على إعداد ورقة عمل موحدة تتضمن أبرز احتياجات اللاجئين الفلسطينيين والقضايا التي تواجههم والرؤى المشتركة لمعالجتها، لتكون أساساً للتحرك والتنسيق مع الجهات السورية المعنية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">جاء ذلك خلال لقاء جمع عضو اللجنة التنفيذية لمنظمة التحرير الفلسطينية، رئيس دائرة شؤون اللاجئين أحمد أبو هولي، وسفير السلطة الفلسطينية لدى سوريا سمير الرفاعي والوفد المرافق لهما، مع رئيس مجلس إدارة الهيئة العامة للاجئين الفلسطينيين العرب ضياء الدين محمد وأعضاء مجلس الإدارة.</span></span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وناقش المجتمعون الأوضاع المعيشية والاقتصادية والخدمية للاجئين الفلسطينيين في المخيمات والتجمعات السورية، وواقع الخدمات الأساسية والبنية التحتية، مؤكدين ضرورة تحديد الملفات ذات الأولوية ومتابعتها بالتنسيق مع المؤسسات المعنية، بما يخفف الأعباء عن اللاجئين ويعزز صمودهم</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما بحث اللقاء جملة من القضايا المدنية والقانونية، في مقدمتها الإشكاليات المتعلقة بتملك العقارات ونقل الملكية والإرث، فضلاً عن أوضاع إقامة الفلسطينيين غير السوريين وما يرافقها من تحديات ومعاملات إدارية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكد الجانبان أهمية متابعة هذه الملفات مع الجهات السورية المختصة، والعمل على إيجاد معالجات عملية تصون الحقوق المدنية والقانونية للاجئين الفلسطينيين</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وشدد أبو هولي على أهمية تكامل الأدوار وتوحيد الجهود بين دائرة شؤون اللاجئين والهيئة العامة للاجئين الفلسطينيين العرب، بالتنسيق مع سفارة السلطة في دمشق، لضمان تقديم خدمات أفضل للاجئين وصون حقوقهم المدنية والإنسانية إلى حين تحقيق حق العودة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وجدد المجتمعون مطالبتهم باستمرار وكالة غوث وتشغيل اللاجئين الفلسطينيين \"أونروا\" في أداء مهامها وتقديم خدماتها التعليمية والصحية والإغاثية، والحفاظ على تفويضها الأممي، والتصدي للمحاولات الرامية إلى تقويض دورها أو إنهائه</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">واعتبروا أن وجود الوكالة يشكل شاهداً دولياً على قضية اللاجئين الفلسطينيين وحقوقهم، إلى حين التوصل إلى حل عادل لقضيتهم وفق قرارات الشرعية الدولية، وفي مقدمتها القرار </span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">\"194\"</span></span><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">.</span></span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما هنأ أبو هولي الشعب السوري باقتراب ذكرى \"عيد التحرير\"، التي تصادف الثامن من كانون الأول/ديسمبر، متمنياً لسوريا وشعبها الأمن والاستقرار والتقدم</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>",
             "url": "https://refugeesps.net/post/37886/%D9%88%D8%B1%D9%82%D8%A9-%D8%B9%D9%85%D9%84-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
@@ -12,6 +57,17 @@
             "summary": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">اتفق مسؤولون فلسطينيون مع الهيئة العامة للاجئين الفلسطينيين العرب في سوريا،&nbsp;على إعداد ورقة عمل موحدة تتضمن أبرز احتياجات اللاجئين الفلسطينيين والقضايا التي تواجههم والرؤى المشتركة لمعالجتها، لتكون أساساً للتحرك والتنسيق مع الجهات السورية المعنية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">جاء ذلك خلال لقاء جمع عضو اللجنة التنفيذية لمنظمة التحرير الفلسطينية، رئيس دائرة شؤون اللاجئين أحمد أبو هولي، وسفير السلطة الفلسطينية لدى سوريا سمير الرفاعي والوفد المرافق لهما، مع رئيس مجلس إدارة الهيئة العامة للاجئين الفلسطينيين العرب ضياء الدين محمد وأعضاء مجلس الإدارة.</span></span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وناقش المجتمعون الأوضاع المعيشية والاقتصادية والخدمية للاجئين الفلسطينيين في المخيمات والتجمعات السورية، وواقع الخدمات الأساسية والبنية التحتية، مؤكدين ضرورة تحديد الملفات ذات الأولوية ومتابعتها بالتنسيق مع المؤسسات المعنية، بما يخفف الأعباء عن اللاجئين ويعزز صمودهم</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما بحث اللقاء جملة من القضايا المدنية والقانونية، في مقدمتها الإشكاليات المتعلقة بتملك العقارات ونقل الملكية والإرث، فضلاً عن أوضاع إقامة الفلسطينيين غير السوريين وما يرافقها من تحديات ومعاملات إدارية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وأكد الجانبان أهمية متابعة هذه الملفات مع الجهات السورية المختصة، والعمل على إيجاد معالجات عملية تصون الحقوق المدنية والقانونية للاجئين الفلسطينيين</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وشدد أبو هولي على أهمية تكامل الأدوار وتوحيد الجهود بين دائرة شؤون اللاجئين والهيئة العامة للاجئين الفلسطينيين العرب، بالتنسيق مع سفارة السلطة في دمشق، لضمان تقديم خدمات أفضل للاجئين وصون حقوقهم المدنية والإنسانية إلى حين تحقيق حق العودة</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وجدد المجتمعون مطالبتهم باستمرار وكالة غوث وتشغيل اللاجئين الفلسطينيين \"أونروا\" في أداء مهامها وتقديم خدماتها التعليمية والصحية والإغاثية، والحفاظ على تفويضها الأممي، والتصدي للمحاولات الرامية إلى تقويض دورها أو إنهائه</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">واعتبروا أن وجود الوكالة يشكل شاهداً دولياً على قضية اللاجئين الفلسطينيين وحقوقهم، إلى حين التوصل إلى حل عادل لقضيتهم وفق قرارات الشرعية الدولية، وفي مقدمتها القرار </span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">\"194\"</span></span><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">.</span></span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">كما هنأ أبو هولي الشعب السوري باقتراب ذكرى \"عيد التحرير\"، التي تصادف الثامن من كانون الأول/ديسمبر، متمنياً لسوريا وشعبها الأمن والاستقرار والتقدم</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>",
             "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/11/imvt4.jpeg",
             "date_modified": "2026-11-21T11:33:24.107Z"
+        },
+        {
+            "id": "8574bb3b5d69667982c216bd2f6c9ddb354ea3d30a943c7923cc453df3fad984",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxPUEk2V1V4U1RVWWxkakJWME5tYnBJdTI0STZ2VlllVzl0QVQ3dERaM09MTVZhN2lNand1X1hzNV82dTBuS3ppUmpucE80TVN3TlJSWW00VnNRbUxmWTRPTHhjTGw2SGlQNkZHX2hBenpWSHZVbGs3NHoyaS05eWl3UFk3aEd2eWcxWXEwMHBIUk5LTU50bTRZUWMxZDJLcXJQLVJ1amRrNG5zRHRoRlQ4RnFmVDVSVlVXVHkzcU16bUZjVi1CN3R1Y0k0V1Jza3Vtek9oblBCNWgyU25JT205UFlQVlktejJpRHR3NF9IbTZJRE5oX2ZJOENJRTFYZTk2V0NNYzJIcVRNTVJRckdhcXc0WGoyek9WUkpsM3VlS1N2NkVEMkRlZ0JlSElzdTR2OExGTk4waEFuYUJFSlRobDBITzUyS182eE14TDYyaXRhN2FRbzJCdFNTS1hqdG1BbUhoQU5PSkI1T3NKbmlOQTNLSE1jRExNYmRXMjFOMnJERXh1UTFFUEpINDBaLVJ5anN5ZUxHVE5RZTlPSjZaUG52NXVfVHRuLTNGXzdwN1FLLUQ2bHlSWG9fek5CUC1JTmR2TW5HZ0p2aGNEU2E0QWNZX295Y2lPQWU5V1BRdFVleHJP?oc=5\" target=\"_blank\">ورقة عمل موحدة لمتابعة قضايا اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPUEk2V1V4U1RVWWxkakJWME5tYnBJdTI0STZ2VlllVzl0QVQ3dERaM09MTVZhN2lNand1X1hzNV82dTBuS3ppUmpucE80TVN3TlJSWW00VnNRbUxmWTRPTHhjTGw2SGlQNkZHX2hBenpWSHZVbGs3NHoyaS05eWl3UFk3aEd2eWcxWXEwMHBIUk5LTU50bTRZUWMxZDJLcXJQLVJ1amRrNG5zRHRoRlQ4RnFmVDVSVlVXVHkzcU16bUZjVi1CN3R1Y0k0V1Jza3Vtek9oblBCNWgyU25JT205UFlQVlktejJpRHR3NF9IbTZJRE5oX2ZJOENJRTFYZTk2V0NNYzJIcVRNTVJRckdhcXc0WGoyek9WUkpsM3VlS1N2NkVEMkRlZ0JlSElzdTR2OExGTk4waEFuYUJFSlRobDBITzUyS182eE14TDYyaXRhN2FRbzJCdFNTS1hqdG1BbUhoQU5PSkI1T3NKbmlOQTNLSE1jRExNYmRXMjFOMnJERXh1UTFFUEpINDBaLVJ5anN5ZUxHVE5RZTlPSjZaUG52NXVfVHRuLTNGXzdwN1FLLUQ2bHlSWG9fek5CUC1JTmR2TW5HZ0p2aGNEU2E0QWNZX295Y2lPQWU5V1BRdFVleHJP?oc=5",
+            "title": "ورقة عمل موحدة لمتابعة قضايا اللاجئين الفلسطينيين في سوريا - بوابة اللاجئين الفلسطينيين",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5ANBVV95cUxPUEk2V1V4U1RVWWxkakJWME5tYnBJdTI0STZ2VlllVzl0QVQ3dERaM09MTVZhN2lNand1X1hzNV82dTBuS3ppUmpucE80TVN3TlJSWW00VnNRbUxmWTRPTHhjTGw2SGlQNkZHX2hBenpWSHZVbGs3NHoyaS05eWl3UFk3aEd2eWcxWXEwMHBIUk5LTU50bTRZUWMxZDJLcXJQLVJ1amRrNG5zRHRoRlQ4RnFmVDVSVlVXVHkzcU16bUZjVi1CN3R1Y0k0V1Jza3Vtek9oblBCNWgyU25JT205UFlQVlktejJpRHR3NF9IbTZJRE5oX2ZJOENJRTFYZTk2V0NNYzJIcVRNTVJRckdhcXc0WGoyek9WUkpsM3VlS1N2NkVEMkRlZ0JlSElzdTR2OExGTk4waEFuYUJFSlRobDBITzUyS182eE14TDYyaXRhN2FRbzJCdFNTS1hqdG1BbUhoQU5PSkI1T3NKbmlOQTNLSE1jRExNYmRXMjFOMnJERXh1UTFFUEpINDBaLVJ5anN5ZUxHVE5RZTlPSjZaUG52NXVfVHRuLTNGXzdwN1FLLUQ2bHlSWG9fek5CUC1JTmR2TW5HZ0p2aGNEU2E0QWNZX295Y2lPQWU5V1BRdFVleHJP?oc=5\" target=\"_blank\">ورقة عمل موحدة لمتابعة قضايا اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
+            "date_modified": "2026-11-21T11:27:00.000Z",
+            "author": {
+                "name": "بوابة اللاجئين الفلسطينيين"
+            }
         },
         {
             "id": "ee9114a6e7796b100d62382ec7e38da4edabcbd0d143c0bc05147741406eae54",
@@ -1548,62 +1604,6 @@
             "title": "الناطق باسم أنصار الله الحوثيين: ندعو العاملين في المركز المالي بمدينة الملك…",
             "summary": "الناطق باسم أنصار الله الحوثيين: ندعو العاملين في المركز المالي بمدينة الملك عبد الله للابتعاد عنه فورا",
             "date_modified": "2026-11-20T12:07:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "b0cf108ea8569214373988776aa19ea94d33025fb5e928850848be5b8d0db7e3",
-            "content_html": "الناطق باسم أنصار الله الحوثيين: محطة الشقيق الكهربائية ستكون هدفا لقواتنا  ردا على استهداف محطتي صعدة والمخا",
-            "url": "https://t.me/aljazeeraBrk/245476",
-            "title": "الناطق باسم أنصار الله الحوثيين: محطة الشقيق الكهربائية ستكون هدفا لقواتنا ردا…",
-            "summary": "الناطق باسم أنصار الله الحوثيين: محطة الشقيق الكهربائية ستكون هدفا لقواتنا  ردا على استهداف محطتي صعدة والمخا",
-            "date_modified": "2026-11-20T12:07:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "8c924875543b6853b93dd113c6c5751cb52cf113d96c317bd0fdd70dc35b65ec",
-            "content_html": "<b>المبعوث الأمريكي إلى سوريا توماس براك:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سوريا الآن منفتحة على إبرام صفقات حقيقية واسعة النطاق ومصممة بما يتناسب مع متطلبات المرحلة الراهنة مع كبرى الشركات الأمريكية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>فخور برؤية شركتي \"شيفرون\" والشركة السورية للبترول تعملان معًا لإطلاق العنان لإمكانات سوريا في قطاع الطاقة وإعادة بناء البنية التحتية الحيوية ودفع عجلة النمو الاقتصادي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143134",
-            "title": "المبعوث الأمريكي إلى سوريا توماس براك: 📌سوريا الآن منفتحة على إبرام صفقات…",
-            "summary": "<b>المبعوث الأمريكي إلى سوريا توماس براك:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>سوريا الآن منفتحة على إبرام صفقات حقيقية واسعة النطاق ومصممة بما يتناسب مع متطلبات المرحلة الراهنة مع كبرى الشركات الأمريكية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>فخور برؤية شركتي \"شيفرون\" والشركة السورية للبترول تعملان معًا لإطلاق العنان لإمكانات سوريا في قطاع الطاقة وإعادة بناء البنية التحتية الحيوية ودفع عجلة النمو الاقتصادي<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-20T12:01:36.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "7b943e339645893cf9cc9cefe91af7d4361a64fd8ab3437eb5a36823a11c419e",
-            "content_html": "يحي سريع: محطة الشقيق الكهربائية ستكون هدفا لقواتنا خلال ساعات ردا على استهداف محطتي صعدة والمخا",
-            "url": "https://t.me/aljazeeraBrk/245474",
-            "title": "يحي سريع: محطة الشقيق الكهربائية ستكون هدفا لقواتنا خلال ساعات ردا على استهداف…",
-            "summary": "يحي سريع: محطة الشقيق الكهربائية ستكون هدفا لقواتنا خلال ساعات ردا على استهداف محطتي صعدة والمخا",
-            "date_modified": "2026-11-20T11:55:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "fe9e89b9ddbe00e24f783ecd73c55061da14ef6c9031b20ab12fb7d3eadacfde",
-            "content_html": "<b>الإخبارية: </b>وزير الداخلية أنس خطاب يصل إلى بلدة العتيبة بريف دمشق لمشاركة أهالي البلدة فرحتهم بالقبض على المجرم رواد زيدان المخطط لمجزرة العتيبة عام 2014<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143133",
-            "title": "الإخبارية: وزير الداخلية أنس خطاب يصل إلى بلدة العتيبة بريف دمشق لمشاركة أهالي…",
-            "summary": "<b>الإخبارية: </b>وزير الداخلية أنس خطاب يصل إلى بلدة العتيبة بريف دمشق لمشاركة أهالي البلدة فرحتهم بالقبض على المجرم رواد زيدان المخطط لمجزرة العتيبة عام 2014<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/DDRpyJVyFcmZf6-KK0H9bRKEIRW125iNLc3ozE4rqmr-L3SJY5uGjzW2YlqWSylb1Pk963Jq9fSH9YxDgWD6Iji9b1kK2AyAqhUD7TLBh9YYUbOpE9nzy9rS6YnCtTOtMkbmIpaBe3KDYFKcEzypoW2uzBRQAsV6U_5BRG1TGkF_YEqZWoAxP2xF5x5oTDzlztqYV93YN9BlYqGl7lvU9ZF3EvkdQGmY_ZG27PF6Cm-4G8ZpmG_TUnGjRH497NuO9TlEooedtv4BmLx02iBOWhwg7bPWZjAb0ihA4uc7-VgFcvejgHuWWBRU0WdAJp9F0G3JettwIRu-oXx28Wbdjg.jpg",
-            "date_modified": "2026-11-20T11:54:07.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "3053531d87982ee6fdda0c37cbccc28b30746054a40842a210288d345dadf860",
-            "content_html": "وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على محطة الكهرباء بمدينة المخا على ساحل البحر الأحمر",
-            "url": "https://t.me/aljazeeraBrk/245473",
-            "title": "وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على محطة الكهرباء بمدينة المخا على…",
-            "summary": "وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على محطة الكهرباء بمدينة المخا على ساحل البحر الأحمر",
-            "date_modified": "2026-11-20T11:47:01.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
