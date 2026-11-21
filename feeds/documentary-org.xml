@@ -4,10 +4,31 @@
         <title>documentary.org</title>
         <link>https://www.documentary.org/rss.xml</link>
         <description>RSS Factory feed "documentary.org" (type: native)</description>
-        <lastBuildDate>Wed, 18 Nov 2026 22:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 06:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[IDA Member Spotlight: Galassia Grassetto]]></title>
+            <link>https://www.documentary.org/blog/ida-member-spotlight-galassia-grassetto</link>
+            <guid isPermaLink="false">09fe6e10b2926644bdc63436becba11904985c9895f077d7448788e26b5eab64</guid>
+            <pubDate>Fri, 20 Nov 2026 23:07:46 GMT</pubDate>
+            <description><![CDATA[    IDA Member Spotlight: Galassia Grassetto
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-20T15:07:46-08:00" title="Friday, November 20, 2026 - 15:07" class="datetime">Fri, 11/20/2026 - 15:07</time>
+</span>
+
+
+]]></description>
+            <content:encoded><![CDATA[    IDA Member Spotlight: Galassia Grassetto
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><a title="View user profile." href="https://www.documentary.org/users/admin" class="username">ida-admin</a></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-20T15:07:46-08:00" title="Friday, November 20, 2026 - 15:07" class="datetime">Fri, 11/20/2026 - 15:07</time>
+</span>
+
+
+]]></content:encoded>
+            <author>ida-admin</author>
+        </item>
         <item>
             <title><![CDATA[Nominees Announced for the 42nd Annual IDA Documentary Awards]]></title>
             <link>https://www.documentary.org/news-blog/nominees-announced-42nd-annual-ida-documentary-awards</link>

@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"documentary.org\" (type: native)",
     "items": [
         {
+            "id": "09fe6e10b2926644bdc63436becba11904985c9895f077d7448788e26b5eab64",
+            "content_html": "    IDA Member Spotlight: Galassia Grassetto\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/users/admin\" class=\"username\">ida-admin</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-20T15:07:46-08:00\" title=\"Friday, November 20, 2026 - 15:07\" class=\"datetime\">Fri, 11/20/2026 - 15:07</time>\n</span>\n\n\n",
+            "url": "https://www.documentary.org/blog/ida-member-spotlight-galassia-grassetto",
+            "title": "IDA Member Spotlight: Galassia Grassetto",
+            "summary": "    IDA Member Spotlight: Galassia Grassetto\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/users/admin\" class=\"username\">ida-admin</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-20T15:07:46-08:00\" title=\"Friday, November 20, 2026 - 15:07\" class=\"datetime\">Fri, 11/20/2026 - 15:07</time>\n</span>\n\n\n",
+            "date_modified": "2026-11-20T23:07:46.000Z",
+            "author": {
+                "name": "ida-admin"
+            }
+        },
+        {
             "id": "c673eb0d50229081b730b61c81a956dfda7b8994578f92f459a253f24bdc7cbd",
             "content_html": "    Nominees Announced for the 42nd Annual IDA Documentary Awards\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><a title=\"View user profile.\" href=\"https://www.documentary.org/users/admin\" class=\"username\">ida-admin</a></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-18T13:59:57-08:00\" title=\"Wednesday, November 18, 2026 - 13:59\" class=\"datetime\">Wed, 11/18/2026 - 13:59</time>\n</span>\n\n\n",
             "url": "https://www.documentary.org/news-blog/nominees-announced-42nd-annual-ida-documentary-awards",
