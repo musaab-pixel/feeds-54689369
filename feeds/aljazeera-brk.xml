@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 21 Nov 2026 21:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 21:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الداخلية البحرينية: زوال الخطر وانتهاء حالة الإنذار مع استمرار العمل…]]></title>
+            <link>https://t.me/aljazeeraBrk/245712</link>
+            <guid isPermaLink="false">875c4213f47a95a7ffe934616bcd0de12d751ced7c360bf985f3c0c72698f3cb</guid>
+            <pubDate>Sat, 21 Nov 2026 21:25:02 GMT</pubDate>
+            <description><![CDATA[وزارة الداخلية البحرينية: زوال الخطر وانتهاء حالة الإنذار مع استمرار العمل بالإجراءات الاحترازية المعتمدة]]></description>
+            <content:encoded><![CDATA[وزارة الداخلية البحرينية: زوال الخطر وانتهاء حالة الإنذار مع استمرار العمل بالإجراءات الاحترازية المعتمدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قوة دفاع البحرين: عمليات الاعتراض نتج عنها سقوط شظايا تسببت بأضرار مادية طفيفة…]]></title>
             <link>https://t.me/aljazeeraBrk/245711</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 22:22:02 GMT</pubDate>
             <description><![CDATA[واشنطن بوست عن مسؤول أمريكي: كوشنر حذر بوتين وقال له إنه بدأ الحرب مع أوكرانيا وتحول لحرب بالوكالة مع أوروبا]]></description>
             <content:encoded><![CDATA[واشنطن بوست عن مسؤول أمريكي: كوشنر حذر بوتين وقال له إنه بدأ الحرب مع أوكرانيا وتحول لحرب بالوكالة مع أوروبا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات جوية مواقع للحوثي في المطالي والخلل…]]></title>
-            <link>https://t.me/aljazeeraBrk/245379</link>
-            <guid isPermaLink="false">e80a6062619afb038caf58f16751e0bfe97ad9fa0ff13227aaa8685c9ced60fb</guid>
-            <pubDate>Thu, 19 Nov 2026 20:47:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات جوية مواقع للحوثي في المطالي والخلل والنقيل بعزلة الأقروض جنوب تعز]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: استهدفنا بغارات جوية مواقع للحوثي في المطالي والخلل والنقيل بعزلة الأقروض جنوب تعز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
