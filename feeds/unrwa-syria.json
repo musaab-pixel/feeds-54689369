@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "f080fc576c8db94c5b9a9f7ae96571dbfb8994a52393fb96aeeb1ca71d8c7c62",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9md3BFYkp5c3VvOVhMc3N6N29USldMeVQ4NmRzU01oSVNqUFF4dTNlMmJRT2FTbXdqNlhoUy10LWh5RFFzb3BzekVQNW5COV9EVW1HZ1pZYzExWUtfTWYwOUIwSks?oc=5\" target=\"_blank\">أبو هولي والرفاعي يبحثان أوضاع اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">النجاح الإخباري</font>",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9md3BFYkp5c3VvOVhMc3N6N29USldMeVQ4NmRzU01oSVNqUFF4dTNlMmJRT2FTbXdqNlhoUy10LWh5RFFzb3BzekVQNW5COV9EVW1HZ1pZYzExWUtfTWYwOUIwSks?oc=5",
+            "title": "أبو هولي والرفاعي يبحثان أوضاع اللاجئين الفلسطينيين في سوريا - النجاح الإخباري",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9md3BFYkp5c3VvOVhMc3N6N29USldMeVQ4NmRzU01oSVNqUFF4dTNlMmJRT2FTbXdqNlhoUy10LWh5RFFzb3BzekVQNW5COV9EVW1HZ1pZYzExWUtfTWYwOUIwSks?oc=5\" target=\"_blank\">أبو هولي والرفاعي يبحثان أوضاع اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">النجاح الإخباري</font>",
+            "date_modified": "2026-11-21T13:16:17.000Z",
+            "author": {
+                "name": "النجاح الإخباري"
+            }
+        },
+        {
             "id": "941fb1138e3cc33439a3baa996ce8814f157ed40be14c61a80a196c9055c2fc3",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiwANBVV95cUxPSV9nWERKVzVsYklLbmdSVnFXNmNLUXEydVNUNmJwaThzbGZ5MzNSbXRldDlqQUNsdlMyLWgwSDNENG5IWlY2N2h2enBfNnpsaUlhWEFOdHVfNTN6NFRVTG5ZaTI0MnRDZmZFQzNGM1c1dU1RbWpjUE9faWR6dmxQSnVhVXk2MFJIQTJzb19ibDUwdDNRZm90QVVRQ2J6aERhRGNLaHpTaXVpT1RydVFtQUtPVG9fQ2NpZ3RSb0RkOG1UMmp5U1dxVUJjb2MxWGp6T0cxdlN4UWNJZE8wb3U3TkxGRV9KMHpWQXhhQ3dBenNFdmpVNzIxa013LTU3d3dwYmFGVEFLN2FfUzhQdkJwdDVtd016em5MbHNPUHd3VnJZYVlMRk8tZG56T3YzMU9HbUxvZkpUZEE3RkZwdW5tUmxMYkZCX1JnZXhWcXdpaEpFRTA1WTZjWHd2bmJlUEhQeDhlb2NnLTJVR3NqZXltNGpEU0wwX013ZjNFTXdBb1VpUExsM0t0MzM1Q29EbXNSdHFqTjVYSFdPVW4tdFBzR0JUbi1pcUUya01YMUFkWVpBMm42VEV5ZFNrUW90Sk1R?oc=5\" target=\"_blank\">الأونروا توزع مساعدات مالية لفلسطينيي سورية في الأردن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة الرأي الفلسطينية -</font>",
             "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPSV9nWERKVzVsYklLbmdSVnFXNmNLUXEydVNUNmJwaThzbGZ5MzNSbXRldDlqQUNsdlMyLWgwSDNENG5IWlY2N2h2enBfNnpsaUlhWEFOdHVfNTN6NFRVTG5ZaTI0MnRDZmZFQzNGM1c1dU1RbWpjUE9faWR6dmxQSnVhVXk2MFJIQTJzb19ibDUwdDNRZm90QVVRQ2J6aERhRGNLaHpTaXVpT1RydVFtQUtPVG9fQ2NpZ3RSb0RkOG1UMmp5U1dxVUJjb2MxWGp6T0cxdlN4UWNJZE8wb3U3TkxGRV9KMHpWQXhhQ3dBenNFdmpVNzIxa013LTU3d3dwYmFGVEFLN2FfUzhQdkJwdDVtd016em5MbHNPUHd3VnJZYVlMRk8tZG56T3YzMU9HbUxvZkpUZEE3RkZwdW5tUmxMYkZCX1JnZXhWcXdpaEpFRTA1WTZjWHd2bmJlUEhQeDhlb2NnLTJVR3NqZXltNGpEU0wwX013ZjNFTXdBb1VpUExsM0t0MzM1Q29EbXNSdHFqTjVYSFdPVW4tdFBzR0JUbi1pcUUya01YMUFkWVpBMm42VEV5ZFNrUW90Sk1R?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-03-31T07:00:00.000Z",
             "author": {
                 "name": "sana.sy"
-            }
-        },
-        {
-            "id": "e687c0abe373509e8798a723b6c958fe6e728a4e0a60d853e35681c584716857",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMihwVBVV95cUxPbFExeUotbVFsc3JLdWlzcUM2b21hMV9VRHcwTFpTZzFlcHJKX0FMcU93OTdvdF9zdFdBYmlKSVJ2VlBlTkNxTHVueVRabTRuS2kxTl9neWtENGpxYmU1dWVUSlVoeEw0cnp5N3RXajAzdHRMbUt0VzZKYkljSndlZjhTQUwtclUtOHpacjZsekszcWRVUkY2YVVzZ3d1b2MwNUw5akN3U0JSRGlaVmZrWjV1a2Iwcm9aa0RRNG5MYjJvbEJadXk2MG80THdFdUpuVnQ2c19ZeVdaREFMZzM2WnM2cnVNcHh5VVFFQjhqV2RVa3EtbDRvcE0zb0sxVXVUWi01S0VjSFg2QWxJYVdwUEgyMEItSkxLcjlKcXZwVTRxSnNWU0ktOGg0Ti1fQ2JSbnozTGdRd2hxakMxLTdOSk1BOGxNVFRJMG1JOUtTeXhuRVdMNTNaQkNmQmtVXzNGT2xqYm9RV0hyMmRmTzBNdHJDc1NrSkxybE5KR0htT3dHN2FZMGhFVENKTFp0SjNENWdGdkhpdHQ3UHRpTlRWc21qRlM1NmJZUV84QV9HY21ZTmM0bHNocWoxWkZUeVRyOHp1WU91bjhEUnBIelVXdlQyNkRDY1FuU1FOOElCNjQ2TzQzUWNwYzVBbVg4eHc4djlRV29qYVpidTNJeXFXcjd6MDkzTFM1UW9sSHNKMzhKWVdBal9LUDdPNzRJZTZldEdjQWJfMHhad2xsMzdPRjJDbERWM1R1Z3FLUmF1cDFfa2lVV05PelRRdXlFelNCeEYzQUc0LUFYQnNrSktHdHJtSjZiN1VHZm5vdFVvQ05wSjNvVWVGZDlSY2FSbHJVTWQ3LWc0Yw?oc=5\" target=\"_blank\">«الأونروا» تطالب بالتحقيق في مقتل 390 من موظفيها خلال حرب غزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
-            "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPbFExeUotbVFsc3JLdWlzcUM2b21hMV9VRHcwTFpTZzFlcHJKX0FMcU93OTdvdF9zdFdBYmlKSVJ2VlBlTkNxTHVueVRabTRuS2kxTl9neWtENGpxYmU1dWVUSlVoeEw0cnp5N3RXajAzdHRMbUt0VzZKYkljSndlZjhTQUwtclUtOHpacjZsekszcWRVUkY2YVVzZ3d1b2MwNUw5akN3U0JSRGlaVmZrWjV1a2Iwcm9aa0RRNG5MYjJvbEJadXk2MG80THdFdUpuVnQ2c19ZeVdaREFMZzM2WnM2cnVNcHh5VVFFQjhqV2RVa3EtbDRvcE0zb0sxVXVUWi01S0VjSFg2QWxJYVdwUEgyMEItSkxLcjlKcXZwVTRxSnNWU0ktOGg0Ti1fQ2JSbnozTGdRd2hxakMxLTdOSk1BOGxNVFRJMG1JOUtTeXhuRVdMNTNaQkNmQmtVXzNGT2xqYm9RV0hyMmRmTzBNdHJDc1NrSkxybE5KR0htT3dHN2FZMGhFVENKTFp0SjNENWdGdkhpdHQ3UHRpTlRWc21qRlM1NmJZUV84QV9HY21ZTmM0bHNocWoxWkZUeVRyOHp1WU91bjhEUnBIelVXdlQyNkRDY1FuU1FOOElCNjQ2TzQzUWNwYzVBbVg4eHc4djlRV29qYVpidTNJeXFXcjd6MDkzTFM1UW9sSHNKMzhKWVdBal9LUDdPNzRJZTZldEdjQWJfMHhad2xsMzdPRjJDbERWM1R1Z3FLUmF1cDFfa2lVV05PelRRdXlFelNCeEYzQUc0LUFYQnNrSktHdHJtSjZiN1VHZm5vdFVvQ05wSjNvVWVGZDlSY2FSbHJVTWQ3LWc0Yw?oc=5",
-            "title": "«الأونروا» تطالب بالتحقيق في مقتل 390 من موظفيها خلال حرب غزة - الشرق الأوسط",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwVBVV95cUxPbFExeUotbVFsc3JLdWlzcUM2b21hMV9VRHcwTFpTZzFlcHJKX0FMcU93OTdvdF9zdFdBYmlKSVJ2VlBlTkNxTHVueVRabTRuS2kxTl9neWtENGpxYmU1dWVUSlVoeEw0cnp5N3RXajAzdHRMbUt0VzZKYkljSndlZjhTQUwtclUtOHpacjZsekszcWRVUkY2YVVzZ3d1b2MwNUw5akN3U0JSRGlaVmZrWjV1a2Iwcm9aa0RRNG5MYjJvbEJadXk2MG80THdFdUpuVnQ2c19ZeVdaREFMZzM2WnM2cnVNcHh5VVFFQjhqV2RVa3EtbDRvcE0zb0sxVXVUWi01S0VjSFg2QWxJYVdwUEgyMEItSkxLcjlKcXZwVTRxSnNWU0ktOGg0Ti1fQ2JSbnozTGdRd2hxakMxLTdOSk1BOGxNVFRJMG1JOUtTeXhuRVdMNTNaQkNmQmtVXzNGT2xqYm9RV0hyMmRmTzBNdHJDc1NrSkxybE5KR0htT3dHN2FZMGhFVENKTFp0SjNENWdGdkhpdHQ3UHRpTlRWc21qRlM1NmJZUV84QV9HY21ZTmM0bHNocWoxWkZUeVRyOHp1WU91bjhEUnBIelVXdlQyNkRDY1FuU1FOOElCNjQ2TzQzUWNwYzVBbVg4eHc4djlRV29qYVpidTNJeXFXcjd6MDkzTFM1UW9sSHNKMzhKWVdBal9LUDdPNzRJZTZldEdjQWJfMHhad2xsMzdPRjJDbERWM1R1Z3FLUmF1cDFfa2lVV05PelRRdXlFelNCeEYzQUc0LUFYQnNrSktHdHJtSjZiN1VHZm5vdFVvQ05wSjNvVWVGZDlSY2FSbHJVTWQ3LWc0Yw?oc=5\" target=\"_blank\">«الأونروا» تطالب بالتحقيق في مقتل 390 من موظفيها خلال حرب غزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الشرق الأوسط</font>",
-            "date_modified": "2026-03-31T07:00:00.000Z",
-            "author": {
-                "name": "الشرق الأوسط"
             }
         }
     ]
