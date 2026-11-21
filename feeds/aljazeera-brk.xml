@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 21 Nov 2026 10:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 11:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 4 شهداء و17 مصابا بنيران قوات الاحتلال في مناطق عدة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245639</link>
+            <guid isPermaLink="false">ee9114a6e7796b100d62382ec7e38da4edabcbd0d143c0bc05147741406eae54</guid>
+            <pubDate>Sat, 21 Nov 2026 11:09:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 4 شهداء و17 مصابا بنيران قوات الاحتلال في مناطق عدة بالقطاع منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 4 شهداء و17 مصابا بنيران قوات الاحتلال في مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع الشفاء الطبي: 3 شهداء وعدد من المصابين في غارة إسرائيلية على مركبة بحي تل…]]></title>
             <link>https://t.me/aljazeeraBrk/245638</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 17:13:02 GMT</pubDate>
             <description><![CDATA[رئيس الوزراء البريطاني: ليس من حق المعتدي في النزاع بأوكرانيا طرح مطالب واسعة النطاق وغير واقعية]]></description>
             <content:encoded><![CDATA[رئيس الوزراء البريطاني: ليس من حق المعتدي في النزاع بأوكرانيا طرح مطالب واسعة النطاق وغير واقعية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الرئيس الفرنسي: الأسابيع القادمة ستكون شديدة الأهمية لأوكرانيا]]></title>
-            <link>https://t.me/aljazeeraBrk/245331</link>
-            <guid isPermaLink="false">e99d852dc6b32bc38a430f981a17029df3bb2587a7f187ee51ac829278bbdfe1</guid>
-            <pubDate>Thu, 19 Nov 2026 17:12:02 GMT</pubDate>
-            <description><![CDATA[الرئيس الفرنسي: الأسابيع القادمة ستكون شديدة الأهمية لأوكرانيا]]></description>
-            <content:encoded><![CDATA[الرئيس الفرنسي: الأسابيع القادمة ستكون شديدة الأهمية لأوكرانيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
