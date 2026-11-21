@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "200a1e4e14300de13a1b9d9616f247190bf53fa2fb6cfd2397ce94c68b76270b",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBWE1UTzI3eGtjSDktSXd2NnRXM2pYWWJ5UDdFdW5aS0ZLQVRXNXcyQXRxUXp6VTZYYkd2djMzcHBySS13YVUybk5XeFNOMmV1bzFWLXprZw?oc=5\" target=\"_blank\">مسؤولون فلسطينيون يتفقون على إعداد ورقة عمل موحدة لمتابعة قضايا اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBWE1UTzI3eGtjSDktSXd2NnRXM2pYWWJ5UDdFdW5aS0ZLQVRXNXcyQXRxUXp6VTZYYkd2djMzcHBySS13YVUybk5XeFNOMmV1bzFWLXprZw?oc=5",
+            "title": "مسؤولون فلسطينيون يتفقون على إعداد ورقة عمل موحدة لمتابعة قضايا اللاجئين الفلسطينيين في سوريا - المركز الفلسطيني للإعلام",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBWE1UTzI3eGtjSDktSXd2NnRXM2pYWWJ5UDdFdW5aS0ZLQVRXNXcyQXRxUXp6VTZYYkd2djMzcHBySS13YVUybk5XeFNOMmV1bzFWLXprZw?oc=5\" target=\"_blank\">مسؤولون فلسطينيون يتفقون على إعداد ورقة عمل موحدة لمتابعة قضايا اللاجئين الفلسطينيين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "date_modified": "2026-11-21T13:46:09.000Z",
+            "author": {
+                "name": "المركز الفلسطيني للإعلام"
+            }
+        },
+        {
             "id": "8cfb5224c7687ce8bfd7ee5146b56aa2ce976b8b3b6b3000d711474c8eee2bec",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FMHZZbWNDLVlGQjBEVHZTMFVPWk1TOHl1QWpBVkMweWpQUk1SeF9MU3cxS19wZnFUdlJlS0tEazJ0ZHp2WUFwanRJSC16TTN6NEFDa3VEZUpLSklnRHNVZmE0OEU?oc=5\" target=\"_blank\">جمعية حماية المستهلك تطالب بإلزامية الذبح في المسالخ ووقف الذبح العشوائي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">النجاح الإخباري</font>",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FMHZZbWNDLVlGQjBEVHZTMFVPWk1TOHl1QWpBVkMweWpQUk1SeF9MU3cxS19wZnFUdlJlS0tEazJ0ZHp2WUFwanRJSC16TTN6NEFDa3VEZUpLSklnRHNVZmE0OEU?oc=5",
@@ -2188,17 +2199,6 @@
             "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVGhpbVd6TXYwYW5WZ25vOENLdGc3dWdKSS16V19sZHlLLU9kMXpaVVRMT05MWTgwaGxCRlRuMUp6SjdDaENoaEpRX24zeXJ2cWQtc096WlNuWWF0UDNmdEE1aFBvcVlpM1lnNHh5bUN1WkNab29ZQ052LWxJeHU1bmNlS29RQzVYVXZMNWZVRS1yZ0p0ZXdzRWt1TkFGcE1yalVjd0ltNmgxNzFEb050dUw3eVhfTENoLThMbDZFNWVlZG9OLTlmSU9WeGgyWlV0YWY4R1BOWG1uY0NGMnhpdkoyeURkT2U2MUI3cThKM0VXT3VBTDd0MVFMOWdlWkNTZkxkSS1PbHJuTFd0dUMydUpjd1huTHUyeFpFc1d2blFaR0VteE5HdHZ6UTNIc3V3U25rOUxMbmo2ZExlYTRRQ01ybFNUUVlZNWdwd0pn0gHTAkFVX3lxTE9yODVlcVFWRU9weC1qTW8zbFJ5Q0diZDdQZEl3eEhkb2FSRDFZampmZk0xWDV5dXNMR1JJNmZFdHZoUzd3alVFYlg2M3RzSXpkVG1iVHEzZFB4aW1MaV9uLVFuZlJNMXJqUklPVUdYQTg5SGl2eEVQRXdNTFc2R2ZrOTEwUG5YMlcyM25sdjlDR1dhLWE4WXp3WER3YmZpTDRYeG0zek9WZ3A3eExVOUV0ckMyY3VMTXdkN19PelBmbVI0ZVplZjZyZnQybXUtMzNjdGRSNDdYTkdESUlmZURNbGltazhocGlORGRQNWp2R09udDVPc1dKcENJbm5LTVU4QVN5ZEdZVWd4eE5tV08wdzFSX2hCTWpCUEVhdFNPUlktYlVLNTBHR0hQcHJQdWdwRzNOa3B0ZjhKTmNLdUJMalJVV3JNeTRzRlhnQlRnWU9Bbw?oc=5",
             "title": "الأردن ولبنان وسوريا.. \"الأونروا\" شبكة أمان لا بديل لها - الجزيرة نت",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxPVGhpbVd6TXYwYW5WZ25vOENLdGc3dWdKSS16V19sZHlLLU9kMXpaVVRMT05MWTgwaGxCRlRuMUp6SjdDaENoaEpRX24zeXJ2cWQtc096WlNuWWF0UDNmdEE1aFBvcVlpM1lnNHh5bUN1WkNab29ZQ052LWxJeHU1bmNlS29RQzVYVXZMNWZVRS1yZ0p0ZXdzRWt1TkFGcE1yalVjd0ltNmgxNzFEb050dUw3eVhfTENoLThMbDZFNWVlZG9OLTlmSU9WeGgyWlV0YWY4R1BOWG1uY0NGMnhpdkoyeURkT2U2MUI3cThKM0VXT3VBTDd0MVFMOWdlWkNTZkxkSS1PbHJuTFd0dUMydUpjd1huTHUyeFpFc1d2blFaR0VteE5HdHZ6UTNIc3V3U25rOUxMbmo2ZExlYTRRQ01ybFNUUVlZNWdwd0pn0gHTAkFVX3lxTE9yODVlcVFWRU9weC1qTW8zbFJ5Q0diZDdQZEl3eEhkb2FSRDFZampmZk0xWDV5dXNMR1JJNmZFdHZoUzd3alVFYlg2M3RzSXpkVG1iVHEzZFB4aW1MaV9uLVFuZlJNMXJqUklPVUdYQTg5SGl2eEVQRXdNTFc2R2ZrOTEwUG5YMlcyM25sdjlDR1dhLWE4WXp3WER3YmZpTDRYeG0zek9WZ3A3eExVOUV0ckMyY3VMTXdkN19PelBmbVI0ZVplZjZyZnQybXUtMzNjdGRSNDdYTkdESUlmZURNbGltazhocGlORGRQNWp2R09udDVPc1dKcENJbm5LTVU4QVN5ZEdZVWd4eE5tV08wdzFSX2hCTWpCUEVhdFNPUlktYlVLNTBHR0hQcHJQdWdwRzNOa3B0ZjhKTmNLdUJMalJVV3JNeTRzRlhnQlRnWU9Bbw?oc=5\" target=\"_blank\">الأردن ولبنان وسوريا.. \"الأونروا\" شبكة أمان لا بديل لها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-            "date_modified": "2026-07-19T07:00:00.000Z",
-            "author": {
-                "name": "الجزيرة نت"
-            }
-        },
-        {
-            "id": "14bda4fc444adb05f9919232e0387a16889db8dd5d8b8a40caa9a3e9a73b4f97",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxPVGhpbVd6TXYwYW5WZ25vOENLdGc3dWdKSS16V19sZHlLLU9kMXpaVVRMT05MWTgwaGxCRlRuMUp6SjdDaENoaEpRX24zeXJ2cWQtc096WlNuWWF0UDNmdEE1aFBvcVlpM1lnNHh5bUN1WkNab29ZQ052LWxJeHU1bmNlS29RQzVYVXZMNWZVRS1yZ0p0ZXdzRWt1TkFGcE1yalVjd0ltNmgxNzFEb050dUw3eVhfTENoLThMbDZFNWVlZG9OLTlmSU9WeGgyWlV0YWY4R1BOWG1uY0NGMnhpdkoyeURkT2U2MUI3cThKM0VXT3VBTDd0MVFMOWdlWkNTZkxkSS1PbHJuTFd0dUMydUpjd1huTHUyeFpFc1d2blFaR0VteE5HdHZ6UTNIc3V3U25rOUxMbmo2ZExlYTRRQ01ybFNUUVlZNWdwd0pn?oc=5\" target=\"_blank\">الأردن ولبنان وسوريا.. \"الأونروا\" شبكة أمان لا بديل لها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-            "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVGhpbVd6TXYwYW5WZ25vOENLdGc3dWdKSS16V19sZHlLLU9kMXpaVVRMT05MWTgwaGxCRlRuMUp6SjdDaENoaEpRX24zeXJ2cWQtc096WlNuWWF0UDNmdEE1aFBvcVlpM1lnNHh5bUN1WkNab29ZQ052LWxJeHU1bmNlS29RQzVYVXZMNWZVRS1yZ0p0ZXdzRWt1TkFGcE1yalVjd0ltNmgxNzFEb050dUw3eVhfTENoLThMbDZFNWVlZG9OLTlmSU9WeGgyWlV0YWY4R1BOWG1uY0NGMnhpdkoyeURkT2U2MUI3cThKM0VXT3VBTDd0MVFMOWdlWkNTZkxkSS1PbHJuTFd0dUMydUpjd1huTHUyeFpFc1d2blFaR0VteE5HdHZ6UTNIc3V3U25rOUxMbmo2ZExlYTRRQ01ybFNUUVlZNWdwd0pn?oc=5",
-            "title": "الأردن ولبنان وسوريا.. \"الأونروا\" شبكة أمان لا بديل لها - الجزيرة نت",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxPVGhpbVd6TXYwYW5WZ25vOENLdGc3dWdKSS16V19sZHlLLU9kMXpaVVRMT05MWTgwaGxCRlRuMUp6SjdDaENoaEpRX24zeXJ2cWQtc096WlNuWWF0UDNmdEE1aFBvcVlpM1lnNHh5bUN1WkNab29ZQ052LWxJeHU1bmNlS29RQzVYVXZMNWZVRS1yZ0p0ZXdzRWt1TkFGcE1yalVjd0ltNmgxNzFEb050dUw3eVhfTENoLThMbDZFNWVlZG9OLTlmSU9WeGgyWlV0YWY4R1BOWG1uY0NGMnhpdkoyeURkT2U2MUI3cThKM0VXT3VBTDd0MVFMOWdlWkNTZkxkSS1PbHJuTFd0dUMydUpjd1huTHUyeFpFc1d2blFaR0VteE5HdHZ6UTNIc3V3U25rOUxMbmo2ZExlYTRRQ01ybFNUUVlZNWdwd0pn?oc=5\" target=\"_blank\">الأردن ولبنان وسوريا.. \"الأونروا\" شبكة أمان لا بديل لها</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
             "date_modified": "2026-07-19T07:00:00.000Z",
             "author": {
                 "name": "الجزيرة نت"
