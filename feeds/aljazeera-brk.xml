@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 21 Nov 2026 21:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 21:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية…]]></title>
+            <link>https://t.me/aljazeeraBrk/245713</link>
+            <guid isPermaLink="false">7b362c693b93c6c8819c0dc6df917194ed4039a9b22650cd13d37d8bb9ca6ba2</guid>
+            <pubDate>Sat, 21 Nov 2026 21:32:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية باتجاه المنطقة الغربية]]></description>
+            <content:encoded><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير صاروخ باليستي أطلقته الميليشيا الحوثية باتجاه المنطقة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الداخلية البحرينية: زوال الخطر وانتهاء حالة الإنذار مع استمرار العمل…]]></title>
             <link>https://t.me/aljazeeraBrk/245712</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 22:27:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مصادر: المدير الوطني للأمن السيبراني في البيت الأبيض سيغادر منصبه]]></description>
             <content:encoded><![CDATA[أكسيوس عن مصادر: المدير الوطني للأمن السيبراني في البيت الأبيض سيغادر منصبه]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[واشنطن بوست عن مسؤول أمريكي: كوشنر حذر بوتين وقال له إنه بدأ الحرب مع أوكرانيا…]]></title>
-            <link>https://t.me/aljazeeraBrk/245380</link>
-            <guid isPermaLink="false">e226ca4596bd9731934ef37157192467130585215661017b8139887b802e2b82</guid>
-            <pubDate>Thu, 19 Nov 2026 22:22:02 GMT</pubDate>
-            <description><![CDATA[واشنطن بوست عن مسؤول أمريكي: كوشنر حذر بوتين وقال له إنه بدأ الحرب مع أوكرانيا وتحول لحرب بالوكالة مع أوروبا]]></description>
-            <content:encoded><![CDATA[واشنطن بوست عن مسؤول أمريكي: كوشنر حذر بوتين وقال له إنه بدأ الحرب مع أوكرانيا وتحول لحرب بالوكالة مع أوروبا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
