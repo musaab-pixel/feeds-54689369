@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 21 Nov 2026 10:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 10:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية على مركبة بحي تل الهوى جنوب…]]></title>
+            <link>https://t.me/aljazeeraBrk/245635</link>
+            <guid isPermaLink="false">54ebc3de9406ad3dfeb043c6174cb2595c923ed71d378f553db3a873131c5233</guid>
+            <pubDate>Sat, 21 Nov 2026 10:39:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية على مركبة بحي تل الهوى جنوب غربي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في غارة إسرائيلية على مركبة بحي تل الهوى جنوب غربي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الناطق باسم القائد العام للقوات المسلحة بالعراق: شرطة الطاقة تستكمل انتشارها…]]></title>
             <link>https://t.me/aljazeeraBrk/245634</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 19 Nov 2026 16:58:02 GMT</pubDate>
             <description><![CDATA[زيلنسكي: الجولة المقبلة من المحادثات مع روسيا يجب أن تشارك فيها أوروبا]]></description>
             <content:encoded><![CDATA[زيلنسكي: الجولة المقبلة من المحادثات مع روسيا يجب أن تشارك فيها أوروبا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المستشار الألماني: يمكن رفع العقوبات عن روسيا بشروط وموسكو تعلم أن مطالبها…]]></title>
-            <link>https://t.me/aljazeeraBrk/245327</link>
-            <guid isPermaLink="false">e820ec02a4f663d84defc21cf0dd8b04122a063bdfe3b05909b145154ca321c3</guid>
-            <pubDate>Thu, 19 Nov 2026 16:54:03 GMT</pubDate>
-            <description><![CDATA[المستشار الألماني: يمكن رفع العقوبات عن روسيا بشروط وموسكو تعلم أن مطالبها القصوى غير واقعية]]></description>
-            <content:encoded><![CDATA[المستشار الألماني: يمكن رفع العقوبات عن روسيا بشروط وموسكو تعلم أن مطالبها القصوى غير واقعية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
