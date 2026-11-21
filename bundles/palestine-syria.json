@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "7bdd27122ebc1c2cae21e2d780764799716094e2967b7d95ebb42927c1f8df18",
+            "content_html": "وزير الداخلية العراقي: يجب أن تنسحب القوات القتالية من الشوارع وأن يقتصر الانتشار على قوات النجدة والمرور",
+            "url": "https://t.me/aljazeeraBrk/245721",
+            "title": "وزير الداخلية العراقي: يجب أن تنسحب القوات القتالية من الشوارع وأن يقتصر…",
+            "summary": "وزير الداخلية العراقي: يجب أن تنسحب القوات القتالية من الشوارع وأن يقتصر الانتشار على قوات النجدة والمرور",
+            "date_modified": "2026-11-21T23:06:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "807cc224936ccf47063be677253650113841fe01baa14854555e6de8d5d7a68b",
+            "content_html": "مراسل الجزيرة: قوات الاحتلال تقتحم بلدة دير السودان بالضفة الغربية وتطلق قنابل الغاز باتجاه فلسطينيين",
+            "url": "https://t.me/aljazeeraBrk/245720",
+            "title": "مراسل الجزيرة: قوات الاحتلال تقتحم بلدة دير السودان بالضفة الغربية وتطلق قنابل…",
+            "summary": "مراسل الجزيرة: قوات الاحتلال تقتحم بلدة دير السودان بالضفة الغربية وتطلق قنابل الغاز باتجاه فلسطينيين",
+            "date_modified": "2026-11-21T22:56:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "fb0b10cac409a35124dbf9ac8de5ddf9f8999ef547170c53b49d64f417eb2bfc",
             "content_html": "الخارجية البحرينية: نرفض ذرائع الحرس الثوري الإيراني لعدوانه والوقائع تثبت أن الهدف منشأة صناعية مدنية بحتة",
             "url": "https://t.me/aljazeeraBrk/245718",
@@ -1605,29 +1627,6 @@
             "title": "حمص الفداء يفوز على الحرية بنتيجة 3-2 ضمن الجولة السادسة من دوري برايم…",
             "summary": "حمص الفداء يفوز على الحرية بنتيجة 3-2 ضمن الجولة السادسة من دوري برايم للمحترفين لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "date_modified": "2026-11-20T18:50:30.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "b6a2a53a6db3922656de899a07ebf76c8c91d8e880d652fda5da25cde63671ed",
-            "content_html": "حطين يفوز على الوحدة بنتيجة 1-0 ضمن الجولة السادسة من دوري برايم للمحترفين لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143149",
-            "title": "حطين يفوز على الوحدة بنتيجة 1-0 ضمن الجولة السادسة من دوري برايم للمحترفين لكرة…",
-            "summary": "حطين يفوز على الوحدة بنتيجة 1-0 ضمن الجولة السادسة من دوري برايم للمحترفين لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-20T18:47:59.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "f4f732ca417d9d68e7ff338255cd1763959dfed45dcbcc83840e25778224e6e5",
-            "content_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">الإخبارية عن وزارة الداخلية: صور أفراد الخلية المتورطة بخطف التاجر فادي بركات في حلب بعد إلقاء القبض عليها وتحريره في 16 تشرين الثاني الجاري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "url": "https://t.me/HalabTodayTV/143144",
-            "title": "الإخبارية عن وزارة الداخلية: صور أفراد الخلية المتورطة بخطف التاجر فادي بركات…",
-            "summary": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">الإخبارية عن وزارة الداخلية: صور أفراد الخلية المتورطة بخطف التاجر فادي بركات في حلب بعد إلقاء القبض عليها وتحريره في 16 تشرين الثاني الجاري<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a></div>",
-            "image": "https://cdn4.telesco.pe/file/UhaV4v93JE7I8Ax27gUJ5pbZEWy3nlDKxPZEoLUa5u2wIPZjw15O1KdYHZaYQTvCkrGT7Z2uE-NXFN85yNjcF5C49-D7L6XwWwfrdwIuzOpr3MAv7YcRxnXotCsNAnnu2dAwCKZGKeIzbDiOcsuGY-upattDxX8w0ephOD2-YWsEQHeCVVy-DFZe2VwrhSQTNg2BTb2o2-JiEsPKZNhlLAUOahdB9A_zev5-SqEJd5MpX5sEF8R814U9K4RiRKqmgNYGzCLBsSxY-DRQdgqOSPR-a5g-R0QQ7lVTPxYQb4oGW-vf2MOJvGdDOkgsK_czeySuGgxj_qEC7dPDlWXC2w.jpg",
-            "date_modified": "2026-11-20T18:41:31.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
