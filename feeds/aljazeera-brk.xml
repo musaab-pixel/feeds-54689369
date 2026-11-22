@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 12:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 12:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة بئر النعجة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245754</link>
+            <guid isPermaLink="false">35e2374b1f6e1dfbd91cdd8a1e8ffa967583e05068c24aebe140868fa3d6bd45</guid>
+            <pubDate>Sun, 22 Nov 2026 12:11:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة بئر النعجة شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: مصابون في قصف من مسيرة إسرائيلية على منطقة بئر النعجة شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش اللبناني: ضبطنا ٢٦٤ كلغ من المواد المتفجرة المهربة من سوريا في منطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/245753</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 05:21:02 GMT</pubDate>
             <description><![CDATA[قيادة عمليات كييف: 3 قتلى ومصابان في الهجمات الروسية على المدينة]]></description>
             <content:encoded><![CDATA[قيادة عمليات كييف: 3 قتلى ومصابان في الهجمات الروسية على المدينة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس بلدية كييف: أضرار في جسرين بالمدينة إثر هجوم روسي بصواريخ باليستية وعلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/245434</link>
-            <guid isPermaLink="false">7a14df8a0344d6bdb727493cadc8a60a69e94f065b658b4262d9b122cc2f399c</guid>
-            <pubDate>Fri, 20 Nov 2026 05:16:02 GMT</pubDate>
-            <description><![CDATA[رئيس بلدية كييف: أضرار في جسرين بالمدينة إثر هجوم روسي بصواريخ باليستية وعلى السكان عدم التنقل بمركباتهم]]></description>
-            <content:encoded><![CDATA[رئيس بلدية كييف: أضرار في جسرين بالمدينة إثر هجوم روسي بصواريخ باليستية وعلى السكان عدم التنقل بمركباتهم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
