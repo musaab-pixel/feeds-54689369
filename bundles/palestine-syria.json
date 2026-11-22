@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "5c8939d5f40d4b7f03827ce7c7c0b5ed62827856edee0676dcfc3ae1b8d9bf7c",
+            "content_html": "الحكومة السودانية: ندين إقدام مليشيا الدعم السريع على إعدام أسرى من الجيش في إقليم النيل الأزرق",
+            "url": "https://t.me/aljazeeraBrk/245746",
+            "title": "الحكومة السودانية: ندين إقدام مليشيا الدعم السريع على إعدام أسرى من الجيش في…",
+            "summary": "الحكومة السودانية: ندين إقدام مليشيا الدعم السريع على إعدام أسرى من الجيش في إقليم النيل الأزرق",
+            "date_modified": "2026-11-22T11:16:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "45fa9a5d1f1c55e10522783d3e901e5288f65e29698ad13b925e68c7a75dc811",
             "content_html": "وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات جوية تستهدف مدينة المخا ومديرية حيفان في تعز جنوب غربي اليمن",
             "url": "https://t.me/aljazeeraBrk/245745",
@@ -1612,17 +1623,6 @@
             "date_modified": "2026-11-21T10:30:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "67c99bc58916b9f432b6635db6fc1e6459c33179ae5ec1846c17e4f810e31c7c",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kenB5RWxDQXNiYm9neVFfdWlmM253ZUF0aUgtT193MU9wVmpsX3FuV01kaGlaUUo3dmZPQUI5MXkyR1ZjdmdKaHNrYUQ?oc=5\" target=\"_blank\">أبو هولي والرفاعي يبحثان مع الهيئة العامة للاجئين الفلسطينيين في سوريا أوضاع المخيمات الفلسطينية وسبل تعزيز التعاون المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة فلسطين للأنباء - شفا</font>",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kenB5RWxDQXNiYm9neVFfdWlmM253ZUF0aUgtT193MU9wVmpsX3FuV01kaGlaUUo3dmZPQUI5MXkyR1ZjdmdKaHNrYUQ?oc=5",
-            "title": "أبو هولي والرفاعي يبحثان مع الهيئة العامة للاجئين الفلسطينيين في سوريا أوضاع المخيمات الفلسطينية وسبل تعزيز التعاون المشترك - شبكة فلسطين للأنباء - شفا",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kenB5RWxDQXNiYm9neVFfdWlmM253ZUF0aUgtT193MU9wVmpsX3FuV01kaGlaUUo3dmZPQUI5MXkyR1ZjdmdKaHNrYUQ?oc=5\" target=\"_blank\">أبو هولي والرفاعي يبحثان مع الهيئة العامة للاجئين الفلسطينيين في سوريا أوضاع المخيمات الفلسطينية وسبل تعزيز التعاون المشترك</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة فلسطين للأنباء - شفا</font>",
-            "date_modified": "2026-11-21T10:29:46.000Z",
-            "author": {
-                "name": "شبكة فلسطين للأنباء - شفا"
             }
         }
     ]
