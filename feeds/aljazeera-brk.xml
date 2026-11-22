@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 05:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 05:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت…]]></title>
+            <link>https://t.me/aljazeeraBrk/245729</link>
+            <guid isPermaLink="false">6358e0682c20289b305dfa421180932229c3705b151eac9d78c9e0a27cd4d36d</guid>
+            <pubDate>Sun, 22 Nov 2026 05:12:01 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت شمال الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت شمال الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يحرقون مركبات ويعتدون على سكان في قرية دير أبو مشعل…]]></title>
             <link>https://t.me/aljazeeraBrk/245728</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 00:05:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة جازان]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة جازان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ويتكوف: الرئيس ترمب عازم على إنهاء حرب روسيا المروعة ونحن مصممون على تحقيق ذلك…]]></title>
-            <link>https://t.me/aljazeeraBrk/245396</link>
-            <guid isPermaLink="false">1013699ad15dbee6a33a746d2cbf757f6a10de2097ccbeb9de64794fad322eac</guid>
-            <pubDate>Fri, 20 Nov 2026 00:01:02 GMT</pubDate>
-            <description><![CDATA[ويتكوف: الرئيس ترمب عازم على إنهاء حرب روسيا المروعة ونحن مصممون على تحقيق ذلك بطريقة تحفظ أمن أوكرانيا]]></description>
-            <content:encoded><![CDATA[ويتكوف: الرئيس ترمب عازم على إنهاء حرب روسيا المروعة ونحن مصممون على تحقيق ذلك بطريقة تحفظ أمن أوكرانيا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

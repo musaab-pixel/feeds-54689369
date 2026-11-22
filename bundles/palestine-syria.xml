@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 05:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 05:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت…]]></title>
+            <link>https://t.me/aljazeeraBrk/245729</link>
+            <guid isPermaLink="false">6358e0682c20289b305dfa421180932229c3705b151eac9d78c9e0a27cd4d36d</guid>
+            <pubDate>Sun, 22 Nov 2026 05:12:01 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت شمال الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت شمال الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يحرقون مركبات ويعتدون على سكان في قرية دير أبو مشعل…]]></title>
             <link>https://t.me/aljazeeraBrk/245728</link>
@@ -1679,15 +1688,6 @@
             <pubDate>Fri, 20 Nov 2026 22:58:02 GMT</pubDate>
             <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في محافظة السليل]]></description>
             <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في محافظة السليل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة الرياض]]></title>
-            <link>https://t.me/aljazeeraBrk/245601</link>
-            <guid isPermaLink="false">d4401a0d160714e65d20fa17638ca47d421c303b9c7cb09958227d7c56b304ab</guid>
-            <pubDate>Fri, 20 Nov 2026 22:56:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة الرياض]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة الرياض]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
