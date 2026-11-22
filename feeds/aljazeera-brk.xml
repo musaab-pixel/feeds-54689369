@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 18:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 18:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: إنقاذ طاقم السفينة التجارية المالطية بعد…]]></title>
+            <link>https://t.me/aljazeeraBrk/245807</link>
+            <guid isPermaLink="false">1f31a17c0b9e52f1d1a8d3c4f387b94b24ca6ffb63ecca96a5e1d5e67d6a3f3d</guid>
+            <pubDate>Sun, 22 Nov 2026 18:46:01 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: إنقاذ طاقم السفينة التجارية المالطية بعد الهجوم عليها بزوارق انقضاضية]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: إنقاذ طاقم السفينة التجارية المالطية بعد الهجوم عليها بزوارق انقضاضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: يجري التعامل مع هجوم ثالث بزوارق انقضاضية…]]></title>
             <link>https://t.me/aljazeeraBrk/245806</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 17:24:01 GMT</pubDate>
             <description><![CDATA[تراجع مؤشرات ستاندرد آند بورز 500 بأكثر من 2% وناسداك بنحو 4% وداو جونز بحوالي 0.75%]]></description>
             <content:encoded><![CDATA[تراجع مؤشرات ستاندرد آند بورز 500 بأكثر من 2% وناسداك بنحو 4% وداو جونز بحوالي 0.75%]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ 3 عمليات نسف واسعة قرب الخط الأصفر شرقي مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/245534</link>
-            <guid isPermaLink="false">e14693d4492138844f7fbd5af4d3a925475dd89d6ae3f1e7e0c0b40661bf5ab1</guid>
-            <pubDate>Fri, 20 Nov 2026 17:14:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ 3 عمليات نسف واسعة قرب الخط الأصفر شرقي مدينة خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: جيش الاحتلال ينفذ 3 عمليات نسف واسعة قرب الخط الأصفر شرقي مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
