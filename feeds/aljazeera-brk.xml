@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 05:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 06:45:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الشرطة الإسرائيلية: فتح تحقيق في حوادث إحراق وتخريب وكتابة شعارات في 4 مناطق…]]></title>
+            <link>https://t.me/aljazeeraBrk/245730</link>
+            <guid isPermaLink="false">2afd5a86b29626f61240a0a76268686dab9a2a1f12cd367b7c02d15673f916bf</guid>
+            <pubDate>Sun, 22 Nov 2026 06:45:02 GMT</pubDate>
+            <description><![CDATA[الشرطة الإسرائيلية: فتح تحقيق في حوادث إحراق وتخريب وكتابة شعارات في 4 مناطق بالضفة الغربية]]></description>
+            <content:encoded><![CDATA[الشرطة الإسرائيلية: فتح تحقيق في حوادث إحراق وتخريب وكتابة شعارات في 4 مناطق بالضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت…]]></title>
             <link>https://t.me/aljazeeraBrk/245729</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 00:09:02 GMT</pubDate>
             <description><![CDATA[مكتب محاسبة الحكومة الأمريكية: استمرار نقص مخزونات ذخائر أساسية والحرب على إيران زادت أهمية معالجة هذا النقص]]></description>
             <content:encoded><![CDATA[مكتب محاسبة الحكومة الأمريكية: استمرار نقص مخزونات ذخائر أساسية والحرب على إيران زادت أهمية معالجة هذا النقص]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة جازان]]></title>
-            <link>https://t.me/aljazeeraBrk/245397</link>
-            <guid isPermaLink="false">7802803fbac039f5094c50b3a1fd55115a59b069a91ca1b7d32c25223e6ed10a</guid>
-            <pubDate>Fri, 20 Nov 2026 00:05:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة جازان]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في مدينة جازان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
