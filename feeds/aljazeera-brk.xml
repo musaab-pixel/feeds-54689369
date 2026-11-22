@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 17:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 18:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: نتعامل الآن مع هجوم جديد بزوارق انقضاضية…]]></title>
+            <link>https://t.me/aljazeeraBrk/245804</link>
+            <guid isPermaLink="false">b9c7e4918450cdb42b98d3e4ca3fbc65bba49e2e98781c1f046570b5a4459704</guid>
+            <pubDate>Sun, 22 Nov 2026 18:25:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: نتعامل الآن مع هجوم جديد بزوارق انقضاضية مسيرة قبالة سواحل بنغازي]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: نتعامل الآن مع هجوم جديد بزوارق انقضاضية مسيرة قبالة سواحل بنغازي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب لفوكس نيوز: القوات الأمريكية ستطلق النار على السفن الإيرانية إذا حاولت…]]></title>
             <link>https://t.me/aljazeeraBrk/245803</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 17:11:02 GMT</pubDate>
             <description><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد دعم كل الجهود للوصول لحل يضمن حرية الملاحة ويمهد لاتفاق شامل]]></description>
             <content:encoded><![CDATA[الخارجية القطرية: رئيس الوزراء وزير الخارجية أكد دعم كل الجهود للوصول لحل يضمن حرية الملاحة ويمهد لاتفاق شامل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أمير دولة قطر: نود العيش في منطقة تتسم بحسن الجوار]]></title>
-            <link>https://t.me/aljazeeraBrk/245507</link>
-            <guid isPermaLink="false">7a01b1a922b0a0906cbde37af3b718fe48caadb90499d2b52fcc97501f9de370</guid>
-            <pubDate>Fri, 20 Nov 2026 14:39:02 GMT</pubDate>
-            <description><![CDATA[أمير دولة قطر: نود العيش في منطقة تتسم بحسن الجوار]]></description>
-            <content:encoded><![CDATA[أمير دولة قطر: نود العيش في منطقة تتسم بحسن الجوار]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
