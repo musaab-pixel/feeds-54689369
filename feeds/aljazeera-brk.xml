@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 07:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: الاحتلال ينفذ عمليات هدم في تجمع سمرا البدوي بالأغوار الشمالية…]]></title>
+            <link>https://t.me/aljazeeraBrk/245732</link>
+            <guid isPermaLink="false">1a62feaad3453a6bebf5deffe25eca736ada88d8f286aa7ef227a8f91246f411</guid>
+            <pubDate>Sun, 22 Nov 2026 07:54:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: الاحتلال ينفذ عمليات هدم في تجمع سمرا البدوي بالأغوار الشمالية في الضفة الغربية]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: الاحتلال ينفذ عمليات هدم في تجمع سمرا البدوي بالأغوار الشمالية في الضفة الغربية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[غادي آيزنكوت: إحراق الممتلكات في الضفة الغربية الليلة إرهاب يهودي بكل ما تحمله…]]></title>
             <link>https://t.me/aljazeeraBrk/245731</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 00:10:02 GMT</pubDate>
             <description><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون اتخذ إجراءات لزيادة إنتاج الذخائر لكنه لا يمتلك خطة شاملة للاحتياجات]]></description>
             <content:encoded><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون اتخذ إجراءات لزيادة إنتاج الذخائر لكنه لا يمتلك خطة شاملة للاحتياجات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة جازان]]></title>
-            <link>https://t.me/aljazeeraBrk/245400</link>
-            <guid isPermaLink="false">fec0f6daa63ad39af84bd078e3ba4c8fe8f72b178f6d12e3e2227b4e249e8c26</guid>
-            <pubDate>Fri, 20 Nov 2026 00:10:02 GMT</pubDate>
-            <description><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة جازان]]></description>
-            <content:encoded><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة جازان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
