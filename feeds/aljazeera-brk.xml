@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 11:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 11:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش اللبناني: ضبطنا ٢٦٤ كلغ من المواد المتفجرة المهربة من سوريا في منطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245752</link>
+            <guid isPermaLink="false">345daa34d826339eae87b5e0b8cab39cdd5dbe1ab1692d8a9fd52aa4469d574e</guid>
+            <pubDate>Sun, 22 Nov 2026 11:46:02 GMT</pubDate>
+            <description><![CDATA[الجيش اللبناني: ضبطنا ٢٦٤ كلغ من المواد المتفجرة المهربة من سوريا في منطقة الدورة وأوقفنا 3 مشتبه بهم]]></description>
+            <content:encoded><![CDATA[الجيش اللبناني: ضبطنا ٢٦٤ كلغ من المواد المتفجرة المهربة من سوريا في منطقة الدورة وأوقفنا 3 مشتبه بهم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: غارة جوية على تجمعات لجماعة الحوثي في منطقة جبل حبشي…]]></title>
             <link>https://t.me/aljazeeraBrk/245751</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 05:10:02 GMT</pubDate>
             <description><![CDATA[أسعار الذهب تتراجع بأكثر من 4% إلى 3520 دولارا للأونصة مسجلة أكبر خسارة أسبوعية منذ مارس الماضي]]></description>
             <content:encoded><![CDATA[أسعار الذهب تتراجع بأكثر من 4% إلى 3520 دولارا للأونصة مسجلة أكبر خسارة أسبوعية منذ مارس الماضي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخارجية الإيراني: لم نكن نعلم أن سفير إسرائيل في واشنطن هو القائد الأعلى…]]></title>
-            <link>https://t.me/aljazeeraBrk/245432</link>
-            <guid isPermaLink="false">dc0e76f50cf94978bb2663383d8c5dc23aef7bb58ddc60ceecf603dc1efc25f6</guid>
-            <pubDate>Fri, 20 Nov 2026 04:49:02 GMT</pubDate>
-            <description><![CDATA[وزير الخارجية الإيراني: لم نكن نعلم أن سفير إسرائيل في واشنطن هو القائد الأعلى للجيش الأمريكي]]></description>
-            <content:encoded><![CDATA[وزير الخارجية الإيراني: لم نكن نعلم أن سفير إسرائيل في واشنطن هو القائد الأعلى للجيش الأمريكي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
