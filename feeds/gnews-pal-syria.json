@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "40d2f9e66e1c863376818178c87738262bd9bb5c227c25707e2b0ede3d82ccca",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5dEhMLTk4eklPU2Q5U24yTmdLLTdXNzRpNWFrTzBaOGNJTmtyblR6UWZsd2lKSjd2WGYwandMQmxoM1RmSG9jMkJ2dlVQY3BjMmZjNHh2NA?oc=5\" target=\"_blank\">اللاجئون الفلسطينيون.. خريطة انتشار واسعة وواقع تبدّل بين الوطن والشتات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5dEhMLTk4eklPU2Q5U24yTmdLLTdXNzRpNWFrTzBaOGNJTmtyblR6UWZsd2lKSjd2WGYwandMQmxoM1RmSG9jMkJ2dlVQY3BjMmZjNHh2NA?oc=5",
+            "title": "اللاجئون الفلسطينيون.. خريطة انتشار واسعة وواقع تبدّل بين الوطن والشتات - المركز الفلسطيني للإعلام",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5dEhMLTk4eklPU2Q5U24yTmdLLTdXNzRpNWFrTzBaOGNJTmtyblR6UWZsd2lKSjd2WGYwandMQmxoM1RmSG9jMkJ2dlVQY3BjMmZjNHh2NA?oc=5\" target=\"_blank\">اللاجئون الفلسطينيون.. خريطة انتشار واسعة وواقع تبدّل بين الوطن والشتات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "date_modified": "2026-11-22T05:22:00.000Z",
+            "author": {
+                "name": "المركز الفلسطيني للإعلام"
+            }
+        },
+        {
             "id": "9e53226295e323773a555d8865cbfa7c029a2e35596e004be3efa6ef0a1eec7c",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORUpNOEJFSmJJNk4yejdieUVacGNiM1c5cmRsVUF5MEtlZkZEcDR3QnpFcUVCMHA4a2dtTnNTOHppSmxrMlB6S3VjOTRKTGM4dTJpSy1ORllDLXJ1M0M3S01ZODV1Z1FobV9UWnBfdUM3WmlobklqNXByQUluZFJfbm5NYnFTX3dMdkRFbUlB?oc=5\" target=\"_blank\">مأساة متجددة.. اللاجئون الفلسطينيون في لبنان بين مطرقة الحرمان القانوني وسندان الأزمات المعيشية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">جريدة القدس</font>",
             "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUpNOEJFSmJJNk4yejdieUVacGNiM1c5cmRsVUF5MEtlZkZEcDR3QnpFcUVCMHA4a2dtTnNTOHppSmxrMlB6S3VjOTRKTGM4dTJpSy1ORllDLXJ1M0M3S01ZODV1Z1FobV9UWnBfdUM3WmlobklqNXByQUluZFJfbm5NYnFTX3dMdkRFbUlB?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-07-22T05:37:18.000Z",
             "author": {
                 "name": "وكالة الانباء الاردنية"
-            }
-        },
-        {
-            "id": "cfb274dd7aa2618589abad3748e1d2d7ce9d0683482667edd13dc6ec294630d5",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMijAVBVV95cUxOdUZhYk9jaEZad092VzNNeVYwN2c4Sk01THNPWENadkdtckR5ZGZqaW4yNFJGbzRscm9wX1JRYklMY1BDNjZQenN4cDFvaWcxb0h5cllpWHVJT2FBNThSSTJTMjN5a0FWVDRiZHE2U184MVd0b2lUS3NRTW41ZkFuVElBWXhMT2QyeWFRSzZxdm9pZ3lHcklubEMwQ2praElnUFZHYXZkb1g3QUttd2JjckU2THhVVmE4UzJESDAzOS1VSjJ2YnF4WXRPbU1wQzk3bmp3akVSZGhuTHJrV2UyM0tZOFVPSlNUNEd2cjRkbXNoaFg2T1QxR2taeTQyeVd0QmNpYWU1bDJmTmVhYTNObi1oME9CNGhhbDJ1dURfZEROSV9zaHh4ZEpTbm1SRU1rVUlkNzhiMW5FZFpaNVB0aXk4RTFpWGVucGk5WFVkWU1nU2VGYWRDUVZVdG10VFdUcEp3c3ZsZ0FVNy1vOUZ6eUJRSzVCSWNhRDZuQXI2RlZOYWZnYzFCVjlFWlpvWE5NRDA0SjRXeVZFeXU1MDRzd21ZSlVXdF85ZFBSVDBFNXpnWVlZSjhBanl6d25nSElxLU1hcmdzVkJYZ1NWY0xOYU13UEVhU1BhWk9FaHpwclFPNTlVR21pWnM4VUZRT0l3VnBXSUpwVFpEb3FORHR6aG5ZX1JhRlF4QW1ReHR0UkRXYm5YS3d5aFNQV09KaDBEdXZ1b2JJYXMxREJNSUtWSVBFUXNTa1hrUzVGVkNLUDJyWXdfbXpiTkdiYU9TQ2JNWjkyd3RLTFR2azgwMUZkcjZ6SkxhTmMzTjNra0pCWTVKYjJEUkpVekpFRkwzMUlKeHlpOUFfbXpZVThv?oc=5\" target=\"_blank\">اختفاء شابة فلسطينية من سكان حي الأمين بدمشق و تزايد بلاغات فقدان فلسطينيات في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMijAVBVV95cUxOdUZhYk9jaEZad092VzNNeVYwN2c4Sk01THNPWENadkdtckR5ZGZqaW4yNFJGbzRscm9wX1JRYklMY1BDNjZQenN4cDFvaWcxb0h5cllpWHVJT2FBNThSSTJTMjN5a0FWVDRiZHE2U184MVd0b2lUS3NRTW41ZkFuVElBWXhMT2QyeWFRSzZxdm9pZ3lHcklubEMwQ2praElnUFZHYXZkb1g3QUttd2JjckU2THhVVmE4UzJESDAzOS1VSjJ2YnF4WXRPbU1wQzk3bmp3akVSZGhuTHJrV2UyM0tZOFVPSlNUNEd2cjRkbXNoaFg2T1QxR2taeTQyeVd0QmNpYWU1bDJmTmVhYTNObi1oME9CNGhhbDJ1dURfZEROSV9zaHh4ZEpTbm1SRU1rVUlkNzhiMW5FZFpaNVB0aXk4RTFpWGVucGk5WFVkWU1nU2VGYWRDUVZVdG10VFdUcEp3c3ZsZ0FVNy1vOUZ6eUJRSzVCSWNhRDZuQXI2RlZOYWZnYzFCVjlFWlpvWE5NRDA0SjRXeVZFeXU1MDRzd21ZSlVXdF85ZFBSVDBFNXpnWVlZSjhBanl6d25nSElxLU1hcmdzVkJYZ1NWY0xOYU13UEVhU1BhWk9FaHpwclFPNTlVR21pWnM4VUZRT0l3VnBXSUpwVFpEb3FORHR6aG5ZX1JhRlF4QW1ReHR0UkRXYm5YS3d5aFNQV09KaDBEdXZ1b2JJYXMxREJNSUtWSVBFUXNTa1hrUzVGVkNLUDJyWXdfbXpiTkdiYU9TQ2JNWjkyd3RLTFR2azgwMUZkcjZ6SkxhTmMzTjNra0pCWTVKYjJEUkpVekpFRkwzMUlKeHlpOUFfbXpZVThv?oc=5",
-            "title": "اختفاء شابة فلسطينية من سكان حي الأمين بدمشق و تزايد بلاغات فقدان فلسطينيات في سوريا - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAVBVV95cUxOdUZhYk9jaEZad092VzNNeVYwN2c4Sk01THNPWENadkdtckR5ZGZqaW4yNFJGbzRscm9wX1JRYklMY1BDNjZQenN4cDFvaWcxb0h5cllpWHVJT2FBNThSSTJTMjN5a0FWVDRiZHE2U184MVd0b2lUS3NRTW41ZkFuVElBWXhMT2QyeWFRSzZxdm9pZ3lHcklubEMwQ2praElnUFZHYXZkb1g3QUttd2JjckU2THhVVmE4UzJESDAzOS1VSjJ2YnF4WXRPbU1wQzk3bmp3akVSZGhuTHJrV2UyM0tZOFVPSlNUNEd2cjRkbXNoaFg2T1QxR2taeTQyeVd0QmNpYWU1bDJmTmVhYTNObi1oME9CNGhhbDJ1dURfZEROSV9zaHh4ZEpTbm1SRU1rVUlkNzhiMW5FZFpaNVB0aXk4RTFpWGVucGk5WFVkWU1nU2VGYWRDUVZVdG10VFdUcEp3c3ZsZ0FVNy1vOUZ6eUJRSzVCSWNhRDZuQXI2RlZOYWZnYzFCVjlFWlpvWE5NRDA0SjRXeVZFeXU1MDRzd21ZSlVXdF85ZFBSVDBFNXpnWVlZSjhBanl6d25nSElxLU1hcmdzVkJYZ1NWY0xOYU13UEVhU1BhWk9FaHpwclFPNTlVR21pWnM4VUZRT0l3VnBXSUpwVFpEb3FORHR6aG5ZX1JhRlF4QW1ReHR0UkRXYm5YS3d5aFNQV09KaDBEdXZ1b2JJYXMxREJNSUtWSVBFUXNTa1hrUzVGVkNLUDJyWXdfbXpiTkdiYU9TQ2JNWjkyd3RLTFR2azgwMUZkcjZ6SkxhTmMzTjNra0pCWTVKYjJEUkpVekpFRkwzMUlKeHlpOUFfbXpZVThv?oc=5\" target=\"_blank\">اختفاء شابة فلسطينية من سكان حي الأمين بدمشق و تزايد بلاغات فقدان فلسطينيات في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-07-20T14:51:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]
