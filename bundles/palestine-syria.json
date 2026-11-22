@@ -5,6 +5,50 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "20f7adc89dcc97d0fc1eafc6d3bc075856670d8873ffe59b0aeb35293e608697",
+            "content_html": "مصادر محلية: استشهاد أربعة أطفال وإصابة آخرين بانفجار لغم من مخلفات النظام البائد في قرية أم خزيم شرقي إدلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143205",
+            "title": "مصادر محلية: استشهاد أربعة أطفال وإصابة آخرين بانفجار لغم من مخلفات النظام…",
+            "summary": "مصادر محلية: استشهاد أربعة أطفال وإصابة آخرين بانفجار لغم من مخلفات النظام البائد في قرية أم خزيم شرقي إدلب<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-22T16:13:28.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
+            "id": "b23f3ce05d5d331ae95da6232c27090dc563508f55722544f392c21efea31366",
+            "content_html": "أكسيوس عن مسؤولين أمريكيين: وكالات الحكومة والشركات تسارع لتحديث أنظمتها البرمجية ما يجعل الأعطال أمرا حتميا",
+            "url": "https://t.me/aljazeeraBrk/245781",
+            "title": "أكسيوس عن مسؤولين أمريكيين: وكالات الحكومة والشركات تسارع لتحديث أنظمتها…",
+            "summary": "أكسيوس عن مسؤولين أمريكيين: وكالات الحكومة والشركات تسارع لتحديث أنظمتها البرمجية ما يجعل الأعطال أمرا حتميا",
+            "date_modified": "2026-11-22T16:07:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "644a8e97d272f943a5e42561f375b11cd61236ce7c98e3af1a066921c5709385",
+            "content_html": "أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية وانقطاع الخدمات سيصبحان أمرا اعتياديا في 2027",
+            "url": "https://t.me/aljazeeraBrk/245780",
+            "title": "أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية وانقطاع الخدمات سيصبحان أمرا…",
+            "summary": "أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية وانقطاع الخدمات سيصبحان أمرا اعتياديا في 2027",
+            "date_modified": "2026-11-22T16:06:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "fbabe1a5427f298d9b0173fd513de240155b28347d78aabc0ef6133cf0ad375f",
+            "content_html": "أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية ستتواصل خلال الـ18 شهرا المقبلة",
+            "url": "https://t.me/aljazeeraBrk/245779",
+            "title": "أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية…",
+            "summary": "أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية ستتواصل خلال الـ18 شهرا المقبلة",
+            "date_modified": "2026-11-22T16:05:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "90e8cb78000b85bef3c08810421f0490fbc0de5864889d0627bf89f4bffaf58b",
             "content_html": "هيئة عمليات التجارة البحرية البريطانية: بلاغ عن حادثة شملت ناقلة نفط وقوات عسكرية في خليج عمان",
             "url": "https://t.me/aljazeeraBrk/245778",
@@ -1600,51 +1644,6 @@
             "title": "الحرس الثوري الإيراني: أسقطنا مسيرة استطلاع معادية قبالة سواحل محافظة بوشهر…",
             "summary": "الحرس الثوري الإيراني: أسقطنا مسيرة استطلاع معادية قبالة سواحل محافظة بوشهر جنوبي البلاد",
             "date_modified": "2026-11-21T14:05:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "9b45579c4f61bc03aadd537a73a83e847eca6acc6a36bfb10e8a7cb9e8308650",
-            "content_html": "بعد إعلان نجاح استقبال شركة كهرباء حلب التوتر الكهربائي العالي القادم عبر خط الربط الإقليمي مع تركيا.. ما هو واقع الكهرباء لديك؟؟<br><br><a href=\"https://www.facebook.com/share/p/1NuUeVL47C/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#شاركنا_تعليقك هنا </a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i>",
-            "url": "https://t.me/HalabTodayTV/143170",
-            "title": "بعد إعلان نجاح استقبال شركة كهرباء حلب التوتر الكهربائي العالي القادم عبر خط…",
-            "summary": "بعد إعلان نجاح استقبال شركة كهرباء حلب التوتر الكهربائي العالي القادم عبر خط الربط الإقليمي مع تركيا.. ما هو واقع الكهرباء لديك؟؟<br><br><a href=\"https://www.facebook.com/share/p/1NuUeVL47C/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">#شاركنا_تعليقك هنا </a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9189.png')\"><b>👉</b></i>",
-            "image": "https://cdn4.telesco.pe/file/YtB7BUa6cox9-6GlJmDJLq2ia8ZpNWL232XKeUJ-FNnMtpSvOQ5ER0-7PBmQY9-h3qxMKRzAW1SciyWNFgC3qOpErXGbokr019HafBAyUGN5oacI0hN0ncTaV9lC5nG_IfNKIMm5sOXVpYoaqblAAZvty6uTjdi7sGegDxx-JDBeFlu8COqPdGBK8-N5f-4RkNeG1g_3HsXnRciOF9Yw7RCAYz8gg2t5AI7lWUb-w6ecxWoGXneBHQbnvxWvmq1kqXocscH3GgTjgoi9WNad8Os8RiOFZBVDleRDto0y8UfFFXdLTZqXxLTKa3NiqxcNGV6oIG-h_HnLw8aT4egCfQ.jpg",
-            "date_modified": "2026-11-21T14:03:45.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "94fba78e93f983d54d6975e6744bb9eb904b59571ba1d51dd042625a606219c7",
-            "content_html": "حاكم لينينغراد الروسية: الوضع على السفينة المستهدفة تحت السيطرة ويجري العمل لاستئناف رحلتها إلى كالينينغراد",
-            "url": "https://t.me/aljazeeraBrk/245651",
-            "title": "حاكم لينينغراد الروسية: الوضع على السفينة المستهدفة تحت السيطرة ويجري العمل…",
-            "summary": "حاكم لينينغراد الروسية: الوضع على السفينة المستهدفة تحت السيطرة ويجري العمل لاستئناف رحلتها إلى كالينينغراد",
-            "date_modified": "2026-11-21T13:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "a606acb8014518257a2560f43b1cf37be5320c9c86b65a6f5931a7cb40f73b6c",
-            "content_html": "حاكم لينينغراد الروسية: الوضع على السفينة المستهدفة تحت السطيرة ويجري العمل لاستئناف رحلتها إلى كالينينغراد",
-            "url": "https://t.me/aljazeeraBrk/245650",
-            "title": "حاكم لينينغراد الروسية: الوضع على السفينة المستهدفة تحت السطيرة ويجري العمل…",
-            "summary": "حاكم لينينغراد الروسية: الوضع على السفينة المستهدفة تحت السطيرة ويجري العمل لاستئناف رحلتها إلى كالينينغراد",
-            "date_modified": "2026-11-21T13:56:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "41f2a49889795865976b4c85309819b0f254dc87db8e91a96602119a79743307",
-            "content_html": "الدفاع الفنلندية: دخول المروحية الروسية قد يكون مرتبطا بعملية مراقبة أو إنقاذ للسفينة المستهدفة بخليج فنلندا",
-            "url": "https://t.me/aljazeeraBrk/245648",
-            "title": "الدفاع الفنلندية: دخول المروحية الروسية قد يكون مرتبطا بعملية مراقبة أو إنقاذ…",
-            "summary": "الدفاع الفنلندية: دخول المروحية الروسية قد يكون مرتبطا بعملية مراقبة أو إنقاذ للسفينة المستهدفة بخليج فنلندا",
-            "date_modified": "2026-11-21T13:55:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
