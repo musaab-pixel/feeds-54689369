@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 09:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 10:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[السلطات الموالية لروسيا في لوغانسك: قتيل و3 مصابين بهجوم مسيرات أوكرانية على…]]></title>
+            <link>https://t.me/aljazeeraBrk/245744</link>
+            <guid isPermaLink="false">d28ce35df3b1c42b436ca6f4683159c2389f03056cbc9d2c5b1bfe3311f5ccb6</guid>
+            <pubDate>Sun, 22 Nov 2026 10:27:02 GMT</pubDate>
+            <description><![CDATA[السلطات الموالية لروسيا في لوغانسك: قتيل و3 مصابين بهجوم مسيرات أوكرانية على مدينة سيفيرودونيتسك]]></description>
+            <content:encoded><![CDATA[السلطات الموالية لروسيا في لوغانسك: قتيل و3 مصابين بهجوم مسيرات أوكرانية على مدينة سيفيرودونيتسك]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية: طائرات مسيرة استهدفت الخرطوم صباح…]]></title>
             <link>https://t.me/aljazeeraBrk/245743</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 02:12:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤول أوروبي: ويتكوف وكوشنر أبلغا قادة أوروبيين بأن ترمب حث بوتين على المضي قدما بمحادثات السلام]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤول أوروبي: ويتكوف وكوشنر أبلغا قادة أوروبيين بأن ترمب حث بوتين على المضي قدما بمحادثات السلام]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤول أمريكي: ترمب أراد مناقشة الجهود الدبلوماسية الرامية لإنهاء…]]></title>
-            <link>https://t.me/aljazeeraBrk/245411</link>
-            <guid isPermaLink="false">8c5cff78929f2039378e81527b12a80577b975794fcab8653c163db7ab73c057</guid>
-            <pubDate>Fri, 20 Nov 2026 02:11:03 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤول أمريكي: ترمب أراد مناقشة الجهود الدبلوماسية الرامية لإنهاء الحرب في أوكرانيا مباشرة مع بوتين]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤول أمريكي: ترمب أراد مناقشة الجهود الدبلوماسية الرامية لإنهاء الحرب في أوكرانيا مباشرة مع بوتين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
