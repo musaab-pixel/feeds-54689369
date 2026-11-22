@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 07:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 08:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحرس الثوري الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز MQ1 شرقي…]]></title>
+            <link>https://t.me/aljazeeraBrk/245733</link>
+            <guid isPermaLink="false">71207bb8552fe8660a42dd3698a003bce23d2d79e6e5a1c4fcd6ce18e8f3fe81</guid>
+            <pubDate>Sun, 22 Nov 2026 08:19:01 GMT</pubDate>
+            <description><![CDATA[الحرس الثوري الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز MQ1 شرقي مضيق هرمز]]></description>
+            <content:encoded><![CDATA[الحرس الثوري الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز MQ1 شرقي مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: الاحتلال ينفذ عمليات هدم في تجمع سمرا البدوي بالأغوار الشمالية…]]></title>
             <link>https://t.me/aljazeeraBrk/245732</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 00:11:02 GMT</pubDate>
             <description><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون لم يحدد جهة محددة تتولى جهود معالجة نقص الذخائر وتقييم نتائجها]]></description>
             <content:encoded><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون لم يحدد جهة محددة تتولى جهود معالجة نقص الذخائر وتقييم نتائجها]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون اتخذ إجراءات لزيادة إنتاج الذخائر لكنه…]]></title>
-            <link>https://t.me/aljazeeraBrk/245399</link>
-            <guid isPermaLink="false">7d562eab9a2530f841b80f98bd67ce250d331b1b4d74b42b7a97cac0237ed54e</guid>
-            <pubDate>Fri, 20 Nov 2026 00:10:02 GMT</pubDate>
-            <description><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون اتخذ إجراءات لزيادة إنتاج الذخائر لكنه لا يمتلك خطة شاملة للاحتياجات]]></description>
-            <content:encoded><![CDATA[مكتب محاسبة الحكومة الأمريكية: البنتاغون اتخذ إجراءات لزيادة إنتاج الذخائر لكنه لا يمتلك خطة شاملة للاحتياجات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
