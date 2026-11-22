@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 14:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 14:36:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[سلطات شرق ليبيا: وجهنا بفتح تحقيق بالتنسيق مع السلطات الروسية للكشف عن ملابسات…]]></title>
+            <link>https://t.me/aljazeeraBrk/245765</link>
+            <guid isPermaLink="false">0654f1438ffaebbd972d8f4a950e071da345d6341dca2be5fb5eeff33d5e934b</guid>
+            <pubDate>Sun, 22 Nov 2026 14:30:02 GMT</pubDate>
+            <description><![CDATA[سلطات شرق ليبيا: وجهنا بفتح تحقيق بالتنسيق مع السلطات الروسية للكشف عن ملابسات الهجوم ومصدره والجهة المسؤولة]]></description>
+            <content:encoded><![CDATA[سلطات شرق ليبيا: وجهنا بفتح تحقيق بالتنسيق مع السلطات الروسية للكشف عن ملابسات الهجوم ومصدره والجهة المسؤولة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[سلطات شرق ليبيا: لسنا طرفا بحرب روسيا وأوكرانيا أو أي نزاع خارج حدودنا ولن نسمح…]]></title>
             <link>https://t.me/aljazeeraBrk/245764</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 07:16:02 GMT</pubDate>
             <description><![CDATA[رئيس خلية الإعلام الأمني في العراق: شرطة الطاقة باشرت الإشراف على الأنبوب النفطي في منطقة الجرف]]></description>
             <content:encoded><![CDATA[رئيس خلية الإعلام الأمني في العراق: شرطة الطاقة باشرت الإشراف على الأنبوب النفطي في منطقة الجرف]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الحشد الشعبي في العراق: سيتم اليوم استبدال قطعات الحشد في منطقة الجرف]]></title>
-            <link>https://t.me/aljazeeraBrk/245445</link>
-            <guid isPermaLink="false">32f1bdd4f8700ced9028e77597539437fd6063c9b6ba5804d6b0360e7a4788fd</guid>
-            <pubDate>Fri, 20 Nov 2026 07:14:02 GMT</pubDate>
-            <description><![CDATA[الحشد الشعبي في العراق: سيتم اليوم استبدال قطعات الحشد في منطقة الجرف]]></description>
-            <content:encoded><![CDATA[الحشد الشعبي في العراق: سيتم اليوم استبدال قطعات الحشد في منطقة الجرف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
