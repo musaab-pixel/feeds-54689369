@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 16:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 16:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا مصفاة رابغ النفطية ورادارا…]]></title>
+            <link>https://t.me/aljazeeraBrk/245785</link>
+            <guid isPermaLink="false">76cd9633d23422070a5393a08deacd8ff6e61abf9ed7d9b6994f053eb3fcdea9</guid>
+            <pubDate>Sun, 22 Nov 2026 16:42:02 GMT</pubDate>
+            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا مصفاة رابغ النفطية ورادارا بمنطقة الدواسر في السعودية]]></description>
+            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا مصفاة رابغ النفطية ورادارا بمنطقة الدواسر في السعودية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بحرية الحرس الثوري الإيراني: انفجار ناقلتي نفط مخالفتين شمال جزيرة غنم وشرق…]]></title>
             <link>https://t.me/aljazeeraBrk/245784</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 13:39:02 GMT</pubDate>
             <description><![CDATA[التحالف: عمليتنا مستمرة لتدمير أهداف عسكرية وقدرات باليستية بمحافظات صنعاء وصعدة وتعز]]></description>
             <content:encoded><![CDATA[التحالف: عمليتنا مستمرة لتدمير أهداف عسكرية وقدرات باليستية بمحافظات صنعاء وصعدة وتعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التحالف: استهدفنا قدرات تشغيلية بميناء الحديدة ساهمت بعمليات تهريب ونقل الأسلحة…]]></title>
-            <link>https://t.me/aljazeeraBrk/245488</link>
-            <guid isPermaLink="false">0b9cff390c48110967605d85e1e6aa3b08a3d3fc4e81066398c2fb2a52bb36f1</guid>
-            <pubDate>Fri, 20 Nov 2026 13:37:03 GMT</pubDate>
-            <description><![CDATA[التحالف: استهدفنا قدرات تشغيلية بميناء الحديدة ساهمت بعمليات تهريب ونقل الأسلحة والصواريخ الباليستية]]></description>
-            <content:encoded><![CDATA[التحالف: استهدفنا قدرات تشغيلية بميناء الحديدة ساهمت بعمليات تهريب ونقل الأسلحة والصواريخ الباليستية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
