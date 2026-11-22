@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "1651c68df9d739512efb75158b1b5befd3b93767674743a216f07768640cadac",
+            "content_html": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+            "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+            "summary": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_UNFPA_Yemen-01.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-21T12:00:00.000Z"
+        },
+        {
             "id": "1e33a84d56832480d23569e63f3d3ef958d9fdb0e114a29307e13bf629729487",
             "content_html": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",

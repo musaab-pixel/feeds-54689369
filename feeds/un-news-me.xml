@@ -4,10 +4,19 @@
         <title>UN News — Middle East</title>
         <link>https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml</link>
         <description>RSS Factory feed "UN News — Middle East" (type: native)</description>
-        <lastBuildDate>Sat, 21 Nov 2026 18:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 13:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168851</link>
+            <guid isPermaLink="false">1651c68df9d739512efb75158b1b5befd3b93767674743a216f07768640cadac</guid>
+            <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.]]></description>
+            <content:encoded><![CDATA[When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_UNFPA_Yemen-01.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers]]></title>
             <link>https://news.un.org/feed/view/en/story/2026/11/1168849</link>
