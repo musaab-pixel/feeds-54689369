@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 18:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 19:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز عن مصادر طبية بشرق ليبيا: 10 أشخاص بينهم روس وليبيون أصيبوا بجروح طفيفة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245808</link>
+            <guid isPermaLink="false">49e75f61bb1be78dd833d153de0711015130f291c5c4051b23a32bbf30b982e8</guid>
+            <pubDate>Sun, 22 Nov 2026 18:55:02 GMT</pubDate>
+            <description><![CDATA[رويترز عن مصادر طبية بشرق ليبيا: 10 أشخاص بينهم روس وليبيون أصيبوا بجروح طفيفة بالهجوم على السفينة الروسية]]></description>
+            <content:encoded><![CDATA[رويترز عن مصادر طبية بشرق ليبيا: 10 أشخاص بينهم روس وليبيون أصيبوا بجروح طفيفة بالهجوم على السفينة الروسية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لسلطات شرق ليبيا: إنقاذ طاقم السفينة التجارية المالطية بعد…]]></title>
             <link>https://t.me/aljazeeraBrk/245807</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 17:25:02 GMT</pubDate>
             <description><![CDATA[الذهب يتراجع بحوالي 2.7% وسعر الأونصة يصل إلى 3500 دولار]]></description>
             <content:encoded><![CDATA[الذهب يتراجع بحوالي 2.7% وسعر الأونصة يصل إلى 3500 دولار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[تراجع مؤشرات ستاندرد آند بورز 500 بأكثر من 2% وناسداك بنحو 4% وداو جونز بحوالي…]]></title>
-            <link>https://t.me/aljazeeraBrk/245535</link>
-            <guid isPermaLink="false">b8735f5f112564661664f1c7f215e506f0a668f4d91d173b33058f588ffa7270</guid>
-            <pubDate>Fri, 20 Nov 2026 17:24:01 GMT</pubDate>
-            <description><![CDATA[تراجع مؤشرات ستاندرد آند بورز 500 بأكثر من 2% وناسداك بنحو 4% وداو جونز بحوالي 0.75%]]></description>
-            <content:encoded><![CDATA[تراجع مؤشرات ستاندرد آند بورز 500 بأكثر من 2% وناسداك بنحو 4% وداو جونز بحوالي 0.75%]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
