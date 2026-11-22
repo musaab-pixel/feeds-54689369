@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sun, 22 Nov 2026 15:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 15:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع الروسية: استهداف محطة كهرباء بدنيبروبتروفيسك تشغل منشآت صناعات عسكرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/245774</link>
+            <guid isPermaLink="false">d3fdbf34680f908a038e0627e4738e9a463c562b14908e95d174afe7e2a174a0</guid>
+            <pubDate>Sun, 22 Nov 2026 15:27:02 GMT</pubDate>
+            <description><![CDATA[الدفاع الروسية: استهداف محطة كهرباء بدنيبروبتروفيسك تشغل منشآت صناعات عسكرية أوكرانية]]></description>
+            <content:encoded><![CDATA[الدفاع الروسية: استهداف محطة كهرباء بدنيبروبتروفيسك تشغل منشآت صناعات عسكرية أوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع الشفاء الطبي: شهيد بنيران قوات الاحتلال خارج مناطق سيطرتها في جباليا شمالي…]]></title>
             <link>https://t.me/aljazeeraBrk/245773</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 20 Nov 2026 12:13:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الحكومة العراقية للجزيرة: عملية انتشار القوات المسلحة في منطقة الجرف تمت بانسيابية]]></description>
             <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية للجزيرة: عملية انتشار القوات المسلحة في منطقة الجرف تمت بانسيابية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الناطق باسم أنصار الله الحوثيين: المركز المالي في الرياض سيكون هدفا عسكريا…]]></title>
-            <link>https://t.me/aljazeeraBrk/245477</link>
-            <guid isPermaLink="false">efa6fd3b3dad11c3a51545132a6983acf766bc41b7f1f41999c5d078de601931</guid>
-            <pubDate>Fri, 20 Nov 2026 12:08:02 GMT</pubDate>
-            <description><![CDATA[الناطق باسم أنصار الله الحوثيين: المركز المالي في الرياض سيكون هدفا عسكريا لقواتنا]]></description>
-            <content:encoded><![CDATA[الناطق باسم أنصار الله الحوثيين: المركز المالي في الرياض سيكون هدفا عسكريا لقواتنا]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
