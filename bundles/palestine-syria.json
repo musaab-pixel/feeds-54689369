@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "e3174f1861057c7688ef07109d23d413b7a0c00b00579382038aa5b764f51731",
+            "content_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i>حالة الطقس في سوريا 22-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143177",
+            "title": "☀️حالة الطقس في سوريا 22-11-2026 لمتابعة أحدث الأخبار والتطورات في سوريا انضموا…",
+            "summary": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29880.png')\"><b>☀️</b></i>حالة الطقس في سوريا 22-11-2026<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/J3SSlG8E6SCZacCeKSb7iozqi-bOl6w-UZIl83W2dR4kf4L-DLKFQAl5b5Ylk914clok83FOb0DEW-6yXGdrUFMY4i74HXI3lq_MhxPzVEzcAMZxnya8zpIPwHACQvOcAJmVFfFkYSKQk1iYP79obiODra3GDglBknX5OHN8GRCWktlSEN-l5Qk-v2pb40v6fN-a9RY9GX_jXf10YWIvrjG-4kw-3fFLa-kLquNXJ1CWLnK3D434NY45DZbszWDmiGs9eVDW1vkgxf_4y2Z7VbxdPAFKRme_RBFA0fJL7W8xsGa0LETeliYSMI8khbSME0Tpu2lBqdvUv6TZGXd4bw.jpg",
+            "date_modified": "2026-11-22T05:15:28.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "6358e0682c20289b305dfa421180932229c3705b151eac9d78c9e0a27cd4d36d",
             "content_html": "مراسل الجزيرة: مستوطنون يحرقون غرفة زراعية في قرية دير بلوط غرب محافظة سلفيت شمال الضفة الغربية",
             "url": "https://t.me/aljazeeraBrk/245729",
@@ -1615,17 +1627,6 @@
             "title": "الدفاع المدني السعودي: زوال الخطر عن محافظة السليل",
             "summary": "الدفاع المدني السعودي: زوال الخطر عن محافظة السليل",
             "date_modified": "2026-11-20T23:07:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "4d34b6776528755f02a470f6d7b375c01f89cbca13edd34d02e2ed1a33b6ac3e",
-            "content_html": "الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في محافظة السليل",
-            "url": "https://t.me/aljazeeraBrk/245602",
-            "title": "الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في محافظة السليل",
-            "summary": "الدفاع المدني السعودي: إطلاق إنذار مبكر للتحذير من خطر في محافظة السليل",
-            "date_modified": "2026-11-20T22:58:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
