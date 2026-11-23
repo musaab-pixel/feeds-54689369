@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 13:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 13:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></title>
+            <link>https://t.me/aljazeeraBrk/245926</link>
+            <guid isPermaLink="false">dc492e9e64180557472fb65f97ed840e476470c37fcced00d803ad7f88b7a519</guid>
+            <pubDate>Mon, 23 Nov 2026 13:18:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نتنياهو: الحكومة المقبلة لن تخوض أي حرب ولا يمكن التوافق حول حكومة يشارك فيها…]]></title>
             <link>https://t.me/aljazeeraBrk/245925</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 04:58:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على سكان ويحرقون مركبات في بلدة كفر مالك شمال شرق رام الله بالضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على سكان ويحرقون مركبات في بلدة كفر مالك شمال شرق رام الله بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع ناصر الطبي: شهيدان متأثران بجراحهما في القصف الإسرائيلي على مواصي خان يونس…]]></title>
-            <link>https://t.me/aljazeeraBrk/245726</link>
-            <guid isPermaLink="false">ed205d49e70f329586a8983adb7c0d76a09545cd61fd2eae25a59405a2b84185</guid>
-            <pubDate>Sun, 22 Nov 2026 04:28:02 GMT</pubDate>
-            <description><![CDATA[مجمع ناصر الطبي: شهيدان متأثران بجراحهما في القصف الإسرائيلي على مواصي خان يونس فجر اليوم]]></description>
-            <content:encoded><![CDATA[مجمع ناصر الطبي: شهيدان متأثران بجراحهما في القصف الإسرائيلي على مواصي خان يونس فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

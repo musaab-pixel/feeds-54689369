@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 13:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 13:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></title>
+            <link>https://t.me/aljazeeraBrk/245926</link>
+            <guid isPermaLink="false">dc492e9e64180557472fb65f97ed840e476470c37fcced00d803ad7f88b7a519</guid>
+            <pubDate>Mon, 23 Nov 2026 13:18:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نتنياهو: الحكومة المقبلة لن تخوض أي حرب ولا يمكن التوافق حول حكومة يشارك فيها…]]></title>
             <link>https://t.me/aljazeeraBrk/245925</link>
@@ -1558,15 +1567,6 @@
             <pubDate>Sun, 22 Nov 2026 20:58:02 GMT</pubDate>
             <description><![CDATA[سلطات شرق ليبيا: نطالب أوكرانيا بتقديم توضيحات رسمية بشأن أنشطتها العسكرية داخل ليبيا]]></description>
             <content:encoded><![CDATA[سلطات شرق ليبيا: نطالب أوكرانيا بتقديم توضيحات رسمية بشأن أنشطتها العسكرية داخل ليبيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سلطات شرق ليبيا: طلبنا من مجلس الأمن فتح تحقيق عاجل في الهجمات على سفينة روسية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245810</link>
-            <guid isPermaLink="false">f78d5294acc3753c2d2ef2c6b3641e88584ec301e271d09e430b9c25af6ae7ac</guid>
-            <pubDate>Sun, 22 Nov 2026 20:57:02 GMT</pubDate>
-            <description><![CDATA[سلطات شرق ليبيا: طلبنا من مجلس الأمن فتح تحقيق عاجل في الهجمات على سفينة روسية وأخرى مالطية في بنغازي]]></description>
-            <content:encoded><![CDATA[سلطات شرق ليبيا: طلبنا من مجلس الأمن فتح تحقيق عاجل في الهجمات على سفينة روسية وأخرى مالطية في بنغازي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
