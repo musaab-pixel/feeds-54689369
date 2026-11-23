@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 18:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 19:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة فارس عن رئيس البرلمان الإيراني: هناك سبل لكسر الحصار عسكريا وسنمضي فيها…]]></title>
+            <link>https://t.me/aljazeeraBrk/245964</link>
+            <guid isPermaLink="false">429836b2cdd89b234a4b670afa185bcf2d171e672cdb01b6bc76708109651f55</guid>
+            <pubDate>Mon, 23 Nov 2026 19:50:02 GMT</pubDate>
+            <description><![CDATA[وكالة فارس عن رئيس البرلمان الإيراني: هناك سبل لكسر الحصار عسكريا وسنمضي فيها في المستقبل القريب]]></description>
+            <content:encoded><![CDATA[وكالة فارس عن رئيس البرلمان الإيراني: هناك سبل لكسر الحصار عسكريا وسنمضي فيها في المستقبل القريب]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس البرلمان الإيراني: المرشد أكد أن استمرار وضع لا حرب ولا سلام غير ممكن ويجب…]]></title>
             <link>https://t.me/aljazeeraBrk/245963</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 14:30:02 GMT</pubDate>
             <description><![CDATA[سلطات شرق ليبيا: وجهنا بفتح تحقيق بالتنسيق مع السلطات الروسية للكشف عن ملابسات الهجوم ومصدره والجهة المسؤولة]]></description>
             <content:encoded><![CDATA[سلطات شرق ليبيا: وجهنا بفتح تحقيق بالتنسيق مع السلطات الروسية للكشف عن ملابسات الهجوم ومصدره والجهة المسؤولة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سلطات شرق ليبيا: لسنا طرفا بحرب روسيا وأوكرانيا أو أي نزاع خارج حدودنا ولن نسمح…]]></title>
-            <link>https://t.me/aljazeeraBrk/245764</link>
-            <guid isPermaLink="false">78f6eed8b41789a1829b62a4d7745653df1ea310618ba9bd60c935a7aae62c54</guid>
-            <pubDate>Sun, 22 Nov 2026 14:21:02 GMT</pubDate>
-            <description><![CDATA[سلطات شرق ليبيا: لسنا طرفا بحرب روسيا وأوكرانيا أو أي نزاع خارج حدودنا ولن نسمح باستخدام أراضينا لتصفية حسابات]]></description>
-            <content:encoded><![CDATA[سلطات شرق ليبيا: لسنا طرفا بحرب روسيا وأوكرانيا أو أي نزاع خارج حدودنا ولن نسمح باستخدام أراضينا لتصفية حسابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
