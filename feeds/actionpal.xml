@@ -4,10 +4,17 @@
         <title>Action Group for Palestinians of Syria — ActionPal</title>
         <link>https://actionpal.org.uk/</link>
         <description>RSS Factory feed "Action Group for Palestinians of Syria — ActionPal" (type: website)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 00:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 00:53:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجموعة العمل ترحب بإعلان الأونروا توسيع خدماتها في مخيم اليرموك وتدعو إلى دعم شامل للمخيمات الفلسطينية]]></title>
+            <link>https://actionpal.org.uk/post/999119599</link>
+            <guid isPermaLink="false">46295dec0a361007c3a0c6c9e001611ace3e4a31dae963a5fb08267c74902a98</guid>
+            <pubDate>Mon, 23 Nov 2026 00:53:40 GMT</pubDate>
+            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/05/IMG-20260521-WA0037.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[مجموعة العمل: نكبة فلسطين جرحٌ مفتوح وتغريبة متجددة لفلسطينيي سوريا]]></title>
             <link>https://actionpal.org.uk/post/999119340</link>
@@ -5090,13 +5097,6 @@
 <p>حيث قال المستشار الإعلامي للأونروا، عدنان أبو حسنة، إن مفوض الوكالة طرح حجم الأزمة خلال اجتماع وزراء الخارجية العرب في مقر جامعة الدول العربية، داعياً الدول العربية إلى تقديم دعم عاجل يمكّن الوكالة من مواصلة خدماتها.</p>
 <p>وأوضح أبو حسنة أن استمرار العجز قد يدفع الأونروا إلى اتخاذ إجراءات من شأنها التأثير على مستوى الخدمات المقدمة للاجئين، مشيراً إلى أن تداعيات الأزمة لا تقتصر على قطاع غزة والضفة الغربية، بل تشمل أيضاً اللاجئين الفلسطينيين في لبنان وسورية والأردن.</p>]]></content:encoded>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/10/file_00000000d128820a9d650643f5fc9436.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[مجموعة العمل: في يوم اللاجئ العالمي.. فلسطينيو سوريا بين سندان التهميش ومطرقة الشتات]]></title>
-            <link>https://actionpal.org.uk/post/999122976</link>
-            <guid isPermaLink="false">55e686ff6e99b692b56a4f15cabb96daf0d3e943d0fe14628721602b200a6b9a</guid>
-            <pubDate>Fri, 23 Oct 2026 11:41:11 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/06/IMG-20260620-WA0028.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
