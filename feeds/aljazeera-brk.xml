@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 16:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 16:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز لوكاس في أجواء شرق…]]></title>
+            <link>https://t.me/aljazeeraBrk/245956</link>
+            <guid isPermaLink="false">16630dc683c0bc1ced73ebc83b5bae93368e75c6e43c0abe07231e96e6096f82</guid>
+            <pubDate>Mon, 23 Nov 2026 16:35:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز لوكاس في أجواء شرق مضيق هرمز]]></description>
+            <content:encoded><![CDATA[الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز لوكاس في أجواء شرق مضيق هرمز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: رصدنا إطلاق صاروخ باليستي من صعدة باتجاه عدن وسقوطه في…]]></title>
             <link>https://t.me/aljazeeraBrk/245955</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 13:53:02 GMT</pubDate>
             <description><![CDATA[سلطات شرق ليبيا: التحقيقات الأولية تشير لانفجار على متن سفينة روسية في ميناء بنغازي ويشتبه في هجوم بمسيرة]]></description>
             <content:encoded><![CDATA[سلطات شرق ليبيا: التحقيقات الأولية تشير لانفجار على متن سفينة روسية في ميناء بنغازي ويشتبه في هجوم بمسيرة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[السلطات الروسية: 4 مصابين مدنيين في مقاطعة بيلغورود إثر هجمات بمسيرات أوكرانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245756</link>
-            <guid isPermaLink="false">135ef3d2d27faeb84ab8db34a050960e36853bd55d40f64696e14c5d20bea07a</guid>
-            <pubDate>Sun, 22 Nov 2026 12:31:02 GMT</pubDate>
-            <description><![CDATA[السلطات الروسية: 4 مصابين مدنيين في مقاطعة بيلغورود إثر هجمات بمسيرات أوكرانية على المقاطعة]]></description>
-            <content:encoded><![CDATA[السلطات الروسية: 4 مصابين مدنيين في مقاطعة بيلغورود إثر هجمات بمسيرات أوكرانية على المقاطعة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
