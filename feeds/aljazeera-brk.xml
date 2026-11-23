@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 17:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 18:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الخزانة الأمريكية: أدرجنا 8 أفراد و22 كيانا في إيران والإمارات وتركيا وهونغ…]]></title>
+            <link>https://t.me/aljazeeraBrk/245960</link>
+            <guid isPermaLink="false">e8630c7565ec58269300924706ad2dfb15b4f49136109da56c59d4ba85155ca1</guid>
+            <pubDate>Mon, 23 Nov 2026 18:11:02 GMT</pubDate>
+            <description><![CDATA[الخزانة الأمريكية: أدرجنا 8 أفراد و22 كيانا في إيران والإمارات وتركيا وهونغ كونغ ضمن العقوبات المرتبطة بإيران]]></description>
+            <content:encoded><![CDATA[الخزانة الأمريكية: أدرجنا 8 أفراد و22 كيانا في إيران والإمارات وتركيا وهونغ كونغ ضمن العقوبات المرتبطة بإيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخزانة الأمريكية: العقوبات الجديدة المرتبطة بإيران تستهدف عشرات الأشخاص…]]></title>
             <link>https://t.me/aljazeeraBrk/245959</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 14:13:03 GMT</pubDate>
             <description><![CDATA[سلطات شرق ليبيا: السفينة الروسية كانت في طريق العودة لروسيا وتوقفها في بنغازي كان بغرض التزود بالوقود والمؤن]]></description>
             <content:encoded><![CDATA[سلطات شرق ليبيا: السفينة الروسية كانت في طريق العودة لروسيا وتوقفها في بنغازي كان بغرض التزود بالوقود والمؤن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني بنيران مسيرة إسرائيلية شرقي مدينة دير…]]></title>
-            <link>https://t.me/aljazeeraBrk/245760</link>
-            <guid isPermaLink="false">44b918d349f4f88d996913b2fdcc362d32b697c0dbc71cdf14d96d1a01d0f948</guid>
-            <pubDate>Sun, 22 Nov 2026 14:04:02 GMT</pubDate>
-            <description><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني بنيران مسيرة إسرائيلية شرقي مدينة دير البلح وسط قطاع غزة]]></description>
-            <content:encoded><![CDATA[مستشفى شهداء الأقصى: استشهاد فلسطيني بنيران مسيرة إسرائيلية شرقي مدينة دير البلح وسط قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
