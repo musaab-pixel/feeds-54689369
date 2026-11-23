@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 18:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 18:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ بغزة: إصابة فلسطيني بجراح خطيرة بنيران قوات الاحتلال…]]></title>
+            <link>https://t.me/aljazeeraBrk/245961</link>
+            <guid isPermaLink="false">fb863ff2fbc2cd8be7a99c3c5a24d1e4a4bb2b68495908e55413b0ff6c9feacb</guid>
+            <pubDate>Mon, 23 Nov 2026 18:38:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ بغزة: إصابة فلسطيني بجراح خطيرة بنيران قوات الاحتلال في بيت لاهيا شمالي القطاع]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ بغزة: إصابة فلسطيني بجراح خطيرة بنيران قوات الاحتلال في بيت لاهيا شمالي القطاع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخزانة الأمريكية: أدرجنا 8 أفراد و22 كيانا في إيران والإمارات وتركيا وهونغ…]]></title>
             <link>https://t.me/aljazeeraBrk/245960</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 14:14:01 GMT</pubDate>
             <description><![CDATA[حكومة الوحدة الليبية: نرفض تحويل ليبيا إلى ساحة للصراعات الدولية وتصفية الحسابات بين القوى الخارجية]]></description>
             <content:encoded><![CDATA[حكومة الوحدة الليبية: نرفض تحويل ليبيا إلى ساحة للصراعات الدولية وتصفية الحسابات بين القوى الخارجية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سلطات شرق ليبيا: السفينة الروسية كانت في طريق العودة لروسيا وتوقفها في بنغازي…]]></title>
-            <link>https://t.me/aljazeeraBrk/245761</link>
-            <guid isPermaLink="false">ab56fbac250a0a55f2e169e48f88186c55caedcad7a4d9b397d0e4f3b98e778c</guid>
-            <pubDate>Sun, 22 Nov 2026 14:13:03 GMT</pubDate>
-            <description><![CDATA[سلطات شرق ليبيا: السفينة الروسية كانت في طريق العودة لروسيا وتوقفها في بنغازي كان بغرض التزود بالوقود والمؤن]]></description>
-            <content:encoded><![CDATA[سلطات شرق ليبيا: السفينة الروسية كانت في طريق العودة لروسيا وتوقفها في بنغازي كان بغرض التزود بالوقود والمؤن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
