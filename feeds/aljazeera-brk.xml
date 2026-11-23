@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 15:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 16:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: رصدنا إطلاق صاروخ باليستي من صعدة باتجاه عدن وسقوطه في…]]></title>
+            <link>https://t.me/aljazeeraBrk/245955</link>
+            <guid isPermaLink="false">3113fd0e58f86cf027aa1e41a738b66f2526c0288a836cd9e70cb44c1a790bf7</guid>
+            <pubDate>Mon, 23 Nov 2026 16:13:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: رصدنا إطلاق صاروخ باليستي من صعدة باتجاه عدن وسقوطه في مدينة ذمار]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: رصدنا إطلاق صاروخ باليستي من صعدة باتجاه عدن وسقوطه في مدينة ذمار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[السلطات في محافظة لحج اليمنية: قتلى وجرحى بقصف حوثي استهدف حافلات ركاب في…]]></title>
             <link>https://t.me/aljazeeraBrk/245954</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 12:31:02 GMT</pubDate>
             <description><![CDATA[السلطات الروسية: 4 مصابين مدنيين في مقاطعة بيلغورود إثر هجمات بمسيرات أوكرانية على المقاطعة]]></description>
             <content:encoded><![CDATA[السلطات الروسية: 4 مصابين مدنيين في مقاطعة بيلغورود إثر هجمات بمسيرات أوكرانية على المقاطعة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الخارجية الفلسطينية: ندين إرهاب المستعمرين وإحراق 12 مركبة في 3 قرى…]]></title>
-            <link>https://t.me/aljazeeraBrk/245755</link>
-            <guid isPermaLink="false">b8110da60a3b821aef1be15fb687e39c10c0e41a9596983b8def42c4a7c7a0a8</guid>
-            <pubDate>Sun, 22 Nov 2026 12:28:02 GMT</pubDate>
-            <description><![CDATA[وزارة الخارجية الفلسطينية: ندين إرهاب المستعمرين وإحراق 12 مركبة في 3 قرى بمحافظة رام الله والبيرة]]></description>
-            <content:encoded><![CDATA[وزارة الخارجية الفلسطينية: ندين إرهاب المستعمرين وإحراق 12 مركبة في 3 قرى بمحافظة رام الله والبيرة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
