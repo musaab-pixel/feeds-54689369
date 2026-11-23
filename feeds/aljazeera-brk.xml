@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 09:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 09:53:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط…]]></title>
+            <link>https://t.me/aljazeeraBrk/245899</link>
+            <guid isPermaLink="false">10e3bdbf366cb2ec4b75ed3adafc2ac11d97b27d5dd085e972d5f9b68ff2e073</guid>
+            <pubDate>Mon, 23 Nov 2026 09:49:02 GMT</pubDate>
+            <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط مدينة خان يونس جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[جماعة أنصار الله الحوثيين: 3 غارات على مديرية صالة بتعز و3 غارات أخرى على…]]></title>
             <link>https://t.me/aljazeeraBrk/245898</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 21 Nov 2026 19:00:02 GMT</pubDate>
             <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة امرأة برصاص قوات الاحتلال خارج مناطق سيطرتها في بيت لاهيا شمالي قطاع غزة]]></description>
             <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة امرأة برصاص قوات الاحتلال خارج مناطق سيطرتها في بيت لاهيا شمالي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حزب يشار الإسرائيلي: آيزنكوت وجه بإجراء مفاوضات ماراثونية مع الليكود بدءا من…]]></title>
-            <link>https://t.me/aljazeeraBrk/245699</link>
-            <guid isPermaLink="false">2e201b661e0f590f28b394651cabb49d0703154ce76e69058b44e04c94a60aea</guid>
-            <pubDate>Sat, 21 Nov 2026 18:44:02 GMT</pubDate>
-            <description><![CDATA[حزب يشار الإسرائيلي: آيزنكوت وجه بإجراء مفاوضات ماراثونية مع الليكود بدءا من الغد لتحقيق اختراق لتشكيل حكومة]]></description>
-            <content:encoded><![CDATA[حزب يشار الإسرائيلي: آيزنكوت وجه بإجراء مفاوضات ماراثونية مع الليكود بدءا من الغد لتحقيق اختراق لتشكيل حكومة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
