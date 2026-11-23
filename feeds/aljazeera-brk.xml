@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 13:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 13:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة غربي مدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245927</link>
+            <guid isPermaLink="false">88c69e2ca817d6a3fa5dc3c077b76ef42e0f07936a829a46cfe674bff568d2e6</guid>
+            <pubDate>Mon, 23 Nov 2026 13:38:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة غربي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة غربي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: هجوم روسي على العاصمة الأوكرانية كييف]]></title>
             <link>https://t.me/aljazeeraBrk/245926</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 04:59:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: مستوطنون يحرقون مركبات ويعتدون على سكان في قرية دير أبو مشعل شمال غرب رام الله بالضفة الغربية]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يحرقون مركبات ويعتدون على سكان في قرية دير أبو مشعل شمال غرب رام الله بالضفة الغربية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على سكان ويحرقون مركبات في بلدة كفر مالك شمال…]]></title>
-            <link>https://t.me/aljazeeraBrk/245727</link>
-            <guid isPermaLink="false">c6926b5c9a76dfdcc2c8888f55a503231434534120347a0185924011a28b4deb</guid>
-            <pubDate>Sun, 22 Nov 2026 04:58:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على سكان ويحرقون مركبات في بلدة كفر مالك شمال شرق رام الله بالضفة الغربية]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: مستوطنون يعتدون على سكان ويحرقون مركبات في بلدة كفر مالك شمال شرق رام الله بالضفة الغربية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
