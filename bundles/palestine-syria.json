@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "614e09b3d7bf6f5a0f5e0654b6e6ca058681118032f57efb4319a79d04ff4bdb",
+            "content_html": "<b>قيادة الأمن في الرقة:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>قسم الشرطة الغربي في مدينة الرقة يعتقل شخصًا لإقدامه على تخريب أعمدة الإنارة في شوارع المدينة وسرقة الكابلات منها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الجهات المختصة تجري تحقيقاتها مع المقبوض عليه تمهيدًا لاتخاذ الإجراءات القانونية اللازمة بحقه وتقديمه للقضاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143212",
+            "title": "قيادة الأمن في الرقة: 📌قسم الشرطة الغربي في مدينة الرقة يعتقل شخصًا لإقدامه…",
+            "summary": "<b>قيادة الأمن في الرقة:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>قسم الشرطة الغربي في مدينة الرقة يعتقل شخصًا لإقدامه على تخريب أعمدة الإنارة في شوارع المدينة وسرقة الكابلات منها<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الجهات المختصة تجري تحقيقاتها مع المقبوض عليه تمهيدًا لاتخاذ الإجراءات القانونية اللازمة بحقه وتقديمه للقضاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/EdJubDBZDHbZ-d3cqwRX1xhTRkYQiI8RUL8rI7K8gkqtbSCpiSKcCdIxF2Zj-tLPoMwwIIv-dXte-4V-eDXgXLky_5_dZHi4FeNbx1xMDmyG7NjLilFIkHIWP7OGPbNFYnuRFGta56BveimxaVwVmbO5y3Z_lvTn_E4gs3ly8fJCFNSQBqIlSXyoKhR9kPy4RaLkuA0uyjRi3tnSnZgc9gD2XSWYkm9IhE2trOFOqc6r2N_rRyoZDHhTGT2pbEAzZc2RVAZSH3pHalKz-igfFaBHuv5xGTYfGEWyxE7eWhPw0CP6JK0iGFhYLn_k9XPJQbF7d8x1EnagqSUWhtPmyA.jpg",
+            "date_modified": "2026-11-23T06:39:36.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "e09d5d467b2eb1f9e9e9067dd24243da657ba4e16f27e624faee8cee5641dab3",
             "content_html": "منظمة سام الحقوقية: مقتل 80 مدنيا وإصابة 147 آخرين في تعز جراء القصف والقنص خلال 20 يوما",
             "url": "https://t.me/aljazeeraBrk/245859",
@@ -1621,17 +1633,6 @@
             "date_modified": "2026-11-22T09:56:12.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "003784833b80ac0216ab02fac23f1ce146890ab374325cf8b8a73677889e2912",
-            "content_html": "التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية باتجاه منطقة الرياض",
-            "url": "https://t.me/aljazeeraBrk/245742",
-            "title": "التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية باتجاه منطقة الرياض",
-            "summary": "التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية باتجاه منطقة الرياض",
-            "date_modified": "2026-11-22T09:48:01.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
