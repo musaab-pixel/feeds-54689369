@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 21:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 21:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة أبها ومنطقة جازان]]></title>
+            <link>https://t.me/aljazeeraBrk/245976</link>
+            <guid isPermaLink="false">f3d198762ad22b996eb214cac4f1030124c03b8caa7dc0a98f8e10ee31ae885a</guid>
+            <pubDate>Mon, 23 Nov 2026 21:18:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة أبها ومنطقة جازان]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة أبها ومنطقة جازان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إنذار مبكر للتحذير من خطر في مدينة أبها ومنطقة جازان]]></title>
             <link>https://t.me/aljazeeraBrk/245975</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 15:49:02 GMT</pubDate>
             <description><![CDATA[بحرية الجيش الإيراني: ناقلتا النفط خالفتا التحذيرات السابقة وأوقفتا تشغيل أنظمة التعرف والملاحة]]></description>
             <content:encoded><![CDATA[بحرية الجيش الإيراني: ناقلتا النفط خالفتا التحذيرات السابقة وأوقفتا تشغيل أنظمة التعرف والملاحة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بحرية الجيش الإيراني: حرائق بناقلتي نفط صباح اليوم إثر اصطدامهما بألغام بحرية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245776</link>
-            <guid isPermaLink="false">f0a9276404d7f907738ae8d303dc5e12ef5ff34ce8ddd4106d97b56f0ffa0bc4</guid>
-            <pubDate>Sun, 22 Nov 2026 15:48:02 GMT</pubDate>
-            <description><![CDATA[بحرية الجيش الإيراني: حرائق بناقلتي نفط صباح اليوم إثر اصطدامهما بألغام بحرية في منطقة محظورة شرقي هرمز]]></description>
-            <content:encoded><![CDATA[بحرية الجيش الإيراني: حرائق بناقلتي نفط صباح اليوم إثر اصطدامهما بألغام بحرية في منطقة محظورة شرقي هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
