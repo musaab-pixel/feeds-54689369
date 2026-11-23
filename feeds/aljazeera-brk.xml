@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 21:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 22:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزير الخزانة الأمريكي: سنواصل قطع شرايين التمويل التي تعتمد عليها إيران لتمويل…]]></title>
+            <link>https://t.me/aljazeeraBrk/245977</link>
+            <guid isPermaLink="false">9250d2f0deaccf0ec1e6c5c57197c354ff1f94895c480585a4b0f0c4cecb12a2</guid>
+            <pubDate>Mon, 23 Nov 2026 22:14:02 GMT</pubDate>
+            <description><![CDATA[وزير الخزانة الأمريكي: سنواصل قطع شرايين التمويل التي تعتمد عليها إيران لتمويل جيشها ووكلائها الإرهابيين]]></description>
+            <content:encoded><![CDATA[وزير الخزانة الأمريكي: سنواصل قطع شرايين التمويل التي تعتمد عليها إيران لتمويل جيشها ووكلائها الإرهابيين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن مدينة أبها ومنطقة جازان]]></title>
             <link>https://t.me/aljazeeraBrk/245976</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 16:00:02 GMT</pubDate>
             <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن حادثة شملت ناقلة نفط وقوات عسكرية في خليج عمان]]></description>
             <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن حادثة شملت ناقلة نفط وقوات عسكرية في خليج عمان]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بحرية الجيش الإيراني: ناقلتا النفط خالفتا التحذيرات السابقة وأوقفتا تشغيل أنظمة…]]></title>
-            <link>https://t.me/aljazeeraBrk/245777</link>
-            <guid isPermaLink="false">c05d67b4f654528cc3f16cbd29ab7aedbedf13097e4fe70a9871bb45cdc07b5a</guid>
-            <pubDate>Sun, 22 Nov 2026 15:49:02 GMT</pubDate>
-            <description><![CDATA[بحرية الجيش الإيراني: ناقلتا النفط خالفتا التحذيرات السابقة وأوقفتا تشغيل أنظمة التعرف والملاحة]]></description>
-            <content:encoded><![CDATA[بحرية الجيش الإيراني: ناقلتا النفط خالفتا التحذيرات السابقة وأوقفتا تشغيل أنظمة التعرف والملاحة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

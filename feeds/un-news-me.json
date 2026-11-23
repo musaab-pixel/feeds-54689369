@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "23ce2785727fbeec4d3c90130477928acc479502d7c6f9e56d3293a9440f8da0",
+            "content_html": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+            "title": "Gaza war has undone 77 years of human development, UN warns",
+            "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNICEF-Gaza-05.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-23T12:00:00.000Z"
+        },
+        {
             "id": "1651c68df9d739512efb75158b1b5befd3b93767674743a216f07768640cadac",
             "content_html": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
