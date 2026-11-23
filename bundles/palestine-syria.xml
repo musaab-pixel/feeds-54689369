@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 14:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 15:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 4 شهداء في غارات إسرائيلية على مدينة غزة ومخيم جباليا…]]></title>
+            <link>https://t.me/aljazeeraBrk/245946</link>
+            <guid isPermaLink="false">668f77d8d2fd21d68b25dfed76089ffa9edb394fd9c40463f1a5625fd50430d6</guid>
+            <pubDate>Mon, 23 Nov 2026 14:59:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 4 شهداء في غارات إسرائيلية على مدينة غزة ومخيم جباليا منذ صباح اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 4 شهداء في غارات إسرائيلية على مدينة غزة ومخيم جباليا منذ صباح اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الأمين العام للناتو: سنكيف قدراتنا الردعية في مواجهة روسيا]]></title>
             <link>https://t.me/aljazeeraBrk/245945</link>
@@ -1553,15 +1562,6 @@
             <guid isPermaLink="false">588ea041a75fb346f7e9ff1bc2ea902daacd6e1b2ba106d5a39095aedddaaea7</guid>
             <pubDate>Mon, 23 Nov 2026 00:30:24 GMT</pubDate>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/05/2e42cecb-d46c-45bc-b67f-06260b5b4d4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[نيويورك تايمز عن مصادر: شريك المرأة الصينية الذي كان يقدم باعتباره زوجها كان…]]></title>
-            <link>https://t.me/aljazeeraBrk/245835</link>
-            <guid isPermaLink="false">df833065fa3282c036ac29e5d072bae615097823bae69d35833e35a284ed1ea4</guid>
-            <pubDate>Mon, 23 Nov 2026 00:27:01 GMT</pubDate>
-            <description><![CDATA[نيويورك تايمز عن مصادر: شريك المرأة الصينية الذي كان يقدم باعتباره زوجها كان يعمل لجهاز الاستخبارات الصيني]]></description>
-            <content:encoded><![CDATA[نيويورك تايمز عن مصادر: شريك المرأة الصينية الذي كان يقدم باعتباره زوجها كان يعمل لجهاز الاستخبارات الصيني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>
