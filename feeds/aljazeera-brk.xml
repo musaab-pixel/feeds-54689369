@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 22:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 22:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية…]]></title>
+            <link>https://t.me/aljazeeraBrk/245979</link>
+            <guid isPermaLink="false">ef0d5dda23e2148f8967e4434421fd581bc45e406cfd03cec33ac640020af77b</guid>
+            <pubDate>Mon, 23 Nov 2026 22:33:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية الإرهابية باتجاه المنطقة الجنوبية]]></description>
+            <content:encoded><![CDATA[المتحدث باسم التحالف: اعتراض وتدمير طائرة مسيرة أطلقتها المليشيا الحوثية الإرهابية باتجاه المنطقة الجنوبية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر محلية يمنية: دوي انفجارات في مدينة الحديدة]]></title>
             <link>https://t.me/aljazeeraBrk/245978</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 16:06:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية وانقطاع الخدمات سيصبحان أمرا اعتياديا في 2027]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية وانقطاع الخدمات سيصبحان أمرا اعتياديا في 2027]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245779</link>
-            <guid isPermaLink="false">fbabe1a5427f298d9b0173fd513de240155b28347d78aabc0ef6133cf0ad375f</guid>
-            <pubDate>Sun, 22 Nov 2026 16:05:02 GMT</pubDate>
-            <description><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية ستتواصل خلال الـ18 شهرا المقبلة]]></description>
-            <content:encoded><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية ستتواصل خلال الـ18 شهرا المقبلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
