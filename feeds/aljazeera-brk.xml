@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 02:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 03:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: آمل أن يقوم مجلس إدارة شركة إنفيديا بإعادة جينسن هوانغ لمنصبه وسيكون ذلك…]]></title>
+            <link>https://t.me/aljazeeraBrk/245844</link>
+            <guid isPermaLink="false">c3c3a945b25b0fbaef63d187ac3b0c50523a17102a323385b745e92b7b5ed6d0</guid>
+            <pubDate>Mon, 23 Nov 2026 03:20:02 GMT</pubDate>
+            <description><![CDATA[ترمب: آمل أن يقوم مجلس إدارة شركة إنفيديا بإعادة جينسن هوانغ لمنصبه وسيكون ذلك أفضل شيء لهم وللبلاد]]></description>
+            <content:encoded><![CDATA[ترمب: آمل أن يقوم مجلس إدارة شركة إنفيديا بإعادة جينسن هوانغ لمنصبه وسيكون ذلك أفضل شيء لهم وللبلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارتان على مديرية التعزية في محافظة تعز]]></title>
             <link>https://t.me/aljazeeraBrk/245843</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 21 Nov 2026 06:30:02 GMT</pubDate>
             <description><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي خان يونس جنوبي قطاع غزة]]></description>
             <content:encoded><![CDATA[الإسعاف والطوارئ: مصابون في قصف إسرائيلي على مواصي خان يونس جنوبي قطاع غزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 275 مسيرة أوكرانية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245619</link>
-            <guid isPermaLink="false">57afdfa091a0d537753fc5e8f3f42b37f00353b5fba1b794818dbedc3f55b83d</guid>
-            <pubDate>Sat, 21 Nov 2026 05:40:02 GMT</pubDate>
-            <description><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 275 مسيرة أوكرانية بمناطق عدة في البلاد]]></description>
-            <content:encoded><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 275 مسيرة أوكرانية بمناطق عدة في البلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
