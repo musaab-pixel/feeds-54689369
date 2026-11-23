@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "6b032af65980fc6d219d9a3f4e5127ef98d1b77a318b3cf327e40176e4915236",
+            "content_html": "<b>الإخبارية: </b>وفاة شخص وإصابة 5 آخرين بحادث مروري على طريق الحسكة - القامشلي قرب قرية تل منصور<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143237",
+            "title": "الإخبارية: وفاة شخص وإصابة 5 آخرين بحادث مروري على طريق الحسكة - القامشلي قرب…",
+            "summary": "<b>الإخبارية: </b>وفاة شخص وإصابة 5 آخرين بحادث مروري على طريق الحسكة - القامشلي قرب قرية تل منصور<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/YFD5X8WINP1LBRya3kZCgczHii7Q4w83yzvKDS313-MmFaGscILVaWb4t0rKZKFm7l0H01KEPm5mcVwD5uLT8_dTqdApA88W4JH1IHCPcPWYD_zu7i9MfKU6XHp0lgDrNsC1ERTNMq1h5roIkgUu_0kbzilyibnsAeWzGnFcVtEP_ajXQDXimJdcd-kYamH-dLSYp0AOqgv_Te7_1BD8bJVft6Z4k_Rdmdl2tjYeisZZVL61ft3PZu0cbDnQQNffcKK-CcQ1sUfDK5-Vw_9m80DJOT9pQrOxAqQukY9FmYfegWqVyKEvt5rkEfKYgtAELWyBnxbMhi2HRLMdORhDSA.jpg",
+            "date_modified": "2026-11-23T18:01:56.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "a779bff779bc578e1b7dde5e656518c4ca08a994de2a507cdfcacdf4d6513bd7",
             "content_html": "الخزانة الأمريكية: العقوبات الجديدة المرتبطة بإيران تستهدف عشرات الأشخاص والكيانات",
             "url": "https://t.me/aljazeeraBrk/245959",
@@ -1620,17 +1632,6 @@
             "title": "الجبهة الداخلية الإسرائيلية: إطلاق صفارات الإنذار في الجليل الغربي قبل قليل…",
             "summary": "الجبهة الداخلية الإسرائيلية: إطلاق صفارات الإنذار في الجليل الغربي قبل قليل ناجم عن تشخيص خاطئ",
             "date_modified": "2026-11-23T05:48:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "7a9a4d4fcc6c032b9e9832f4a3707fc3421927b4e4c29b613cfb9e03ed3bb664",
-            "content_html": "الجبهة الداخلية الإسرائيلية: صفارات إنذار في بلدات عدة بالجليل الغربي عند الحدود اللبنانية",
-            "url": "https://t.me/aljazeeraBrk/245852",
-            "title": "الجبهة الداخلية الإسرائيلية: صفارات إنذار في بلدات عدة بالجليل الغربي عند…",
-            "summary": "الجبهة الداخلية الإسرائيلية: صفارات إنذار في بلدات عدة بالجليل الغربي عند الحدود اللبنانية",
-            "date_modified": "2026-11-23T05:40:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
