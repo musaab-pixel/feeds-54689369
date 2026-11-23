@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "81aa130cebc81671fad13c29fb03774a3a76df44627877b9a1735c50ee1fa584",
+            "content_html": "حاكم مقاطعة روستوف الروسية: إسقاط أكثر من 80 مسيرة خلال صد هجوم جوي على المقاطعة",
+            "url": "https://t.me/aljazeeraBrk/245856",
+            "title": "حاكم مقاطعة روستوف الروسية: إسقاط أكثر من 80 مسيرة خلال صد هجوم جوي على المقاطعة",
+            "summary": "حاكم مقاطعة روستوف الروسية: إسقاط أكثر من 80 مسيرة خلال صد هجوم جوي على المقاطعة",
+            "date_modified": "2026-11-23T06:18:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "fe8bdb6e5978039c027c0a0719638ad180aa672e197bc71c1e9199874d967da5",
+            "content_html": "القوات الجوية الأوكرانية: إسقاط 134 مسيرة روسية من أصل 153 خلال هجوم الليلة الماضية",
+            "url": "https://t.me/aljazeeraBrk/245855",
+            "title": "القوات الجوية الأوكرانية: إسقاط 134 مسيرة روسية من أصل 153 خلال هجوم الليلة…",
+            "summary": "القوات الجوية الأوكرانية: إسقاط 134 مسيرة روسية من أصل 153 خلال هجوم الليلة الماضية",
+            "date_modified": "2026-11-23T06:10:01.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "6ff1e38762dd88dd69849852698c80f7c993315502854c8a58ae136702b311b7",
             "content_html": "الجبهة الداخلية الإسرائيلية: إطلاق صفارات الإنذار في الجليل الغربي قبل قليل ناجم عن تشخيص خاطئ",
             "url": "https://t.me/aljazeeraBrk/245854",
@@ -1613,29 +1635,6 @@
             "date_modified": "2026-11-22T09:39:31.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "e1cae584f40dab0690c7a95423434150e3ae1757231a8275ecce74ecc042ca37",
-            "content_html": "<b>مديرية الطوارئ وإدارة الكوارث في حمص: </b>وفاة شخصين وإصابة آخر إثر تصادم سيارتين مخصصتين لنقل الدجاج مع صهريج عند تحويلة دمشق على طريق حمص - طرطوس<br><br>|رلمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143187",
-            "title": "مديرية الطوارئ وإدارة الكوارث في حمص: وفاة شخصين وإصابة آخر إثر تصادم سيارتين…",
-            "summary": "<b>مديرية الطوارئ وإدارة الكوارث في حمص: </b>وفاة شخصين وإصابة آخر إثر تصادم سيارتين مخصصتين لنقل الدجاج مع صهريج عند تحويلة دمشق على طريق حمص - طرطوس<br><br>|رلمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/hhZdWvpen4sbAiISqVvP5Bz-J8MGGXF83S143eFleUiA0x0IvcE4yeHi8BG3wSdx8FpBbB-YICLE5LBNUWHkez63MsEMhgMdS7F7QqtKrUDS-cOPvVH1JUkBGXqOGkU0wL05PKSjxnS7AygSvJUEzfC-CGGg-h29TxOXWq5btGD2bIr-N6p6_DWjiDPvKO68dq_ScpbhNv-uuqhgAhy963D8yiAspV9DgJa7feHwiZZC2vo-QeQWtTGZJFIiQ2cssJ7-rOuKYQWyjxhOwGJcs9jcdILKC_ZtcMcn3LOcep9y08wVqV57hxvMphcbw-sruCRAjFY-eYDkAh5Gj0qn0A.jpg",
-            "date_modified": "2026-11-22T09:35:47.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "9be39383183d9df462ac32a47959f7f3ef8167f622089e492a4eb5a408ef9fb4",
-            "content_html": "مصادر طبية سودانية للجزيرة: 3 قتلى مدنيين في قصف مسيرة تابعة لقوات الدعم السريع منزلا بمحلية كرري في أم درمان",
-            "url": "https://t.me/aljazeeraBrk/245740",
-            "title": "مصادر طبية سودانية للجزيرة: 3 قتلى مدنيين في قصف مسيرة تابعة لقوات الدعم السريع…",
-            "summary": "مصادر طبية سودانية للجزيرة: 3 قتلى مدنيين في قصف مسيرة تابعة لقوات الدعم السريع منزلا بمحلية كرري في أم درمان",
-            "date_modified": "2026-11-22T09:33:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
