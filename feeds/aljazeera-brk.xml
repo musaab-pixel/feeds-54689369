@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 22:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 22:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر محلية يمنية: دوي انفجارات في مدينة الحديدة]]></title>
+            <link>https://t.me/aljazeeraBrk/245978</link>
+            <guid isPermaLink="false">f4a7355d5676fa01e41f1d31f17c85641c38366fa388f783c52e6dd30df73384</guid>
+            <pubDate>Mon, 23 Nov 2026 22:28:02 GMT</pubDate>
+            <description><![CDATA[مصادر محلية يمنية: دوي انفجارات في مدينة الحديدة]]></description>
+            <content:encoded><![CDATA[مصادر محلية يمنية: دوي انفجارات في مدينة الحديدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزير الخزانة الأمريكي: سنواصل قطع شرايين التمويل التي تعتمد عليها إيران لتمويل…]]></title>
             <link>https://t.me/aljazeeraBrk/245977</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 16:05:02 GMT</pubDate>
             <description><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية ستتواصل خلال الـ18 شهرا المقبلة]]></description>
             <content:encoded><![CDATA[أكسيوس عن مسؤولين أمريكيين: الهجمات السيبرانية على شركات وبنى تحتية أمريكية ستتواصل خلال الـ18 شهرا المقبلة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن حادثة شملت ناقلة نفط وقوات…]]></title>
-            <link>https://t.me/aljazeeraBrk/245778</link>
-            <guid isPermaLink="false">90e8cb78000b85bef3c08810421f0490fbc0de5864889d0627bf89f4bffaf58b</guid>
-            <pubDate>Sun, 22 Nov 2026 16:00:02 GMT</pubDate>
-            <description><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن حادثة شملت ناقلة نفط وقوات عسكرية في خليج عمان]]></description>
-            <content:encoded><![CDATA[هيئة عمليات التجارة البحرية البريطانية: بلاغ عن حادثة شملت ناقلة نفط وقوات عسكرية في خليج عمان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
