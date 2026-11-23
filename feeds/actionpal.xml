@@ -4,10 +4,17 @@
         <title>Action Group for Palestinians of Syria — ActionPal</title>
         <link>https://actionpal.org.uk/</link>
         <description>RSS Factory feed "Action Group for Palestinians of Syria — ActionPal" (type: website)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 00:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 00:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجموعة العمل: نكبة فلسطين جرحٌ مفتوح وتغريبة متجددة لفلسطينيي سوريا]]></title>
+            <link>https://actionpal.org.uk/post/999119340</link>
+            <guid isPermaLink="false">8c3b6af3bf86dddac0ef2359bf75da763b70c62dbe44142b096fc6808fc15880</guid>
+            <pubDate>Mon, 23 Nov 2026 00:42:03 GMT</pubDate>
+            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/05/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[مجموعة العمل تحذر من تصاعد الخطابات التحريضية ضد فلسطينيي سوريا وتدعو للمساءلة]]></title>
             <link>https://actionpal.org.uk/post/999117446</link>
@@ -5090,13 +5097,6 @@
             <guid isPermaLink="false">55e686ff6e99b692b56a4f15cabb96daf0d3e943d0fe14628721602b200a6b9a</guid>
             <pubDate>Fri, 23 Oct 2026 11:41:11 GMT</pubDate>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/06/IMG-20260620-WA0028.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[مجموعة العمل ترحب بإعلان الأونروا توسيع خدماتها في مخيم اليرموك وتدعو إلى دعم شامل للمخيمات الفلسطينية]]></title>
-            <link>https://actionpal.org.uk/post/999119599</link>
-            <guid isPermaLink="false">46295dec0a361007c3a0c6c9e001611ace3e4a31dae963a5fb08267c74902a98</guid>
-            <pubDate>Fri, 23 Oct 2026 11:29:04 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/05/IMG-20260521-WA0037.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "8c3b6af3bf86dddac0ef2359bf75da763b70c62dbe44142b096fc6808fc15880",
+            "url": "https://actionpal.org.uk/post/999119340",
+            "title": "مجموعة العمل: نكبة فلسطين جرحٌ مفتوح وتغريبة متجددة لفلسطينيي سوريا",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png",
+            "date_modified": "2026-11-23T00:42:03.694Z"
+        },
+        {
             "id": "588ea041a75fb346f7e9ff1bc2ea902daacd6e1b2ba106d5a39095aedddaaea7",
             "url": "https://actionpal.org.uk/post/999117446",
             "title": "مجموعة العمل تحذر من تصاعد الخطابات التحريضية ضد فلسطينيي سوريا وتدعو للمساءلة",
@@ -1618,17 +1625,6 @@
             "date_modified": "2026-11-22T05:32:52.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "40d2f9e66e1c863376818178c87738262bd9bb5c227c25707e2b0ede3d82ccca",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5dEhMLTk4eklPU2Q5U24yTmdLLTdXNzRpNWFrTzBaOGNJTmtyblR6UWZsd2lKSjd2WGYwandMQmxoM1RmSG9jMkJ2dlVQY3BjMmZjNHh2NA?oc=5\" target=\"_blank\">اللاجئون الفلسطينيون.. خريطة انتشار واسعة وواقع تبدّل بين الوطن والشتات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5dEhMLTk4eklPU2Q5U24yTmdLLTdXNzRpNWFrTzBaOGNJTmtyblR6UWZsd2lKSjd2WGYwandMQmxoM1RmSG9jMkJ2dlVQY3BjMmZjNHh2NA?oc=5",
-            "title": "اللاجئون الفلسطينيون.. خريطة انتشار واسعة وواقع تبدّل بين الوطن والشتات - المركز الفلسطيني للإعلام",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5dEhMLTk4eklPU2Q5U24yTmdLLTdXNzRpNWFrTzBaOGNJTmtyblR6UWZsd2lKSjd2WGYwandMQmxoM1RmSG9jMkJ2dlVQY3BjMmZjNHh2NA?oc=5\" target=\"_blank\">اللاجئون الفلسطينيون.. خريطة انتشار واسعة وواقع تبدّل بين الوطن والشتات</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
-            "date_modified": "2026-11-22T05:22:00.000Z",
-            "author": {
-                "name": "المركز الفلسطيني للإعلام"
             }
         }
     ]

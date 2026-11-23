@@ -5,6 +5,13 @@
     "description": "RSS Factory feed \"Action Group for Palestinians of Syria — ActionPal\" (type: website)",
     "items": [
         {
+            "id": "8c3b6af3bf86dddac0ef2359bf75da763b70c62dbe44142b096fc6808fc15880",
+            "url": "https://actionpal.org.uk/post/999119340",
+            "title": "مجموعة العمل: نكبة فلسطين جرحٌ مفتوح وتغريبة متجددة لفلسطينيي سوريا",
+            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/%D9%85%D9%82%D8%A7%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF.png",
+            "date_modified": "2026-11-23T00:42:03.694Z"
+        },
+        {
             "id": "588ea041a75fb346f7e9ff1bc2ea902daacd6e1b2ba106d5a39095aedddaaea7",
             "url": "https://actionpal.org.uk/post/999117446",
             "title": "مجموعة العمل تحذر من تصاعد الخطابات التحريضية ضد فلسطينيي سوريا وتدعو للمساءلة",
@@ -1752,13 +1759,6 @@
             "title": "مجموعة العمل: في يوم اللاجئ العالمي.. فلسطينيو سوريا بين سندان التهميش ومطرقة الشتات",
             "image": "https://actionpal.org.uk/wp-content/uploads/2026/06/IMG-20260620-WA0028.jpg",
             "date_modified": "2026-10-23T11:41:11.338Z"
-        },
-        {
-            "id": "46295dec0a361007c3a0c6c9e001611ace3e4a31dae963a5fb08267c74902a98",
-            "url": "https://actionpal.org.uk/post/999119599",
-            "title": "مجموعة العمل ترحب بإعلان الأونروا توسيع خدماتها في مخيم اليرموك وتدعو إلى دعم شامل للمخيمات الفلسطينية",
-            "image": "https://actionpal.org.uk/wp-content/uploads/2026/05/IMG-20260521-WA0037.jpg",
-            "date_modified": "2026-10-23T11:29:04.952Z"
         }
     ]
 }
