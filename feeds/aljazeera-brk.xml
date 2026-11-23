@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 04:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 05:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[حاكم مقاطعة زابوروجيا: مقتل شخص وإصابة 4 آخرين في هجمات روسية على المدينة…]]></title>
+            <link>https://t.me/aljazeeraBrk/245847</link>
+            <guid isPermaLink="false">c9171b341ef6ba38bdb550e9fb4e122a24c6779c4c4c8d2eabb30234d66c4a19</guid>
+            <pubDate>Mon, 23 Nov 2026 05:09:02 GMT</pubDate>
+            <description><![CDATA[حاكم مقاطعة زابوروجيا: مقتل شخص وإصابة 4 آخرين في هجمات روسية على المدينة والمقاطعة]]></description>
+            <content:encoded><![CDATA[حاكم مقاطعة زابوروجيا: مقتل شخص وإصابة 4 آخرين في هجمات روسية على المدينة والمقاطعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كبير مستشاري ترمب للشؤون العربية والإفريقية: الهجمات بمسيرات من الخارج تتكرر…]]></title>
             <link>https://t.me/aljazeeraBrk/245846</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 21 Nov 2026 07:33:02 GMT</pubDate>
             <description><![CDATA[عمدة كييف: مصابان في هجوم بمسيرات روسية وحريق في مبنى سكني إثر سقوط شظايا مسيرة]]></description>
             <content:encoded><![CDATA[عمدة كييف: مصابان في هجوم بمسيرات روسية وحريق في مبنى سكني إثر سقوط شظايا مسيرة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الإعلام الأمني في العراق: 4 وفيات و35 مصابا في حادث حريق محطة الهارثة…]]></title>
-            <link>https://t.me/aljazeeraBrk/245622</link>
-            <guid isPermaLink="false">2dd263dcaa5a2e1937267405b409ea6e8c668535be162880a29d1f9854034022</guid>
-            <pubDate>Sat, 21 Nov 2026 07:21:02 GMT</pubDate>
-            <description><![CDATA[الإعلام الأمني في العراق: 4 وفيات و35 مصابا في حادث حريق محطة الهارثة الكهربائية في البصرة]]></description>
-            <content:encoded><![CDATA[الإعلام الأمني في العراق: 4 وفيات و35 مصابا في حادث حريق محطة الهارثة الكهربائية في البصرة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
