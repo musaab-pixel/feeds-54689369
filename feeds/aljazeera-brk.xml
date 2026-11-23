@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 10:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 10:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مجمع الشفاء الطبي: شهيد ومصاب في غارة من مسيرة إسرائيلية على مخيم جباليا شمالي…]]></title>
+            <link>https://t.me/aljazeeraBrk/245901</link>
+            <guid isPermaLink="false">81aa0e827b3c9264936781dc873d602d6bdbf88546003e59ae67b896aa4cffab</guid>
+            <pubDate>Mon, 23 Nov 2026 10:13:02 GMT</pubDate>
+            <description><![CDATA[مجمع الشفاء الطبي: شهيد ومصاب في غارة من مسيرة إسرائيلية على مخيم جباليا شمالي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيد ومصاب في غارة من مسيرة إسرائيلية على مخيم جباليا شمالي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[العقود الآجلة لمؤشر ناسداك 100 ترتفع 3.5% وسهم إنفيديا يرتفع بنسبة 9% في…]]></title>
             <link>https://t.me/aljazeeraBrk/245900</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sat, 21 Nov 2026 19:26:02 GMT</pubDate>
             <description><![CDATA[الداخلية البحرينية: المعلومات الأولية تشير لوقوع أضرار مادية دون إصابات والعمل جار للسيطرة على الحريق]]></description>
             <content:encoded><![CDATA[الداخلية البحرينية: المعلومات الأولية تشير لوقوع أضرار مادية دون إصابات والعمل جار للسيطرة على الحريق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الداخلية البحرينية: استهداف منشأة صناعية مدنية واندلاع حريق في الموقع جراء…]]></title>
-            <link>https://t.me/aljazeeraBrk/245701</link>
-            <guid isPermaLink="false">6405484c566eafb42ea19c3e082b903718844811afc1635c0a488f19b9b19d04</guid>
-            <pubDate>Sat, 21 Nov 2026 19:24:02 GMT</pubDate>
-            <description><![CDATA[الداخلية البحرينية: استهداف منشأة صناعية مدنية واندلاع حريق في الموقع جراء العدوان الإيراني الآثم]]></description>
-            <content:encoded><![CDATA[الداخلية البحرينية: استهداف منشأة صناعية مدنية واندلاع حريق في الموقع جراء العدوان الإيراني الآثم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
