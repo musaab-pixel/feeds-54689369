@@ -5,6 +5,83 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "ec995c81b9255d7e95f167d91bde10758e9c88bb28e272c5ea91bd862833eedb",
+            "content_html": "أ. ب عن وثيقة: وزارة الحرب الأمريكية انتقدت كندا بشأن الإنفاق العسكري وإعادة النظر بصفقة شراء طائرات إف 35",
+            "url": "https://t.me/aljazeeraBrk/246010",
+            "title": "أ. ب عن وثيقة: وزارة الحرب الأمريكية انتقدت كندا بشأن الإنفاق العسكري وإعادة…",
+            "summary": "أ. ب عن وثيقة: وزارة الحرب الأمريكية انتقدت كندا بشأن الإنفاق العسكري وإعادة النظر بصفقة شراء طائرات إف 35",
+            "date_modified": "2026-11-24T02:31:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "99c4a4008b95b7fa94ff4279b405e3d5b249a55c0c70a4657d9cc2a229aa8cb5",
+            "content_html": "أ. ب عن وثيقة: وزارة الحرب الأمريكية تتهم كندا بالتقصير في دورها كشريك موثوق به في الدفاع عن أمريكا الشمالية",
+            "url": "https://t.me/aljazeeraBrk/246009",
+            "title": "أ. ب عن وثيقة: وزارة الحرب الأمريكية تتهم كندا بالتقصير في دورها كشريك موثوق به…",
+            "summary": "أ. ب عن وثيقة: وزارة الحرب الأمريكية تتهم كندا بالتقصير في دورها كشريك موثوق به في الدفاع عن أمريكا الشمالية",
+            "date_modified": "2026-11-24T02:30:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "a0711c370e96eca6da5efa706cf64eca46cc5711dba358a7ac90ae9872a0c5df",
+            "content_html": "بوليتيكو: الطلبات تتضمن كذلك تمويلا لصالح مشروع القبة الذهبية للدفاع الصاروخي وسفن حربية",
+            "url": "https://t.me/aljazeeraBrk/246008",
+            "title": "بوليتيكو: الطلبات تتضمن كذلك تمويلا لصالح مشروع القبة الذهبية للدفاع الصاروخي…",
+            "summary": "بوليتيكو: الطلبات تتضمن كذلك تمويلا لصالح مشروع القبة الذهبية للدفاع الصاروخي وسفن حربية",
+            "date_modified": "2026-11-24T02:26:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "d131619749a4ffaf7b11ce690f1c9f7c8ce968ba98cbee5c713ff4c3f891d77c",
+            "content_html": "بوليتيكو: الطلبات تتضمن تمويلا لتقنيات مضادة للمسيرات ولزيادة إنتاج أنواع ذخائر شهدت استخداما مكثفا في الخارج",
+            "url": "https://t.me/aljazeeraBrk/246007",
+            "title": "بوليتيكو: الطلبات تتضمن تمويلا لتقنيات مضادة للمسيرات ولزيادة إنتاج أنواع ذخائر…",
+            "summary": "بوليتيكو: الطلبات تتضمن تمويلا لتقنيات مضادة للمسيرات ولزيادة إنتاج أنواع ذخائر شهدت استخداما مكثفا في الخارج",
+            "date_modified": "2026-11-24T02:24:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "14fad7d5e2038e8c0a6b0df28b5d4a7e4c4b7af9ccab4585ec7ad2b714045615",
+            "content_html": "بوليتيكو: البيت الأبيض أرسل إلى الكونغرس طلبات تمويل إضافية بمليارات الدولارات لصالح الجيش الأمريكي",
+            "url": "https://t.me/aljazeeraBrk/246006",
+            "title": "بوليتيكو: البيت الأبيض أرسل إلى الكونغرس طلبات تمويل إضافية بمليارات الدولارات…",
+            "summary": "بوليتيكو: البيت الأبيض أرسل إلى الكونغرس طلبات تمويل إضافية بمليارات الدولارات لصالح الجيش الأمريكي",
+            "date_modified": "2026-11-24T02:22:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "4073eb010899b512536bb350ad2161bc58c8e6f5a1d2f3165f54f63bf77a4611",
+            "content_html": "عمدة موسكو: إسقاط 11 مسيرة كانت تتجه نحو العاصمة وفرق الطوارئ تعمل في مواقع سقوط الحطام",
+            "url": "https://t.me/aljazeeraBrk/246005",
+            "title": "عمدة موسكو: إسقاط 11 مسيرة كانت تتجه نحو العاصمة وفرق الطوارئ تعمل في مواقع…",
+            "summary": "عمدة موسكو: إسقاط 11 مسيرة كانت تتجه نحو العاصمة وفرق الطوارئ تعمل في مواقع سقوط الحطام",
+            "date_modified": "2026-11-24T02:19:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "b02d1bd3bc8d9473cc819f0e80e7e4b2a2a7dbbb312de473df085bc4be346e7a",
+            "content_html": "إنترفاكس عن الدفاع الروسية: قصفنا مواقع توجيه مسيرات بمنطقة سومي ومستقبلات أوكرانية لأقمار ستارلينك الصناعية",
+            "url": "https://t.me/aljazeeraBrk/246004",
+            "title": "إنترفاكس عن الدفاع الروسية: قصفنا مواقع توجيه مسيرات بمنطقة سومي ومستقبلات…",
+            "summary": "إنترفاكس عن الدفاع الروسية: قصفنا مواقع توجيه مسيرات بمنطقة سومي ومستقبلات أوكرانية لأقمار ستارلينك الصناعية",
+            "date_modified": "2026-11-24T02:18:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "9bd316a41fc15dcf9c2443415278d29809f1d05c8467091b0a342ac09206a326",
             "content_html": "رويترز عن وزارة دفاع كوريا الجنوبية: سنستدعي الملحق العسكري الروسي للاحتجاج على خرق طائرة روسية أجواء البلاد",
             "url": "https://t.me/aljazeeraBrk/246003",
@@ -1550,83 +1627,6 @@
             "date_modified": "2026-11-23T10:08:07.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "fb30594ddfe563a9f5a42ed84566777e8379d44b1cc78fcd4d1142c51299cfc3",
-            "content_html": "<b>الإخبارية عن مصدر في وزارة الداخلية حول نتائج التحقيق مع أحمد طلال رسلان الملازم السابق في النظام البائد وأحد المتورطين في مجزرة كمين العتيبة بريف دمشق:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان أقّر بزراعته 80 لغمًا مضادًا للدبابات على طريق حرّان وتجهيز آلية تفجيرها ثم سلّمها عبر المقدم علي الحسين إلى رواد زيدان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان اعترف بمراقبة الأهالي عبر الكاميرات من غرفة العمليات وعند وصولهم إلى منطقة الألغام قام رواد زيدان بتفعيل آلية التفجير<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان أقر بمشاركة ضباط من قوات النظام البائد إلى جانب 3 عناصر من \"حزب الله\" في المهمة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان زرع 870 لغمًا مضادًا للأفراد والدبابات خلال خدمته منذ عام 2016 حتى سقوط النظام البائد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أقر رسلان بزراعة 70 لغمًا مضادًا للأفراد في ريف القنيطرة أواخر عام 2016 ثم 500 لغم مضاد للأفراد والدبابات في قطاع التنف بريف حمص لاحقًا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تولى رسلان خلال خدمته إدارة سرية ومهمة تدريب ضباط وعناصر على اختصاص الهندسة والألغام<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أقر رسلان بالمشاركة بعد التحرير في تشكيل مجموعة مسلحة مرتبطة بغياث دلة والمساهمة في إقامة حاجز مسلح عند مفرق قرية زغرين خلال أحداث 6 آذار 2025<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143220",
-            "title": "الإخبارية عن مصدر في وزارة الداخلية حول نتائج التحقيق مع أحمد طلال رسلان…",
-            "summary": "<b>الإخبارية عن مصدر في وزارة الداخلية حول نتائج التحقيق مع أحمد طلال رسلان الملازم السابق في النظام البائد وأحد المتورطين في مجزرة كمين العتيبة بريف دمشق:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان أقّر بزراعته 80 لغمًا مضادًا للدبابات على طريق حرّان وتجهيز آلية تفجيرها ثم سلّمها عبر المقدم علي الحسين إلى رواد زيدان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان اعترف بمراقبة الأهالي عبر الكاميرات من غرفة العمليات وعند وصولهم إلى منطقة الألغام قام رواد زيدان بتفعيل آلية التفجير<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان أقر بمشاركة ضباط من قوات النظام البائد إلى جانب 3 عناصر من \"حزب الله\" في المهمة<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>رسلان زرع 870 لغمًا مضادًا للأفراد والدبابات خلال خدمته منذ عام 2016 حتى سقوط النظام البائد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أقر رسلان بزراعة 70 لغمًا مضادًا للأفراد في ريف القنيطرة أواخر عام 2016 ثم 500 لغم مضاد للأفراد والدبابات في قطاع التنف بريف حمص لاحقًا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>تولى رسلان خلال خدمته إدارة سرية ومهمة تدريب ضباط وعناصر على اختصاص الهندسة والألغام<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>أقر رسلان بالمشاركة بعد التحرير في تشكيل مجموعة مسلحة مرتبطة بغياث دلة والمساهمة في إقامة حاجز مسلح عند مفرق قرية زغرين خلال أحداث 6 آذار 2025<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-23T10:02:01.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "f3e0c8f4d7530854bbf9eb98d67621e4a69442a09bb0b06ee8e889a1bd79ff2a",
-            "url": "https://t.me/HalabTodayTV/143219",
-            "title": "Photo",
-            "image": "https://cdn4.telesco.pe/file/vBd2mHkqPpjMwUbDCWUxWNjep-dMo1SEXvWVO8rRK4csM8dan0ORwcbryVUW5xjJmJyWvTPrS67UEzuS-QZg4enVbe7RB26CUWfK5COqUFeKAYQWaycmsGC6hdFXQRtAPo7tsEXtMDvB10_JEnWjV8a5sIGVsr77MW6xlF4mMQS5CKh1bh6ZnGLUV1GNhZqGWv0g8YQbcTvM8mRJecm94VGLWxHp1bgLGHTIEmaMeM063gAEPx_vRmnT2OYWun1DFrDOah0v1ZP0C-pplIuSfmjcMsL2y3wPB13GCB2eATw4_T182wXd18cOb4mWnre80fuhZV3R2k6yLW4liJpbhw.jpg",
-            "date_modified": "2026-11-23T10:01:53.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "9360c8705af77df3364850bd250fb7f1102d2c061ef17db110c065bea5be64db",
-            "content_html": "العقود الآجلة لمؤشر ناسداك 100 ترتفع 3.5% وسهم إنفيديا يرتفع بنسبة 9% في تداولات ما قبل الافتتاح",
-            "url": "https://t.me/aljazeeraBrk/245900",
-            "title": "العقود الآجلة لمؤشر ناسداك 100 ترتفع 3.5% وسهم إنفيديا يرتفع بنسبة 9% في…",
-            "summary": "العقود الآجلة لمؤشر ناسداك 100 ترتفع 3.5% وسهم إنفيديا يرتفع بنسبة 9% في تداولات ما قبل الافتتاح",
-            "date_modified": "2026-11-23T09:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "10e3bdbf366cb2ec4b75ed3adafc2ac11d97b27d5dd085e972d5f9b68ff2e073",
-            "content_html": "مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط مدينة خان يونس جنوبي قطاع غزة",
-            "url": "https://t.me/aljazeeraBrk/245899",
-            "title": "مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط…",
-            "summary": "مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط مدينة خان يونس جنوبي قطاع غزة",
-            "date_modified": "2026-11-23T09:49:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "d8f4d9148cbebab80d0b8b1040d1519503d03101aa40d5a74ca1296735ad8513",
-            "content_html": "نادي أهلي حلب يعلن التعاقد مع صانع الألعاب الأمريكي دونفان جاكسون ضمن صفوف رجال كرة السلة قادمًا من الدوري الليتواني لتمثيل الفريق لموسم 2026 - 2027<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143218",
-            "title": "نادي أهلي حلب يعلن التعاقد مع صانع الألعاب الأمريكي دونفان جاكسون ضمن صفوف رجال…",
-            "summary": "نادي أهلي حلب يعلن التعاقد مع صانع الألعاب الأمريكي دونفان جاكسون ضمن صفوف رجال كرة السلة قادمًا من الدوري الليتواني لتمثيل الفريق لموسم 2026 - 2027<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "image": "https://cdn4.telesco.pe/file/ogpppmL3LOy6tPoiDt4-Ip7YN9HjwCkuutbqViRs8sjSy4ctYblLm1sCnvjtvXmWllDbtEkRvpN2T-PagOOaS08m92wyZrhI4QKyDvpTVFE5DlhY_2F4LWtsglo--ZmtYyXIQlhPFCPtyBiXD42xFwbnKiOB-gBVkKqMZ8xkpGQHxEQ3ncFw_vmuyF1iF3TRukjFWt_EpvZl8xDEe5WZSQZU7Tuj3PFuZJrckoVT2fN0O7ofOBKeAI0kW4QioDbOKEFA1ItkZv_Nd8AioHOVCP7zJ0TzLPUQo1mSZY2jXnll6Kj6nrtIJL7c1UzLV9SAoVtH9HSIGL14tmdcGET_Yw.jpg",
-            "date_modified": "2026-11-23T09:45:10.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "95b86a101b2401638df2801b772647b16726a9c25252db3b3a4c303aee985ec0",
-            "content_html": "جماعة أنصار الله الحوثيين: 3 غارات على مديرية صالة بتعز و3 غارات أخرى على مديرية المقاطرة بلحج",
-            "url": "https://t.me/aljazeeraBrk/245898",
-            "title": "جماعة أنصار الله الحوثيين: 3 غارات على مديرية صالة بتعز و3 غارات أخرى على…",
-            "summary": "جماعة أنصار الله الحوثيين: 3 غارات على مديرية صالة بتعز و3 غارات أخرى على مديرية المقاطرة بلحج",
-            "date_modified": "2026-11-23T09:36:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "4509a3d3799be24b440109f4469b1fc4f7af76eb911da07471eb38f4f92ee652",
-            "content_html": "جماعة أنصار الله الحوثيين: ارتفاع عدد ضحايا الهجوم على الحديدة إلى 10 قتلى وأكثر من 20 جريحا",
-            "url": "https://t.me/aljazeeraBrk/245897",
-            "title": "جماعة أنصار الله الحوثيين: ارتفاع عدد ضحايا الهجوم على الحديدة إلى 10 قتلى…",
-            "summary": "جماعة أنصار الله الحوثيين: ارتفاع عدد ضحايا الهجوم على الحديدة إلى 10 قتلى وأكثر من 20 جريحا",
-            "date_modified": "2026-11-23T09:35:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
