@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 13:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 14:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: قصف صاروخي يستهدف منطقة آل شليل في…]]></title>
+            <link>https://t.me/aljazeeraBrk/246120</link>
+            <guid isPermaLink="false">1630e7761ec3acf19fec7f026cfbcfd8b73d9ce42880835818f746697961d3a7</guid>
+            <pubDate>Tue, 24 Nov 2026 14:23:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: قصف صاروخي يستهدف منطقة آل شليل في محافظة صعدة الحدودية]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: قصف صاروخي يستهدف منطقة آل شليل في محافظة صعدة الحدودية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نفذنا غارات على مواقع لمليشيا الحوثي في الضباب غرب…]]></title>
             <link>https://t.me/aljazeeraBrk/246119</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 08:56:02 GMT</pubDate>
             <description><![CDATA[زيلنسكي: الدبلوماسية ستكون لها فرصة بعد تعزيز قدراتنا الميدانية]]></description>
             <content:encoded><![CDATA[زيلنسكي: الدبلوماسية ستكون لها فرصة بعد تعزيز قدراتنا الميدانية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[زيلنسكي: استهدفنا السفينة الحربية الروسية قبالة سواحل ليبيا وأغرقناها]]></title>
-            <link>https://t.me/aljazeeraBrk/245882</link>
-            <guid isPermaLink="false">f3d0674cd575c867d232d17a495d573fd0df2c0dbeb7e07af43d5f7c22a258a5</guid>
-            <pubDate>Mon, 23 Nov 2026 08:55:03 GMT</pubDate>
-            <description><![CDATA[زيلنسكي: استهدفنا السفينة الحربية الروسية قبالة سواحل ليبيا وأغرقناها]]></description>
-            <content:encoded><![CDATA[زيلنسكي: استهدفنا السفينة الحربية الروسية قبالة سواحل ليبيا وأغرقناها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
