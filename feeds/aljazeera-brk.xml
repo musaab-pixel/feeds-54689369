@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 22:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 22:58:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: اعتراض وتدمير طائرتين مسيرتين بالمنطقة الشرقية]]></title>
+            <link>https://t.me/aljazeeraBrk/246161</link>
+            <guid isPermaLink="false">24c32a16d4adb9fe2d0a1d47e2be0840b68843e90e6931e8703c44c362a6feea</guid>
+            <pubDate>Tue, 24 Nov 2026 22:50:01 GMT</pubDate>
+            <description><![CDATA[التحالف: اعتراض وتدمير طائرتين مسيرتين بالمنطقة الشرقية]]></description>
+            <content:encoded><![CDATA[التحالف: اعتراض وتدمير طائرتين مسيرتين بالمنطقة الشرقية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الخارجية الأمريكية: نحذر مواطنينا من إلغاءات محتملة للرحلات وإغلاق المجال الجوي…]]></title>
             <link>https://t.me/aljazeeraBrk/246160</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 13:16:02 GMT</pubDate>
             <description><![CDATA[نتنياهو: الحكومة المقبلة لن تخوض أي حرب ولا يمكن التوافق حول حكومة يشارك فيها مؤيدو الإرهاب]]></description>
             <content:encoded><![CDATA[نتنياهو: الحكومة المقبلة لن تخوض أي حرب ولا يمكن التوافق حول حكومة يشارك فيها مؤيدو الإرهاب]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[نتنياهو: يجب أن تكون جميع الأطراف مرنة للتوصل إلى توافقات في تشكيل الحكومة]]></title>
-            <link>https://t.me/aljazeeraBrk/245924</link>
-            <guid isPermaLink="false">a12350a548924cb0b576c7579fda654d0355f520b002d5f1cabe73e7432249cb</guid>
-            <pubDate>Mon, 23 Nov 2026 13:15:01 GMT</pubDate>
-            <description><![CDATA[نتنياهو: يجب أن تكون جميع الأطراف مرنة للتوصل إلى توافقات في تشكيل الحكومة]]></description>
-            <content:encoded><![CDATA[نتنياهو: يجب أن تكون جميع الأطراف مرنة للتوصل إلى توافقات في تشكيل الحكومة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
