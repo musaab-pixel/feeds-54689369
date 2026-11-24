@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 15:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 15:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع الروسية: استهدفنا سفينة في البحر الأسود تنقل شحنة ذات استخدام مزدوج…]]></title>
+            <link>https://t.me/aljazeeraBrk/246125</link>
+            <guid isPermaLink="false">fb83688e36b6d9361fa262993639324c99eee2abf3fe31c560d1debfa1225121</guid>
+            <pubDate>Tue, 24 Nov 2026 15:18:01 GMT</pubDate>
+            <description><![CDATA[الدفاع الروسية: استهدفنا سفينة في البحر الأسود تنقل شحنة ذات استخدام مزدوج للقوات الأوكرانية]]></description>
+            <content:encoded><![CDATA[الدفاع الروسية: استهدفنا سفينة في البحر الأسود تنقل شحنة ذات استخدام مزدوج للقوات الأوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إصابة 11 شخصا في هجوم مليشيا الحوثي الإرهابية على أحد…]]></title>
             <link>https://t.me/aljazeeraBrk/246124</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 09:02:02 GMT</pubDate>
             <description><![CDATA[زيلنسكي: نتطلع إلى العمل مع دول الناتو في تطوير الأسلحة والتكنولوجيا العسكرية وبناء خطوط إنتاج مشتركة]]></description>
             <content:encoded><![CDATA[زيلنسكي: نتطلع إلى العمل مع دول الناتو في تطوير الأسلحة والتكنولوجيا العسكرية وبناء خطوط إنتاج مشتركة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[زيلنسكي: نتطلع إلى الدعم الأوروبي مع اقتراب فصل الشتاء]]></title>
-            <link>https://t.me/aljazeeraBrk/245888</link>
-            <guid isPermaLink="false">24629b28b7f98ea07c5409877215b01a9981d72464dd23f74c4993e64096c1e0</guid>
-            <pubDate>Mon, 23 Nov 2026 09:01:04 GMT</pubDate>
-            <description><![CDATA[زيلنسكي: نتطلع إلى الدعم الأوروبي مع اقتراب فصل الشتاء]]></description>
-            <content:encoded><![CDATA[زيلنسكي: نتطلع إلى الدعم الأوروبي مع اقتراب فصل الشتاء]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
