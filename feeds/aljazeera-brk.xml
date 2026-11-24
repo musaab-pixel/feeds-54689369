@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 18:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 18:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع التركية: مقتل 5 جنود كانوا على متن طائرة مروحية تحطمت اليوم في…]]></title>
+            <link>https://t.me/aljazeeraBrk/246146</link>
+            <guid isPermaLink="false">c6281bac259e4bbb2606668d9474d5a832ea8ddac05f238f3f4ce5b55e5aafc1</guid>
+            <pubDate>Tue, 24 Nov 2026 18:22:01 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع التركية: مقتل 5 جنود كانوا على متن طائرة مروحية تحطمت اليوم في ولاية إسكي شهير وسط البلاد]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع التركية: مقتل 5 جنود كانوا على متن طائرة مروحية تحطمت اليوم في ولاية إسكي شهير وسط البلاد]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نفذنا خلال الساعات الماضية 697 عملية استهداف لمواقع…]]></title>
             <link>https://t.me/aljazeeraBrk/246145</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 10:54:02 GMT</pubDate>
             <description><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: نحذر من تحويل ليبيا إلى ساحة لتصفية الحسابات]]></description>
             <content:encoded><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: نحذر من تحويل ليبيا إلى ساحة لتصفية الحسابات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: الهجوم على بنغازي بمثابة إعلان حرب وندعو…]]></title>
-            <link>https://t.me/aljazeeraBrk/245909</link>
-            <guid isPermaLink="false">1fd9220dd5416a1fbed2ce7f72fb9d373aa861f01293068518404a548cc312fc</guid>
-            <pubDate>Mon, 23 Nov 2026 10:53:03 GMT</pubDate>
-            <description><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: الهجوم على بنغازي بمثابة إعلان حرب وندعو مجلس الأمن لجلسة طارئة]]></description>
-            <content:encoded><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: الهجوم على بنغازي بمثابة إعلان حرب وندعو مجلس الأمن لجلسة طارئة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
