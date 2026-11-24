@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 18:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 18:37:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: نفذنا غارة على 4 أطقم لتعزيزات لجماعة الحوثي في منطقة…]]></title>
+            <link>https://t.me/aljazeeraBrk/246147</link>
+            <guid isPermaLink="false">6f34892e394c1ac0a7909555a2fddfaa169726bd0c77123c2aa8b8d8763f4ade</guid>
+            <pubDate>Tue, 24 Nov 2026 18:25:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: نفذنا غارة على 4 أطقم لتعزيزات لجماعة الحوثي في منطقة الكدم كلائبة جنوب مدينة تعز]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا غارة على 4 أطقم لتعزيزات لجماعة الحوثي في منطقة الكدم كلائبة جنوب مدينة تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع التركية: مقتل 5 جنود كانوا على متن طائرة مروحية تحطمت اليوم في…]]></title>
             <link>https://t.me/aljazeeraBrk/246146</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 11:18:02 GMT</pubDate>
             <description><![CDATA[المجلس الرئاسي الليبي: سنتخذ كل الإجراءات العسكرية والسياسية والقانونية المناسبة بما يصون سيادة ليبيا]]></description>
             <content:encoded><![CDATA[المجلس الرئاسي الليبي: سنتخذ كل الإجراءات العسكرية والسياسية والقانونية المناسبة بما يصون سيادة ليبيا]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: نحذر من تحويل ليبيا إلى ساحة لتصفية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245910</link>
-            <guid isPermaLink="false">08cb26c0c17b65c8d022000355b784e1b908b2a91ad6c25ff02a3a4d916b18ed</guid>
-            <pubDate>Mon, 23 Nov 2026 10:54:02 GMT</pubDate>
-            <description><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: نحذر من تحويل ليبيا إلى ساحة لتصفية الحسابات]]></description>
-            <content:encoded><![CDATA[عضو المجلس الرئاسي الليبي موسى الكوني: نحذر من تحويل ليبيا إلى ساحة لتصفية الحسابات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
