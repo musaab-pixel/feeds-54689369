@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 16:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 17:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الرئيس الإيراني: نسعى إلى حل المشكلات عبر المحادثات لكن هذا لا يعني استسلامنا]]></title>
+            <link>https://t.me/aljazeeraBrk/246136</link>
+            <guid isPermaLink="false">008800aa787b18e6c62153a560a12cee349766b50484d197b515513c5429d9f2</guid>
+            <pubDate>Tue, 24 Nov 2026 16:50:02 GMT</pubDate>
+            <description><![CDATA[الرئيس الإيراني: نسعى إلى حل المشكلات عبر المحادثات لكن هذا لا يعني استسلامنا]]></description>
+            <content:encoded><![CDATA[الرئيس الإيراني: نسعى إلى حل المشكلات عبر المحادثات لكن هذا لا يعني استسلامنا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الرئيس الإيراني: نجري محادثات مع أمريكا والدول الأخرى لكننا سنحافظ على عزتنا…]]></title>
             <link>https://t.me/aljazeeraBrk/246135</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 09:57:02 GMT</pubDate>
             <description><![CDATA[العقود الآجلة لمؤشر ناسداك 100 ترتفع 3.5% وسهم إنفيديا يرتفع بنسبة 9% في تداولات ما قبل الافتتاح]]></description>
             <content:encoded><![CDATA[العقود الآجلة لمؤشر ناسداك 100 ترتفع 3.5% وسهم إنفيديا يرتفع بنسبة 9% في تداولات ما قبل الافتتاح]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط…]]></title>
-            <link>https://t.me/aljazeeraBrk/245899</link>
-            <guid isPermaLink="false">10e3bdbf366cb2ec4b75ed3adafc2ac11d97b27d5dd085e972d5f9b68ff2e073</guid>
-            <pubDate>Mon, 23 Nov 2026 09:49:02 GMT</pubDate>
-            <description><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط مدينة خان يونس جنوبي قطاع غزة]]></description>
-            <content:encoded><![CDATA[مصدر في الإسعاف والطوارئ: إصابة فلسطيني برصاص قوات الاحتلال الإسرائيلي وسط مدينة خان يونس جنوبي قطاع غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
