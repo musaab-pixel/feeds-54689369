@@ -2041,11 +2041,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-2002592806" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1267427808" type="button">
           14h00-14h40 | Séquence introductive : « Un impératif de justice sociale, un enjeu économique et un intérêt partagé »
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-2002592806">
+  <div class="fr-collapse" id="accordion-1267427808">
         
 
 <div class="my-8 print-para-space">
@@ -2065,11 +2065,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-439626893" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-270770060" type="button">
           14h40-15h55 | Table ronde 1 : Amplifier l'action contre les violences basées sur le genre : quel rôle pour les acteurs financiers et le secteur privé ?
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-439626893">
+  <div class="fr-collapse" id="accordion-270770060">
         
 
 <div class="my-8 print-para-space">
@@ -2089,11 +2089,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1404518756" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-887465417" type="button">
           16h10-17h25 | Table ronde 2 : Agir contre les VBG, une priorité partagée source d'intérêts communs entre la France et ses pays partenaires
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1404518756">
+  <div class="fr-collapse" id="accordion-887465417">
         
 
 <div class="my-8 print-para-space">
@@ -2155,11 +2155,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-2002592806" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1267427808" type="button">
           14h00-14h40 | Séquence introductive : « Un impératif de justice sociale, un enjeu économique et un intérêt partagé »
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-2002592806">
+  <div class="fr-collapse" id="accordion-1267427808">
         
 
 <div class="my-8 print-para-space">
@@ -2179,11 +2179,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-439626893" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-270770060" type="button">
           14h40-15h55 | Table ronde 1 : Amplifier l'action contre les violences basées sur le genre : quel rôle pour les acteurs financiers et le secteur privé ?
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-439626893">
+  <div class="fr-collapse" id="accordion-270770060">
         
 
 <div class="my-8 print-para-space">
@@ -2203,11 +2203,11 @@
 
 <section data-component-id="afd_default_theme:accordion" class="fr-accordion">
   <h2 class="fr-accordion__title">
-    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-1404518756" type="button">
+    <button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-887465417" type="button">
           16h10-17h25 | Table ronde 2 : Agir contre les VBG, une priorité partagée source d'intérêts communs entre la France et ses pays partenaires
     </button>
   </h2>
-  <div class="fr-collapse" id="accordion-1404518756">
+  <div class="fr-collapse" id="accordion-887465417">
         
 
 <div class="my-8 print-para-space">
@@ -9819,14 +9819,13 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/un-partenariat-academique-pour-agroecologie-et-innovation-agroalimentaire" class="fr-card__link">Un partenariat académique pour l’agroécologie et l’innovation agroalimentaire</a>
+                  <a href="https://www.afd.fr/fr/projets/projet-itege-un-partenariat-academique-pour-le-developpement-energie-geothermique" class="fr-card__link">Projet ITEGE - Un partenariat académique pour le développement  de l’énergie géothermique</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
@@ -9835,19 +9834,7 @@
     Éducation et formation
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Partenariats Académiques Afrique - France (PeA)
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -9866,10 +9853,10 @@
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Kenya</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Éthiopie</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 3&nbsp;000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 2 600 000 €</p>
               </div>
                   </div>
                       </div>
@@ -9877,7 +9864,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/un-partenariat-academique-pour-lagroecologie-et-linnovation-agroalimentaire-projet-shift-kf.jpg.webp?itok=9CDNbmsa" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/projet-itege-un-partenariat-academique-pour-le-developpement-energie-geothermique.jpg.webp?itok=q6ON6ObI" width="715" height="402" alt>
 
 
 
@@ -10770,14 +10757,13 @@
   <div class="fr-card__body ">
     <div class="fr-card__content">
       <h3 class="fr-card__title">
-                  <a href="https://www.afd.fr/fr/projets/un-partenariat-academique-pour-agroecologie-et-innovation-agroalimentaire" class="fr-card__link">Un partenariat académique pour l’agroécologie et l’innovation agroalimentaire</a>
+                  <a href="https://www.afd.fr/fr/projets/projet-itege-un-partenariat-academique-pour-le-developpement-energie-geothermique" class="fr-card__link">Projet ITEGE - Un partenariat académique pour le développement  de l’énergie géothermique</a>
               </h3>
       
               <div class="fr-card__start">
                       
-  <ul data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
-          <li>
-        
+  <div data-component-id="dsfr4drupal:tag-group" class="fr-tags-group">
+          
 
 
   
@@ -10786,19 +10772,7 @@
     Éducation et formation
   </p>
 
-      </li>
-          <li>
-        
-
-
-  
-  
-  <p data-component-id="dsfr4drupal:tag" class="fr-tag">
-    Partenariats Académiques Afrique - France (PeA)
-  </p>
-
-      </li>
-      </ul>
+      </div>
 
                             </div>
                     <div class="fr-card__start fr-card__start--badge">
@@ -10817,10 +10791,10 @@
         </div>
                     <div class="fr-card__details order-3 mt-3 pr-8">
                         <div class="mb-2">
-                <p class="fr-card__detail fr-icon-map-pin-2-fill">Kenya</p>
+                <p class="fr-card__detail fr-icon-map-pin-2-fill">Éthiopie</p>
               </div>
                                   <div class="mb-2">
-                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 3&nbsp;000 000 €</p>
+                <p class="fr-card__detail fr-icon-money-euro-circle-fill">Montant du financement : 2 600 000 €</p>
               </div>
                   </div>
                       </div>
@@ -10828,7 +10802,7 @@
 
       <div class="fr-card__header" aria-hidden="true">
       <div class="fr-card__img ">
-                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-09/un-partenariat-academique-pour-lagroecologie-et-linnovation-agroalimentaire-projet-shift-kf.jpg.webp?itok=9CDNbmsa" width="715" height="402" alt>
+                      <img loading="lazy" src="https://www.afd.fr/sites/default/files/styles/715_x_402/public/2026-10/projet-itege-un-partenariat-academique-pour-le-developpement-energie-geothermique.jpg.webp?itok=q6ON6ObI" width="715" height="402" alt>
 
 
 
