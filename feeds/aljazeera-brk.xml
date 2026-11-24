@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Mon, 23 Nov 2026 23:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 23:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: زوال الخطر عن منطقة نجران ومحافظة السليل]]></title>
+            <link>https://t.me/aljazeeraBrk/245985</link>
+            <guid isPermaLink="false">5f060adaac3af2bac1f9f0a40c336ed688de546c37032c24fc97b8b48b248c25</guid>
+            <pubDate>Mon, 23 Nov 2026 23:50:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: زوال الخطر عن منطقة نجران ومحافظة السليل]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: زوال الخطر عن منطقة نجران ومحافظة السليل]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إنذار مبكر للتحذير من خطر في محافظة السليل]]></title>
             <link>https://t.me/aljazeeraBrk/245984</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Sun, 22 Nov 2026 16:51:02 GMT</pubDate>
             <description><![CDATA[التحالف: اعتراض وتدمير مسيرة أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></description>
             <content:encoded><![CDATA[التحالف: اعتراض وتدمير مسيرة أطلقتها المليشيا الحوثية باتجاه المنطقة الجنوبية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا مصفاة رابغ النفطية ورادارا…]]></title>
-            <link>https://t.me/aljazeeraBrk/245785</link>
-            <guid isPermaLink="false">76cd9633d23422070a5393a08deacd8ff6e61abf9ed7d9b6994f053eb3fcdea9</guid>
-            <pubDate>Sun, 22 Nov 2026 16:42:02 GMT</pubDate>
-            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا مصفاة رابغ النفطية ورادارا بمنطقة الدواسر في السعودية]]></description>
-            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: استهدفنا مصفاة رابغ النفطية ورادارا بمنطقة الدواسر في السعودية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
