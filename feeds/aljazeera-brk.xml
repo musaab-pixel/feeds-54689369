@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 15:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 15:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الدفاع المدني السعودي: إصابة 11 شخصا في هجوم مليشيا الحوثي الإرهابية على أحد…]]></title>
+            <link>https://t.me/aljazeeraBrk/246124</link>
+            <guid isPermaLink="false">1d6de15d3b5a78a00454bfc13e85f616be853caa70cf21e108e36bc1af157ecf</guid>
+            <pubDate>Tue, 24 Nov 2026 15:11:02 GMT</pubDate>
+            <description><![CDATA[الدفاع المدني السعودي: إصابة 11 شخصا في هجوم مليشيا الحوثي الإرهابية على أحد أبراج المركز المالي بمدينة الرياض]]></description>
+            <content:encoded><![CDATA[الدفاع المدني السعودي: إصابة 11 شخصا في هجوم مليشيا الحوثي الإرهابية على أحد أبراج المركز المالي بمدينة الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[محكمة التحكيم الرياضي: إلغاء قرار منح منتخب المغرب لقب كأس الأمم الإفريقية 2025]]></title>
             <link>https://t.me/aljazeeraBrk/246123</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 09:01:04 GMT</pubDate>
             <description><![CDATA[زيلنسكي: نتطلع إلى الدعم الأوروبي مع اقتراب فصل الشتاء]]></description>
             <content:encoded><![CDATA[زيلنسكي: نتطلع إلى الدعم الأوروبي مع اقتراب فصل الشتاء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[زيلنسكي: نتطلع إلى العمل مع دول الناتو في تطوير الأسلحة والتكنولوجية العسكرية…]]></title>
-            <link>https://t.me/aljazeeraBrk/245887</link>
-            <guid isPermaLink="false">393ce3bb689bdc98935548069260fae3f1cbfaa18cebe80b0c4d6735151ae663</guid>
-            <pubDate>Mon, 23 Nov 2026 09:01:03 GMT</pubDate>
-            <description><![CDATA[زيلنسكي: نتطلع إلى العمل مع دول الناتو في تطوير الأسلحة والتكنولوجية العسكرية وبناء خطوط إنتاج مشتركة]]></description>
-            <content:encoded><![CDATA[زيلنسكي: نتطلع إلى العمل مع دول الناتو في تطوير الأسلحة والتكنولوجية العسكرية وبناء خطوط إنتاج مشتركة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
