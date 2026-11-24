@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "910dd009f3e1f822b205ad53e97bfbcd30b5389d0e721c9a2e030acc712235af",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ocUlPbEJGTVoybkxWUTB2TWhiMlMyODhvamhaVk92WThrMHFKTVJ2TnF1bDJCUTcxREJwWEY4Tk5UZERCeFQ0U3BRdVd2emdZZG9aSVIyMA?oc=5\" target=\"_blank\">رغم ضيق الحال.. حملات شعبية في سوريا دعما لغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ocUlPbEJGTVoybkxWUTB2TWhiMlMyODhvamhaVk92WThrMHFKTVJ2TnF1bDJCUTcxREJwWEY4Tk5UZERCeFQ0U3BRdVd2emdZZG9aSVIyMA?oc=5",
+            "title": "رغم ضيق الحال.. حملات شعبية في سوريا دعما لغزة - المركز الفلسطيني للإعلام",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ocUlPbEJGTVoybkxWUTB2TWhiMlMyODhvamhaVk92WThrMHFKTVJ2TnF1bDJCUTcxREJwWEY4Tk5UZERCeFQ0U3BRdVd2emdZZG9aSVIyMA?oc=5\" target=\"_blank\">رغم ضيق الحال.. حملات شعبية في سوريا دعما لغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
+            "date_modified": "2026-11-24T10:27:11.000Z",
+            "author": {
+                "name": "المركز الفلسطيني للإعلام"
+            }
+        },
+        {
             "id": "0a872b8652bd86992617c1a33149537eb24dfa879a011e0c35aa0d8bade2040b",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi8gNBVV95cUxOMEppdG54RnlrcDE1RTd1VlhHWVFwSGtGUGJqbmZDcldua2oxVHdRYVFIVEF6TEVMQkFsSmk2Ni1jMG85Rm9RZFJRdHBFTGdBNTAzODgwNG9vSkZqZnFuV1M0STBlazVOazYzUWtlSUFvQllRUVh5dDMtbnJLbmowUmg1bGtIdWFEcUcwVTRqTVB3U2lHa1VOUEkxV3JpWHZmcV9mbk1WTU9BM1lhOFd3aWlqWHItSjIxa2o3Z2F0dENPYjRhejNBMHoxZGxnQ21sbGF2OUcybzNnTkIxUmNPSGlKUkxtLUFzeEFOc0RSaFc5MUdBZlhVRjlIZVFsTFV3dnZuQlludjI4SnlVWERfZEdXS0o0c3FxUDlBSEU1ZEpfQTEyVjllemhWcUxsVUFMOWEwLXV0VjFfSld2SG94SXNFc0lodkNQVjZFTmxLcnRBZ2E3c3dtak1UTGZVcnk2aERFMXNKZUMtdlI4dHA3cFU0WGd6YWJmMXlKbjJWQnpaRGlLb3hhMTF6SEx1ZE1jeC1pMEVlVUxYWC1pYmxVdXk5NlpCTWM2VjhKUXdwV2wtcHJBRnUybjFwamtSakhaQVJYZHpfTEdOVXF5cXBNeVpRLTlJYzhyQTlLTmlfSXJyd0ZmNkJWMVVhME5aTzFhZ0E?oc=5\" target=\"_blank\">انفراج مرتقب بقضية 4 صيادين من مخيم نهر البارد موقوفين في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOMEppdG54RnlrcDE1RTd1VlhHWVFwSGtGUGJqbmZDcldua2oxVHdRYVFIVEF6TEVMQkFsSmk2Ni1jMG85Rm9RZFJRdHBFTGdBNTAzODgwNG9vSkZqZnFuV1M0STBlazVOazYzUWtlSUFvQllRUVh5dDMtbnJLbmowUmg1bGtIdWFEcUcwVTRqTVB3U2lHa1VOUEkxV3JpWHZmcV9mbk1WTU9BM1lhOFd3aWlqWHItSjIxa2o3Z2F0dENPYjRhejNBMHoxZGxnQ21sbGF2OUcybzNnTkIxUmNPSGlKUkxtLUFzeEFOc0RSaFc5MUdBZlhVRjlIZVFsTFV3dnZuQlludjI4SnlVWERfZEdXS0o0c3FxUDlBSEU1ZEpfQTEyVjllemhWcUxsVUFMOWEwLXV0VjFfSld2SG94SXNFc0lodkNQVjZFTmxLcnRBZ2E3c3dtak1UTGZVcnk2aERFMXNKZUMtdlI4dHA3cFU0WGd6YWJmMXlKbjJWQnpaRGlLb3hhMTF6SEx1ZE1jeC1pMEVlVUxYWC1pYmxVdXk5NlpCTWM2VjhKUXdwV2wtcHJBRnUybjFwamtSakhaQVJYZHpfTEdOVXF5cXBNeVpRLTlJYzhyQTlLTmlfSXJyd0ZmNkJWMVVhME5aTzFhZ0E?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-07-23T07:00:00.000Z",
             "author": {
                 "name": "القدس العربي"
-            }
-        },
-        {
-            "id": "dfcf82f145bf3690a650ca061ddd9af3fe59c87e0a660a29e83da99bb61bc2ff",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMirwRBVV95cUxNYjV0NWx1VUlvU2RBQkpYTDhfSU5feVZhZDlHaXN6YXY0VFBqTjVpX25ZRDB3cUloeXFwUWRJNWJheFFHMUphbG9NUHI2Y3pkcVZDbDNqc1BtSmpuekZCdFFjNGFqTlF3SFhJUjBrR1FoejZQN3BUWWx3c0EybncteHUwdjI0ekJQSmhiRWxRR2o5TWU4bzZhYktOV2xDdGp5OHItV2R3NGdsSFVqMGppVzZKc3puaXNXNUpMYVViSjZ0WDAza3U2UC1xdXh1RUwyZ0kwbWlPNjc3OWxWZ0hZLUhVaWlfcW5xcVVYcVFHWkh2TDdQbWtwenNOSDJ1Nm1aeWI4X0s2R2lhYzRJMDl5eVlTVDAzWl9mRlpTbFpsNjlnLW8yN0d1U2g3WHZmQXlVajVubWhtcjYxdE9FbkZKcVJFbklnajY3V202SlFnajZjRC01bFlyYjIyeV9Cb2lmMFkyaXpVSVV4cTlqaHFHSm45SmxyVVVtOGpvbzlEVXBsVEtMb2dORFlDM2FMMlNoXzR2RVRkcTVqaTZ1QUdUOXhXaGJGQ3lpaS1NYjhwUUliT1pRSmNwc1hWQ0xaakc1MWNDWWZrN1R0N0Z0bzFGdjFkYU84Y2QtemlteGxoc3ZxN2o0X2dGeVRMM3k0SVNZSnp3N0NQUnlqeGdHUmIwM01YWm80LVFGZXpzNzVQaVFmbGZ4bVVXVExXVjRoVW5WNGNMSXlOYmV4aGRldnU4?oc=5\" target=\"_blank\">\"أونروا\" تبدأ التحقق الميداني من مستفيدي شبكة الأمان الاجتماعي في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNYjV0NWx1VUlvU2RBQkpYTDhfSU5feVZhZDlHaXN6YXY0VFBqTjVpX25ZRDB3cUloeXFwUWRJNWJheFFHMUphbG9NUHI2Y3pkcVZDbDNqc1BtSmpuekZCdFFjNGFqTlF3SFhJUjBrR1FoejZQN3BUWWx3c0EybncteHUwdjI0ekJQSmhiRWxRR2o5TWU4bzZhYktOV2xDdGp5OHItV2R3NGdsSFVqMGppVzZKc3puaXNXNUpMYVViSjZ0WDAza3U2UC1xdXh1RUwyZ0kwbWlPNjc3OWxWZ0hZLUhVaWlfcW5xcVVYcVFHWkh2TDdQbWtwenNOSDJ1Nm1aeWI4X0s2R2lhYzRJMDl5eVlTVDAzWl9mRlpTbFpsNjlnLW8yN0d1U2g3WHZmQXlVajVubWhtcjYxdE9FbkZKcVJFbklnajY3V202SlFnajZjRC01bFlyYjIyeV9Cb2lmMFkyaXpVSVV4cTlqaHFHSm45SmxyVVVtOGpvbzlEVXBsVEtMb2dORFlDM2FMMlNoXzR2RVRkcTVqaTZ1QUdUOXhXaGJGQ3lpaS1NYjhwUUliT1pRSmNwc1hWQ0xaakc1MWNDWWZrN1R0N0Z0bzFGdjFkYU84Y2QtemlteGxoc3ZxN2o0X2dGeVRMM3k0SVNZSnp3N0NQUnlqeGdHUmIwM01YWm80LVFGZXpzNzVQaVFmbGZ4bVVXVExXVjRoVW5WNGNMSXlOYmV4aGRldnU4?oc=5",
-            "title": "\"أونروا\" تبدأ التحقق الميداني من مستفيدي شبكة الأمان الاجتماعي في سوريا - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwRBVV95cUxNYjV0NWx1VUlvU2RBQkpYTDhfSU5feVZhZDlHaXN6YXY0VFBqTjVpX25ZRDB3cUloeXFwUWRJNWJheFFHMUphbG9NUHI2Y3pkcVZDbDNqc1BtSmpuekZCdFFjNGFqTlF3SFhJUjBrR1FoejZQN3BUWWx3c0EybncteHUwdjI0ekJQSmhiRWxRR2o5TWU4bzZhYktOV2xDdGp5OHItV2R3NGdsSFVqMGppVzZKc3puaXNXNUpMYVViSjZ0WDAza3U2UC1xdXh1RUwyZ0kwbWlPNjc3OWxWZ0hZLUhVaWlfcW5xcVVYcVFHWkh2TDdQbWtwenNOSDJ1Nm1aeWI4X0s2R2lhYzRJMDl5eVlTVDAzWl9mRlpTbFpsNjlnLW8yN0d1U2g3WHZmQXlVajVubWhtcjYxdE9FbkZKcVJFbklnajY3V202SlFnajZjRC01bFlyYjIyeV9Cb2lmMFkyaXpVSVV4cTlqaHFHSm45SmxyVVVtOGpvbzlEVXBsVEtMb2dORFlDM2FMMlNoXzR2RVRkcTVqaTZ1QUdUOXhXaGJGQ3lpaS1NYjhwUUliT1pRSmNwc1hWQ0xaakc1MWNDWWZrN1R0N0Z0bzFGdjFkYU84Y2QtemlteGxoc3ZxN2o0X2dGeVRMM3k0SVNZSnp3N0NQUnlqeGdHUmIwM01YWm80LVFGZXpzNzVQaVFmbGZ4bVVXVExXVjRoVW5WNGNMSXlOYmV4aGRldnU4?oc=5\" target=\"_blank\">\"أونروا\" تبدأ التحقق الميداني من مستفيدي شبكة الأمان الاجتماعي في سوريا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-07-22T10:20:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]
