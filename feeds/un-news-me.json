@@ -5,6 +5,15 @@
     "description": "RSS Factory feed \"UN News — Middle East\" (type: native)",
     "items": [
         {
+            "id": "c47d594f2fe1e10e45c0a5febc023c4473e9fa2d71b150324791cc8eae94c4e1",
+            "content_html": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+            "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+            "summary": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-25T12:00:00.000Z"
+        },
+        {
             "id": "23ce2785727fbeec4d3c90130477928acc479502d7c6f9e56d3293a9440f8da0",
             "content_html": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",

@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "4d0f3c1628ae8a3484b556e7ffa8baea0ad2627437a8e84e7976769c4e5910fa",
+            "content_html": "عراقجي: النظام الإسرائيلي يتهمنا كذبا بتصنيع أسلحة كيميائية لخداع أمريكا ودفعها إلى خوض حرب أخرى نيابة عنه",
+            "url": "https://t.me/aljazeeraBrk/246286",
+            "title": "عراقجي: النظام الإسرائيلي يتهمنا كذبا بتصنيع أسلحة كيميائية لخداع أمريكا ودفعها…",
+            "summary": "عراقجي: النظام الإسرائيلي يتهمنا كذبا بتصنيع أسلحة كيميائية لخداع أمريكا ودفعها إلى خوض حرب أخرى نيابة عنه",
+            "date_modified": "2026-11-25T15:59:03.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "2ffa9e84f0c46cfbcb1462b7d8e8324743a52c0993231c0dede975bc053af2fb",
+            "content_html": "مستشفى شهداء الأقصى: إصابة طفلين برصاص جيش الاحتلال في مخيمي البريج والمغازي وسط القطاع",
+            "url": "https://t.me/aljazeeraBrk/246285",
+            "title": "مستشفى شهداء الأقصى: إصابة طفلين برصاص جيش الاحتلال في مخيمي البريج والمغازي…",
+            "summary": "مستشفى شهداء الأقصى: إصابة طفلين برصاص جيش الاحتلال في مخيمي البريج والمغازي وسط القطاع",
+            "date_modified": "2026-11-25T15:49:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "6f2175ff352c558006dbb456dfd5f76160490ef88c4222611dc4407a2c430dd6",
             "content_html": "الهلال الأحمر الفلسطيني: إصابتان بالضرب المبرح خلال اقتحام قوات الاحتلال منزلا في بني نعيم شرق الخليل",
             "url": "https://t.me/aljazeeraBrk/246284",
@@ -481,6 +503,15 @@
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
+        },
+        {
+            "id": "c47d594f2fe1e10e45c0a5febc023c4473e9fa2d71b150324791cc8eae94c4e1",
+            "content_html": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.&nbsp;",
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+            "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+            "summary": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.&nbsp;",
+            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg",
+            "date_modified": "2026-11-25T12:00:00.000Z"
         },
         {
             "id": "d47dbf766337ce6b3d52e6923d68efd5636ddf8c0cf4e8a07fe8e275ee36b9ef",
@@ -1600,39 +1631,6 @@
             "title": "وول ستريت جورنال عن مسؤولين أمريكيين: اختراق نظام استخباراتي تستخدمه سي آي إي…",
             "summary": "وول ستريت جورنال عن مسؤولين أمريكيين: اختراق نظام استخباراتي تستخدمه سي آي إي ومكتب مدير الاستخبارات الوطنية",
             "date_modified": "2026-11-25T00:36:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "31b7235146a6d2e278bbb7b6972342e18fce91f7e56936a5fe209dfef56681d5",
-            "content_html": "وول ستريت جورنال عن مسؤولين أمريكيين: معالجة الثغرة الأمنية التي سمحت باختراق النظام الاستخباراتي الأمريكي",
-            "url": "https://t.me/aljazeeraBrk/246168",
-            "title": "وول ستريت جورنال عن مسؤولين أمريكيين: معالجة الثغرة الأمنية التي سمحت باختراق…",
-            "summary": "وول ستريت جورنال عن مسؤولين أمريكيين: معالجة الثغرة الأمنية التي سمحت باختراق النظام الاستخباراتي الأمريكي",
-            "date_modified": "2026-11-25T00:36:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "2bd67416d05b906946bd53fce03c9a6201d6502d2c0ef0f1c6862a8768ed66c3",
-            "content_html": "وول ستريت جورنال عن مسؤولين أمريكيين: لم نتحقق مما قد تسرب بعد الاختراقات الأخيرة لوكالات استخبارات أمريكية",
-            "url": "https://t.me/aljazeeraBrk/246166",
-            "title": "وول ستريت جورنال عن مسؤولين أمريكيين: لم نتحقق مما قد تسرب بعد الاختراقات…",
-            "summary": "وول ستريت جورنال عن مسؤولين أمريكيين: لم نتحقق مما قد تسرب بعد الاختراقات الأخيرة لوكالات استخبارات أمريكية",
-            "date_modified": "2026-11-25T00:35:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "d233ce867cfef64e69db457e0ee54d1d0e59f1d6df85efa8d091cf9499823a97",
-            "content_html": "مسؤول في مكتب مدير الاستخبارات الوطنية الأمريكية للجزيرة: لم يحدث أي تعطيل للقدرات الحيوية أو الأنظمة السرية",
-            "url": "https://t.me/aljazeeraBrk/246165",
-            "title": "مسؤول في مكتب مدير الاستخبارات الوطنية الأمريكية للجزيرة: لم يحدث أي تعطيل…",
-            "summary": "مسؤول في مكتب مدير الاستخبارات الوطنية الأمريكية للجزيرة: لم يحدث أي تعطيل للقدرات الحيوية أو الأنظمة السرية",
-            "date_modified": "2026-11-25T00:34:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
