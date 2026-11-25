@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 16:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 16:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا…]]></title>
+            <link>https://t.me/aljazeeraBrk/246294</link>
+            <guid isPermaLink="false">8edd2a4d6caffa427d3038f10471b53418197de550bed2c647282adc3fee3e7a</guid>
+            <pubDate>Wed, 25 Nov 2026 16:36:02 GMT</pubDate>
+            <description><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا طفيفة دون إصابات بين المدنيين]]></description>
+            <content:encoded><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا طفيفة دون إصابات بين المدنيين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وزارة الدفاع: 📌وزير الدفاع اللواء مرهف أبو قصرة يجري اتصالًا هاتفيًا مع وزير…]]></title>
             <link>https://t.me/HalabTodayTV/143283</link>
@@ -1577,15 +1586,6 @@
             <pubDate>Wed, 25 Nov 2026 01:13:02 GMT</pubDate>
             <description><![CDATA[سي إن إن عن مصدر: محققون أمريكيون يعتقدون أنهم حددوا سبب العطل الذي أدى لوقف الرحلات الجوية في أنحاء البلاد]]></description>
             <content:encoded><![CDATA[سي إن إن عن مصدر: محققون أمريكيون يعتقدون أنهم حددوا سبب العطل الذي أدى لوقف الرحلات الجوية في أنحاء البلاد]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب لنيويورك بوست: إنهاء الحرب في أوكرانيا يتوقف على مدى استعداد بوتين…]]></title>
-            <link>https://t.me/aljazeeraBrk/246176</link>
-            <guid isPermaLink="false">3f5262eccc4daffd5914d3fdcf90a7d4658d96bec6b43868d1bb30dd61a3c1be</guid>
-            <pubDate>Wed, 25 Nov 2026 01:12:59 GMT</pubDate>
-            <description><![CDATA[ترمب لنيويورك بوست: إنهاء الحرب في أوكرانيا يتوقف على مدى استعداد بوتين وزيلنسكي للتوصل إلى اتفاق]]></description>
-            <content:encoded><![CDATA[ترمب لنيويورك بوست: إنهاء الحرب في أوكرانيا يتوقف على مدى استعداد بوتين وزيلنسكي للتوصل إلى اتفاق]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

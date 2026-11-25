@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 16:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 16:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا…]]></title>
+            <link>https://t.me/aljazeeraBrk/246294</link>
+            <guid isPermaLink="false">8edd2a4d6caffa427d3038f10471b53418197de550bed2c647282adc3fee3e7a</guid>
+            <pubDate>Wed, 25 Nov 2026 16:36:02 GMT</pubDate>
+            <description><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا طفيفة دون إصابات بين المدنيين]]></description>
+            <content:encoded><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا طفيفة دون إصابات بين المدنيين]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كاتس: نهدف للسيطرة على منطقة أمنية خالية من السكان على مساحة 70% من غزة حتى…]]></title>
             <link>https://t.me/aljazeeraBrk/246293</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 24 Nov 2026 11:08:02 GMT</pubDate>
             <description><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم طفل في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم طفل في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بحرية الحرس الثوري الإيراني: انفجار رابع ناقلة نفط مخالفة إثر اصطدامها بلغم…]]></title>
-            <link>https://t.me/aljazeeraBrk/246092</link>
-            <guid isPermaLink="false">09ccba484b697b9cdc1be09507259b2739d6252ca2ac06b3df3bd8879294ed0f</guid>
-            <pubDate>Tue, 24 Nov 2026 11:07:02 GMT</pubDate>
-            <description><![CDATA[بحرية الحرس الثوري الإيراني: انفجار رابع ناقلة نفط مخالفة إثر اصطدامها بلغم أثناء عبور مسار مخالف في هرمز]]></description>
-            <content:encoded><![CDATA[بحرية الحرس الثوري الإيراني: انفجار رابع ناقلة نفط مخالفة إثر اصطدامها بلغم أثناء عبور مسار مخالف في هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
