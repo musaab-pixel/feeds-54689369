@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 15:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 16:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Simulation de négociations en français sur l’utilisation de l’IA dans le domaine militaire]]></title>
+            <link>https://www.francophonie.org/simulation-negociations-en-francais-utilisation-ia-domaine-militaire-8797</link>
+            <guid isPermaLink="false">a4e40a4a7503df2fb497d1d42252a2b92dbb2d2519f1ce60b5377b7d6f9f593e</guid>
+            <pubDate>Wed, 25 Nov 2026 16:26:47 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Simulation de négociations en français sur l’utilisation de l’IA dans le domaine militaire</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 25/11/2026 - 16:26</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Simulation de négociations en français sur l’utilisation de l’IA dans le domaine militaire</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">mer 25/11/2026 - 16:26</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Etats financiers 2025]]></title>
             <link>https://www.francophonie.org/node/8796</link>
@@ -530,7 +545,7 @@
   <div class="field field--name-field-document-ressource field--type-file field--label-above">
     <div class="field__label">Document</div>
               <div class="field__item">
-<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/index.php/sites/default/files/2026-11/Rcommandations_jeunes_francophones_Phnom_Penh.pdf" type="application/pdf">Rcommandations_jeunes_francophones_Phnom_Penh.pdf</a></span>
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Rcommandations_jeunes_francophones_Phnom_Penh.pdf" type="application/pdf">Rcommandations_jeunes_francophones_Phnom_Penh.pdf</a></span>
 </div>
           </div>
 
@@ -542,7 +557,7 @@
   <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
     <div class="field__label">Type de ressource</div>
           <div class="field__items">
-              <div class="field__item"><a href="https://www.francophonie.org/index.php/taxonomy/term/403" hreflang="fr">Rapports sur la jeunesse</a></div>
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/403" hreflang="fr">Rapports sur la jeunesse</a></div>
               </div>
       </div>
 ]]></description>
@@ -553,7 +568,7 @@
   <div class="field field--name-field-document-ressource field--type-file field--label-above">
     <div class="field__label">Document</div>
               <div class="field__item">
-<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/index.php/sites/default/files/2026-11/Rcommandations_jeunes_francophones_Phnom_Penh.pdf" type="application/pdf">Rcommandations_jeunes_francophones_Phnom_Penh.pdf</a></span>
+<span class="file file--mime-application-pdf file--application-pdf"> <a href="https://www.francophonie.org/sites/default/files/2026-11/Rcommandations_jeunes_francophones_Phnom_Penh.pdf" type="application/pdf">Rcommandations_jeunes_francophones_Phnom_Penh.pdf</a></span>
 </div>
           </div>
 
@@ -565,7 +580,7 @@
   <div class="field field--name-field-field-type-de-ressource field--type-entity-reference field--label-above">
     <div class="field__label">Type de ressource</div>
           <div class="field__items">
-              <div class="field__item"><a href="https://www.francophonie.org/index.php/taxonomy/term/403" hreflang="fr">Rapports sur la jeunesse</a></div>
+              <div class="field__item"><a href="https://www.francophonie.org/taxonomy/term/403" hreflang="fr">Rapports sur la jeunesse</a></div>
               </div>
       </div>
 ]]></content:encoded>
