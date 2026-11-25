@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 23:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 00:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وول ستريت جورنال عن مسؤولين أمريكيين: اختراق نظام غير سري أدى إلى تعطيل شبكات…]]></title>
+            <link>https://t.me/aljazeeraBrk/246164</link>
+            <guid isPermaLink="false">c083d6f37028d19b02d9bef81ff90c20b0b096080a5f787fb54ab17906f3ecfb</guid>
+            <pubDate>Wed, 25 Nov 2026 00:32:02 GMT</pubDate>
+            <description><![CDATA[وول ستريت جورنال عن مسؤولين أمريكيين: اختراق نظام غير سري أدى إلى تعطيل شبكات وكالات استخبارات أمريكية]]></description>
+            <content:encoded><![CDATA[وول ستريت جورنال عن مسؤولين أمريكيين: اختراق نظام غير سري أدى إلى تعطيل شبكات وكالات استخبارات أمريكية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[إدارة الطيران الفيدرالية الأمريكية للجزيرة: تأخير الرحلات بمطار أوهير سببه…]]></title>
             <link>https://t.me/aljazeeraBrk/246163</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 13:42:02 GMT</pubDate>
             <description><![CDATA[السلطات اليمنية في لحج: 4 مصابين بهجوم مسيرة حوثية استهدف حافلات لنقل الركاب في مديرية المقاطرة]]></description>
             <content:encoded><![CDATA[السلطات اليمنية في لحج: 4 مصابين بهجوم مسيرة حوثية استهدف حافلات لنقل الركاب في مديرية المقاطرة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة غربي مدينة…]]></title>
-            <link>https://t.me/aljazeeraBrk/245927</link>
-            <guid isPermaLink="false">88c69e2ca817d6a3fa5dc3c077b76ef42e0f07936a829a46cfe674bff568d2e6</guid>
-            <pubDate>Mon, 23 Nov 2026 13:38:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة غربي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة من مسيرة إسرائيلية على مركبة غربي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
