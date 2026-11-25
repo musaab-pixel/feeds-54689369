@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 02:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 03:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[المتحدث باسم التحالف: سقوط شظايا نتيجة اعتراض المسيرات في رأس تنورة دون إصابات…]]></title>
+            <link>https://t.me/aljazeeraBrk/246193</link>
+            <guid isPermaLink="false">81f2e7eda9c2f4195a4a8c8287fa5b4b09b1ff66e9e02f8a39e5cfc924d67693</guid>
+            <pubDate>Wed, 25 Nov 2026 03:15:02 GMT</pubDate>
+            <description><![CDATA[المتحدث باسم التحالف: سقوط شظايا نتيجة اعتراض المسيرات في رأس تنورة دون إصابات بالتقييم الأولي]]></description>
+            <content:encoded><![CDATA[المتحدث باسم التحالف: سقوط شظايا نتيجة اعتراض المسيرات في رأس تنورة دون إصابات بالتقييم الأولي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث باسم التحالف: الدفاع الجوي اعترض ودمر 4 طائرات مسيرة في رأس تنورة]]></title>
             <link>https://t.me/aljazeeraBrk/246192</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 17:42:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت 87 طائرة مسيرة أوكرانية هذا المساء]]></description>
             <content:encoded><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت 87 طائرة مسيرة أوكرانية هذا المساء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز لوكاس في أجواء شرق…]]></title>
-            <link>https://t.me/aljazeeraBrk/245956</link>
-            <guid isPermaLink="false">16630dc683c0bc1ced73ebc83b5bae93368e75c6e43c0abe07231e96e6096f82</guid>
-            <pubDate>Mon, 23 Nov 2026 16:35:02 GMT</pubDate>
-            <description><![CDATA[الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز لوكاس في أجواء شرق مضيق هرمز]]></description>
-            <content:encoded><![CDATA[الجيش الإيراني: دفاعاتنا الجوية أسقطت مسيرة أمريكية من طراز لوكاس في أجواء شرق مضيق هرمز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
