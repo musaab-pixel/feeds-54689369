@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 16:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 17:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رويترز: لجنة الاتصالات الفيدرالية الأمريكية تجيز لشركة سبيس إكس نشر مليون مركز…]]></title>
+            <link>https://t.me/aljazeeraBrk/246295</link>
+            <guid isPermaLink="false">2472cf23a11b74ef725a3325bc39086458a401f332e1409d36f2ac4eddb4cc01</guid>
+            <pubDate>Wed, 25 Nov 2026 16:50:02 GMT</pubDate>
+            <description><![CDATA[رويترز: لجنة الاتصالات الفيدرالية الأمريكية تجيز لشركة سبيس إكس نشر مليون مركز بيانات في الفضاء]]></description>
+            <content:encoded><![CDATA[رويترز: لجنة الاتصالات الفيدرالية الأمريكية تجيز لشركة سبيس إكس نشر مليون مركز بيانات في الفضاء]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التحالف: مقذوف أطلقته المليشيا الحوثية الإرهابية على ميناء جازان أحدث أضرارا…]]></title>
             <link>https://t.me/aljazeeraBrk/246294</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 24 Nov 2026 11:16:02 GMT</pubDate>
             <description><![CDATA[وزارة الداخلية في غزة: استشهاد مدير عام جهاز الأمن الداخلي العميد نعيم محمد أبو نحل]]></description>
             <content:encoded><![CDATA[وزارة الداخلية في غزة: استشهاد مدير عام جهاز الأمن الداخلي العميد نعيم محمد أبو نحل]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم طفل في غارات إسرائيلية على مناطق عدة…]]></title>
-            <link>https://t.me/aljazeeraBrk/246093</link>
-            <guid isPermaLink="false">1cebb233d59ad05954f3f38ee5f162f8666cd0a5b810c81b07ee37086630b85a</guid>
-            <pubDate>Tue, 24 Nov 2026 11:08:02 GMT</pubDate>
-            <description><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم طفل في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 8 شهداء بينهم طفل في غارات إسرائيلية على مناطق عدة بالقطاع منذ فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
