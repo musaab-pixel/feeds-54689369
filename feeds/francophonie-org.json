@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "c8ba04ae8845461e44d7f696d795b3e6999a577295b93ca9d39073117009cd18",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Addis-Abeba : 2e édition du Séminaire régional sur le multilinguisme</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">mer 25/11/2026 - 16:54</span>\n",
+            "url": "https://www.francophonie.org/addis-abeba-2e-edition-du-seminaire-regional-sur-le-multilinguisme-8798",
+            "title": "Addis-Abeba : 2e édition du Séminaire régional sur le multilinguisme",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Addis-Abeba : 2e édition du Séminaire régional sur le multilinguisme</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">mer 25/11/2026 - 16:54</span>\n",
+            "date_modified": "2026-11-25T16:54:06.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "a4e40a4a7503df2fb497d1d42252a2b92dbb2d2519f1ce60b5377b7d6f9f593e",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Simulation de négociations en français sur l’utilisation de l’IA dans le domaine militaire</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">mer 25/11/2026 - 16:26</span>\n",
             "url": "https://www.francophonie.org/simulation-negociations-en-francais-utilisation-ia-domaine-militaire-8797",
