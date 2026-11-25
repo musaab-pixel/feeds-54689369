@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 04:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 04:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[إن بي سي عن مسؤول أمريكي: إدارة ترمب تبحث استهداف قادة إيرانيين كبار لإزاحة…]]></title>
+            <link>https://t.me/aljazeeraBrk/246207</link>
+            <guid isPermaLink="false">6c98d0a554319b747ecd169fb0ea5e2f44a1238b13c241fd552762ad34b9dde7</guid>
+            <pubDate>Wed, 25 Nov 2026 04:30:02 GMT</pubDate>
+            <description><![CDATA[إن بي سي عن مسؤول أمريكي: إدارة ترمب تبحث استهداف قادة إيرانيين كبار لإزاحة المتشددين داخل النظام الإيراني]]></description>
+            <content:encoded><![CDATA[إن بي سي عن مسؤول أمريكي: إدارة ترمب تبحث استهداف قادة إيرانيين كبار لإزاحة المتشددين داخل النظام الإيراني]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر بالجيش السوداني للجزيرة: مسيرات للدعم السريع استهدفت مواقع مدنية…]]></title>
             <link>https://t.me/aljazeeraBrk/246206</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 21:07:02 GMT</pubDate>
             <description><![CDATA[وزير الخارجية الأمريكي: نقدر جهود الوساطة القطرية على المستوى الدولي]]></description>
             <content:encoded><![CDATA[وزير الخارجية الأمريكي: نقدر جهود الوساطة القطرية على المستوى الدولي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رئيس حكومة الوحدة الوطنية الليبية: أطراف عسكرية تحاول إقحام ليبيا في الصراع…]]></title>
-            <link>https://t.me/aljazeeraBrk/245970</link>
-            <guid isPermaLink="false">d354c11dddb9b983b09f347eea520fd188869b0641da8342d25a265484dd45ad</guid>
-            <pubDate>Mon, 23 Nov 2026 20:33:01 GMT</pubDate>
-            <description><![CDATA[رئيس حكومة الوحدة الوطنية الليبية: أطراف عسكرية تحاول إقحام ليبيا في الصراع الأوكراني الروسي والحرب في السودان]]></description>
-            <content:encoded><![CDATA[رئيس حكومة الوحدة الوطنية الليبية: أطراف عسكرية تحاول إقحام ليبيا في الصراع الأوكراني الروسي والحرب في السودان]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
