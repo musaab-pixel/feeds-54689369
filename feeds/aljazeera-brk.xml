@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 23:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 23:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات ضد مليشيا الحوثي في جبهات شمالي محافظة…]]></title>
+            <link>https://t.me/aljazeeraBrk/246351</link>
+            <guid isPermaLink="false">559e263830670575d7caeb20802bcc4f3e9a1d88468306cd37b1ecb813e0c725</guid>
+            <pubDate>Wed, 25 Nov 2026 23:43:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات ضد مليشيا الحوثي في جبهات شمالي محافظة مأرب حتى جنوبي شرق محافظة الجوف]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات ضد مليشيا الحوثي في جبهات شمالي محافظة مأرب حتى جنوبي شرق محافظة الجوف]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[كوشنر: واصلنا البحث عن مسارات للحل رغم الانتقادات الإسرائيلية لتواصلنا المباشر…]]></title>
             <link>https://t.me/aljazeeraBrk/246350</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 24 Nov 2026 20:19:02 GMT</pubDate>
             <description><![CDATA[مراسل الجزيرة: دوي انفجارات في العاصمة الأوكرانية كييف وتفعيل صفارات الإنذار]]></description>
             <content:encoded><![CDATA[مراسل الجزيرة: دوي انفجارات في العاصمة الأوكرانية كييف وتفعيل صفارات الإنذار]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية القطرية: دولة قطر تدين اعتداء جماعة_الحوثي على أحد أبراج المركز المالي…]]></title>
-            <link>https://t.me/aljazeeraBrk/246149</link>
-            <guid isPermaLink="false">018d84208d371a25ef9e10779b47cd627fdc501aab0134e548242c601ed652f0</guid>
-            <pubDate>Tue, 24 Nov 2026 19:49:02 GMT</pubDate>
-            <description><![CDATA[الخارجية القطرية: دولة قطر تدين اعتداء جماعة_الحوثي على أحد أبراج المركز المالي في الرياض]]></description>
-            <content:encoded><![CDATA[الخارجية القطرية: دولة قطر تدين اعتداء جماعة_الحوثي على أحد أبراج المركز المالي في الرياض]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
