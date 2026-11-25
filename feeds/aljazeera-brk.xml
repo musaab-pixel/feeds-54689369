@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 23:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 23:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[هيئة العمليات البحرية البريطانية: بلاغ عن انفجار قرب سفينة على بعد 50 ميلا…]]></title>
+            <link>https://t.me/aljazeeraBrk/246346</link>
+            <guid isPermaLink="false">9c9d4502c8ca4e9cd25e6fe5d48b76fa4ab30d250267216f2a74add9384a0a11</guid>
+            <pubDate>Wed, 25 Nov 2026 23:09:02 GMT</pubDate>
+            <description><![CDATA[هيئة العمليات البحرية البريطانية: بلاغ عن انفجار قرب سفينة على بعد 50 ميلا بحريا غربي دبي ولا تقارير عن أضرار]]></description>
+            <content:encoded><![CDATA[هيئة العمليات البحرية البريطانية: بلاغ عن انفجار قرب سفينة على بعد 50 ميلا بحريا غربي دبي ولا تقارير عن أضرار]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[نائب الرئيس الأمريكي لسي إن إن: تلقينا تأكيدات بأن الاتهامات الموجهة لرئيس…]]></title>
             <link>https://t.me/aljazeeraBrk/246345</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 24 Nov 2026 18:11:01 GMT</pubDate>
             <description><![CDATA[القوات الحكومية اليمنية: نفذنا خلال الساعات الماضية 697 عملية استهداف لمواقع المليشيا الحوثية]]></description>
             <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا خلال الساعات الماضية 697 عملية استهداف لمواقع المليشيا الحوثية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: الطيران السعودي شن 72 غارة جوية…]]></title>
-            <link>https://t.me/aljazeeraBrk/246144</link>
-            <guid isPermaLink="false">1dc0bd56fadf99e3c86268ad6f9831c147be714cd8384e699d98f638f28cbcfc</guid>
-            <pubDate>Tue, 24 Nov 2026 18:08:02 GMT</pubDate>
-            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: الطيران السعودي شن 72 غارة جوية وصاروخية خلال الـ24 ساعة الماضية]]></description>
-            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: الطيران السعودي شن 72 غارة جوية وصاروخية خلال الـ24 ساعة الماضية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
