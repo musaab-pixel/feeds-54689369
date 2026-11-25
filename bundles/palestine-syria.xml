@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 21:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 21:34:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: الدفاع الجوي اعترض ودمر صاروخين باليستيين أطلقتهما المليشيا الحوثية…]]></title>
+            <link>https://t.me/aljazeeraBrk/246334</link>
+            <guid isPermaLink="false">49091abba9ab2870bd5f1fbaf4cbbce0e4deb4556b96a7fcda86762b19bc31e3</guid>
+            <pubDate>Wed, 25 Nov 2026 21:23:02 GMT</pubDate>
+            <description><![CDATA[التحالف: الدفاع الجوي اعترض ودمر صاروخين باليستيين أطلقتهما المليشيا الحوثية الإرهابية باتجاه الرياض]]></description>
+            <content:encoded><![CDATA[التحالف: الدفاع الجوي اعترض ودمر صاروخين باليستيين أطلقتهما المليشيا الحوثية الإرهابية باتجاه الرياض]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نفذنا غارات استهدفت آليات ومدرعات مليشيات الحوثي…]]></title>
             <link>https://t.me/aljazeeraBrk/246333</link>
@@ -1579,15 +1588,6 @@
             <pubDate>Wed, 25 Nov 2026 07:25:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة بغزة: توقف مولد الكهرباء في مستشفى الرنتيسي للأطفال عن العمل وتعطل خدمات طبية حيوية]]></description>
             <content:encoded><![CDATA[وزارة الصحة بغزة: توقف مولد الكهرباء في مستشفى الرنتيسي للأطفال عن العمل وتعطل خدمات طبية حيوية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: محكمة أمن الدولة العسكرية في الأردن تقضي بإعدام المتهم بقتل أحد…]]></title>
-            <link>https://t.me/aljazeeraBrk/246219</link>
-            <guid isPermaLink="false">576c0e6af29af59631bebb77a6e773a606f21e10692c0d748cec595a862d3acb</guid>
-            <pubDate>Wed, 25 Nov 2026 07:23:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: محكمة أمن الدولة العسكرية في الأردن تقضي بإعدام المتهم بقتل أحد أفراد الأمن العام]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: محكمة أمن الدولة العسكرية في الأردن تقضي بإعدام المتهم بقتل أحد أفراد الأمن العام]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
