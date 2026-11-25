@@ -4,7 +4,7 @@
         <title>Muftah — Palestine/Syria monitor</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Muftah — Palestine/Syria monitor" (type: bundle)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 16:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 18:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -16,6 +16,15 @@
             <description><![CDATA[The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.&nbsp;]]></description>
             <content:encoded><![CDATA[The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.&nbsp;]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’]]></title>
+            <link>https://news.un.org/feed/view/en/story/2026/11/1168875</link>
+            <guid isPermaLink="false">1082f43610c695b81596328b8aeba668d6210c0c603a850805a55379dc46040b</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.]]></description>
+            <content:encoded><![CDATA[For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.]]></content:encoded>
+            <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[توزيع كسوة الشتاء على أطفال غزة بدعم أهالي مخيم النيرب]]></title>
@@ -2466,13 +2475,6 @@
 <p>من جانبها، أسهمت الجمعية الخيرية الفلسطينية في متابعة الإجراءات الإدارية والقانونية، والتنسيق مع الجهات المختصة، وتوفير الدعم اللوجستي اللازم لإتمام عملية الشراء.</p>
 <p>ويأتي هذا التحرك في ظل التحديات الخدمية والمعيشية التي تواجه اللاجئين الفلسطينيين، ويبرز دور المبادرات الأهلية في التعامل مع بعض الاحتياجات المحلية، في ظل محدودية الإمكانات المتاحة.</p>]]></content:encoded>
             <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/11/1795219226194.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[الفلسطينيون في سورية الحقوق والقانون في مواجهة المتغيرات]]></title>
-            <link>https://actionpal.org.uk/wp-content/uploads/2026/05/pal-law.pdf#new_tab</link>
-            <guid isPermaLink="false">dce750e5fac5a65f2c1075a4157b517cdb4a462beee4a61caae43b47f8f0f96a</guid>
-            <pubDate>Sat, 21 Nov 2026 05:52:33 GMT</pubDate>
-            <enclosure url="https://actionpal.org.uk/wp-content/uploads/2026/05/Screenshot-2026-05-05-001223.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
