@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 06:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 07:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الداخلية والأمن الوطني بغزة: ننعى الشهيد محمد ماجد أبو العوف مدير جهاز…]]></title>
+            <link>https://t.me/aljazeeraBrk/246218</link>
+            <guid isPermaLink="false">f85ee54d78f94b6005b2ed95738f82fd8592b85ca7f71218d20edb768e1bb7b4</guid>
+            <pubDate>Wed, 25 Nov 2026 07:07:02 GMT</pubDate>
+            <description><![CDATA[وزارة الداخلية والأمن الوطني بغزة: ننعى الشهيد محمد ماجد أبو العوف مدير جهاز الأمن الداخلي في محافظة شمال غزة]]></description>
+            <content:encoded><![CDATA[وزارة الداخلية والأمن الوطني بغزة: ننعى الشهيد محمد ماجد أبو العوف مدير جهاز الأمن الداخلي في محافظة شمال غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: غارتان جويتان على آليات لجماعة الحوثي بمحيط حدائق…]]></title>
             <link>https://t.me/aljazeeraBrk/246217</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Mon, 23 Nov 2026 23:32:02 GMT</pubDate>
             <description><![CDATA[مصدر في مستشفى ناصر: شهيدان وخمسة مصابين في قصف من مسيرة إسرائيلية استهدف نقطة للشرطة في مواصي خان يونس]]></description>
             <content:encoded><![CDATA[مصدر في مستشفى ناصر: شهيدان وخمسة مصابين في قصف من مسيرة إسرائيلية استهدف نقطة للشرطة في مواصي خان يونس]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[رويترز عن الجيش الكوري الجنوبي: طائرة روسية اخترقت أجواء البلاد لفترة وجيزة ثم…]]></title>
-            <link>https://t.me/aljazeeraBrk/245981</link>
-            <guid isPermaLink="false">34b6998c0106a05d074ce713cd6587ce89fb584d0573a5414e714527ab06442b</guid>
-            <pubDate>Mon, 23 Nov 2026 23:31:02 GMT</pubDate>
-            <description><![CDATA[رويترز عن الجيش الكوري الجنوبي: طائرة روسية اخترقت أجواء البلاد لفترة وجيزة ثم غادرتها]]></description>
-            <content:encoded><![CDATA[رويترز عن الجيش الكوري الجنوبي: طائرة روسية اخترقت أجواء البلاد لفترة وجيزة ثم غادرتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
