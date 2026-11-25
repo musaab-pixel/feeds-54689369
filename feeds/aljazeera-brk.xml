@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 18:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 18:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات على مديرية عبس بمحافظة حجة شمال…]]></title>
+            <link>https://t.me/aljazeeraBrk/246305</link>
+            <guid isPermaLink="false">c3c4b29c65f77fd9c0080ca1c05c231edcd4406c15851d2a74245bf581b1f42d</guid>
+            <pubDate>Wed, 25 Nov 2026 18:12:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات على مديرية عبس بمحافظة حجة شمال غربي اليمن]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات على مديرية عبس بمحافظة حجة شمال غربي اليمن]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نفذنا غارة على مواقع لمليشيا الحوثي في منطقة المطالي…]]></title>
             <link>https://t.me/aljazeeraBrk/246304</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 24 Nov 2026 12:14:02 GMT</pubDate>
             <description><![CDATA[وزارة الدفاع العراقية: أمر وزاري بتهيئة القطعات العسكرية لإخلاء المدن وتسليم المسؤولية الأمنية لوزارة الداخلية]]></description>
             <content:encoded><![CDATA[وزارة الدفاع العراقية: أمر وزاري بتهيئة القطعات العسكرية لإخلاء المدن وتسليم المسؤولية الأمنية لوزارة الداخلية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة بحرية بريطانية: بلاغ عن إصابة 3 سفن بمقذوفات أثناء إبحارها شرقا بمضيق هرمز…]]></title>
-            <link>https://t.me/aljazeeraBrk/246103</link>
-            <guid isPermaLink="false">f8865a660d8900078fb665b12c920efcfae935a6359d0474bc7b9d9a4739dabd</guid>
-            <pubDate>Tue, 24 Nov 2026 12:05:02 GMT</pubDate>
-            <description><![CDATA[هيئة بحرية بريطانية: بلاغ عن إصابة 3 سفن بمقذوفات أثناء إبحارها شرقا بمضيق هرمز  والسفن واصلت رحلاتها]]></description>
-            <content:encoded><![CDATA[هيئة بحرية بريطانية: بلاغ عن إصابة 3 سفن بمقذوفات أثناء إبحارها شرقا بمضيق هرمز  والسفن واصلت رحلاتها]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
