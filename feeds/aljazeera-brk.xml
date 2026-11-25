@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Wed, 25 Nov 2026 11:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 11:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة…]]></title>
+            <link>https://t.me/aljazeeraBrk/246250</link>
+            <guid isPermaLink="false">d47dbf766337ce6b3d52e6923d68efd5636ddf8c0cf4e8a07fe8e275ee36b9ef</guid>
+            <pubDate>Wed, 25 Nov 2026 11:39:02 GMT</pubDate>
+            <description><![CDATA[مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع الشفاء الطبي: شهيد في قصف إسرائيلي استهدف خيمة نازحين بجباليا شمالي قطاع…]]></title>
             <link>https://t.me/aljazeeraBrk/246249</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Tue, 24 Nov 2026 03:39:02 GMT</pubDate>
             <description><![CDATA[وول ستريت جورنال عن مصادر: لا دليل قاطعا على تسريب صديقة رئيس إنفيديا أسرارا تتعلق بالأمن القومي الأمريكي]]></description>
             <content:encoded><![CDATA[وول ستريت جورنال عن مصادر: لا دليل قاطعا على تسريب صديقة رئيس إنفيديا أسرارا تتعلق بالأمن القومي الأمريكي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع مسلح معادية في…]]></title>
-            <link>https://t.me/aljazeeraBrk/246011</link>
-            <guid isPermaLink="false">ba728c200ba7f71a81de52cd146260d25e2db3f98cb67e4288d33802ee06bff7</guid>
-            <pubDate>Tue, 24 Nov 2026 03:07:02 GMT</pubDate>
-            <description><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع مسلح معادية في أجواء محافظة لحج]]></description>
-            <content:encoded><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: أسقطنا طائرة استطلاع مسلح معادية في أجواء محافظة لحج]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
