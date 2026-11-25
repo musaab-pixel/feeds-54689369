@@ -5,6 +5,13 @@
     "description": "RSS Factory feed \"Miftah Funding Bundle 2\" (type: bundle)",
     "items": [
         {
+            "id": "74d3c8240fcfad840d649159a0a8e9c2ebd9f9ccb668870b2668d31eab01be51",
+            "url": "https://www.eda.admin.ch/en/americas-strategy-2026-29-switzerland-strengthens-partnerships-in-the-americas",
+            "title": "More about «Let's Focus – #21: The Americas»",
+            "image": "https://prod-edach-hcms-sdweb.imgix.net/dam/en/sd-web/6o3GYRwoHz1m/Lets-Focus-21-Amerikas.jpg?w=1024&auto=format",
+            "date_modified": "2026-11-25T14:49:30.831Z"
+        },
+        {
             "id": "980e821d3610c73a3657525645d0dc43e7d6432574235bce999cc5495eee08d1",
             "content_html": "The fight for democracy and climate justice is inseparable. While philanthropy often approaches attacks on democracy and climate injustice as separate issues, Urgent Action Fund recognizes that neither can be effectively addressed in isolation.",
             "url": "https://urgentactionfund.org/2026/11/25/how-our-grantee-partners-are-addressing-gender-based-violence/",
@@ -862,13 +869,6 @@
             "url": "https://www.dohafilm.com/en/learning-training/learning/workshops-labs/2026/0c910051-36d5-4f6c-a2e5-2140406daf3c",
             "title": "LearningShort Script LabApply Now",
             "image": "https://media.dohafilm.com/sites/default/files/prod/2026-10/Al-Sit-706x706.jpg",
-            "date_modified": "2026-10-04T20:13:00.919Z"
-        },
-        {
-            "id": "dbeee64aaa38fdd26346adb557bd1a14c8620266008ead74066e91200733d528",
-            "url": "https://www.dohafilm.com/en/learning-training/learning/workshops-labs/2027/1165673a-b1c4-4456-a0eb-991be36f8539",
-            "title": "LearningCinematography ProgrammeApply Now",
-            "image": "https://media.dohafilm.com/sites/default/files/prod/2026-10/LIGHTTOASHES-706x706.jpg",
             "date_modified": "2026-10-04T20:13:00.919Z"
         }
     ]
