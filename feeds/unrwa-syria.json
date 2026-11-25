@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"الأونروا في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "de8548a5ca4a977b4b36d107ba5e950eb0f12f2e4aa58610553ee3fbd5efd291",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2czQzhGTFFQVWJITTZJZlRMbmtBbDQ2ZkxXYUpDWEtIdFlxejM3MVVLSVZsV1M4ZHN1ZDZ1ZDlKbUJIQlJNS0VKWGowVWttMVA0aVE0bkRRMFVDTHJvLXlmWmI1bDIxQmROYUtvMUQ4TkppdG5sUWhvTGJEVkJFQUhCbVRCckVXQlZldFhYSkZDbFFHY3pvNjlXN2U1VlVzSkRYaUktZGF6ZXBRMWpaT0VqQXNfZ3VBaFRtag?oc=5\" target=\"_blank\">تعزيز صمود اللاجئين الفلسطينيين الشباب في سوريا من خلال التدريب المهني</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2czQzhGTFFQVWJITTZJZlRMbmtBbDQ2ZkxXYUpDWEtIdFlxejM3MVVLSVZsV1M4ZHN1ZDZ1ZDlKbUJIQlJNS0VKWGowVWttMVA0aVE0bkRRMFVDTHJvLXlmWmI1bDIxQmROYUtvMUQ4TkppdG5sUWhvTGJEVkJFQUhCbVRCckVXQlZldFhYSkZDbFFHY3pvNjlXN2U1VlVzSkRYaUktZGF6ZXBRMWpaT0VqQXNfZ3VBaFRtag?oc=5",
+            "title": "تعزيز صمود اللاجئين الفلسطينيين الشباب في سوريا من خلال التدريب المهني - UNRWA",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2czQzhGTFFQVWJITTZJZlRMbmtBbDQ2ZkxXYUpDWEtIdFlxejM3MVVLSVZsV1M4ZHN1ZDZ1ZDlKbUJIQlJNS0VKWGowVWttMVA0aVE0bkRRMFVDTHJvLXlmWmI1bDIxQmROYUtvMUQ4TkppdG5sUWhvTGJEVkJFQUhCbVRCckVXQlZldFhYSkZDbFFHY3pvNjlXN2U1VlVzSkRYaUktZGF6ZXBRMWpaT0VqQXNfZ3VBaFRtag?oc=5\" target=\"_blank\">تعزيز صمود اللاجئين الفلسطينيين الشباب في سوريا من خلال التدريب المهني</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UNRWA</font>",
+            "date_modified": "2026-11-25T01:17:38.000Z",
+            "author": {
+                "name": "UNRWA"
+            }
+        },
+        {
             "id": "458e6805b341f3d6f13447916f7ceb0eb644689a499dcb1df316def8dee4bc2f",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2laeXg3OXk1RVlXNlNnb2ZjaXoyTEVFSFVuTElhOUs3LTFtdG16SEZxMjV6SDhSeDdSdU1HZVJ5SXJYOGtmbHJwZUxnZ291V1V0THRiRWNIQXpMckFxeDB1YkJoVE1vWkdLSy1jVk9NQ1NFQU13bUFGLTFZTEpRWUJUMmQ3SDBh?oc=5\" target=\"_blank\">الأونروا</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2laeXg3OXk1RVlXNlNnb2ZjaXoyTEVFSFVuTElhOUs3LTFtdG16SEZxMjV6SDhSeDdSdU1HZVJ5SXJYOGtmbHJwZUxnZ291V1V0THRiRWNIQXpMckFxeDB1YkJoVE1vWkdLSy1jVk9NQ1NFQU13bUFGLTFZTEpRWUJUMmQ3SDBh?oc=5",
@@ -2191,17 +2202,6 @@
             "date_modified": "2026-04-05T07:00:00.000Z",
             "author": {
                 "name": "سانا"
-            }
-        },
-        {
-            "id": "317ecdb2a2b0f9294c5f25a8c3dc8e0a519bb0f0ec40d0214f5a997c151733ab",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMi-gRBVV95cUxQQTdJakNJck5UZEVJRl95QW94Y2tVNFFzZnMxanlXVWZVS0VlTFNuS0ozekVJRUV1U2Z2b3FaVkVrd3ZMUmJjMFRKVjU5aTMxUDNtTzRIRlE4RTF2cnVrYTZhV1NidE9pWkZBNFhxWGxzLU1lR3NjQ015S0pHNk02aG9TYThGVmdURjNURm0wVTZhdnAzX2xjLVFIeE5LWnZEMVlRZjFBSXMxZmlaYWkxcnVybVNkamQwazJEa01oY0N1NGlObzEtQ1VBVmFFRE12MTZteVVaSzRXVzV6Y1lBSXFRdlVhYXYxMmxGR0h4WUNfeC1mdHd3ekp2X2oxTHlpd0hlRmVwa1ZzV1VpcFkzUkdOa2s1S2tsRXdkdmU1emNvQTZiMTNnSDdvSkt1WTdMNnp3cDZybVl3S2xTSm4tSUVXSnFEUGs3MHd2cGhYQzhkWUNUazBoWlV2eXBmTXkyZnp2NHN6OTZYdnhsYUVjQkZrQ0R6bGRhQmVoVHFDb04tRWZrX3ViUDM1UF9ocXpqUGlSSnpReW9mdnhHcElIblBwWm5DS2hqbHB5ZHM3QkhaNGlOWUZaTnRpdDBNM3hwYlA4SlI2V3R4aUdqZ0lpQXJjUFhQZXdCNmZMaDJKcGtJdnhfMDNTYXFobHJwNjY1YWw3LXdCZXN6Q3E2ZExBOGp3S19nVlBzYTd0RkFkWDlTNUpVTl96cjU5UHJKeERocXVadnZabVdmMzhyZVBIRXdDQVlNTmZVVDBJbnBkdkM5VjFHV05hNENUd0R3Q0dXeXpxOGZvSW5wNmUtZjl0YUh6WmJsNjRwdklVODhGUG5tZ0VKdjdGMUhR?oc=5\" target=\"_blank\">\"أونروا\" تعلن بدء توزيع مساعدات نقدية للاجئين الفلسطينيين في لبنان ضمن خطة الطوارئ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxQQTdJakNJck5UZEVJRl95QW94Y2tVNFFzZnMxanlXVWZVS0VlTFNuS0ozekVJRUV1U2Z2b3FaVkVrd3ZMUmJjMFRKVjU5aTMxUDNtTzRIRlE4RTF2cnVrYTZhV1NidE9pWkZBNFhxWGxzLU1lR3NjQ015S0pHNk02aG9TYThGVmdURjNURm0wVTZhdnAzX2xjLVFIeE5LWnZEMVlRZjFBSXMxZmlaYWkxcnVybVNkamQwazJEa01oY0N1NGlObzEtQ1VBVmFFRE12MTZteVVaSzRXVzV6Y1lBSXFRdlVhYXYxMmxGR0h4WUNfeC1mdHd3ekp2X2oxTHlpd0hlRmVwa1ZzV1VpcFkzUkdOa2s1S2tsRXdkdmU1emNvQTZiMTNnSDdvSkt1WTdMNnp3cDZybVl3S2xTSm4tSUVXSnFEUGs3MHd2cGhYQzhkWUNUazBoWlV2eXBmTXkyZnp2NHN6OTZYdnhsYUVjQkZrQ0R6bGRhQmVoVHFDb04tRWZrX3ViUDM1UF9ocXpqUGlSSnpReW9mdnhHcElIblBwWm5DS2hqbHB5ZHM3QkhaNGlOWUZaTnRpdDBNM3hwYlA4SlI2V3R4aUdqZ0lpQXJjUFhQZXdCNmZMaDJKcGtJdnhfMDNTYXFobHJwNjY1YWw3LXdCZXN6Q3E2ZExBOGp3S19nVlBzYTd0RkFkWDlTNUpVTl96cjU5UHJKeERocXVadnZabVdmMzhyZVBIRXdDQVlNTmZVVDBJbnBkdkM5VjFHV05hNENUd0R3Q0dXeXpxOGZvSW5wNmUtZjl0YUh6WmJsNjRwdklVODhGUG5tZ0VKdjdGMUhR?oc=5",
-            "title": "\"أونروا\" تعلن بدء توزيع مساعدات نقدية للاجئين الفلسطينيين في لبنان ضمن خطة الطوارئ - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gRBVV95cUxQQTdJakNJck5UZEVJRl95QW94Y2tVNFFzZnMxanlXVWZVS0VlTFNuS0ozekVJRUV1U2Z2b3FaVkVrd3ZMUmJjMFRKVjU5aTMxUDNtTzRIRlE4RTF2cnVrYTZhV1NidE9pWkZBNFhxWGxzLU1lR3NjQ015S0pHNk02aG9TYThGVmdURjNURm0wVTZhdnAzX2xjLVFIeE5LWnZEMVlRZjFBSXMxZmlaYWkxcnVybVNkamQwazJEa01oY0N1NGlObzEtQ1VBVmFFRE12MTZteVVaSzRXVzV6Y1lBSXFRdlVhYXYxMmxGR0h4WUNfeC1mdHd3ekp2X2oxTHlpd0hlRmVwa1ZzV1VpcFkzUkdOa2s1S2tsRXdkdmU1emNvQTZiMTNnSDdvSkt1WTdMNnp3cDZybVl3S2xTSm4tSUVXSnFEUGs3MHd2cGhYQzhkWUNUazBoWlV2eXBmTXkyZnp2NHN6OTZYdnhsYUVjQkZrQ0R6bGRhQmVoVHFDb04tRWZrX3ViUDM1UF9ocXpqUGlSSnpReW9mdnhHcElIblBwWm5DS2hqbHB5ZHM3QkhaNGlOWUZaTnRpdDBNM3hwYlA4SlI2V3R4aUdqZ0lpQXJjUFhQZXdCNmZMaDJKcGtJdnhfMDNTYXFobHJwNjY1YWw3LXdCZXN6Q3E2ZExBOGp3S19nVlBzYTd0RkFkWDlTNUpVTl96cjU5UHJKeERocXVadnZabVdmMzhyZVBIRXdDQVlNTmZVVDBJbnBkdkM5VjFHV05hNENUd0R3Q0dXeXpxOGZvSW5wNmUtZjl0YUh6WmJsNjRwdklVODhGUG5tZ0VKdjdGMUhR?oc=5\" target=\"_blank\">\"أونروا\" تعلن بدء توزيع مساعدات نقدية للاجئين الفلسطينيين في لبنان ضمن خطة الطوارئ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-04-01T07:00:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
             }
         }
     ]
