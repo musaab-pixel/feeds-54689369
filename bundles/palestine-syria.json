@@ -5,6 +5,28 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "269cd1a9e1d51af3a849481eb899d1fb2e9ba879019ed1f447abe2c780e1882a",
+            "content_html": "وول ستريت جورنال عن جوش شابيرو حاكم بنسلفانيا الديموقراطي المرشح للرئاسة: يجب محاسبة نتنياهو على أفعاله في غزة",
+            "url": "https://t.me/aljazeeraBrk/246195",
+            "title": "وول ستريت جورنال عن جوش شابيرو حاكم بنسلفانيا الديموقراطي المرشح للرئاسة: يجب…",
+            "summary": "وول ستريت جورنال عن جوش شابيرو حاكم بنسلفانيا الديموقراطي المرشح للرئاسة: يجب محاسبة نتنياهو على أفعاله في غزة",
+            "date_modified": "2026-11-25T03:30:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
+            "id": "58f944bbca17f44862b1a4cb47c5116de6cf39ad0deb4599e61d774549c1fa03",
+            "content_html": "وزارة العدل الأمريكية: هيئة محلفين في نيويورك تدين هواوي وشركات تابعة لها بانتهاك العقوبات المفروضة على إيران",
+            "url": "https://t.me/aljazeeraBrk/246194",
+            "title": "وزارة العدل الأمريكية: هيئة محلفين في نيويورك تدين هواوي وشركات تابعة لها…",
+            "summary": "وزارة العدل الأمريكية: هيئة محلفين في نيويورك تدين هواوي وشركات تابعة لها بانتهاك العقوبات المفروضة على إيران",
+            "date_modified": "2026-11-25T03:21:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "81f2e7eda9c2f4195a4a8c8287fa5b4b09b1ff66e9e02f8a39e5cfc924d67693",
             "content_html": "المتحدث باسم التحالف: سقوط شظايا نتيجة اعتراض المسيرات في رأس تنورة دون إصابات بالتقييم الأولي",
             "url": "https://t.me/aljazeeraBrk/246193",
@@ -1613,28 +1635,6 @@
             "date_modified": "2026-11-24T10:30:33.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "3b7035ea9000d7d2db8cbfc8fd0d389301f70dcec0c7963c45c69b5dff1b5dd7",
-            "content_html": "مجمع الشفاء الطبي: مصابون في غارة من مسيرة إسرائيلية على منطقة أنصار غربي مدينة غزة",
-            "url": "https://t.me/aljazeeraBrk/246075",
-            "title": "مجمع الشفاء الطبي: مصابون في غارة من مسيرة إسرائيلية على منطقة أنصار غربي مدينة…",
-            "summary": "مجمع الشفاء الطبي: مصابون في غارة من مسيرة إسرائيلية على منطقة أنصار غربي مدينة غزة",
-            "date_modified": "2026-11-24T10:30:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "910dd009f3e1f822b205ad53e97bfbcd30b5389d0e721c9a2e030acc712235af",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ocUlPbEJGTVoybkxWUTB2TWhiMlMyODhvamhaVk92WThrMHFKTVJ2TnF1bDJCUTcxREJwWEY4Tk5UZERCeFQ0U3BRdVd2emdZZG9aSVIyMA?oc=5\" target=\"_blank\">رغم ضيق الحال.. حملات شعبية في سوريا دعما لغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ocUlPbEJGTVoybkxWUTB2TWhiMlMyODhvamhaVk92WThrMHFKTVJ2TnF1bDJCUTcxREJwWEY4Tk5UZERCeFQ0U3BRdVd2emdZZG9aSVIyMA?oc=5",
-            "title": "رغم ضيق الحال.. حملات شعبية في سوريا دعما لغزة - المركز الفلسطيني للإعلام",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ocUlPbEJGTVoybkxWUTB2TWhiMlMyODhvamhaVk92WThrMHFKTVJ2TnF1bDJCUTcxREJwWEY4Tk5UZERCeFQ0U3BRdVd2emdZZG9aSVIyMA?oc=5\" target=\"_blank\">رغم ضيق الحال.. حملات شعبية في سوريا دعما لغزة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">المركز الفلسطيني للإعلام</font>",
-            "date_modified": "2026-11-24T10:27:11.000Z",
-            "author": {
-                "name": "المركز الفلسطيني للإعلام"
             }
         }
     ]
