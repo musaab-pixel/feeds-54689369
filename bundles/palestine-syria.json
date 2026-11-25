@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "8f1887997ef82f436aa7de54e5ecab451acf79d1e96f2bfdfd22439ff021a7e7",
+            "content_html": "<b>الدفاع المدني: </b>وفاة شخص وإصابة 19 آخرين جراء 11 حادث سير في عموم سوريا يوم أمس الثلاثاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143267",
+            "title": "الدفاع المدني: وفاة شخص وإصابة 19 آخرين جراء 11 حادث سير في عموم سوريا يوم أمس…",
+            "summary": "<b>الدفاع المدني: </b>وفاة شخص وإصابة 19 آخرين جراء 11 حادث سير في عموم سوريا يوم أمس الثلاثاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "date_modified": "2026-11-25T07:32:43.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "97199ce2288af0a9e79c6af755f869b0bb8efb77b843f938852c517a681f67f0",
             "content_html": "حاكم أوديسا: قتيلان و3 مصابين في هجوم روسي استهدف المقاطعة",
             "url": "https://t.me/aljazeeraBrk/246221",
@@ -1630,17 +1641,6 @@
             "title": "وزارة الداخلية بغزة: الاستهداف الإسرائيلي الممنهج لجهازي الأمن الداخلي والشرطة…",
             "summary": "وزارة الداخلية بغزة: الاستهداف الإسرائيلي الممنهج لجهازي الأمن الداخلي والشرطة يهدف لخلق الفوضى داخل القطاع",
             "date_modified": "2026-11-24T11:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "58eb5e1a7291eb279ed2ac48141c7a58559b106b36ed3beca30df7ef8df5556f",
-            "content_html": "بيان لنتنياهو وكاتس: لن يتمكن أي ممن نعتبرهم إرهابيين من الإفلات من يد إسرائيل الطويلة",
-            "url": "https://t.me/aljazeeraBrk/246101",
-            "title": "بيان لنتنياهو وكاتس: لن يتمكن أي ممن نعتبرهم إرهابيين من الإفلات من يد إسرائيل…",
-            "summary": "بيان لنتنياهو وكاتس: لن يتمكن أي ممن نعتبرهم إرهابيين من الإفلات من يد إسرائيل الطويلة",
-            "date_modified": "2026-11-24T11:55:03.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
