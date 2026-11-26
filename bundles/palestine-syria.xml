@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 14:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 14:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/246480</link>
+            <guid isPermaLink="false">7a0fa2338db355e175202a69ad2eefdda1059a599e8811bd624557672fb91128</guid>
+            <pubDate>Thu, 26 Nov 2026 14:27:02 GMT</pubDate>
+            <description><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب روسيا وأوكرانيا والصراع في إيران]]></description>
+            <content:encoded><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب روسيا وأوكرانيا والصراع في إيران]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الكويتي: وفاة المصابين الإيطاليين إثر العدوان الإيراني الذي استهدف أحد…]]></title>
             <link>https://t.me/aljazeeraBrk/246479</link>
@@ -1494,15 +1503,6 @@
             <pubDate>Thu, 26 Nov 2026 01:22:02 GMT</pubDate>
             <description><![CDATA[البيت الأبيض: توجيه اتهامات لـ 12 قرصانا إلكترونيا وعناصر أمن  صيني بعد اختراقات استهدفت وكالات أمريكية]]></description>
             <content:encoded><![CDATA[البيت الأبيض: توجيه اتهامات لـ 12 قرصانا إلكترونيا وعناصر أمن  صيني بعد اختراقات استهدفت وكالات أمريكية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[البيت الأبيض: تحديث الأمن السيبراني للأنظمة العسكرية والاستخباراتية الأمريكية…]]></title>
-            <link>https://t.me/aljazeeraBrk/246365</link>
-            <guid isPermaLink="false">3ac043b38fe6d081b833393d061d2bbcfa5120dbefd1cd8be58a5754e22731b8</guid>
-            <pubDate>Thu, 26 Nov 2026 01:20:02 GMT</pubDate>
-            <description><![CDATA[البيت الأبيض: تحديث الأمن السيبراني للأنظمة العسكرية والاستخباراتية الأمريكية للمرة الأولى منذ أكثر من 35 عاما]]></description>
-            <content:encoded><![CDATA[البيت الأبيض: تحديث الأمن السيبراني للأنظمة العسكرية والاستخباراتية الأمريكية للمرة الأولى منذ أكثر من 35 عاما]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
