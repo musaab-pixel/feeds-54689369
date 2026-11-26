@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 20:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 20:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الإسعاف والطوارئ بغزة: مصابان في قصف إسرائيلي على فلسطينيين في مواصي مدينة خان…]]></title>
+            <link>https://t.me/aljazeeraBrk/246539</link>
+            <guid isPermaLink="false">912c205759650b71cdfc84e347bbdbc28bbad97888815da50f4aca8c6ff77ff2</guid>
+            <pubDate>Thu, 26 Nov 2026 20:26:02 GMT</pubDate>
+            <description><![CDATA[الإسعاف والطوارئ بغزة: مصابان في قصف إسرائيلي على فلسطينيين في مواصي مدينة خان يونس جنوبي القطاع]]></description>
+            <content:encoded><![CDATA[الإسعاف والطوارئ بغزة: مصابان في قصف إسرائيلي على فلسطينيين في مواصي مدينة خان يونس جنوبي القطاع]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الإسرائيلي: الصواريخ والمنصات التي استهدفناها كانت معدة للاستخدام من…]]></title>
             <link>https://t.me/aljazeeraBrk/246538</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 22:54:02 GMT</pubDate>
             <description><![CDATA[شركة وان باسوورد الكندية: مجهول يخترق بعض أنظمتنا الداخلية ويسرق كمية محدودة من بيانات عدد من المستخدمين]]></description>
             <content:encoded><![CDATA[شركة وان باسوورد الكندية: مجهول يخترق بعض أنظمتنا الداخلية ويسرق كمية محدودة من بيانات عدد من المستخدمين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[شركة وان باسوورد الكندية: الاختراق لجزء من أنظمتنا لم يؤثر في كلمات المرور أو…]]></title>
-            <link>https://t.me/aljazeeraBrk/246340</link>
-            <guid isPermaLink="false">776ff001be223e798f4f2178041160d293e99255b1aa12f81e4b57006f13e006</guid>
-            <pubDate>Wed, 25 Nov 2026 22:54:02 GMT</pubDate>
-            <description><![CDATA[شركة وان باسوورد الكندية: الاختراق لجزء من أنظمتنا لم يؤثر في كلمات المرور أو البيانات المخزنة للمستخدمين]]></description>
-            <content:encoded><![CDATA[شركة وان باسوورد الكندية: الاختراق لجزء من أنظمتنا لم يؤثر في كلمات المرور أو البيانات المخزنة للمستخدمين]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
