@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 13:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 13:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة الأنباء الإيطالية أنسا: مقتل عاملين إيطاليين جراء ضربة إيرانية في الكويت]]></title>
+            <link>https://t.me/aljazeeraBrk/246474</link>
+            <guid isPermaLink="false">67628b795992a822b0e9a315cb1ebc9100f3d750d6259d5cbce20e00ecd78ad3</guid>
+            <pubDate>Thu, 26 Nov 2026 13:51:02 GMT</pubDate>
+            <description><![CDATA[وكالة الأنباء الإيطالية أنسا: مقتل عاملين إيطاليين جراء ضربة إيرانية في الكويت]]></description>
+            <content:encoded><![CDATA[وكالة الأنباء الإيطالية أنسا: مقتل عاملين إيطاليين جراء ضربة إيرانية في الكويت]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[تلغراف عن مصادر: بلاغ كاذب بوجود قنبلة في قاعدة للبحرية الملكية البريطانية…]]></title>
             <link>https://t.me/aljazeeraBrk/246473</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 14:32:02 GMT</pubDate>
             <description><![CDATA[الأسواق الأمريكية تفتتح جلسة اليوم على انخفاض حاد ومؤشر ناسداك يتراجع ٣٪؜ بضغط من أسهم التكنولوجيا والرقائق]]></description>
             <content:encoded><![CDATA[الأسواق الأمريكية تفتتح جلسة اليوم على انخفاض حاد ومؤشر ناسداك يتراجع ٣٪؜ بضغط من أسهم التكنولوجيا والرقائق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وزير الخزانة الأمريكي: إيران عجزت عن تحميل ناقلة نفط واحدة منذ إطلاقنا عملية…]]></title>
-            <link>https://t.me/aljazeeraBrk/246274</link>
-            <guid isPermaLink="false">aecf7e0daf4d1244f70eed4b58fa3dbb85578be0d7e81613032949cdc34fb60b</guid>
-            <pubDate>Wed, 25 Nov 2026 14:30:02 GMT</pubDate>
-            <description><![CDATA[وزير الخزانة الأمريكي: إيران عجزت عن تحميل ناقلة نفط واحدة منذ إطلاقنا  عملية المنبوذ الاقتصادي في أغسطس]]></description>
-            <content:encoded><![CDATA[وزير الخزانة الأمريكي: إيران عجزت عن تحميل ناقلة نفط واحدة منذ إطلاقنا  عملية المنبوذ الاقتصادي في أغسطس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
