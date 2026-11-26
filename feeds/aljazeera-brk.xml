@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 11:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 11:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[منظمة الصحة العالمية: 2361 قتيلا و10982مصابا جراء التصعيد العسكري في اليمن حتى…]]></title>
+            <link>https://t.me/aljazeeraBrk/246453</link>
+            <guid isPermaLink="false">9a6564bd66356f2bd2254f5e151beff500c5e486d8e68332ce7bdef76ff78189</guid>
+            <pubDate>Thu, 26 Nov 2026 11:13:02 GMT</pubDate>
+            <description><![CDATA[منظمة الصحة العالمية: 2361 قتيلا و10982مصابا جراء التصعيد العسكري في اليمن حتى 23 نوفمبر]]></description>
+            <content:encoded><![CDATA[منظمة الصحة العالمية: 2361 قتيلا و10982مصابا جراء التصعيد العسكري في اليمن حتى 23 نوفمبر]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[هيئة النزاهة العراقية: فريقان ميدانيان يباشران التحري والتحقيق في ملفات تتعلق…]]></title>
             <link>https://t.me/aljazeeraBrk/246452</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 13:10:02 GMT</pubDate>
             <description><![CDATA[مصادر في مستشفيات غزة: 7 شهداء بينهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم]]></description>
             <content:encoded><![CDATA[مصادر في مستشفيات غزة: 7 شهداء بينهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين في منطقة…]]></title>
-            <link>https://t.me/aljazeeraBrk/246253</link>
-            <guid isPermaLink="false">e4aee770cbc0d0835697be2024aadd2f8fb6944aa6b11419ede8d91142fcc819</guid>
-            <pubDate>Wed, 25 Nov 2026 13:09:02 GMT</pubDate>
-            <description><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين في منطقة التوام شمالي غزة]]></description>
-            <content:encoded><![CDATA[مجمع الشفاء الطبي: شهيدان ومصابون في غارة إسرائيلية على خيمة نازحين في منطقة التوام شمالي غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
