@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 16:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 17:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: تفجير إسرائيلي في محيط بلدة القنطرة جنوبي لبنان]]></title>
+            <link>https://t.me/aljazeeraBrk/246516</link>
+            <guid isPermaLink="false">5a32ea2338ac85682110cabc046fbd9ca4ce91f7c558b1114cb8225150568c7a</guid>
+            <pubDate>Thu, 26 Nov 2026 17:17:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: تفجير إسرائيلي في محيط بلدة القنطرة جنوبي لبنان]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: تفجير إسرائيلي في محيط بلدة القنطرة جنوبي لبنان]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[قائد قوات الحدود العراقية: منفذا بشته مع إيران والوليد مع سوريا اللذان أغلقا…]]></title>
             <link>https://t.me/aljazeeraBrk/246515</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 19:58:02 GMT</pubDate>
             <description><![CDATA[النيابة العامة المصرية: باشرنا التحقيقات في حادث تصادم وحريق شاحنة مواد بترولية بالوراق]]></description>
             <content:encoded><![CDATA[النيابة العامة المصرية: باشرنا التحقيقات في حادث تصادم وحريق شاحنة مواد بترولية بالوراق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[النيابة العامة المصرية: حريق الوراق أسفر عن وفاة 30 شخصا وإصابة 25 آخرين وتفحم…]]></title>
-            <link>https://t.me/aljazeeraBrk/246317</link>
-            <guid isPermaLink="false">43a808888b6608576ab791490f1b6b9b17929ad1437b71bf720ae72173843889</guid>
-            <pubDate>Wed, 25 Nov 2026 19:58:02 GMT</pubDate>
-            <description><![CDATA[النيابة العامة المصرية: حريق الوراق أسفر عن وفاة 30 شخصا وإصابة 25 آخرين وتفحم 27 مركبة بين سيارة ودراجة]]></description>
-            <content:encoded><![CDATA[النيابة العامة المصرية: حريق الوراق أسفر عن وفاة 30 شخصا وإصابة 25 آخرين وتفحم 27 مركبة بين سيارة ودراجة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
