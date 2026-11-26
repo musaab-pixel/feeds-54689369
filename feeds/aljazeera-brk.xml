@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 15:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 15:59:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الاستخبارات العسكرية الأوكرانية: مسيرات بعيدة المدى استهدفت الليلة الماضية…]]></title>
+            <link>https://t.me/aljazeeraBrk/246505</link>
+            <guid isPermaLink="false">18af65a99dbadba451cc95c0ca173f6060e438f016493355aba77575442c2a35</guid>
+            <pubDate>Thu, 26 Nov 2026 15:58:02 GMT</pubDate>
+            <description><![CDATA[الاستخبارات العسكرية الأوكرانية: مسيرات بعيدة المدى استهدفت الليلة الماضية مصفاة نفطية في إقليم كوبان الروسي]]></description>
+            <content:encoded><![CDATA[الاستخبارات العسكرية الأوكرانية: مسيرات بعيدة المدى استهدفت الليلة الماضية مصفاة نفطية في إقليم كوبان الروسي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[القوات الحكومية اليمنية: نفذنا 767 عملية استهداف لمواقع مليشيا الحوثي وتجمعاتها…]]></title>
             <link>https://t.me/aljazeeraBrk/246504</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 18:14:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة المصرية: وفاة 21 شخصا على الأقل وإصابة 15 في حريق جراء انقلاب مركبة تحمل منتجات بترولية بالجيزة]]></description>
             <content:encoded><![CDATA[وزارة الصحة المصرية: وفاة 21 شخصا على الأقل وإصابة 15 في حريق جراء انقلاب مركبة تحمل منتجات بترولية بالجيزة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات على مديرية عبس بمحافظة حجة شمال…]]></title>
-            <link>https://t.me/aljazeeraBrk/246305</link>
-            <guid isPermaLink="false">c3c4b29c65f77fd9c0080ca1c05c231edcd4406c15851d2a74245bf581b1f42d</guid>
-            <pubDate>Wed, 25 Nov 2026 18:12:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات على مديرية عبس بمحافظة حجة شمال غربي اليمن]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 5 غارات على مديرية عبس بمحافظة حجة شمال غربي اليمن]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
