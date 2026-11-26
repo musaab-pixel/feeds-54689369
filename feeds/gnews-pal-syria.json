@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"أخبار جوجل — اللاجئون الفلسطينيون في سوريا (Google News)\" (type: googlenews)",
     "items": [
         {
+            "id": "27ca98fe8ed2f61018b022af09b4e39b8faa472ab57827a784ab24fbc706a400",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySFlSVFhEWWwwVzRwWlhUekxzVHVRWGRndzd2VFhscXU0MzRDUmt1SV8xRFNlMHIwZkxLVTByeXQtbENyZ2RBbC1CNGZkRDV1Y2w4?oc=5\" target=\"_blank\">الاتحاد من أجل المتوسط يؤكد دعمه إعادة إعمار سوريا وتهيئة عودة اللاجئين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySFlSVFhEWWwwVzRwWlhUekxzVHVRWGRndzd2VFhscXU0MzRDUmt1SV8xRFNlMHIwZkxLVTByeXQtbENyZ2RBbC1CNGZkRDV1Y2w4?oc=5",
+            "title": "الاتحاد من أجل المتوسط يؤكد دعمه إعادة إعمار سوريا وتهيئة عودة اللاجئين - شبكة تواصل الإخبارية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySFlSVFhEWWwwVzRwWlhUekxzVHVRWGRndzd2VFhscXU0MzRDUmt1SV8xRFNlMHIwZkxLVTByeXQtbENyZ2RBbC1CNGZkRDV1Y2w4?oc=5\" target=\"_blank\">الاتحاد من أجل المتوسط يؤكد دعمه إعادة إعمار سوريا وتهيئة عودة اللاجئين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+            "date_modified": "2026-11-26T17:47:26.000Z",
+            "author": {
+                "name": "شبكة تواصل الإخبارية"
+            }
+        },
+        {
             "id": "7601965acb8a3ec0a02d8376726ccd55528342ac2207c80e583069bb077b3872",
             "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxPXzQtWjlJSEIwUlBhamxwbE9BMVN1WnM3WHJoamtodDFpMU5vaXlJZmtQQkpJY3J4OHM0cmo2VDlaZEQ5d0FMa0lHLXVldWdGQ0hwSkl5ZVg5ZllKZTlOR1FueWFnR1NWUE1rdmRjb3otUDkyUEJmdVR1NlBxbGc4RU55X3VDUHNhZ2kwN2RSSk5WU3AybzdiTUlxR2Z6N3cwNGtOTDhWSWZuSnE0Y2tKVHFacHdkTm1VcGs2VERZMDIyQTVid2c4Sm9LVXBRZ2FDS2x1dTgxMlBkdkNzdGJyX05vVUZzalYyNUk3Z3NPOVJ0dUhBeUZpNzNoaDVzcXVPYmVFcFVJTG0yc19GQm04QjZMYTg2cDVSZHdJU2drYXFjOVRyRW5DM2sxWU9MV055Q2RKUXpnRU1rQQ?oc=5\" target=\"_blank\">\"أونروا\" تعلن صرف مساعدات نقدية جديدة لفلسطينيي سوريا في لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">وكالة سوا الإخبارية</font>",
             "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPXzQtWjlJSEIwUlBhamxwbE9BMVN1WnM3WHJoamtodDFpMU5vaXlJZmtQQkpJY3J4OHM0cmo2VDlaZEQ5d0FMa0lHLXVldWdGQ0hwSkl5ZVg5ZllKZTlOR1FueWFnR1NWUE1rdmRjb3otUDkyUEJmdVR1NlBxbGc4RU55X3VDUHNhZ2kwN2RSSk5WU3AybzdiTUlxR2Z6N3cwNGtOTDhWSWZuSnE0Y2tKVHFacHdkTm1VcGs2VERZMDIyQTVid2c4Sm9LVXBRZ2FDS2x1dTgxMlBkdkNzdGJyX05vVUZzalYyNUk3Z3NPOVJ0dUhBeUZpNzNoaDVzcXVPYmVFcFVJTG0yc19GQm04QjZMYTg2cDVSZHdJU2drYXFjOVRyRW5DM2sxWU9MV055Q2RKUXpnRU1rQQ?oc=5",
@@ -2189,17 +2200,6 @@
             "title": "مدير شؤون \"أونروا\" الجديد في سوريا يزور منشآت الوكالة في مخيم السيدة زينب - بوابة اللاجئين الفلسطينيين",
             "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgRBVV95cUxQVVFLeWZJcGVWYzIwMFJvQVBpSHlhMHIxd0QwWmdwdXhDSjBhSDNpcko0c1VMTGhWdjRraEN1Y0J6S0RIRUdDejhkSFhwY2FfaVRGRFl2OTA4bXMzdlNGMWhTYU5zakEyZmNydzJjSmxPaERKM0I5NkNuQjJxLU1yOGNwSGc5UFFUTy1PS1BEM1JkMkZvcGJMM1dpVmlJRVRTTzR0cWhrYzIxLTJrZEw1TVl2b1NUNVVsSWxtZGp6ejlFV1l4S0RiZEtYMWVyZHREMEowT005TEdRekU5X3Y4dFF5aEpvaVlhQW83NW5PUWdfMGZXbzRqc3plMWhGbmkwRkQzT1ZPZjJ6Njg3RTYySTB6OFVqV0pUX3RvbExfUVZlMUVYdkN5VklVNU5ib3VBM1VqN0QxMUt4ZVdRNWJsVzNXd1pLU3JPSEZtZnhoalF1TmN5aFdBcDA0TE9JS0pZOERtOGZpYWJMSVZyMkhERVdyNHFMenoyTHR2ZHZxSGhSeDBLdzYxLUVZa0FIb0FpV29seG9vTGZGME9JbTNWYlROUGwwMU95QTN1YVJkRkRvM0R1bUNBbU9lOGNxMlA3bWhQM3plZVpBUTIzUDJjNWJKdEg4ckJWZVVTQ3Mzc21SdlVsUEhURmlRMXJSaHdTQlZub19QZW53STRnM2tYQlNkdkFGcFBwcVl4S3ppb2NrcERLQ29fdkpPVGdnMDlubVNoQ1ZiRjdBUXhJbzlvMUtB?oc=5\" target=\"_blank\">مدير شؤون \"أونروا\" الجديد في سوريا يزور منشآت الوكالة في مخيم السيدة زينب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
             "date_modified": "2026-07-27T15:09:00.000Z",
-            "author": {
-                "name": "بوابة اللاجئين الفلسطينيين"
-            }
-        },
-        {
-            "id": "fdfb9f4f699cc35f7ea7a588e19e6f4918f82a19dd32b3bb1ed76f189797bd0a",
-            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMijwRBVV95cUxPYlVyWWs2bWRDMzU2UkhXM0stMV9neHA0UFNHZUtzTUJ2ME9EcDFYVGxURklGZ3hyZE16UExCdFNPRWw3dW1DMFdkQXJEWFE1UWV1bXBQSnNlOFF3X2RaRy1jajlzRy1lRUhKdkVmREh5azJsYUU2Zl9VaXpPaTJwZ2ZyWENWVDF4U29zeHZxS3V1Zk1KaHF5ZU45cm1LMldDX0NFYUp6QmR6c1VMbFhlbUVCaE8wcDJoN1p2NXBhNTFYZGxHWGFIM2xnYmlSUU9id29ub3pxQVc0MVdla1M1WV9BbWhUcUFRN2hVTkNvbXJGNThnak5nT0kxRXJ4XzQ4RHYxeEJxWl9UczNWQ3pEUE9xOEtNWkMtM2szZWtVLTZiOUFvNzVZbzFwamc5TUNVR3Fodl85TEJRWFgtVDJDU3ZyZklBQzl6WUM2RjBHVnFZVHdQQTQ5YzFYbmJtZk15S3ZOTmIzTkR1YnlBX05DM1NiUlRYbnRHUENTRnpRUHZoaS1YcFJaSDNvbHAybkRQdmZHbzVHQWVnbk1WV01TSTZYckthaURlRGpaWDYya0UwZk1rMnphc0Z3SVdQR211d2h4RXMwRXdSVjdBNDZBQkpmRWNfTVRET0lKSFRPbkVvYXZpOWQ5eHh0R2FPUkNfeHoweTBXR0cyRXFScFFYZm1kVkdZX2NMUUFjeU9xSQ?oc=5\" target=\"_blank\">توقيف ثلاثة لاجئين فلسطينيين من سوريا على حاجز المدفون شمال لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPYlVyWWs2bWRDMzU2UkhXM0stMV9neHA0UFNHZUtzTUJ2ME9EcDFYVGxURklGZ3hyZE16UExCdFNPRWw3dW1DMFdkQXJEWFE1UWV1bXBQSnNlOFF3X2RaRy1jajlzRy1lRUhKdkVmREh5azJsYUU2Zl9VaXpPaTJwZ2ZyWENWVDF4U29zeHZxS3V1Zk1KaHF5ZU45cm1LMldDX0NFYUp6QmR6c1VMbFhlbUVCaE8wcDJoN1p2NXBhNTFYZGxHWGFIM2xnYmlSUU9id29ub3pxQVc0MVdla1M1WV9BbWhUcUFRN2hVTkNvbXJGNThnak5nT0kxRXJ4XzQ4RHYxeEJxWl9UczNWQ3pEUE9xOEtNWkMtM2szZWtVLTZiOUFvNzVZbzFwamc5TUNVR3Fodl85TEJRWFgtVDJDU3ZyZklBQzl6WUM2RjBHVnFZVHdQQTQ5YzFYbmJtZk15S3ZOTmIzTkR1YnlBX05DM1NiUlRYbnRHUENTRnpRUHZoaS1YcFJaSDNvbHAybkRQdmZHbzVHQWVnbk1WV01TSTZYckthaURlRGpaWDYya0UwZk1rMnphc0Z3SVdQR211d2h4RXMwRXdSVjdBNDZBQkpmRWNfTVRET0lKSFRPbkVvYXZpOWQ5eHh0R2FPUkNfeHoweTBXR0cyRXFScFFYZm1kVkdZX2NMUUFjeU9xSQ?oc=5",
-            "title": "توقيف ثلاثة لاجئين فلسطينيين من سوريا على حاجز المدفون شمال لبنان - بوابة اللاجئين الفلسطينيين",
-            "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwRBVV95cUxPYlVyWWs2bWRDMzU2UkhXM0stMV9neHA0UFNHZUtzTUJ2ME9EcDFYVGxURklGZ3hyZE16UExCdFNPRWw3dW1DMFdkQXJEWFE1UWV1bXBQSnNlOFF3X2RaRy1jajlzRy1lRUhKdkVmREh5azJsYUU2Zl9VaXpPaTJwZ2ZyWENWVDF4U29zeHZxS3V1Zk1KaHF5ZU45cm1LMldDX0NFYUp6QmR6c1VMbFhlbUVCaE8wcDJoN1p2NXBhNTFYZGxHWGFIM2xnYmlSUU9id29ub3pxQVc0MVdla1M1WV9BbWhUcUFRN2hVTkNvbXJGNThnak5nT0kxRXJ4XzQ4RHYxeEJxWl9UczNWQ3pEUE9xOEtNWkMtM2szZWtVLTZiOUFvNzVZbzFwamc5TUNVR3Fodl85TEJRWFgtVDJDU3ZyZklBQzl6WUM2RjBHVnFZVHdQQTQ5YzFYbmJtZk15S3ZOTmIzTkR1YnlBX05DM1NiUlRYbnRHUENTRnpRUHZoaS1YcFJaSDNvbHAybkRQdmZHbzVHQWVnbk1WV01TSTZYckthaURlRGpaWDYya0UwZk1rMnphc0Z3SVdQR211d2h4RXMwRXdSVjdBNDZBQkpmRWNfTVRET0lKSFRPbkVvYXZpOWQ5eHh0R2FPUkNfeHoweTBXR0cyRXFScFFYZm1kVkdZX2NMUUFjeU9xSQ?oc=5\" target=\"_blank\">توقيف ثلاثة لاجئين فلسطينيين من سوريا على حاجز المدفون شمال لبنان</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة اللاجئين الفلسطينيين</font>",
-            "date_modified": "2026-07-27T07:00:00.000Z",
             "author": {
                 "name": "بوابة اللاجئين الفلسطينيين"
             }

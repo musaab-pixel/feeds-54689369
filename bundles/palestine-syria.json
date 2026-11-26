@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "27ca98fe8ed2f61018b022af09b4e39b8faa472ab57827a784ab24fbc706a400",
+            "content_html": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySFlSVFhEWWwwVzRwWlhUekxzVHVRWGRndzd2VFhscXU0MzRDUmt1SV8xRFNlMHIwZkxLVTByeXQtbENyZ2RBbC1CNGZkRDV1Y2w4?oc=5\" target=\"_blank\">الاتحاد من أجل المتوسط يؤكد دعمه إعادة إعمار سوريا وتهيئة عودة اللاجئين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySFlSVFhEWWwwVzRwWlhUekxzVHVRWGRndzd2VFhscXU0MzRDUmt1SV8xRFNlMHIwZkxLVTByeXQtbENyZ2RBbC1CNGZkRDV1Y2w4?oc=5",
+            "title": "الاتحاد من أجل المتوسط يؤكد دعمه إعادة إعمار سوريا وتهيئة عودة اللاجئين - شبكة تواصل الإخبارية",
+            "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySFlSVFhEWWwwVzRwWlhUekxzVHVRWGRndzd2VFhscXU0MzRDUmt1SV8xRFNlMHIwZkxLVTByeXQtbENyZ2RBbC1CNGZkRDV1Y2w4?oc=5\" target=\"_blank\">الاتحاد من أجل المتوسط يؤكد دعمه إعادة إعمار سوريا وتهيئة عودة اللاجئين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+            "date_modified": "2026-11-26T17:47:26.000Z",
+            "author": {
+                "name": "شبكة تواصل الإخبارية"
+            }
+        },
+        {
             "id": "b0e08670f56dd95d1305afd4807715b2fb2da6ea568b8799be6e0ffd73b832ab",
             "content_html": "الخارجية الإيرانية: عراقجي أكد الاستعداد لإجراء تحقيق مع الكويت بشأن الحادث وتحديد مصدره والجهات الضالعة فيه",
             "url": "https://t.me/aljazeeraBrk/246522",
@@ -1615,17 +1626,6 @@
             "title": "وزير الدفاع الإسرائيلي: البنية التحتية التنظيمية لتوفير إمكانية الهجرة من قطاع…",
             "summary": "وزير الدفاع الإسرائيلي: البنية التحتية التنظيمية لتوفير إمكانية الهجرة من قطاع غزة جاهزة",
             "date_modified": "2026-11-26T07:33:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "e93ba019edd62b050aab762c446de86d6a171627789fd6a3d8b275b08aa7ec51",
-            "content_html": "كاتس: سيتم اتخاذ الترتيبات اللازمة لكل من يرغب في الهجرة من قطاع غزة المدمر",
-            "url": "https://t.me/aljazeeraBrk/246411",
-            "title": "كاتس: سيتم اتخاذ الترتيبات اللازمة لكل من يرغب في الهجرة من قطاع غزة المدمر",
-            "summary": "كاتس: سيتم اتخاذ الترتيبات اللازمة لكل من يرغب في الهجرة من قطاع غزة المدمر",
-            "date_modified": "2026-11-26T07:31:02.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
