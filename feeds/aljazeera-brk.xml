@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 03:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 04:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[أ.ف.ب: ميانمار تقول إنها لن تلتزم ببنود تصفها بغير المناسبة في قرار محكمة العدل…]]></title>
+            <link>https://t.me/aljazeeraBrk/246383</link>
+            <guid isPermaLink="false">deb3460d7e4781d12936091f47ac4b23d20b6438083e5f1df58d174c26c293cc</guid>
+            <pubDate>Thu, 26 Nov 2026 04:25:02 GMT</pubDate>
+            <description><![CDATA[أ.ف.ب: ميانمار تقول إنها لن تلتزم ببنود تصفها بغير المناسبة في قرار محكمة العدل الدولية بشأن الإبادة الجماعية]]></description>
+            <content:encoded><![CDATA[أ.ف.ب: ميانمار تقول إنها لن تلتزم ببنود تصفها بغير المناسبة في قرار محكمة العدل الدولية بشأن الإبادة الجماعية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[يونهاب عن القوات الأمريكية في كوريا: حل وحدة الطيران لا تغير من التزام واشنطن…]]></title>
             <link>https://t.me/aljazeeraBrk/246382</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 02:10:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم التحالف: استهدفنا قدرات تشغيلية في ميناء الحديدة]]></description>
             <content:encoded><![CDATA[المتحدث باسم التحالف: استهدفنا قدرات تشغيلية في ميناء الحديدة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم التحالف: دمرنا عددا من الأهداف في محافظتي صعدة وعمران]]></title>
-            <link>https://t.me/aljazeeraBrk/246182</link>
-            <guid isPermaLink="false">27422a0cc4ed4e23946fe9d8cd37d91d15cf5ca5e6e5849e9746028206b6a71d</guid>
-            <pubDate>Wed, 25 Nov 2026 02:10:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم التحالف: دمرنا عددا من الأهداف في محافظتي صعدة وعمران]]></description>
-            <content:encoded><![CDATA[المتحدث باسم التحالف: دمرنا عددا من الأهداف في محافظتي صعدة وعمران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
