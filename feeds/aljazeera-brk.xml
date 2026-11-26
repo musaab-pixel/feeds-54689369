@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 23:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 23:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[ترمب: الحصار المفروض على إيران هو الأكثر نجاحا في التاريخ البحري ولم تتمكن أي…]]></title>
+            <link>https://t.me/aljazeeraBrk/246551</link>
+            <guid isPermaLink="false">1fe2821ba00320ca1f9e1d7a33b826edea19789f3c7e576f7685b96187c51f32</guid>
+            <pubDate>Thu, 26 Nov 2026 23:08:02 GMT</pubDate>
+            <description><![CDATA[ترمب: الحصار المفروض على إيران هو الأكثر نجاحا في التاريخ البحري ولم تتمكن أي سفينة من اختراقه]]></description>
+            <content:encoded><![CDATA[ترمب: الحصار المفروض على إيران هو الأكثر نجاحا في التاريخ البحري ولم تتمكن أي سفينة من اختراقه]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[ترمب: أطلقنا 150 صاروخا لمنع الصواريخ والمسيرات المعادية من استهداف سفن تجارية…]]></title>
             <link>https://t.me/aljazeeraBrk/246549</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 23:45:02 GMT</pubDate>
             <description><![CDATA[كوشنر: لم يكن موقف الأوروبيين من الأزمة مع إيران على مستوى التوقعات]]></description>
             <content:encoded><![CDATA[كوشنر: لم يكن موقف الأوروبيين من الأزمة مع إيران على مستوى التوقعات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات ضد مليشيا الحوثي في جبهات شمالي محافظة…]]></title>
-            <link>https://t.me/aljazeeraBrk/246351</link>
-            <guid isPermaLink="false">559e263830670575d7caeb20802bcc4f3e9a1d88468306cd37b1ecb813e0c725</guid>
-            <pubDate>Wed, 25 Nov 2026 23:43:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات ضد مليشيا الحوثي في جبهات شمالي محافظة مأرب حتى جنوبي شرق محافظة الجوف]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: نخوض مواجهات ضد مليشيا الحوثي في جبهات شمالي محافظة مأرب حتى جنوبي شرق محافظة الجوف]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
