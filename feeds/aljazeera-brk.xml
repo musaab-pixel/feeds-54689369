@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 21:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 21:50:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الوكالة الدولية للطاقة الذرية: نتواصل مع موسكو وكييف بشأن محطة زابوروجيا…]]></title>
+            <link>https://t.me/aljazeeraBrk/246543</link>
+            <guid isPermaLink="false">eea0c2a2da43a7322e550e46431ac16f94645792dc293cae0d3445e3241d0940</guid>
+            <pubDate>Thu, 26 Nov 2026 21:49:02 GMT</pubDate>
+            <description><![CDATA[الوكالة الدولية للطاقة الذرية: نتواصل مع موسكو وكييف بشأن محطة زابوروجيا النووية بعد انقطاع الكهرباء عنها]]></description>
+            <content:encoded><![CDATA[الوكالة الدولية للطاقة الذرية: نتواصل مع موسكو وكييف بشأن محطة زابوروجيا النووية بعد انقطاع الكهرباء عنها]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[التحالف: اعتراض وتدمير مسيرة أطلقتها المليشيا الحوثية الإرهابية باتجاه المنطقة…]]></title>
             <link>https://t.me/aljazeeraBrk/246542</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 22:59:02 GMT</pubDate>
             <description><![CDATA[نائب الرئيس الأمريكي لسي إن إن: مسؤولون في الحكومة الفيدرالية أبلغوني بأن جنسن هوانغ لا يخضع لأي تحقيق]]></description>
             <content:encoded><![CDATA[نائب الرئيس الأمريكي لسي إن إن: مسؤولون في الحكومة الفيدرالية أبلغوني بأن جنسن هوانغ لا يخضع لأي تحقيق]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[كوشنر: نسعى إلى إتمام أكبر صفقة تبادل أسرى منذ بدء حرب روسيا على أوكرانيا قبل…]]></title>
-            <link>https://t.me/aljazeeraBrk/246342</link>
-            <guid isPermaLink="false">af637dd2f101130d321f7c1cd78018bb3a27168c8eccdac300e2b75b7ff5b9ae</guid>
-            <pubDate>Wed, 25 Nov 2026 22:56:02 GMT</pubDate>
-            <description><![CDATA[كوشنر: نسعى إلى إتمام أكبر صفقة تبادل أسرى منذ بدء حرب روسيا على أوكرانيا قبل الأعياد]]></description>
-            <content:encoded><![CDATA[كوشنر: نسعى إلى إتمام أكبر صفقة تبادل أسرى منذ بدء حرب روسيا على أوكرانيا قبل الأعياد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
