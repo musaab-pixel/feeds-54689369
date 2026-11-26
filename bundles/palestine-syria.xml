@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 02:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 02:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/246376</link>
+            <guid isPermaLink="false">6a8d0c437c9016fd7978aecb5e4ee133c736c5705c0c44f7bcd19b74558c22ba</guid>
+            <pubDate>Thu, 26 Nov 2026 02:20:02 GMT</pubDate>
+            <description><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الإسعاف والطوارىء في غزة: مصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير…]]></title>
             <link>https://t.me/aljazeeraBrk/246375</link>
@@ -1384,15 +1393,6 @@
             <description><![CDATA[UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.]]></description>
             <content:encoded><![CDATA[UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.]]></content:encoded>
             <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/19-08-2026-UNICEF-West-Bank-03.jpg/image560x340cropped.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة…]]></title>
-            <link>https://t.me/aljazeeraBrk/246250</link>
-            <guid isPermaLink="false">d47dbf766337ce6b3d52e6923d68efd5636ddf8c0cf4e8a07fe8e275ee36b9ef</guid>
-            <pubDate>Wed, 25 Nov 2026 11:39:02 GMT</pubDate>
-            <description><![CDATA[مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم]]></description>
-            <content:encoded><![CDATA[مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم]]></content:encoded>
-            <author>الجزيرة عاجل</author>
         </item>
     </channel>
 </rss>

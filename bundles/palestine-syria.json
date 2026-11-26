@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "6a8d0c437c9016fd7978aecb5e4ee133c736c5705c0c44f7bcd19b74558c22ba",
+            "content_html": "مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة",
+            "url": "https://t.me/aljazeeraBrk/246376",
+            "title": "مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب…",
+            "summary": "مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة",
+            "date_modified": "2026-11-26T02:20:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "f72ff465c2571846cbbeff9e7dc8a2a85ef8d1586f1cdde27f520bf528d8ef52",
             "content_html": "الإسعاف والطوارىء في غزة: مصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة",
             "url": "https://t.me/aljazeeraBrk/246375",
@@ -1638,17 +1649,6 @@
             "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
             "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/19-08-2026-UNICEF-West-Bank-03.jpg/image560x340cropped.jpg",
             "date_modified": "2026-11-25T12:00:00.000Z"
-        },
-        {
-            "id": "d47dbf766337ce6b3d52e6923d68efd5636ddf8c0cf4e8a07fe8e275ee36b9ef",
-            "content_html": "مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم",
-            "url": "https://t.me/aljazeeraBrk/246250",
-            "title": "مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة…",
-            "summary": "مصادر في مستشفيات غزة: 6 شهداء منهم طفلتان في غارات إسرائيلية على مدينة غزة وشمالي القطاع منذ فجر اليوم",
-            "date_modified": "2026-11-25T11:39:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
         }
     ]
 }

@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 02:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 02:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب…]]></title>
+            <link>https://t.me/aljazeeraBrk/246376</link>
+            <guid isPermaLink="false">6a8d0c437c9016fd7978aecb5e4ee133c736c5705c0c44f7bcd19b74558c22ba</guid>
+            <pubDate>Thu, 26 Nov 2026 02:20:02 GMT</pubDate>
+            <description><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة]]></description>
+            <content:encoded><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير البلح وسط قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الإسعاف والطوارىء في غزة: مصابون في غارة إسرائيلية على شقة سكنية غرب مدينة دير…]]></title>
             <link>https://t.me/aljazeeraBrk/246375</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 01:00:03 GMT</pubDate>
             <description><![CDATA[ترمب لنيويورك بوست: هدف إسرائيل في إنهاء الجمهورية الإسلامية في إيران ربما يكون قابلا للتحقيق لكنه ليس هدفي]]></description>
             <content:encoded><![CDATA[ترمب لنيويورك بوست: هدف إسرائيل في إنهاء الجمهورية الإسلامية في إيران ربما يكون قابلا للتحقيق لكنه ليس هدفي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[ترمب لنيويورك بوست: هدفي عدم امتلاك إيران سلاحا نوويا ولم أكن يوما مع أو ضد…]]></title>
-            <link>https://t.me/aljazeeraBrk/246173</link>
-            <guid isPermaLink="false">850b6329056e4334d91bae6341bd879663aa94b50f341d821ef20fbcb1a6aa6d</guid>
-            <pubDate>Wed, 25 Nov 2026 00:57:03 GMT</pubDate>
-            <description><![CDATA[ترمب لنيويورك بوست: هدفي عدم امتلاك إيران سلاحا نوويا ولم أكن يوما مع أو ضد تغيير النظام هناك]]></description>
-            <content:encoded><![CDATA[ترمب لنيويورك بوست: هدفي عدم امتلاك إيران سلاحا نوويا ولم أكن يوما مع أو ضد تغيير النظام هناك]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
