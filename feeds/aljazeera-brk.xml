@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 06:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 06:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: استهدفنا مع جهاز الشاباك قياديا في حماس بقطاع غزة الليلة…]]></title>
+            <link>https://t.me/aljazeeraBrk/246392</link>
+            <guid isPermaLink="false">37d19ec7a5b778a643f4b28d092c24bb52f7ba7cc32611e3524ea99adacc1709</guid>
+            <pubDate>Thu, 26 Nov 2026 06:10:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: استهدفنا مع جهاز الشاباك قياديا في حماس بقطاع غزة الليلة الماضية]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: استهدفنا مع جهاز الشاباك قياديا في حماس بقطاع غزة الليلة الماضية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 343…]]></title>
             <link>https://t.me/aljazeeraBrk/246391</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 02:40:02 GMT</pubDate>
             <description><![CDATA[سي إن إن عن محامي هواوي: نتوقع استئناف الحكم في القضية الجنائية الأمريكية ضد شركة هواوي]]></description>
             <content:encoded><![CDATA[سي إن إن عن محامي هواوي: نتوقع استئناف الحكم في القضية الجنائية الأمريكية ضد شركة هواوي]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سي إن إن عن محامي هواوي: تبرئة الشركة من تهمة التآمر لارتكاب جرائم منظمة تؤكد…]]></title>
-            <link>https://t.me/aljazeeraBrk/246190</link>
-            <guid isPermaLink="false">7e9dd630bb1c5622a3c48ac700f8cb93068c5baec2db47dc3edbecfd9b3428a0</guid>
-            <pubDate>Wed, 25 Nov 2026 02:39:02 GMT</pubDate>
-            <description><![CDATA[سي إن إن عن محامي هواوي: تبرئة الشركة من تهمة التآمر لارتكاب جرائم منظمة تؤكد التزامها بحسن النية]]></description>
-            <content:encoded><![CDATA[سي إن إن عن محامي هواوي: تبرئة الشركة من تهمة التآمر لارتكاب جرائم منظمة تؤكد التزامها بحسن النية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
