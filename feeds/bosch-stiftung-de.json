@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "1b335bba8ed585af604072e1e33751b98c678b90825bf41844d53eca0c0d0739",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Kaffee, Kuchen, Tod</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-25T14:57:55+01:00\" title=\"Mittwoch, 25 November 2026 - 14:57\" class=\"datetime\">Mi. 25 Nov 2026 - 14:57</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/kaffee-kuchen-tod",
+            "title": "Kaffee, Kuchen, Tod",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Kaffee, Kuchen, Tod</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-25T14:57:55+01:00\" title=\"Mittwoch, 25 November 2026 - 14:57\" class=\"datetime\">Mi. 25 Nov 2026 - 14:57</time>\n</span>\n",
+            "date_modified": "2026-11-25T13:57:55.000Z",
+            "author": {
+                "name": "Regina Mennig"
+            }
+        },
+        {
             "id": "ce9c4a15fec925d69433a551782e0dbc50f124df8c33b319e4ed25ecc12e97c7",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Mehrheit der Lehrkräfte befürwortet verpflichtende Arbeitszeiterfassung</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-17T10:30:00+01:00\" title=\"Dienstag, 17 November 2026 - 10:30\" class=\"datetime\">Di. 17 Nov 2026 - 10:30</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/presse/mehrheit-der-lehrkraefte-befuerwortet-verpflichtende-arbeitszeiterfassung",
