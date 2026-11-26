@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 05:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 06:07:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 343…]]></title>
+            <link>https://t.me/aljazeeraBrk/246391</link>
+            <guid isPermaLink="false">226f2e41aaceec5a472ff421cb5058e4b7f0684e20801a1e3afaf314c7e404a6</guid>
+            <pubDate>Thu, 26 Nov 2026 06:00:02 GMT</pubDate>
+            <description><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 343 مسيرة أوكرانية]]></description>
+            <content:encoded><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 343 مسيرة أوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصادر في مستشفيات غزة: 5 شهداء في غارات إسرائيلية على مدينتي غزة ودير البلح منذ…]]></title>
             <link>https://t.me/aljazeeraBrk/246390</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 02:39:02 GMT</pubDate>
             <description><![CDATA[سي إن إن عن محامي هواوي: تبرئة الشركة من تهمة التآمر لارتكاب جرائم منظمة تؤكد التزامها بحسن النية]]></description>
             <content:encoded><![CDATA[سي إن إن عن محامي هواوي: تبرئة الشركة من تهمة التآمر لارتكاب جرائم منظمة تؤكد التزامها بحسن النية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[سي إن إن: القضاء في نيويورك يدين هواوي الصينية بتهم خداع بنوك بشأن عملها بإيران…]]></title>
-            <link>https://t.me/aljazeeraBrk/246189</link>
-            <guid isPermaLink="false">63b535bf922d7f102a7a245881e3282ecec1e4ffb4594de87f579ae160dd51a4</guid>
-            <pubDate>Wed, 25 Nov 2026 02:37:02 GMT</pubDate>
-            <description><![CDATA[سي إن إن: القضاء في نيويورك يدين هواوي الصينية بتهم خداع بنوك بشأن عملها بإيران وسرقة أسرار شركات أمريكية]]></description>
-            <content:encoded><![CDATA[سي إن إن: القضاء في نيويورك يدين هواوي الصينية بتهم خداع بنوك بشأن عملها بإيران وسرقة أسرار شركات أمريكية]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
