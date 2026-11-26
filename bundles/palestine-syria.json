@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "e5c12b6228845e16b3cd4350b71169a71da154519dbbaf8340eab5fd5d337f59",
+            "content_html": "<b>الدفاع المدني: </b>وفاة شخصين وإصابة 18 آخرين جراء 19 حادث سير في سوريا أمس الأربعاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143295",
+            "title": "الدفاع المدني: وفاة شخصين وإصابة 18 آخرين جراء 19 حادث سير في سوريا أمس…",
+            "summary": "<b>الدفاع المدني: </b>وفاة شخصين وإصابة 18 آخرين جراء 19 حادث سير في سوريا أمس الأربعاء<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/J4tU44ZmGXzSHaPHjbBqC2LDz6HXbzdXzfMPs--YdmzxBkAHjeh5WzGxpwo42ERK-WOOzmETpPpzxYO-HYG5hKtJK8FwuVPcxgEMj3Wz3KFT2LbOR75Qs94suYT0U30tJEDw80lkpbKyRINK8FZCqfx1sMgRxe0DJZb0jMd1Idqd3E3fWB-qCgtp8bNqCtzLxdV-JFpPzqbJlNM941UuvKyC09KxQo9jVPqE5Pk_FRghNxyyZYOwsYMcWz-uvzGztrIj0sYs_x4lbCwszuOJBny1v0qlmhzgUgZh8YFHyVgALRYncd8IoFD2OW1AT5--RytdrJ-V3MDzoI7RnOcdCA.jpg",
+            "date_modified": "2026-11-26T07:07:45.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "e0e002f6b740894c64ff5a6c94e2dab2e5da4ea6cf7ace22bbae060492ab967c",
             "content_html": "وفاة 31 شخصًا وإصابة 21 آخرين جراء حريق نتج عن انقلاب صهريج وقود في محافظة الجيزة بمصر<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/143294",
@@ -1642,17 +1654,6 @@
             "date_modified": "2026-11-25T14:42:34.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "d386355a1efcaecd9b84f066a43eb44bbeddb72780f5508b38718437c5caed52",
-            "content_html": "القوات الحكومية اليمنية: استهدفنا بالمدفعية تجمعات للحوثيين في تبة السلال شرقي مدينة تعز",
-            "url": "https://t.me/aljazeeraBrk/246276",
-            "title": "القوات الحكومية اليمنية: استهدفنا بالمدفعية تجمعات للحوثيين في تبة السلال شرقي…",
-            "summary": "القوات الحكومية اليمنية: استهدفنا بالمدفعية تجمعات للحوثيين في تبة السلال شرقي مدينة تعز",
-            "date_modified": "2026-11-25T14:39:01.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
             }
         }
     ]
