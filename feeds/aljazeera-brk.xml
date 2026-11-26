@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 03:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 03:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[يونهاب عن القوات الأمريكية في كوريا: حل وحدة الطيران لا تغير من التزام واشنطن…]]></title>
+            <link>https://t.me/aljazeeraBrk/246382</link>
+            <guid isPermaLink="false">156bd73ca0975bbcfc171def0ee2d469351a9096ac6843eb4bc8c66550d96b8c</guid>
+            <pubDate>Thu, 26 Nov 2026 03:40:02 GMT</pubDate>
+            <description><![CDATA[يونهاب عن القوات الأمريكية في كوريا: حل وحدة الطيران لا تغير من التزام واشنطن بالدفاع عن حليفتها الآسيوية]]></description>
+            <content:encoded><![CDATA[يونهاب عن القوات الأمريكية في كوريا: حل وحدة الطيران لا تغير من التزام واشنطن بالدفاع عن حليفتها الآسيوية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وكالة يونهاب الكورية الجنوبية عن القوات الأمريكية في كوريا: حل وحدة طيران تابعة…]]></title>
             <link>https://t.me/aljazeeraBrk/246381</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 02:10:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم التحالف: دمرنا عددا من الأهداف في محافظتي صعدة وعمران]]></description>
             <content:encoded><![CDATA[المتحدث باسم التحالف: دمرنا عددا من الأهداف في محافظتي صعدة وعمران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات على مطار الحديدة الدولي ومديرية…]]></title>
-            <link>https://t.me/aljazeeraBrk/246180</link>
-            <guid isPermaLink="false">f2e6df377f8c64ef7ceeabbfb26854d1926be61892f26fd2b3db63dbf1952fa0</guid>
-            <pubDate>Wed, 25 Nov 2026 01:26:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات على مطار الحديدة الدولي ومديرية الزهرة بالمحافظة فجر اليوم]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارات على مطار الحديدة الدولي ومديرية الزهرة بالمحافظة فجر اليوم]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
