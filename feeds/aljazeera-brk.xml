@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 13:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 13:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الكويتي: الهجوم الإيراني استهدف موقعا حيويا وسقوط شظايا تسبب في إصابة 4…]]></title>
+            <link>https://t.me/aljazeeraBrk/246470</link>
+            <guid isPermaLink="false">efea7e435f1b6d46e8d00ce0343e7abd6c2909fc05a1ff775862e1de88d268af</guid>
+            <pubDate>Thu, 26 Nov 2026 13:05:01 GMT</pubDate>
+            <description><![CDATA[الجيش الكويتي: الهجوم الإيراني استهدف موقعا حيويا وسقوط شظايا تسبب في إصابة 4 أشخاص]]></description>
+            <content:encoded><![CDATA[الجيش الكويتي: الهجوم الإيراني استهدف موقعا حيويا وسقوط شظايا تسبب في إصابة 4 أشخاص]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الجيش الكويتي: القوات المسلحة رصدت اليوم عددا من المسيرات المعادية داخل المجال…]]></title>
             <link>https://t.me/aljazeeraBrk/246469</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 14:27:02 GMT</pubDate>
             <description><![CDATA[بحرية الجيش الإيراني: انفجار وحريق في ناقلة نفط مخالفة إثر اصطدامها بلغم بحري شرقي مضيق هرمز]]></description>
             <content:encoded><![CDATA[بحرية الجيش الإيراني: انفجار وحريق في ناقلة نفط مخالفة إثر اصطدامها بلغم بحري شرقي مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الفضة تكسر حاجز الـ40 دولارا هبوطا وتتراجع بأكثر من 4%]]></title>
-            <link>https://t.me/aljazeeraBrk/246270</link>
-            <guid isPermaLink="false">fdca7d2ae6feea7cc6366cad99423806126ac2b2989d2f5272b2dc198f6dd6ab</guid>
-            <pubDate>Wed, 25 Nov 2026 14:12:02 GMT</pubDate>
-            <description><![CDATA[الفضة تكسر حاجز الـ40 دولارا هبوطا وتتراجع بأكثر من 4%]]></description>
-            <content:encoded><![CDATA[الفضة تكسر حاجز الـ40 دولارا هبوطا وتتراجع بأكثر من 4%]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
