@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 19:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 20:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الجيش الإسرائيلي: الصواريخ والمنصات التي استهدفناها كانت معدة للاستخدام من…]]></title>
+            <link>https://t.me/aljazeeraBrk/246538</link>
+            <guid isPermaLink="false">0008b2c8b804173f185fbbc3a65d42f39c8f1011acccbed22c174c2b79c4eff8</guid>
+            <pubDate>Thu, 26 Nov 2026 20:06:02 GMT</pubDate>
+            <description><![CDATA[الجيش الإسرائيلي: الصواريخ والمنصات التي استهدفناها كانت معدة للاستخدام من حزب_الله ضد قواتنا ومواطنينا]]></description>
+            <content:encoded><![CDATA[الجيش الإسرائيلي: الصواريخ والمنصات التي استهدفناها كانت معدة للاستخدام من حزب_الله ضد قواتنا ومواطنينا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[عراقجي: الحادث بالكويت مريب ويبدو وكأنه تدبير مسبق للحرب ونحن مستعدون للتعاون…]]></title>
             <link>https://t.me/aljazeeraBrk/246537</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 22:54:02 GMT</pubDate>
             <description><![CDATA[شركة وان باسوورد الكندية: الاختراق لجزء من أنظمتنا لم يؤثر في كلمات المرور أو البيانات المخزنة للمستخدمين]]></description>
             <content:encoded><![CDATA[شركة وان باسوورد الكندية: الاختراق لجزء من أنظمتنا لم يؤثر في كلمات المرور أو البيانات المخزنة للمستخدمين]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني خلال اقتحام قوات الاحتلال مخيم قلنديا…]]></title>
-            <link>https://t.me/aljazeeraBrk/246338</link>
-            <guid isPermaLink="false">fdbd3a3f39982c5f91fa0a03825e3b69f40bb4373bd2a31e1be982da2bce95d3</guid>
-            <pubDate>Wed, 25 Nov 2026 22:39:02 GMT</pubDate>
-            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني خلال اقتحام قوات الاحتلال مخيم قلنديا شمال القدس المحتلة]]></description>
-            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة فلسطيني خلال اقتحام قوات الاحتلال مخيم قلنديا شمال القدس المحتلة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
