@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 18:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 18:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارات إسرائيلية تدمر 3 منازل بعد إخلائها من سكانها في حي التفاح…]]></title>
+            <link>https://t.me/aljazeeraBrk/246528</link>
+            <guid isPermaLink="false">de56d87bbe1c0b98cabd0d9cce84c34a0bc70a2a204bb269684d2f4b7149d26d</guid>
+            <pubDate>Thu, 26 Nov 2026 18:14:02 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارات إسرائيلية تدمر 3 منازل بعد إخلائها من سكانها في حي التفاح شرقي مدينة غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارات إسرائيلية تدمر 3 منازل بعد إخلائها من سكانها في حي التفاح شرقي مدينة غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الناطق العسكري باسم أنصار الله الحوثيين: ١٠٩ غارات جوية وصاروخية استهدفت صنعاء…]]></title>
             <link>https://t.me/aljazeeraBrk/246527</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Wed, 25 Nov 2026 20:53:02 GMT</pubDate>
             <description><![CDATA[المتحدث باسم الحكومة العراقية: رواتب موظفي إقليم كردستان بعيدة عن أية خلافات]]></description>
             <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية: رواتب موظفي إقليم كردستان بعيدة عن أية خلافات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[المتحدث باسم الحكومة العراقية: رواتب موظفي إقليم كردستان بعيدة عن أي خلافات]]></title>
-            <link>https://t.me/aljazeeraBrk/246329</link>
-            <guid isPermaLink="false">1aa57dfe51a7a740c5ae145bc8aa633e2b20f2c02c7cbd5a8aaadaed0a3e515d</guid>
-            <pubDate>Wed, 25 Nov 2026 20:53:02 GMT</pubDate>
-            <description><![CDATA[المتحدث باسم الحكومة العراقية: رواتب موظفي إقليم كردستان بعيدة عن أي خلافات]]></description>
-            <content:encoded><![CDATA[المتحدث باسم الحكومة العراقية: رواتب موظفي إقليم كردستان بعيدة عن أي خلافات]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
