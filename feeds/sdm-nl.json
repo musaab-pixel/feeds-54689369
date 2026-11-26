@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"sdm.nl\" (type: native)",
     "items": [
         {
+            "id": "3414d38ddd4394c432f593ef0da465c43e799923f556463802b5209e114081ab",
+            "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen-kopieren/\">Vacature: Senior Programmamaker Evenementen (Kopiëren)</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "url": "https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen-kopieren/",
+            "title": "Vacature: Senior Programmamaker Evenementen (Kopiëren)",
+            "summary": "<p>The post <a href=\"https://sdm.nl/artikel/vacature-senior-programmamaker-evenementen-kopieren/\">Vacature: Senior Programmamaker Evenementen (Kopiëren)</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
+            "date_modified": "2026-11-26T12:03:17.000Z",
+            "author": {
+                "name": "Britt Vansloun"
+            }
+        },
+        {
             "id": "679d74a490b1773d7d556ca7f9868071a8f2b19e32108f24c10978c7244663d3",
             "content_html": "<p>The post <a href=\"https://sdm.nl/artikel/sdm-steunt-kort-geding-tegen-camerabril-van-meta/\">SDM steunt kort geding tegen camerabril van Meta</a> appeared first on <a href=\"https://sdm.nl\">Stichting Democratie en Media</a>.</p>\n",
             "url": "https://sdm.nl/artikel/sdm-steunt-kort-geding-tegen-camerabril-van-meta/",
