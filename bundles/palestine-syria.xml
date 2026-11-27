@@ -4,10 +4,19 @@
         <title>فلسطينيو سوريا — كل المصادر (All Sources)</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "فلسطينيو سوريا — كل المصادر (All Sources)" (type: bundle)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 14:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة مواصي رفح جنوبي قطاع غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/246658</link>
+            <guid isPermaLink="false">821fc517fccb07348cb03251c8677beddc582d8b5f8b72ccfc64304efa933d06</guid>
+            <pubDate>Fri, 27 Nov 2026 15:06:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة مواصي رفح جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة مواصي رفح جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر باكستاني للجزيرة: اجتماع اللجنة السياسية والدفاعية والاستراتيجية لاتفاق…]]></title>
             <link>https://t.me/aljazeeraBrk/246656</link>
@@ -1770,15 +1779,6 @@
             <pubDate>Thu, 26 Nov 2026 18:11:02 GMT</pubDate>
             <description><![CDATA[الخارجية الإيرانية: عراقجي أكد لنظيره الإيطالي الاستعداد للتعاون مع الكويت وإيطاليا للتحقيق في ملابسات الحادث]]></description>
             <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي أكد لنظيره الإيطالي الاستعداد للتعاون مع الكويت وإيطاليا للتحقيق في ملابسات الحادث]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الإيرانية: عراقجي نفى باتصال بنظيره الإيطالي الاتهام بشأن حادث المسيرة…]]></title>
-            <link>https://t.me/aljazeeraBrk/246525</link>
-            <guid isPermaLink="false">1e3cfb41e25e044bb18cccf685c657c31f2b218e840bb99112af7536a16ef6a7</guid>
-            <pubDate>Thu, 26 Nov 2026 18:10:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الإيرانية: عراقجي نفى باتصال بنظيره الإيطالي الاتهام بشأن حادث المسيرة بالكويت وأكد ألا دور لإيران به]]></description>
-            <content:encoded><![CDATA[الخارجية الإيرانية: عراقجي نفى باتصال بنظيره الإيطالي الاتهام بشأن حادث المسيرة بالكويت وأكد ألا دور لإيران به]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

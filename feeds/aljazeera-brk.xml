@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 14:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة مواصي رفح جنوبي قطاع غزة]]></title>
+            <link>https://t.me/aljazeeraBrk/246658</link>
+            <guid isPermaLink="false">821fc517fccb07348cb03251c8677beddc582d8b5f8b72ccfc64304efa933d06</guid>
+            <pubDate>Fri, 27 Nov 2026 15:06:03 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة مواصي رفح جنوبي قطاع غزة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: غارة من مسيرة إسرائيلية على منطقة مواصي رفح جنوبي قطاع غزة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مصدر باكستاني للجزيرة: اجتماع اللجنة السياسية والدفاعية والاستراتيجية لاتفاق…]]></title>
             <link>https://t.me/aljazeeraBrk/246656</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 10:39:02 GMT</pubDate>
             <description><![CDATA[المرشد الإيراني: قوات التعبئة لا تفوت أي فرصة لتوجيه ضربة إلى الأعداء]]></description>
             <content:encoded><![CDATA[المرشد الإيراني: قوات التعبئة لا تفوت أي فرصة لتوجيه ضربة إلى الأعداء]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[القوات الحكومية اليمنية: نفذنا غارات جوية على مواقع لجماعة الحوثي في عزلة…]]></title>
-            <link>https://t.me/aljazeeraBrk/246446</link>
-            <guid isPermaLink="false">2d845f61c75c8ba9268d1fbdaa895d242b900a34ec338a6b1501cea4e7dd2f2d</guid>
-            <pubDate>Thu, 26 Nov 2026 10:24:02 GMT</pubDate>
-            <description><![CDATA[القوات الحكومية اليمنية: نفذنا غارات جوية على مواقع لجماعة الحوثي في عزلة الأقروض في مديرية المسراخ جنوبي تعز]]></description>
-            <content:encoded><![CDATA[القوات الحكومية اليمنية: نفذنا غارات جوية على مواقع لجماعة الحوثي في عزلة الأقروض في مديرية المسراخ جنوبي تعز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
