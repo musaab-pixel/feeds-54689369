@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 01:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 03:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[فوكس نيوز: نحو مليون أمريكي بلا كهرباء جراء عواصف في مختلف أنحاء الولايات…]]></title>
+            <link>https://t.me/aljazeeraBrk/246572</link>
+            <guid isPermaLink="false">2b6a7e6f51aecd5b4e6637c1dd8e8d371cfaaa39b6db5eb1f837834297c40f98</guid>
+            <pubDate>Fri, 27 Nov 2026 03:07:02 GMT</pubDate>
+            <description><![CDATA[فوكس نيوز: نحو مليون أمريكي بلا كهرباء جراء عواصف في مختلف أنحاء الولايات المتحدة]]></description>
+            <content:encoded><![CDATA[فوكس نيوز: نحو مليون أمريكي بلا كهرباء جراء عواصف في مختلف أنحاء الولايات المتحدة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على مديرية الشمايتين في تعز وغارة…]]></title>
             <link>https://t.me/aljazeeraBrk/246571</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 01:31:02 GMT</pubDate>
             <description><![CDATA[البيت الأبيض: وزارة العدل ومكتب التحقيقات الفيدرالي يعلنان الأسبوع المقبل مبادرة جديدة للدفاع السيبراني]]></description>
             <content:encoded><![CDATA[البيت الأبيض: وزارة العدل ومكتب التحقيقات الفيدرالي يعلنان الأسبوع المقبل مبادرة جديدة للدفاع السيبراني]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[البيت الأبيض: ترشيح كيرستن ديفيز لرئاسة مكتب المدير الوطني للأمن السيبراني]]></title>
-            <link>https://t.me/aljazeeraBrk/246371</link>
-            <guid isPermaLink="false">7b0077770901e4af67fce30053a33517c50565bac78ef418785db0d1351a6df8</guid>
-            <pubDate>Thu, 26 Nov 2026 01:30:02 GMT</pubDate>
-            <description><![CDATA[البيت الأبيض: ترشيح كيرستن ديفيز لرئاسة مكتب المدير الوطني للأمن السيبراني]]></description>
-            <content:encoded><![CDATA[البيت الأبيض: ترشيح كيرستن ديفيز لرئاسة مكتب المدير الوطني للأمن السيبراني]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>

@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "2b6a7e6f51aecd5b4e6637c1dd8e8d371cfaaa39b6db5eb1f837834297c40f98",
+            "content_html": "فوكس نيوز: نحو مليون أمريكي بلا كهرباء جراء عواصف في مختلف أنحاء الولايات المتحدة",
+            "url": "https://t.me/aljazeeraBrk/246572",
+            "title": "فوكس نيوز: نحو مليون أمريكي بلا كهرباء جراء عواصف في مختلف أنحاء الولايات…",
+            "summary": "فوكس نيوز: نحو مليون أمريكي بلا كهرباء جراء عواصف في مختلف أنحاء الولايات المتحدة",
+            "date_modified": "2026-11-27T03:07:02.000Z",
+            "author": {
+                "name": "الجزيرة عاجل"
+            }
+        },
+        {
             "id": "e8ab7a6aef9b859b6c89c31ab5a3cdace089b75f0c298ff2bf76e3e197a5fc24",
             "content_html": "وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على مديرية الشمايتين في تعز وغارة على مديرية القبيطة في لحج",
             "url": "https://t.me/aljazeeraBrk/246571",
@@ -1640,17 +1651,6 @@
             "summary": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">جمعت حملة \"الوفاء لأهلنا في غزة\"، التي أطلقها أهالي مخيم خان دنون للاجئين الفلسطينيين بريف دمشق، تبرعات بلغت 23 مليوناً، خُصصت لتنفيذ مشروع لتوفير شوادر عازلة لمياه الأمطار وحماية خيام النازحين في قطاع غزة وترميم المتضرر منها</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وبحسب القائمين على الحملة، جرى تنفيذ مشروع الشوادر لأهالي&nbsp;قطاع غزة بهدف الحد من تسرب مياه الأمطار إلى خيام العائلات النازحة، والتخفيف من معاناتها في مواجهة الأمطار والبرد والظروف الجوية القاسية</span></span></span><span dir=\"LTR\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\">.</span></span></span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span lang=\"AR-SA\" style=\"font-size: 16pt;\"><span style=\"line-height:115%\"><span style=\"font-family:\">وكانت الحملة قد انطلقت خلال تشرين الثاني/نوفمبر الجاري من أمام مساجد مخيم خان دنون، قبل أن تمتد إلى شوارعه وأزقته بهدف توسيع المشاركة المجتمعية وجمع التبرعات لإغاثة سكان قطاع غزة</span></span></span><span dir=\"LTR\" style=\"font-size: 16pt;\"><span style=\"line-height:115%\">.</span></span></p>\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"direction:rtl\"><span style=\"unicode-bidi:embed\"><span lang=\"AR-SA\" style=\"font-size:16.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:\">وجاءت المبادرة في ظل ظروف اقتصادية ومعيشية صعبة يعانيها اللاجئون الفلسطينيون في سوريا، للوقوف إلى جانب أهالي القطاع الذين يعانون جراء موسم الشتاء، وشحّ المستلزمات الاغاثية، بحسب القائمين على الحملة.</span></span></span></span></span></p>",
             "image": "https://refugeesps.net/thumb/620x430/uploads/images/2026/11/aiUG2.jpeg",
             "date_modified": "2026-11-26T10:22:30.149Z"
-        },
-        {
-            "id": "037f00e088cca8204f25652626e5004a4993ce7af262787e14353a71bdfeb93a",
-            "content_html": "الكرملين: الأنشطة الإرهابية لكييف في البحر المتوسط والبلطيق لا بد أن تثير قلق الدول المطلة عليهما والناتو",
-            "url": "https://t.me/aljazeeraBrk/246445",
-            "title": "الكرملين: الأنشطة الإرهابية لكييف في البحر المتوسط والبلطيق لا بد أن تثير قلق…",
-            "summary": "الكرملين: الأنشطة الإرهابية لكييف في البحر المتوسط والبلطيق لا بد أن تثير قلق الدول المطلة عليهما والناتو",
-            "date_modified": "2026-11-26T10:18:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
         }
     ]
 }
