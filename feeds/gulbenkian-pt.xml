@@ -4,7 +4,7 @@
         <title>EMIF - European Media and Information Fund (Gulbenkian)</title>
         <link>https://gulbenkian.pt/</link>
         <description>RSS Factory feed "EMIF - European Media and Information Fund (Gulbenkian)" (type: website)</description>
-        <lastBuildDate>Tue, 24 Nov 2026 11:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 12:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -512,6 +512,218 @@
 			</div>							</li>
 																		</ul>]]></content:encoded>
             <enclosure url="https://gulbenkian.pt/wp-content/uploads/sites/3/2026/05/47_csm_Lorenzo_Viotti_credit_Danielle_van_Coevorden_Dutch_National_Opera_e15479e849_4x3-576x432.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bolsas Bolsas Gulbenkian Investigação em Cultura Portuguesa para Estrangeiros Estas bolsas destinam-se a pós-graduados não portugueses, residentes no estrangeiro, e visam apoiar investigação realizada em Portugal sobre temas da cultura portuguesa, no campo das humanidades. 01 dez 2026 – 29 jan 2027]]></title>
+            <link>https://gulbenkian.pt/bolsas-lista/bolsas-gulbenkian-investigacao-em-cultura-portuguesa/</link>
+            <guid isPermaLink="false">00555c6e93b51adbe31f228feda8746fa93a8e0a5eb6e6dd74c746303a3fda8f</guid>
+            <pubDate>Fri, 29 Jan 2027 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>As bolsas apoiam a realização de pesquisas, em Portugal, nos domínios da literatura, da história e história da arte, com vista à publicação de um artigo científico, uma publicação ou parte de uma publicação, uma tese académica ou parte de uma tese académica.</p>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Uma mensalidade em conformidade com a seguinte informação:<br>
+Doutorando: 1.500€<br>
+Investigadores sénior: 2.000€</li>
+</ul>
+<ul class="list-format-bar">
+	<li>Um valor único de 1.000€ para viagens e despesas de instalação. &nbsp;</li>
+	<li>Um seguro de acidentes pessoais em viagem.</li>
+</ul>
+<p>As bolsas são concedidas por um período mínimo de 2 meses e até um período máximo de 10 meses, não renovável, a utilizar nos anos de 2027 e 2028</p>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>O programa Bolsas Gulbenkian de Investigação sobre Temas da Cultura Portuguesa para Investigadores Internacionais destina-se a doutorandos e investigadores sénior não portugueses que residam no estrangeiro e que pretendam desenvolver pesquisas em Portugal.<strong>&nbsp;</strong></p>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Consulte o Regulamento disponível na zona de documentos e verifique os critérios de elegibilidade, assim como os documentos obrigatórios que devem ser anexados à candidatura.</li>
+	<li>A candidatura é feita através da submissão de um formulário online. Para aceder ao formulário de candidatura é necessário primeiro registar-se no website (consultar o documento Perguntas Frequentes, disponível na secção “Documentos” desta página).</li>
+	<li>Preencha todos os campos obrigatórios para submeter a candidatura, incluindo o carregamento da documentação exigida no regulamento.</li>
+	<li>Evite submeter a sua candidatura nos últimos dias do prazo para prevenir possíveis dificuldades.</li>
+</ul>
+<h2 class="fcg-section__title" id="resultados-2026">
+			<span>Resultados 2026</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-text-lg tw-font-sans tw-mb-3xs">Literatura&nbsp;</p>
+<p>Sofia Morabito, Universidade de Pisa<br>
+Leandro Garcia Rodrigues, Universidade Federal de Minas Gerais</p>
+<p class="tw-text-lg tw-font-sans tw-mb-3xs">História&nbsp;</p>
+<p>Ana Carolina de Carvalho Viotti, Universidade Estadual Paulista<br>
+Hio Iong Wong, Universidade de Hong Kong</p>
+<p class="tw-text-lg tw-font-sans tw-mb-3xs">História&nbsp;da Arte</p>
+<p>Ismael Mont Muñoz, Universidade de Salamanca<br>
+Renata Cristina de Oliveira Miaia Zago Mazzoni Marcato, Universidade Federal de Juiz de Fora</p>
+<h2 class="fcg-section__title" id="contactos">
+			<span>Contactos</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>E-mail: <a href="/cdn-cgi/l/email-protection#a0c2cfccd3c1d3c7d5ccc2c5cecbc9c1cee0c7d5ccc2c5cecbc9c1ce8ed0d4"><span class="__cf_email__" data-cfemail="aeccc1c2ddcfddc9dbc2cccbc0c5c7cfc0eec9dbc2cccbc0c5c7cfc080deda">[email&nbsp;protected]</span></a></p>]]></description>
+            <content:encoded><![CDATA[<p>As bolsas apoiam a realização de pesquisas, em Portugal, nos domínios da literatura, da história e história da arte, com vista à publicação de um artigo científico, uma publicação ou parte de uma publicação, uma tese académica ou parte de uma tese académica.</p>
+<h2 class="fcg-section__title" id="condicoes">
+			<span>Condições</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Uma mensalidade em conformidade com a seguinte informação:<br>
+Doutorando: 1.500€<br>
+Investigadores sénior: 2.000€</li>
+</ul>
+<ul class="list-format-bar">
+	<li>Um valor único de 1.000€ para viagens e despesas de instalação. &nbsp;</li>
+	<li>Um seguro de acidentes pessoais em viagem.</li>
+</ul>
+<p>As bolsas são concedidas por um período mínimo de 2 meses e até um período máximo de 10 meses, não renovável, a utilizar nos anos de 2027 e 2028</p>
+<h2 class="fcg-section__title" id="elegibilidade">
+			<span>Elegibilidade</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>O programa Bolsas Gulbenkian de Investigação sobre Temas da Cultura Portuguesa para Investigadores Internacionais destina-se a doutorandos e investigadores sénior não portugueses que residam no estrangeiro e que pretendam desenvolver pesquisas em Portugal.<strong>&nbsp;</strong></p>
+<h2 class="fcg-section__title" id="como-concorrer">
+			<span>Como concorrer</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<ul class="list-format-bar">
+	<li>Consulte o Regulamento disponível na zona de documentos e verifique os critérios de elegibilidade, assim como os documentos obrigatórios que devem ser anexados à candidatura.</li>
+	<li>A candidatura é feita através da submissão de um formulário online. Para aceder ao formulário de candidatura é necessário primeiro registar-se no website (consultar o documento Perguntas Frequentes, disponível na secção “Documentos” desta página).</li>
+	<li>Preencha todos os campos obrigatórios para submeter a candidatura, incluindo o carregamento da documentação exigida no regulamento.</li>
+	<li>Evite submeter a sua candidatura nos últimos dias do prazo para prevenir possíveis dificuldades.</li>
+</ul>
+<h2 class="fcg-section__title" id="resultados-2026">
+			<span>Resultados 2026</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p class="tw-text-lg tw-font-sans tw-mb-3xs">Literatura&nbsp;</p>
+<p>Sofia Morabito, Universidade de Pisa<br>
+Leandro Garcia Rodrigues, Universidade Federal de Minas Gerais</p>
+<p class="tw-text-lg tw-font-sans tw-mb-3xs">História&nbsp;</p>
+<p>Ana Carolina de Carvalho Viotti, Universidade Estadual Paulista<br>
+Hio Iong Wong, Universidade de Hong Kong</p>
+<p class="tw-text-lg tw-font-sans tw-mb-3xs">História&nbsp;da Arte</p>
+<p>Ismael Mont Muñoz, Universidade de Salamanca<br>
+Renata Cristina de Oliveira Miaia Zago Mazzoni Marcato, Universidade Federal de Juiz de Fora</p>
+<h2 class="fcg-section__title" id="contactos">
+			<span>Contactos</span>
+
+						<button @click="open = ! open" class="button-text fcg-collapse-button tw-text-lg tw-static">
+				<span x-show="open" class="assist">Fechar</span>
+				<span x-show="!open" class="assist">Open</span>
+				<span x-show="open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 89.4l11.3 11.3 208 208 11.3 11.3-22.6 22.6-11.3-11.3-196.7-196.7-196.7 196.7-11.3 11.3-22.6-22.6 11.3-11.3 208-208 11.3-11.3z"></path></svg>
+</span>
+				<span x-show="!open"><svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 448 512" aria-hidden="true">
+		<path d="M224.1 422.6l11.3-11.3 208-208 11.3-11.3-22.6-22.6-11.3 11.3-196.7 196.7-196.7-196.7-11.3-11.3-22.6 22.6 11.3 11.3 208 208 11.3 11.3z"></path></svg>
+</span>
+			</button>
+			
+		</h2>
+<p>E-mail: <a href="/cdn-cgi/l/email-protection#a0c2cfccd3c1d3c7d5ccc2c5cecbc9c1cee0c7d5ccc2c5cecbc9c1ce8ed0d4"><span class="__cf_email__" data-cfemail="aeccc1c2ddcfddc9dbc2cccbc0c5c7cfc0eec9dbc2cccbc0c5c7cfc080deda">[email&nbsp;protected]</span></a></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Concerto Solistas da Orquestra Gulbenkian 25 jan 2027 / 20:00]]></title>
