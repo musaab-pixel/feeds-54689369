@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 15:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 27 غارة على محافظة صعدة منذ فجر اليوم]]></title>
+            <link>https://t.me/aljazeeraBrk/246664</link>
+            <guid isPermaLink="false">b7d17095cca9c9b99e10e895c33d0d3ecbe193e8036fe6ff4927aec0a4161cbf</guid>
+            <pubDate>Fri, 27 Nov 2026 15:42:02 GMT</pubDate>
+            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 27 غارة على محافظة صعدة منذ فجر اليوم]]></description>
+            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 27 غارة على محافظة صعدة منذ فجر اليوم]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني بغزة: شهيد ومصابون نتيجة استهداف مواطنين قرب مسجد معاوية بشارع…]]></title>
             <link>https://t.me/aljazeeraBrk/246663</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 11:13:02 GMT</pubDate>
             <description><![CDATA[منظمة الصحة العالمية: 2361 قتيلا و10982مصابا جراء التصعيد العسكري في اليمن حتى 23 نوفمبر]]></description>
             <content:encoded><![CDATA[منظمة الصحة العالمية: 2361 قتيلا و10982مصابا جراء التصعيد العسكري في اليمن حتى 23 نوفمبر]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[هيئة النزاهة العراقية: فريقان ميدانيان يباشران التحري والتحقيق في ملفات تتعلق…]]></title>
-            <link>https://t.me/aljazeeraBrk/246452</link>
-            <guid isPermaLink="false">fe249293646b93c1d17cdb57d2e2cca1f6c3f8db97471cc0c260fe85bdfc0409</guid>
-            <pubDate>Thu, 26 Nov 2026 11:09:01 GMT</pubDate>
-            <description><![CDATA[هيئة النزاهة العراقية: فريقان ميدانيان يباشران التحري والتحقيق في ملفات تتعلق بالقطاع النفطي]]></description>
-            <content:encoded><![CDATA[هيئة النزاهة العراقية: فريقان ميدانيان يباشران التحري والتحقيق في ملفات تتعلق بالقطاع النفطي]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
