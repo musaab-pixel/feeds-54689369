@@ -4,10 +4,25 @@
         <title>francophonie.org</title>
         <link>https://www.francophonie.org/rss.xml</link>
         <description>RSS Factory feed "francophonie.org" (type: native)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 12:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 12:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Formation certifiante « Leadership des jeunes en environnement multilatéral »]]></title>
+            <link>https://www.francophonie.org/formation-certifiante-leadership-des-jeunes-en-environnement-multilateral-8801</link>
+            <guid isPermaLink="false">08a2762f03b14ef7b59f9708e44d5890f57072ff0e94e0ce7385546bc3453bb5</guid>
+            <pubDate>Fri, 27 Nov 2026 12:28:19 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Formation certifiante « Leadership des jeunes en environnement multilatéral »</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 27/11/2026 - 12:28</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Formation certifiante « Leadership des jeunes en environnement multilatéral »</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>skanderh</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">ven 27/11/2026 - 12:28</span>
+]]></content:encoded>
+            <author>skanderh</author>
+        </item>
         <item>
             <title><![CDATA[Employabilité des jeunes traducteurs et interprètes : renforcer le dialogue entre universités africaines et organisations internationales et régionales]]></title>
             <link>https://www.francophonie.org/employabilite-jeunes-traducteurs-renforcer-dialogue-universites-et-organisations-regionales-8800</link>

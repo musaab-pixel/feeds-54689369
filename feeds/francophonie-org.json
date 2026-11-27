@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "08a2762f03b14ef7b59f9708e44d5890f57072ff0e94e0ce7385546bc3453bb5",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Formation certifiante « Leadership des jeunes en environnement multilatéral »</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 12:28</span>\n",
+            "url": "https://www.francophonie.org/formation-certifiante-leadership-des-jeunes-en-environnement-multilateral-8801",
+            "title": "Formation certifiante « Leadership des jeunes en environnement multilatéral »",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Formation certifiante « Leadership des jeunes en environnement multilatéral »</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 12:28</span>\n",
+            "date_modified": "2026-11-27T12:28:19.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "e2c12ed9ebef6d23419c2e056b9d83dc869fd4075eb39fdf3f9d3603953782e0",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Employabilité des jeunes traducteurs et interprètes : renforcer le dialogue entre universités africaines et organisations internationales et régionales</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 12:10</span>\n",
             "url": "https://www.francophonie.org/employabilite-jeunes-traducteurs-renforcer-dialogue-universites-et-organisations-regionales-8800",
