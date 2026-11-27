@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 05:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 06:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 318 مسيرة أوكرانية]]></title>
+            <link>https://t.me/aljazeeraBrk/246578</link>
+            <guid isPermaLink="false">484a32fe110c0f057b0bbfe6e7607d387383bbc09bc3ad4a50a70340f71ebf61</guid>
+            <pubDate>Fri, 27 Nov 2026 05:55:02 GMT</pubDate>
+            <description><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 318 مسيرة أوكرانية]]></description>
+            <content:encoded><![CDATA[وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 318 مسيرة أوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع الروسية: قصفنا مصنعا في زابوروجيا ينتج مواد كهربائية للقوات الأوكرانية…]]></title>
             <link>https://t.me/aljazeeraBrk/246577</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 03:36:01 GMT</pubDate>
             <description><![CDATA[البيت الأبيض: ترمب والأمين العام للناتو بحثا الحرب الروسية الأوكرانية والصراع في إيران]]></description>
             <content:encoded><![CDATA[البيت الأبيض: ترمب والأمين العام للناتو بحثا الحرب الروسية الأوكرانية والصراع في إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون بغارة إسرائيلية على شقة غرب دير البلح…]]></title>
-            <link>https://t.me/aljazeeraBrk/246378</link>
-            <guid isPermaLink="false">ce8fbe4818debfc8c330541dad03f6f4180879c79205ea9a95397ae5b5d68455</guid>
-            <pubDate>Thu, 26 Nov 2026 03:26:02 GMT</pubDate>
-            <description><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون بغارة إسرائيلية على شقة غرب دير البلح وسط قطاع غزة فجر اليوم الخميس]]></description>
-            <content:encoded><![CDATA[مصدر بمستشفى شهداء الأقصى: شهيدان ومصابون بغارة إسرائيلية على شقة غرب دير البلح وسط قطاع غزة فجر اليوم الخميس]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
