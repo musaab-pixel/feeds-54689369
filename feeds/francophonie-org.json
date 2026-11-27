@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "e2c12ed9ebef6d23419c2e056b9d83dc869fd4075eb39fdf3f9d3603953782e0",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Employabilité des jeunes traducteurs et interprètes : renforcer le dialogue entre universités africaines et organisations internationales et régionales</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 12:10</span>\n",
+            "url": "https://www.francophonie.org/employabilite-jeunes-traducteurs-renforcer-dialogue-universites-et-organisations-regionales-8800",
+            "title": "Employabilité des jeunes traducteurs et interprètes : renforcer le dialogue entre universités africaines et organisations internationales et régionales",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Employabilité des jeunes traducteurs et interprètes : renforcer le dialogue entre universités africaines et organisations internationales et régionales</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 12:10</span>\n",
+            "date_modified": "2026-11-27T12:10:44.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "a4f40142b74ae24365884d41516a987d8e7786660ff236364d46ec1261230363",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Comores : l'OIF et l’Union européenne mobilisent les collectivités territoriales autour des plans locaux de développement durable</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">jeu 26/11/2026 - 12:43</span>\n",
             "url": "https://www.francophonie.org/comores-loif-et-lunion-europeenne-mobilisent-les-collectivites-territoriales-autour-des-plans",
