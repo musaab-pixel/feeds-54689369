@@ -4,10 +4,28 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Fri, 27 Nov 2026 13:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 14:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الحكومة البريطانية: أوقفنا خدمات بوزارة العمل عبر الإنترنت احترازيا بعد اكتشاف…]]></title>
+            <link>https://t.me/aljazeeraBrk/246646</link>
+            <guid isPermaLink="false">15d605cc9461656c082b8029fb47f7fad5d0798377d705a9f916b6872e41f9ae</guid>
+            <pubDate>Fri, 27 Nov 2026 14:17:02 GMT</pubDate>
+            <description><![CDATA[الحكومة البريطانية: أوقفنا خدمات بوزارة العمل عبر الإنترنت احترازيا بعد اكتشاف حادثة أثرت على أنظمتنا]]></description>
+            <content:encoded><![CDATA[الحكومة البريطانية: أوقفنا خدمات بوزارة العمل عبر الإنترنت احترازيا بعد اكتشاف حادثة أثرت على أنظمتنا]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
+        <item>
+            <title><![CDATA[الحكومة البريطانية: انقطاع مؤقت لبعض الخدمات الإلكترونية التابعة لوزارة العمل…]]></title>
+            <link>https://t.me/aljazeeraBrk/246645</link>
+            <guid isPermaLink="false">437c265d5e82fc497bd9d7840ec140a600bd49b51fcfdb80d30f296cbda4b81a</guid>
+            <pubDate>Fri, 27 Nov 2026 14:16:02 GMT</pubDate>
+            <description><![CDATA[الحكومة البريطانية: انقطاع مؤقت لبعض الخدمات الإلكترونية التابعة لوزارة العمل والمعاشات]]></description>
+            <content:encoded><![CDATA[الحكومة البريطانية: انقطاع مؤقت لبعض الخدمات الإلكترونية التابعة لوزارة العمل والمعاشات]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مجمع الشفاء الطبي: شهيد ومصابون في غارة إسرائيلية استهدفت مركبة شمالي مدينة غزة]]></title>
             <link>https://t.me/aljazeeraBrk/246644</link>
@@ -1788,24 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 10:07:02 GMT</pubDate>
             <description><![CDATA[وزارة الصحة في غزة: مستشفيات القطاع استقبلت 19 شهيدا و48 مصابا خلال الساعات الـ24 الماضية]]></description>
             <content:encoded><![CDATA[وزارة الصحة في غزة: مستشفيات القطاع استقبلت 19 شهيدا و48 مصابا خلال الساعات الـ24 الماضية]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الأردنية: البحار الأردني فقد إثر هجوم على ناقلة نفط في مضيق هرمز]]></title>
-            <link>https://t.me/aljazeeraBrk/246434</link>
-            <guid isPermaLink="false">d89f6b3a609621a4ba9dd05b63195a026c8664a9cd86d7ae880e1af1a37e1cb2</guid>
-            <pubDate>Thu, 26 Nov 2026 10:05:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الأردنية: البحار الأردني فقد إثر هجوم على ناقلة نفط في مضيق هرمز]]></description>
-            <content:encoded><![CDATA[الخارجية الأردنية: البحار الأردني فقد إثر هجوم على ناقلة نفط في مضيق هرمز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الخارجية الأردنية: خفر السواحل الإماراتي عثر على جثمان بحار أردني أمس قرب سواحل…]]></title>
-            <link>https://t.me/aljazeeraBrk/246433</link>
-            <guid isPermaLink="false">1f169bac02c7ecc5da22c52c1b9103fc2e098e98d94f5abcc9eafa6557635758</guid>
-            <pubDate>Thu, 26 Nov 2026 10:04:02 GMT</pubDate>
-            <description><![CDATA[الخارجية الأردنية: خفر السواحل الإماراتي عثر على جثمان بحار أردني أمس قرب سواحل رأس الخيمة]]></description>
-            <content:encoded><![CDATA[الخارجية الأردنية: خفر السواحل الإماراتي عثر على جثمان بحار أردني أمس قرب سواحل رأس الخيمة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
