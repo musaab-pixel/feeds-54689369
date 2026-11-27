@@ -4,10 +4,27 @@
         <title>bosch-stiftung.de</title>
         <link>https://www.bosch-stiftung.de/rss.xml</link>
         <description>RSS Factory feed "bosch-stiftung.de" (type: native)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 11:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 14:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[Wie Bewegung Kindern beim Lernen hilft]]></title>
+            <link>https://bosch-stiftung.de/story/wie-bewegung-kindern-beim-lernen-hilft</link>
+            <guid isPermaLink="false">f98ce2e027a39c3ff0e52e8dca288fadc3935a4bc054e95be49c8e2e400890d0</guid>
+            <pubDate>Fri, 27 Nov 2026 07:33:34 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Wie Bewegung Kindern beim Lernen hilft</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-27T08:33:34+01:00" title="Freitag, 27 November 2026 - 08:33" class="datetime">Fr. 27 Nov 2026 - 08:33</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Wie Bewegung Kindern beim Lernen hilft</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-27T08:33:34+01:00" title="Freitag, 27 November 2026 - 08:33" class="datetime">Fr. 27 Nov 2026 - 08:33</time>
+</span>
+]]></content:encoded>
+            <author>Claudia Hagen</author>
+        </item>
         <item>
             <title><![CDATA[Kaffee, Kuchen, Tod]]></title>
             <link>https://bosch-stiftung.de/story/kaffee-kuchen-tod</link>

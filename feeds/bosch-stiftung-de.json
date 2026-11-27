@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"bosch-stiftung.de\" (type: native)",
     "items": [
         {
+            "id": "f98ce2e027a39c3ff0e52e8dca288fadc3935a4bc054e95be49c8e2e400890d0",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wie Bewegung Kindern beim Lernen hilft</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-27T08:33:34+01:00\" title=\"Freitag, 27 November 2026 - 08:33\" class=\"datetime\">Fr. 27 Nov 2026 - 08:33</time>\n</span>\n",
+            "url": "https://bosch-stiftung.de/story/wie-bewegung-kindern-beim-lernen-hilft",
+            "title": "Wie Bewegung Kindern beim Lernen hilft",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">Wie Bewegung Kindern beim Lernen hilft</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Claudia Hagen</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-27T08:33:34+01:00\" title=\"Freitag, 27 November 2026 - 08:33\" class=\"datetime\">Fr. 27 Nov 2026 - 08:33</time>\n</span>\n",
+            "date_modified": "2026-11-27T07:33:34.000Z",
+            "author": {
+                "name": "Claudia Hagen"
+            }
+        },
+        {
             "id": "1b335bba8ed585af604072e1e33751b98c678b90825bf41844d53eca0c0d0739",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Kaffee, Kuchen, Tod</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Regina Mennig</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\"><time datetime=\"2026-11-25T14:57:55+01:00\" title=\"Mittwoch, 25 November 2026 - 14:57\" class=\"datetime\">Mi. 25 Nov 2026 - 14:57</time>\n</span>\n",
             "url": "https://bosch-stiftung.de/story/kaffee-kuchen-tod",

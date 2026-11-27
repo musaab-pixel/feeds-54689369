@@ -4,7 +4,7 @@
         <title>Miftah Funding Bundle 3</title>
         <link>https://miftah.media/</link>
         <description>RSS Factory feed "Miftah Funding Bundle 3" (type: bundle)</description>
-        <lastBuildDate>Thu, 26 Nov 2026 18:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 14:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
@@ -401,6 +401,23 @@
 <i class="i i-navigation"></i></a></p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/58177/oscar-hoppe-_c_-kerstin-schomburg.530x371-hidpi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wie Bewegung Kindern beim Lernen hilft]]></title>
+            <link>https://bosch-stiftung.de/story/wie-bewegung-kindern-beim-lernen-hilft</link>
+            <guid isPermaLink="false">f98ce2e027a39c3ff0e52e8dca288fadc3935a4bc054e95be49c8e2e400890d0</guid>
+            <pubDate>Fri, 27 Nov 2026 07:33:34 GMT</pubDate>
+            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Wie Bewegung Kindern beim Lernen hilft</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-27T08:33:34+01:00" title="Freitag, 27 November 2026 - 08:33" class="datetime">Fr. 27 Nov 2026 - 08:33</time>
+</span>
+]]></description>
+            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Wie Bewegung Kindern beim Lernen hilft</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Claudia Hagen</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-11-27T08:33:34+01:00" title="Freitag, 27 November 2026 - 08:33" class="datetime">Fr. 27 Nov 2026 - 08:33</time>
+</span>
+]]></content:encoded>
+            <author>Claudia Hagen</author>
         </item>
         <item>
             <title><![CDATA[Wissenschaftsfreiheit! Aber wie? Fachtagung legt Fokus auf Kommunikation und Handlungsfähigkeit]]></title>
@@ -5747,23 +5764,6 @@ Hanne Østli Jakobsen i Morgenbladet så på forskningsjournalistiske strategier
 <p>Der Eintritt ist kostenlos, wenn nicht anders angegeben. Alle Veranstaltungsräume öffnen eine halbe Stunde vor Beginn. Bitte beachten Sie den jeweiligen Veranstaltungsort.</p>
 <h3>Teilen &amp; Herunterladen</h3>]]></content:encoded>
             <enclosure url="https://koerber-stiftung.de/site/assets/files/56005/fotoalle-ausschnitt-1-1.530x371-hidpi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal]]></title>
-            <link>https://bosch-stiftung.de/karriere/referent-mwdiv-personalentwicklung-und-kompetenzmanagement-im-bereich-personal-0</link>
-            <guid isPermaLink="false">950f93284ea812f382ed1e1c3b4a60a0da9dfa4fc82a85a66ef430fa2924676e</guid>
-            <pubDate>Fri, 16 Oct 2026 14:02:42 GMT</pubDate>
-            <description><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-16T16:02:42+02:00" title="Freitag, 16 Oktober 2026 - 16:02" class="datetime">Fr. 16 Okt 2026 - 16:02</time>
-</span>
-]]></description>
-            <content:encoded><![CDATA[<span class="field field--name-title field--type-string field--label-hidden">Referent (m/w/div.) Personalentwicklung und Kompetenzmanagement im Bereich Personal</span>
-<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>palasthotel</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-10-16T16:02:42+02:00" title="Freitag, 16 Oktober 2026 - 16:02" class="datetime">Fr. 16 Okt 2026 - 16:02</time>
-</span>
-]]></content:encoded>
-            <author>palasthotel</author>
         </item>
     </channel>
 </rss>
