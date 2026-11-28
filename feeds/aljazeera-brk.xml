@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 05:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 05:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[القوات الحكومية اليمنية: تصدينا لهجوم من جماعة_الحوثي على مواقع الجبهة بمديرية…]]></title>
+            <link>https://t.me/aljazeeraBrk/246738</link>
+            <guid isPermaLink="false">07257146dab29c0ca10b0a54a5b8d50bec08495e5092fd8778f4f4d0f97784be</guid>
+            <pubDate>Sat, 28 Nov 2026 05:29:02 GMT</pubDate>
+            <description><![CDATA[القوات الحكومية اليمنية: تصدينا لهجوم من جماعة_الحوثي على مواقع الجبهة بمديرية المسراخ جنوبي محافظة تعز]]></description>
+            <content:encoded><![CDATA[القوات الحكومية اليمنية: تصدينا لهجوم من جماعة_الحوثي على مواقع الجبهة بمديرية المسراخ جنوبي محافظة تعز]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[رئيس الإدارة العسكرية لمقاطعة زابوروجيا: مقتل شخص وإصابة 5 جراء هجمات روسية…]]></title>
             <link>https://t.me/aljazeeraBrk/246737</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 14:32:02 GMT</pubDate>
             <description><![CDATA[بيان لترمب والأمين العام للناتو: ناقشنا أهمية التوصل إلى حل سلمي للحرب في أوكرانيا في أسرع وقت ممكن]]></description>
             <content:encoded><![CDATA[بيان لترمب والأمين العام للناتو: ناقشنا أهمية التوصل إلى حل سلمي للحرب في أوكرانيا في أسرع وقت ممكن]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب…]]></title>
-            <link>https://t.me/aljazeeraBrk/246480</link>
-            <guid isPermaLink="false">7a0fa2338db355e175202a69ad2eefdda1059a599e8811bd624557672fb91128</guid>
-            <pubDate>Thu, 26 Nov 2026 14:27:02 GMT</pubDate>
-            <description><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب روسيا وأوكرانيا والصراع في إيران]]></description>
-            <content:encoded><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب روسيا وأوكرانيا والصراع في إيران]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
