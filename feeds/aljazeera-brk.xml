@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 05:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 05:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[رئيس الإدارة العسكرية لمقاطعة زابوروجيا: مقتل شخص وإصابة 5 جراء هجمات روسية…]]></title>
+            <link>https://t.me/aljazeeraBrk/246737</link>
+            <guid isPermaLink="false">3fc9bc01850203b60060cd5a9028996b68e9e7eecce6686fb077cb3194882a8d</guid>
+            <pubDate>Sat, 28 Nov 2026 05:10:02 GMT</pubDate>
+            <description><![CDATA[رئيس الإدارة العسكرية لمقاطعة زابوروجيا: مقتل شخص وإصابة 5 جراء هجمات روسية استهدفت المدينة خلال 24 ساعة]]></description>
+            <content:encoded><![CDATA[رئيس الإدارة العسكرية لمقاطعة زابوروجيا: مقتل شخص وإصابة 5 جراء هجمات روسية استهدفت المدينة خلال 24 ساعة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: هجوم يستهدف ناقلات غاز في مثلث السحول…]]></title>
             <link>https://t.me/aljazeeraBrk/246736</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 14:27:02 GMT</pubDate>
             <description><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب روسيا وأوكرانيا والصراع في إيران]]></description>
             <content:encoded><![CDATA[بيان لترمب والأمين العام للناتو: عقدنا أمس اجتماعا مثمرا وتركز النقاش على حرب روسيا وأوكرانيا والصراع في إيران]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[الجيش الكويتي: وفاة المصابين الإيطاليين إثر العدوان الإيراني الذي استهدف أحد…]]></title>
-            <link>https://t.me/aljazeeraBrk/246479</link>
-            <guid isPermaLink="false">e2974a82b10f9aa37f5f50c35cd54caef7ac481b0b2874eb2e324a551de99faf</guid>
-            <pubDate>Thu, 26 Nov 2026 14:17:02 GMT</pubDate>
-            <description><![CDATA[الجيش الكويتي: وفاة المصابين الإيطاليين إثر العدوان الإيراني الذي استهدف أحد المواقع الحيوية بالبلاد]]></description>
-            <content:encoded><![CDATA[الجيش الكويتي: وفاة المصابين الإيطاليين إثر العدوان الإيراني الذي استهدف أحد المواقع الحيوية بالبلاد]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
