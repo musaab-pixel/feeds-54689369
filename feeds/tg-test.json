@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"حلب اليوم — Halab Today TV (Telegram)\" (type: telegram)",
     "items": [
         {
+            "id": "d6663138983c811fe94c51da46231a364303b3427f5b53fbc886aee00107f97d",
+            "content_html": "عضو مجلس الشعب إلهام حنان أحمد تؤدي اليمين الدستورية أمام الرئيس أحمد الشرع في قصر الشعب بدمشق وذلك بحضور رئيس مجلس الشعب عبد الحميد العواك<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143360",
+            "title": "عضو مجلس الشعب إلهام حنان أحمد تؤدي اليمين الدستورية أمام الرئيس أحمد الشرع في…",
+            "summary": "عضو مجلس الشعب إلهام حنان أحمد تؤدي اليمين الدستورية أمام الرئيس أحمد الشرع في قصر الشعب بدمشق وذلك بحضور رئيس مجلس الشعب عبد الحميد العواك<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/K5fhEg2jc25V3qhEH6AaoNKt1GN0NYnb4xUZpbUku6froV3OfvzOcHPrfGjZonb6NWCVV_nQUbDRdCnXTYYJqZQBt-FYVzDY99U8AgnSts7fvRj09LFfwXQ9rMXuv4YzhyCz96pVwNsDXsq8V0Drtobm8zze7XwNSLx7zVrWavO8Q4oIVPNR7p0Y_y42NZ__xzf3aDoWvkM7rSizSjuC4Ue8Ohd8aIFZ2i-AxobFFbJKfPBtlppQsb6qxAOXaHHO0pYymWNV99c5Uxrxvv2N29z7Lz5KKb65oDUq7tFm8-9RyGhIs5-sx-KUMQ1PoixxdtSA8dwbPe4euBTDXcZWDg.jpg",
+            "date_modified": "2026-11-28T18:33:57.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "e7eddd2287a5caec0a4a41b5b9ed74139cd90184120207e93fe3f6c78ab9349f",
             "content_html": "<b>وزارة المالية:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الوزير محمد يسر برنية يستقبل بعثة البنك الدولي الفنية لمشروع تطوير الإدارة المالية الحكومية في ختام زيارتها إلى سوريا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الاجتماع استعرض نتائج اللقاءات الفنية التي عقدها الوفد مع الجهات والمؤسسات المعنية وناقش الخطوات المستقبلية لدعم تنفيذ برامج الإصلاح والتطوير المؤسسي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>الوزير أكد التزام الحكومة بمواصلة الإصلاحات الهادفة إلى تعزيز كفاءة إدارة الموارد العامة وتطوير الأنظمة المالية والارتقاء بمستويات الشفافية والحوكمة وبناء القدرات المؤسسية<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>وفد البنك الدولي أكد استمرار دعمه الفني لجهود وزارة المالية في تنفيذ أجندة الإصلاح مشيداً بالتعاون البنّاء الذي أبدته الجهات الوطنية المعنية خلال الزيارة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "url": "https://t.me/HalabTodayTV/143359",
@@ -2303,17 +2315,6 @@
             "summary": "قوى الأمن الداخلي:<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>القبض على المجرم أحمد طلال رسلان وهو ملازم سابق وأحد المتورطين في مجزرة \"كمين العتيبة\" التي راح ضحيتها أكثر من 150 شهيدا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>التحقيقات كشفت أن رسلان تلقّى الأوامر والخطة من المجرم رواد علي زيدان ونسّق مع ميليشيا \"حزب الله\" الإرهابية لتنفيذ عمليات زرع الألغام على طريق حرّان بريف دمشق وتفجيرها أثناء نزوح الأهالي<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i>التحقيقات أظهرت تورطه في زراعة مئات الألغام المضادة للأفراد والدبابات منذ عام 2016 وحتى التحرير وانضمامه عقب التحرير إلى ميليشيا \"الحركة الوطنية السورية\" التابعة للمجرم غياث دلة ومشاركته في الهجوم على قوى الأمن الداخلي وعناصر وزارة الدفاع في 6 آذار 2025<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
             "image": "https://cdn4.telesco.pe/file/tp84vOjzIEGoPxaAU1hzFeL0sPHBuC89rA-_ZngWZOsSfM_RdoK0zhJBk0Dh4yV3y932egdyn4NsA931p0V73GiY-S6yThdb5Ok_gnu9H2u1_BbiZd2cxSA-gpbK3vurY2cChGzYSRjrWsEm4HAb6jlRowqwj1HsnuJCjUIq15LkxIPWgXxcesDcVvikpNBbYggSkafugeT8Edx_i92pUQnxSxp7wLx0imvqj2IZJRBKlHvuF8QJJaBTcBZFQqlcxvNjupZ9deQ_ur0OtEzkao0Y4vtXpDeuTN0L8F5i0VqybdVEi4aOnzIs7e5Ieo9Jin8IL4hIcEkj3lhwSoRAWA.jpg",
             "date_modified": "2026-11-20T18:59:20.000Z",
-            "author": {
-                "name": "Halab Today TV قناة حلب اليوم"
-            }
-        },
-        {
-            "id": "e410a8954d49ab2e3907e4c0b897ff2d5ad53ac0f743fc6f2c08c8eb826bfcfb",
-            "content_html": "حمص الفداء يفوز على الحرية بنتيجة 3-2 ضمن الجولة السادسة من دوري برايم للمحترفين لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "url": "https://t.me/HalabTodayTV/143150",
-            "title": "حمص الفداء يفوز على الحرية بنتيجة 3-2 ضمن الجولة السادسة من دوري برايم…",
-            "summary": "حمص الفداء يفوز على الحرية بنتيجة 3-2 ضمن الجولة السادسة من دوري برايم للمحترفين لكرة القدم<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
-            "date_modified": "2026-11-20T18:50:30.000Z",
             "author": {
                 "name": "Halab Today TV قناة حلب اليوم"
             }
