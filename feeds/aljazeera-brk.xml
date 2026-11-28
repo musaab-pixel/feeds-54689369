@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 05:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 06:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 1246…]]></title>
+            <link>https://t.me/aljazeeraBrk/246740</link>
+            <guid isPermaLink="false">b295d268f339cc30990f09b1dede661fc22fadb6b8c2ce1fdc01222841b5e4f6</guid>
+            <pubDate>Sat, 28 Nov 2026 05:58:02 GMT</pubDate>
+            <description><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 1246 مسيرة أوكرانية]]></description>
+            <content:encoded><![CDATA[وكالة تاس عن وزارة الدفاع الروسية: دفاعاتنا الجوية أسقطت الليلة الماضية 1246 مسيرة أوكرانية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الإدارة العسكرية بمقاطعة دنيبروبتروفسك الأوكرانية: 5 مصابين في هجوم بمسيرات…]]></title>
             <link>https://t.me/aljazeeraBrk/246739</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 14:33:02 GMT</pubDate>
             <description><![CDATA[رئيس وزراء العراق: هناك من يريد الزج بأبناء شعبنا الكردي في أزمة تهريب النفط لحماية نفوذه وأمواله من الملاحقة]]></description>
             <content:encoded><![CDATA[رئيس وزراء العراق: هناك من يريد الزج بأبناء شعبنا الكردي في أزمة تهريب النفط لحماية نفوذه وأمواله من الملاحقة]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[بيان لترمب والأمين العام للناتو: بحثنا أهمية تجنب روسيا وأوكرانيا أي إجراءات…]]></title>
-            <link>https://t.me/aljazeeraBrk/246481</link>
-            <guid isPermaLink="false">75fe5ab232c4e2b9444769d77d0ec48f08298ce0f81543d10446cb036ffbbb62</guid>
-            <pubDate>Thu, 26 Nov 2026 14:32:02 GMT</pubDate>
-            <description><![CDATA[بيان لترمب والأمين العام للناتو: بحثنا أهمية تجنب روسيا وأوكرانيا أي إجراءات توسع نطاق الحرب]]></description>
-            <content:encoded><![CDATA[بيان لترمب والأمين العام للناتو: بحثنا أهمية تجنب روسيا وأوكرانيا أي إجراءات توسع نطاق الحرب]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
