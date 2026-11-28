@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 11:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 12:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[مراسل الجزيرة: انفجارات في سماء العاصمة الأوكرانية كييف وعمدة المدينة يطالب…]]></title>
+            <link>https://t.me/aljazeeraBrk/246786</link>
+            <guid isPermaLink="false">17d084a7db0c7f0f41d881243a08c31fce5a9b007c743bf05e2f8d25431cd2b1</guid>
+            <pubDate>Sat, 28 Nov 2026 11:54:01 GMT</pubDate>
+            <description><![CDATA[مراسل الجزيرة: انفجارات في سماء العاصمة الأوكرانية كييف وعمدة المدينة يطالب السكان بالبقاء في أماكن آمنة]]></description>
+            <content:encoded><![CDATA[مراسل الجزيرة: انفجارات في سماء العاصمة الأوكرانية كييف وعمدة المدينة يطالب السكان بالبقاء في أماكن آمنة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[الدفاع المدني السعودي: إطلاق إنذار في خميس مشيط وأبها للتحذير من خطر]]></title>
             <link>https://t.me/aljazeeraBrk/246785</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 18:26:02 GMT</pubDate>
             <description><![CDATA[حماس: لم نسمع صوتا لمجلس السلام ونحمله مسؤولية سياسية كبيرة إزاء دماء المدنيين في غزة بفعل جرائم الاحتلال]]></description>
             <content:encoded><![CDATA[حماس: لم نسمع صوتا لمجلس السلام ونحمله مسؤولية سياسية كبيرة إزاء دماء المدنيين في غزة بفعل جرائم الاحتلال]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[مراسل الجزيرة: غارات إسرائيلية تدمر 3 منازل بعد إخلائها من سكانها في حي التفاح…]]></title>
-            <link>https://t.me/aljazeeraBrk/246528</link>
-            <guid isPermaLink="false">de56d87bbe1c0b98cabd0d9cce84c34a0bc70a2a204bb269684d2f4b7149d26d</guid>
-            <pubDate>Thu, 26 Nov 2026 18:14:02 GMT</pubDate>
-            <description><![CDATA[مراسل الجزيرة: غارات إسرائيلية تدمر 3 منازل بعد إخلائها من سكانها في حي التفاح شرقي مدينة غزة]]></description>
-            <content:encoded><![CDATA[مراسل الجزيرة: غارات إسرائيلية تدمر 3 منازل بعد إخلائها من سكانها في حي التفاح شرقي مدينة غزة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
