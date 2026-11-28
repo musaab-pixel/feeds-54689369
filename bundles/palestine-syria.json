@@ -5,6 +5,18 @@
     "description": "RSS Factory feed \"فلسطينيو سوريا — كل المصادر (All Sources)\" (type: bundle)",
     "items": [
         {
+            "id": "4df8ed16dc7d165d3319132a4d083bda1e4e262c216c51326eb4d023c1749c2b",
+            "content_html": "ضمن مبادرة \"رجال الفجر\".. مسجد التل الكبير بريف دمشق يشهد إقبالًا واسعًا من الفتيان والشبان على أداء صلاة الفجر جماعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "url": "https://t.me/HalabTodayTV/143350",
+            "title": "ضمن مبادرة \"رجال الفجر\".. مسجد التل الكبير بريف دمشق يشهد إقبالًا واسعًا من…",
+            "summary": "ضمن مبادرة \"رجال الفجر\".. مسجد التل الكبير بريف دمشق يشهد إقبالًا واسعًا من الفتيان والشبان على أداء صلاة الفجر جماعة<br><br>لمتابعة أحدث الأخبار والتطورات في سوريا انضموا إلينا<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br><a href=\"https://t.me/HalabTodayTV\" target=\"_blank\">@HalabTodayTV</a>",
+            "image": "https://cdn4.telesco.pe/file/rmIj5zTfxqVO5w7L28kHsEWz8_113AzodlrdxwkiZo0y9rfbzNpaDwuO8zgk9oLWI3H4RV4uqA-kR4ZJW4z1BAxlPlv8qU7wfDXnMgC6B8S4Qos2FHpnnpq6yJ84FzJAcTpmayDtlPpmXIqDTn9idKsecX99XbmwEl4bGRV1PVRNQcttdCokWaPY28rna_ruZxQIG660ui7bbIBFgpU_9cbP2ECCl7_qZgTks0ZYqMuxOneAawraryF1DKq1JK1uPmaC1nqtaIeyWE6E23Gv3K1MVFZctIpUmlosruSGX4ZqIVkkAu8bnUN7qFoiXE2UwvTf1EYsCTURaGdC9UBEvg.jpg",
+            "date_modified": "2026-11-28T11:12:07.000Z",
+            "author": {
+                "name": "Halab Today TV قناة حلب اليوم"
+            }
+        },
+        {
             "id": "3334a62e1e0b25da1b03e23732cca1ad3d023d061143edbc756ae6f82e7b5bd6",
             "content_html": "وزارة الصحة في غزة: مستشفيات القطاع استقبلت 18 شهيدا و38 مصابا خلال الساعات الـ48 الماضية",
             "url": "https://t.me/aljazeeraBrk/246779",
@@ -1599,17 +1611,6 @@
             "title": "حماس: ادعاءات الاحتلال بشأن استخدام المستشفى الأهلي المعمداني مركزا للتحقيق…",
             "summary": "حماس: ادعاءات الاحتلال بشأن استخدام المستشفى الأهلي المعمداني مركزا للتحقيق أكاذيب لا أساس لها من الصحة",
             "date_modified": "2026-11-27T11:57:02.000Z",
-            "author": {
-                "name": "الجزيرة عاجل"
-            }
-        },
-        {
-            "id": "163b1bca621f9e691a691a0d75ba9fc23c2d7da26bc1cd884e0d37228eecb119",
-            "content_html": "خلية الإعلام الأمني بالعراق : قيادة عمليات كركوك تضبط عربة محملة بالنفط المهرب من البصرة باتجاه السليمانية",
-            "url": "https://t.me/aljazeeraBrk/246627",
-            "title": "خلية الإعلام الأمني بالعراق : قيادة عمليات كركوك تضبط عربة محملة بالنفط المهرب…",
-            "summary": "خلية الإعلام الأمني بالعراق : قيادة عمليات كركوك تضبط عربة محملة بالنفط المهرب من البصرة باتجاه السليمانية",
-            "date_modified": "2026-11-27T11:42:03.000Z",
             "author": {
                 "name": "الجزيرة عاجل"
             }
