@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 17:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 17:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[وكالة إيسنا الإيرانية: أمين مجلس الأمن القومي الإيراني أجرى محادثات بطهران مع…]]></title>
+            <link>https://t.me/aljazeeraBrk/246827</link>
+            <guid isPermaLink="false">f18ac38e1e19dbe384b328f6a1b316a888685fb6c85583b9ce0354e5dbcbcecd</guid>
+            <pubDate>Sat, 28 Nov 2026 17:44:01 GMT</pubDate>
+            <description><![CDATA[وكالة إيسنا الإيرانية: أمين مجلس الأمن القومي الإيراني أجرى محادثات بطهران مع مستشار الأمن القومي العراقي]]></description>
+            <content:encoded><![CDATA[وكالة إيسنا الإيرانية: أمين مجلس الأمن القومي الإيراني أجرى محادثات بطهران مع مستشار الأمن القومي العراقي]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[المتحدث العسكري باسم أنصار الله الحوثيين: 86 غارة استهدفت أعيانا مدنية في صنعاء…]]></title>
             <link>https://t.me/aljazeeraBrk/246826</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Fri, 27 Nov 2026 01:21:02 GMT</pubDate>
             <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على مديرية الشمايتين في تعز]]></description>
             <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: غارة على مديرية الشمايتين في تعز]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 3 غارات على مديرية المخا في محافظة تعز]]></title>
-            <link>https://t.me/aljazeeraBrk/246569</link>
-            <guid isPermaLink="false">f0e99f32e3804487b9a2f57c81477e8cf6bb88a41a4447b0cb2d14a70aac5a10</guid>
-            <pubDate>Fri, 27 Nov 2026 01:13:02 GMT</pubDate>
-            <description><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 3 غارات على مديرية المخا في محافظة تعز]]></description>
-            <content:encoded><![CDATA[وسائل إعلام تابعة لأنصار الله الحوثيين: 3 غارات على مديرية المخا في محافظة تعز]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
