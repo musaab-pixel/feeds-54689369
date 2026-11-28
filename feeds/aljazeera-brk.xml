@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 13:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 13:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن فلسطيني إثر اعتداء مستوطنين عليه في المالحة…]]></title>
+            <link>https://t.me/aljazeeraBrk/246791</link>
+            <guid isPermaLink="false">8003037d088a73a602d32b5d3ba70ad5da442b91cca7dea87cb19c47507e7c5b</guid>
+            <pubDate>Sat, 28 Nov 2026 13:13:03 GMT</pubDate>
+            <description><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن فلسطيني إثر اعتداء مستوطنين عليه في المالحة قرب بيت لحم جنوبي الضفة]]></description>
+            <content:encoded><![CDATA[الهلال الأحمر الفلسطيني: إصابة مسن فلسطيني إثر اعتداء مستوطنين عليه في المالحة قرب بيت لحم جنوبي الضفة]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[بيان حكومي عراقي: الزيدي يؤكد لماكرون في اتصال مضي حكومته في مكافحة الفساد ومنع…]]></title>
             <link>https://t.me/aljazeeraBrk/246790</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 19:33:02 GMT</pubDate>
             <description><![CDATA[الجيش الإسرائيلي: نفذنا هجوما جويا في عين التينة في لبنان استهدف عشرات الصواريخ ومنصات إطلاق لحزب الله]]></description>
             <content:encoded><![CDATA[الجيش الإسرائيلي: نفذنا هجوما جويا في عين التينة في لبنان استهدف عشرات الصواريخ ومنصات إطلاق لحزب الله]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[التحالف: دمرنا 50 هدفا عسكريا لمليشيا الحوثي بمحافظات صنعاء والحديدة وصعدة]]></title>
-            <link>https://t.me/aljazeeraBrk/246533</link>
-            <guid isPermaLink="false">5a767b4898642997235b1d23cb1d410f53a2c453a0302295d42ef42aeabd4896</guid>
-            <pubDate>Thu, 26 Nov 2026 19:15:02 GMT</pubDate>
-            <description><![CDATA[التحالف: دمرنا 50 هدفا عسكريا لمليشيا  الحوثي بمحافظات صنعاء والحديدة وصعدة]]></description>
-            <content:encoded><![CDATA[التحالف: دمرنا 50 هدفا عسكريا لمليشيا  الحوثي بمحافظات صنعاء والحديدة وصعدة]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
