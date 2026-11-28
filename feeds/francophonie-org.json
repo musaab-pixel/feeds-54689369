@@ -5,6 +5,17 @@
     "description": "RSS Factory feed \"francophonie.org\" (type: native)",
     "items": [
         {
+            "id": "3d0f62095fa05956e77287ffbf373f99e55918a9fcf0e412f52e66fbc2a2ebb7",
+            "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">État civil au Cameroun : l’OIF mise sur les femmes</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 18:12</span>\n",
+            "url": "https://www.francophonie.org/etat-civil-au-cameroun-l-oif-mise-sur-les-femmes-8802",
+            "title": "État civil au Cameroun : l’OIF mise sur les femmes",
+            "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">État civil au Cameroun : l’OIF mise sur les femmes</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 18:12</span>\n",
+            "date_modified": "2026-11-27T18:12:36.000Z",
+            "author": {
+                "name": "skanderh"
+            }
+        },
+        {
             "id": "08a2762f03b14ef7b59f9708e44d5890f57072ff0e94e0ce7385546bc3453bb5",
             "content_html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Formation certifiante « Leadership des jeunes en environnement multilatéral »</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>skanderh</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">ven 27/11/2026 - 12:28</span>\n",
             "url": "https://www.francophonie.org/formation-certifiante-leadership-des-jeunes-en-environnement-multilateral-8801",
