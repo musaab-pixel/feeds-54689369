@@ -4,10 +4,19 @@
         <title>الجزيرة عاجل (Telegram)</title>
         <link>https://t.me/s/aljazeeraBrk</link>
         <description>RSS Factory feed "الجزيرة عاجل (Telegram)" (type: telegram)</description>
-        <lastBuildDate>Sat, 28 Nov 2026 12:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 12:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>rss-factory</generator>
         <language>ar</language>
+        <item>
+            <title><![CDATA[التحالف: الدفاع الجوي السعودي اعترض صاروخين باليستيين أطلقتهما مليشيا الحوثي…]]></title>
+            <link>https://t.me/aljazeeraBrk/246787</link>
+            <guid isPermaLink="false">dc9dd18db4ca2954b8c708469f3e6dc05b3760f91d75e24747f03768e06a69d4</guid>
+            <pubDate>Sat, 28 Nov 2026 12:23:02 GMT</pubDate>
+            <description><![CDATA[التحالف: الدفاع الجوي السعودي اعترض صاروخين باليستيين أطلقتهما مليشيا الحوثي الإرهابية نحو المنطقة الجنوبية]]></description>
+            <content:encoded><![CDATA[التحالف: الدفاع الجوي السعودي اعترض صاروخين باليستيين أطلقتهما مليشيا الحوثي الإرهابية نحو المنطقة الجنوبية]]></content:encoded>
+            <author>الجزيرة عاجل</author>
+        </item>
         <item>
             <title><![CDATA[مراسل الجزيرة: انفجارات في سماء العاصمة الأوكرانية كييف وعمدة المدينة يطالب…]]></title>
             <link>https://t.me/aljazeeraBrk/246786</link>
@@ -1797,15 +1806,6 @@
             <pubDate>Thu, 26 Nov 2026 18:26:02 GMT</pubDate>
             <description><![CDATA[حماس: تصريح كاتس بشأن مواصلة الاغتيالات وتهديده بإخلاء مدينة غزة يؤكد نية الاحتلال ضرب جهود تنفيذ التفاهمات]]></description>
             <content:encoded><![CDATA[حماس: تصريح كاتس بشأن مواصلة الاغتيالات وتهديده بإخلاء مدينة غزة يؤكد نية الاحتلال ضرب جهود تنفيذ التفاهمات]]></content:encoded>
-            <author>الجزيرة عاجل</author>
-        </item>
-        <item>
-            <title><![CDATA[حماس: لم نسمع صوتا لمجلس السلام ونحمله مسؤولية سياسية كبيرة إزاء دماء المدنيين…]]></title>
-            <link>https://t.me/aljazeeraBrk/246530</link>
-            <guid isPermaLink="false">98ae54172fab52b81a80bfe61acbd5b21ef4abc8987886ee178d851b971219d0</guid>
-            <pubDate>Thu, 26 Nov 2026 18:26:02 GMT</pubDate>
-            <description><![CDATA[حماس: لم نسمع صوتا لمجلس السلام ونحمله مسؤولية سياسية كبيرة إزاء دماء المدنيين في غزة بفعل جرائم الاحتلال]]></description>
-            <content:encoded><![CDATA[حماس: لم نسمع صوتا لمجلس السلام ونحمله مسؤولية سياسية كبيرة إزاء دماء المدنيين في غزة بفعل جرائم الاحتلال]]></content:encoded>
             <author>الجزيرة عاجل</author>
         </item>
     </channel>
